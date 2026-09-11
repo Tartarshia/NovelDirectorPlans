@@ -3,6 +3,20 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "merit-accounting-v03-c0281",
+      "kind": "accounting_omission_or_ambiguity",
+      "evidence": [
+        "v03-c0277:p0066",
+        "v03-c0281:p0006",
+        "v03-c0281:p0060",
+        "v03-c0281:p0061",
+        "v03-c0281:p0066"
+      ],
+      "source_word": "四新人全活奖励规则与1170总额、捆仙绳各500及升兵600",
+      "state": "unresolved_source_issue",
+      "director_handling": "保存原文账目；四活按规则应200但未叙到账，孟绳分摊不明，不能把1170减600当确认最终余额。"
+    },
+    {
       "id": "zhao-heng-target-v03-c0254",
       "kind": "possible_name_typo",
       "evidence": [
