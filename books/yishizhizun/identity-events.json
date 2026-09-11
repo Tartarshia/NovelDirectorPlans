@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0277",
+  "through_chapter": "v03-c0279",
   "events": [
+    {
+      "type": "artifact_delivered",
+      "entity": "mustard_seed_ring",
+      "reference": "v03-c0278:p0004",
+      "fact_status": "云中子查金离报酬实到开启"
+    },
+    {
+      "type": "appraisal",
+      "entity": "true_emperor_seal",
+      "reference": "v03-c0278:p0009",
+      "fact_status": "外景稀缺5000可原售但未卖"
+    },
+    {
+      "type": "appraisal",
+      "entity": "human_sovereign_sword_scrap",
+      "reference": "v03-c0278:p0010",
+      "fact_status": "确废料标3500售1300未卖未用"
+    },
+    {
+      "type": "appraisal",
+      "entity": "vajra_seal",
+      "reference": "v03-c0278:p0016",
+      "fact_status": "1050缺谱原价未兑换"
+    },
+    {
+      "type": "character_introduced",
+      "entity": "yuan_yang",
+      "reference": "v03-c0278:p0044",
+      "fact_status": "南荒胎记红衣少女蓄气"
+    },
+    {
+      "type": "character_introduced",
+      "entity": "min_ren_long",
+      "reference": "v03-c0278:p0047",
+      "fact_status": "太岳眼窍黑衣长剑想扬名"
+    },
+    {
+      "type": "character_introduced",
+      "entity": "weng_ling_yu",
+      "reference": "v03-c0278:p0050",
+      "fact_status": "江东镖女蓄气不愿早嫁困城"
+    },
+    {
+      "type": "character_introduced",
+      "entity": "wu_xiu_xian",
+      "reference": "v03-c0278:p0052",
+      "fact_status": "中州小派嫡眼窍判官笔欲捕头"
+    },
+    {
+      "type": "mission_assigned",
+      "entity": "fu_cuo",
+      "reference": "v03-c0278:p0060",
+      "fact_status": "新人七日刺铁心香主别离魔剑"
+    },
+    {
+      "type": "poisoning",
+      "entity": "four_newcomers",
+      "reference": "v03-c0279:p0051",
+      "fact_status": "软筋散四瘫孟无恙未解"
+    },
+    {
+      "type": "defensive_demonstration",
+      "entity": "meng_qi",
+      "reference": "v03-c0279:p0064",
+      "fact_status": "眼皮抵匕刃卷后咬剑对方指折未主动杀"
+    },
     {
       "type": "past_duels_reported",
       "entity": "gao_lan",
