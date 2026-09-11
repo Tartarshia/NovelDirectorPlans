@@ -1,7 +1,91 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0327",
+  "through_chapter": "v03-c0329",
   "events": [
+    {
+      "type": "brother_identified",
+      "entity": "su_zihua",
+      "reference": "v03-c0328:p0010",
+      "fact_status": "大兄引扫墓隐疾偶狂本段未发作"
+    },
+    {
+      "type": "grave_visit_completed",
+      "entity": "meng_qi",
+      "reference": "v03-c0328:p0019",
+      "fact_status": "实拜唐墓真谢余荫"
+    },
+    {
+      "type": "warning_received",
+      "entity": "su_yue",
+      "reference": "v03-c0328:p0022",
+      "fact_status": "苏子华警小心五叔未给理由"
+    },
+    {
+      "type": "elder_identified",
+      "entity": "bai_jingluo",
+      "reference": "v03-c0328:p0031",
+      "fact_status": "苏离母白家嫡女八旬貌不衰"
+    },
+    {
+      "type": "causality_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v03-c0329:p0018",
+      "fact_status": "推肉身未偿因果阻突破尚未查旧屋"
+    },
+    {
+      "type": "employment_confirmed",
+      "entity": "zhong_taiping",
+      "reference": "v03-c0329:p0026",
+      "fact_status": "已阮客卿亦在神都未证外景"
+    },
+    {
+      "type": "unconfirmed_sighting",
+      "entity": "duan_rui",
+      "reference": "v03-c0329:p0034",
+      "fact_status": "钟维年前长川疑背影未确认"
+    },
+    {
+      "type": "reported_cultivation",
+      "entity": "zhenhui",
+      "reference": "v03-c0329:p0038",
+      "fact_status": "据说七窍内景初成人榜前20"
+    },
+    {
+      "type": "invitation_motive",
+      "entity": "ruan_yushu",
+      "reference": "v03-c0329:p0057",
+      "fact_status": "特选孟归苏日护友"
+    },
+    {
+      "type": "official_identity",
+      "entity": "wang_wenxian",
+      "reference": "v03-c0329:p0061",
+      "fact_status": "王载父参政兼户部尚书"
+    },
+    {
+      "type": "arrival_pending",
+      "entity": "wang_zai",
+      "reference": "v03-c0329:p0066",
+      "fact_status": "正赶来神都欲赴宴"
+    },
+    {
+      "type": "death_reported",
+      "entity": "escort_leader_jiang",
+      "reference": "v03-c0329:p0078",
+      "fact_status": "王报旧友总镖头死城外凶手似罗灭"
+    },
+    {
+      "type": "protection_offered",
+      "entity": "gu_changqing",
+      "reference": "v03-c0329:p0082",
+      "fact_status": "王允尽快找顾送府尚未送"
+    },
+    {
+      "type": "ambush_begun",
+      "entity": "nine_heavens_thunder_god",
+      "reference": "v03-c0329:p0095",
+      "fact_status": "树旁神话外景面具人紫雷五刀吞岸孟未应招"
+    },
     {
       "type": "name_and_title",
       "entity": "zhao_yi",
