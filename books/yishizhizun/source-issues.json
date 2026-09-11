@@ -1,0 +1,642 @@
+{
+  "schema_version": 1,
+  "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
+  "issues": [
+    {
+      "id": "zhao-heng-target-v03-c0254",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v03-c0254:p0037",
+        "v03-c0254:p0040"
+      ],
+      "source_word": "赵恒 / 赵毅",
+      "state": "unresolved_source_issue",
+      "director_handling": "宴刺目标晋王赵毅，保源误字不新增赵恒来宴。"
+    },
+    {
+      "id": "ci-fu-title-v03-c0250",
+      "kind": "title_variation",
+      "evidence": [
+        "v03-c0250:p0012",
+        "v03-c0250:p0016"
+      ],
+      "source_word": "赐福天官 / 赐福天宫",
+      "state": "unresolved_source_issue",
+      "director_handling": "同一神话袭齐者异字保留，不拆两名追兵。"
+    },
+    {
+      "id": "yu-zi-shou-name-v03-c0236",
+      "kind": "name_variation",
+      "evidence": [
+        "v03-c0236:p0003",
+        "v03-c0236:p0014"
+      ],
+      "source_word": "郁子寿 / 郁之寿",
+      "state": "unresolved_source_issue",
+      "director_handling": "同一玉面飞龙的字形异称保原不新增两人。"
+    },
+    {
+      "id": "zhang-mu-ye-threshold-v03-c0233",
+      "kind": "item_effect_threshold_conflict",
+      "evidence": [
+        "v03-c0216:p0057",
+        "v03-c0233:p0035"
+      ],
+      "source_word": "外景三重天以下难见 / 外景四重天以下难见",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留两处原文不自动升效；本次只实证初外景洗月未见三人，道具一次实耗。"
+    },
+    {
+      "id": "wang-catcher-apertures-v03-c0173",
+      "kind": "cultivation_description_conflict",
+      "evidence": [
+        "v03-c0170:p0052",
+        "v03-c0173:p0015"
+      ],
+      "source_word": "九窍之中的好手 / 不过八窍",
+      "context_candidate": "前群众介绍王捕头与林保之皆九窍后旁白王八林九",
+      "state": "unresolved_source_issue",
+      "director_handling": "保两处原文与说话层级，不假造掉境；当场按173王八应战，前述标转述差异。"
+    },
+    {
+      "id": "qing-shu-name-v03-c0167",
+      "kind": "item_name_variation",
+      "evidence": [
+        "v03-c0165:p0066",
+        "v03-c0167:p0069"
+      ],
+      "source_word": "东华青书 / 东阳青书",
+      "context_candidate": "同一青册分配时异名",
+      "state": "unresolved_source_issue",
+      "director_handling": "保持原文两称校注同物不新增第二书。"
+    },
+    {
+      "id": "taiyin-manual-name-v03-c0142",
+      "kind": "technique_name_variation",
+      "evidence": [
+        "v03-c0141:p0061",
+        "v03-c0142:p0061"
+      ],
+      "source_word": "太阴荡魔真诀 / 太阴荡魔真解",
+      "context_candidate": "连续同一玉碑功法称谓有异",
+      "state": "unresolved_source_issue",
+      "director_handling": "保原名称并列同一拓本不编两部功法或更换所得。"
+    },
+    {
+      "id": "qiu-breakthrough-timeline-v03-c0134",
+      "kind": "cultivation_timeline_inconsistency",
+      "evidence": [
+        "v03-c0117:p0003",
+        "v03-c0134:p0059"
+      ],
+      "source_word": "四十岁出头新晋半步 / 三十六岁打破生死玄关",
+      "context_candidate": "新晋措辞或年份存在不一致",
+      "state": "unresolved_source_issue",
+      "director_handling": "保两原述不编退境重破，当前邱为半步。"
+    },
+    {
+      "id": "chapter-heading-v03-c0134",
+      "kind": "chapter_number_inconsistency",
+      "evidence": [
+        "v03-c0134:p0001"
+      ],
+      "source_word": "第一百三十三章 分头行动",
+      "context_candidate": "顺序134章",
+      "state": "unresolved_source_issue",
+      "director_handling": "原题保留稳定id v03-c0134避免与上篇重号。"
+    },
+    {
+      "id": "chapter-heading-v03-c0122",
+      "kind": "chapter_number_inconsistency",
+      "evidence": [
+        "v03-c0122:p0001"
+      ],
+      "source_word": "文件标题第一百二十一章 疯子",
+      "context_candidate": "顺序为第一百二十二章",
+      "state": "unresolved_source_issue",
+      "director_handling": "原标题不改，以稳定id v03-c0122定位避免与山岳天降重号。"
+    },
+    {
+      "id": "place-typo-v03-c0114",
+      "kind": "possible_place_typo",
+      "evidence": [
+        "v03-c0114:p0001",
+        "v03-c0114:p0010",
+        "v03-c0114:p0028"
+      ],
+      "source_word": "华洲阳泰",
+      "context_candidate": "阳夏",
+      "state": "unresolved_source_issue",
+      "director_handling": "同案同城主体阳夏，此孤处阳泰保原校注不新增城或行程。"
+    },
+    {
+      "id": "settlement-arithmetic-v03-c0110",
+      "kind": "arithmetic_inconsistency",
+      "evidence": [
+        "v03-c0110:p0050",
+        "v03-c0110:p0051",
+        "v03-c0110:p0053"
+      ],
+      "source_word": "14170减200再200再200后四人均分3380",
+      "context_candidate": "按明列支出应13570除4为3392.5，原实际合计13520差50",
+      "state": "unresolved_source_issue",
+      "director_handling": "保原每人加奖励4380作后续余额，不擅扣新增50手续费或改原算式。"
+    },
+    {
+      "id": "cultivation-qi-bingxue-v03-c0102",
+      "kind": "cultivation_wording_inconsistency",
+      "evidence": [
+        "v03-c0090:p0062",
+        "v03-c0102:p0051"
+      ],
+      "source_word": "浑天前四层大成 / 碧冰雪即将大成",
+      "context_candidate": "保持两处原话不编退功",
+      "state": "unresolved_source_issue",
+      "director_handling": "当前具体碧冰雪近大成与早前总述并列待校，不据此给齐额外突破。"
+    },
+    {
+      "id": "typo-v03-c0099-p0004",
+      "kind": "possible_character_typo",
+      "evidence": [
+        "v03-c0099:p0004"
+      ],
+      "source_word": "相当于解决半步外景的水准",
+      "context_candidate": "接近半步外景",
+      "state": "unresolved_source_issue",
+      "director_handling": "按上下文威力受限理解，不能读成每音解决击杀半步，原字待校。"
+    },
+    {
+      "id": "name-v03-c0089-p0003",
+      "kind": "inconsistent_technique_name",
+      "evidence": [
+        "v03-c0089:p0003",
+        "v03-c0080:p0002"
+      ],
+      "source_word": "赤月剑法 / 赤阳剑法",
+      "context_candidate": "金进贤赤阳剑法",
+      "state": "unresolved_source_issue",
+      "director_handling": "同一已战剑法不新增赤月传承，保原字待校。"
+    },
+    {
+      "id": "direction-v03-c0088-p0021",
+      "kind": "possible_character_typo",
+      "evidence": [
+        "v03-c0088:p0021",
+        "v03-c0088:p0024"
+      ],
+      "source_word": "刺向左剑",
+      "context_candidate": "刺向左肩",
+      "state": "unresolved_source_issue",
+      "director_handling": "后段明确左肩中剑据以走动作，不构造另刺左手木剑，源字待校。"
+    },
+    {
+      "id": "timeline-v03-c0085-wang-ce-return",
+      "kind": "possible_character_timeline_inconsistency",
+      "evidence": [
+        "v03-c0085:p0030",
+        "v03-c0085:p0048",
+        "v03-c0085:p0049"
+      ],
+      "source_word": "孔昱、王策等人回来 / 王策奔了过来问秀眉何在",
+      "context_candidate": "前段随追归人可能误列王策",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留原文两处，不擅造王策已追门知情再装不知；以末段如厕归问明确心理为准，前处名单待校。"
+    },
+    {
+      "id": "name-truncated-v03-c0084-p0013",
+      "kind": "possible_truncated_name",
+      "evidence": [
+        "v03-c0084:p0013"
+      ],
+      "source_word": "顾小的手指",
+      "context_candidate": "顾小桑的手指",
+      "state": "unresolved_source_issue",
+      "director_handling": "按连续动作同一顾小桑处理非新顾小角色，原文不改。"
+    },
+    {
+      "id": "typo-v03-c0079-p0050",
+      "kind": "possible_character_typo",
+      "evidence": [
+        "v03-c0079:p0050"
+      ],
+      "source_word": "退开窗户",
+      "context_candidate": "推开窗户",
+      "state": "unresolved_source_issue",
+      "director_handling": "依随后跃出理解开窗动作，保留源字待校。"
+    },
+    {
+      "id": "typo-v03-c0076-p0029",
+      "kind": "possible_character_typo",
+      "evidence": [
+        "v03-c0076:p0029"
+      ],
+      "source_word": "呻吟声听",
+      "context_candidate": "呻吟声停",
+      "state": "unresolved_source_issue",
+      "director_handling": "依过阵开门语境理解声音停歇，保留原文字形待校。"
+    },
+    {
+      "id": "name-v03-c0074-bai-liang-school",
+      "kind": "inconsistent_name_spelling",
+      "evidence": [
+        "v03-c0074:p0031",
+        "v03-c0074:p0033"
+      ],
+      "source_word": "桓中武馆 / 恒中武馆",
+      "context_candidate": "白亮所属同一武馆",
+      "state": "unresolved_source_issue",
+      "director_handling": "不拆成两馆，保留原文字形待校。"
+    },
+    {
+      "id": "speaker-v03-c0071-p0050",
+      "kind": "possible_speaker_name_typo",
+      "evidence": [
+        "v03-c0071:p0048",
+        "v03-c0071:p0049",
+        "v03-c0071:p0050"
+      ],
+      "source_word": "何暮不偏不倚地叮嘱",
+      "context_candidate": "何馆主何业",
+      "state": "unresolved_source_issue",
+      "director_handling": "承接馆主问弟子答，训诫内容归馆主待校，不写何暮自训或改原文。"
+    },
+    {
+      "id": "cultivation-v03-c0070-p0053",
+      "kind": "cultivation_state_inconsistency",
+      "evidence": [
+        "v03-c0063:p0080",
+        "v03-c0070:p0053"
+      ],
+      "source_word": "第六关圆满 / 愈发接近圆满",
+      "context_candidate": "半年后金钟状态前后不一致",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留两处原文，整体六窍凝口穴明确，不虚构金钟退境或修炼事故。"
+    },
+    {
+      "id": "school-v03-c0070-p0071",
+      "kind": "school_name_variation",
+      "evidence": [
+        "v03-c0070:p0033",
+        "v03-c0070:p0071"
+      ],
+      "source_word": "青锋武馆 / 青峰武馆",
+      "context_candidate": "何业同一武馆名称异字",
+      "state": "unresolved_source_issue",
+      "director_handling": "同对门何业武馆记录，不新建两个学校，原文不改。"
+    },
+    {
+      "id": "weapon-rank-v03-c0058-p0034",
+      "kind": "weapon_rank_wording_variation",
+      "evidence": [
+        "v03-c0058:p0034",
+        "v03-c0049:p0060"
+      ],
+      "source_word": "镇族神兵沧澜刀",
+      "context_candidate": "此前唐等四家镇族宝兵",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留神兵原词，不由此认沧澜已是法身神兵等级，待后文确证。"
+    },
+    {
+      "id": "mission-v03-c0045-p0060",
+      "kind": "mission_mode_inconsistency",
+      "evidence": [
+        "v03-c0043:p0028",
+        "v03-c0045:p0060"
+      ],
+      "source_word": "这次单人任务 / 这次我和齐师兄是协作任务",
+      "context_candidate": "江本轮任务方式表述不一致",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留两次原话，不凭空补不同任务；私托场只呈她在协作中观察齐有心事。"
+    },
+    {
+      "id": "cultivation-v03-c0043-p0049",
+      "kind": "possible_word_typo",
+      "evidence": [
+        "v03-c0043:p0049",
+        "v03-c0041:p0085",
+        "v03-c0044:p0052",
+        "v03-c0046:p0005"
+      ],
+      "source_word": "金钟罩第六关解决圆满",
+      "context_candidate": "接近圆满",
+      "state": "unresolved_source_issue",
+      "director_handling": "后文第46章明确接近圆满，继续近满不据疑字判已满；原文保留。"
+    },
+    {
+      "id": "title-v03-c0037-duplicate38",
+      "kind": "chapter_number_mismatch",
+      "evidence": [
+        "v03-c0037:p0001",
+        "v03-c0038:p0001"
+      ],
+      "source_word": "第三十八章 老狐狸与小狐狸",
+      "context_candidate": "连续索引第三卷第37篇",
+      "state": "unresolved_source_issue",
+      "director_handling": "本篇源标题编号38，下篇也38，保持EPUB顺序id不虚构缺失篇章。"
+    },
+    {
+      "id": "sect-v03-c0002-p0023",
+      "kind": "possible_sect_name_typo",
+      "evidence": [
+        "v03-c0002:p0023",
+        "v03-c0002:p0020"
+      ],
+      "source_word": "秦州剑派",
+      "context_candidate": "秦山剑派",
+      "state": "unresolved_source_issue",
+      "director_handling": "同段关系叙述指同派，保留原文疑字不新增秦州另一门派。"
+    },
+    {
+      "id": "injury-v02-c0060-p0080",
+      "kind": "body_side_inconsistency",
+      "evidence": [
+        "v02-c0060:p0011",
+        "v02-c0060:p0078",
+        "v02-c0060:p0080"
+      ],
+      "source_word": "右胸受刀/左襟左胸显伤",
+      "context_candidate": "同一胸伤侧别待校勘",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留深胸伤及露伤威慑，不默增第二刀伤，不自动改原侧别。"
+    },
+    {
+      "id": "weapon-v02-c0052-p0009",
+      "kind": "possible_weapon_name_inconsistency",
+      "evidence": [
+        "v02-c0052:p0009",
+        "v02-c0051:p0047"
+      ],
+      "source_word": "斩马刀",
+      "context_candidate": "弯刀",
+      "state": "unresolved_source_issue",
+      "director_handling": "元此前佩弯刀，雷后写斩马刀裂，保留原文异称，不移给王弘也不增新兵器。"
+    },
+    {
+      "id": "move-v02-c0045-p0056",
+      "kind": "possible_move_name_typo",
+      "evidence": [
+        "v02-c0045:p0056"
+      ],
+      "source_word": "阳光三叠浪",
+      "context_candidate": "阳关三叠浪",
+      "state": "unresolved_source_issue",
+      "director_handling": "同段前后异字，按同一沈搏命三剑秘籍记录，原文不改，不新增两招。"
+    },
+    {
+      "id": "target-v02-c0041-p0060",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v02-c0041:p0060",
+        "v02-c0041:p0056",
+        "v02-c0042:p0016"
+      ],
+      "source_word": "真定、玄悲",
+      "context_candidate": "真慧、玄悲",
+      "state": "unresolved_source_issue",
+      "director_handling": "委托打探对象按上下文是失踪师弟与师父，保留原字校勘，不另造主动打探自己身份的行动。"
+    },
+    {
+      "id": "move-v02-c0038-p0055",
+      "kind": "possible_move_name_inconsistency",
+      "evidence": [
+        "v02-c0038:p0026",
+        "v02-c0038:p0055",
+        "v02-c0038:p0073"
+      ],
+      "source_word": "断清净",
+      "context_candidate": "落红尘",
+      "state": "unresolved_source_issue",
+      "director_handling": "该一刀前述滚滚红尘且前章以落红尘热身；保留原文异名，不额外虚构两刀。p73落红尘为未用后手，不单凭它确定更名。"
+    },
+    {
+      "id": "name-v02-c0032-p0014",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v02-c0032:p0014",
+        "v02-c0032:p0015",
+        "v02-c0032:p0017"
+      ],
+      "source_word": "段明诚",
+      "context_candidate": "段向非",
+      "state": "unresolved_source_issue",
+      "director_handling": "接老段圆话与段向非回应，保留校勘不自动改源。"
+    },
+    {
+      "id": "poison-v02-c0029-p0026",
+      "kind": "possible_title_typo",
+      "evidence": [
+        "v02-c0029:p0026",
+        "v02-c0029:p0041"
+      ],
+      "source_word": "悲酸清风",
+      "context_candidate": "悲酥清风",
+      "state": "unresolved_source_issue",
+      "director_handling": "同一拟兑毒药，不新增另物。"
+    },
+    {
+      "id": "chapter-number-v02-c0026-c0027",
+      "kind": "heading_number_discrepancy",
+      "evidence": [
+        "v02-c0026:p0001",
+        "v02-c0027:p0001"
+      ],
+      "source_word": "c25入山与c26门后均标第二十五章，c27魔坟崩标第二十六章，c28回第二十八章",
+      "state": "unresolved_source_issue",
+      "director_handling": "按EPUB顺序稳定章节ID，不漏读或合并重复编号。"
+    },
+    {
+      "id": "name-v02-c0024-p0037",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v02-c0024:p0037",
+        "v02-c0024:p0041"
+      ],
+      "source_word": "小紫想得到的就是它",
+      "context_candidate": "小桑想得到的就是它",
+      "state": "unresolved_source_issue",
+      "director_handling": "说话者小紫在解释小桑目标，保留称谓疑点，不以此推新人格关系。"
+    },
+    {
+      "id": "companion-v02-c0028-p0012",
+      "kind": "continuity_discrepancy",
+      "evidence": [
+        "v02-c0028:p0012",
+        "v02-c0023:p0042",
+        "v02-c0023:p0044"
+      ],
+      "source_word": "云消失于天尊身旁",
+      "context_candidate": "前文云与人尊同行、苏与天尊同行",
+      "state": "unresolved_source_issue",
+      "director_handling": "未见换队叙述，留校勘不擅改人尊天尊实体。"
+    },
+    {
+      "id": "technique-v02-c0021-p0064",
+      "kind": "possible_title_typo",
+      "evidence": [
+        "v02-c0021:p0064",
+        "v02-c0013:p0015"
+      ],
+      "source_word": "神行八步",
+      "context_candidate": "神行百变",
+      "state": "unresolved_source_issue",
+      "director_handling": "既有轻功语境不同名，保留原书不新增已兑换功法。"
+    },
+    {
+      "id": "name-v02-c0016-p0061",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v02-c0016:p0061",
+        "v02-c0016:p0057"
+      ],
+      "source_word": "陈曦",
+      "context_candidate": "陈潇",
+      "state": "unresolved_source_issue",
+      "director_handling": "同场陈潇和罗友；源文保留，勿增陈曦角色。"
+    },
+    {
+      "id": "word-v02-c0008-p0049",
+      "kind": "possible_word_typo",
+      "evidence": [
+        "v02-c0008:p0049",
+        "v02-c0008:p0042"
+      ],
+      "source_word": "求教",
+      "context_candidate": "求救",
+      "state": "unresolved_source_issue",
+      "director_handling": "现场血字求救语境；保存原文，勿误演为请求学艺。"
+    },
+    {
+      "id": "name-v01-c0082-p0022",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v01-c0082:p0022",
+        "v01-c0082:p0024"
+      ],
+      "source_word": "玄苦师叔",
+      "context_candidate": "玄空师叔",
+      "state": "unresolved_source_issue",
+      "director_handling": "在场问话玄空；不凭误植增玄苦到场。"
+    },
+    {
+      "id": "name-v01-c0082-p0023",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v01-c0082:p0023",
+        "v01-c0082:p0018"
+      ],
+      "source_word": "真妙这个解释",
+      "context_candidate": "真慧这个解释",
+      "state": "unresolved_source_issue",
+      "director_handling": "前述解围由真慧提出；保留源文并标校勘。"
+    },
+    {
+      "id": "technique-yijin-spelling",
+      "kind": "possible_title_typo",
+      "evidence": [
+        "v01-c0080:p0040",
+        "v01-c0081:p0001",
+        "v01-c0081:p0006"
+      ],
+      "source_word": "易经锻骨篇",
+      "context_candidate": "易筋锻骨篇",
+      "state": "unresolved_source_issue",
+      "director_handling": "同一九阴篇章不同写法，勿另造功法或混为少林易筋经。"
+    },
+    {
+      "id": "name-v01-c0072-p0062",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v01-c0072:p0062"
+      ],
+      "source_word": "丁道古",
+      "context_candidate": "宁道古",
+      "state": "unresolved_source_issue",
+      "director_handling": "四英同场语境，保留源文校勘，不另增丁姓角色。"
+    },
+    {
+      "id": "body_count-v01-c0068",
+      "kind": "count_discrepancy",
+      "evidence": [
+        "v01-c0068:p0003",
+        "v01-c0068:p0004"
+      ],
+      "state": "unresolved_source_issue",
+      "note": "正文称九具，列举四名已知加另四人合计八；不能凭空补第九人。",
+      "director_handling": "保留数量原词，不按差额增角色。"
+    },
+    {
+      "id": "epithet-jin_ancheng",
+      "kind": "epithet_discrepancy",
+      "evidence": [
+        "v01-c0061:p0004",
+        "v01-c0061:p0019"
+      ],
+      "source_words": [
+        "阎罗追命手",
+        "阎罗追魂手"
+      ],
+      "state": "unresolved_source_issue",
+      "director_handling": "同人外号两种写法，保留原文，勿拆为两角色。"
+    },
+    {
+      "id": "name-v01-c0055-p0016",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v01-c0055:p0015",
+        "v01-c0055:p0016",
+        "v01-c0055:p0017"
+      ],
+      "source_word": "望向真永",
+      "context_candidate": "望向真慧",
+      "state": "unresolved_source_issue",
+      "director_handling": "此句随后说该人专心看真永，语境应指身旁真慧；保留源文并单独标记，不凭误植改变实体关系。"
+    },
+    {
+      "id": "name-v01-c0050-p0019",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v01-c0050:p0019"
+      ],
+      "source_word": "孟秋",
+      "context_candidate": "孟奇",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留原文，当前叙述主体仍孟奇，不新增孟秋角色。"
+    },
+    {
+      "id": "name-v01-c0026-p0040",
+      "kind": "possible_name_typo",
+      "evidence": [
+        "v01-c0026:p0040",
+        "v01-c0026:p0018",
+        "v01-c0026:p0056"
+      ],
+      "source_word": "真永",
+      "context_candidate": "真妙",
+      "note": "此段考虑下一次对练，前后对手为真妙；原文仍保留真永。这不是第45段故意自称真永的玩笑。",
+      "state": "unresolved_source_issue",
+      "director_handling": "属于孟奇内心，不因提及名字改变说话人。"
+    },
+    {
+      "id": "duration-zhen_guan",
+      "kind": "timeline_discrepancy",
+      "evidence": [
+        "v01-c0007:p0059",
+        "v01-c0023:p0057"
+      ],
+      "note": "先说这七年来没见人出杂役院，后哭诉五年未报仇；可能计时起点不同，也可能文本不一致，现有证据不足以定论。",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留两处原词；wiki不固化单一入寺年数。"
+    },
+    {
+      "id": "age-zhang_yuanshan",
+      "kind": "estimated_vs_reported_age",
+      "evidence": [
+        "v01-c0007:p0028",
+        "v01-c0032:p0061"
+      ],
+      "note": "首次孟奇目测十七八岁，当地魏无忌说十九岁；来源不同，暂不视为必然矛盾。",
+      "state": "source_qualified",
+      "director_handling": "维持青年成熟声线，不据此骤然换演员或虚构生日。"
+    }
+  ]
+}
