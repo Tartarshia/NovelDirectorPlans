@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0267",
+  "through_chapter": "v03-c0269",
   "events": [
+    {
+      "type": "character_role_confirmed",
+      "entity": "gong_yang_hao",
+      "reference": "v03-c0268:p0039",
+      "fact_status": "八风剑剑庄外事长老守兴云"
+    },
+    {
+      "type": "realm_breakthrough",
+      "entity": "he_jiu",
+      "reference": "v03-c0268:p0083",
+      "fact_status": "九窍直外景青雷劫已渡"
+    },
+    {
+      "type": "realm_breakthrough",
+      "entity": "wang_si_yuan",
+      "reference": "v03-c0268:p0083",
+      "fact_status": "九窍直外景借残雷过阴火仍咳"
+    },
+    {
+      "type": "name_revealed",
+      "entity": "wei_gao",
+      "reference": "v03-c0269:p0010",
+      "fact_status": "太子贴身宦官非晋冯"
+    },
+    {
+      "type": "departure",
+      "entity": "jiang_zhi_wei",
+      "reference": "v03-c0269:p0025",
+      "fact_status": "随洪离庄拟返山未已达"
+    },
+    {
+      "type": "tribulation_warning",
+      "entity": "meng_qi",
+      "reference": "v03-c0269:p0027",
+      "fact_status": "王警近日劫不详"
+    },
+    {
+      "type": "masked_attackers_seen",
+      "entity": "myth_group",
+      "reference": "v03-c0269:p0055",
+      "fact_status": "山岳北斗西王母袭太子读者镜头"
+    },
+    {
+      "type": "masked_attacker_seen",
+      "entity": "great_freedom_son_of_heaven",
+      "reference": "v03-c0269:p0060",
+      "fact_status": "半步魔影天魔功面具身份未摘"
+    },
+    {
+      "type": "relic_saves_and_signal_sent",
+      "entity": "zhao_qian",
+      "reference": "v03-c0269:p0071",
+      "fact_status": "舍利护身抵极乐得机会发信未死"
+    },
+    {
+      "type": "rescuers_depart",
+      "entity": "qian_he_gong_yang",
+      "reference": "v03-c0269:p0076",
+      "fact_status": "钱何公羊飞山援太子"
+    },
+    {
+      "type": "threat_suspected",
+      "entity": "wolf_king",
+      "reference": "v03-c0269:p0090",
+      "fact_status": "孟拔刀黑幕起疑狼未确认"
+    },
     {
       "type": "strategy_changed",
       "entity": "meng_qi",
