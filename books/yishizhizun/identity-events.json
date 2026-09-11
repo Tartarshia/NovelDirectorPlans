@@ -1,7 +1,91 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0337",
+  "through_chapter": "v03-c0339",
   "events": [
+    {
+      "type": "item_consumed",
+      "entity": "jiushu_bijie_talisman",
+      "reference": "v03-c0338:p0006",
+      "fact_status": "替钻心钉一劫灰碎不再库存"
+    },
+    {
+      "type": "assailant_identified",
+      "entity": "nine_heavens_thunder_god",
+      "reference": "v03-c0338:p0009",
+      "fact_status": "孟认钻心钉袭雷神"
+    },
+    {
+      "type": "full_transformation_used",
+      "entity": "qingyuan_miaodao",
+      "reference": "v03-c0338:p0047",
+      "fact_status": "十丈法天象地两头四臂仍挡不住齐王"
+    },
+    {
+      "type": "item_seized",
+      "entity": "zhao_wuyan",
+      "reference": "v03-c0338:p0069",
+      "fact_status": "握住斗姆抛出的仙迹半圣皇令"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "zhao_mingche",
+      "reference": "v03-c0338:p0073",
+      "fact_status": "飞龙神捕赵氏宗师"
+    },
+    {
+      "type": "injury_severe",
+      "entity": "doumu_yuanjun",
+      "reference": "v03-c0338:p0088",
+      "fact_status": "藏柴房称重伤后药两日静养"
+    },
+    {
+      "type": "real_identity_revealed",
+      "entity": "ye_yuqi",
+      "reference": "v03-c0339:p0018",
+      "fact_status": "斗姆寒冰仙子画眉叶玉琦"
+    },
+    {
+      "type": "family_relationship",
+      "entity": "ye_yuqi",
+      "reference": "v03-c0339:p0027",
+      "fact_status": "称陆大姐夫"
+    },
+    {
+      "type": "protective_potential",
+      "entity": "lu_da_wood_carving",
+      "reference": "v03-c0339:p0035",
+      "fact_status": "叶还雕孟嘱或救命未揭机制"
+    },
+    {
+      "type": "real_identity_revealed",
+      "entity": "yuan_lihuo",
+      "reference": "v03-c0339:p0043",
+      "fact_status": "广成即血牙后互验饰品"
+    },
+    {
+      "type": "tracking_token_transferred",
+      "entity": "yuan_lihuo",
+      "reference": "v03-c0339:p0056",
+      "fact_status": "孟实交叶摄顾气符一枚另一自留"
+    },
+    {
+      "type": "office_suspended",
+      "entity": "su_li",
+      "reference": "v03-c0339:p0061",
+      "fact_status": "暂止副帅职待宴后不碍孟赴宴"
+    },
+    {
+      "type": "identity_exposed",
+      "entity": "liu_shuyu",
+      "reference": "v03-c0339:p0077",
+      "fact_status": "顾点玄女传人应身柳惊问怎知"
+    },
+    {
+      "type": "child_unidentified",
+      "entity": "unknown_little_girl",
+      "reference": "v03-c0339:p0080",
+      "fact_status": "屏后叫娘身份亲缘仍未知"
+    },
     {
       "type": "promotion_completed",
       "entity": "meng_qi",
