@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0301",
+  "through_chapter": "v03-c0303",
   "events": [
+    {
+      "type": "records_recovered",
+      "entity": "meng_qi",
+      "reference": "v03-c0302:p0032",
+      "fact_status": "衣冠冢书已取得护书硬抗机关"
+    },
+    {
+      "type": "location_clue",
+      "entity": "wuyou_valley",
+      "reference": "v03-c0302:p0044",
+      "fact_status": "旧书考区域今瀚海播密未入口"
+    },
+    {
+      "type": "journey_confirmed",
+      "entity": "sikong_family",
+      "reference": "v03-c0302:p0050",
+      "fact_status": "母子已无惊南下未抵宗"
+    },
+    {
+      "type": "follows_challenger",
+      "entity": "shangguan_heng",
+      "reference": "v03-c0302:p0056",
+      "fact_status": "防刀未成怕日后找不到而跟孟"
+    },
+    {
+      "type": "method_devised",
+      "entity": "meng_qi",
+      "reference": "v03-c0303:p0017",
+      "fact_status": "浅比大能传承法招天地认识"
+    },
+    {
+      "type": "paths_understood",
+      "entity": "meng_qi",
+      "reference": "v03-c0303:p0048",
+      "fact_status": "初辨八九不灭菩提根路未修成或最终选定"
+    },
+    {
+      "type": "invitation_pending",
+      "entity": "unknown_thinker",
+      "reference": "v03-c0303:p0059",
+      "fact_status": "上官提思天地奇人住危险处未名未答"
+    },
     {
       "type": "cultivation_report",
       "entity": "xuan_zhen",
