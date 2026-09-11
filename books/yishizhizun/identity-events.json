@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0289",
+  "through_chapter": "v03-c0291",
   "events": [
+    {
+      "type": "name_confirmed",
+      "entity": "zeng_shen",
+      "reference": "v03-c0290:p0058",
+      "fact_status": "红衣二哥在认信物段实名曾参"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "du_huai_shang",
+      "reference": "v03-c0290:p0060",
+      "fact_status": "密室男子自认杜怀伤，玉佩核实援者"
+    },
+    {
+      "type": "curse_removed",
+      "entity": "du_huai_shang",
+      "reference": "v03-c0290:p0106",
+      "fact_status": "合力驱蛊断联系后仍需两日恢复"
+    },
+    {
+      "type": "name_confirmed",
+      "entity": "zhou_yong",
+      "reference": "v03-c0291:p0021",
+      "fact_status": "教主首次实名周永"
+    },
+    {
+      "type": "treasure_held",
+      "entity": "zhou_yong",
+      "reference": "v03-c0291:p0035",
+      "fact_status": "敌方密议确有对外景秘宝未名未用"
+    },
+    {
+      "type": "plan_revised",
+      "entity": "main_party",
+      "reference": "v03-c0291:p0062",
+      "fact_status": "最终孟绳周江速杀而非初案绳左"
+    },
     {
       "type": "reincarnator_identity_confirmed",
       "entity": "sect_leader_lan_die",
