@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0281",
+  "through_chapter": "v03-c0283",
   "events": [
+    {
+      "type": "local_misidentification",
+      "entity": "five_party_members",
+      "reference": "v03-c0282:p0008",
+      "fact_status": "被红衣当九天上师孟顺话非真神侍"
+    },
+    {
+      "type": "local_rank_report",
+      "entity": "du_huai_shang_zuo_han_feng",
+      "reference": "v03-c0282:p0039",
+      "fact_status": "均地9左血脉神通更强"
+    },
+    {
+      "type": "contact_named",
+      "entity": "guo_sheng",
+      "reference": "v03-c0282:p0042",
+      "fact_status": "郭瘸子杜远亲红扶富商未见"
+    },
+    {
+      "type": "character_identified",
+      "entity": "ji_tao",
+      "reference": "v03-c0283:p0001",
+      "fact_status": "人2本地亲兵副将蒋盛洪信重"
+    },
+    {
+      "type": "bloodline_counter",
+      "entity": "meng_qi",
+      "reference": "v03-c0283:p0028",
+      "fact_status": "紫雷痕压纪血雷助精神审讯赵观察"
+    },
+    {
+      "type": "whereabouts_report",
+      "entity": "du_huai_shang",
+      "reference": "v03-c0283:p0040",
+      "fact_status": "受夜袭重伤逃藏城未被擒"
+    },
+    {
+      "type": "identity_report",
+      "entity": "yin_leng_hui",
+      "reference": "v03-c0283:p0047",
+      "fact_status": "本地档街核隐教左使两伴实力未知"
+    },
+    {
+      "type": "execution_after_interrogation",
+      "entity": "ji_tao",
+      "reference": "v03-c0283:p0052",
+      "fact_status": "孟审后刺眉心杀已封重伤俘"
+    },
+    {
+      "type": "strategy_changed",
+      "entity": "main_party",
+      "reference": "v03-c0283:p0056",
+      "fact_status": "先杀左解困仍需查三异"
+    },
+    {
+      "type": "impersonation_prepared",
+      "entity": "meng_qi_as_ji_tao",
+      "reference": "v03-c0283:p0067",
+      "fact_status": "换衣变脸真自伤掩细差未入府"
+    },
     {
       "type": "concealed_immunity_revealed",
       "entity": "yuan_yang",
