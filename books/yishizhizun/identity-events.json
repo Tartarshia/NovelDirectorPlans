@@ -1,7 +1,97 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0291",
+  "through_chapter": "v03-c0295",
   "events": [
+    {
+      "type": "limb_lost",
+      "entity": "zhao_heng",
+      "reference": "v03-c0292:p0037",
+      "fact_status": "自斩左臂齐肩止蛊未恢复"
+    },
+    {
+      "type": "item_used",
+      "entity": "binding_rope",
+      "reference": "v03-c0292:p0049",
+      "fact_status": "孟抛一次绳锁周神气肉"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "zhou_yong",
+      "reference": "v03-c0292:p0073",
+      "fact_status": "江刺神孟五雷毁体断祖降临"
+    },
+    {
+      "type": "items_obtained",
+      "entity": "meng_qi",
+      "reference": "v03-c0292:p0078",
+      "fact_status": "裂芥子环与阴阳镜仿品未即时解禁"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "yin_leng_hui",
+      "reference": "v03-c0293:p0072",
+      "fact_status": "阮赵齐夹杀神冰碎魔气主动退原因未揭"
+    },
+    {
+      "type": "escape",
+      "entity": "lan_die",
+      "reference": "v03-c0293:p0075",
+      "fact_status": "知周持镜恐左败逃入人海"
+    },
+    {
+      "type": "bone_fracture",
+      "entity": "jiang_zhi_wei",
+      "reference": "v03-c0294:p0024",
+      "fact_status": "右手断骨改左手持剑"
+    },
+    {
+      "type": "item_destroyed",
+      "entity": "yin_yang_mirror_imitation",
+      "reference": "v03-c0294:p0041",
+      "fact_status": "照左换螭龙相镜碎相灭"
+    },
+    {
+      "type": "cultivation_confirmed",
+      "entity": "zhao_heng",
+      "reference": "v03-c0294:p0052",
+      "fact_status": "正文已然天人合一"
+    },
+    {
+      "type": "temporary_reconstitution",
+      "entity": "zuo_han_feng",
+      "reference": "v03-c0294:p0070",
+      "fact_status": "五雷碎体后重凝并非最终死"
+    },
+    {
+      "type": "item_used",
+      "entity": "zhao_small_seal",
+      "reference": "v03-c0295:p0023",
+      "fact_status": "九金龙印破左纹重创神未叙是否毁"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "jiang_sheng_hong",
+      "reference": "v03-c0295:p0055",
+      "fact_status": "队友接力孟雷刀斩首"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "zuo_han_feng",
+      "reference": "v03-c0295:p0059",
+      "fact_status": "杜金乌抱焚彻融留龙爪"
+    },
+    {
+      "type": "trophy_loan",
+      "entity": "dragon_claw_weapon",
+      "reference": "v03-c0295:p0066",
+      "fact_status": "赵拾后借孟示证慑兵未定永久分配"
+    },
+    {
+      "type": "return_triggered",
+      "entity": "main_party",
+      "reference": "v03-c0295:p0091",
+      "fact_status": "齐杜出城后雷返其余消失未见广场结算"
+    },
     {
       "type": "name_confirmed",
       "entity": "zeng_shen",

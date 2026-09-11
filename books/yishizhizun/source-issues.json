@@ -3,6 +3,17 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "du-recovery-estimate-v03-c0293",
+      "kind": "viewpoint_estimate_variation",
+      "evidence": [
+        "v03-c0291:p0025",
+        "v03-c0293:p0051"
+      ],
+      "source_word": "尹先估至少七八成，交战时称只恢复六七成",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留两处估值与交战时点，不统一为精确恢复率；杜伤未全复且战中继续重创。"
+    },
+    {
       "id": "merit-accounting-v03-c0281",
       "kind": "accounting_omission_or_ambiguity",
       "evidence": [
