@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0273",
+  "through_chapter": "v03-c0275",
   "events": [
+    {
+      "type": "location_reached",
+      "entity": "true_long_tai",
+      "reference": "v03-c0274:p0005",
+      "fact_status": "高指湖为真龙台非吴郡新台城"
+    },
+    {
+      "type": "artifact_borrowed",
+      "entity": "true_emperor_seal",
+      "reference": "v03-c0274:p0026",
+      "fact_status": "高实招玺到手开路非出售"
+    },
+    {
+      "type": "strength_trial",
+      "entity": "meng_qi",
+      "reference": "v03-c0274:p0040",
+      "fact_status": "古道总三步半高解压"
+    },
+    {
+      "type": "residue_identified",
+      "entity": "dong_yang",
+      "reference": "v03-c0274:p0053",
+      "fact_status": "高辨青木太阳痕非活人"
+    },
+    {
+      "type": "death_account",
+      "entity": "fifth_xuan_nu",
+      "reference": "v03-c0274:p0056",
+      "fact_status": "高述带绝刀回后自毁孟修旧推"
+    },
+    {
+      "type": "residue_identified",
+      "entity": "shu_sheng",
+      "reference": "v03-c0275:p0007",
+      "fact_status": "高认江东王祖数圣痕"
+    },
+    {
+      "type": "residue_inferred",
+      "entity": "ananda",
+      "reference": "v03-c0275:p0026",
+      "fact_status": "孟耳叹认阿难高同推无真意"
+    },
+    {
+      "type": "search_unsuccessful",
+      "entity": "human_sovereign_sword",
+      "reference": "v03-c0275:p0057",
+      "fact_status": "首次持玺诱剑久无异"
+    },
+    {
+      "type": "unknown_object_retained",
+      "entity": "gao_lan",
+      "reference": "v03-c0275:p0066",
+      "fact_status": "火中长铁条高不识留己"
+    },
+    {
+      "type": "reward_received",
+      "entity": "meng_qi",
+      "reference": "v03-c0275:p0068",
+      "fact_status": "疙瘩高判铸剑余料借玺酬实接价值未鉴"
+    },
     {
       "type": "medicine_consumed",
       "entity": "meng_qi",
