@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0341",
+  "through_chapter": "v03-c0343",
   "events": [
+    {
+      "type": "name_confirmed",
+      "entity": "zhao_mingyu",
+      "reference": "v03-c0342:p0009",
+      "fact_status": "当今大晋皇帝"
+    },
+    {
+      "type": "official_identity",
+      "entity": "gao_jinzhong",
+      "reference": "v03-c0342:p0017",
+      "fact_status": "大内总管目刺元神未定层阶"
+    },
+    {
+      "type": "aura_alert",
+      "entity": "gu_xiaosang",
+      "reference": "v03-c0342:p0021",
+      "fact_status": "太极殿出门顾符持续热无真身"
+    },
+    {
+      "type": "alert_delivered",
+      "entity": "yuan_lihuo",
+      "reference": "v03-c0342:p0035",
+      "fact_status": "孟展符指宫袁接讯"
+    },
+    {
+      "type": "cultivation_confirmed",
+      "entity": "xuanzhen",
+      "reference": "v03-c0342:p0050",
+      "fact_status": "半步下榜现太子旁"
+    },
+    {
+      "type": "banquet_attendance",
+      "entity": "team_of_four",
+      "reference": "v03-c0342:p0059",
+      "fact_status": "孟赵齐阮皆在玉林迎驾队"
+    },
+    {
+      "type": "cultivation_nearing",
+      "entity": "wang_zai",
+      "reference": "v03-c0342:p0065",
+      "fact_status": "近天人合一尚未圆满"
+    },
+    {
+      "type": "cultivation_confirmed",
+      "entity": "zhao_heng",
+      "reference": "v03-c0343:p0003",
+      "fact_status": "明确同样完美半步"
+    },
+    {
+      "type": "contest_rules",
+      "entity": "qionghua_banquet",
+      "reference": "v03-c0343:p0001",
+      "fact_status": "排外景以上半步可参四题首艺"
+    },
+    {
+      "type": "object_presented",
+      "entity": "emperor_wood_portrait",
+      "reference": "v03-c0343:p0081",
+      "fact_status": "孟新雕朽木帝像赠帝非陆大旧赠雕"
+    },
+    {
+      "type": "performance_pending",
+      "entity": "ruan_yushu",
+      "reference": "v03-c0343:p0086",
+      "fact_status": "抱琴下台尚未演奏定魁"
+    },
     {
       "type": "body_relationship_explained",
       "entity": "xuannv_inheritor_child",
