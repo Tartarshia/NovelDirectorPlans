@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0299",
+  "through_chapter": "v03-c0301",
   "events": [
+    {
+      "type": "cultivation_report",
+      "entity": "xuan_zhen",
+      "reference": "v03-c0300:p0011",
+      "fact_status": "近半年已完美半步"
+    },
+    {
+      "type": "alias_confirmed",
+      "entity": "sikong_tu",
+      "reference": "v03-c0300:p0058",
+      "fact_status": "乐黎化名司德家化司姓"
+    },
+    {
+      "type": "package_delivered",
+      "entity": "sikong_family",
+      "reference": "v03-c0301:p0004",
+      "fact_status": "宝剑佩秘籍丹实际交妻"
+    },
+    {
+      "type": "method_received",
+      "entity": "meng_qi",
+      "reference": "v03-c0301:p0025",
+      "fact_status": "转因果秘术妻默写孟读记只甘愿生效"
+    },
+    {
+      "type": "obligation_resolved",
+      "entity": "sikong_tu",
+      "reference": "v03-c0301:p0028",
+      "fact_status": "转来因果消散非全身所有因果清空"
+    },
+    {
+      "type": "training_progress",
+      "entity": "meng_qi",
+      "reference": "v03-c0301:p0033",
+      "fact_status": "洗剑阁后1个月变天进阶仍未交感"
+    },
+    {
+      "type": "recommendations_delivered",
+      "entity": "sikong_family",
+      "reference": "v03-c0301:p0034",
+      "fact_status": "多宗信已交母子拟当晚南下"
+    },
+    {
+      "type": "clue_received",
+      "entity": "wuyou_valley",
+      "reference": "v03-c0301:p0047",
+      "fact_status": "寻谷记载在城外衣冠冢获地点机关未取"
+    },
+    {
+      "type": "duel_won",
+      "entity": "meng_qi",
+      "reference": "v03-c0301:p0073",
+      "fact_status": "阿难刀推变天唤上官宿世刀颈取胜未伤"
+    },
     {
       "type": "item_purchased",
       "entity": "meng_qi",
