@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0297",
+  "through_chapter": "v03-c0299",
   "events": [
+    {
+      "type": "item_purchased",
+      "entity": "meng_qi",
+      "reference": "v03-c0298:p0009",
+      "fact_status": "500年菩提子1000善灵性9个月胸佩"
+    },
+    {
+      "type": "technique_selected",
+      "entity": "meng_qi",
+      "reference": "v03-c0298:p0014",
+      "fact_status": "逆乱阴阳1050初外景刀剑合击未熟练"
+    },
+    {
+      "type": "secret_suspected",
+      "entity": "gao_lan",
+      "reference": "v03-c0298:p0026",
+      "fact_status": "或察孟轮回一点程度未知"
+    },
+    {
+      "type": "transport",
+      "entity": "meng_qi",
+      "reference": "v03-c0298:p0050",
+      "fact_status": "高抓领带至洗剑阁非孟自移"
+    },
+    {
+      "type": "farewell",
+      "entity": "jiang_zhi_wei",
+      "reference": "v03-c0298:p0095",
+      "fact_status": "珍重江湖友但最求剑道未改闭关"
+    },
+    {
+      "type": "cultivation_self_report",
+      "entity": "gao_lan",
+      "reference": "v03-c0299:p0018",
+      "fact_status": "自称踏那步孟据认法身"
+    },
+    {
+      "type": "demeanor_changed",
+      "entity": "gao_lan",
+      "reference": "v03-c0299:p0041",
+      "fact_status": "寡人冷态讥结拜后离未杀孟"
+    },
+    {
+      "type": "retreat_started",
+      "entity": "jiang_zhi_wei",
+      "reference": "v03-c0299:p0045",
+      "fact_status": "六扇门获已坐死关消息自动下榜"
+    },
+    {
+      "type": "ranking_updated",
+      "entity": "tie_sheng",
+      "reference": "v03-c0299:p0055",
+      "fact_status": "人榜第一不等实战击败孟"
+    },
+    {
+      "type": "ranking_updated",
+      "entity": "meng_qi",
+      "reference": "v03-c0299:p0064",
+      "fact_status": "人榜第二榜仍八或九窍属有限资料"
+    },
+    {
+      "type": "journey_begins",
+      "entity": "meng_qi",
+      "reference": "v03-c0299:p0073",
+      "fact_status": "独自北上杀狼王未交手"
+    },
     {
       "type": "mission_complete",
       "entity": "main_party",
