@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0303",
+  "through_chapter": "v03-c0305",
   "events": [
+    {
+      "type": "journey_destination",
+      "entity": "yuyuan_snow_mountain",
+      "reference": "v03-c0304:p0004",
+      "fact_status": "卢龙以北万丈雪山去访思天地奇人"
+    },
+    {
+      "type": "rescue",
+      "entity": "shangguan_heng",
+      "reference": "v03-c0304:p0054",
+      "fact_status": "孟斩蛇助脱崖险收紫蛇胆"
+    },
+    {
+      "type": "gratitude",
+      "entity": "shangguan_heng",
+      "reference": "v03-c0304:p0066",
+      "fact_status": "火边真谢开始自检失误"
+    },
+    {
+      "type": "item_returned",
+      "entity": "thousand_year_lotus",
+      "reference": "v03-c0305:p0040",
+      "fact_status": "孟归莲投者解穴恢复原追逐距离未占有"
+    },
+    {
+      "type": "identity_introduced",
+      "entity": "huang_liang",
+      "reference": "v03-c0305:p0064",
+      "fact_status": "姓黄因凡俗大梦自号黄粱"
+    },
+    {
+      "type": "origin_claim",
+      "entity": "huang_liang",
+      "reference": "v03-c0305:p0071",
+      "fact_status": "自述非此界孟疑穿越或轮回未证"
+    },
     {
       "type": "records_recovered",
       "entity": "meng_qi",
