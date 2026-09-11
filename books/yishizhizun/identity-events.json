@@ -1,7 +1,91 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0333",
+  "through_chapter": "v03-c0335",
   "events": [
+    {
+      "type": "lodging_confirmed",
+      "entity": "gu_changqing",
+      "reference": "v03-c0334:p0002",
+      "fact_status": "桓侯府王客院实安置"
+    },
+    {
+      "type": "forensic_estimate",
+      "entity": "huanmie_tianmo",
+      "reference": "v03-c0334:p0019",
+      "fact_status": "王据镖头尸迹判主力另六灭掌痕"
+    },
+    {
+      "type": "seizure_confirmed",
+      "entity": "guangcheng_tianzun",
+      "reference": "v03-c0334:p0051",
+      "fact_status": "本人承抢物是团队主线环节"
+    },
+    {
+      "type": "item_function_inferred",
+      "entity": "shenghuang_magic_token",
+      "reference": "v03-c0334:p0058",
+      "fact_status": "广成等判缓窃众生力似圣皇魔令"
+    },
+    {
+      "type": "organization_task_count",
+      "entity": "meng_qi",
+      "reference": "v03-c0334:p0067",
+      "fact_status": "仙迹三次已完可申请正式考核未申请"
+    },
+    {
+      "type": "technique_identified",
+      "entity": "meng_qi",
+      "reference": "v03-c0334:p0068",
+      "fact_status": "杀杨掌确为翻天印衍外景招"
+    },
+    {
+      "type": "reported_cultivation",
+      "entity": "zhao_wuyan",
+      "reference": "v03-c0335:p0002",
+      "fact_status": "阮述半步法身高辈180以上延寿"
+    },
+    {
+      "type": "reported_cultivation",
+      "entity": "zhao_jingshi",
+      "reference": "v03-c0335:p0003",
+      "fact_status": "八极天龙80昔败魔师近年斩心患半步法身"
+    },
+    {
+      "type": "career_promotion",
+      "entity": "qian_kai",
+      "reference": "v03-c0335:p0030",
+      "fact_status": "助太子积功紫绶调神都"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "ke_yuzhang",
+      "reference": "v03-c0335:p0039",
+      "fact_status": "龙爪神捕宗师柯卫蓝父"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "liu_shengming",
+      "reference": "v03-c0335:p0049",
+      "fact_status": "紫鹏神捕六重绝顶柳漱玉父"
+    },
+    {
+      "type": "dinner_announced",
+      "entity": "nanzhou_yu_family",
+      "reference": "v03-c0335:p0053",
+      "fact_status": "昨到京谢苏离恩今日苏别院设宴"
+    },
+    {
+      "type": "appearance_observation",
+      "entity": "jin_emperor",
+      "reference": "v03-c0335:p0060",
+      "fact_status": "六十余一流却衰老孟估余寿非确诊"
+    },
+    {
+      "type": "first_audience",
+      "entity": "sima_shi",
+      "reference": "v03-c0335:p0064",
+      "fact_status": "总捕头司马石初见请讲经历授章未行"
+    },
     {
       "type": "defeated_unconscious",
       "entity": "ke_changqing",
