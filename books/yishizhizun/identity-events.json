@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0265",
+  "through_chapter": "v03-c0267",
   "events": [
+    {
+      "type": "strategy_changed",
+      "entity": "meng_qi",
+      "reference": "v03-c0266:p0021",
+      "fact_status": "主动搜因果秘术未练成"
+    },
+    {
+      "type": "secret_shared",
+      "entity": "jiang_zhi_wei",
+      "reference": "v03-c0266:p0023",
+      "fact_status": "孟已告江真皇玺"
+    },
+    {
+      "type": "knowledge_revealed",
+      "entity": "wang_si_yuan",
+      "reference": "v03-c0266:p0046",
+      "fact_status": "王知孟持玺称非算出"
+    },
+    {
+      "type": "wine_debt_revealed",
+      "entity": "liu_su",
+      "reference": "v03-c0266:p0047",
+      "fact_status": "王欠五坛广陵使孟疑河会安排"
+    },
+    {
+      "type": "tribulation_report",
+      "entity": "wang_si_yuan",
+      "reference": "v03-c0266:p0057",
+      "fact_status": "大劫大能归为王告孟联阿难未证"
+    },
+    {
+      "type": "four_opponents_challenged",
+      "entity": "he_jiu",
+      "reference": "v03-c0266:p0064",
+      "fact_status": "挑战苏严玄真流不含江王"
+    },
+    {
+      "type": "technique_state",
+      "entity": "xuan_zhen",
+      "reference": "v03-c0267:p0038",
+      "fact_status": "般若小圆满天人合一"
+    },
+    {
+      "type": "technique_growth",
+      "entity": "meng_qi",
+      "reference": "v03-c0267:p0065",
+      "fact_status": "初步随意组合精义未升阶"
+    },
+    {
+      "type": "full_body_sword_qi",
+      "entity": "he_jiu",
+      "reference": "v03-c0267:p0068",
+      "fact_status": "除眉心364穴剑出战未决未突破"
+    },
     {
       "type": "reinforcements_seen",
       "entity": "huan_hua_elder",
