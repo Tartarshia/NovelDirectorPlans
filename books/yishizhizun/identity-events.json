@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0343",
+  "through_chapter": "v03-c0345",
   "events": [
+    {
+      "type": "contest_winner",
+      "entity": "ruan_yushu",
+      "reference": "v03-c0344:p0019",
+      "fact_status": "首题才艺魁赐酒未主线结算"
+    },
+    {
+      "type": "location_confirmed_report",
+      "entity": "gu_xiaosang",
+      "reference": "v03-c0344:p0044",
+      "fact_status": "清源传广成已确认宫内罗众仍推"
+    },
+    {
+      "type": "cultivation_confirmed",
+      "entity": "zhao_yi",
+      "reference": "v03-c0344:p0071",
+      "fact_status": "众生合一后已开玄关"
+    },
+    {
+      "type": "secret_inscription_observed",
+      "entity": "crown_prince",
+      "reference": "v03-c0345:p0006",
+      "fact_status": "孟借神掌气眼独读佛皇"
+    },
+    {
+      "type": "technique_reported",
+      "entity": "fan_changmiao",
+      "reference": "v03-c0345:p0018",
+      "fact_status": "王述家传太乙自在剑"
+    },
+    {
+      "type": "insight_vision",
+      "entity": "zhao_heng",
+      "reference": "v03-c0345:p0053",
+      "fact_status": "真龙凝金印入额异象非宝物入手"
+    },
+    {
+      "type": "technique_created",
+      "entity": "qi_zhengyan",
+      "reference": "v03-c0345:p0095",
+      "fact_status": "浑天融浣花剑诗自强招未给名"
+    },
+    {
+      "type": "artifact_damaged",
+      "entity": "wordless_stele",
+      "reference": "v03-c0345:p0164",
+      "fact_status": "深裂未分两半仍幽深"
+    },
+    {
+      "type": "contest_winner",
+      "entity": "meng_qi",
+      "reference": "v03-c0345:p0166",
+      "fact_status": "第二题帝判魁"
+    },
+    {
+      "type": "body_constraint_reduced",
+      "entity": "meng_qi",
+      "reference": "v03-c0345:p0168",
+      "fact_status": "束缚再减只差契机尚未突破"
+    },
+    {
+      "type": "melee_rules_announced",
+      "entity": "qionghua_banquet",
+      "reference": "v03-c0345:p0183",
+      "fact_status": "三题幻境乱战最后送出者魁附气双保"
+    },
     {
       "type": "name_confirmed",
       "entity": "zhao_mingyu",
