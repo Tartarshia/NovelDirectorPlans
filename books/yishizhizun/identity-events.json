@@ -1,7 +1,91 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0335",
+  "through_chapter": "v03-c0337",
   "events": [
+    {
+      "type": "promotion_completed",
+      "entity": "meng_qi",
+      "reference": "v03-c0336:p0007",
+      "fact_status": "皇亲赐银线银章"
+    },
+    {
+      "type": "hidden_identity_revealed_to_reader",
+      "entity": "zhao_wuyan",
+      "reference": "v03-c0336:p0014",
+      "fact_status": "屏后齐王孟离才现"
+    },
+    {
+      "type": "cultivation_confirmed",
+      "entity": "sima_shi",
+      "reference": "v03-c0336:p0015",
+      "fact_status": "与齐王同屋两半步法身"
+    },
+    {
+      "type": "protective_item_obtained",
+      "entity": "jiushu_bijie_talisman",
+      "reference": "v03-c0336:p0032",
+      "fact_status": "九枢避劫符实际戴胸一次未耗"
+    },
+    {
+      "type": "ambush_started",
+      "entity": "qingyuan_miaodao",
+      "reference": "v03-c0337:p0003",
+      "fact_status": "礼让后突冲玉家主车不借天地"
+    },
+    {
+      "type": "combat_arrival",
+      "entity": "doumu_yuanjun",
+      "reference": "v03-c0337:p0027",
+      "fact_status": "孟识斗姆气息突入"
+    },
+    {
+      "type": "disguise_revealed",
+      "entity": "gu_xiaosang",
+      "reference": "v03-c0337:p0044",
+      "fact_status": "玉珑紫旁青衣丫环真容顾"
+    },
+    {
+      "type": "front_identity_revealed",
+      "entity": "nanzhou_yu_family",
+      "reference": "v03-c0337:p0045",
+      "fact_status": "孟认玉家罗教世家掩护"
+    },
+    {
+      "type": "technique_integration",
+      "entity": "meng_qi",
+      "reference": "v03-c0337:p0060",
+      "fact_status": "独孤天刀难分大家技艺非境界突破"
+    },
+    {
+      "type": "protected_unconscious",
+      "entity": "su_ziyue",
+      "reference": "v03-c0337:p0063",
+      "fact_status": "孟送树旁十余丈无痛昏"
+    },
+    {
+      "type": "cultivation_estimate",
+      "entity": "su_zihua",
+      "reference": "v03-c0337:p0065",
+      "fact_status": "以一敌四孟判似交感未全力"
+    },
+    {
+      "type": "transformation_used",
+      "entity": "qingyuan_miaodao",
+      "reference": "v03-c0337:p0068",
+      "fact_status": "两头四臂但非法天象地"
+    },
+    {
+      "type": "uninjured_after_block",
+      "entity": "gu_xiaosang",
+      "reference": "v03-c0337:p0081",
+      "fact_status": "罗众光神像入体指挡掌退一步无伤"
+    },
+    {
+      "type": "rear_attack_unresolved",
+      "entity": "meng_qi",
+      "reference": "v03-c0337:p0084",
+      "fact_status": "流光已触罡紫电引阵伤与符未揭"
+    },
     {
       "type": "lodging_confirmed",
       "entity": "gu_changqing",
