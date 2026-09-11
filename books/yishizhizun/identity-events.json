@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0309",
+  "through_chapter": "v03-c0311",
   "events": [
+    {
+      "type": "death_confirmed",
+      "entity": "living_buddha",
+      "reference": "v03-c0310:p0032",
+      "fact_status": "精神败后莲印笑泪无息圆寂"
+    },
+    {
+      "type": "guard_spared",
+      "entity": "western_guard",
+      "reference": "v03-c0310:p0027",
+      "fact_status": "无形眉刀痕未入颅未杀"
+    },
+    {
+      "type": "faint_qi_received",
+      "entity": "meng_qi",
+      "reference": "v03-c0310:p0071",
+      "fact_status": "讲道后隐约一丝道德之气"
+    },
+    {
+      "type": "duel_invitation",
+      "entity": "sword_emperor",
+      "reference": "v03-c0310:p0078",
+      "fact_status": "木偶14字邀明日午落日峰"
+    },
+    {
+      "type": "reply_inscribed",
+      "entity": "meng_qi",
+      "reference": "v03-c0311:p0005",
+      "fact_status": "木偶背16剑字答应论道"
+    },
+    {
+      "type": "rubbing_created",
+      "entity": "unnamed_guard_general",
+      "reference": "v03-c0311:p0024",
+      "fact_status": "私拓30字取镇邪惊神名原物交回"
+    },
+    {
+      "type": "inheritance_given",
+      "entity": "song_ming",
+      "reference": "v03-c0311:p0038",
+      "fact_status": "剑皇补己功窍脉传神剑木偶幼徒"
+    },
+    {
+      "type": "demon_confined",
+      "entity": "sword_emperor",
+      "reference": "v03-c0311:p0064",
+      "fact_status": "孟感己外魔被剑皇拘住非附身"
+    },
+    {
+      "type": "duel_about_to_start",
+      "entity": "meng_and_sword_emperor",
+      "reference": "v03-c0311:p0071",
+      "fact_status": "峰顶剑皇抬剑未结果"
+    },
     {
       "type": "cultivation_reassessment",
       "entity": "demon_queen",
