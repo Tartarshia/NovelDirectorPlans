@@ -1,7 +1,79 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0271",
+  "through_chapter": "v03-c0273",
   "events": [
+    {
+      "type": "medicine_consumed",
+      "entity": "meng_qi",
+      "reference": "v03-c0272:p0010",
+      "fact_status": "实服库存大还丹疗伤渐复"
+    },
+    {
+      "type": "withdrawal",
+      "entity": "ze_luo_ju",
+      "reference": "v03-c0272:p0016",
+      "fact_status": "权衡顾援风险撤未实战"
+    },
+    {
+      "type": "taken_away",
+      "entity": "meng_qi",
+      "reference": "v03-c0272:p0024",
+      "fact_status": "顾半抱拖踏虚带走反噬中"
+    },
+    {
+      "type": "survival_confirmed",
+      "entity": "zhao_qian",
+      "reference": "v03-c0272:p0036",
+      "fact_status": "太子住六扇神话全撤未被留"
+    },
+    {
+      "type": "pursuit_decision",
+      "entity": "jiang_zhi_wei",
+      "reference": "v03-c0272:p0046",
+      "fact_status": "返查无死迹决定随踪追孟"
+    },
+    {
+      "type": "mission_report",
+      "entity": "myth_group",
+      "reference": "v03-c0272:p0056",
+      "fact_status": "北斗称基本完成除玺主任务未知"
+    },
+    {
+      "type": "lineage_hypothesis",
+      "entity": "han_guang",
+      "reference": "v03-c0272:p0073",
+      "fact_status": "顾疑韩广康后裔未证"
+    },
+    {
+      "type": "unknown_rescuer_arrives",
+      "entity": "gao_lan",
+      "reference": "v03-c0272:p0087",
+      "fact_status": "络腮汉抓孟离顾此章未报姓名"
+    },
+    {
+      "type": "name_revealed",
+      "entity": "gao_lan",
+      "reference": "v03-c0273:p0025",
+      "fact_status": "汉自报高览长乐疯王自改贤王"
+    },
+    {
+      "type": "seal_retained",
+      "entity": "meng_qi",
+      "reference": "v03-c0273:p0022",
+      "fact_status": "高无押带孟同往玺仍孟处未售"
+    },
+    {
+      "type": "message_delivered_to_intermediary",
+      "entity": "pin_jian_xuan",
+      "reference": "v03-c0273:p0053",
+      "fact_status": "报平安掩实际路径托警狼杀剑未江收到"
+    },
+    {
+      "type": "destination_named",
+      "entity": "long_tai",
+      "reference": "v03-c0273:p0066",
+      "fact_status": "高说去龙台尚未抵"
+    },
     {
       "type": "attacker_confirmed",
       "entity": "wolf_king",
