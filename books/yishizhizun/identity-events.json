@@ -1,7 +1,91 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0295",
+  "through_chapter": "v03-c0297",
   "events": [
+    {
+      "type": "mission_complete",
+      "entity": "main_party",
+      "reference": "v03-c0296:p0001",
+      "fact_status": "六道正式结算主线各1000"
+    },
+    {
+      "type": "healing_complete",
+      "entity": "main_party",
+      "reference": "v03-c0296:p0011",
+      "fact_status": "全队完成光柱疗伤战中残伤状态结束"
+    },
+    {
+      "type": "newcomer_reward_paid",
+      "entity": "main_party",
+      "reference": "v03-c0296:p0014",
+      "fact_status": "孟江阮200齐150赵0在此实发"
+    },
+    {
+      "type": "item_purchased",
+      "entity": "meng_qi",
+      "reference": "v03-c0296:p0022",
+      "fact_status": "400善买公物大还丹一枚自备猎狼"
+    },
+    {
+      "type": "items_sold",
+      "entity": "spoils",
+      "reference": "v03-c0296:p0032",
+      "fact_status": "周裂环杂物与蓝螭爪售总含购丹5700各1140"
+    },
+    {
+      "type": "next_mission",
+      "entity": "main_world",
+      "reference": "v03-c0296:p0034",
+      "fact_status": "一年后本界未给细情每人花80"
+    },
+    {
+      "type": "decision_revealed",
+      "entity": "jiang_zhi_wei",
+      "reference": "v03-c0296:p0045",
+      "fact_status": "此前心事为坐死关不成埋骨"
+    },
+    {
+      "type": "delay_purchased",
+      "entity": "jiang_zhi_wei",
+      "reference": "v03-c0297:p0009",
+      "fact_status": "实花2400延后一年总两年死关窗口"
+    },
+    {
+      "type": "acceptance",
+      "entity": "zhao_heng",
+      "reference": "v03-c0297:p0015",
+      "fact_status": "不求个人耗宝补偿使旧队真正接纳"
+    },
+    {
+      "type": "item_transfer",
+      "entity": "true_emperor_seal",
+      "reference": "v03-c0297:p0024",
+      "fact_status": "赵以龙华佩与2000善换得真皇玺"
+    },
+    {
+      "type": "package_prepared",
+      "entity": "sikong_tu_family",
+      "reference": "v03-c0297:p0028",
+      "fact_status": "宝剑资质功丹已兑未送达"
+    },
+    {
+      "type": "item_purchased",
+      "entity": "qi_zheng_yan",
+      "reference": "v03-c0297:p0039",
+      "fact_status": "2500陨星之核助紫河未实际提升"
+    },
+    {
+      "type": "music_purchased",
+      "entity": "ruan_yu_shu",
+      "reference": "v03-c0297:p0046",
+      "fact_status": "碧落仙曲已兑余160未修成"
+    },
+    {
+      "type": "purchase_intent",
+      "entity": "meng_qi",
+      "reference": "v03-c0297:p0052",
+      "fact_status": "选500年菩提子未本章实兑"
+    },
     {
       "type": "limb_lost",
       "entity": "zhao_heng",
