@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0269",
+  "through_chapter": "v03-c0271",
   "events": [
+    {
+      "type": "attacker_confirmed",
+      "entity": "wolf_king",
+      "reference": "v03-c0270:p0002",
+      "fact_status": "熟悉封感黑暗确认狼袭"
+    },
+    {
+      "type": "conditional_realm_access",
+      "entity": "meng_qi",
+      "reference": "v03-c0270:p0016",
+      "fact_status": "借宝兵强合一非自身恒定升阶"
+    },
+    {
+      "type": "actual_dharmakaya_move",
+      "entity": "meng_qi",
+      "reference": "v03-c0270:p0078",
+      "fact_status": "舍身诀激宝兵实五雷非仅精义"
+    },
+    {
+      "type": "injury",
+      "entity": "wolf_king",
+      "reference": "v03-c0271:p0020",
+      "fact_status": "杀剑抗后左骨折旧伤未愈"
+    },
+    {
+      "type": "feigned_attack_and_escape",
+      "entity": "meng_qi",
+      "reference": "v03-c0271:p0037",
+      "fact_status": "飞仙八九仿势吓狼活退非真再杀招"
+    },
+    {
+      "type": "corpse_seen",
+      "entity": "unnamed_ying_wushi_participant",
+      "reference": "v03-c0271:p0054",
+      "fact_status": "开窍地方人物尸外围身份仅孟疑"
+    },
+    {
+      "type": "character_arrival",
+      "entity": "ze_luo_ju",
+      "reference": "v03-c0271:p0057",
+      "fact_status": "瀚海邪刀外景追中原"
+    },
+    {
+      "type": "realm_revealed",
+      "entity": "gu_xiao_sang",
+      "reference": "v03-c0271:p0081",
+      "fact_status": "顾现救场孟知早已外景非本章新升"
+    },
     {
       "type": "character_role_confirmed",
       "entity": "gong_yang_hao",
