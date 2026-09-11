@@ -1,7 +1,91 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0319",
+  "through_chapter": "v03-c0321",
   "events": [
+    {
+      "type": "departure_declared",
+      "entity": "jiesha_daoren",
+      "reference": "v03-c0320:p0005",
+      "fact_status": "落泪后辞观回草原未抵达"
+    },
+    {
+      "type": "injury_recovered",
+      "entity": "meng_qi",
+      "reference": "v03-c0320:p0009",
+      "fact_status": "服药调息半晚伤势尽复保留血衣见人"
+    },
+    {
+      "type": "conspiracy_confirmed",
+      "entity": "wolf_hunting_association_chair",
+      "reference": "v03-c0320:p0018",
+      "fact_status": "承狼用尽及外景风险孟伪遗言套话"
+    },
+    {
+      "type": "rank_publication_delayed",
+      "entity": "six_doors",
+      "reference": "v03-c0320:p0053",
+      "fact_status": "本期暂不改等详报"
+    },
+    {
+      "type": "cultivation_confirmed",
+      "entity": "meng_qi",
+      "reference": "v03-c0320:p0069",
+      "fact_status": "两月巩固天人合一圆满返璞归真"
+    },
+    {
+      "type": "item_exhausted",
+      "entity": "bodhi_seed_500_years",
+      "reference": "v03-c0320:p0071",
+      "fact_status": "三月灵性耗尽当前成灰"
+    },
+    {
+      "type": "technique_realized",
+      "entity": "meng_qi",
+      "reference": "v03-c0320:p0072",
+      "fact_status": "等狼时悟不动明王诀未改修"
+    },
+    {
+      "type": "replica_identity",
+      "entity": "qingping_sword",
+      "reference": "v03-c0321:p0016",
+      "fact_status": "古代云中子仿制非现同号成员"
+    },
+    {
+      "type": "sale_restriction",
+      "entity": "three_realized_exterior_methods",
+      "reference": "v03-c0321:p0024",
+      "fact_status": "卖灵宝后不得再卖六道传授者同禁售"
+    },
+    {
+      "type": "trophy_sold",
+      "entity": "black_jade_arm_sword",
+      "reference": "v03-c0321:p0041",
+      "fact_status": "与三悟法合售灵宝8300"
+    },
+    {
+      "type": "item_sold",
+      "entity": "snow_python_gall",
+      "reference": "v03-c0321:p0041",
+      "fact_status": "六道买300加旧额总8610"
+    },
+    {
+      "type": "manual_obtained",
+      "entity": "eight_nine_exterior",
+      "reference": "v03-c0321:p0048",
+      "fact_status": "实付8000得外景篇禁外传余额610尚未突破"
+    },
+    {
+      "type": "membership_assessment_pending",
+      "entity": "meng_qi",
+      "reference": "v03-c0321:p0068",
+      "fact_status": "还差一任务才能申请考核此行未接"
+    },
+    {
+      "type": "mainline_assigned",
+      "entity": "shendu_reunion",
+      "reference": "v03-c0321:p0081",
+      "fact_status": "限两月赴本界神都会合赵恒等成功开第二线失败抹杀"
+    },
     {
       "type": "technique_perfected",
       "entity": "meng_qi",
