@@ -1,7 +1,79 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0321",
+  "through_chapter": "v03-c0323",
   "events": [
+    {
+      "type": "pill_purchased",
+      "entity": "meng_qi",
+      "reference": "v03-c0322:p0002",
+      "fact_status": "500补一大还丹余110"
+    },
+    {
+      "type": "rank_published",
+      "entity": "meng_qi",
+      "reference": "v03-c0322:p0030",
+      "fact_status": "新榜正式狂刀苏孟第一"
+    },
+    {
+      "type": "rumoured_rivalry",
+      "entity": "fan_changmiao",
+      "reference": "v03-c0322:p0052",
+      "fact_status": "酒客推说捡便宜状元之郁闷非本人证明"
+    },
+    {
+      "type": "arrival_confirmed",
+      "entity": "meng_qi",
+      "reference": "v03-c0322:p0065",
+      "fact_status": "一月十日赶抵神都仍待齐阮"
+    },
+    {
+      "type": "breakthrough_confirmed",
+      "entity": "zhao_heng",
+      "reference": "v03-c0323:p0006",
+      "fact_status": "已从天人合一突破秘密未广示"
+    },
+    {
+      "type": "companion_care",
+      "entity": "meng_qi",
+      "reference": "v03-c0322:p0083",
+      "fact_status": "换皇子玩笑实为纾赵压力未实际换身份"
+    },
+    {
+      "type": "cultivation_and_role",
+      "entity": "hu_dou",
+      "reference": "v03-c0323:p0003",
+      "fact_status": "半步外景宦官贴护赵同失意相处融洽"
+    },
+    {
+      "type": "whereabouts_reported",
+      "entity": "gu_changqing",
+      "reference": "v03-c0323:p0016",
+      "fact_status": "中州镖局镖头居校场街返途未重逢"
+    },
+    {
+      "type": "employment_motive",
+      "entity": "yang_wuliang",
+      "reference": "v03-c0323:p0018",
+      "fact_status": "为外景功受晋王延请客卿"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "yang_wuliang",
+      "reference": "v03-c0323:p0077",
+      "fact_status": "侧门午时被孟掌击额身死"
+    },
+    {
+      "type": "escape_confirmed",
+      "entity": "meng_qi",
+      "reference": "v03-c0323:p0085",
+      "fact_status": "魏王府预定接应后安全现身"
+    },
+    {
+      "type": "reward_pending",
+      "entity": "reincarnation_talisman",
+      "reference": "v03-c0323:p0086",
+      "fact_status": "仙迹报仇任务后即将入手尚未实领"
+    },
     {
       "type": "departure_declared",
       "entity": "jiesha_daoren",
