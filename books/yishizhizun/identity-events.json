@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v03-c0275",
+  "through_chapter": "v03-c0277",
   "events": [
+    {
+      "type": "past_duels_reported",
+      "entity": "gao_lan",
+      "reference": "v03-c0276:p0019",
+      "fact_status": "高述与韩广并称多年从未交手"
+    },
+    {
+      "type": "captivity_confirmed",
+      "entity": "gao_lan",
+      "reference": "v03-c0276:p0027",
+      "fact_status": "叙明拘多年近期秘密脱困非坐化"
+    },
+    {
+      "type": "assisted_killing",
+      "entity": "meng_qi",
+      "reference": "v03-c0276:p0079",
+      "fact_status": "高去敌真气孟一刀全杀挑衅队"
+    },
+    {
+      "type": "recovery",
+      "entity": "meng_qi",
+      "reference": "v03-c0277:p0004",
+      "fact_status": "醉仙消大还残舍身反噬"
+    },
+    {
+      "type": "sworn_brotherhood",
+      "entity": "gao_lan_meng_qi",
+      "reference": "v03-c0277:p0009",
+      "fact_status": "斩鸡烧纸已结高大哥孟三弟非三人"
+    },
+    {
+      "type": "plan_changed",
+      "entity": "gao_lan",
+      "reference": "v03-c0277:p0018",
+      "fact_status": "取消翌日再探先研铁条"
+    },
+    {
+      "type": "time_jump",
+      "entity": "meng_qi",
+      "reference": "v03-c0277:p0030",
+      "fact_status": "半年多共同院居修行"
+    },
+    {
+      "type": "cultivation_completed",
+      "entity": "golden_bell",
+      "reference": "v03-c0277:p0042",
+      "fact_status": "九窍7关圆满一品护罡不死印大成"
+    },
+    {
+      "type": "cultivation_completed",
+      "entity": "eight_nine",
+      "reference": "v03-c0277:p0045",
+      "fact_status": "继开九窍眼罩消未眉心合一"
+    },
+    {
+      "type": "technique_created",
+      "entity": "vajra_seal",
+      "reference": "v03-c0277:p0061",
+      "fact_status": "神掌首衍恰外景金刚印"
+    },
+    {
+      "type": "reincarnation_summons",
+      "entity": "meng_qi",
+      "reference": "v03-c0277:p0066",
+      "fact_status": "正式任务前引新人每存活50尚未收奖"
+    },
     {
       "type": "location_reached",
       "entity": "true_long_tai",
