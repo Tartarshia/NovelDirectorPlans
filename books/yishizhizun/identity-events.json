@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0002",
+  "through_chapter": "v04-c0004",
   "events": [
+    {
+      "type": "appointment",
+      "entity": "meng_qi_and_jiang_zhiwei",
+      "reference": "v04-c0003:p0008",
+      "fact_status": "四个月后播密近见未赴谷"
+    },
+    {
+      "type": "weapon_upgrade",
+      "entity": "meng_qi_tianshang",
+      "reference": "v04-c0003:p0015",
+      "fact_status": "中品青雷实1600算余45"
+    },
+    {
+      "type": "training_completed",
+      "entity": "meng_qi",
+      "reference": "v04-c0003:p0018",
+      "fact_status": "八九外景入门五变化，两头四臂勉强，不能法天象地"
+    },
+    {
+      "type": "cover_story",
+      "entity": "meng_qi",
+      "reference": "v04-c0003:p0025",
+      "fact_status": "假闭关锦毛鼠离苏府"
+    },
+    {
+      "type": "formal_exam_accepted",
+      "entity": "meng_qi",
+      "reference": "v04-c0003:p0060",
+      "fact_status": "一年内斩杨真禅尚未正式成员"
+    },
+    {
+      "type": "talisman_collected",
+      "entity": "meng_qi",
+      "reference": "v04-c0003:p0061",
+      "fact_status": "轮回符实领未用"
+    },
+    {
+      "type": "payment_spent",
+      "entity": "meng_qi_land_deed",
+      "reference": "v04-c0004:p0023",
+      "fact_status": "江东地契付九娘买哭去向"
+    },
+    {
+      "type": "infiltration_before_attack",
+      "entity": "meng_qi",
+      "reference": "v04-c0004:p0075",
+      "fact_status": "日落前鼠入国师府花园待天明三击限"
+    },
     {
       "type": "succession_confirmed",
       "entity": "jin_king",
