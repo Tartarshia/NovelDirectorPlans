@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0012",
+  "through_chapter": "v04-c0014",
   "events": [
+    {
+      "type": "wound_reassessment",
+      "entity": "poison_hand_demon",
+      "reference": "v04-c0013:p0005",
+      "fact_status": "两片平整刀断非撕裂"
+    },
+    {
+      "type": "identity_revealed",
+      "entity": "jia_zhen_old_zhong",
+      "reference": "v04-c0013:p0057",
+      "fact_status": "天魔功识神话非轮回老钟贾尸假象"
+    },
+    {
+      "type": "intervention",
+      "entity": "ye_yuqi",
+      "reference": "v04-c0014:p0032",
+      "fact_status": "公开寒冰仙子无面具到场"
+    },
+    {
+      "type": "corpse_reanimated",
+      "entity": "poison_hand_demon",
+      "reference": "v04-c0014:p0023",
+      "fact_status": "两片拼问我是谁制索命非原人格复生确认"
+    },
+    {
+      "type": "soul_escape",
+      "entity": "minghuang",
+      "reference": "v04-c0014:p0039",
+      "fact_status": "肉毁元神逃谷未终死"
+    },
+    {
+      "type": "death_by_contract_backlash",
+      "entity": "old_zhong",
+      "reference": "v04-c0014:p0068",
+      "fact_status": "故泄天帝未说名尸戒俱焚"
+    },
+    {
+      "type": "hand_bone_received",
+      "entity": "meng_qi",
+      "reference": "v04-c0014:p0072",
+      "fact_status": "叶私人酬骨未知用途未来任务须分享"
+    },
+    {
+      "type": "valley_entry",
+      "entity": "meng_qi_and_ye_yuqi",
+      "reference": "v04-c0014:p0076",
+      "fact_status": "两人正式入无忧谷"
+    },
     {
       "type": "introduced_identity",
       "entity": "jia_zhen",
