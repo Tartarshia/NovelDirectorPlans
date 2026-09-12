@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0016",
+  "through_chapter": "v04-c0017",
   "events": [
+    {
+      "type": "backstory_claim",
+      "entity": "gatekeeper",
+      "reference": "v04-c0017:p0011",
+      "fact_status": "自述甲子前年轻道士锁画门候缘未名"
+    },
+    {
+      "type": "fragment_relationship_explained",
+      "entity": "minghuang",
+      "reference": "v04-c0017:p0025",
+      "fact_status": "国师分神忘初衷寻谷"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "bomi_national_preceptor",
+      "reference": "v04-c0017:p0059",
+      "fact_status": "节点崩续命断寿尽肉神亡"
+    },
+    {
+      "type": "pearl_taken",
+      "entity": "ye_yuqi",
+      "reference": "v04-c0017:p0068",
+      "fact_status": "实收血黄珠承余物给孟少则补"
+    },
+    {
+      "type": "remote_swordsman_confirmed",
+      "entity": "lu_da",
+      "reference": "v04-c0017:p0070",
+      "fact_status": "叶称姐夫远援剑"
+    },
+    {
+      "type": "quote_attribution_corrected",
+      "entity": "ye_yuqi",
+      "reference": "v04-c0017:p0079",
+      "fact_status": "一剑句是叶自己推非陆原言"
+    },
+    {
+      "type": "pendant_fit_not_used",
+      "entity": "meng_qi_xuanwu_pendant",
+      "reference": "v04-c0017:p0081",
+      "fact_status": "大小合画门凹尚未嵌"
+    },
     {
       "type": "task_step_completed",
       "entity": "zhenwu_mystery",
