@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0018",
+  "through_chapter": "v04-c0020",
   "events": [
+    {
+      "type": "released",
+      "entity": "gatekeeper",
+      "reference": "v04-c0019:p0011",
+      "fact_status": "链自动解已放走"
+    },
+    {
+      "type": "formal_membership",
+      "entity": "meng_qi",
+      "reference": "v04-c0019:p0057",
+      "fact_status": "元始之眼实领正式成员"
+    },
+    {
+      "type": "transmission_received",
+      "entity": "meng_qi_yinyang_seal",
+      "reference": "v04-c0020:p0013",
+      "fact_status": "阴阳印受传仅悟皮毛"
+    },
+    {
+      "type": "resource_received",
+      "entity": "meng_qi_surface_routes",
+      "reference": "v04-c0020:p0039",
+      "fact_status": "诸功表面运行路线非完整真意"
+    },
+    {
+      "type": "task_pending",
+      "entity": "xianji_otherworld",
+      "reference": "v04-c0020:p0047",
+      "fact_status": "异界援助候通知未出发"
+    },
+    {
+      "type": "item_appraised",
+      "entity": "xuanshui_flag",
+      "reference": "v04-c0020:p0057",
+      "fact_status": "首梯前无法催发五成威力两次外景神异三年"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "huangquan_hand_bone",
+      "reference": "v04-c0020:p0059",
+      "fact_status": "鉴定确黄泉手骨失力原因未明"
+    },
     {
       "type": "item_consumed",
       "entity": "meng_qi_xuanwu_pendant",
