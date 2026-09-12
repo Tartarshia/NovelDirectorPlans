@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0004",
+  "through_chapter": "v04-c0006",
   "events": [
+    {
+      "type": "cultivation_confirmed",
+      "entity": "qu_jiuniang",
+      "reference": "v04-c0005:p0011",
+      "fact_status": "刚过第一层天梯"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "zeluoju",
+      "reference": "v04-c0005:p0084",
+      "fact_status": "头碎元神掌灭"
+    },
+    {
+      "type": "loot_taken",
+      "entity": "meng_qi",
+      "reference": "v04-c0005:p0087",
+      "fact_status": "邪刀黑袋实收"
+    },
+    {
+      "type": "injury_recovery_revealed",
+      "entity": "meng_qi",
+      "reference": "v04-c0006:p0020",
+      "fact_status": "幽冥邪眼元神创阴入骨二十来日才愈"
+    },
+    {
+      "type": "loot_identified_preliminarily",
+      "entity": "meng_qi_beads",
+      "reference": "v04-c0006:p0032",
+      "fact_status": "九珠七耗余护法琉璃光他心通"
+    },
+    {
+      "type": "matching_keys_found",
+      "entity": "zeluoju_and_anguxie_keys",
+      "reference": "v04-c0006:p0046",
+      "fact_status": "两把形同用途未查"
+    },
+    {
+      "type": "location_entered",
+      "entity": "meng_qi",
+      "reference": "v04-c0006:p0055",
+      "fact_status": "播密红雾入内失向后借阴兵定向"
+    },
     {
       "type": "appointment",
       "entity": "meng_qi_and_jiang_zhiwei",
