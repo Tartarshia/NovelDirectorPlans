@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0017",
+  "through_chapter": "v04-c0018",
   "events": [
+    {
+      "type": "item_consumed",
+      "entity": "meng_qi_xuanwu_pendant",
+      "reference": "v04-c0018:p0017",
+      "fact_status": "开画门玄武佩碎粉"
+    },
+    {
+      "type": "empty_coffin_observed",
+      "entity": "huangquan_coffin",
+      "reference": "v04-c0018:p0036",
+      "fact_status": "棺无实体仅血黄气"
+    },
+    {
+      "type": "bone_absorbs_residue",
+      "entity": "meng_qi_hand_bone",
+      "reference": "v04-c0018:p0041",
+      "fact_status": "实吸血黄气来历未定"
+    },
+    {
+      "type": "flag_acquired",
+      "entity": "meng_qi_xuanshui_flag",
+      "reference": "v04-c0018:p0063",
+      "fact_status": "玄水荡魔旗裂损实得未荡魔"
+    },
+    {
+      "type": "task_step_completed",
+      "entity": "zhenwu_mystery",
+      "reference": "v04-c0018:p0067",
+      "fact_status": "第四步完第五返疑冢除念问去向"
+    },
+    {
+      "type": "linked_gate_exit",
+      "entity": "meng_qi",
+      "reference": "v04-c0018:p0087",
+      "fact_status": "旗威开至看门处孟收旗出"
+    },
+    {
+      "type": "identity_clue_not_confirmation",
+      "entity": "young_daoist",
+      "reference": "v04-c0018:p0092",
+      "fact_status": "老人述我是谁谁是我孟疑东阳未证"
+    },
     {
       "type": "backstory_claim",
       "entity": "gatekeeper",
