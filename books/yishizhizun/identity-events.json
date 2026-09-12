@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0006",
+  "through_chapter": "v04-c0008",
   "events": [
+    {
+      "type": "contact_met",
+      "entity": "gatekeeper",
+      "reference": "v04-c0007:p0025",
+      "fact_status": "画眉令会黑袍老人后见脚锁"
+    },
+    {
+      "type": "identity_distinguished",
+      "entity": "gatekeeper_and_seven_luminaries",
+      "reference": "v04-c0008:p0065",
+      "fact_status": "七曜问看门人何事证不同人"
+    },
+    {
+      "type": "item_exchanged",
+      "entity": "poison_hand_demon",
+      "reference": "v04-c0008:p0014",
+      "fact_status": "木芝换王氏卦盘"
+    },
+    {
+      "type": "item_exchanged",
+      "entity": "meng_qi_ghost_face_jade",
+      "reference": "v04-c0008:p0038",
+      "fact_status": "冤魂阴铁换鬼面玉实取未炼"
+    },
+    {
+      "type": "abnormal_spirit_destroyed",
+      "entity": "meng_qi",
+      "reference": "v04-c0008:p0058",
+      "fact_status": "日剑消非固定巡逻之阴灵"
+    },
+    {
+      "type": "location_report",
+      "entity": "yang_zhenchan",
+      "reference": "v04-c0008:p0069",
+      "fact_status": "七曜报七日前第五峡旧国都会毒手疑入组织"
+    },
     {
       "type": "cultivation_confirmed",
       "entity": "qu_jiuniang",
