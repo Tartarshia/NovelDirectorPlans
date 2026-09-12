@@ -3,6 +3,17 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "poison-title-v04-c0009",
+      "kind": "possible_title_typo",
+      "evidence": [
+        "v04-c0009:p0081",
+        "v04-c0009:p0083"
+      ],
+      "source_word": "毒手郎君 / 毒手魔君",
+      "state": "unresolved_source_issue",
+      "director_handling": "索命所等同一毒手魔君，保留源异文不拆新人物。"
+    },
+    {
       "id": "dharma-king-title-v03-c0350",
       "kind": "title_variation",
       "evidence": [
