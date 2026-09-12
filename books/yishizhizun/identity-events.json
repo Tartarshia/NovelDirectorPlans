@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0014",
+  "through_chapter": "v04-c0016",
   "events": [
+    {
+      "type": "task_step_completed",
+      "entity": "zhenwu_mystery",
+      "reference": "v04-c0015:p0003",
+      "fact_status": "第三步完第四步谷内找线启动"
+    },
+    {
+      "type": "material_refined",
+      "entity": "meng_qi_ghost_face_jade",
+      "reference": "v04-c0015:p0074",
+      "fact_status": "实凝练完善阴鬼变渡黑雾"
+    },
+    {
+      "type": "flowers_collected",
+      "entity": "meng_qi",
+      "reference": "v04-c0015:p0082",
+      "fact_status": "无忧花采几朵"
+    },
+    {
+      "type": "dried_bodies_seen",
+      "entity": "poison_and_yaksha",
+      "reference": "v04-c0015:p0085",
+      "fact_status": "毒索门边干尸问我是谁"
+    },
+    {
+      "type": "coffin_identity_revealed",
+      "entity": "bomi_national_preceptor",
+      "reference": "v04-c0016:p0044",
+      "fact_status": "叶识国师老承非黄泉本人"
+    },
+    {
+      "type": "past_deception_admitted",
+      "entity": "bomi_national_preceptor",
+      "reference": "v04-c0016:p0063",
+      "fact_status": "假梦神集全国灵为己力量"
+    },
+    {
+      "type": "sealed_ink_door_report",
+      "entity": "bomi_national_preceptor",
+      "reference": "v04-c0016:p0065",
+      "fact_status": "称门后黄泉低语狮吼自身无法开"
+    },
     {
       "type": "wound_reassessment",
       "entity": "poison_hand_demon",
