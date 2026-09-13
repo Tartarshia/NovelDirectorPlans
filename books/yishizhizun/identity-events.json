@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0028",
+  "through_chapter": "v04-c0030",
   "events": [
+    {
+      "type": "identity_confirmed",
+      "entity": "yunhe",
+      "reference": "v04-c0029:p0025",
+      "fact_status": "万象掌门即前章古门道人"
+    },
+    {
+      "type": "talisman_carried",
+      "entity": "yunhe_shangqing_talisman",
+      "reference": "v04-c0029:p0030",
+      "fact_status": "混元一气上清神符请出携带未赠孟"
+    },
+    {
+      "type": "outsider_identity_confronted",
+      "entity": "meng_qi_jiang_zhiwei",
+      "reference": "v04-c0029:p0066",
+      "fact_status": "云鹤直点森罗门外来"
+    },
+    {
+      "type": "world_identity_revealed",
+      "entity": "wanxiang_grotto",
+      "reference": "v04-c0029:p0070",
+      "fact_status": "云鹤说明万象仙尊开辟避妖乱洞天"
+    },
+    {
+      "type": "gate_rule_explained",
+      "entity": "senluo_gate",
+      "reference": "v04-c0029:p0079",
+      "fact_status": "携门移动不改返回外界地点"
+    },
+    {
+      "type": "historical_gate_destroyed",
+      "entity": "mo_palace_refuge_gate",
+      "reference": "v04-c0029:p0081",
+      "fact_status": "避魔佛用另一门入后毁非孟当前门"
+    },
+    {
+      "type": "history_reported",
+      "entity": "ananda_shaohua",
+      "reference": "v04-c0030:p0049",
+      "fact_status": "古传妖圣杀阿难少华未独立验证"
+    },
+    {
+      "type": "trade_agreement",
+      "entity": "yunhe_meng_jiang",
+      "reference": "v04-c0030:p0068",
+      "fact_status": "外历送信材料符丹互通答应未实交易"
+    },
+    {
+      "type": "teaching_permission",
+      "entity": "meng_qi",
+      "reference": "v04-c0030:p0072",
+      "fact_status": "留道统云鹤许可尚未授"
+    },
+    {
+      "type": "realm_clarified",
+      "entity": "yunhe",
+      "reference": "v04-c0030:p0079",
+      "fact_status": "尚未阳神掌门真人为职称携符显威"
+    },
+    {
+      "type": "departure",
+      "entity": "meng_qi_jiang_zhiwei",
+      "reference": "v04-c0030:p0090",
+      "fact_status": "出城字条自去营墨未到"
+    },
     {
       "type": "identity_named",
       "entity": "zhu_kui",
