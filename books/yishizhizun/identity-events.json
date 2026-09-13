@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0042",
+  "through_chapter": "v04-c0044",
   "events": [
+    {
+      "type": "mission_assigned",
+      "entity": "meng_qi_yan_wuwo",
+      "reference": "v04-c0043:p0001",
+      "fact_status": "魂灯追救九娘孟潜探言协"
+    },
+    {
+      "type": "soul_lamp_confirmed",
+      "entity": "meng_qi",
+      "reference": "v04-c0043:p0005",
+      "fact_status": "正式后已留一盏非本章现造"
+    },
+    {
+      "type": "resources_received",
+      "entity": "meng_qi_array_new_talisman",
+      "reference": "v04-c0043:p0014",
+      "fact_status": "借四色图另领轮回符旧归还仍在"
+    },
+    {
+      "type": "hypothesis",
+      "entity": "twelve_links_boundary",
+      "reference": "v04-c0043:p0019",
+      "fact_status": "无明老死推十二因缘未定结界"
+    },
+    {
+      "type": "location_observed",
+      "entity": "zhenhui_hongneng",
+      "reference": "v04-c0043:p0039",
+      "fact_status": "帮建庙暂避未得神掌"
+    },
+    {
+      "type": "captive_located",
+      "entity": "qu_jiuniang",
+      "reference": "v04-c0043:p0066",
+      "fact_status": "地下暗河双看守萎靡活"
+    },
+    {
+      "type": "condition_clarified",
+      "entity": "qu_jiuniang",
+      "reference": "v04-c0044:p0001",
+      "fact_status": "气弱来自封禁非伤未救"
+    },
+    {
+      "type": "masters_detected",
+      "entity": "yan_wuwo",
+      "reference": "v04-c0044:p0034",
+      "fact_status": "150里三巅峰五宗师身份未知"
+    },
+    {
+      "type": "capture_completed",
+      "entity": "zhou_qiushan",
+      "reference": "v04-c0044:p0088",
+      "fact_status": "孟活封身神未审"
+    },
+    {
+      "type": "extraction_completed",
+      "entity": "yan_wuwo_meng_qi_zhou",
+      "reference": "v04-c0044:p0089",
+      "fact_status": "言赤火土遁带离钱卢未及"
+    },
     {
       "type": "fight_outcome",
       "entity": "meng_qi_jishan",
