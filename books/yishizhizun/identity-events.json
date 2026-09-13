@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0038",
+  "through_chapter": "v04-c0040",
   "events": [
+    {
+      "type": "assistance_confirmed",
+      "entity": "yunhe",
+      "reference": "v04-c0039:p0014",
+      "fact_status": "消本愿力定十心助孟斩"
+    },
+    {
+      "type": "psychological_shift",
+      "entity": "xue_lengzhao",
+      "reference": "v04-c0039:p0005",
+      "fact_status": "施害者不可胜形象崩散"
+    },
+    {
+      "type": "items_kept",
+      "entity": "meng_qi_nine_eye_abyss_stone",
+      "reference": "v04-c0039:p0040",
+      "fact_status": "九眼轮回珠渊海玄石实留未用"
+    },
+    {
+      "type": "clue_found",
+      "entity": "shixin_map_bead",
+      "reference": "v04-c0039:p0042",
+      "fact_status": "七红点一红圈地图有力黑珠未鉴"
+    },
+    {
+      "type": "talisman_returned",
+      "entity": "meng_qi_reincarnation_talisman",
+      "reference": "v04-c0039:p0063",
+      "fact_status": "江实还轮回符孟门仍江持"
+    },
+    {
+      "type": "loot_handoff",
+      "entity": "jiang_zhiwei_to_yunhe",
+      "reference": "v04-c0039:p0064",
+      "fact_status": "黄袋交江转云未见云接"
+    },
+    {
+      "type": "empty_settlement",
+      "entity": "liusha_market",
+      "reference": "v04-c0040:p0001",
+      "fact_status": "无生灵店无损九娘无暗记"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "jishan",
+      "reference": "v04-c0040:p0048",
+      "fact_status": "金刚寺三重未首梯斩外魔"
+    },
+    {
+      "type": "arrival_observed",
+      "entity": "zhao_qian_wei_gao",
+      "reference": "v04-c0040:p0029",
+      "fact_status": "梁王与宦官普通外景到旁观"
+    },
+    {
+      "type": "fight_started",
+      "entity": "meng_qi_jishan",
+      "reference": "v04-c0040:p0063",
+      "fact_status": "流火试剑未见胜负"
+    },
     {
       "type": "help_agreement",
       "entity": "yunhe_meng_qi",
