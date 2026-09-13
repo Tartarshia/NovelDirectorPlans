@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0036",
+  "through_chapter": "v04-c0038",
   "events": [
+    {
+      "type": "help_agreement",
+      "entity": "yunhe_meng_qi",
+      "reference": "v04-c0037:p0047",
+      "fact_status": "援强敌云七孟三实约未分赃"
+    },
+    {
+      "type": "realm_confirmed",
+      "entity": "xue_lengzhao",
+      "reference": "v04-c0037:p0052",
+      "fact_status": "外景三重创伤仍存"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "shixin_shangren",
+      "reference": "v04-c0037:p0065",
+      "fact_status": "欢喜庙四重行一师叔施害者"
+    },
+    {
+      "type": "participation_declined",
+      "entity": "su_wuming",
+      "reference": "v04-c0037:p0073",
+      "fact_status": "留洗剑阁不争神掌"
+    },
+    {
+      "type": "participation_declined",
+      "entity": "lu_da",
+      "reference": "v04-c0037:p0079",
+      "fact_status": "坟旁劳作不参与"
+    },
+    {
+      "type": "travel_decision",
+      "entity": "kongwen_kongjian_wujing",
+      "reference": "v04-c0038:p0019",
+      "fact_status": "拟缓行刀留寺玄悲请行被拒"
+    },
+    {
+      "type": "ability_confirmed",
+      "entity": "jiang_zhiwei_duan_weilai",
+      "reference": "v04-c0038:p0075",
+      "fact_status": "第二法身剑招已掌防变化"
+    },
+    {
+      "type": "injured",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0038:p0088",
+      "fact_status": "持续硬抗四重七窍血内伤未治"
+    },
+    {
+      "type": "coerced_after_resistance",
+      "entity": "xue_lengzhao",
+      "reference": "v04-c0038:p0092",
+      "fact_status": "先指剑拒后被压服欲助袭未见命中"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "shixin_shangren",
+      "reference": "v04-c0038:p0106",
+      "fact_status": "门开受束孟刀纵劈两尸死"
+    },
     {
       "type": "identity_named",
       "entity": "loujia",
