@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0020",
+  "through_chapter": "v04-c0022",
   "events": [
+    {
+      "type": "item_retained",
+      "entity": "meng_qi_xuanshui_flag",
+      "reference": "v04-c0021:p0020",
+      "fact_status": "未卖留烙印收戒"
+    },
+    {
+      "type": "remaining_use_confirmed",
+      "entity": "meng_qi_nine_heart_beads",
+      "reference": "v04-c0021:p0024",
+      "fact_status": "仅护法琉璃光可用"
+    },
+    {
+      "type": "item_sold",
+      "entity": "meng_qi_evil_spirit_stone",
+      "reference": "v04-c0021:p0037",
+      "fact_status": "2800售九娘"
+    },
+    {
+      "type": "balance_stated",
+      "entity": "meng_qi_merit",
+      "reference": "v04-c0021:p0047",
+      "fact_status": "卖货合旧余12645"
+    },
+    {
+      "type": "information_purchased",
+      "entity": "senluo_wanxiang_gate",
+      "reference": "v04-c0021:p0064",
+      "fact_status": "1500得地址及令消息未开门"
+    },
+    {
+      "type": "infusion_completed",
+      "entity": "meng_qi_causality_blade",
+      "reference": "v04-c0022:p0024",
+      "fact_status": "灌体版承担所有因果非真意无解版"
+    },
+    {
+      "type": "moves_purchased",
+      "entity": "meng_qi_purple_thunder",
+      "reference": "v04-c0022:p0034",
+      "fact_status": "买五加旧一共六末击未买"
+    },
+    {
+      "type": "move_purchased",
+      "entity": "meng_qi_sunfall",
+      "reference": "v04-c0022:p0041",
+      "fact_status": "复原中品日陨非绝世原版"
+    },
+    {
+      "type": "invitation_received",
+      "entity": "affiliate_team",
+      "reference": "v04-c0022:p0055",
+      "fact_status": "半年后江东聚会未赴"
+    },
+    {
+      "type": "items_acquired",
+      "entity": "meng_qi_pill_and_robe",
+      "reference": "v04-c0022:p0057",
+      "fact_status": "吐火纳玄丹清源道袍实兑未耗"
+    },
     {
       "type": "released",
       "entity": "gatekeeper",
