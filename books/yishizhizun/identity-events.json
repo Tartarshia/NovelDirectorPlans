@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0034",
+  "through_chapter": "v04-c0036",
   "events": [
+    {
+      "type": "identity_named",
+      "entity": "loujia",
+      "reference": "v04-c0035:p0002",
+      "fact_status": "修罗男楼伽忿怒相"
+    },
+    {
+      "type": "identity_named",
+      "entity": "xue_lengzhao",
+      "reference": "v04-c0035:p0026",
+      "fact_status": "雪山女雪冷钊挡停撤民"
+    },
+    {
+      "type": "alias_used",
+      "entity": "meng_qi_shen_bao",
+      "reference": "v04-c0035:p0062",
+      "fact_status": "申豹播密复仇说辞伪装"
+    },
+    {
+      "type": "identity_suspected",
+      "entity": "zhou_qiushan",
+      "reference": "v04-c0035:p0073",
+      "fact_status": "符合齐描述疑神话赐福天官未证"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "lu_jiang_gatekeeper",
+      "reference": "v04-c0036:p0027",
+      "fact_status": "余生居士卢江即获释看门人"
+    },
+    {
+      "type": "invitation_declined",
+      "entity": "meng_qi",
+      "reference": "v04-c0036:p0049",
+      "fact_status": "拒钱周联探避免未知底牌"
+    },
+    {
+      "type": "sect_presence_reported",
+      "entity": "xijian_pavilion",
+      "reference": "v04-c0036:p0063",
+      "fact_status": "余枯木荣华许南明火尊在苏未证"
+    },
+    {
+      "type": "missing_person",
+      "entity": "xie_jiugui",
+      "reference": "v04-c0036:p0081",
+      "fact_status": "酒店毁谢失踪生死凶手未知"
+    },
+    {
+      "type": "gate_custody",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0036:p0087",
+      "fact_status": "孟入洞天江收门在鱼海外行"
+    },
+    {
+      "type": "buddhist_light_observed",
+      "entity": "fishsea",
+      "reference": "v04-c0036:p0088",
+      "fact_status": "金琉璃佛光再升未证总纲出世"
+    },
     {
       "type": "contract_agreed",
       "entity": "qinghua_spirit_wood",
