@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0032",
+  "through_chapter": "v04-c0034",
   "events": [
+    {
+      "type": "contract_agreed",
+      "entity": "qinghua_spirit_wood",
+      "reference": "v04-c0033:p0013",
+      "fact_status": "合作敲定超额成本补另酬未交"
+    },
+    {
+      "type": "companions_introduced",
+      "entity": "mingxu_mingguang",
+      "reference": "v04-c0033:p0019",
+      "fact_status": "真符已凝远不及外景随外历"
+    },
+    {
+      "type": "cargo_received",
+      "entity": "meng_qi_jiang_zhiwei",
+      "reference": "v04-c0033:p0025",
+      "fact_status": "托售材料符丹入戒非私酬"
+    },
+    {
+      "type": "talismans_received",
+      "entity": "shexuan_substitution",
+      "reference": "v04-c0033:p0028",
+      "fact_status": "孟江各一五六重替灾一次未用"
+    },
+    {
+      "type": "gate_stored",
+      "entity": "meng_qi_senluo_gate",
+      "reference": "v04-c0033:p0036",
+      "fact_status": "门本体实收入芥子环"
+    },
+    {
+      "type": "news_received",
+      "entity": "buddha_palm_outline",
+      "reference": "v04-c0033:p0050",
+      "fact_status": "谢转王氏半年内出世预测未实出"
+    },
+    {
+      "type": "enemy_identified",
+      "entity": "xuannv",
+      "reference": "v04-c0033:p0077",
+      "fact_status": "偶遇玄女随后判断应身"
+    },
+    {
+      "type": "escape_by_deterrence",
+      "entity": "meng_qi",
+      "reference": "v04-c0034:p0057",
+      "fact_status": "不完整沾因果吓退未出刀"
+    },
+    {
+      "type": "messengers_returned",
+      "entity": "mingxu_mingguang",
+      "reference": "v04-c0034:p0075",
+      "fact_status": "实回洞天请云鹤候援未答复"
+    },
+    {
+      "type": "evacuation_reported",
+      "entity": "fishsea_civilians",
+      "reference": "v04-c0034:p0081",
+      "fact_status": "三派要求城主疏散普通人"
+    },
     {
       "type": "identity_named",
       "entity": "fang_huayin",
