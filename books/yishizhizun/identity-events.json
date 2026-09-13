@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0044",
+  "through_chapter": "v04-c0045",
   "events": [
+    {
+      "type": "ring_secured",
+      "entity": "zhou_qiushan_ring",
+      "reference": "v04-c0045:p0011",
+      "fact_status": "先取镇压后孟保住内容未清点"
+    },
+    {
+      "type": "memory_evidence",
+      "entity": "zhou_qiushan_shenhua",
+      "reference": "v04-c0045:p0017",
+      "fact_status": "九娘紫薇记忆证神话关联"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "zhou_qiushan",
+      "reference": "v04-c0045:p0019",
+      "fact_status": "读忆见未知无面具来者前禁火灰死"
+    },
+    {
+      "type": "disguise_used",
+      "entity": "meng_qi_as_zhou_qiushan",
+      "reference": "v04-c0045:p0052",
+      "fact_status": "变周戴真戒无其功运行路线"
+    },
+    {
+      "type": "false_statement",
+      "entity": "qian_kai_missing_claim",
+      "reference": "v04-c0045:p0065",
+      "fact_status": "孟假报钱失踪牵制星主非事实"
+    },
+    {
+      "type": "array_consumed",
+      "entity": "meng_qi_borrowed_array",
+      "reference": "v04-c0045:p0074",
+      "fact_status": "四色阵图保护撤离战中全灭"
+    },
+    {
+      "type": "rescue_completed",
+      "entity": "qu_jiuniang",
+      "reference": "v04-c0045:p0076",
+      "fact_status": "贪汗携出言解除封禁"
+    },
+    {
+      "type": "identity_confirmed_reader_only",
+      "entity": "tiandi_false_jiuniang",
+      "reference": "v04-c0045:p0083",
+      "fact_status": "暗河假九娘变天帝孟未见"
+    },
+    {
+      "type": "property_missing",
+      "entity": "qu_jiuniang_ring",
+      "reference": "v04-c0045:p0078",
+      "fact_status": "获救仍念失去芥子环未追回"
+    },
     {
       "type": "mission_assigned",
       "entity": "meng_qi_yan_wuwo",
