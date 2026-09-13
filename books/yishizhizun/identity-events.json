@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0040",
+  "through_chapter": "v04-c0042",
   "events": [
+    {
+      "type": "fight_outcome",
+      "entity": "meng_qi_jishan",
+      "reference": "v04-c0041:p0060",
+      "fact_status": "日陨击伤吉未杀未追"
+    },
+    {
+      "type": "bone_observed",
+      "entity": "second_huangquan_hand_bone",
+      "reference": "v04-c0041:p0067",
+      "fact_status": "另一有力骨未取得"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "lingbao_chonghe",
+      "reference": "v04-c0042:p0007",
+      "fact_status": "冲和摘面法身实证"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "taiyi_yan_wuwo",
+      "reference": "v04-c0042:p0017",
+      "fact_status": "太乙真人言无我"
+    },
+    {
+      "type": "past_duel_explained",
+      "entity": "yan_wuwo_ye_yuqi",
+      "reference": "v04-c0042:p0021",
+      "fact_status": "联任务后演分赃斗掩组织关系"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "lishan_mingfa",
+      "reference": "v04-c0042:p0028",
+      "fact_status": "水月庵明法八重"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "nanhua_cui_qingliu",
+      "reference": "v04-c0042:p0030",
+      "fact_status": "崔清流七重"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "changsheng_he_xiu",
+      "reference": "v04-c0042:p0035",
+      "fact_status": "何休七重"
+    },
+    {
+      "type": "identity_and_survival_confirmed",
+      "entity": "chunyangzi_xie_jiugui",
+      "reference": "v04-c0042:p0041",
+      "fact_status": "羲袭重伤逃密地秘篆告"
+    },
+    {
+      "type": "alive_missing",
+      "entity": "qu_jiuniang",
+      "reference": "v04-c0042:p0049",
+      "fact_status": "魂灯未灭去向未知"
+    },
+    {
+      "type": "alliance_proposed",
+      "entity": "chonghe_he_qi_cui_qinghe",
+      "reference": "v04-c0042:p0070",
+      "fact_status": "联合条件待传商未成盟"
+    },
     {
       "type": "assistance_confirmed",
       "entity": "yunhe",
