@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0022",
+  "through_chapter": "v04-c0024",
   "events": [
+    {
+      "type": "information_reported",
+      "entity": "fengshen_world",
+      "reference": "v04-c0023:p0017",
+      "fact_status": "九娘述仙迹玄坛被仿钉头七箭书害非原赵公明"
+    },
+    {
+      "type": "elapsed_cultivation",
+      "entity": "meng_qi",
+      "reference": "v04-c0023:p0039",
+      "fact_status": "用材凝穴实修两个月新重天未明报"
+    },
+    {
+      "type": "realm_revealed",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0023:p0045",
+      "fact_status": "江突破第二重天孟按时间推断"
+    },
+    {
+      "type": "perception_improved",
+      "entity": "meng_qi_causality",
+      "reference": "v04-c0023:p0043",
+      "fact_status": "可辨部分因果好坏未圆满真意刀"
+    },
+    {
+      "type": "gate_entered",
+      "entity": "meng_qi_jiang_zhiwei",
+      "reference": "v04-c0023:p0068",
+      "fact_status": "双钥令开门实入火山"
+    },
+    {
+      "type": "gate_closed_token_kept",
+      "entity": "senluo_gate",
+      "reference": "v04-c0024:p0013",
+      "fact_status": "入后关门收令抹迹"
+    },
+    {
+      "type": "identity_introduced",
+      "entity": "xie_xian",
+      "reference": "v04-c0024:p0033",
+      "fact_status": "十六七茂才非贤才"
+    },
+    {
+      "type": "alias_used",
+      "entity": "meng_qi",
+      "reference": "v04-c0024:p0034",
+      "fact_status": "向当地自称苏孟"
+    },
+    {
+      "type": "identity_named",
+      "entity": "ouyang_zheng",
+      "reference": "v04-c0024:p0068",
+      "fact_status": "道装桃木剑符仙宗轻视武者"
+    },
+    {
+      "type": "threat_inferred",
+      "entity": "sword_case_stranger",
+      "reference": "v04-c0024:p0082",
+      "fact_status": "因果煞预感不妙未交战"
+    },
     {
       "type": "item_retained",
       "entity": "meng_qi_xuanshui_flag",
