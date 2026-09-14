@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0057",
+  "through_chapter": "v04-c0058",
   "events": [
+    {
+      "type": "loot_possession_seen",
+      "entity": "western_kongwen_named_actor",
+      "reference": "v04-c0058:p0002",
+      "fact_status": "持三黄泉骨未揭真面"
+    },
+    {
+      "type": "rescue_request",
+      "entity": "sixth_layer_captive",
+      "reference": "v04-c0058:p0017",
+      "fact_status": "托兰柯画眉求援未送达"
+    },
+    {
+      "type": "form_testimony",
+      "entity": "han_guang_dharmakaya",
+      "reference": "v04-c0058:p0028",
+      "fact_status": "囚者述两臂帝袍天冠异阎魔"
+    },
+    {
+      "type": "sword_move_used",
+      "entity": "jiang_zhiwei_taishang_wangqing",
+      "reference": "v04-c0058:p0051",
+      "fact_status": "勉强掌握需积气首次此处实用"
+    },
+    {
+      "type": "escape_confirmed",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0058:p0054",
+      "fact_status": "脱衍化素女仙界后遇应身"
+    },
+    {
+      "type": "return_confirmed",
+      "entity": "meng_qi",
+      "reference": "v04-c0058:p0064",
+      "fact_status": "青光回帕先假影真身随后显"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "nine_heavens_thunder",
+      "reference": "v04-c0058:p0079",
+      "fact_status": "真沾因果后倒无息孟代价未呈"
+    },
     {
       "type": "identity_remains_unknown",
       "entity": "second_dharmakaya_helper",
