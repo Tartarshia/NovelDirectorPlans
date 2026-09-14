@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0061",
+  "through_chapter": "v04-c0062",
   "events": [
+    {
+      "type": "array_activated",
+      "entity": "yuhai_twelve_links",
+      "reference": "v04-c0062:p0013",
+      "fact_status": "实困抽外景力量宗师及护者免"
+    },
+    {
+      "type": "return_completed",
+      "entity": "xue_lengzhao",
+      "reference": "v04-c0062:p0027",
+      "fact_status": "已在雪山宗门"
+    },
+    {
+      "type": "identity_explicit",
+      "entity": "tai_li",
+      "reference": "v04-c0062:p0042",
+      "fact_status": "叙述五色发太离"
+    },
+    {
+      "type": "demon_kings_arrived",
+      "entity": "tai_li_white_tiger_kui",
+      "reference": "v04-c0062:p0048",
+      "fact_status": "三妖王参局后二未名"
+    },
+    {
+      "type": "evacuation_completed",
+      "entity": "chonghe_companions",
+      "reference": "v04-c0062:p0050",
+      "fact_status": "九娘言等已送出佛光"
+    },
+    {
+      "type": "fragment_entry",
+      "entity": "lu_da_and_meng_qi",
+      "reference": "v04-c0062:p0073",
+      "fact_status": "由真实门定位至无禅字片门"
+    },
+    {
+      "type": "rescue_completed",
+      "entity": "kongwen",
+      "reference": "v04-c0062:p0084",
+      "fact_status": "阵破本人走出"
+    },
+    {
+      "type": "identity_authenticated",
+      "entity": "captive_kongwen",
+      "reference": "v04-c0062:p0085",
+      "fact_status": "陆大传音确认是真的"
+    },
     {
       "type": "reward_promised",
       "entity": "meng_qi_bajiu_dharmakaya_move",
