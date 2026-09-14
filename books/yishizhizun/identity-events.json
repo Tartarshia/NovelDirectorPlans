@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0048",
+  "through_chapter": "v04-c0049",
   "events": [
+    {
+      "type": "world_return_confirmed",
+      "entity": "meng_qi_duoercha",
+      "reference": "v04-c0049:p0010",
+      "fact_status": "实在少华山旧密道"
+    },
+    {
+      "type": "self_imposed_deadline",
+      "entity": "meng_qi",
+      "reference": "v04-c0049:p0017",
+      "fact_status": "定七日到期返未经过"
+    },
+    {
+      "type": "backup_talisman_unspent",
+      "entity": "meng_qi",
+      "reference": "v04-c0049:p0018",
+      "fact_status": "筹划再用一张仍未用"
+    },
+    {
+      "type": "causal_door_entry",
+      "entity": "meng_qi",
+      "reference": "v04-c0049:p0061",
+      "fact_status": "沾因果使入门未证真刀练成"
+    },
+    {
+      "type": "covert_appearance",
+      "entity": "wang_siyuan",
+      "reference": "v04-c0049:p0074",
+      "fact_status": "四人潜入莲台后山仅王明名"
+    },
+    {
+      "type": "parallel_inscription",
+      "entity": "liantai_sealed_door",
+      "reference": "v04-c0049:p0080",
+      "fact_status": "同八字琉璃如封印两门关系未知"
+    },
     {
       "type": "talisman_used",
       "entity": "meng_qi_shexuan",
