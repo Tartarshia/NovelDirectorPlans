@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0060",
+  "through_chapter": "v04-c0061",
   "events": [
+    {
+      "type": "reward_promised",
+      "entity": "meng_qi_bajiu_dharmakaya_move",
+      "reference": "v04-c0061:p0005",
+      "fact_status": "事后选一招尚未授"
+    },
+    {
+      "type": "sales_completed",
+      "entity": "meng_qi_loot_sale",
+      "reference": "v04-c0061:p0019",
+      "fact_status": "棍福刀两戒换6200善功"
+    },
+    {
+      "type": "alchemy_completed",
+      "entity": "three_dongji_longevity_pills",
+      "reference": "v04-c0061:p0026",
+      "fact_status": "三丹实出未服卖"
+    },
+    {
+      "type": "container_purchased",
+      "entity": "danfang_jade_bottle",
+      "reference": "v04-c0061:p0027",
+      "fact_status": "1200善功实购"
+    },
+    {
+      "type": "briefing_delivered",
+      "entity": "ye_yuqi_and_lu_da",
+      "reference": "v04-c0061:p0065",
+      "fact_status": "叶听孟并转述陆"
+    },
+    {
+      "type": "rescue_action_accepted",
+      "entity": "lu_da",
+      "reference": "v04-c0061:p0067",
+      "fact_status": "取剑邀孟赴少林未救出"
+    },
+    {
+      "type": "array_center_discovered",
+      "entity": "qu_jiuniang_yuhai",
+      "reference": "v04-c0061:p0072",
+      "fact_status": "搜魂知鱼海十二因缘阵眼"
+    },
+    {
+      "type": "start_order",
+      "entity": "unnamed_yuhai_monks",
+      "reference": "v04-c0061:p0077",
+      "fact_status": "鱼海僧令开始后果未示"
+    },
     {
       "type": "affiliation_questioned",
       "entity": "howling_moon_dog",
