@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0068",
+  "through_chapter": "v04-c0069",
   "events": [
+    {
+      "type": "salvage_obtained",
+      "entity": "meng_qi_kui_blood",
+      "reference": "v04-c0069:p0018",
+      "fact_status": "十一滴实得未升刀"
+    },
+    {
+      "type": "loot_distributed",
+      "entity": "meng_qi_and_yunhe",
+      "reference": "v04-c0069:p0046",
+      "fact_status": "孟留十一血五行羽云取虎掌功德等"
+    },
+    {
+      "type": "return_confirmed",
+      "entity": "yunhe_to_grotto",
+      "reference": "v04-c0069:p0049",
+      "fact_status": "回洞天门位挪看守处"
+    },
+    {
+      "type": "assistance_requires_arrangement",
+      "entity": "yunhe",
+      "reference": "v04-c0069:p0051",
+      "fact_status": "不再随时待命须预约"
+    },
+    {
+      "type": "return_confirmed",
+      "entity": "meng_qi_biyou_palace",
+      "reference": "v04-c0069:p0055",
+      "fact_status": "实回刀未升级"
+    },
+    {
+      "type": "offer_reported",
+      "entity": "kongwen_shaolin_return_offer",
+      "reference": "v04-c0069:p0056",
+      "fact_status": "面壁三年后经掌未接受"
+    },
+    {
+      "type": "selection_authorized",
+      "entity": "meng_qi_bajiu_reward",
+      "reference": "v04-c0069:p0064",
+      "fact_status": "允许选招尚未选"
+    },
+    {
+      "type": "technique_described_not_learned",
+      "entity": "flesh_has_spirit",
+      "reference": "v04-c0069:p0068",
+      "fact_status": "介绍血肉有灵非孟掌握"
+    },
     {
       "type": "name_revealed",
       "entity": "lanke_moon_mani_bodhisattva",
