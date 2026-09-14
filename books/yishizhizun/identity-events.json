@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0064",
+  "through_chapter": "v04-c0065",
   "events": [
+    {
+      "type": "rank_confirmed",
+      "entity": "nine_monks_near_zhao_qian",
+      "reference": "v04-c0065:p0003",
+      "fact_status": "九位均宗师宗派未定"
+    },
+    {
+      "type": "form_name_explicit",
+      "entity": "han_guang_yanmo_emperor_body",
+      "reference": "v04-c0065:p0015",
+      "fact_status": "阎魔帝身叙述明名"
+    },
+    {
+      "type": "artifacts_destroyed",
+      "entity": "han_mirror_chonghe_pearl",
+      "reference": "v04-c0065:p0050",
+      "fact_status": "镜珠同碎塔此前自爆"
+    },
+    {
+      "type": "escape_confirmed",
+      "entity": "han_guang_and_tai_li",
+      "reference": "v04-c0065:p0060",
+      "fact_status": "两者重伤脱逃韩积累几尽"
+    },
+    {
+      "type": "escape_with_limb_loss",
+      "entity": "white_tiger_king",
+      "reference": "v04-c0065:p0067",
+      "fact_status": "舍左掌风遁"
+    },
+    {
+      "type": "escape_with_severe_injury",
+      "entity": "kui_king",
+      "reference": "v04-c0065:p0069",
+      "fact_status": "受何十八剑雷遁"
+    },
+    {
+      "type": "vow_proclaimed",
+      "entity": "zhao_qian",
+      "reference": "v04-c0065:p0081",
+      "fact_status": "末法人人皆佛"
+    },
+    {
+      "type": "artifact_flies_away",
+      "entity": "kurong_bodhi",
+      "reference": "v04-c0065:p0086",
+      "fact_status": "随愿远投落点得主未示"
+    },
     {
       "type": "identity_explicit",
       "entity": "current_joy_bodhisattva",
