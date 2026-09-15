@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0085",
+  "through_chapter": "v04-c0086",
   "events": [
+    {
+      "type": "location_confirmed",
+      "entity": "han_bole_city",
+      "reference": "v04-c0086:p0039",
+      "fact_status": "队伍打探确定汉地博乐城"
+    },
+    {
+      "type": "character_introduced",
+      "entity": "ji_wu_bole_lord",
+      "reference": "v04-c0086:p0048",
+      "fact_status": "博乐君姬武汉侯弟，众察宗师"
+    },
+    {
+      "type": "doctrine_rejected",
+      "entity": "ji_wu_rejects_frugal_burial",
+      "reference": "v04-c0086:p0064",
+      "fact_status": "自述文王后裔死后通天而拒节葬"
+    },
+    {
+      "type": "departure_executed",
+      "entity": "team_leaves_bole_lord",
+      "reference": "v04-c0086:p0074",
+      "fact_status": "拒留门客、五人离去未被阻"
+    },
+    {
+      "type": "unidentified_contact",
+      "entity": "caller_after_bole_visit",
+      "reference": "v04-c0086:p0078",
+      "fact_status": "追喊朋友留步身份未明"
+    },
     {
       "type": "realm_confirmed",
       "entity": "qi_zhengyan_perfect_half_step",
