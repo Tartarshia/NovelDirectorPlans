@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0082",
+  "through_chapter": "v04-c0083",
   "events": [
+    {
+      "type": "return_executed",
+      "entity": "meng_qi_lanke_to_maoling",
+      "reference": "v04-c0083:p0005",
+      "fact_status": "再悟完实际经净土门返茂陵"
+    },
+    {
+      "type": "reward_paid",
+      "entity": "yan_wuwo_auction_fee",
+      "reference": "v04-c0083:p0008",
+      "fact_status": "言按约实挑材兵取酬"
+    },
+    {
+      "type": "realm_advanced",
+      "entity": "meng_qi_third_heaven",
+      "reference": "v04-c0083:p0033",
+      "fact_status": "凝完窍穴外景第三重，未过第一天梯"
+    },
+    {
+      "type": "balance_explicit",
+      "entity": "meng_qi_merit_20700",
+      "reference": "v04-c0083:p0040",
+      "fact_status": "修行交易交款后明示余额，手骨解密未付"
+    },
+    {
+      "type": "techniques_entry_confirmed",
+      "entity": "meng_qi_yinyang_youxue",
+      "reference": "v04-c0083:p0046",
+      "fact_status": "阴阳印血肉有灵入门，唯我独尊皮毛，三宝拳尚未小成"
+    },
+    {
+      "type": "meeting_invitation",
+      "entity": "immortal_traces_formal_members",
+      "reference": "v04-c0083:p0049",
+      "fact_status": "斗姆邀七日后会，孟答应未开会"
+    },
     {
       "type": "identity_revealed",
       "entity": "ji_feihong",
