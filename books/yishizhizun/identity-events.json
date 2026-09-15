@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0094",
+  "through_chapter": "v04-c0095",
   "events": [
+    {
+      "type": "assassination_failed",
+      "entity": "tian_guang",
+      "reference": "v04-c0095:p0033",
+      "fact_status": "化血掌中孟无伤，自爆未成"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "tian_guang_killed_by_father",
+      "reference": "v04-c0095:p0048",
+      "fact_status": "孟撞伤后田横杀子"
+    },
+    {
+      "type": "office_removed",
+      "entity": "tian_heng",
+      "reference": "v04-c0095:p0053",
+      "fact_status": "王罢司寇称彻查未灭田家"
+    },
+    {
+      "type": "policy_implemented",
+      "entity": "chen_new_policies",
+      "reference": "v04-c0095:p0068",
+      "fact_status": "正式发布顺推暂撤卡，一月后商贸有成效"
+    },
+    {
+      "type": "virtue_received",
+      "entity": "team_merit_morality",
+      "reference": "v04-c0095:p0102",
+      "fact_status": "功德道德加身，未报新境"
+    },
+    {
+      "type": "return_confirmed",
+      "entity": "gongyang_zeng_son",
+      "reference": "v04-c0095:p0107",
+      "fact_status": "儿归家，金光洞决定与本名未明"
+    },
     {
       "type": "allegiance_change_reported",
       "entity": "tian_kuo_yangcheng_governor",
