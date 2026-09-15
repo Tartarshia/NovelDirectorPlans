@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0088",
+  "through_chapter": "v04-c0089",
   "events": [
+    {
+      "type": "expulsion_delivered",
+      "entity": "zhou_xin_order",
+      "reference": "v04-c0089:p0002",
+      "fact_status": "实传傍晚前离境令"
+    },
+    {
+      "type": "manual_distributed",
+      "entity": "moshu",
+      "reference": "v04-c0089:p0041",
+      "fact_status": "团队创开窍诸法赵等实抄传留者"
+    },
+    {
+      "type": "followers_depart",
+      "entity": "zhao_bai_bai_song_wang_qi",
+      "reference": "v04-c0089:p0042",
+      "fact_status": "三人自愿随五人出城弃车飞行"
+    },
+    {
+      "type": "route_changed",
+      "entity": "team_northeast",
+      "reference": "v04-c0089:p0043",
+      "fact_status": "改东北而非东南环国"
+    },
+    {
+      "type": "tracking_abilities_revealed",
+      "entity": "unnamed_two_disciples",
+      "reference": "v04-c0089:p0062",
+      "fact_status": "师兄千里眼师弟顺风耳，名字未知"
+    },
+    {
+      "type": "ambush_deployed",
+      "entity": "shanhe_sheji_picture",
+      "reference": "v04-c0089:p0070",
+      "fact_status": "画卷实融周围虚空，尚未示队伍入图"
+    },
     {
       "type": "character_introduced",
       "entity": "cao_he_lower_shi",
