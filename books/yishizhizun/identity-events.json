@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0071",
+  "through_chapter": "v04-c0072",
   "events": [
+    {
+      "type": "host_dead_entity_escaped",
+      "entity": "unnamed_white_robed_swordsman",
+      "reference": "v04-c0072:p0020",
+      "fact_status": "人身碎毁后树干须肢状主体逃水"
+    },
+    {
+      "type": "host_dead_entity_escaped",
+      "entity": "unnamed_fog_caster",
+      "reference": "v04-c0072:p0021",
+      "fact_status": "头毁身全后彩纹红球逸海"
+    },
+    {
+      "type": "technique_confirmed",
+      "entity": "meng_qi_previous_palm",
+      "reference": "v04-c0072:p0025",
+      "fact_status": "回顾明确法天象地配翻天印天地倒倾"
+    },
+    {
+      "type": "character_introduced",
+      "entity": "fang_butong",
+      "reference": "v04-c0072:p0066",
+      "fact_status": "侨夏州巡抚，密探新报证旧船难参与"
+    },
+    {
+      "type": "temporary_office_transfer",
+      "entity": "zhang_yuquan",
+      "reference": "v04-c0072:p0071",
+      "fact_status": "实抵新海奉诏暂代侨夏州巡抚，任务未正式结算"
+    },
     {
       "type": "arrival_confirmed",
       "entity": "meng_qi_affiliated_palace",
