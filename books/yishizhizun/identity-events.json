@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0080",
+  "through_chapter": "v04-c0081",
   "events": [
+    {
+      "type": "identity_revealed",
+      "entity": "fengdian_envoy",
+      "reference": "v04-c0081:p0010",
+      "fact_status": "罗教神使首位226岁外景巅峰地26黑5"
+    },
+    {
+      "type": "name_confirmed",
+      "entity": "zhang_duan",
+      "reference": "v04-c0081:p0020",
+      "fact_status": "张家老祖本名"
+    },
+    {
+      "type": "kinship_confirmed",
+      "entity": "ruan_chengde",
+      "reference": "v04-c0081:p0030",
+      "fact_status": "阮三爷系阮老太爷嫡兄之子，非老太爷儿子"
+    },
+    {
+      "type": "sale_completed",
+      "entity": "first_eastern_longevity_pill",
+      "reference": "v04-c0081:p0056",
+      "fact_status": "张端交十三稀材实接丹"
+    },
+    {
+      "type": "pill_consumed",
+      "entity": "zhang_duan_longevity_pill",
+      "reference": "v04-c0081:p0061",
+      "fact_status": "鉴后揭面吞服，直吞药效折扣实际增寿未测"
+    },
+    {
+      "type": "bid_not_sale",
+      "entity": "unnamed_luoyue_staff_bidder",
+      "reference": "v04-c0081:p0069",
+      "fact_status": "十五材加极品落月棍报价，尚未成交"
+    },
     {
       "type": "planned_sale_not_completed",
       "entity": "meng_qi_two_eastern_longevity_pills",
@@ -28,7 +64,7 @@
     },
     {
       "type": "delegation_order",
-      "entity": "ruan_third_son",
+      "entity": "ruan_third_master",
       "reference": "v04-c0080:p0051",
       "fact_status": "老太爷命三郎代赴并解旧迁怒，未示到场"
     },
