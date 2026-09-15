@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0095",
+  "through_chapter": "v04-c0096",
   "events": [
+    {
+      "type": "character_named",
+      "entity": "gongyang_bo",
+      "reference": "v04-c0096:p0001",
+      "fact_status": "公羊增嫡次子金光洞新外景"
+    },
+    {
+      "type": "coup_planned",
+      "entity": "three_clans_against_chen_king",
+      "reference": "v04-c0096:p0027",
+      "fact_status": "拟拿王扶新君夺新政，结果未明"
+    },
+    {
+      "type": "membership_confirmed",
+      "entity": "tian_kuo_mohist",
+      "reference": "v04-c0096:p0057",
+      "fact_status": "考验保荐成墨者，已小司寇"
+    },
+    {
+      "type": "warning_acted_on",
+      "entity": "team_palace_escape",
+      "reference": "v04-c0096:p0069",
+      "fact_status": "田括示警后三遁转逃未脱险"
+    },
+    {
+      "type": "unidentified_threat",
+      "entity": "palace_archer",
+      "reference": "v04-c0096:p0070",
+      "fact_status": "未名持弓者凝金箭未射"
+    },
     {
       "type": "assassination_failed",
       "entity": "tian_guang",
