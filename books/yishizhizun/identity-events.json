@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0090",
+  "through_chapter": "v04-c0091",
   "events": [
+    {
+      "type": "species_confirmed",
+      "entity": "unnamed_brown_robed_peach_spirit",
+      "reference": "v04-c0091:p0001",
+      "fact_status": "师兄为桃精，记忆供妖皇殿细节"
+    },
+    {
+      "type": "fragment_heard_in_memory",
+      "entity": "yuxu_remnants",
+      "reference": "v04-c0091:p0020",
+      "fact_status": "师弟只听博乐密谈此词，所指未知"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "unnamed_brown_robed_peach_spirit",
+      "reference": "v04-c0091:p0025",
+      "fact_status": "孟反掌杀俘，现桃树"
+    },
+    {
+      "type": "loot_estimate",
+      "entity": "enemy_confusion_bell",
+      "reference": "v04-c0091:p0033",
+      "fact_status": "钟估剩一次，迷魂迷神异写同物"
+    },
+    {
+      "type": "destination_direction_agreed",
+      "entity": "team_tang_chu_small_states",
+      "reference": "v04-c0091:p0063",
+      "fact_status": "同意前往唐楚间小国区域，尚未抵达"
+    },
     {
       "type": "technique_entry_confirmed",
       "entity": "meng_qi_yuxu_divination",
