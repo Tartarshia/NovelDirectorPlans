@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0072",
+  "through_chapter": "v04-c0074",
   "events": [
+    {
+      "type": "captured_alive",
+      "entity": "fang_butong",
+      "reference": "v04-c0073:p0050",
+      "fact_status": "困神锁体手封禁，非拳杀"
+    },
+    {
+      "type": "identity_revealed",
+      "entity": "chen_wendeng",
+      "reference": "v04-c0073:p0057",
+      "fact_status": "张见血日识安东大日神巫"
+    },
+    {
+      "type": "injured",
+      "entity": "zhang_yuquan",
+      "reference": "v04-c0073:p0052",
+      "fact_status": "阻陈被击飞胸裂灼伤，下一章仍疗伤"
+    },
+    {
+      "type": "derived_technique_small_success",
+      "entity": "meng_qi_yinyang_bian",
+      "reference": "v04-c0074:p0037",
+      "fact_status": "阴阳变小成，阴阳印本体尚未初步练成"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "chen_wendeng",
+      "reference": "v04-c0074:p0042",
+      "fact_status": "元神消散脑毁随后血日反噬化灰"
+    },
+    {
+      "type": "testimony_not_independently_verified",
+      "entity": "herb_spirit_in_fang",
+      "reference": "v04-c0074:p0063",
+      "fact_status": "自称昆仑灵药迁封印，契约和入核心说仍待核"
+    },
+    {
+      "type": "entity_extracted",
+      "entity": "red_leaf_branch_spirit",
+      "reference": "v04-c0074:p0070",
+      "fact_status": "孟问地点后实抓出赤叶枝条怪物"
+    },
+    {
+      "type": "assistance_intended",
+      "entity": "meng_qi_seal_exploration",
+      "reference": "v04-c0074:p0071",
+      "fact_status": "决定回找天尊，尚未执行"
+    },
     {
       "type": "host_dead_entity_escaped",
       "entity": "unnamed_white_robed_swordsman",
