@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0086",
+  "through_chapter": "v04-c0087",
   "events": [
+    {
+      "type": "identity_revealed",
+      "entity": "zhao_bai",
+      "reference": "v04-c0087:p0004",
+      "fact_status": "追者博乐门客秦地平民外景"
+    },
+    {
+      "type": "character_named",
+      "entity": "bai_song",
+      "reference": "v04-c0087:p0050",
+      "fact_status": "短须外景自述唐农夫失家于楚唐战火"
+    },
+    {
+      "type": "character_named",
+      "entity": "wang_qi_wu_swordsman",
+      "reference": "v04-c0087:p0053",
+      "fact_status": "黑袍外景吴人自述杀贵族子后失家逃离"
+    },
+    {
+      "type": "allegiance_requested",
+      "entity": "bai_song_and_majority",
+      "reference": "v04-c0087:p0064",
+      "fact_status": "白松先拜大部请求追随，组织尚未成立"
+    },
     {
       "type": "location_confirmed",
       "entity": "han_bole_city",
