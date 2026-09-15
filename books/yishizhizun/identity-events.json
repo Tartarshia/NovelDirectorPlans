@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0093",
+  "through_chapter": "v04-c0094",
   "events": [
+    {
+      "type": "allegiance_change_reported",
+      "entity": "tian_kuo_yangcheng_governor",
+      "reference": "v04-c0094:p0002",
+      "fact_status": "田简报阳城宰田括已投孟"
+    },
+    {
+      "type": "target_selected_not_attacked",
+      "entity": "wang_dan_former_minister",
+      "reference": "v04-c0094:p0054",
+      "fact_status": "计划以其封地为执法目标，未出手"
+    },
+    {
+      "type": "weapons_temporarily_deposited",
+      "entity": "meng_qi_court_entry",
+      "reference": "v04-c0094:p0059",
+      "fact_status": "刀剑芥子环暂交侍卫保管"
+    },
+    {
+      "type": "office_announced",
+      "entity": "team_chen_official_posts",
+      "reference": "v04-c0094:p0062",
+      "fact_status": "孟大司徒其余小司徒正式宣布"
+    },
+    {
+      "type": "background_confirmed",
+      "entity": "tian_guang_upper_dafu",
+      "reference": "v04-c0094:p0065",
+      "fact_status": "30岁晋外景上大夫，当前年龄未明"
+    },
     {
       "type": "office_accepted",
       "entity": "meng_qi_chen_grand_minister",
