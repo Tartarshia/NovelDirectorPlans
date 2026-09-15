@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0069",
+  "through_chapter": "v04-c0070",
   "events": [
+    {
+      "type": "reward_selected",
+      "entity": "meng_qi_flesh_has_spirit",
+      "reference": "v04-c0070:p0010",
+      "fact_status": "选血肉有灵"
+    },
+    {
+      "type": "contemplation_completed",
+      "entity": "meng_qi_flesh_has_spirit",
+      "reference": "v04-c0070:p0014",
+      "fact_status": "已观玉简未确认练成"
+    },
+    {
+      "type": "lineage_report",
+      "entity": "moon_mani_bodhisattva",
+      "reference": "v04-c0070:p0043",
+      "fact_status": "灵宝述师与月光传承"
+    },
+    {
+      "type": "mission_collected",
+      "entity": "third_envoy_escort",
+      "reference": "v04-c0070:p0048",
+      "fact_status": "任务实领未护完"
+    },
+    {
+      "type": "upgrade_completed",
+      "entity": "tianzhishang",
+      "reference": "v04-c0070:p0051",
+      "fact_status": "十一血300仍中品5900五百斤以上"
+    },
+    {
+      "type": "upgrade_completed",
+      "entity": "qingyuan_robe",
+      "reference": "v04-c0070:p0053",
+      "fact_status": "五羽2000中品削五行价值4800"
+    },
+    {
+      "type": "portal_entered",
+      "entity": "meng_qi_tenth_portal",
+      "reference": "v04-c0070:p0056",
+      "fact_status": "玄袍元始面具踏光层"
+    },
     {
       "type": "salvage_obtained",
       "entity": "meng_qi_kui_blood",
