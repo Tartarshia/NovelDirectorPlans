@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0087",
+  "through_chapter": "v04-c0088",
   "events": [
+    {
+      "type": "character_introduced",
+      "entity": "cao_he_lower_shi",
+      "reference": "v04-c0088:p0002",
+      "fact_status": "下士曹和谨慎夜听讲"
+    },
+    {
+      "type": "character_introduced",
+      "entity": "zhou_xin_bole_adviser",
+      "reference": "v04-c0088:p0026",
+      "fact_status": "博乐谋士听学赞同但回报主人"
+    },
+    {
+      "type": "lecturing_group_observed",
+      "entity": "mohist_followers",
+      "reference": "v04-c0088:p0011",
+      "fact_status": "赵王等内圈追随被视为墨者，制度未明"
+    },
+    {
+      "type": "expulsion_order_not_executed",
+      "entity": "ji_wu_team_expulsion",
+      "reference": "v04-c0088:p0062",
+      "fact_status": "命次日请五人离去未示执行"
+    },
+    {
+      "type": "hostile_request_ordered",
+      "entity": "ji_wu_xiaoqian_cave",
+      "reference": "v04-c0088:p0067",
+      "fact_status": "令隐者赴玉虚山小乾洞请出面，未动手"
+    },
     {
       "type": "identity_revealed",
       "entity": "zhao_bai",
