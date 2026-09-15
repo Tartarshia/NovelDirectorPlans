@@ -1,7 +1,79 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0074",
+  "through_chapter": "v04-c0076",
   "events": [
+    {
+      "type": "item_acquired",
+      "entity": "meng_qi_yuxu_waist_token",
+      "reference": "v04-c0076:p0014",
+      "fact_status": "实收芥子环，已知隔精神感应"
+    },
+    {
+      "type": "entity_named",
+      "entity": "herb_spirit_daqinggen",
+      "reference": "v04-c0076:p0032",
+      "fact_status": "冲和称药精为大青根"
+    },
+    {
+      "type": "unverified_testimony",
+      "entity": "daqinggen_six_paths_claim",
+      "reference": "v04-c0076:p0053",
+      "fact_status": "称未全开智时感祂到封印，不知深入所为"
+    },
+    {
+      "type": "custody_transferred",
+      "entity": "daqinggen_to_lingbao",
+      "reference": "v04-c0076:p0060",
+      "fact_status": "实留下交冲和，六道鉴定未进行"
+    },
+    {
+      "type": "items_sold",
+      "entity": "qingli_sword_sun_crown_xiaoyao_fan",
+      "reference": "v04-c0076:p0061",
+      "fact_status": "三物下品合4100，已兑换"
+    },
+    {
+      "type": "balance_explicit",
+      "entity": "meng_qi_merit_4300",
+      "reference": "v04-c0076:p0064",
+      "fact_status": "售物后文本明确共4300善功"
+    },
+    {
+      "type": "mission_aborted_failed",
+      "entity": "meng_qi_escort_mission",
+      "reference": "v04-c0075:p0002",
+      "fact_status": "主动中断快返碧游，失败无奖励"
+    },
+    {
+      "type": "living_entity_custody",
+      "entity": "herb_spirit_zhang_yuquan",
+      "reference": "v04-c0075:p0003",
+      "fact_status": "封元神交张看守，不能作物收入芥子带出"
+    },
+    {
+      "type": "assistance_executed",
+      "entity": "lingbao_joint_exploration",
+      "reference": "v04-c0075:p0021",
+      "fact_status": "冲和回应急召并携孟强入世界"
+    },
+    {
+      "type": "hidden_gate_revealed",
+      "entity": "meng_qi_yuxu_entry",
+      "reference": "v04-c0075:p0030",
+      "fact_status": "八九模拟金章运转后金门显现"
+    },
+    {
+      "type": "inscribed_realm_restriction",
+      "entity": "affiliated_world_first_ladder",
+      "reference": "v04-c0075:p0050",
+      "fact_status": "碑文禁止本界生灵跨首梯，机制仍未解"
+    },
+    {
+      "type": "signature_observed_not_person_present",
+      "entity": "yang_jian",
+      "reference": "v04-c0075:p0076",
+      "fact_status": "末碑署玉虚门下杨戬，本人未现"
+    },
     {
       "type": "captured_alive",
       "entity": "fang_butong",
