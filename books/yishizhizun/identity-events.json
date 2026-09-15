@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0092",
+  "through_chapter": "v04-c0093",
   "events": [
+    {
+      "type": "office_accepted",
+      "entity": "meng_qi_chen_grand_minister",
+      "reference": "v04-c0093:p0071",
+      "fact_status": "陈王邀大司徒孟接受，任务未完成"
+    },
+    {
+      "type": "local_name_used",
+      "entity": "meng_qi_su_mo",
+      "reference": "v04-c0093:p0075",
+      "fact_status": "田横称获任者墨家苏墨"
+    },
+    {
+      "type": "character_introduced",
+      "entity": "tian_guang",
+      "reference": "v04-c0093:p0075",
+      "fact_status": "田横长子反变革，非幼子田括"
+    },
+    {
+      "type": "reported_reformer",
+      "entity": "wu_hao_wu_state",
+      "reference": "v04-c0093:p0078",
+      "fact_status": "田广称吴任伍浩改封地郡县引内战，未亲核"
+    },
+    {
+      "type": "assassination_intended",
+      "entity": "tian_guang_against_su_mo",
+      "reference": "v04-c0093:p0083",
+      "fact_status": "拟不惜命一击，尚未实施"
+    },
     {
       "type": "location_and_activity",
       "entity": "chen_shangying_lectures",
