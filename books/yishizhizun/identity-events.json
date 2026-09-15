@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0079",
+  "through_chapter": "v04-c0080",
   "events": [
+    {
+      "type": "planned_sale_not_completed",
+      "entity": "meng_qi_two_eastern_longevity_pills",
+      "reference": "v04-c0080:p0007",
+      "fact_status": "两丹及万象门延寿物拟拍，尚未出售"
+    },
+    {
+      "type": "character_state",
+      "entity": "zhang_family_ancestor",
+      "reference": "v04-c0080:p0019",
+      "fact_status": "宗师五十余年只进一重未巅峰，寿将尽"
+    },
+    {
+      "type": "character_introduced",
+      "entity": "zhang_tingzhai",
+      "reference": "v04-c0080:p0030",
+      "fact_status": "侍奉张祖族人递柬"
+    },
+    {
+      "type": "past_alchemy_success_reported",
+      "entity": "ruan_family_longevity_pill",
+      "reference": "v04-c0080:p0052",
+      "fact_status": "一年凑材三炉失败后成功一次"
+    },
+    {
+      "type": "delegation_order",
+      "entity": "ruan_third_son",
+      "reference": "v04-c0080:p0051",
+      "fact_status": "老太爷命三郎代赴并解旧迁怒，未示到场"
+    },
+    {
+      "type": "guard_duty_confirmed",
+      "entity": "yan_wuwo_auction_ship",
+      "reference": "v04-c0080:p0065",
+      "fact_status": "受人之托看船，对未名来客称未邀请"
+    },
     {
       "type": "first_real_world_team_reunion",
       "entity": "affiliated_team_five",
