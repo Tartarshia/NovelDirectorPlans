@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0081",
+  "through_chapter": "v04-c0082",
   "events": [
+    {
+      "type": "identity_revealed",
+      "entity": "ji_feihong",
+      "reference": "v04-c0082:p0001",
+      "fact_status": "季氏太上长老为落月棍报价者"
+    },
+    {
+      "type": "identity_explicit",
+      "entity": "yan_wuwo_taiyi",
+      "reference": "v04-c0082:p0034",
+      "fact_status": "言无我仙迹太乙真人"
+    },
+    {
+      "type": "items_received",
+      "entity": "meng_qi_second_pill_payment",
+      "reference": "v04-c0082:p0056",
+      "fact_status": "十三材万毒针天然定海珠交割，非赵公明原珠"
+    },
+    {
+      "type": "pill_consumed",
+      "entity": "unknown_nine_finger_buyer",
+      "reference": "v04-c0082:p0057",
+      "fact_status": "买家服第二丹，九指幽蓝断口但身份未知"
+    },
+    {
+      "type": "identity_inquiry",
+      "entity": "ruan_chengde_nine_finger",
+      "reference": "v04-c0082:p0063",
+      "fact_status": "阮三私问买家身份，缘由未明"
+    },
+    {
+      "type": "pursuit_lost",
+      "entity": "fengdian_tracking_meng",
+      "reference": "v04-c0082:p0080",
+      "fact_status": "追源秘法失锁，孟末已向菩萨求悟"
+    },
     {
       "type": "identity_revealed",
       "entity": "fengdian_envoy",
