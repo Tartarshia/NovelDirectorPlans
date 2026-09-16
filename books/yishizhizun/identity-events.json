@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0102",
+  "through_chapter": "v04-c0103",
   "events": [
+    {
+      "type": "token_received",
+      "entity": "meng_qi_second_yuxu_token",
+      "reference": "v04-c0103:p0017",
+      "fact_status": "老道另给腰牌，与旧牌有融洽区别"
+    },
+    {
+      "type": "promise_made",
+      "entity": "meng_qi_to_prison_taoist",
+      "reference": "v04-c0103:p0031",
+      "fact_status": "答应帮忙具体事未明，未履行"
+    },
+    {
+      "type": "rescue_completed",
+      "entity": "imprisoned_mohists",
+      "reference": "v04-c0103:p0084",
+      "fact_status": "江阮破牢老道纳人城外安置"
+    },
+    {
+      "type": "treasure_remaining_confirmed",
+      "entity": "imitation_shanhe_map",
+      "reference": "v04-c0103:p0074",
+      "fact_status": "还能一次，此章未用"
+    },
+    {
+      "type": "pursuit_motive_reported",
+      "entity": "chuzhuang_yuxu_object",
+      "reference": "v04-c0103:p0097",
+      "fact_status": "老道述异物应孟促追杀，物未名"
+    },
+    {
+      "type": "identity_revealed",
+      "entity": "lv_xiaobai_qi_huangong",
+      "reference": "v04-c0103:p0100",
+      "fact_status": "牢中老道自报姜姓吕氏小白，孟认齐桓公"
+    },
     {
       "type": "partial_reunion",
       "entity": "meng_qi_qi_zhao_tian",
