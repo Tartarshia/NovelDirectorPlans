@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0119",
+  "through_chapter": "v04-c0120",
   "events": [
+    {
+      "type": "transformation_exposed",
+      "entity": "yanbo_partial_blue_blood",
+      "reference": "v04-c0120:p0012",
+      "fact_status": "琴下显蓝，何九判初步转化"
+    },
+    {
+      "type": "confession",
+      "entity": "yanbo_life_extension",
+      "reference": "v04-c0120:p0019",
+      "fact_status": "称老隐服寿丹自己求续命叛，未点主使"
+    },
+    {
+      "type": "death",
+      "entity": "yanbo",
+      "reference": "v04-c0120:p0031",
+      "fact_status": "九指隔空引爆杀死"
+    },
+    {
+      "type": "pursuit_unresolved",
+      "entity": "ruan_huang_nine_finger",
+      "reference": "v04-c0120:p0036",
+      "fact_status": "两追一逃入海未决"
+    },
+    {
+      "type": "affiliation_reported",
+      "entity": "wu_luojiao_mo_future_envoy",
+      "reference": "v04-c0120:p0051",
+      "fact_status": "乌叛罗教，称追魂未来神使"
+    },
+    {
+      "type": "manual_reported",
+      "entity": "wu_zhaoshen_tongyou",
+      "reference": "v04-c0120:p0054",
+      "fact_status": "报卷功名及圣女传授，未交功"
+    },
+    {
+      "type": "presence_descending",
+      "entity": "wu_mark_purple_demon_image",
+      "reference": "v04-c0120:p0071",
+      "fact_status": "魔痕脱落意念开始降临，身份未明"
+    },
     {
       "type": "secret_contact",
       "entity": "meng_he_xiu",
