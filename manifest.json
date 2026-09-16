@@ -3,8 +3,8 @@
   "package": "novel-director-plans",
   "status": "in_progress",
   "source_included": false,
-  "through_chapter": "v04-c0109",
-  "read_entries": 609,
+  "through_chapter": "v04-c0110",
+  "read_entries": 610,
   "source_sha256": "81d109bc9b9804da55a322da3ed77ca4e318542ccfd97c619ff6e8938acf0bd5",
   "files": {
     "books/yishizhizun/batches/batch-0001.md": "67531bb39240ed670a3235372d191b8f19f659b7b35843c6912b03f151fda663",
@@ -284,6 +284,7 @@
     "books/yishizhizun/batches/batch-0275.md": "0a08acc581dcd4a3fd069eee5b6f02fa3a500d8d3ebb23b21c4150342b2cd7e1",
     "books/yishizhizun/batches/batch-0276.md": "9aee20c75f506ef2e0970c4a34837848640f27484fc599d0e5ad932a5c2bb170",
     "books/yishizhizun/batches/batch-0277.md": "cbfd2090d490d58e43c36ddc61b2bc6765af18ad9ce1dcebcd7de25c4e9dc4ed",
+    "books/yishizhizun/batches/batch-0278.md": "8953bf7f96e7e8273608cf78f814722cb72f7bce8a3d9ee036aa020f36a2fd68",
     "books/yishizhizun/chapter_direction/v01-c0001.json": "0073aa80a1194abd3452de979c37ce907c3bd33f03879cedb132fdbd7173fc84",
     "books/yishizhizun/chapter_direction/v01-c0002.json": "d7fc2b8b836df6df2a92e36801c5992b2bc287b8bee2c48fd0b1c9f08d446644",
     "books/yishizhizun/chapter_direction/v01-c0003.json": "162d5601d743959ff0a27b95aa7b3512d9630e83d55a0bf738b090f6a0d0a3e6",
@@ -893,10 +894,11 @@
     "books/yishizhizun/chapter_direction/v04-c0107.json": "638b5f49e54d604ad8d96a87be213f62f96da05fccec23f15c3d690d6f1afdf5",
     "books/yishizhizun/chapter_direction/v04-c0108.json": "9f632a643ac922d23e9970fb74387a37b1a0a85955ef8032cf0753815dcd61a6",
     "books/yishizhizun/chapter_direction/v04-c0109.json": "b8327e017684f421ddf0c9c8cea13467f4fcca9ddc16ee9b7080724f77ad15fe",
+    "books/yishizhizun/chapter_direction/v04-c0110.json": "451a9edb2e773ba0643daaaa9ce05b3687816de5a50bde80353c1ed9a2162b47",
     "books/yishizhizun/evidence-index.json": "c1705f146675526d528d38df1a0873e1aaac54aad46adf474e7bd8707ba95dab",
-    "books/yishizhizun/identity-events.json": "f8eaa8ff82240c723b351a29c128f5abc267cb1f781f772aa10d219a3388396f",
+    "books/yishizhizun/identity-events.json": "17c483f5a635562d769ee8a3c142c9158fcb318a17bbd0cffa94be1921942301",
     "books/yishizhizun/inventory.json": "e5ca309fba1963596181a6d570b3831a61298331c1ccdcc21f8181044f0d4dfc",
-    "books/yishizhizun/progress.json": "93c688bc2f5f74761ecc1c5c3d7d8cdea76dcee3925c24fcdb005517ddd52e98",
+    "books/yishizhizun/progress.json": "5fddf26acb34456c1e66024ee539e43bc9ba341f7fd892396d59b775398ebd33",
     "books/yishizhizun/reading_receipts/batch-0002.json": "c6b9982963009f9e579f3b3207cdc247571cdd05b6185915671e5c5acdc104d9",
     "books/yishizhizun/reading_receipts/batch-0003.json": "4b99dfb321fa9e8c4f5e2c0831dfd8a691a04dc04cae802ee07357040c6685ac",
     "books/yishizhizun/reading_receipts/batch-0004.json": "9056b4f5f873619cb6496fa17e41fcbeb7548912178ec52feec7091786a71fed",
@@ -1173,11 +1175,12 @@
     "books/yishizhizun/reading_receipts/batch-0275.json": "fa8d55a4b25e8f4385b5c06b2697580c7de6acc1a2ed8016247de41dd44cc254",
     "books/yishizhizun/reading_receipts/batch-0276.json": "b1c41fe65c50d5647b249331a8af2f1709702d91ac66d15ba70088adaf7afe25",
     "books/yishizhizun/reading_receipts/batch-0277.json": "44c700768e6670b365c93daa377e6902b81020e4e5fb85017a9d444210ceb4d6",
+    "books/yishizhizun/reading_receipts/batch-0278.json": "c8ae03ce2413009c78ee18237b9056fab3e546fc487c97a54854aeeb9b27c8e3",
     "books/yishizhizun/source-issues.json": "6963c009f2bdd33ba6b8f5901ee577481223e373a59167236d9dcbbb9ccc31ab",
     "books/yishizhizun/volumes/v01.md": "e14bcb6e0f967036d491fc5a9fa19e89905f0de76ea9ce776f2603b1a79adfef",
     "books/yishizhizun/volumes/v02.md": "bf4da89734f94cd969f2a7b8af92de7689ba7717c5a839d72caf699cedc23968",
     "books/yishizhizun/volumes/v03.md": "3b9ab9dc564f8d6823bed33af2aa7a45ebbc464760b6387e53c58ce1efc45c55",
-    "books/yishizhizun/volumes/v04.md": "687e06ca751cf146628aecc49966f93c98457b80c2e559cfb466b335a9b2b651",
-    "books/yishizhizun/wiki.md": "7152de35211edbc574aae7809d51744d3e35cd0f09ec80c5e4161025da33e4de"
+    "books/yishizhizun/volumes/v04.md": "d3f4ac77edf551b5403102a3e95ab87d14de9ceb7f9d3e0289ba29b9e0e58099",
+    "books/yishizhizun/wiki.md": "35ffadf867d925ec34d3e24b32f734b73fba0243986e63b4d1b4412edaa41999"
   }
 }

@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0109",
+  "through_chapter": "v04-c0110",
   "events": [
+    {
+      "type": "meeting_arranged",
+      "entity": "duanmu_baihua_meng",
+      "reference": "v04-c0110:p0018",
+      "fact_status": "三日后红枫山火烧湖面谈，未成交"
+    },
+    {
+      "type": "identity_revealed",
+      "entity": "anfa_linghu_tao",
+      "reference": "v04-c0110:p0036",
+      "fact_status": "慈安寺方丈安法即六极真魔令狐涛"
+    },
+    {
+      "type": "misleading_report",
+      "entity": "shen_yue_poison_demon_strength",
+      "reference": "v04-c0110:p0039",
+      "fact_status": "隐受挫报怕仍三重意挑争"
+    },
+    {
+      "type": "contact_confirmed",
+      "entity": "baihua_furen",
+      "reference": "v04-c0110:p0058",
+      "fact_status": "百花就是邀孟面谈事主，素女身份未明"
+    },
+    {
+      "type": "competitive_probe_started",
+      "entity": "baihua_mo_tiange_meng",
+      "reference": "v04-c0110:p0070",
+      "fact_status": "邀竞购逼试实力，未交易或交手"
+    },
     {
       "type": "identity_named",
       "entity": "mo_tiange_soul_chaser",
