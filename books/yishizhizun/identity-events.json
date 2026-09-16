@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0114",
+  "through_chapter": "v04-c0115",
   "events": [
+    {
+      "type": "identity_named",
+      "entity": "wanshou_qianli_island",
+      "reference": "v04-c0115:p0025",
+      "fact_status": "真使者绝顶护法，素女关系待证"
+    },
+    {
+      "type": "identity_impersonated",
+      "entity": "meng_as_fazheng",
+      "reference": "v04-c0115:p0035",
+      "fact_status": "普通改扮法证非又用八九"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "yun_family_elder",
+      "reference": "v04-c0115:p0043",
+      "fact_status": "孟因果观确认真死，原因未明"
+    },
+    {
+      "type": "arrival_confirmed",
+      "entity": "he_jiu_huang_he_xiu_wu",
+      "reference": "v04-c0115:p0064",
+      "fact_status": "剑庄两宗师及乌到灵堂"
+    },
+    {
+      "type": "identity_named",
+      "entity": "huang_taichong_wanjian",
+      "reference": "v04-c0115:p0073",
+      "fact_status": "黄太冲为万剑院主地榜，黄发老者"
+    },
+    {
+      "type": "cover_under_scrutiny",
+      "entity": "fazheng",
+      "reference": "v04-c0115:p0074",
+      "fact_status": "黄欲查气息，未识破"
+    },
     {
       "type": "technique_boundary",
       "entity": "meng_qi_pseudo_sword23_palm",
