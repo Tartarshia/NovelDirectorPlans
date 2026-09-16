@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0100",
+  "through_chapter": "v04-c0101",
   "events": [
+    {
+      "type": "official_named",
+      "entity": "lv_wen",
+      "reference": "v04-c0101:p0002",
+      "fact_status": "另名值守小司寇核押送手续"
+    },
+    {
+      "type": "false_identity_detected",
+      "entity": "prison_new_mohists",
+      "reference": "v04-c0101:p0042",
+      "fact_status": "阮否认押入者为墨者，江感危险"
+    },
+    {
+      "type": "treasure_used",
+      "entity": "meng_qi_mishen_bell",
+      "reference": "v04-c0101:p0057",
+      "fact_status": "孟实际使用，转手过程未述，此前估余一次"
+    },
+    {
+      "type": "enemy_death",
+      "entity": "gongyang_bo",
+      "reference": "v04-c0101:p0065",
+      "fact_status": "孟三宝如意拳击杀"
+    },
+    {
+      "type": "loot_acquired",
+      "entity": "gongyang_bo_ring",
+      "reference": "v04-c0101:p0068",
+      "fact_status": "孟取芥子环未清点"
+    },
+    {
+      "type": "capture_not_death",
+      "entity": "gongyang_zeng",
+      "reference": "v04-c0101:p0084",
+      "fact_status": "陷山河社稷图，未死"
+    },
+    {
+      "type": "identity_impersonated",
+      "entity": "meng_qi_as_gongyang_zeng",
+      "reference": "v04-c0101:p0089",
+      "fact_status": "孟化增向牢，出府遁人群未劫牢"
+    },
     {
       "type": "enemy_death",
       "entity": "gongyang_deng",
