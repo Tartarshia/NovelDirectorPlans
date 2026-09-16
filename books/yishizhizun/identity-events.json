@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0116",
+  "through_chapter": "v04-c0117",
   "events": [
+    {
+      "type": "transformation_acquired",
+      "entity": "meng_blue_blood_form",
+      "reference": "v04-c0117:p0047",
+      "fact_status": "接触摸构造后实变蓝血，序号不明"
+    },
+    {
+      "type": "memory_fragment_observed",
+      "entity": "undersea_tower",
+      "reference": "v04-c0117:p0052",
+      "fact_status": "海沟怪塔翼饰碟底，神像未辨"
+    },
+    {
+      "type": "death_and_loot",
+      "entity": "unnamed_blue_blood_man",
+      "reference": "v04-c0117:p0055",
+      "fact_status": "窥记受截后崩散留水心石，幕后未知"
+    },
+    {
+      "type": "item_named",
+      "entity": "water_heart_stone",
+      "reference": "v04-c0117:p0069",
+      "fact_status": "黄称水心之石，敌刚首梯"
+    },
+    {
+      "type": "realm_misjudgment",
+      "entity": "he_party_on_fazheng",
+      "reference": "v04-c0117:p0069",
+      "fact_status": "剑庄据战果认宗师，孟实际仍三重"
+    },
     {
       "type": "probe_deterred",
       "entity": "huang_taichong",
