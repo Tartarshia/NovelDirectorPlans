@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0097",
+  "through_chapter": "v04-c0098",
   "events": [
+    {
+      "type": "identity_named",
+      "entity": "yan_kuan",
+      "reference": "v04-c0098:p0008",
+      "fact_status": "上章屋主实名，孟阮发展之秘密墨者，有职贵族"
+    },
+    {
+      "type": "arrest_report",
+      "entity": "public_mohists",
+      "reference": "v04-c0098:p0030",
+      "fact_status": "严宽报明面墨者被捕，白松赵柏王起得脱"
+    },
+    {
+      "type": "search_evaded",
+      "entity": "meng_qi_qi_zhengyan",
+      "reference": "v04-c0098:p0066",
+      "fact_status": "以变形冒同僚骗过严宅搜查，仍在城中"
+    },
+    {
+      "type": "shelter_confirmed",
+      "entity": "zhao_heng_tian_kuo",
+      "reference": "v04-c0098:p0073",
+      "fact_status": "赵藏田括房中，田父未知"
+    },
+    {
+      "type": "unidentified_informant",
+      "entity": "unnamed_prison_old_taoist",
+      "reference": "v04-c0098:p0078",
+      "fact_status": "田括称受牢中老道提醒才查图谋，身份未揭"
+    },
     {
       "type": "treasure_used",
       "entity": "qi_zhengyan_imitation_flag",
