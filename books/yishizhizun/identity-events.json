@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0104",
+  "through_chapter": "v04-c0105",
   "events": [
+    {
+      "type": "mission_result",
+      "entity": "fengshen_mohist_mission",
+      "reference": "v04-c0105:p0004",
+      "fact_status": "六道确认失败各付2500无评价，非重复扣费"
+    },
+    {
+      "type": "treasure_redistributed",
+      "entity": "first_round_team",
+      "reference": "v04-c0105:p0048",
+      "fact_status": "图归孟塔归赵均余一次，符齐材料江阮"
+    },
+    {
+      "type": "loot_distributed",
+      "entity": "team_merit_and_treasures",
+      "reference": "v04-c0105:p0062",
+      "fact_status": "孟江9780齐5780阮6580赵6680，并按文取物"
+    },
+    {
+      "type": "purchase_intended",
+      "entity": "meng_qi_three_swords",
+      "reference": "v04-c0105:p0071",
+      "fact_status": "三剑价8800，尚未购买修成"
+    },
     {
       "type": "request_clarified",
       "entity": "qi_huangong_identify_object",
