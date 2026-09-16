@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0096",
+  "through_chapter": "v04-c0097",
   "events": [
+    {
+      "type": "treasure_used",
+      "entity": "qi_zhengyan_imitation_flag",
+      "reference": "v04-c0097:p0009",
+      "fact_status": "首用杏黄旗削箭余一次"
+    },
+    {
+      "type": "severe_injury",
+      "entity": "meng_qi_left_arm",
+      "reference": "v04-c0097:p0022",
+      "fact_status": "臂肩起炸毁半脸凹"
+    },
+    {
+      "type": "treasure_consumed",
+      "entity": "jiang_zhiwei_luohun_bell",
+      "reference": "v04-c0097:p0037",
+      "fact_status": "此前转江持，本次使用碎尽"
+    },
+    {
+      "type": "enemy_death",
+      "entity": "unnamed_palace_exterior_fighter",
+      "reference": "v04-c0097:p0043",
+      "fact_status": "孟开天斩杀一外景"
+    },
+    {
+      "type": "medicine_consumed",
+      "entity": "meng_qi_yaoshi_xindan",
+      "reference": "v04-c0097:p0064",
+      "fact_status": "实服药师心丹"
+    },
+    {
+      "type": "limb_regrown",
+      "entity": "meng_qi_left_arm",
+      "reference": "v04-c0097:p0069",
+      "fact_status": "新左臂自断口生，未报全伤复原"
+    },
+    {
+      "type": "shelter_confirmed",
+      "entity": "unnamed_mohist_householder",
+      "reference": "v04-c0097:p0081",
+      "fact_status": "半步中年屋主掩护孟齐拜矩子"
+    },
     {
       "type": "character_named",
       "entity": "gongyang_bo",
