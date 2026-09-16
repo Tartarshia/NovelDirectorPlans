@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0110",
+  "through_chapter": "v04-c0111",
   "events": [
+    {
+      "type": "tactical_constraint",
+      "entity": "meng_qi_vs_mo_tiange",
+      "reference": "v04-c0111:p0019",
+      "fact_status": "借禅堂使敌收力，正常伪装战力不足"
+    },
+    {
+      "type": "mental_counterattack",
+      "entity": "meng_qi_weiwo_truth",
+      "reference": "v04-c0111:p0044",
+      "fact_status": "唯我真意镇神反魔瞳，未完整掌法"
+    },
+    {
+      "type": "duel_won_nonlethally",
+      "entity": "meng_qi_mo_tiange",
+      "reference": "v04-c0111:p0061",
+      "fact_status": "追魂挡空，孟掌停额前未杀"
+    },
+    {
+      "type": "cover_story",
+      "entity": "poison_demon_buddhist_inheritance",
+      "reference": "v04-c0111:p0068",
+      "fact_status": "高僧衣钵佛魔融合为孟伪装解释"
+    },
     {
       "type": "meeting_arranged",
       "entity": "duanmu_baihua_meng",
