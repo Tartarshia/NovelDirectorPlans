@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0098",
+  "through_chapter": "v04-c0099",
   "events": [
+    {
+      "type": "conviction_explained",
+      "entity": "tian_kuo",
+      "reference": "v04-c0099:p0013",
+      "fact_status": "不以亲族仇恨否定墨家道理，亲历推动归信"
+    },
+    {
+      "type": "shelter_confirmed",
+      "entity": "jiang_zhiwei_ruan_yushu",
+      "reference": "v04-c0099:p0031",
+      "fact_status": "新入墨白发黎庶家藏身，阮选址"
+    },
+    {
+      "type": "voluntary_capture",
+      "entity": "jiang_zhiwei_ruan_yushu",
+      "reference": "v04-c0099:p0062",
+      "fact_status": "男装假低阶盗匪被锁送牢，主动谋策"
+    },
+    {
+      "type": "city_exit_completed",
+      "entity": "meng_qi",
+      "reference": "v04-c0099:p0074",
+      "fact_status": "鱼形随令牌扰阵穿防御无异常，已出城"
+    },
     {
       "type": "identity_named",
       "entity": "yan_kuan",
