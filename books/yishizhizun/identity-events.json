@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0108",
+  "through_chapter": "v04-c0109",
   "events": [
+    {
+      "type": "identity_named",
+      "entity": "mo_tiange_soul_chaser",
+      "reference": "v04-c0109:p0065",
+      "fact_status": "沈报追魂名莫天歌，已首梯幕后未明"
+    },
+    {
+      "type": "person_reported",
+      "entity": "linghu_six_extremes_demon",
+      "reference": "v04-c0109:p0068",
+      "fact_status": "令狐前辈黑榜93，未全名"
+    },
+    {
+      "type": "lead_reported",
+      "entity": "baihua_furen",
+      "reference": "v04-c0109:p0071",
+      "fact_status": "某青楼老鸨实力不详，赠妾关系未证"
+    },
+    {
+      "type": "technique_combination_used",
+      "entity": "meng_qi_seven_illusions",
+      "reference": "v04-c0109:p0076",
+      "fact_status": "阴阳印心印与精神异力推动不死七幻压服沈"
+    },
+    {
+      "type": "released_alive",
+      "entity": "shen_yue",
+      "reference": "v04-c0109:p0075",
+      "fact_status": "孟放其离开，百里后仍惧"
+    },
     {
       "type": "cover_passed_array",
       "entity": "meng_qi_as_poison_demon",
