@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0111",
+  "through_chapter": "v04-c0112",
   "events": [
+    {
+      "type": "relationship_suspicion",
+      "entity": "baihua_yingning",
+      "reference": "v04-c0112:p0017",
+      "fact_status": "对视让孟疑非普通出售关系，未揭真相"
+    },
+    {
+      "type": "identity_named",
+      "entity": "yingning",
+      "reference": "v04-c0112:p0030",
+      "fact_status": "百花称小女婴宁，年龄境界未明"
+    },
+    {
+      "type": "realm_confirmed",
+      "entity": "baihua_furen",
+      "reference": "v04-c0112:p0030",
+      "fact_status": "隔绝静室，叙述确认外景"
+    },
+    {
+      "type": "death_report_disputed_cause",
+      "entity": "yun_family_elder",
+      "reference": "v04-c0112:p0040",
+      "fact_status": "百花报寿尽，孟因购延寿丹怀疑原因"
+    },
+    {
+      "type": "commission_proposed",
+      "entity": "linhai_yun_succession",
+      "reference": "v04-c0112:p0047",
+      "fact_status": "扶未名对象上位，孟允同行未执行"
+    },
+    {
+      "type": "defector_report",
+      "entity": "unnamed_youth_cloud_seventh_daughter",
+      "reference": "v04-c0112:p0053",
+      "fact_status": "百花述卷魔功叛逃与七小姐据说有关"
+    },
     {
       "type": "tactical_constraint",
       "entity": "meng_qi_vs_mo_tiange",
