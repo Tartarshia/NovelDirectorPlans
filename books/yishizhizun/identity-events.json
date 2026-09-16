@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0112",
+  "through_chapter": "v04-c0113",
   "events": [
+    {
+      "type": "arrival_and_shelter",
+      "entity": "meng_baihua_yingning_linhai",
+      "reference": "v04-c0113:p0003",
+      "fact_status": "抵临海夜藏祝宅"
+    },
+    {
+      "type": "allegiance_reported",
+      "entity": "zhu_family_yun_feiyang",
+      "reference": "v04-c0113:p0015",
+      "fact_status": "祝密投云九，未知客身份"
+    },
+    {
+      "type": "succession_relations",
+      "entity": "yun_candidates",
+      "reference": "v04-c0113:p0017",
+      "fact_status": "重孙代，九飞扬二飞虎六十三竞争"
+    },
+    {
+      "type": "alias_named",
+      "entity": "wu_hengjian",
+      "reference": "v04-c0113:p0047",
+      "fact_status": "自称乌横剑真名未知"
+    },
+    {
+      "type": "nonlethal_attack_commission",
+      "entity": "baihua_to_meng",
+      "reference": "v04-c0113:p0045",
+      "fact_status": "假追杀留命制造灭口印象，未完成"
+    },
+    {
+      "type": "hiding_place_leak_report",
+      "entity": "yun_thirteenth",
+      "reference": "v04-c0113:p0055",
+      "fact_status": "百花称云十三泄乌藏处，未独立验"
+    },
+    {
+      "type": "encounter_started",
+      "entity": "meng_wu_hengjian",
+      "reference": "v04-c0113:p0064",
+      "fact_status": "雨中持伞现身，未交战"
+    },
     {
       "type": "relationship_suspicion",
       "entity": "baihua_yingning",
