@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0101",
+  "through_chapter": "v04-c0102",
   "events": [
+    {
+      "type": "partial_reunion",
+      "entity": "meng_qi_qi_zhao_tian",
+      "reference": "v04-c0102:p0006",
+      "fact_status": "西山会齐赵田，江阮仍牢内"
+    },
+    {
+      "type": "treasure_final_use",
+      "entity": "qi_flag_zhao_rope",
+      "reference": "v04-c0102:p0027",
+      "fact_status": "杏黄旗与捆仙绳各末次实用"
+    },
+    {
+      "type": "enemy_death",
+      "entity": "gongyang_zeng",
+      "reference": "v04-c0102:p0053",
+      "fact_status": "孟刀杀，后魂灯灭再证"
+    },
+    {
+      "type": "disguise_confirmed",
+      "entity": "chixia_false_mohist",
+      "reference": "v04-c0102:p0059",
+      "fact_status": "赤霞不再假装墨者，离牢追查"
+    },
+    {
+      "type": "loot_inventoried",
+      "entity": "gongyang_zeng_ring",
+      "reference": "v04-c0102:p0081",
+      "fact_status": "近十材两上品兵四剩秘宝"
+    },
+    {
+      "type": "conditional_offer",
+      "entity": "unnamed_prison_taoist",
+      "reference": "v04-c0102:p0094",
+      "fact_status": "愿助救人，要求须苏答应，内容未明"
+    },
     {
       "type": "official_named",
       "entity": "lv_wen",
