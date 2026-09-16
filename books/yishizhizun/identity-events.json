@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0115",
+  "through_chapter": "v04-c0116",
   "events": [
+    {
+      "type": "probe_deterred",
+      "entity": "huang_taichong",
+      "reference": "v04-c0116:p0020",
+      "fact_status": "沾因果气机及灵堂顾忌退探，未出刀"
+    },
+    {
+      "type": "realm_confirmed",
+      "entity": "huang_taichong",
+      "reference": "v04-c0116:p0027",
+      "fact_status": "八重宗师，孟未与之实战"
+    },
+    {
+      "type": "divination_clue",
+      "entity": "yun_death_blue_blood",
+      "reference": "v04-c0116:p0058",
+      "fact_status": "模糊蓝血结果，未定凶手死法"
+    },
+    {
+      "type": "cover_partially_exposed",
+      "entity": "fazheng_as_poison_demon",
+      "reference": "v04-c0116:p0076",
+      "fact_status": "蓝袍男子识一层，不知孟真身"
+    },
+    {
+      "type": "realm_seen",
+      "entity": "meng_qi_by_blue_man",
+      "reference": "v04-c0116:p0084",
+      "fact_status": "对方察未首梯，误断其线索来源"
+    },
     {
       "type": "identity_named",
       "entity": "wanshou_qianli_island",
