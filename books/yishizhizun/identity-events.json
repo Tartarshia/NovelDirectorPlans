@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0103",
+  "through_chapter": "v04-c0104",
   "events": [
+    {
+      "type": "request_clarified",
+      "entity": "qi_huangong_identify_object",
+      "reference": "v04-c0104:p0008",
+      "fact_status": "随见楚庄辨玉虚所得物，非抢夺"
+    },
+    {
+      "type": "mohist_relocation_order",
+      "entity": "bai_zhao_wang_tian",
+      "reference": "v04-c0104:p0038",
+      "fact_status": "白赵率赴齐王起统留陈，实主持属意田括"
+    },
+    {
+      "type": "object_observed",
+      "entity": "chuzhuang_jade_ruyi",
+      "reference": "v04-c0104:p0052",
+      "fact_status": "紫白金黄玉如意，非传说三宝如意，来历未明"
+    },
+    {
+      "type": "forced_return_paid",
+      "entity": "five_member_team",
+      "reference": "v04-c0104:p0060",
+      "fact_status": "各付2500强回，非获得奖励；S13结束"
+    },
     {
       "type": "token_received",
       "entity": "meng_qi_second_yuxu_token",
