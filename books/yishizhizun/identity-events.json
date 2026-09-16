@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0106",
+  "through_chapter": "v04-c0107",
   "events": [
+    {
+      "type": "intelligence_received",
+      "entity": "duanmu_bei",
+      "reference": "v04-c0107:p0025",
+      "fact_status": "江东楼五重主疑为销赃中间人，不等邪魔本人"
+    },
+    {
+      "type": "defense_observed",
+      "entity": "jiangdong_core_building",
+      "reference": "v04-c0107:p0042",
+      "fact_status": "喜鹊近楼灰飞，孟未闯"
+    },
+    {
+      "type": "identity_impersonated",
+      "entity": "meng_qi_poison_demon",
+      "reference": "v04-c0107:p0049",
+      "fact_status": "孟扮已死毒手魔君早年中年貌"
+    },
+    {
+      "type": "cover_recognized",
+      "entity": "duanmu_bei_to_meng",
+      "reference": "v04-c0107:p0060",
+      "fact_status": "端木认旧身份数仇敌，未成交"
+    },
     {
       "type": "purchase_completed",
       "entity": "meng_qi_three_swords",
