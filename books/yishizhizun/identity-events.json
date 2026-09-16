@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0105",
+  "through_chapter": "v04-c0106",
   "events": [
+    {
+      "type": "purchase_completed",
+      "entity": "meng_qi_three_swords",
+      "reference": "v04-c0106:p0004",
+      "fact_status": "实购余980未练会"
+    },
+    {
+      "type": "weapon_reforged",
+      "entity": "jiang_baihong",
+      "reference": "v04-c0106:p0012",
+      "fact_status": "近上品新增遥见两三百里无声"
+    },
+    {
+      "type": "purchases_completed",
+      "entity": "team_training_resources",
+      "reference": "v04-c0106:p0030",
+      "fact_status": "齐暗混沌邪剑到手未晋外景；各兑换按正文"
+    },
+    {
+      "type": "next_mission",
+      "entity": "journey_wuzhishan_heaven_fragment",
+      "reference": "v04-c0106:p0052",
+      "fact_status": "一年后阻妖得核心，成奖3500败扣相应"
+    },
+    {
+      "type": "debt_pressure_increased",
+      "entity": "meng_qi_thunder_god_causality",
+      "reference": "v04-c0106:p0070",
+      "fact_status": "回主界感旧债愈重开始影响，未解"
+    },
     {
       "type": "mission_result",
       "entity": "fengshen_mohist_mission",
