@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0099",
+  "through_chapter": "v04-c0100",
   "events": [
+    {
+      "type": "enemy_death",
+      "entity": "gongyang_deng",
+      "reference": "v04-c0100:p0065",
+      "fact_status": "丰城宰外景被孟杀，公羊增七弟"
+    },
+    {
+      "type": "loot_acquired",
+      "entity": "gongyang_deng_storage_bag",
+      "reference": "v04-c0100:p0061",
+      "fact_status": "孟取得储物袋，内容价值未明"
+    },
+    {
+      "type": "identity_named",
+      "entity": "chixia_jinguang_cave",
+      "reference": "v04-c0100:p0069",
+      "fact_status": "此前枣红脸宗师实名赤霞"
+    },
+    {
+      "type": "relationship_revealed",
+      "entity": "chixia_gongyang_bo",
+      "reference": "v04-c0100:p0070",
+      "fact_status": "赤霞为公羊薄师伯"
+    },
+    {
+      "type": "trap_planned",
+      "entity": "shangying_prison",
+      "reference": "v04-c0100:p0077",
+      "fact_status": "假外追解禁并设牢伏，未报实施结果"
+    },
+    {
+      "type": "city_gate_opened",
+      "entity": "shangying",
+      "reference": "v04-c0100:p0081",
+      "fact_status": "孟见城门开放，转谋先杀公羊薄，尚未刺杀"
+    },
     {
       "type": "conviction_explained",
       "entity": "tian_kuo",
