@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0145",
+  "through_chapter": "v04-c0146",
   "events": [
+    {
+      "type": "future_plan",
+      "entity": "meng_jiuxiang",
+      "reference": "v04-c0146:p0017",
+      "fact_status": "过梯提前四月，拟九乡备西游，未启程"
+    },
+    {
+      "type": "training_plan",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0146:p0029",
+      "fact_status": "碧落仙曲流水谱破阵乐待修，无轮回符"
+    },
+    {
+      "type": "warning_reported",
+      "entity": "wang_entanglements",
+      "reference": "v04-c0146:p0061",
+      "fact_status": "混茶指牵扯而非招式，非全知机制揭示"
+    },
+    {
+      "type": "source_warning",
+      "entity": "bawang_fifth_form",
+      "reference": "v04-c0146:p0066",
+      "fact_status": "王断唯绝刀能真授第五，孟疑六道未验证未学"
+    },
+    {
+      "type": "motive_stated",
+      "entity": "wang_siyuan",
+      "reference": "v04-c0146:p0075",
+      "fact_status": "称助孟破局即助己，完整布局未知"
+    },
     {
       "type": "item_used_damaged",
       "entity": "meng_xuanshui_flag",
