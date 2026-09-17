@@ -1,7 +1,25 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0133",
+  "through_chapter": "v04-c0134",
   "events": [
+    {
+      "type": "retreat_completed",
+      "entity": "meng_qi",
+      "reference": "v04-c0134:p0029",
+      "fact_status": "秋日已闭关后包船，未给具体时间或四重明述"
+    },
+    {
+      "type": "identity_self_reported",
+      "entity": "ning_tai",
+      "reference": "v04-c0134:p0049",
+      "fact_status": "东桑剑客，自称同境全国无败"
+    },
+    {
+      "type": "location_reported",
+      "entity": "he_jiu",
+      "reference": "v04-c0134:p0072",
+      "fact_status": "宁台称何九在琅琊，尚未会面"
+    },
     {
       "type": "realm_confirmed",
       "entity": "yan_chong",
