@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第129章，629 / 1410 个目录条目，约206.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第132章，632 / 1410 个目录条目，约207.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
-接手本项目请先阅读 [Agent 交接文档](HANDOFF.md)。
+续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第130–132章复核](books/yishizhizun/reviews/review-v04-0130-0132.md)：本轮新增256段、299个句内单元，观刀解债及出岛收束。
 - [第127–129章复核](books/yishizhizun/reviews/review-v04-0127-0129.md)：本轮按用户要求止于129章，新增203段、280个句内单元，1处传音歧义。
 - [最近六章补充复核](books/yishizhizun/reviews/review-v04-0121-0126.md)：435段、663个句内单元的归属，保留七处疑问；早期620条目的逐句归属仍待补。
 - [角色 wiki](books/yishizhizun/wiki.md)：人物、关系、身份揭示、阶段变化及原文证据。当前仍含连续增补记录，后续全书汇总会进一步整理。

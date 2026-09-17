@@ -108,7 +108,7 @@ def archive():
     manifest=json.loads((ROOT/'manifest.json').read_text(encoding='utf-8'))
     dest=ROOT/'dist'/('novel-director-plans-'+manifest['through_chapter']+'.zip')
     dest.parent.mkdir(exist_ok=True)
-    names=list(manifest['files'])+['manifest.json','README.md','WORKFLOW.md','HANDOFF.md','scripts/package.py','scripts/validate_attribution.py']
+    names=list(manifest['files'])+['manifest.json','README.md','WORKFLOW.md','scripts/package.py','scripts/validate_attribution.py']
     with zipfile.ZipFile(dest,'w',zipfile.ZIP_DEFLATED) as z:
         for name in sorted(names): z.write(ROOT/name,name)
     with zipfile.ZipFile(dest) as z:

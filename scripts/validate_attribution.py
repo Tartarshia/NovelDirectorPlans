@@ -30,6 +30,7 @@ def validate(source=None):
     assert u['unit_id']==f'{cid}:p{i:04}:u{j:03}'
     assert u['start']==last and last<u['end']<=p['length'],u['unit_id']
     assert u['kind'] in kinds and u['speaker'] and u['surface_identity']
+    if u['speaker']=='narrator':assert u['kind']=='narration', u['unit_id']
     assert not any(k in u for k in ('text','source_text','content'))
     last=u['end'];count+=1
    assert last==p['length']
@@ -52,6 +53,9 @@ def validate(source=None):
  assert any(u['kind']=='telepathic_dialogue' for u in units(127,61))
  assert all(u['kind']!='spoken_dialogue' for u in units(127,62))
  assert any(u['speaker']=='liu_shuyu' for u in units(129,45))
+ assert any(u['kind']=='telepathic_dialogue' and u['speaker']=='girl_mixed_remnant' for u in units(131,43))
+ assert any(u['kind']=='mental_visualization_voice' for u in units(132,1))
+ assert all(u['kind']=='narration' for u in units(131,74))
  return {'status':'ok','chapters':len(actual),'paragraphs':sum(e['paragraphs'] for e in actual),'units':sum(e['units'] for e in actual),'open_questions':sum(e['open_questions'] for e in actual),'source_offsets_verified':bool(originals),'scope':'coverage_and_selected_editorial_regressions_not_full_semantic_proof'}
 if __name__=='__main__':
  p=argparse.ArgumentParser();p.add_argument('--source',type=Path);args=p.parse_args();print(json.dumps(validate(args.source)))
