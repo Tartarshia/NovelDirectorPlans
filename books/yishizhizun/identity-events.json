@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0135",
+  "through_chapter": "v04-c0136",
   "events": [
+    {
+      "type": "visit_confirmed",
+      "entity": "nie_zhi",
+      "reference": "v04-c0136:p0005",
+      "fact_status": "蓬州五重金章访孟，请托探蓝血"
+    },
+    {
+      "type": "visit_confirmed",
+      "entity": "jiedu_monk",
+      "reference": "v04-c0136:p0047",
+      "fact_status": "戒赌非戒杀；背景诸说未证"
+    },
+    {
+      "type": "wager_declined",
+      "entity": "meng_jiedu",
+      "reference": "v04-c0136:p0058",
+      "fact_status": "三年效劳赌提议未接，不登记契约"
+    },
+    {
+      "type": "duel_visit_only",
+      "entity": "hejiu_at_sanqing",
+      "reference": "v04-c0136:p0083",
+      "fact_status": "已见孟，尚未交手"
+    },
     {
       "type": "realm_not_advanced",
       "entity": "meng_qi",

@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第135章，635 / 1410 个目录条目，约208.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第136章，636 / 1410 个目录条目，约208.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第136章复核](books/yishizhizun/reviews/review-v04-0136.md)：三次拜访、83段138个句内单元，何九到观未战。
 - [第135章复核](books/yishizhizun/reviews/review-v04-0135.md)：宁台切磋与阮门受冷，93段、137个句内单元。
 - [第134章复核](books/yishizhizun/reviews/review-v04-0134.md)：潜修后秋海与宁台初登场，74段、112个句内单元。
 - [第133章复核](books/yishizhizun/reviews/review-v04-0133.md)：回岸与严冲切磋，81段、111个句内单元。
