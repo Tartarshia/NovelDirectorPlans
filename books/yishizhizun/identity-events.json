@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0139",
+  "through_chapter": "v04-c0140",
   "events": [
+    {
+      "type": "death_confirmed",
+      "entity": "gao_elder",
+      "reference": "v04-c0140:p0038",
+      "fact_status": "何七半步法身压境胜，高遗言后残蛊碎灭"
+    },
+    {
+      "type": "token_location_claim",
+      "entity": "qianyuan",
+      "reference": "v04-c0140:p0037",
+      "fact_status": "高称符令已传乾元，何未取"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "blue_blood_peak_unnamed",
+      "reference": "v04-c0140:p0049",
+      "fact_status": "王家主杀外景巅峰者凝水蓝石"
+    },
+    {
+      "type": "deaths_confirmed",
+      "entity": "five_blue_blood_masters",
+      "reference": "v04-c0140:p0059",
+      "fact_status": "阮琴强控后何七杀五人"
+    },
+    {
+      "type": "knowledge_revealed",
+      "entity": "meng_qi",
+      "reference": "v04-c0140:p0061",
+      "fact_status": "听阮摇光才知主力海底掩护之局"
+    },
+    {
+      "type": "identity_revealed",
+      "entity": "nine_finger_elder",
+      "reference": "v04-c0140:p0063",
+      "fact_status": "确为蓝血，姓名未明"
+    },
+    {
+      "type": "escape_started",
+      "entity": "blue_blood_high_priest",
+      "reference": "v04-c0140:p0072",
+      "fact_status": "祖神气入巨塔起飞，未确认逃脱"
+    },
     {
       "type": "array_destroyed",
       "entity": "blue_blood_array",
