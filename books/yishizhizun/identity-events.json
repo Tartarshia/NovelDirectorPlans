@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0124",
+  "through_chapter": "v04-c0126",
   "events": [
+    {
+      "type": "disguise_transition",
+      "entity": "meng_dushou_to_beggar",
+      "reference": "v04-c0125:p0056",
+      "fact_status": "发丝假逃，真身鼠变再乞丐留岛"
+    },
+    {
+      "type": "capture_and_impersonation",
+      "entity": "guoxi",
+      "reference": "v04-c0125:p0059",
+      "fact_status": "六窍郭喜活囚未发动之图，孟冒充"
+    },
+    {
+      "type": "identity_revealed",
+      "entity": "gu_xiaosang_as_shangshui",
+      "reference": "v04-c0125:p0095",
+      "fact_status": "孟认商水伪装实为顾"
+    },
+    {
+      "type": "recognition_confirmed",
+      "entity": "gu_recognizes_meng",
+      "reference": "v04-c0126:p0013",
+      "fact_status": "观察后猜测，诈名反应确认"
+    },
+    {
+      "type": "contract_effective",
+      "entity": "meng_gu_cooperation",
+      "reference": "v04-c0126:p0046",
+      "fact_status": "六道互助观刀开遗迹契约生效"
+    },
+    {
+      "type": "affiliation_reported",
+      "entity": "yingning",
+      "reference": "v04-c0126:p0068",
+      "fact_status": "顾称欢喜菩萨嫡传，孟始获知"
+    },
     {
       "type": "appearance_confirmed",
       "entity": "lehuan",
