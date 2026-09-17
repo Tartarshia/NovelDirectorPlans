@@ -19,7 +19,7 @@ def digest(path):
 def export(source):
     book = json.loads((source/'book.json').read_text(encoding='utf-8'))
     selected = [source/n for n in ('wiki.md','progress.json','identity-events.json','source-issues.json','inventory.json')]
-    for folder, pattern in [('volumes','*.md'),('batches','*.md'),('chapter_direction','*.json'),('reading_receipts','*.json')]:
+    for folder, pattern in [('volumes','*.md'),('batches','*.md'),('chapter_direction','*.json'),('reading_receipts','*.json'),('characters','*.md'),('reviews','*.md'),('reviews','*.json')]:
         selected.extend(sorted((source/folder).glob(pattern)))
     payload = {}
     for p in selected:
@@ -38,9 +38,12 @@ def export(source):
         target = DATA/rel
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_bytes(text.encode('utf-8'))
+    attribution_ids = {json.loads(t)['chapter_id'] for rel,t in payload.items()
+                       if rel.parts[0]=='chapter_direction' and json.loads(t).get('attribution')}
     index = {k:book[k] for k in ('schema_version','source_sha256','volumes')}
     index['chapters'] = [{**{k:c[k] for k in ('id','volume_id','title','kind','character_count','text_sha256')},
                           'paragraph_count':len(c['paragraphs']),
+                          **({'paragraph_lengths':[len(p) for p in c['paragraphs']]} if c['id'] in attribution_ids else {}),
                           'separator_paragraphs':[i for i,p in enumerate(c['paragraphs'],1) if re.fullmatch(r'[.…\s]+',p)]}
                          for c in book['chapters']]
     dump(DATA/'evidence-index.json', index)
@@ -94,6 +97,9 @@ def validate():
         for c in receipt['chapters']:
             assert c['id'] in read and c['sha256']==chapters[c['id']]['text_sha256']
             assert c['paragraph_count']==chapters[c['id']]['paragraph_count']
+    if (DATA/'reviews/attribution-summary.json').exists():
+        from validate_attribution import validate as validate_attribution
+        validate_attribution()
     print(json.dumps({'status':'ok','read_entries':len(read),'plans':len(plans),'data_files':len(actual),
                       'scope':'source_free_integrity_not_semantic_review'}))
 
@@ -102,7 +108,7 @@ def archive():
     manifest=json.loads((ROOT/'manifest.json').read_text(encoding='utf-8'))
     dest=ROOT/'dist'/('novel-director-plans-'+manifest['through_chapter']+'.zip')
     dest.parent.mkdir(exist_ok=True)
-    names=list(manifest['files'])+['manifest.json','README.md','WORKFLOW.md','scripts/package.py']
+    names=list(manifest['files'])+['manifest.json','README.md','WORKFLOW.md','HANDOFF.md','scripts/package.py','scripts/validate_attribution.py']
     with zipfile.ZipFile(dest,'w',zipfile.ZIP_DEFLATED) as z:
         for name in sorted(names): z.write(ROOT/name,name)
     with zipfile.ZipFile(dest) as z:

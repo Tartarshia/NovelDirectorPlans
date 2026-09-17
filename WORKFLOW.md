@@ -3,7 +3,7 @@
 本仓库是导演规划的持久版本库，NovelVoice 的本地工作目录保留私有正文和精读中间状态。每批阅读完成并通过本地原文校验后，将结果导出到本仓库，再审查、提交与推送。Git 历史代替上传临时检查点；不要直接把整个 output 目录加入 Git。
 
 1. 在本地工作副本中按 `progress.json` 的 `next_chapter_id` 顺读正文，全文未读不能计入完成；只做规划，不调用音频或外部模型。
-2. 更新角色、卷内阶段、章节草案及证据。区分原文明述、人物猜测、导演建议；人物当下所知不得混入后期真相。稳定音色与成长表演分离。
+2. 更新角色、卷内阶段、章节草案及证据，并同步受影响的 characters 阶段卡、句内归属和 reviews 语义复核记录。归属必须人工判定说话人、内心、叙述及公开伪装，脚本只分区间和查覆盖。无法确定的留 open_question，不自动猜人。区分原文明述、人物猜测、导演建议；人物当下所知不得混入后期真相。稳定音色与成长表演分离。
 3. 在 NovelVoice 中运行 `python scripts/validate_long_novel_director.py output/director/yishizhizun`，核对正文哈希和引用。
 4. 在本仓库运行以下命令（按实际相对目录调整）：
 
@@ -22,3 +22,5 @@ git push
 卷末或重要里程碑用 `archive` 生成包，作为 GitHub Release 附件。阶段版本必须标注草案，不得将目录索引数量误当精读数量。导出器不会删除未知旧文件；修改目录布局时必须单独审查迁移。
 
 恢复时先克隆本仓库，再自行准备与 `source_sha256` 匹配的原书并使用 NovelVoice 的本地索引工具生成私有阅读副本。不要从云端角色百科补写成已读原文；本包未提供小说全文，无法单独执行全文复核。
+
+补充归属校验：`python scripts/validate_attribution.py --source ../NovelVoice/output/director/yishizhizun`。此命令只在有本地正文时校验字符偏移及段落哈希；不带 source 可查发布包覆盖。新复核章节须同步 reviews/attribution-summary.json，不得用结构通过替代逐段语义审查。

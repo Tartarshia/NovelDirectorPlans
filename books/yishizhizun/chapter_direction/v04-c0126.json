@@ -7,7 +7,7 @@
   "status": "draft_after_sequential_read",
   "granularity": "chapter_and_scene",
   "stage_id": "V04-S14",
-  "pov": "顾小桑解释、立约与合作边界",
+  "pov": "孟奇内心为主；顾自述与动机展示，未进入顾的全知真实内心",
   "attribution_caution": "顾自述解释与孟境界推断分层；玄女布防尚推测，合作契约已生效不等素女入门契约，因果未解。",
   "scenes": [
     {
@@ -71,7 +71,1855 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_source_spans",
   "full_book_review": "pending",
-  "reading_batch": "batch-0291"
+  "reading_batch": "batch-0291",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-v04-0121-0126",
+    "full_book_consistency": "pending"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0126:p0001",
+        "length": 94,
+        "sha256": "62dae44dcf087b6cf26146801dc16688938c714dcd9c3237b6e9a4fc635db305",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0001:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0001:u002",
+            "start": 11,
+            "end": 94,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0002",
+        "length": 124,
+        "sha256": "e59a4b168251e89e3915e796e652abab81a4794c569d48f93fdb3f7f3b942840",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0002:u001",
+            "start": 0,
+            "end": 124,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0003",
+        "length": 68,
+        "sha256": "cbf230cf31faaad3f48e6080af51680fe8789777993af96bb21e6baaf22d427a",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0003:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0004",
+        "length": 64,
+        "sha256": "54c3ef56b48a3f745ef56b98fbab6ab9fb09353cb92b18e61e9ac06c73fd3db0",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0004:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0005",
+        "length": 31,
+        "sha256": "0bca93065f600c9777c77ae69515edaacc9a9f3526a9d75bd7f4496708fbb547",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0005:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0005:u002",
+            "start": 10,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0006",
+        "length": 129,
+        "sha256": "bf643cb353c1d749b5b839664da7bcb90e2305c04dd0f69a208c0e0be7069257",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0006:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0006:u002",
+            "start": 47,
+            "end": 129,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0007",
+        "length": 101,
+        "sha256": "2c7d263a3da971be6cd31481c4f8c1a439ec342c666d041b40505ea7d53c5b75",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0007:u001",
+            "start": 0,
+            "end": 101,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0008",
+        "length": 106,
+        "sha256": "7b6847c33e6dc8a58864de60ecfbda665cc94280bfd0f33e0f13a8b08648cb23",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0008:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0008:u002",
+            "start": 67,
+            "end": 106,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0009",
+        "length": 37,
+        "sha256": "f314613cd0d835c557e6f435cd7b1aec04f81baa629cdf15f32d81fa07a4b747",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0009:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0010",
+        "length": 18,
+        "sha256": "ce6839bb4847c18e7cba81ab2192d9be59faaaadb8f3f1354264f38fbdad4251",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0010:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0010:u002",
+            "start": 8,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0011",
+        "length": 35,
+        "sha256": "7027b5c58584587fac2a71c7656edd4032395063749bf1b1cc20e7c7bd68a4da",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0011:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0012",
+        "length": 50,
+        "sha256": "aa58b12127c14bb87654593a95b7a011b0f2bf9d0cce2f1eeb13c7d5660c0461",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0012:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0013",
+        "length": 45,
+        "sha256": "8c635f3ba1a4837722b3d9547555a8985d91ff32f9ecafaa544b722d5041d340",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0013:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0014",
+        "length": 46,
+        "sha256": "bb708b16e5539867e85c09e93f7449b522bf9f596643ebd6730127183a52161c",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0014:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0014:u002",
+            "start": 9,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0015",
+        "length": 29,
+        "sha256": "cf1b5309565809d1e61b156f1e6d0559734791d38c6339461767f73716f339dd",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0015:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0016",
+        "length": 28,
+        "sha256": "9e1a1a3a6700626e769fe0b2359068d6f1274ce04d475a6f29351629bdfb4ed3",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0016:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0017",
+        "length": 91,
+        "sha256": "fdebd5bf1326721cb9beaf093f026ffe81f31ef93cd729d0701bbdff6e7a5d32",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0017:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0017:u002",
+            "start": 55,
+            "end": 91,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0018",
+        "length": 62,
+        "sha256": "305f1e2c3f593b0af1f8c545f918481cb7bb59810add67666fab6d65c9ec74eb",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0018:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0018:u002",
+            "start": 37,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0018:u003",
+            "start": 51,
+            "end": 62,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0019",
+        "length": 51,
+        "sha256": "4064b8ca845109e49429ca5091d413e3b835b3d7cef2067a497a6dc6b023ed82",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0019:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0020",
+        "length": 23,
+        "sha256": "0ce1430cd293f68416e7894e474494d3d6d719a4b5219273785dc4a1499a1647",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0020:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0021",
+        "length": 107,
+        "sha256": "1fee3d5a0358f84df9ef7f919ffe02ec2ffe34428c69bc095dcdd08290ebdc9a",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0021:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0021:u002",
+            "start": 15,
+            "end": 107,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0022",
+        "length": 105,
+        "sha256": "9c0b170e35b8fdcb48e3d51240574823e817d4ddc67c00ec41bbda689b2fec5c",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0022:u001",
+            "start": 0,
+            "end": 105,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0023",
+        "length": 72,
+        "sha256": "58e0d5f342c7b19dee56f9125548fd2150f7f0cca6486870c129764ad49b8754",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0023:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0024",
+        "length": 65,
+        "sha256": "0d3ff79e70ea73de134930b3b349918bd9d81777db028a62dd33c8c9d7c70021",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0024:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0024:u002",
+            "start": 30,
+            "end": 65,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0025",
+        "length": 123,
+        "sha256": "5b2f6c41c1cbfc8bfebaa92eae6741b51e7d793d96e405371926366b1a28943b",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0025:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0025:u002",
+            "start": 10,
+            "end": 123,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0026",
+        "length": 77,
+        "sha256": "76ea19288695823d3e9eeb0e75580fcf5d19a96d94b9313a507c8a1af1263779",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0026:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0026:u002",
+            "start": 11,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0026:u003",
+            "start": 24,
+            "end": 35,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0026:u004",
+            "start": 35,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0026:u005",
+            "start": 58,
+            "end": 77,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0027",
+        "length": 90,
+        "sha256": "ec5484be4d0b60e944273502bf8f5b720480111bb29c9e15b222c752b185646b",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0027:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0027:u002",
+            "start": 9,
+            "end": 76,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0027:u003",
+            "start": 76,
+            "end": 90,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0028",
+        "length": 14,
+        "sha256": "efb01491810fb4b630bd13cffce3618349d07dd6c8bf015a5033d75e3ffaa0a3",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0028:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0028:u002",
+            "start": 7,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0029",
+        "length": 45,
+        "sha256": "1bce59dcc346867baafb657571e4e982f898fc1fd8074cce0a398dc259940e25",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0029:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0029:u002",
+            "start": 32,
+            "end": 45,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0030",
+        "length": 14,
+        "sha256": "c46b9c23fe1a7e6cd31ef9b408c4aa480666e1c8251da9829a65c223117b66ec",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0030:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0030:u002",
+            "start": 7,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0031",
+        "length": 94,
+        "sha256": "5dfbef2544294e4f01318d63f0a589a9d27602471f89d87b07405e499ba34b83",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0031:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0031:u002",
+            "start": 7,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0031:u003",
+            "start": 20,
+            "end": 94,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0032",
+        "length": 77,
+        "sha256": "9102fb68f16749684840befb1aa7cf42c3f9031807d24aaa98d2249d00ac216b",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0032:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0032:u002",
+            "start": 7,
+            "end": 77,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0033",
+        "length": 10,
+        "sha256": "acdd7a05526d1191c4ed8a3fcb697f345a12ff689e8b9342751c6605478ac846",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0033:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0034",
+        "length": 72,
+        "sha256": "7476878b25fdd91e68176ab0e5bf6905bf19ee2fec834413dad6f331737c5dd0",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0034:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0034:u002",
+            "start": 26,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0034:u003",
+            "start": 45,
+            "end": 72,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0035",
+        "length": 7,
+        "sha256": "4b81ffa7aa76807033f9897c4711e91ad9f4608d4349541a20aa35afa67534b9",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0035:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0036",
+        "length": 63,
+        "sha256": "5a5b010ea9902ddab2c91c67e3300bff1dcc314786bd532d1345db44b5976f82",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0036:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0036:u002",
+            "start": 5,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0036:u003",
+            "start": 12,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0037",
+        "length": 24,
+        "sha256": "65dc11d5ce60b7cbb50caccec9434a9347b97ea8c4b17143a4b903d2028a7930",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0037:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0038",
+        "length": 45,
+        "sha256": "31f30db0d9d6c20623dbb70a5b11160ec634cc9bf308b4de8cf45455b2c254fb",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0038:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0039",
+        "length": 44,
+        "sha256": "9905d41d5da9a2fad9be1e4ffc03412a922d08e61386c5b9db2cc66b905e8a8c",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0039:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0039:u002",
+            "start": 33,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0040",
+        "length": 73,
+        "sha256": "2a0c90b6009efcdce6f8d6f1d14650ff25afed29cbe73ac4bcb13685d7e5e27f",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0040:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0040:u002",
+            "start": 10,
+            "end": 38,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0040:u003",
+            "start": 38,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0041",
+        "length": 15,
+        "sha256": "6db207fe91a50a26863e0f072e7456d2aea7c56c844409193a1900e1d53fa0b8",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0041:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0041:u002",
+            "start": 7,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0042",
+        "length": 56,
+        "sha256": "1f11f127106b428d0c643f485c3279883af89f8168526b23a0823b318be757ee",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0042:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0042:u002",
+            "start": 12,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0042:u003",
+            "start": 20,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0043",
+        "length": 32,
+        "sha256": "eafdf9cfa38b5ae1f7d4219126ef0e0fb9e51ef9b6650a2dfa0da3fa5884159c",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0043:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0043:u002",
+            "start": 5,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0043:u003",
+            "start": 15,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0044",
+        "length": 60,
+        "sha256": "e86be58918b041637378dbd6c65c6a98de5959724f52daa2bac957a5a0636d5b",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0044:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0044:u002",
+            "start": 4,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0045",
+        "length": 53,
+        "sha256": "dfb384f4467164e96f64b5f43f2eca625a05432feb028854407c50fd37e1d147",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0045:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0046",
+        "length": 32,
+        "sha256": "25c7aabcc8b1f50b997d2f02bcf1ee1aa22024d27fc946670df765003a49e9ac",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0046:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0047",
+        "length": 39,
+        "sha256": "a2e63fab46dea487a9530ab88aaeca57a181f47890d73f44a6d6ca45a7856b37",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0047:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0047:u002",
+            "start": 17,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0048",
+        "length": 56,
+        "sha256": "06cb9d44b472006e8b4913167b805e3c9d298a79cd608a295fed8d44997ec259",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0048:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0048:u002",
+            "start": 10,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0049",
+        "length": 75,
+        "sha256": "bb8155e2c46fa1f4d00dc4e327512f23e7b059e8b5229cd0a023a6a9bd504d42",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0049:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0049:u002",
+            "start": 23,
+            "end": 57,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0049:u003",
+            "start": 57,
+            "end": 75,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0050",
+        "length": 35,
+        "sha256": "07bcb1f856ec21b30cd64b91e263582c5669fce0b25ea55629cdadd8d7e33cd2",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0050:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0050:u002",
+            "start": 8,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0051",
+        "length": 31,
+        "sha256": "f30cd922d2fe99393e437ad90f90222f618d9a0249faa4bd3f52d585ea14a2e3",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0051:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0052",
+        "length": 41,
+        "sha256": "2bff7e36a59885521ac704356519e297547656d5f8acff6fecccb01b016742a0",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0052:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0052:u002",
+            "start": 16,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0053",
+        "length": 37,
+        "sha256": "b970fcf6f4fe3db94b6d164246ea4395495553beb62ae8fc8711e5ab35270a06",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0053:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0053:u002",
+            "start": 28,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0054",
+        "length": 101,
+        "sha256": "505d2012aaacd9d311601ca7518a9312401a5abcb0a364103db90ee75ae440f3",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0054:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0054:u002",
+            "start": 9,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0054:u003",
+            "start": 19,
+            "end": 101,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0055",
+        "length": 45,
+        "sha256": "172da51466779119a9d606182e1a63db4c40cf091ea73df4cb618c35900d84ff",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0055:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0056",
+        "length": 38,
+        "sha256": "67cb20e7bfba07df1531b5a02f4e2c6a078adda2bdc616748d0dfcdec8152027",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0056:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0056:u002",
+            "start": 11,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0057",
+        "length": 74,
+        "sha256": "36753b0e0f3ce700cf97abd7a73c40599be768e32d36ebb63b81475e7e55a218",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0057:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0057:u002",
+            "start": 11,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0057:u003",
+            "start": 25,
+            "end": 74,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0058",
+        "length": 40,
+        "sha256": "9fbb170e82b000d2b65490f79b31e948941fff429c2df1724f2ab29e74418a8f",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0058:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0059",
+        "length": 76,
+        "sha256": "83b66bac0012d5e605f3804e5cedf3df5be78ced459d4101035f8eeb8318e407",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0059:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0059:u002",
+            "start": 29,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0059:u003",
+            "start": 58,
+            "end": 76,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0060",
+        "length": 23,
+        "sha256": "f51c7f308538dbf65cd707ca81469c00c076261a349ea54e338773c68b879632",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0060:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0060:u002",
+            "start": 7,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0061",
+        "length": 33,
+        "sha256": "04d14a491948b370ef89fbb9c9b7f43ca17baa184daabaa1b27698db95b1ba81",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0061:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0061:u002",
+            "start": 13,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0062",
+        "length": 43,
+        "sha256": "56983b6ba9b48de027cbf18a91e776902b9d3570170bddc7c385a2d8fdd330f0",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0062:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0062:u002",
+            "start": 10,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0063",
+        "length": 29,
+        "sha256": "338580a8cb4ad031db1b0c711b36816a29782b32100a0fe33631ce2bba63e61f",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0063:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0063:u002",
+            "start": 19,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0064",
+        "length": 16,
+        "sha256": "b7a443859f2640b1212ec0b4f8f0e100ead658614745afb568b8dd4182aef901",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0064:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "guoxi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0064:u002",
+            "start": 4,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0065",
+        "length": 29,
+        "sha256": "9938195f7053462363f484f5854416b3e388bde6d3e4c7b8e86341b18f5e95ea",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0065:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0066",
+        "length": 6,
+        "sha256": "c1feb1e0712d8db7491eb7c2cb9a598138d5b82d72e04ecb4814b24fab7283ca",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0066:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0067",
+        "length": 26,
+        "sha256": "2f54b1fdeb3c5cf8e114dc005e90429d9b7882aa3ea2f5a0ec17470321df4b18",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0067:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0068",
+        "length": 49,
+        "sha256": "593fafc9c4b31c5e6bab1d5231705e6845e7c6e72000e7db0dec0a084ce2fbe8",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0068:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0068:u002",
+            "start": 14,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0069",
+        "length": 61,
+        "sha256": "31c33d41c88a0c0ca4ca81e7b33fe0ff32048f6d4ee1eeb7ed9c54169dcc599c",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0069:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0069:u002",
+            "start": 10,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0070",
+        "length": 48,
+        "sha256": "1acab62e15706e320ed615f7cc952fae75662247a378a99236f441e505e15c2d",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0070:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0071",
+        "length": 34,
+        "sha256": "d46234943c754bbc77138f8ef237a202f6c3f725765546095abe79d119ade4e8",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0071:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0071:u002",
+            "start": 4,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0072",
+        "length": 35,
+        "sha256": "54fc5f68967be6fad70775788b054273ccd15ebd192fac8d348ee663d8a6a5b6",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0072:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0073",
+        "length": 49,
+        "sha256": "1639e6d288033d174583436d9a69832e20a2e6fc7e55e06558566f3499eede23",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0073:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0073:u002",
+            "start": 7,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          },
+          {
+            "unit_id": "v04-c0126:p0073:u003",
+            "start": 26,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "gu_xiaosang",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0074",
+        "length": 30,
+        "sha256": "cdaeaac3bb00ca23f2b5995a907578143971be326223a30bef627e8d65acf896",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0074:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "external_or_narrator",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0075",
+        "length": 11,
+        "sha256": "63366110b3b73cc6942d4069e707cb6f7fc337500d482fee3f185fc865e34f9f",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0075:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "shangshui_xianzi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      },
+      {
+        "reference": "v04-c0126:p0076",
+        "length": 19,
+        "sha256": "c52c2151d996fc60842a8ab67427e935fbecfb25f8eccdbdf0f3ff9f47583e0f",
+        "units": [
+          {
+            "unit_id": "v04-c0126:p0076:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "focalizer": "meng_qi",
+            "certainty": "reviewed_assignment"
+          }
+        ]
+      }
+    ]
+  }
 }

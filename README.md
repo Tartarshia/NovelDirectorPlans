@@ -8,6 +8,8 @@
 
 ## 阅读入口
 
+- [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [最近六章补充复核](books/yishizhizun/reviews/review-v04-0121-0126.md)：435段、663个句内单元的归属，保留七处疑问；早期620条目的逐句归属仍待补。
 - [角色 wiki](books/yishizhizun/wiki.md)：人物、关系、身份揭示、阶段变化及原文证据。当前仍含连续增补记录，后续全书汇总会进一步整理。
 - [分卷指导](books/yishizhizun/volumes)：卷内成长阶段、情绪与表演走向。
 - [章节导演草案](books/yishizhizun/chapter_direction)：视角、场景范围、节奏与归属提醒。
@@ -23,6 +25,7 @@
 
 ```console
 python scripts/package.py validate
+python scripts/validate_attribution.py
 python scripts/package.py archive
 ```
 
