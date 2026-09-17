@@ -1,7 +1,25 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0132",
+  "through_chapter": "v04-c0133",
   "events": [
+    {
+      "type": "realm_confirmed",
+      "entity": "yan_chong",
+      "reference": "v04-c0133:p0032",
+      "fact_status": "海潮门首位外景，一步登天，非宗师"
+    },
+    {
+      "type": "ranking_reported",
+      "entity": "dushou_alias_of_meng",
+      "reference": "v04-c0133:p0077",
+      "fact_status": "严转述黑榜99，非孟真实宗师"
+    },
+    {
+      "type": "rumor_unconfirmed",
+      "entity": "fazheng_master",
+      "reference": "v04-c0133:p0079",
+      "fact_status": "宗师传闻未获六扇门认可"
+    },
     {
       "type": "identity_correction",
       "entity": "xuannu_searching_manifestation",
