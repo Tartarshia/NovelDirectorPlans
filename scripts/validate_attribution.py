@@ -12,7 +12,7 @@ def validate(source=None):
  summary=load(data/'reviews/attribution-summary.json');actual=[]
  reviewed={load(p)['chapter_id'] for p in (data/'chapter_direction').glob('*.json') if load(p).get('attribution')}
  assert reviewed=={e['chapter_id'] for e in summary['chapters']}, 'Attribution summary coverage mismatch'
- kinds={'narration','spoken_dialogue','inner_speech','mental_visualization_voice'}
+ kinds={'narration','spoken_dialogue','inner_speech','mental_visualization_voice','telepathic_dialogue'}
  for entry in summary['chapters']:
   cid=entry['chapter_id'];plan=load(data/'chapter_direction'/(cid+'.json'));c=chapters[cid]
   assert plan['chapter_sha256']==c['text_sha256']
@@ -49,6 +49,9 @@ def validate(source=None):
  assert any(u['speaker']=='female_voice_unnamed' for u in units(125,69))
  assert any(u['speaker']=='meng_qi' and u['kind']=='inner_speech' for u in units(126,26))
  assert any(u['speaker']=='meng_qi' and u['kind']=='spoken_dialogue' for u in units(126,26))
+ assert any(u['kind']=='telepathic_dialogue' for u in units(127,61))
+ assert all(u['kind']!='spoken_dialogue' for u in units(127,62))
+ assert any(u['speaker']=='liu_shuyu' for u in units(129,45))
  return {'status':'ok','chapters':len(actual),'paragraphs':sum(e['paragraphs'] for e in actual),'units':sum(e['units'] for e in actual),'open_questions':sum(e['open_questions'] for e in actual),'source_offsets_verified':bool(originals),'scope':'coverage_and_selected_editorial_regressions_not_full_semantic_proof'}
 if __name__=='__main__':
  p=argparse.ArgumentParser();p.add_argument('--source',type=Path);args=p.parse_args();print(json.dumps(validate(args.source)))
