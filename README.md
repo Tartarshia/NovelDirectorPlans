@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第137章，637 / 1410 个目录条目，约208.9万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第138章，638 / 1410 个目录条目，约209.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第138章复核](books/yishizhizun/reviews/review-v04-0138.md)：首梯四重确认与三家揭局，92段、131个句内单元。
 - [第137章复核](books/yishizhizun/reviews/review-v04-0137.md)：何九高空切磋与突破临界，97段、106个句内单元，尚未确认晋阶完成。
 - [第136章复核](books/yishizhizun/reviews/review-v04-0136.md)：三次拜访、83段138个句内单元，何九到观未战。
 - [第135章复核](books/yishizhizun/reviews/review-v04-0135.md)：宁台切磋与阮门受冷，93段、137个句内单元。

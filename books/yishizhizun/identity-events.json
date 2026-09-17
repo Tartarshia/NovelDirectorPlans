@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0137",
+  "through_chapter": "v04-c0138",
   "events": [
+    {
+      "type": "realm_confirmed",
+      "entity": "meng_qi",
+      "reference": "v04-c0138:p0027",
+      "fact_status": "本章明确首梯四重，何九仍未过"
+    },
+    {
+      "type": "powers_obtained",
+      "entity": "meng_qi",
+      "reference": "v04-c0138:p0030",
+      "fact_status": "迎风变化、慧眼、元始金莲；各有范围与效力限制"
+    },
+    {
+      "type": "realm_self_report",
+      "entity": "wang_siyuan",
+      "reference": "v04-c0138:p0046",
+      "fact_status": "自述三个月前过首梯，不倒灌当时孟知情"
+    },
+    {
+      "type": "offer_not_accepted",
+      "entity": "jiedu",
+      "reference": "v04-c0138:p0075",
+      "fact_status": "六字真言封条收回，来历未交代，不计孟库存"
+    },
+    {
+      "type": "reader_reveal",
+      "entity": "three_family_plan",
+      "reference": "v04-c0138:p0090",
+      "fact_status": "三家早定位蓝血根本，公开请洛书是掩护；孟未在场"
+    },
     {
       "type": "duel_started",
       "entity": "meng_hejiu",
