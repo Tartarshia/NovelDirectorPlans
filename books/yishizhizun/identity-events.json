@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0140",
+  "through_chapter": "v04-c0141",
   "events": [
+    {
+      "type": "escape_completed",
+      "entity": "blue_blood_tower",
+      "reference": "v04-c0141:p0030",
+      "fact_status": "带祭司与阮承德逃至青冥外，后落海洋星球"
+    },
+    {
+      "type": "past_revealed",
+      "entity": "ruan_chengde",
+      "reference": "v04-c0141:p0070",
+      "fact_status": "违规携度人琴遭三强水袭夺琴，断一指，后禁闭改曲"
+    },
+    {
+      "type": "item_destroyed",
+      "entity": "ruan_chengde_personal_qin",
+      "reference": "v04-c0141:p0077",
+      "fact_status": "随身古琴宝兵脱水碎裂，非度人琴"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "ruan_chengde",
+      "reference": "v04-c0141:p0096",
+      "fact_status": "精血命唤度人琴后元神崩散"
+    },
+    {
+      "type": "item_return_contested",
+      "entity": "duren_qin",
+      "reference": "v04-c0141:p0101",
+      "fact_status": "琴归琅琊带祖神沾染，九指欲夺，未定归属"
+    },
+    {
+      "type": "unresolved_question",
+      "entity": "meng_six_paths_qin",
+      "reference": "v04-c0141:p0105",
+      "fact_status": "孟疑琴本在六道处为何自归，机制未知"
+    },
     {
       "type": "death_confirmed",
       "entity": "gao_elder",
