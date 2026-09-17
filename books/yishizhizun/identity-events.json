@@ -1,7 +1,25 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0136",
+  "through_chapter": "v04-c0137",
   "events": [
+    {
+      "type": "duel_started",
+      "entity": "meng_hejiu",
+      "reference": "v04-c0137:p0016",
+      "fact_status": "高空交手避免毁城，非殿内斗"
+    },
+    {
+      "type": "techniques_applied",
+      "entity": "meng_sword_methods_in_blade",
+      "reference": "v04-c0137:p0029",
+      "fact_status": "百剑无踪万剑归元融刀实用，不等三剑全熟"
+    },
+    {
+      "type": "breakthrough_in_progress",
+      "entity": "meng_qi",
+      "reference": "v04-c0137:p0096",
+      "fact_status": "元始相外出交织法理，四重完成未明"
+    },
     {
       "type": "visit_confirmed",
       "entity": "nie_zhi",
