@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第146章，646 / 1410 个目录条目，约211.9万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第147章，647 / 1410 个目录条目，约212.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第147章复核](books/yishizhizun/reviews/review-v04-0147.md)：修旗两次、重返九乡与清源身份，80段、126个句内单元。
 - [第146章复核](books/yishizhizun/reviews/review-v04-0146.md)：共享珍食、辅助计划与牵扯警告，76段、118个句内单元。
 - [第145章复核](books/yishizhizun/reviews/review-v04-0145.md)：归琴与玉书突破、挥旗代价及答谢，99段、113个句内单元。
 - [第144章复核](books/yishizhizun/reviews/review-v04-0144.md)：两敌逃遁、九指实名与宝物使用边界，78段、87个句内单元。
