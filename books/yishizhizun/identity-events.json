@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0122",
+  "through_chapter": "v04-c0124",
   "events": [
+    {
+      "type": "appearance_confirmed",
+      "entity": "lehuan",
+      "reference": "v04-c0123:p0007",
+      "fact_status": "离华接引，自称普通弟子"
+    },
+    {
+      "type": "claim_corrected",
+      "entity": "lihua_formation",
+      "reference": "v04-c0123:p0040",
+      "fact_status": "孟感知藏禁制杀阵，非仅防外敌"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "li_wending",
+      "reference": "v04-c0123:p0051",
+      "fact_status": "三眼箭神实在离华，根基已毁"
+    },
+    {
+      "type": "disguise_maintained",
+      "entity": "meng_as_dushou",
+      "reference": "v04-c0124:p0055",
+      "fact_status": "抵试借魔血震慑，怜欲误判黑榜实力，未真晋阶"
+    },
+    {
+      "type": "meeting_proposed",
+      "entity": "sunu_oath_tomorrow",
+      "reference": "v04-c0124:p0055",
+      "fact_status": "宗主会面立约待明日，未执行"
+    },
     {
       "type": "death_self_destruct",
       "entity": "wu_hengjian",
