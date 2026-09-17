@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0134",
+  "through_chapter": "v04-c0135",
   "events": [
+    {
+      "type": "realm_not_advanced",
+      "entity": "meng_qi",
+      "reference": "v04-c0135:p0086",
+      "fact_status": "亲口未过首梯，招式小圆满不等境界"
+    },
+    {
+      "type": "duel_completed",
+      "entity": "ning_tai",
+      "reference": "v04-c0135:p0047",
+      "fact_status": "败且剑缺口，孟留命，宁欢喜见武道"
+    },
+    {
+      "type": "retreat_reported",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0135:p0081",
+      "fact_status": "阮摇光报闭关欲外景，尚未实破"
+    },
+    {
+      "type": "lodging_confirmed",
+      "entity": "meng_sanqing_temple",
+      "reference": "v04-c0135:p0093",
+      "fact_status": "阮府未留，寄住三清观"
+    },
     {
       "type": "retreat_completed",
       "entity": "meng_qi",
