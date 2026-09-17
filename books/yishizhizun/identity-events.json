@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0144",
+  "through_chapter": "v04-c0145",
   "events": [
+    {
+      "type": "item_used_damaged",
+      "entity": "meng_xuanshui_flag",
+      "reference": "v04-c0145:p0035",
+      "fact_status": "挥旗摄海破血海耗尽孟力，旗将毁仍存"
+    },
+    {
+      "type": "realm_revealed",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0145:p0052",
+      "fact_status": "突破外景琴心共鸣，非一步登天无劫"
+    },
+    {
+      "type": "item_destroyed",
+      "entity": "fengdian_blood_pearl",
+      "reference": "v04-c0145:p0064",
+      "fact_status": "自爆血神珠助重伤逃"
+    },
+    {
+      "type": "item_recovered",
+      "entity": "duren_qin",
+      "reference": "v04-c0145:p0072",
+      "fact_status": "祛祖神气后落阮伯高怀，回族落定"
+    },
+    {
+      "type": "promise_granted",
+      "entity": "ruan_elder_aid",
+      "reference": "v04-c0145:p0085",
+      "fact_status": "孟请携琴援一次，阮老慷慨许更多，未实际调用"
+    },
+    {
+      "type": "item_acquired",
+      "entity": "ancestor_residual_aura",
+      "reference": "v04-c0145:p0087",
+      "fact_status": "玉瓶深蓝液祖神残气交孟，修旗可能未验证"
+    },
     {
       "type": "escape_confirmed",
       "entity": "linghu_tao",
