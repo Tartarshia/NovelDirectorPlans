@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0147",
+  "through_chapter": "v04-c0148",
   "events": [
+    {
+      "type": "realm_confirmed",
+      "entity": "huangfu_fei",
+      "reference": "v04-c0148:p0011",
+      "fact_status": "九窍，看不透孟并猜外景"
+    },
+    {
+      "type": "tomb_report",
+      "entity": "jiuxiang_tomb",
+      "reference": "v04-c0148:p0051",
+      "fact_status": "菲报一年异动近期显墓，恶念预感仅孟猜"
+    },
+    {
+      "type": "escort_limited",
+      "entity": "he_canshang",
+      "reference": "v04-c0148:p0060",
+      "fact_status": "准墓外接应不入墓"
+    },
+    {
+      "type": "disguise_seen_through",
+      "entity": "wen_haogu",
+      "reference": "v04-c0148:p0081",
+      "fact_status": "孟慧眼见洗月真身，非已攻击"
+    },
+    {
+      "type": "outer_undead_destroyed",
+      "entity": "tomb_undead",
+      "reference": "v04-c0148:p0110",
+      "fact_status": "雷海灭外景僵尸元神露墓，不等恶念灭"
+    },
+    {
+      "type": "injury_from_fear",
+      "entity": "wen_haogu",
+      "reference": "v04-c0148:p0119",
+      "fact_status": "恐惧运功触隐患吐血险坠，孟未对他出手"
+    },
     {
       "type": "visit_retrospect",
       "entity": "ruan_yushu_lanke",
