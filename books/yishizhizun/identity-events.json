@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0150",
+  "through_chapter": "v04-c0151",
   "events": [
+    {
+      "type": "ability_used_conditionally",
+      "entity": "meng_weiwo_duzun",
+      "reference": "v04-c0151:p0015",
+      "fact_status": "元神独巨化精神层勉强第一掌，非完全掌握"
+    },
+    {
+      "type": "strength_confirmed",
+      "entity": "zhenwu_evil_thought",
+      "reference": "v04-c0151:p0029",
+      "fact_status": "残力宗师级上古眼光存"
+    },
+    {
+      "type": "item_used",
+      "entity": "unfinished_dinghai_pearl",
+      "reference": "v04-c0151:p0044",
+      "fact_status": "投珠短定水物与旗，未明毁损"
+    },
+    {
+      "type": "item_consumed",
+      "entity": "dongji_longevity_pill",
+      "reference": "v04-c0151:p0048",
+      "fact_status": "吞丹速复伤力，实际消耗"
+    },
+    {
+      "type": "clones_engaged",
+      "entity": "meng_and_evil_clones",
+      "reference": "v04-c0151:p0070",
+      "fact_status": "双分身争旗未分胜负"
+    },
+    {
+      "type": "injury_confirmed",
+      "entity": "meng_qi",
+      "reference": "v04-c0151:p0076",
+      "fact_status": "再次吐血失巨身、三宝拳臂无生机，未写断落"
+    },
     {
       "type": "speculation_reported",
       "entity": "heaven_fall",
