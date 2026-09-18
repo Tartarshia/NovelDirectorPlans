@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0151",
+  "through_chapter": "v04-c0152",
   "events": [
+    {
+      "type": "item_consumed",
+      "entity": "shanhe_shejitu",
+      "reference": "v04-c0152:p0066",
+      "fact_status": "暂困后破图，正文列本次消耗"
+    },
+    {
+      "type": "item_recovered_used",
+      "entity": "xuanshui_flag",
+      "reference": "v04-c0152:p0019",
+      "fact_status": "重掌旗实挥一次，40近碎仍存"
+    },
+    {
+      "type": "quest_reported_complete",
+      "entity": "zhenwu_step5",
+      "reference": "v04-c0152:p0041",
+      "fact_status": "六道报除恶念完成，81揭实际仍存，不改其报告事实"
+    },
+    {
+      "type": "quest_assigned",
+      "entity": "zhenwu_step6",
+      "reference": "v04-c0152:p0042",
+      "fact_status": "循黄泉骨发现找最终下落"
+    },
+    {
+      "type": "cache_locations_revealed",
+      "entity": "zhenwu_legacy",
+      "reference": "v04-c0152:p0055",
+      "fact_status": "留影告三藏，未取传承"
+    },
+    {
+      "type": "item_damaged_recovered",
+      "entity": "dinghai_pearl",
+      "reference": "v04-c0152:p0064",
+      "fact_status": "收珠有细裂仍可用但品降"
+    },
+    {
+      "type": "survival_possession_revealed",
+      "entity": "zhenwu_evil_in_wen",
+      "reference": "v04-c0152:p0081",
+      "fact_status": "恶念未死附洗月，纠正中段孟判断"
+    },
+    {
+      "type": "possession_suspected",
+      "entity": "meng_qi",
+      "reference": "v04-c0152:p0095",
+      "fact_status": "追旧仇后见阴气才疑附体，尚未处理"
+    },
     {
       "type": "ability_used_conditionally",
       "entity": "meng_weiwo_duzun",
