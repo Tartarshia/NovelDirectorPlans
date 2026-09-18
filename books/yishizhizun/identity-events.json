@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0152",
+  "through_chapter": "v04-c0153",
   "events": [
+    {
+      "type": "death_confirmed",
+      "entity": "wen_haogu",
+      "reference": "v04-c0153:p0024",
+      "fact_status": "被附寄体刀分雷碎灰，非获救"
+    },
+    {
+      "type": "item_acquired",
+      "entity": "wen_storage_bag",
+      "reference": "v04-c0153:p0022",
+      "fact_status": "灭身前取袋，64尚未换善功"
+    },
+    {
+      "type": "partial_teaching_received",
+      "entity": "jietian_outline_insights",
+      "reference": "v04-c0153:p0041",
+      "fact_status": "恶念试阅部分心得，孟记未全悟，不是全套传承"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "zhenwu_evil_thought",
+      "reference": "v04-c0153:p0050",
+      "fact_status": "封掌后黑火吞灭，正文明确死；孟归六道禁制"
+    },
+    {
+      "type": "return_completed",
+      "entity": "meng_jiuxiang",
+      "reference": "v04-c0153:p0064",
+      "fact_status": "主动回仙迹柱非满两月，携袋心得"
+    },
+    {
+      "type": "identity_testimony",
+      "entity": "daqinggen_familiar_guest",
+      "reference": "v04-c0153:p0069",
+      "fact_status": "玉虚客气熟不能认名，模拟皆否，身份仍未知"
+    },
     {
       "type": "item_consumed",
       "entity": "shanhe_shejitu",
