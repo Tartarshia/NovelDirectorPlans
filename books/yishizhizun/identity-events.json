@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0153",
+  "through_chapter": "v04-c0154",
   "events": [
+    {
+      "type": "message_reported",
+      "entity": "yang_jian_destination",
+      "reference": "v04-c0154:p0020",
+      "fact_status": "药精转述往九重天遗迹留言，不等当前已知位置"
+    },
+    {
+      "type": "exchange_case_reported",
+      "entity": "chonghe_divine_weapon",
+      "reference": "v04-c0154:p0034",
+      "fact_status": "任务与神兵无关，事后六道交物，限其个案"
+    },
+    {
+      "type": "location_hypothesis",
+      "entity": "ice_lake_legacy",
+      "reference": "v04-c0154:p0053",
+      "fact_status": "冲和疑陪京曹地仙湖，待实访"
+    },
+    {
+      "type": "support_promised",
+      "entity": "chonghe",
+      "reference": "v04-c0154:p0056",
+      "fact_status": "愿掠阵有变再出手，未出发"
+    },
+    {
+      "type": "realm_prospect",
+      "entity": "chonghe",
+      "reference": "v04-c0154:p0061",
+      "fact_status": "当前人仙有望地仙，未成"
+    },
+    {
+      "type": "karma_release_report",
+      "entity": "chonghe",
+      "reference": "v04-c0154:p0064",
+      "fact_status": "真实灵宝异形消失使己解除部分因果，非全尽"
+    },
+    {
+      "type": "quest_status_report",
+      "entity": "chonghe_lingbao_chain",
+      "reference": "v04-c0154:p0070",
+      "fact_status": "剩末步断线，已得诛仙剑阵阵法"
+    },
     {
       "type": "death_confirmed",
       "entity": "wen_haogu",
