@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0164",
+  "through_chapter": "v04-c0165",
   "events": [
+    {
+      "type": "item_retrieved",
+      "entity": "great_dao_tree",
+      "reference": "v04-c0165:p0001",
+      "fact_status": "途中已从仙迹取回随身，补叙"
+    },
+    {
+      "type": "realm_confirmed",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0165:p0052",
+      "fact_status": "首梯突破已成"
+    },
+    {
+      "type": "weapon_upgraded",
+      "entity": "baihong_guanri",
+      "reference": "v04-c0165:p0017",
+      "fact_status": "拆天河升近极品，旧天河不完整库存"
+    },
+    {
+      "type": "realm_confirmed",
+      "entity": "zhao_heng",
+      "reference": "v04-c0165:p0031",
+      "fact_status": "外景第二重非第三"
+    },
+    {
+      "type": "technique_mastered",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0165:p0035",
+      "fact_status": "钟震三界练成"
+    },
+    {
+      "type": "resource_redistribution",
+      "entity": "party",
+      "reference": "v04-c0165:p0064",
+      "fact_status": "各3500，镜9400阮持两用，公余300"
+    },
+    {
+      "type": "quest_entered",
+      "entity": "wuzhishan",
+      "reference": "v04-c0165:p0069",
+      "fact_status": "阻妖得天庭碎片，成功3500失败扣同数"
+    },
     {
       "type": "item_appraised",
       "entity": "pokong_talisman",
