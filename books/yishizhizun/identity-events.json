@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0155",
+  "through_chapter": "v04-c0156",
   "events": [
+    {
+      "type": "title_selected",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0156:p0004",
+      "fact_status": "选择玉鼎真人，未展示领功"
+    },
+    {
+      "type": "membership_completed",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0156:p0059",
+      "fact_status": "53已签约，直接正式成员"
+    },
+    {
+      "type": "realm_confirmed",
+      "entity": "cao_xianzhi",
+      "reference": "v04-c0156:p0053",
+      "fact_status": "新晋宗师"
+    },
+    {
+      "type": "decision_pending",
+      "entity": "cao_clan",
+      "reference": "v04-c0156:p0070",
+      "fact_status": "曹请示家主约明日答，未获许可"
+    },
+    {
+      "type": "breathing_stopped",
+      "entity": "batu_agula_guard",
+      "reference": "v04-c0156:p0084",
+      "fact_status": "草原侍卫停呼吸，死因不明；不并绛族同名人"
+    },
     {
       "type": "exchange_completed",
       "entity": "meng_qi",
