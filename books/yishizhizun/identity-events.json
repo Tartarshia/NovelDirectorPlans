@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0156",
+  "through_chapter": "v04-c0157",
   "events": [
+    {
+      "type": "death_confirmed",
+      "entity": "batu_agula_guard",
+      "reference": "v04-c0157:p0010",
+      "fact_status": "死状脏腑全失，施术者未知"
+    },
+    {
+      "type": "technique_diagnosed",
+      "entity": "batu_agula_guard",
+      "reference": "v04-c0157:p0068",
+      "fact_status": "冲和据转述确认为萨满巫术，非亲验尸"
+    },
+    {
+      "type": "identity_inferred",
+      "entity": "jiang_zhiwei_knows_lingbao",
+      "reference": "v04-c0157:p0067",
+      "fact_status": "江大概猜灵宝是冲和，非自报确认"
+    },
+    {
+      "type": "clandestine_meeting_observed",
+      "entity": "cao_tai",
+      "reference": "v04-c0157:p0084",
+      "fact_status": "家主嫡孙一流外景夜迎两隔窥黑袍，身份未明"
+    },
     {
       "type": "title_selected",
       "entity": "jiang_zhiwei",
