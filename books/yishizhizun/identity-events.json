@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0157",
+  "through_chapter": "v04-c0158",
   "events": [
+    {
+      "type": "identity_category_revealed",
+      "entity": "two_cao_visitors",
+      "reference": "v04-c0158:p0037",
+      "fact_status": "两来客为萨满，真名未明"
+    },
+    {
+      "type": "death_observed",
+      "entity": "two_cao_visitors",
+      "reference": "v04-c0158:p0051",
+      "fact_status": "临擒前爆碎，并非孟江斩杀"
+    },
+    {
+      "type": "testimony_reported",
+      "entity": "saren_gaowa",
+      "reference": "v04-c0158:p0076",
+      "fact_status": "阿古拉称狼王师父皓月萨仁高娃，戒杀同一性未证"
+    },
+    {
+      "type": "threat_reported",
+      "entity": "meng_qi",
+      "reference": "v04-c0158:p0082",
+      "fact_status": "阿古拉称师父近年入中原追寻孟，未见本人"
+    },
     {
       "type": "death_confirmed",
       "entity": "batu_agula_guard",
