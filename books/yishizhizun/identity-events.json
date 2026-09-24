@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0160",
+  "through_chapter": "v04-c0161",
   "events": [
+    {
+      "type": "speech_observed",
+      "entity": "purple_lightning_relic",
+      "reference": "v04-c0161:p0007",
+      "fact_status": "重复门开仍无生机，执念仅曹猜"
+    },
+    {
+      "type": "seal_opened",
+      "entity": "meng_qi",
+      "reference": "v04-c0161:p0028",
+      "fact_status": "真武法印开黑殿"
+    },
+    {
+      "type": "legacy_identified",
+      "entity": "dao_chuan_huan_yu",
+      "reference": "v04-c0161:p0031",
+      "fact_status": "小树承第五，未收取"
+    },
+    {
+      "type": "item_used",
+      "entity": "xuanshui_flag",
+      "reference": "v04-c0161:p0071",
+      "fact_status": "本次实催，之前名义最后一次，未写碎毁"
+    },
+    {
+      "type": "distant_anomaly",
+      "entity": "snow_mountain_nine_tombs",
+      "reference": "v04-c0161:p0092",
+      "fact_status": "九墓镇动，原因未解"
+    },
     {
       "type": "relic_locations_confirmed",
       "entity": "cao_relics",
