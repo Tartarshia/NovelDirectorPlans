@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0158",
+  "through_chapter": "v04-c0159",
   "events": [
+    {
+      "type": "proposal_rejected",
+      "entity": "cao_clan",
+      "reference": "v04-c0159:p0028",
+      "fact_status": "曹献之转述家主拒绝"
+    },
+    {
+      "type": "relic_count_reported",
+      "entity": "cao_clan",
+      "reference": "v04-c0159:p0033",
+      "fact_status": "当初发现两具，现址未全知"
+    },
+    {
+      "type": "item_received",
+      "entity": "meng_qi",
+      "reference": "v04-c0159:p0039",
+      "fact_status": "微尘寰宇旗限一次，未使用"
+    },
+    {
+      "type": "disguise_in_action",
+      "entity": "meng_qi_as_cao_tai",
+      "reference": "v04-c0159:p0075",
+      "fact_status": "按预案伪曹泰求援假死，真曹泰未死证"
+    },
+    {
+      "type": "reader_only_reveal",
+      "entity": "han_guang_and_gao_lan",
+      "reference": "v04-c0159:p0086",
+      "fact_status": "家主屋内双星实名，孟江知情未示"
+    },
     {
       "type": "identity_category_revealed",
       "entity": "two_cao_visitors",
