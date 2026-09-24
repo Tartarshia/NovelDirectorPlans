@@ -1,7 +1,37 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0159",
+  "through_chapter": "v04-c0160",
   "events": [
+    {
+      "type": "relic_locations_confirmed",
+      "entity": "cao_relics",
+      "reference": "v04-c0160:p0021",
+      "fact_status": "两具同冰眼，冰晶被带出而紫雷留"
+    },
+    {
+      "type": "disguise_mechanism_revealed",
+      "entity": "meng_qi",
+      "reference": "v04-c0160:p0041",
+      "fact_status": "分身假尸、本尊发丝借一次限旗潜入"
+    },
+    {
+      "type": "responsibility_claimed",
+      "entity": "gao_lan",
+      "reference": "v04-c0160:p0048",
+      "fact_status": "亲称除金帐萨满，非孟江知情"
+    },
+    {
+      "type": "disguise_changed",
+      "entity": "meng_qi_as_cao_chengxuan",
+      "reference": "v04-c0160:p0060",
+      "fact_status": "守者称承轩，孟默认应答"
+    },
+    {
+      "type": "anomaly_observed",
+      "entity": "purple_lightning_relic",
+      "reference": "v04-c0160:p0075",
+      "fact_status": "自行睁眼，原因未知"
+    },
     {
       "type": "proposal_rejected",
       "entity": "cao_clan",
