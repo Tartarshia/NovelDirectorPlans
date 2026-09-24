@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第154章，654 / 1410 个目录条目，约214.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第155章，655 / 1410 个目录条目，约214.9万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第155章复核](books/yishizhizun/reviews/review-v04-0155.md)：兑换风险、好友近况与知情信任，76段、112个句内单元。
 - [第154章复核](books/yishizhizun/reviews/review-v04-0154.md)：杨戬去向口供、分享第五剑与部分因果解除，72段、131个句内单元。
 - [第153章复核](books/yishizhizun/reviews/review-v04-0153.md)：残念灭口、部分心得与回归辨气，88段、130个句内单元。
 - [第152章复核](books/yishizhizun/reviews/review-v04-0152.md)：任务报成与恶念寄体反转，95段、118个句内单元。

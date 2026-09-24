@@ -1,7 +1,25 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0154",
+  "through_chapter": "v04-c0155",
   "events": [
+    {
+      "type": "exchange_completed",
+      "entity": "meng_qi",
+      "reference": "v04-c0155:p0010",
+      "fact_status": "售袋7600，买诀5000与药师心丹4000，最终善功80"
+    },
+    {
+      "type": "realm_reported",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0155:p0042",
+      "fact_status": "同门称已外景离山未回，本人未见"
+    },
+    {
+      "type": "invitation_accepted",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0155:p0067",
+      "fact_status": "答愿加入，未选号及正式入会"
+    },
     {
       "type": "message_reported",
       "entity": "yang_jian_destination",
