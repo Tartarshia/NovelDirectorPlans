@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第163章，663 / 1410 个目录条目，约217.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第164章，664 / 1410 个目录条目，约217.9万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第164章复核](books/yishizhizun/reviews/review-v04-0164.md)：规则落实、修习进展与心灵之旅，121段、153个句内单元。
 - [第163章复核](books/yishizhizun/reviews/review-v04-0163.md)：大道之树鉴定、共享协议与分宝，61段、103个句内单元。
 - [第162章复核](books/yishizhizun/reviews/review-v04-0162.md)：实收七物、旗毁与合力撤离，82段、89个句内单元。
 - [第161章复核](books/yishizhizun/reviews/review-v04-0161.md)：见宝未收、初观第五与挥旗，92段、108个句内单元。
