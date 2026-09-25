@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0165",
+  "through_chapter": "v04-c0166",
   "events": [
+    {
+      "type": "location_entered",
+      "entity": "nantian_gate",
+      "reference": "v04-c0166:p0035",
+      "fact_status": "过界不可飞、仍可勾天地"
+    },
+    {
+      "type": "attempt_failed",
+      "entity": "meng_qi_move_gate",
+      "reference": "v04-c0166:p0042",
+      "fact_status": "搬门不动，未施法天象地"
+    },
+    {
+      "type": "unexplained_death",
+      "entity": "python_vanguard",
+      "reference": "v04-c0166:p0075",
+      "fact_status": "电光与血肉空，袭者不明"
+    },
+    {
+      "type": "character_entered",
+      "entity": "unidentified_black_robed_king",
+      "reference": "v04-c0166:p0082",
+      "fact_status": "青肤钩鼻宝座王未名未定境界"
+    },
     {
       "type": "item_retrieved",
       "entity": "great_dao_tree",

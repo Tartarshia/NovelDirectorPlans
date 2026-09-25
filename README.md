@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第165章，665 / 1410 个目录条目，约218.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第166章，666 / 1410 个目录条目，约218.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第166章复核](books/yishizhizun/reviews/review-v04-0166.md)：南天门禁飞与妖方惊惧，94段、123个句内单元。
 - [第165章复核](books/yishizhizun/reviews/review-v04-0165.md)：队友成长、共同保底与五指山入场，84段、126个句内单元。
 - [第164章复核](books/yishizhizun/reviews/review-v04-0164.md)：规则落实、修习进展与心灵之旅，121段、153个句内单元。
 - [第163章复核](books/yishizhizun/reviews/review-v04-0163.md)：大道之树鉴定、共享协议与分宝，61段、103个句内单元。
