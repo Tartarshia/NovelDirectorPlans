@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0167",
+  "through_chapter": "v04-c0168",
   "events": [
+    {
+      "type": "combat_level_confirmed",
+      "entity": "heavenly_bridge_guard",
+      "reference": "v04-c0168:p0012",
+      "fact_status": "宗师压法理，具体重天未知"
+    },
+    {
+      "type": "injury_observed",
+      "entity": "meng_qi",
+      "reference": "v04-c0168:p0045",
+      "fact_status": "细小割伤流血"
+    },
+    {
+      "type": "manifestation_named",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0168:p0057",
+      "fact_status": "太上剑君相，无别有情"
+    },
+    {
+      "type": "technique_used",
+      "entity": "meng_qi",
+      "reference": "v04-c0168:p0072",
+      "fact_status": "借主材载返虚实杀敌"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "heavenly_bridge_guard",
+      "reference": "v04-c0168:p0071",
+      "fact_status": "尸骨无存戟半毁"
+    },
+    {
+      "type": "item_retrieved_after_use",
+      "entity": "dari_yanxin",
+      "reference": "v04-c0168:p0073",
+      "fact_status": "主材未全催后收回，孟脱力"
+    },
     {
       "type": "method_revealed",
       "entity": "party_fright_plan",
