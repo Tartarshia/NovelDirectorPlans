@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0168",
+  "through_chapter": "v04-c0169",
   "events": [
+    {
+      "type": "item_used",
+      "entity": "ruan_yushu_mirror",
+      "reference": "v04-c0169:p0008",
+      "fact_status": "镜首次实际使用，26余一次"
+    },
+    {
+      "type": "identity_named",
+      "entity": "black_robed_king",
+      "reference": "v04-c0169:p0007",
+      "fact_status": "大鹏妖王，金翅祖血统仍猜"
+    },
+    {
+      "type": "item_recovered",
+      "entity": "damaged_halberd",
+      "reference": "v04-c0169:p0029",
+      "fact_status": "队拾，个人持有未明"
+    },
+    {
+      "type": "identity_named",
+      "entity": "tiger_demon",
+      "reference": "v04-c0169:p0033",
+      "fact_status": "寅将军，宗师"
+    },
+    {
+      "type": "death_reported",
+      "entity": "dapeng_king",
+      "reference": "v04-c0169:p0065",
+      "fact_status": "砀远见无尸余死意，凶手不明"
+    },
+    {
+      "type": "recovery_partial",
+      "entity": "meng_qi",
+      "reference": "v04-c0169:p0072",
+      "fact_status": "七八成未满"
+    },
+    {
+      "type": "location_identified",
+      "entity": "tianpeng_barracks",
+      "reference": "v04-c0169:p0086",
+      "fact_status": "残碑天蓬元帅，未见本人"
+    },
     {
       "type": "combat_level_confirmed",
       "entity": "heavenly_bridge_guard",
