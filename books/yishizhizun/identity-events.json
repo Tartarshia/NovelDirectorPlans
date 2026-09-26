@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0174",
+  "through_chapter": "v04-c0175",
   "events": [
+    {
+      "type": "ability_progress",
+      "entity": "meng_weiwo_duzun",
+      "reference": "v04-c0175:p0024",
+      "fact_status": "皮毛可正常施展，非掌法圆满"
+    },
+    {
+      "type": "material_activated",
+      "entity": "dari_yanxin",
+      "reference": "v04-c0175:p0035",
+      "fact_status": "孟实催重伤砀，不记主材毁尽"
+    },
+    {
+      "type": "uses_exhausted",
+      "entity": "zhaoyao_mirror",
+      "reference": "v04-c0175:p0043",
+      "fact_status": "第二次用寅，可用次数归零，本体未写碎"
+    },
+    {
+      "type": "holder_changed",
+      "entity": "bingyan_jingpo",
+      "reference": "v04-c0175:p0064",
+      "fact_status": "孟交江，78江实际催冻尾"
+    },
+    {
+      "type": "ability_used",
+      "entity": "meng_tianxin_woyi",
+      "reference": "v04-c0175:p0070",
+      "fact_status": "此处实际使用，56仍计划"
+    },
+    {
+      "type": "item_destroyed",
+      "entity": "zhao_xuanhuang_pagoda",
+      "reference": "v04-c0175:p0077",
+      "fact_status": "承尾力被抽碎"
+    },
+    {
+      "type": "injury_survived",
+      "entity": "dang_severed_tail",
+      "reference": "v04-c0175:p0082",
+      "fact_status": "断尾留半身仍活"
+    },
+    {
+      "type": "holder_changed",
+      "entity": "pokong_ancient_talisman",
+      "reference": "v04-c0175:p0086",
+      "fact_status": "孟交江，尚未使用"
+    },
+    {
+      "type": "observation",
+      "entity": "sealed_chariot_interior",
+      "reference": "v04-c0175:p0091",
+      "fact_status": "门开确认当前无人，未证历史路线"
+    },
     {
       "type": "realm_observed",
       "entity": "dang_shan_jun",
