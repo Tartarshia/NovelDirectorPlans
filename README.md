@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第172章，672 / 1410 个目录条目，约220.5万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第173章，673 / 1410 个目录条目，约220.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第173章复核](books/yishizhizun/reviews/review-v04-0173.md)：四路脱身、创剑与迷阵终止，88段、97个句内单元；关闭此前1处身份疑问。
 - [第172章复核](books/yishizhizun/reviews/review-v04-0172.md)：迷阵分队、杀牛收获与三路未决，80段、94个句内单元。
 - [第171章复核](books/yishizhizun/reviews/review-v04-0171.md)：通天剑心、凝固车马与未明狼嚎，68段、97个句内单元。
 - [第170章复核](books/yishizhizun/reviews/review-v04-0170.md)：两次试河、空营想象与未明猪尸，76段、106个句内单元。

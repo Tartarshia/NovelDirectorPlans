@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0172",
+  "through_chapter": "v04-c0173",
   "events": [
+    {
+      "type": "item_used",
+      "entity": "ruan_sixiang_pipa",
+      "reference": "v04-c0173:p0017",
+      "fact_status": "钟震后祭四象琵琶脱蛇，照妖镜未用"
+    },
+    {
+      "type": "item_used",
+      "entity": "zhao_chuomu_pearl",
+      "reference": "v04-c0173:p0028",
+      "fact_status": "伤羊眼元神后对方起护宝，赵退未杀"
+    },
+    {
+      "type": "technique_created",
+      "entity": "jiang_jinghong_sword",
+      "reference": "v04-c0173:p0049",
+      "fact_status": "曾是惊鸿照影来，糅合部分精髓表象，非喊招"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "qi_black_fat_demon",
+      "reference": "v04-c0173:p0062",
+      "fact_status": "熊山君，先前未名身份于此揭"
+    },
+    {
+      "type": "item_used",
+      "entity": "qi_dundi_jinguang_talisman",
+      "reference": "v04-c0173:p0069",
+      "fact_status": "短阻熊后实际金光遁"
+    },
+    {
+      "type": "identity_confirmed",
+      "entity": "decaying_black_robed_figure",
+      "reference": "v04-c0173:p0073",
+      "fact_status": "砀山君旁白揭名，孟仍未知"
+    },
+    {
+      "type": "deaths_inferred",
+      "entity": "bear_goat_python",
+      "reference": "v04-c0173:p0085",
+      "fact_status": "熊羊蟒惨叫引孟杀者疑问，未见行凶者"
+    },
+    {
+      "type": "maze_ended",
+      "entity": "yin_exit_trigger",
+      "reference": "v04-c0173:p0086",
+      "fact_status": "寅出阵气机感应使阵停止，队重新互见"
+    },
     {
       "type": "party_separated",
       "entity": "five_member_party",
