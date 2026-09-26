@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0170",
+  "through_chapter": "v04-c0171",
   "events": [
+    {
+      "type": "ability_confirmed",
+      "entity": "jiang_zhiwei_tongtian_jianxin",
+      "reference": "v04-c0171:p0007",
+      "fact_status": "第一梯后神通初成，本次仅模糊遥感"
+    },
+    {
+      "type": "identity_claim",
+      "entity": "giant_pig_corpse",
+      "reference": "v04-c0171:p0010",
+      "fact_status": "孟称应是天蓬，尚非独立验证"
+    },
+    {
+      "type": "location_discovered",
+      "entity": "pool_bottom_copper_door",
+      "reference": "v04-c0171:p0038",
+      "fact_status": "感官误差撞出，门缓开"
+    },
+    {
+      "type": "item_observed_not_acquired",
+      "entity": "four_horse_chariot",
+      "reference": "v04-c0171:p0045",
+      "fact_status": "门口四天马拉车凝固，未触收；车内身份未知"
+    },
+    {
+      "type": "recovery_partial",
+      "entity": "meng_qi_eyes",
+      "reference": "v04-c0171:p0059",
+      "fact_status": "眼大概恢复，不代表旧全身伤全好"
+    },
+    {
+      "type": "voice_unidentified",
+      "entity": "distant_wolf_cry",
+      "reference": "v04-c0171:p0065",
+      "fact_status": "远处惨叫，姓名死活及致害者未明"
+    },
     {
       "type": "clone_destroyed",
       "entity": "meng_qi_hair_clone_1",
