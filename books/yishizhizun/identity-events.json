@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0171",
+  "through_chapter": "v04-c0172",
   "events": [
+    {
+      "type": "party_separated",
+      "entity": "five_member_party",
+      "reference": "v04-c0172:p0070",
+      "fact_status": "迷阵假示意入林后全散"
+    },
+    {
+      "type": "death_confirmed",
+      "entity": "unnamed_wild_bull_demon",
+      "reference": "v04-c0172:p0056",
+      "fact_status": "孟握角刀斩首，非此前狼嚎死者确认"
+    },
+    {
+      "type": "items_acquired",
+      "entity": "meng_qi_bull_loot",
+      "reference": "v04-c0172:p0061",
+      "fact_status": "裂牛黄、血角皮等、牛胃收藏及钉耙；部分弃，无善功结算"
+    },
+    {
+      "type": "holder_confirmed",
+      "entity": "zhao_heng_xuanhuang_pagoda",
+      "reference": "v04-c0172:p0063",
+      "fact_status": "赵持天地玄黄玲珑宝塔，未使用"
+    },
+    {
+      "type": "encounter_unidentified",
+      "entity": "decaying_black_robed_figure",
+      "reference": "v04-c0172:p0066",
+      "fact_status": "孟藏避未交战，未名不等死大鹏"
+    },
+    {
+      "type": "encounter_pending",
+      "entity": "jiang_tiger_demon",
+      "reference": "v04-c0172:p0074",
+      "fact_status": "王字虎妖出现尚未战"
+    },
+    {
+      "type": "encounter_pending",
+      "entity": "qi_black_fat_demon",
+      "reference": "v04-c0172:p0079",
+      "fact_status": "敌称弱小，齐扬剑无惧未战"
+    },
     {
       "type": "ability_confirmed",
       "entity": "jiang_zhiwei_tongtian_jianxin",
