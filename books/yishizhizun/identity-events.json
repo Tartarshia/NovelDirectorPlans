@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0169",
+  "through_chapter": "v04-c0170",
   "events": [
+    {
+      "type": "clone_destroyed",
+      "entity": "meng_qi_hair_clone_1",
+      "reference": "v04-c0170:p0027",
+      "fact_status": "直接入河被大日烧毁，本体先断联"
+    },
+    {
+      "type": "observation",
+      "entity": "heavenly_barracks",
+      "reference": "v04-c0170:p0040",
+      "fact_status": "通过时兵未醒，金甲将法身为人物判断"
+    },
+    {
+      "type": "location_observed",
+      "entity": "tianpeng_central_tent",
+      "reference": "v04-c0170:p0049",
+      "fact_status": "空无一物，分财迁离仅孟想象"
+    },
+    {
+      "type": "protection_observed",
+      "entity": "river_water_membrane",
+      "reference": "v04-c0170:p0058",
+      "fact_status": "由营池入口形成，暂时可游仍需避恒星"
+    },
+    {
+      "type": "clone_recovered",
+      "entity": "meng_qi_hair_clone_2",
+      "reference": "v04-c0170:p0071",
+      "fact_status": "险被大日吸去时收回"
+    },
+    {
+      "type": "identity_unconfirmed",
+      "entity": "giant_pig_corpse",
+      "reference": "v04-c0170:p0073",
+      "fact_status": "恒星上巨猪尸，老猪是孟惊疑未证"
+    },
+    {
+      "type": "injury",
+      "entity": "meng_qi_eyes",
+      "reference": "v04-c0170:p0076",
+      "fact_status": "慧眼近观大日反噬赤红流泪，非永久失明确认"
+    },
     {
       "type": "item_used",
       "entity": "ruan_yushu_mirror",
