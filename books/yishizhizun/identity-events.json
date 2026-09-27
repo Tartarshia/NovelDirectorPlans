@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0177",
+  "through_chapter": "v04-c0178",
   "events": [
+    {
+      "type": "exchange_completed",
+      "entity": "meng_three_blades_and_time",
+      "reference": "v04-c0178:p0017",
+      "fact_status": "三刀8800半年1200，未融通完成"
+    },
+    {
+      "type": "weapon_upgraded",
+      "entity": "tian_zhishang",
+      "reference": "v04-c0178:p0018",
+      "fact_status": "上品，材料炼制1200，鉴价6700"
+    },
+    {
+      "type": "weapon_state",
+      "entity": "liuhuo",
+      "reference": "v04-c0178:p0019",
+      "fact_status": "吸特处士血后近极品，未极品"
+    },
+    {
+      "type": "loan_amount_unknown",
+      "entity": "meng_to_ruan",
+      "reference": "v04-c0178:p0033",
+      "fact_status": "已借，金额未给，不填借后余额"
+    },
+    {
+      "type": "purchase_completed",
+      "entity": "jiang_wine_and_armor",
+      "reference": "v04-c0178:p0033",
+      "fact_status": "养剑酒2200护衣8800，白虹未升级"
+    },
+    {
+      "type": "weapon_upgraded",
+      "entity": "qi_hanchi",
+      "reference": "v04-c0178:p0039",
+      "fact_status": "上品带材炼制4600，另一年与晶石共9000"
+    },
+    {
+      "type": "invitation_accepted",
+      "entity": "ruan_xianji",
+      "reference": "v04-c0178:p0042",
+      "fact_status": "同意尚未正式到仙迹"
+    },
+    {
+      "type": "invitation_declined",
+      "entity": "qi_xianji",
+      "reference": "v04-c0178:p0045",
+      "fact_status": "以不喜约束拒，真实隐情未知"
+    },
+    {
+      "type": "title_chosen",
+      "entity": "ruan_guanghan_xianzi",
+      "reference": "v04-c0178:p0056",
+      "fact_status": "选称号未完成正式入会"
+    },
+    {
+      "type": "retreat_started",
+      "entity": "meng_qi",
+      "reference": "v04-c0178:p0057",
+      "fact_status": "阮悟树后孟开始，非半年已完"
+    },
     {
       "type": "identity_confirmed",
       "entity": "wild_bull_te_chushi",
