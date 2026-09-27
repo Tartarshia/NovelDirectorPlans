@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第179章，679 / 1410 个目录条目，约222.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第180章，680 / 1410 个目录条目，约223.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第180章复核](books/yishizhizun/reviews/review-v04-0180.md)：理念余波、神都入口传闻与赵的处境，56段、87个句内单元。
 - [第179章复核](books/yishizhizun/reviews/review-v04-0179.md)：齐的传承坦白、功法机会之志与道路分歧，93段、130个句内单元。
 - [第178章复核](books/yishizhizun/reviews/review-v04-0178.md)：兑换落定、阮选广寒与齐拒邀请，57段、82个句内单元。
 - [第177章复核](books/yishizhizun/reviews/review-v04-0177.md)：死亡任务详情、战利品分账与一年备战，68段、99个句内单元。

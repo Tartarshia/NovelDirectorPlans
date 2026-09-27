@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0179",
+  "through_chapter": "v04-c0180",
   "events": [
+    {
+      "type": "disguise_used",
+      "entity": "meng_plain_youth",
+      "reference": "v04-c0180:p0021",
+      "fact_status": "变普通青衫入神都避家，非公开元始"
+    },
+    {
+      "type": "identity_recognized",
+      "entity": "yuan_guangcheng",
+      "reference": "v04-c0180:p0032",
+      "fact_status": "袁即广成天尊，元始之眼识孟"
+    },
+    {
+      "type": "rumor_reported",
+      "entity": "shendu_heaven_entrance",
+      "reference": "v04-c0180:p0037",
+      "fact_status": "上层流传未实证"
+    },
+    {
+      "type": "claim_reported",
+      "entity": "bai_ning_heaven_descendant",
+      "reference": "v04-c0180:p0040",
+      "fact_status": "袁报自称天帝后裔持半图居安泰，未见本人"
+    },
+    {
+      "type": "realm_reported",
+      "entity": "yuan_sixth_heaven",
+      "reference": "v04-c0180:p0042",
+      "fact_status": "六重停多年，两任务只是自估"
+    },
+    {
+      "type": "future_access_arranged",
+      "entity": "zhao_residence",
+      "reference": "v04-c0180:p0049",
+      "fact_status": "后日袁值守可助进，尚未入府"
+    },
+    {
+      "type": "advice_not_action",
+      "entity": "zhao_give_up_heir_position",
+      "reference": "v04-c0180:p0054",
+      "fact_status": "袁建议以退为进，赵未回应"
+    },
     {
       "type": "office_reported",
       "entity": "meng_zishou",
