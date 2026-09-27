@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0180",
+  "through_chapter": "v04-c0181",
   "events": [
+    {
+      "type": "surveillance_observed",
+      "entity": "su_ziyue",
+      "reference": "v04-c0181:p0027",
+      "fact_status": "约四独立监视，所属仅孟猜"
+    },
+    {
+      "type": "protective_arrangements",
+      "entity": "su_family",
+      "reference": "v04-c0181:p0035",
+      "fact_status": "家信托助等做完，现场执行效果未见"
+    },
+    {
+      "type": "disguise_conversation",
+      "entity": "meng_as_yuanshi_to_zhao",
+      "reference": "v04-c0181:p0052",
+      "fact_status": "实际孟表层元始，赵不知真实身份"
+    },
+    {
+      "type": "position_retained",
+      "entity": "zhao_heir_title",
+      "reference": "v04-c0181:p0062",
+      "fact_status": "拒弃位，基于人道功法修行理由"
+    },
+    {
+      "type": "outer_cooperation_agreed",
+      "entity": "zhao_xianji_outer",
+      "reference": "v04-c0181:p0067",
+      "fact_status": "外围方案孟同意，无正式称号授法"
+    },
+    {
+      "type": "identity_self_reported",
+      "entity": "sun_yuexiu",
+      "reference": "v04-c0181:p0071",
+      "fact_status": "红裙女自报碧月孙越秀，疗伤清迹求助待答"
+    },
     {
       "type": "disguise_used",
       "entity": "meng_plain_youth",
