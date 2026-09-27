@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0175",
+  "through_chapter": "v04-c0176",
   "events": [
+    {
+      "type": "holder_confirmed",
+      "entity": "jiang_dinghai_pearl",
+      "reference": "v04-c0176:p0007",
+      "fact_status": "明确持珠，解175未明接稳；没砸出"
+    },
+    {
+      "type": "ability_not_executed",
+      "entity": "meng_zhan_yinguo",
+      "reference": "v04-c0176:p0017",
+      "fact_status": "观线威慑而未斩未接因果"
+    },
+    {
+      "type": "transport_used_not_owned",
+      "entity": "heavenly_chariot",
+      "reference": "v04-c0176:p0020",
+      "fact_status": "马醒车禁自启载队穿河，56马离未收"
+    },
+    {
+      "type": "battle_left",
+      "entity": "xiyou_fragment_mission",
+      "reference": "v04-c0176:p0051",
+      "fact_status": "六道确认脱战任务完，可停半时辰任意回"
+    },
+    {
+      "type": "location_identified",
+      "entity": "gaolao_manor",
+      "reference": "v04-c0176:p0060",
+      "fact_status": "江辨牌高老庄"
+    },
+    {
+      "type": "item_acquired",
+      "entity": "daodejing_old_book",
+      "reference": "v04-c0176:p0080",
+      "fact_status": "普通内容较新古书收环，78德道经异写"
+    },
+    {
+      "type": "reward_received",
+      "entity": "party_3500_each",
+      "reference": "v04-c0176:p0083",
+      "fact_status": "本次每人新增3500"
+    },
+    {
+      "type": "return_and_healing",
+      "entity": "party",
+      "reference": "v04-c0176:p0085",
+      "fact_status": "回归光柱治伤，孟褪虚弱"
+    },
+    {
+      "type": "next_mission_announced",
+      "entity": "death_mission_one_year",
+      "reference": "v04-c0176:p0087",
+      "fact_status": "一年后死亡任务，秘宝封等限制见88，未开始"
+    },
     {
       "type": "ability_progress",
       "entity": "meng_weiwo_duzun",
