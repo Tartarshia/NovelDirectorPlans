@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0176",
+  "through_chapter": "v04-c0177",
   "events": [
+    {
+      "type": "identity_confirmed",
+      "entity": "wild_bull_te_chushi",
+      "reference": "v04-c0177:p0037",
+      "fact_status": "野牛胃藏后转称特处士材料，确认同一牛"
+    },
+    {
+      "type": "item_acquired",
+      "entity": "jiang_tuhuo_naxuan_pill",
+      "reference": "v04-c0177:p0019",
+      "fact_status": "抽签丹实得，未服"
+    },
+    {
+      "type": "item_equipped",
+      "entity": "meng_qingjing_shoes",
+      "reference": "v04-c0177:p0025",
+      "fact_status": "清净麻鞋价值1700穿上未卖"
+    },
+    {
+      "type": "loot_exchanged",
+      "entity": "xiyou_loot_pool",
+      "reference": "v04-c0177:p0038",
+      "fact_status": "总24050加公300，留6000材料，现金18350分"
+    },
+    {
+      "type": "mission_details_bought",
+      "entity": "du_death_mission",
+      "reference": "v04-c0177:p0045",
+      "fact_status": "每人80实付，敌物限制未知"
+    },
+    {
+      "type": "purchase",
+      "entity": "zhao_cultivation_materials",
+      "reference": "v04-c0177:p0062",
+      "fact_status": "支12150，余额40推算，未晋梯"
+    },
+    {
+      "type": "purchase",
+      "entity": "ruan_four_materials",
+      "reference": "v04-c0177:p0064",
+      "fact_status": "四件另购，正文余390，未二重"
+    },
     {
       "type": "holder_confirmed",
       "entity": "jiang_dinghai_pearl",
