@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0181",
+  "through_chapter": "v04-c0182",
   "events": [
+    {
+      "type": "help_completed",
+      "entity": "meng_cleans_blood",
+      "reference": "v04-c0182:p0009",
+      "fact_status": "水冲撒土除迹，孙自服药非孟疗"
+    },
+    {
+      "type": "gift_received",
+      "entity": "two_gold_ingots",
+      "reference": "v04-c0182:p0031",
+      "fact_status": "孟实收，未兑善功"
+    },
+    {
+      "type": "injury_observed",
+      "entity": "wood_hairpin_daoist",
+      "reference": "v04-c0182:p0033",
+      "fact_status": "左脚跛伤返，非凶手确认"
+    },
+    {
+      "type": "attack_stopped",
+      "entity": "unidentified_woodboard_elder",
+      "reference": "v04-c0182:p0048",
+      "fact_status": "孟两敲制音老者吐血，未杀"
+    },
+    {
+      "type": "remote_contact",
+      "entity": "gu_contract_flame_image",
+      "reference": "v04-c0182:p0055",
+      "fact_status": "契约火光身影非实体来房"
+    },
+    {
+      "type": "meeting_arranged",
+      "entity": "gu_meng_jinshui_bridge",
+      "reference": "v04-c0182:p0065",
+      "fact_status": "明日晚金水桥，未赴"
+    },
+    {
+      "type": "identity_recognized",
+      "entity": "ren_jingxiu",
+      "reference": "v04-c0182:p0074",
+      "fact_status": "孟识孙绿衣师姐，近宗师未宗师"
+    },
     {
       "type": "surveillance_observed",
       "entity": "su_ziyue",
