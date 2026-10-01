@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第210章，710 / 1410 个目录条目，约232.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第211章，711 / 1410 个目录条目，约232.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第211章复核](books/yishizhizun/reviews/review-v04-0211.md)：离别确死与毛发假旗破围、兽神龙熊活逃及师徒带离，90段、94个句内单元。
 - [第210章复核](books/yishizhizun/reviews/review-v04-0210.md)：最大秘密换援、两次范围攻与假身诱宝，终击离别结果未给，75段、88个句内单元。
 - [第209章复核](books/yishizhizun/reviews/review-v04-0209.md)：蛊誓与易辛死亡确证、池中之鱼猜测和三敌围洞，81段、111个句内单元。
 - [第208章复核](books/yishizhizun/reviews/review-v04-0208.md)：小如遗民自述、鱼塘法与灵山另视角未明，91段、141个句内单元。

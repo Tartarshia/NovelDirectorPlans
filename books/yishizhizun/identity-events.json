@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0210",
+  "through_chapter": "v04-c0211",
   "events": [
+    {
+      "type": "libie_death_confirmed",
+      "entity": "libie_popo",
+      "reference": "v04-c0211:p0017",
+      "fact_status": "双葬星河后崩灰確亡，此章才终态"
+    },
+    {
+      "type": "meng_identity_recognized",
+      "entity": "meng_qi_as_su_meng",
+      "reference": "v04-c0211:p0021",
+      "fact_status": "血婴现场认喊狂刀苏孟，孟不再刻意隐藏"
+    },
+    {
+      "type": "two_enemies_escape_alive",
+      "entity": "xueying_and_kugu",
+      "reference": "v04-c0211:p0040",
+      "fact_status": "血婴先逃枯骨后逃，未杀"
+    },
+    {
+      "type": "false_flag_hair_revealed",
+      "entity": "xuanshui_flag_decoy",
+      "reference": "v04-c0211:p0041",
+      "fact_status": "毛发假旗回发，真旗早毁未复原"
+    },
+    {
+      "type": "loot_received",
+      "entity": "libie_hook_two_materials",
+      "reference": "v04-c0211:p0041",
+      "fact_status": "实收少损银钩与两未名材，余灰不收袋"
+    },
+    {
+      "type": "shoushen_dragonbear_arrive",
+      "entity": "human_six_beast_master",
+      "reference": "v04-c0211:p0054",
+      "fact_status": "人六重与兽宗师级战力实到，不是人升宗师"
+    },
+    {
+      "type": "robe_destroyed_body_uninjured",
+      "entity": "meng_qi",
+      "reference": "v04-c0211:p0068",
+      "fact_status": "背掌毁衣淡印无伤，眉心另以剑保护"
+    },
+    {
+      "type": "dragonbear_wounded_alive",
+      "entity": "dragonbear",
+      "reference": "v04-c0211:p0079",
+      "fact_status": "额腹深痕倒飞仍活，83随后逃"
+    },
+    {
+      "type": "shoushen_escapes",
+      "entity": "shoushen",
+      "reference": "v04-c0211:p0082",
+      "fact_status": "敌保命符遁地，非孟古符使用"
+    },
+    {
+      "type": "rescue_departure",
+      "entity": "meng_song_xiaoru",
+      "reference": "v04-c0211:p0090",
+      "fact_status": "师徒实际带离，秘密未告"
+    },
     {
       "type": "greater_secret_oath_for_rescue",
       "entity": "xiaoru",
