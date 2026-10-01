@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0194",
+  "through_chapter": "v04-c0195",
   "events": [
+    {
+      "type": "mirror_acquired",
+      "entity": "gao_jinsheng_mirror",
+      "reference": "v04-c0195:p0026",
+      "fact_status": "实际缩收，非孟获得"
+    },
+    {
+      "type": "hidden_passage_opened",
+      "entity": "gu_flower_seal",
+      "reference": "v04-c0195:p0030",
+      "fact_status": "顾开梯自称试纹孟疑装"
+    },
+    {
+      "type": "passage_entered",
+      "entity": "meng_first_down",
+      "reference": "v04-c0195:p0046",
+      "fact_status": "孟答好先下非已离"
+    },
+    {
+      "type": "remote_blade_stirs",
+      "entity": "unknown_mountain_hall",
+      "reference": "v04-c0195:p0051",
+      "fact_status": "仙灵玉匣水刀凝室，地点身份未名"
+    },
+    {
+      "type": "court_reaches_upper_entry",
+      "entity": "cui_party",
+      "reference": "v04-c0195:p0053",
+      "fact_status": "到上三层漩涡，未已到三生"
+    },
+    {
+      "type": "tree_seen_not_absorbed",
+      "entity": "sansheng_cave_tree",
+      "reference": "v04-c0195:p0057",
+      "fact_status": "大道树狂渴孟忍不取出"
+    },
+    {
+      "type": "two_fruits_collected",
+      "entity": "gu_bottle_fruits",
+      "reference": "v04-c0195:p0072",
+      "fact_status": "两未名果瓶封孟份未交"
+    },
+    {
+      "type": "exit_permission_renewed",
+      "entity": "gao_to_meng",
+      "reference": "v04-c0195:p0080",
+      "fact_status": "再次准退尚未出"
+    },
+    {
+      "type": "jade_disc_acquired",
+      "entity": "han_sansheng_disc",
+      "reference": "v04-c0195:p0082",
+      "fact_status": "选后实际收碟，孟未得"
+    },
+    {
+      "type": "danger_names_spoken",
+      "entity": "han_lu_chonghe",
+      "reference": "v04-c0195:p0083",
+      "fact_status": "韩提名孟紧张高是否转未描"
+    },
     {
       "type": "temporary_exploration_agreed",
       "entity": "han_cooperation",

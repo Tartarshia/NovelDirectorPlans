@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第194章，694 / 1410 个目录条目，约227.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第195章，695 / 1410 个目录条目，约227.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第195章复核](books/yishizhizun/reviews/review-v04-0195.md)：镜碟果实收、隐道大树弃取与触名未决，83段、127个句内单元。
 - [第194章复核](books/yishizhizun/reviews/review-v04-0194.md)：暂合作与退获许、装疯自述及玉珑紫请求，61段、107个句内单元。
 - [第193章复核](books/yishizhizun/reviews/review-v04-0193.md)：晏然应身消息、三生镜忆与高览挡韩，69段、94个句内单元。
 - [第192章复核](books/yishizhizun/reviews/review-v04-0192.md)：羲破笼、羽材逼池与飘带血桃救险，78段、87个句内单元。
