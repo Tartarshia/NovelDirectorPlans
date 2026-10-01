@@ -1,7 +1,109 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0234",
+  "through_chapter": "v04-c0235",
   "events": [
+    {
+      "type": "dugu_postbattle_death",
+      "entity": "dugu_shi",
+      "reference": "v04-c0235:p0002",
+      "fact_status": "独战九同归毙二重三未列受害名"
+    },
+    {
+      "type": "court_wu_kou_defect_named",
+      "entity": "court_generals",
+      "reference": "v04-c0235:p0002",
+      "fact_status": "吴彻寇进实名倒戈"
+    },
+    {
+      "type": "rebel_crossing_confirmed",
+      "entity": "du_huaishang",
+      "reference": "v04-c0235:p0003",
+      "fact_status": "渡怒江整兵征京"
+    },
+    {
+      "type": "meng_aspect_healed",
+      "entity": "meng_qi",
+      "reference": "v04-c0235:p0007",
+      "fact_status": "天心法相治疗恢复隐患仅疑"
+    },
+    {
+      "type": "reward_settlement",
+      "entity": "six_paths",
+      "reference": "v04-c0235:p0010",
+      "fact_status": "主线4500阵7000各新符1"
+    },
+    {
+      "type": "second_death_permissions",
+      "entity": "six_paths",
+      "reference": "v04-c0235:p0012",
+      "fact_status": "完整专属兑换任务队名驻地权限未实际建"
+    },
+    {
+      "type": "qi_contract_departure",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0235:p0017",
+      "fact_status": "已别离成自由非死"
+    },
+    {
+      "type": "qi_recorded_transmission_explains_legacy",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0235:p0032",
+      "fact_status": "向三友公开魔主接受理念"
+    },
+    {
+      "type": "legend_projection_memory_account",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0235:p0043",
+      "fact_status": "魔主记诸界魂归一资料未地球全解"
+    },
+    {
+      "type": "dugu_saber_possession_disclosed",
+      "entity": "zhao_heng",
+      "reference": "v04-c0235:p0056",
+      "fact_status": "当时摄刀此刻取"
+    },
+    {
+      "type": "senluo_goods_sold",
+      "entity": "meng_qi",
+      "reference": "v04-c0235:p0061",
+      "fact_status": "个人7800物名森罗角色影王问保歧"
+    },
+    {
+      "type": "four_way_loot_split",
+      "entity": "remaining_four",
+      "reference": "v04-c0235:p0061",
+      "fact_status": "20500四分5125"
+    },
+    {
+      "type": "ruan_zhao_loans_repaid",
+      "entity": "meng_qi",
+      "reference": "v04-c0235:p0061",
+      "fact_status": "阮3100赵6000已清"
+    },
+    {
+      "type": "four_balances_explicit",
+      "entity": "remaining_four",
+      "reference": "v04-c0235:p0062",
+      "fact_status": "孟39915江16625阮13525赵10925"
+    },
+    {
+      "type": "zhao_time_talisman_plan",
+      "entity": "zhao_heng",
+      "reference": "v04-c0235:p0063",
+      "fact_status": "拟叠时间符未兑换晋"
+    },
+    {
+      "type": "meng_yuxu_visit_deferred",
+      "entity": "meng_qi",
+      "reference": "v04-c0235:p0065",
+      "fact_status": "宗师后援灵宝非现在去"
+    },
+    {
+      "type": "yijin_second_volume_question",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0235:p0068",
+      "fact_status": "四万询问未兑换"
+    },
     {
       "type": "rensheng_actual_manifestation",
       "entity": "rensheng_dijun",
