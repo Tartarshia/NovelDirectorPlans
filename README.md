@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第222章，722 / 1410 个目录条目，约236.1万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第223章，723 / 1410 个目录条目，约236.5万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第223章复核](books/yishizhizun/reviews/review-v04-0223.md)：借舟退拳返队、始一品名评、沾因果代价及齐真秘法补正，96段、123个句内单元。
 - [第222章复核](books/yishizhizun/reviews/review-v04-0222.md)：影王身份与一刀死亡、因果负重、杜原药恢复和无取物出营，84段、122个句内单元。
 - [第221章复核](books/yishizhizun/reviews/review-v04-0221.md)：齐诱刺消尸、假召魂诈问与自爆，本尊换防入敌营，78段、119个句内单元。
 - [第220章复核](books/yishizhizun/reviews/review-v04-0220.md)：闻景敌帐、毒水十息制服与森罗假扮，丹未用、齐接话迁帐，68段、88个句内单元。
