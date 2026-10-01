@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第230章，730 / 1410 个目录条目，约238.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第231章，731 / 1410 个目录条目，约239.1万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第231章复核](books/yishizhizun/reviews/review-v04-0231.md)：承天破禁不毁核心、余丹封印、齐借势与孟伏琴斩徐前，81段、91个句内单元。
 - [第230章复核](books/yishizhizun/reviews/review-v04-0230.md)：帝君托梦与通天路在建、借剑遥照、三路出船攻台，68段、98个句内单元。
 - [第229章复核](books/yishizhizun/reviews/review-v04-0229.md)：返营交符、十八表盟与尸物说辞、急策反计划和黄纸沉燃，87段、124个句内单元。
 - [第228章复核](books/yishizhizun/reviews/review-v04-0228.md)：琴剑甲隐刺协防、苗战利品与尸返、道路分歧和本命符未催，70段、91个句内单元。

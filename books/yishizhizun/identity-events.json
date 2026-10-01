@@ -1,7 +1,79 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0230",
+  "through_chapter": "v04-c0231",
   "events": [
+    {
+      "type": "sacrifice_deadline_estimate",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0231:p0006",
+      "fact_status": "最多半盏茶及少杀补祭警告"
+    },
+    {
+      "type": "chengtian_sword_activated",
+      "entity": "du_huaishang",
+      "reference": "v04-c0231:p0022",
+      "fact_status": "真实催神剑退独孤破禁不毁台核心"
+    },
+    {
+      "type": "battlefield_blood_feeds_altar",
+      "entity": "court_formation_troops",
+      "reference": "v04-c0231:p0030",
+      "fact_status": "枢机被剑破死化血雾入祭台"
+    },
+    {
+      "type": "du_self_medicine_recovery",
+      "entity": "du_huaishang",
+      "reference": "v04-c0231:p0032",
+      "fact_status": "未名自身灵丹恢复仅自保"
+    },
+    {
+      "type": "extra_dongji_pill_sealed",
+      "entity": "meng_qi",
+      "reference": "v04-c0231:p0033",
+      "fact_status": "实际尝试不能交杜未消耗"
+    },
+    {
+      "type": "qi_wanshi_hold_dugu",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0231:p0043",
+      "fact_status": "引星九剑借余势与顽石封枪联拖"
+    },
+    {
+      "type": "altar_core_still_intact",
+      "entity": "court_crown_prince",
+      "reference": "v04-c0231:p0046",
+      "fact_status": "核心未毁台不毁帝刀尚未催"
+    },
+    {
+      "type": "wen_jing_green_soul_blade",
+      "entity": "wen_jing",
+      "reference": "v04-c0231:p0051",
+      "fact_status": "阴绿魂刀逼江琴助仍未决"
+    },
+    {
+      "type": "meng_body_double_revealed",
+      "entity": "meng_qi",
+      "reference": "v04-c0231:p0066",
+      "fact_status": "前场分身本尊小虫伏阮衣褶"
+    },
+    {
+      "type": "xu_qian_shadow_assassin_identified",
+      "entity": "xu_qian",
+      "reference": "v04-c0231:p0073",
+      "fact_status": "徐巍影子显尸裂死非徐巍死"
+    },
+    {
+      "type": "enemy_xu_qian_death_penalty",
+      "entity": "six_paths",
+      "reference": "v04-c0231:p0075",
+      "fact_status": "敌每人扣3000非己方余额事实"
+    },
+    {
+      "type": "meng_true_body_attacks_wen",
+      "entity": "meng_qi",
+      "reference": "v04-c0231:p0081",
+      "fact_status": "雷刀击散妖魂未闻死或胜负"
+    },
     {
       "type": "crown_prince_named",
       "entity": "court_crown_prince",
