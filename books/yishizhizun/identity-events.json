@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0190",
+  "through_chapter": "v04-c0191",
   "events": [
+    {
+      "type": "pool_seen_not_collected",
+      "entity": "zhexian_pool",
+      "reference": "v04-c0191:p0005",
+      "fact_status": "见碑不取水实赶路"
+    },
+    {
+      "type": "blocker_appeared",
+      "entity": "xi_in_front",
+      "reference": "v04-c0191:p0008",
+      "fact_status": "羲实拦前自称等久来路未证"
+    },
+    {
+      "type": "sacred_virtue_defense_observed",
+      "entity": "xi_against_liuhuo",
+      "reference": "v04-c0191:p0046",
+      "fact_status": "孟剑滑仅削发非死亡"
+    },
+    {
+      "type": "beidou_heavily_wounded",
+      "entity": "meng_counterambush",
+      "reference": "v04-c0191:p0066",
+      "fact_status": "数敌秘宝碎北斗伤退未死"
+    },
+    {
+      "type": "xi_confined",
+      "entity": "gu_void_cage",
+      "reference": "v04-c0191:p0072",
+      "fact_status": "半透明牢笼实困，未杀"
+    },
+    {
+      "type": "human_emperor_sword_revealed",
+      "entity": "gao_renhuang_sword",
+      "reference": "v04-c0191:p0083",
+      "fact_status": "高腰剑亮法王名人皇，区别天子剑"
+    },
+    {
+      "type": "environment_suppression_collapsed",
+      "entity": "tianfa_gate",
+      "reference": "v04-c0191:p0081",
+      "fact_status": "实际破压龙雷消，不扩为全场永毁"
+    },
+    {
+      "type": "gu_surprise_observed",
+      "entity": "meng_perception_change",
+      "reference": "v04-c0191:p0088",
+      "fact_status": "顾失态孟阴影消些，不等全无戒备"
+    },
     {
       "type": "execution_section_passed",
       "entity": "meng_gu_gualong",
