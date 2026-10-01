@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0185",
+  "through_chapter": "v04-c0186",
   "events": [
+    {
+      "type": "distribution_result_observed",
+      "entity": "entrance_maps_all_city",
+      "reference": "v04-c0186:p0009",
+      "fact_status": "185传播令此处有满城结果"
+    },
+    {
+      "type": "help_message_left",
+      "entity": "yuan_to_xianji",
+      "reference": "v04-c0186:p0014",
+      "fact_status": "已去仙迹留口信，援未到"
+    },
+    {
+      "type": "message_planned_not_sent",
+      "entity": "sun_ren_sect_message",
+      "reference": "v04-c0186:p0048",
+      "fact_status": "记图准备传却封阵未及传"
+    },
+    {
+      "type": "council_plan_accepted",
+      "entity": "cui_zhao_sima_division",
+      "reference": "v04-c0186:p0046",
+      "fact_status": "赵警世留玺司马持剑随崔获同意，未描出发"
+    },
+    {
+      "type": "lockdown_actual",
+      "entity": "shendu_array",
+      "reference": "v04-c0186:p0047",
+      "fact_status": "阵实际起消息援受阻"
+    },
+    {
+      "type": "enemy_preparation_reported",
+      "entity": "gao_withdrawal_and_waiters",
+      "reference": "v04-c0186:p0053",
+      "fact_status": "高称差不多撤及上层隐等已入"
+    },
+    {
+      "type": "secret_named_private",
+      "entity": "jiutian_xuannv",
+      "reference": "v04-c0186:p0058",
+      "fact_status": "韩私述遗漏秘处，非孟获知"
+    },
+    {
+      "type": "gate_opening_performed",
+      "entity": "meng_thunder_gu_boundary",
+      "reference": "v04-c0186:p0078",
+      "fact_status": "孟雷刀幻境解雷顾界碑入门"
+    },
+    {
+      "type": "garden_reached",
+      "entity": "meng_gu_peach_garden",
+      "reference": "v04-c0186:p0082",
+      "fact_status": "见血色枯桃顾称蟠桃园，未收获"
+    },
     {
       "type": "weapon_name_confirmed",
       "entity": "xuangui_sword",
