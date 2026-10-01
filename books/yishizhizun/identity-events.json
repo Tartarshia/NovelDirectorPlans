@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0200",
+  "through_chapter": "v04-c0201",
   "events": [
+    {
+      "type": "fruit_given_under_restraint",
+      "entity": "meng_one_green_fruit",
+      "reference": "v04-c0201:p0007",
+      "fact_status": "封禁不能拒一果被送融，效未确"
+    },
+    {
+      "type": "fruit_effect_claim_only",
+      "entity": "gu_sansheng_marriage_claim",
+      "reference": "v04-c0201:p0012",
+      "fact_status": "三生夫妻为顾说法未验"
+    },
+    {
+      "type": "restraint_released",
+      "entity": "gu_releases_meng",
+      "reference": "v04-c0201:p0019",
+      "fact_status": "实解封元神肉体非已治反噬"
+    },
+    {
+      "type": "liu_dao_isolation_claim",
+      "entity": "gray_hall",
+      "reference": "v04-c0201:p0020",
+      "fact_status": "隔六道为顾说法未独验"
+    },
+    {
+      "type": "token_message_received",
+      "entity": "yuxu_token",
+      "reference": "v04-c0201:p0041",
+      "fact_status": "贴门声称一切玉虚宫，声主未直名门未开"
+    },
+    {
+      "type": "recovery_actual",
+      "entity": "meng_yinyang_healing",
+      "reference": "v04-c0201:p0073",
+      "fact_status": "法门后实修伤法相达峰"
+    },
+    {
+      "type": "realm_breakthrough_confirmed",
+      "entity": "meng_outer_five",
+      "reference": "v04-c0201:p0075",
+      "fact_status": "孟实外景五重顾亦突破重数未知"
+    },
+    {
+      "type": "heaven_exit_actual",
+      "entity": "green_leaf_path",
+      "reference": "v04-c0201:p0085",
+      "fact_status": "实出金水小路古符末次未耗"
+    },
+    {
+      "type": "escape_excuse_retracted",
+      "entity": "gu_admits_deception",
+      "reference": "v04-c0201:p0089",
+      "fact_status": "不需催而此前称反噬不能催为骗"
+    },
+    {
+      "type": "threat_not_attack",
+      "entity": "gu_future_killing_warning",
+      "reference": "v04-c0201:p0094",
+      "fact_status": "警戒下降被指出，或杀只是威胁她离未动杀招"
+    },
     {
       "type": "ice_crystal_activated",
       "entity": "meng_freezes_xi",
