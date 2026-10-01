@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0182",
+  "through_chapter": "v04-c0183",
   "events": [
+    {
+      "type": "map_split_reported",
+      "entity": "bai_ning_bai_chong",
+      "reference": "v04-c0183:p0010",
+      "fact_status": "袁报整图分兄弟两半，未取图"
+    },
+    {
+      "type": "aid_requested_not_committed",
+      "entity": "yuan_asks_meng",
+      "reference": "v04-c0183:p0021",
+      "fact_status": "求争机缘，孟警陷阱未允"
+    },
+    {
+      "type": "warning_received",
+      "entity": "sun_to_meng",
+      "reference": "v04-c0183:p0045",
+      "fact_status": "孙传音劝离，孟绕行未弃约"
+    },
+    {
+      "type": "meeting_occurred",
+      "entity": "gu_meng_on_boat",
+      "reference": "v04-c0183:p0054",
+      "fact_status": "孟实际登舟与顾会面"
+    },
+    {
+      "type": "arrangement_admitted",
+      "entity": "gu_bai_brothers",
+      "reference": "v04-c0183:p0068",
+      "fact_status": "顾亲承辗转安排"
+    },
+    {
+      "type": "map_authorship_claimed",
+      "entity": "gu_entrance_map",
+      "reference": "v04-c0183:p0070",
+      "fact_status": "自绘并称真，未独立验证"
+    },
+    {
+      "type": "operation_proposed",
+      "entity": "draw_out_han_guang",
+      "reference": "v04-c0183:p0078",
+      "fact_status": "阻毁图逼韩现再入，尚未执行"
+    },
     {
       "type": "help_completed",
       "entity": "meng_cleans_blood",
