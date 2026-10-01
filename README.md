@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第244章，744 / 1410 个目录条目，约243.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第245章，745 / 1410 个目录条目，约243.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第245章复核](books/yishizhizun/reviews/review-v04-0245.md)：剑光入微凝爆、情义理念披露与两家调查、六扇拟榜令，61段、97个句内单元。
 - [第244章复核](books/yishizhizun/reviews/review-v04-0244.md)：无量光与开天雷毁肉影、入影剑、抵庄陆束残影，65段、79个句内单元。
 - [第243章复核](books/yishizhizun/reviews/review-v04-0243.md)：毁堡示警与护送、掌脑实伤、影活突袭与第二头转栖，73段、88个句内单元。
 - [第242章复核](books/yishizhizun/reviews/review-v04-0242.md)：蓝刺实袭、以身代刀脱险、藏劲反击与护送承诺，74段、109个句内单元。
