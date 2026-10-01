@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0217",
+  "through_chapter": "v04-c0218",
   "events": [
+    {
+      "type": "mission_world_arrival",
+      "entity": "five_companions",
+      "reference": "v04-c0218:p0002",
+      "fact_status": "神魔怒江实落地，未渡江"
+    },
+    {
+      "type": "qi_senses_military_metal",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0218:p0005",
+      "fact_status": "感兵锋使三友惊，未公开魔主全真"
+    },
+    {
+      "type": "rebels_bank_confirmed",
+      "entity": "eighteen_camps",
+      "reference": "v04-c0218:p0010",
+      "fact_status": "营旗实见义军侧，船少不利为孟判"
+    },
+    {
+      "type": "old_appearance_used",
+      "entity": "five_companions",
+      "reference": "v04-c0218:p0013",
+      "fact_status": "换上次任务旧貌入红衣门"
+    },
+    {
+      "type": "xuwei_self_identifies",
+      "entity": "xu_wei",
+      "reference": "v04-c0218:p0025",
+      "fact_status": "将佐热迎自名，非已见杜"
+    },
+    {
+      "type": "pinghai_observed_and_named",
+      "entity": "pinghai_wang",
+      "reference": "v04-c0218:p0033",
+      "fact_status": "朱姓镇海首领自称，现场宗师判断"
+    },
+    {
+      "type": "du_injury_report_only",
+      "entity": "pinghai_statement",
+      "reference": "v04-c0218:p0038",
+      "fact_status": "重伤昏神兵护主武皇偷袭等口述未亲见"
+    },
+    {
+      "type": "recruitment_conditional_response",
+      "entity": "meng_qi",
+      "reference": "v04-c0218:p0046",
+      "fact_status": "假悲有条件应未改投平或背主"
+    },
+    {
+      "type": "nearby_surveillance_detected",
+      "entity": "jiang_meng",
+      "reference": "v04-c0218:p0053",
+      "fact_status": "强监察觉，具体人未署"
+    },
+    {
+      "type": "investigation_treatment_plan",
+      "entity": "meng_qi",
+      "reference": "v04-c0218:p0057",
+      "fact_status": "拟变化探熟人，普通伤1丹够条件未医"
+    },
     {
       "type": "two_furnaces_pills_created",
       "entity": "dongji_pills",
