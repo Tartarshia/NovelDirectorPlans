@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0187",
+  "through_chapter": "v04-c0188",
   "events": [
+    {
+      "type": "attack_result_uncertain",
+      "entity": "meng_first_back_stab",
+      "reference": "v04-c0188:p0008",
+      "fact_status": "刺空不能感后雷果，影未证死"
+    },
+    {
+      "type": "killer_method_suspected",
+      "entity": "shouxing_fantianyin",
+      "reference": "v04-c0188:p0026",
+      "fact_status": "孟疑翻天印又疑不合，未确证"
+    },
+    {
+      "type": "peach_seen",
+      "entity": "inside_shouxing_head",
+      "reference": "v04-c0188:p0030",
+      "fact_status": "实见妖桃未取食"
+    },
+    {
+      "type": "four_arms_manifested",
+      "entity": "meng_extra_sword_blade",
+      "reference": "v04-c0188:p0035",
+      "fact_status": "新臂持玄龟紫电雷刀，不等新境界"
+    },
+    {
+      "type": "exit_completed",
+      "entity": "meng_gu_leave_peach_garden",
+      "reference": "v04-c0188:p0048",
+      "fact_status": "借气流折身出林险消"
+    },
+    {
+      "type": "recovery_signs_observed",
+      "entity": "meng_gu_after_exit",
+      "reference": "v04-c0188:p0050",
+      "fact_status": "外观自感好像恢复，无服药"
+    },
+    {
+      "type": "law_explanation_stated",
+      "entity": "gu_lifespan_three_lamps",
+      "reference": "v04-c0188:p0067",
+      "fact_status": "顾理论说明回头或灭灯，不独立古史实证"
+    },
+    {
+      "type": "target_named",
+      "entity": "gu_sansheng_hall",
+      "reference": "v04-c0188:p0071",
+      "fact_status": "顾说目的兼情话孟只猜目标之一"
+    },
+    {
+      "type": "follower_observed",
+      "entity": "blood_peach_clouds",
+      "reference": "v04-c0188:p0073",
+      "fact_status": "桃怯探似追来，未收服"
+    },
     {
       "type": "danger_rules_stated",
       "entity": "gu_peach_garden_rules",
