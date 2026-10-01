@@ -1,7 +1,109 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0235",
+  "through_chapter": "v04-c0236",
   "events": [
+    {
+      "type": "jiang_new_loan_to_meng",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0236:p0008",
+      "fact_status": "本金500已借玩笑利息未结"
+    },
+    {
+      "type": "yijin_second_volume_received",
+      "entity": "meng_qi",
+      "reference": "v04-c0236:p0009",
+      "fact_status": "40000真实册33姿未练满"
+    },
+    {
+      "type": "single_task_info_fee_paid",
+      "entity": "meng_qi",
+      "reference": "v04-c0236:p0017",
+      "fact_status": "400实际付余额15推"
+    },
+    {
+      "type": "lanruo_heishan_private_task",
+      "entity": "meng_qi",
+      "reference": "v04-c0236:p0020",
+      "fact_status": "除真身查根脚4000任务尚未执行"
+    },
+    {
+      "type": "single_task_nondisclosure_rule",
+      "entity": "six_paths",
+      "reference": "v04-c0236:p0021",
+      "fact_status": "泄队友内容抹"
+    },
+    {
+      "type": "zhao_time_and_escape_talisman",
+      "entity": "zhao_heng",
+      "reference": "v04-c0236:p0027",
+      "fact_status": "2400一年6300金光两次实兑"
+    },
+    {
+      "type": "longshe_item_redeemed",
+      "entity": "zhao_heng",
+      "reference": "v04-c0236:p0028",
+      "fact_status": "龙蛇赎余额100费用1700推"
+    },
+    {
+      "type": "women_fengshen_travel_plan",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0236:p0038",
+      "fact_status": "封神游剑琴艺结伴未抵场"
+    },
+    {
+      "type": "yunxiao_trueform_talisman_acquired",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0236:p0043",
+      "fact_status": "7000两假形被动未耗"
+    },
+    {
+      "type": "qifeng_zither_medium_upgrade",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0236:p0044",
+      "fact_status": "4000实际中品借七仙尚未还"
+    },
+    {
+      "type": "ruan_year_time_paid",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0236:p0045",
+      "fact_status": "2400年余125明"
+    },
+    {
+      "type": "jiang_two_protective_items",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0236:p0046",
+      "fact_status": "翠7000义桩6000各2未耗"
+    },
+    {
+      "type": "remaining_balance_jiang",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0236:p0047",
+      "fact_status": "725明查询支出差保疑"
+    },
+    {
+      "type": "medicine_credit_suggestion_only",
+      "entity": "meng_qi",
+      "reference": "v04-c0236:p0048",
+      "fact_status": "建议抱朴赊未实际拿"
+    },
+    {
+      "type": "three_companions_leave_square",
+      "entity": "three_companions",
+      "reference": "v04-c0236:p0051",
+      "fact_status": "离广场不一年已修成"
+    },
+    {
+      "type": "meng_returns_chunyang",
+      "entity": "meng_qi",
+      "reference": "v04-c0236:p0053",
+      "fact_status": "回纯阳真到"
+    },
+    {
+      "type": "meng_departs_for_luda_visit",
+      "entity": "meng_qi",
+      "reference": "v04-c0236:p0054",
+      "fact_status": "未告冲和陆剑赴画眉未到"
+    },
     {
       "type": "dugu_postbattle_death",
       "entity": "dugu_shi",
