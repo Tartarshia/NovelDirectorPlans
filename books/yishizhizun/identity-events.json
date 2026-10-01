@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0186",
+  "through_chapter": "v04-c0187",
   "events": [
+    {
+      "type": "danger_rules_stated",
+      "entity": "gu_peach_garden_rules",
+      "reference": "v04-c0187:p0010",
+      "fact_status": "三禁明确原因未说"
+    },
+    {
+      "type": "harm_signs_observed",
+      "entity": "meng_gu_deathlike_changes",
+      "reference": "v04-c0187:p0030",
+      "fact_status": "憔悴印青寿尽感，年数未知"
+    },
+    {
+      "type": "compensation_promised",
+      "entity": "gu_after_exit",
+      "reference": "v04-c0187:p0031",
+      "fact_status": "明确传音称出去有法补，未治"
+    },
+    {
+      "type": "death_cause_inferred",
+      "entity": "gold_general_turn_back",
+      "reference": "v04-c0187:p0039",
+      "fact_status": "孟由姿势猜回头致死，非验因"
+    },
+    {
+      "type": "corpse_named",
+      "entity": "shouxing_by_gu",
+      "reference": "v04-c0187:p0051",
+      "fact_status": "顾辨寿星，血源明述凶手未知"
+    },
+    {
+      "type": "counterattack_performed",
+      "entity": "meng_gu_back_attack",
+      "reference": "v04-c0187:p0055",
+      "fact_status": "不转头实出雷刀飘带，结果未见"
+    },
+    {
+      "type": "followers_appeared",
+      "entity": "beidou_xi_at_gate",
+      "reference": "v04-c0187:p0057",
+      "fact_status": "神话两面具人现，不揭真人名"
+    },
+    {
+      "type": "follow_plan_stated",
+      "entity": "xi_send_then_follow",
+      "reference": "v04-c0187:p0059",
+      "fact_status": "传讯入园均未描完成"
+    },
+    {
+      "type": "unknown_intrusion_heard",
+      "entity": "lower_heaven_fragment",
+      "reference": "v04-c0187:p0066",
+      "fact_status": "韩高听见有人闯入，身份未名"
+    },
     {
       "type": "distribution_result_observed",
       "entity": "entrance_maps_all_city",

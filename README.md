@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第186章，686 / 1410 个目录条目，约225.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第187章，687 / 1410 个目录条目，约225.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第187章复核](books/yishizhizun/reviews/review-v04-0187.md)：索命禁令、寿损征象与背击未决，68段、97个句内单元。
 - [第186章复核](books/yishizhizun/reviews/review-v04-0186.md)：满城图与封锁、撤人隐候及雷门桃园，82段、115个句内单元。
 - [第185章复核](books/yishizhizun/reviews/review-v04-0185.md)：脱皮反转、神都触阵与实入九重天，92段、102个句内单元。
 - [第184章复核](books/yishizhizun/reviews/review-v04-0184.md)：限阵破围、抓白冲与紫薇对峙，69段、90个句内单元。
