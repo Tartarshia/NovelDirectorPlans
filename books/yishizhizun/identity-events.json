@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0193",
+  "through_chapter": "v04-c0194",
   "events": [
+    {
+      "type": "temporary_exploration_agreed",
+      "entity": "han_cooperation",
+      "reference": "v04-c0194:p0024",
+      "fact_status": "韩实际应就这么办，非永久结拜"
+    },
+    {
+      "type": "fawang_present",
+      "entity": "joined_treasure_discussion",
+      "reference": "v04-c0194:p0019",
+      "fact_status": "现身受邀宝均分未实分"
+    },
+    {
+      "type": "text_mirror_collaboration_confirmed",
+      "entity": "meng_gu_plan",
+      "reference": "v04-c0194:p0030",
+      "fact_status": "双方合作明述，逐操作未细分"
+    },
+    {
+      "type": "exit_permission_given",
+      "entity": "gao_to_meng_after_hall",
+      "reference": "v04-c0194:p0040",
+      "fact_status": "搜三生后可离获许但尚未走"
+    },
+    {
+      "type": "secret_communication_occurs",
+      "entity": "han_to_gao",
+      "reference": "v04-c0194:p0041",
+      "fact_status": "宏计等密谈已实不编精确台词"
+    },
+    {
+      "type": "mirror_name_confirmed",
+      "entity": "jinsheng_mirror",
+      "reference": "v04-c0194:p0046",
+      "fact_status": "今生镜能照今世未取得"
+    },
+    {
+      "type": "feigned_madness_claimed",
+      "entity": "gao_self_report",
+      "reference": "v04-c0194:p0052",
+      "fact_status": "高称装疯策略孟仍觉真疯，两观点"
+    },
+    {
+      "type": "partial_teaching_reported",
+      "entity": "han_yuce_to_gao",
+      "reference": "v04-c0194:p0055",
+      "fact_status": "高说玉册部分助醒剑非孟获"
+    },
+    {
+      "type": "future_killing_requested",
+      "entity": "gu_yulongzi",
+      "reference": "v04-c0194:p0060",
+      "fact_status": "顾请求未来杀玉珑紫原因未解未施"
+    },
     {
       "type": "collection_limit_stated",
       "entity": "gu_zhexian_water",
