@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第233章，733 / 1410 个目录条目，约239.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第234章，734 / 1410 个目录条目，约240.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第234章复核](books/yishizhizun/reviews/review-v04-0234.md)：真神降临与五友合击代价、陆大木雕四剑断路、怒江任务完成，179段、195个句内单元。
 - [第233章复核](books/yishizhizun/reviews/review-v04-0233.md)：昆仑避枪、齐分离法相救锁重伤、双兵自主、孟服东极与最后黄表未毁，69段、74个句内单元。
 - [第232章复核](books/yishizhizun/reviews/review-v04-0232.md)：江自己的有无情剑道、天妖反射与法天闯台、祭台完工献祭未全催，88段、92个句内单元。
 - [第231章复核](books/yishizhizun/reviews/review-v04-0231.md)：承天破禁不毁核心、余丹封印、齐借势与孟伏琴斩徐前，81段、91个句内单元。
