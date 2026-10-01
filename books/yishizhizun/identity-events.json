@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0203",
+  "through_chapter": "v04-c0204",
   "events": [
+    {
+      "type": "poison_and_gu_resisted",
+      "entity": "meng_outpost_test",
+      "reference": "v04-c0204:p0027",
+      "fact_status": "实承虫毒掌点评无中毒伤描"
+    },
+    {
+      "type": "outpost_followers_killed",
+      "entity": "meng_liuhuo_sword",
+      "reference": "v04-c0204:p0052",
+      "fact_status": "拔归剑后寨只赤袍活是敌视角"
+    },
+    {
+      "type": "branch_signal_triggered",
+      "entity": "meng_stone_altar",
+      "reference": "v04-c0204:p0061",
+      "fact_status": "孟主动联络焰非敌成功呼救"
+    },
+    {
+      "type": "red_robed_disciple_dead",
+      "entity": "skin_backlash",
+      "reference": "v04-c0204:p0065",
+      "fact_status": "丹田真气散九皮反噬亡"
+    },
+    {
+      "type": "blood_shadow_resisted",
+      "entity": "branch_master_attack",
+      "reference": "v04-c0204:p0075",
+      "fact_status": "血影穿孟无精血获"
+    },
+    {
+      "type": "soul_interrogation_started",
+      "entity": "meng_biantian_jidi",
+      "reference": "v04-c0204:p0081",
+      "fact_status": "截逃元神施法未展示供词"
+    },
+    {
+      "type": "soul_lamp_extinguished",
+      "entity": "branch_master_death_followup",
+      "reference": "v04-c0204:p0083",
+      "fact_status": "魂灯灭接外景死追查支撑战后死亡"
+    },
+    {
+      "type": "wanchong_pursuit_actual",
+      "entity": "rank_177_elder",
+      "reference": "v04-c0204:p0089",
+      "fact_status": "太上尊者地榜177五色蛊追线实出峰"
+    },
+    {
+      "type": "route_and_trace_control",
+      "entity": "meng_toward_changshe",
+      "reference": "v04-c0204:p0091",
+      "fact_status": "实际飞在途故留迹控上层未到目的地"
+    },
     {
       "type": "yuanyang_seven_openings_confirmed",
       "entity": "yuan_yang",
