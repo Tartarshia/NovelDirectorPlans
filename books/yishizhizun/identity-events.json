@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0220",
+  "through_chapter": "v04-c0221",
   "events": [
+    {
+      "type": "camp_transfer_completed",
+      "entity": "five_companions_with_double",
+      "reference": "v04-c0221:p0002",
+      "fact_status": "镇海营实安置近红衣九山"
+    },
+    {
+      "type": "inquiry_message_delivered",
+      "entity": "meng_qi",
+      "reference": "v04-c0221:p0005",
+      "fact_status": "分身已告查奸请托"
+    },
+    {
+      "type": "qi_inquiry_begins",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0221:p0019",
+      "fact_status": "主动踏帐引蛇，孟分身担保"
+    },
+    {
+      "type": "two_assassins_subdued",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0221:p0030",
+      "fact_status": "夹剑星河与黑眼，二刺瘫疯未当时死"
+    },
+    {
+      "type": "corpse_dissolved",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0221:p0035",
+      "fact_status": "已死尸消元气非杀活人"
+    },
+    {
+      "type": "liang_ye_named",
+      "entity": "liang_ye",
+      "reference": "v04-c0221:p0044",
+      "fact_status": "苗叫梁业名，巡视追影为其口供"
+    },
+    {
+      "type": "miao_son_death_report",
+      "entity": "miao_hu",
+      "reference": "v04-c0221:p0047",
+      "fact_status": "血脉探称子亡，谁杀未知"
+    },
+    {
+      "type": "explosions_observed",
+      "entity": "liang_and_assassins",
+      "reference": "v04-c0221:p0064",
+      "fact_status": "梁及两刺自爆死，天晶护齐"
+    },
+    {
+      "type": "fake_ritual_admitted",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0221:p0070",
+      "fact_status": "明确无召执念法，只诈凶"
+    },
+    {
+      "type": "enemy_camp_entered",
+      "entity": "meng_qi",
+      "reference": "v04-c0221:p0074",
+      "fact_status": "本尊假森罗换防入营，未见蛊主"
+    },
     {
       "type": "fish_crossing_started",
       "entity": "meng_qi",
