@@ -1,7 +1,79 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0226",
+  "through_chapter": "v04-c0227",
   "events": [
+    {
+      "type": "liu_death_enemy_penalty",
+      "entity": "liu_yuntao",
+      "reference": "v04-c0227:p0001",
+      "fact_status": "六道确死敌每扣1000，己未结"
+    },
+    {
+      "type": "wenjing_enemy_reincarnator",
+      "entity": "wen_jing",
+      "reference": "v04-c0227:p0002",
+      "fact_status": "敌队楼船听六道，真本源未明"
+    },
+    {
+      "type": "wenjing_reinforcement_departure",
+      "entity": "wen_jing",
+      "reference": "v04-c0227:p0006",
+      "fact_status": "牵冯抽援准备队未抵丘"
+    },
+    {
+      "type": "near_halfstep_burst",
+      "entity": "miao_cong",
+      "reference": "v04-c0227:p0018",
+      "fact_status": "五息近半步，八息实临"
+    },
+    {
+      "type": "zhanyu_creation_defense",
+      "entity": "meng_qi",
+      "reference": "v04-c0227:p0026",
+      "fact_status": "斩玉明确开天挡纯力"
+    },
+    {
+      "type": "xuanguijian_defense",
+      "entity": "meng_qi",
+      "reference": "v04-c0227:p0040",
+      "fact_status": "实催龟甲，法天开始消"
+    },
+    {
+      "type": "temporary_halfstep",
+      "entity": "miao_cong",
+      "reference": "v04-c0227:p0046",
+      "fact_status": "第八息真半步非日常境"
+    },
+    {
+      "type": "illusory_death_disambiguated",
+      "entity": "meng_qi",
+      "reference": "v04-c0227:p0052",
+      "fact_status": "血泥幻真实扫飞伤未死"
+    },
+    {
+      "type": "lifespan_exhaustion",
+      "entity": "miao_cong",
+      "reference": "v04-c0227:p0058",
+      "fact_status": "元神散气无残念未活反击"
+    },
+    {
+      "type": "lifespan_decline_strategy",
+      "entity": "meng_qi",
+      "reference": "v04-c0227:p0063",
+      "fact_status": "逼余寿按息遭蟠塌寿衰跳尽"
+    },
+    {
+      "type": "miao_final_death",
+      "entity": "miao_cong",
+      "reference": "v04-c0227:p0071",
+      "fact_status": "倒执念散六道后确死"
+    },
+    {
+      "type": "miao_enemy_penalty",
+      "entity": "miao_cong",
+      "reference": "v04-c0227:p0074",
+      "fact_status": "敌每扣3000己未通报"
+    },
     {
       "type": "court_assault_begins",
       "entity": "dugu_shi",

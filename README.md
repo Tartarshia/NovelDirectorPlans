@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第226章，726 / 1410 个目录条目，约237.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第227章，727 / 1410 个目录条目，约237.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第227章复核](books/yishizhizun/reviews/review-v04-0227.md)：刘苗死六道证、玄龟防与血泥幻觉、寿衰取胜和闻景援途中，75段、86个句内单元。
 - [第226章复核](books/yishizhizun/reviews/review-v04-0226.md)：朝廷强袭、苗燃寿临巅与昆仑护肩、双守确死和韵陶背刺，84段、114个句内单元。
 - [第225章复核](books/yishizhizun/reviews/review-v04-0225.md)：血脉追踪锦囊误指、孩儿军搜寻和西丘人质反击，援未成，84段、136个句内单元。
 - [第224章复核](books/yishizhizun/reviews/review-v04-0224.md)：真执念主公、假苗聪死身份补正、杜复起持剑与试苗暂归，62段、100个句内单元。
