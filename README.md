@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第237章，737 / 1410 个目录条目，约241.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第238章，738 / 1410 个目录条目，约241.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第238章复核](books/yishizhizun/reviews/review-v04-0238.md)：学我非像我、陆触树玉颜墓语、真实界推演与内景实调未晋宗师，55段、78个句内单元。
 - [第237章复核](books/yishizhizun/reviews/review-v04-0237.md)：画眉谢树、陆刚地仙略传特征与改界边界、独一情剑探索，43段、76个句内单元。
 - [第236章复核](books/yishizhizun/reviews/review-v04-0236.md)：易筋二实兑、兰若私任务、三友保命时间与栖凤中品、孟孤坐赴画眉，54段、83个句内单元；[兑换账](books/yishizhizun/reviews/ledger-v04-0236.md)。
 - [第235章复核](books/yishizhizun/reviews/review-v04-0235.md)：回归治疗结算、齐正式别离留言、鱼与传说资料及四人售物债清，68段、97个句内单元；[战后账](books/yishizhizun/reviews/ledger-v04-0235.md)。
