@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第197章，697 / 1410 个目录条目，约228.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第198章，698 / 1410 个目录条目，约228.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第198章复核](books/yishizhizun/reviews/review-v04-0198.md)：树三枝七叶萌、上路断与过去巨影下的羲拳，73段、96个句内单元。
 - [第197章复核](books/yishizhizun/reviews/review-v04-0197.md)：未来探索、三法身探门与大道树实吸震界，73段、94个句内单元。
 - [第196章复核](books/yishizhizun/reviews/review-v04-0196.md)：古符误判实耗、同层滑逃与众像未定，72段、86个句内单元。
 - [第195章复核](books/yishizhizun/reviews/review-v04-0195.md)：镜碟果实收、隐道大树弃取与触名未决，83段、127个句内单元。

@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0197",
+  "through_chapter": "v04-c0198",
   "events": [
+    {
+      "type": "experience_reassessment",
+      "entity": "meng_prior_experience",
+      "reference": "v04-c0198:p0012",
+      "fact_status": "先逃高可接受、吸树忽略当下预兆为孟反思"
+    },
+    {
+      "type": "tree_absorption_finished",
+      "entity": "dadao_tree_growth",
+      "reference": "v04-c0198:p0026",
+      "fact_status": "根化泥树停吸收起，三枝七叶萌迹非成熟功能"
+    },
+    {
+      "type": "blood_peach_not_acquired",
+      "entity": "blood_peach",
+      "reference": "v04-c0198:p0016",
+      "fact_status": "孟唤来桃缩未收"
+    },
+    {
+      "type": "upward_path_destroyed",
+      "entity": "cui_vortex",
+      "reference": "v04-c0198:p0030",
+      "fact_status": "漩涡碎无上路，崔令返底未实得物"
+    },
+    {
+      "type": "gate_still_unopened",
+      "entity": "three_fashen_gray_hall",
+      "reference": "v04-c0198:p0036",
+      "fact_status": "三位尽手段门碑不破"
+    },
+    {
+      "type": "past_remnant_voices",
+      "entity": "unidentified_ancient_voice",
+      "reference": "v04-c0198:p0053",
+      "fact_status": "实听古声但作者与真实性未证"
+    },
+    {
+      "type": "solar_shadow_identity_uncertain",
+      "entity": "gold_robed_shadow",
+      "reference": "v04-c0198:p0069",
+      "fact_status": "神君神躯为孟疑问，似处过往非当前"
+    },
+    {
+      "type": "xi_attack_started",
+      "entity": "xi_killing_punch",
+      "reference": "v04-c0198:p0071",
+      "fact_status": "明确羲出拳灭口尚未命中结果"
+    },
     {
       "type": "future_interpretation_inferred",
       "entity": "ruined_lai_shi_mirror",
