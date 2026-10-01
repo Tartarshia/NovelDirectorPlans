@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第219章，719 / 1410 个目录条目，约235.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第220章，720 / 1410 个目录条目，约235.5万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第220章复核](books/yishizhizun/reviews/review-v04-0220.md)：闻景敌帐、毒水十息制服与森罗假扮，丹未用、齐接话迁帐，68段、88个句内单元。
 - [第219章复核](books/yishizhizun/reviews/review-v04-0219.md)：分身潜营、承天剑亲见与咒蛊诊断、内奸请托，抵江未渡，71段、117个句内单元。
 - [第218章复核](books/yishizhizun/reviews/review-v04-0218.md)：怒江义军岸、平徐招揽与杜伤口述，强监明确而医杜未成，57段、98个句内单元。
 - [第217章复核](books/yishizhizun/reviews/review-v04-0217.md)：极品装配、借款炼丹及死亡任务真实传送，60段、83个句内单元；[战前结算](books/yishizhizun/reviews/ledger-v04-0217.md)。

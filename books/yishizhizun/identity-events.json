@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0219",
+  "through_chapter": "v04-c0220",
   "events": [
+    {
+      "type": "fish_crossing_started",
+      "entity": "meng_qi",
+      "reference": "v04-c0220:p0007",
+      "fact_status": "实鱼游近敌岸，未上岸"
+    },
+    {
+      "type": "poisoned_shallow_water_seen",
+      "entity": "meng_qi",
+      "reference": "v04-c0220:p0011",
+      "fact_status": "慧眼見死水族与黑毒水"
+    },
+    {
+      "type": "senluo_rank_background",
+      "entity": "senluo_tianjun",
+      "reference": "v04-c0220:p0015",
+      "fact_status": "28岁地阶六品异魔血脉，未来上三品仅期待"
+    },
+    {
+      "type": "wenjing_names_past_enemy",
+      "entity": "wen_jing",
+      "reference": "v04-c0220:p0024",
+      "fact_status": "讲清源变化旧亏，主世界实名未揭"
+    },
+    {
+      "type": "court_attack_promise",
+      "entity": "wen_jing",
+      "reference": "v04-c0220:p0031",
+      "fact_status": "两日攻五日瓦解为承诺未结果"
+    },
+    {
+      "type": "blue_blood_water_simulation",
+      "entity": "meng_qi",
+      "reference": "v04-c0220:p0040",
+      "fact_status": "十八变化稍化水未全融合"
+    },
+    {
+      "type": "senluo_subdued",
+      "entity": "meng_qi",
+      "reference": "v04-c0220:p0056",
+      "fact_status": "穿甲抓踝封气精神制服未杀证"
+    },
+    {
+      "type": "senluo_impersonation",
+      "entity": "meng_qi",
+      "reference": "v04-c0220:p0061",
+      "fact_status": "舱后假森罗加靴由昆仑袍变"
+    },
+    {
+      "type": "poison_resolved_without_pill",
+      "entity": "meng_qi",
+      "reference": "v04-c0220:p0062",
+      "fact_status": "肉身化毒未服东极"
+    },
+    {
+      "type": "camp_transfer_begins",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0220:p0067",
+      "fact_status": "齐应徐令转镇海，踏帐未到"
+    },
     {
       "type": "hair_double_and_infiltration",
       "entity": "meng_qi",
