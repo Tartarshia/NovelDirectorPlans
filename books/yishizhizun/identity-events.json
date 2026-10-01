@@ -1,7 +1,67 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0216",
+  "through_chapter": "v04-c0217",
   "events": [
+    {
+      "type": "two_furnaces_pills_created",
+      "entity": "dongji_pills",
+      "reference": "v04-c0217:p0018",
+      "fact_status": "20000实炼6粒各1孟备1，使用额每人1"
+    },
+    {
+      "type": "ruan_loan_updated",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0217:p0015",
+      "fact_status": "新增2000累计3100未还"
+    },
+    {
+      "type": "jiang_armor_upgraded",
+      "entity": "wufeng_tianyi",
+      "reference": "v04-c0217:p0024",
+      "fact_status": "升级支出2000极品，鉴值9700不混"
+    },
+    {
+      "type": "qi_gear_acquired",
+      "entity": "tianjing_longwen",
+      "reference": "v04-c0217:p0031",
+      "fact_status": "甲9500剑升级4000，余2500推算"
+    },
+    {
+      "type": "meng_four_weapons_robe",
+      "entity": "meng_qi",
+      "reference": "v04-c0217:p0043",
+      "fact_status": "天伤4000斩玉9800昆仑9700，流火养成极品"
+    },
+    {
+      "type": "zhao_prior_robe_revealed",
+      "entity": "xuanhuang_emperor_robe",
+      "reference": "v04-c0217:p0046",
+      "fact_status": "旧交易所得不重扣现金"
+    },
+    {
+      "type": "zhao_fishdragon_upgrade_loan",
+      "entity": "zhao_heng",
+      "reference": "v04-c0217:p0054",
+      "fact_status": "借6000升6700不可逆损后续升级，余300推"
+    },
+    {
+      "type": "meng_balance_confirmed",
+      "entity": "meng_qi",
+      "reference": "v04-c0217:p0054",
+      "fact_status": "章末6390源明"
+    },
+    {
+      "type": "death_mission_transport_started",
+      "entity": "five_companions",
+      "reference": "v04-c0217:p0056",
+      "fact_status": "五人实消失入任务未有战果"
+    },
+    {
+      "type": "rules_rewards_not_yet_earned",
+      "entity": "six_paths",
+      "reference": "v04-c0217:p0060",
+      "fact_status": "禁物护丹各1及主支奖扣再宣，胜符未领"
+    },
     {
       "type": "meng_sixth_level_confirmed",
       "entity": "meng_qi",

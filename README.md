@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第216章，716 / 1410 个目录条目，约234.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第217章，717 / 1410 个目录条目，约234.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第217章复核](books/yishizhizun/reviews/review-v04-0217.md)：极品装配、借款炼丹及死亡任务真实传送，60段、83个句内单元；[战前结算](books/yishizhizun/reviews/ledger-v04-0217.md)。
 - [第216章复核](books/yishizhizun/reviews/review-v04-0216.md)：大半年教读孟六重、伙伴信任与队伍装备余额，六项实售结43890，74段、126个句内单元。
 - [第215章复核](books/yishizhizun/reviews/review-v04-0215.md)：纯阳理心、条件护符与秘法实试、旧经笔迹和孩童静心，71段、119个句内单元。
 - [第214章复核](books/yishizhizun/reviews/review-v04-0214.md)：残镜吸收、古符末次实耗与本体追索，净土避险后北周告别，53段、67个句内单元。
