@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第241章，741 / 1410 个目录条目，约242.5万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第242章，742 / 1410 个目录条目，约242.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第242章复核](books/yishizhizun/reviews/review-v04-0242.md)：蓝刺实袭、以身代刀脱险、藏劲反击与护送承诺，74段、109个句内单元。
 - [第241章复核](books/yishizhizun/reviews/review-v04-0241.md)：按可杀目标分刺阶、禁法后揭周、吞毒被止而暗火亡，55段、99个句内单元。
 - [第240章复核](books/yishizhizun/reviews/review-v04-0240.md)：突讯孤狼暗记、落魂涧石尸确认、纯刺方法与雾影尚线推断，60段、95个句内单元。
 - [第239章复核](books/yishizhizun/reviews/review-v04-0239.md)：凌跃邀见生死约、孟声望应证与石家堡魂灯口供，50段、82个句内单元。
