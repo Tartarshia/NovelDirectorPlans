@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0183",
+  "through_chapter": "v04-c0184",
   "events": [
+    {
+      "type": "disguise_recognized",
+      "entity": "sun_identifies_bai_chong",
+      "reference": "v04-c0184:p0014",
+      "fact_status": "孙凭曾跟踪认酒坛骑马人白冲"
+    },
+    {
+      "type": "limited_environment_fight",
+      "entity": "meng_breaks_three_opponents",
+      "reference": "v04-c0184:p0037",
+      "fact_status": "禁天地力下击退，未证死"
+    },
+    {
+      "type": "title_identified",
+      "entity": "zizai_tianmo",
+      "reference": "v04-c0184:p0041",
+      "fact_status": "任提示孙识自在天魔宗师"
+    },
+    {
+      "type": "previous_attacker_recognized",
+      "entity": "unnamed_waterspike_assassin",
+      "reference": "v04-c0184:p0049",
+      "fact_status": "孙认此前袭击者，姓名阶位仍未明"
+    },
+    {
+      "type": "title_identified",
+      "entity": "shashen_jian",
+      "reference": "v04-c0184:p0053",
+      "fact_status": "任识蓝阶杀神剑"
+    },
+    {
+      "type": "person_grabbed",
+      "entity": "meng_holds_bai_chong",
+      "reference": "v04-c0184:p0060",
+      "fact_status": "抓脑门，未夺图或杀死"
+    },
+    {
+      "type": "standoff_begins",
+      "entity": "meng_ziwei",
+      "reference": "v04-c0184:p0067",
+      "fact_status": "孟持白冲对峙面具人，韩广未现"
+    },
     {
       "type": "map_split_reported",
       "entity": "bai_ning_bai_chong",
