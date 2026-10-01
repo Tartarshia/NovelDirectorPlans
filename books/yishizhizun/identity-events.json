@@ -1,7 +1,85 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0227",
+  "through_chapter": "v04-c0228",
   "events": [
+    {
+      "type": "wenjing_abandons_reinforcement",
+      "entity": "wen_jing",
+      "reference": "v04-c0228:p0005",
+      "fact_status": "本人非死亡任务，弃西丘归阵"
+    },
+    {
+      "type": "baihong_defense",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0228:p0012",
+      "fact_status": "白虹实挡隐袭不明敌"
+    },
+    {
+      "type": "xuanhuang_robe_activated",
+      "entity": "zhao_heng",
+      "reference": "v04-c0228:p0013",
+      "fact_status": "实催挡背击并未受杀"
+    },
+    {
+      "type": "qixian_virtual_sound_detection",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0228:p0016",
+      "fact_status": "实际琴音虚振显敌位"
+    },
+    {
+      "type": "assassin_escaped",
+      "entity": "unidentified_void_assassin",
+      "reference": "v04-c0228:p0018",
+      "fact_status": "逃琴外身份未名"
+    },
+    {
+      "type": "court_retreat",
+      "entity": "court_army",
+      "reference": "v04-c0228:p0024",
+      "fact_status": "双方损阵枢难破鸣金"
+    },
+    {
+      "type": "passive_armor_final_hit",
+      "entity": "meng_qi",
+      "reference": "v04-c0228:p0035",
+      "fact_status": "末击无力再催甲被动肉身承真伤"
+    },
+    {
+      "type": "miao_loot_taken",
+      "entity": "meng_qi",
+      "reference": "v04-c0228:p0043",
+      "fact_status": "铜棍环灭自毁印实收"
+    },
+    {
+      "type": "longevity_pills_found",
+      "entity": "meng_qi",
+      "reference": "v04-c0228:p0044",
+      "fact_status": "若干玉瓶各不同丹1无功法未服售"
+    },
+    {
+      "type": "miao_body_carried_back",
+      "entity": "meng_and_qi",
+      "reference": "v04-c0228:p0048",
+      "fact_status": "带尸返未抵营"
+    },
+    {
+      "type": "liu_loot_retention_agreed",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0228:p0051",
+      "fact_status": "刘环兵留齐接受未明价值"
+    },
+    {
+      "type": "school_proposal_discussed",
+      "entity": "meng_and_qi",
+      "reference": "v04-c0228:p0058",
+      "fact_status": "方法可取根本利益争是观点非执行"
+    },
+    {
+      "type": "miao_lifeblood_talisman_shown",
+      "entity": "qi_zhengyan",
+      "reference": "v04-c0228:p0064",
+      "fact_status": "血符真制已亮功能解释未催"
+    },
     {
       "type": "liu_death_enemy_penalty",
       "entity": "liu_yuntao",
