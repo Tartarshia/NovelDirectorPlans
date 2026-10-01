@@ -1,7 +1,91 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0242",
+  "through_chapter": "v04-c0243",
   "events": [
+    {
+      "type": "ling_pledges_escort",
+      "entity": "ling_yue",
+      "reference": "v04-c0243:p0002",
+      "fact_status": "愿舍命共护"
+    },
+    {
+      "type": "fortress_signal_damage",
+      "entity": "shi_fortress",
+      "reference": "v04-c0243:p0009",
+      "fact_status": "示警毁近三成建筑非灭门"
+    },
+    {
+      "type": "remaining_people_evacuated",
+      "entity": "shi_xiaodang",
+      "reference": "v04-c0243:p0010",
+      "fact_status": "已安排余人周边疏散"
+    },
+    {
+      "type": "escort_departure_actual",
+      "entity": "meng_qi",
+      "reference": "v04-c0243:p0012",
+      "fact_status": "三光飞赴庄长老卷兄妹凌压阵"
+    },
+    {
+      "type": "realm_underestimated_by_siblings",
+      "entity": "shi_children",
+      "reference": "v04-c0243:p0019",
+      "fact_status": "顶多五重误估不孟降境"
+    },
+    {
+      "type": "xiaoxiu_back_stab_intercepted",
+      "entity": "meng_qi",
+      "reference": "v04-c0243:p0026",
+      "fact_status": "刀截剑女未中"
+    },
+    {
+      "type": "new_palm_sword_wound",
+      "entity": "meng_qi",
+      "reference": "v04-c0243:p0037",
+      "fact_status": "新长掌血伤握剑尖"
+    },
+    {
+      "type": "material_counterattack_conditional",
+      "entity": "meng_qi",
+      "reference": "v04-c0243:p0044",
+      "fact_status": "若缠敌可取主材未取"
+    },
+    {
+      "type": "public_boast_private_caution",
+      "entity": "meng_qi",
+      "reference": "v04-c0243:p0049",
+      "fact_status": "安众豪语不否认真实危机"
+    },
+    {
+      "type": "near_huamei_perception_range",
+      "entity": "meng_qi",
+      "reference": "v04-c0243:p0054",
+      "fact_status": "飞两多时辰距自然感应范围百里未入"
+    },
+    {
+      "type": "own_shadow_assassination",
+      "entity": "burenlou_assassin",
+      "reference": "v04-c0243:p0064",
+      "fact_status": "孟影活玉枕袭"
+    },
+    {
+      "type": "brain_wound_actual",
+      "entity": "meng_qi",
+      "reference": "v04-c0243:p0069",
+      "fact_status": "剑略穿淡金劲摧脑"
+    },
+    {
+      "type": "giant_counterattack_mind_question",
+      "entity": "meng_qi",
+      "reference": "v04-c0243:p0071",
+      "fact_status": "巨化斩玉拷问心灵结果未明"
+    },
+    {
+      "type": "spirit_relocated_second_head",
+      "entity": "meng_qi",
+      "reference": "v04-c0243:p0072",
+      "fact_status": "元神临危遁入另头未死"
+    },
     {
       "type": "dark_fire_origins_hypothesized",
       "entity": "meng_qi",
