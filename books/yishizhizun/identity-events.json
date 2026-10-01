@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0221",
+  "through_chapter": "v04-c0222",
   "events": [
+    {
+      "type": "gu_owner_identity_confirmed",
+      "entity": "shadow_king",
+      "reference": "v04-c0222:p0018",
+      "fact_status": "孟明知蛊主是影王二品宗师"
+    },
+    {
+      "type": "fallback_leadership_plan",
+      "entity": "red_army_wanshi",
+      "reference": "v04-c0222:p0023",
+      "fact_status": "若杜亡支持苗是备用非已换主"
+    },
+    {
+      "type": "court_elder_named",
+      "entity": "dugu_shi",
+      "reference": "v04-c0222:p0038",
+      "fact_status": "高大老师正式武皇独孤世"
+    },
+    {
+      "type": "shadow_king_slashed",
+      "entity": "meng_qi",
+      "reference": "v04-c0222:p0056",
+      "fact_status": "长刀平淡斩气消后末确认死"
+    },
+    {
+      "type": "causal_weight_received",
+      "entity": "meng_qi",
+      "reference": "v04-c0222:p0058",
+      "fact_status": "身体重因果加持，未解"
+    },
+    {
+      "type": "du_recovers_from_gu",
+      "entity": "du_huaishang",
+      "reference": "v04-c0222:p0065",
+      "fact_status": "黑气散伤缩原药发挥，未新丹/醒言"
+    },
+    {
+      "type": "dangerous_loot_left",
+      "entity": "meng_qi",
+      "reference": "v04-c0222:p0075",
+      "fact_status": "蛊需逐一除危险故未取物"
+    },
+    {
+      "type": "enemy_camp_exit",
+      "entity": "meng_qi",
+      "reference": "v04-c0222:p0078",
+      "fact_status": "令牌穿禁出辕门未返义军"
+    },
+    {
+      "type": "shadow_king_death_summary",
+      "entity": "shadow_king",
+      "reference": "v04-c0222:p0080",
+      "fact_status": "血海新任教主死，杀者苏孟，外伤无死因未知"
+    },
     {
       "type": "camp_transfer_completed",
       "entity": "five_companions_with_double",
