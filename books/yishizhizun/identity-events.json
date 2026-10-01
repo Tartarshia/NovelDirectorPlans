@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0207",
+  "through_chapter": "v04-c0208",
   "events": [
+    {
+      "type": "xiaoru_recovery_observed",
+      "entity": "mature_demeanor",
+      "reference": "v04-c0208:p0010",
+      "fact_status": "痛减气盛形神成熟，病机制未证"
+    },
+    {
+      "type": "huang_tomb_departure",
+      "entity": "gu_coffin_carried",
+      "reference": "v04-c0208:p0025",
+      "fact_status": "古重新入棺法器钉后带回族意，未再生"
+    },
+    {
+      "type": "survivor_identity_account",
+      "entity": "xiaoru_yongsheng",
+      "reference": "v04-c0208:p0064",
+      "fact_status": "易辛认后小如承前身与转身记忆觉醒"
+    },
+    {
+      "type": "secret_method_received_used",
+      "entity": "meng_fishpond_method",
+      "reference": "v04-c0208:p0076",
+      "fact_status": "同意换法后实运，完整蛊誓未描"
+    },
+    {
+      "type": "earth_life_vision_clear",
+      "entity": "meng_previous_life",
+      "reference": "v04-c0208:p0077",
+      "fact_status": "地球前世画清，不是物理转世"
+    },
+    {
+      "type": "lingshan_viewpoint_corrected",
+      "entity": "unidentified_overlapping_body",
+      "reference": "v04-c0208:p0085",
+      "fact_status": "非挥棒者而地面仰望，身份未定"
+    },
+    {
+      "type": "probe_interrupted_headache",
+      "entity": "meng_leaves_grave",
+      "reference": "v04-c0208:p0089",
+      "fact_status": "无情眼后头痛跳土未收金片"
+    },
+    {
+      "type": "yi_xin_fallen_unknown",
+      "entity": "deep_changshe",
+      "reference": "v04-c0208:p0091",
+      "fact_status": "倒地不信，生死凶因未明"
+    },
     {
       "type": "huang_rescued",
       "entity": "meng_vortex_sword",
