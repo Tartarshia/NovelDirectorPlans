@@ -1,7 +1,49 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0195",
+  "through_chapter": "v04-c0196",
   "events": [
+    {
+      "type": "escape_talisman_used",
+      "entity": "meng_pokong_one_use",
+      "reference": "v04-c0196:p0022",
+      "fact_status": "古符真正用一次原2余1，回孟手续未描"
+    },
+    {
+      "type": "old_trigger_not_effective",
+      "entity": "gao_lu_chonghe_names",
+      "reference": "v04-c0196:p0019",
+      "fact_status": "高仍豪迈非孟预判转冷"
+    },
+    {
+      "type": "same_layer_escape",
+      "entity": "meng_eagle_glide",
+      "reference": "v04-c0196:p0052",
+      "fact_status": "殿门滑下落云仍当前天不等出九天"
+    },
+    {
+      "type": "attack_cancelled",
+      "entity": "han_range_strike",
+      "reference": "v04-c0196:p0038",
+      "fact_status": "欲乱射见高疯撤未打"
+    },
+    {
+      "type": "gu_leaves_then_pauses",
+      "entity": "outside_sansheng",
+      "reference": "v04-c0196:p0048",
+      "fact_status": "获许离殿左走停原因未给"
+    },
+    {
+      "type": "many_images_observed",
+      "entity": "meng_lookalike_figures",
+      "reference": "v04-c0196:p0067",
+      "fact_status": "脸全己，未来解释未证"
+    },
+    {
+      "type": "future_interpretation_inferred",
+      "entity": "ruined_lai_shi_area",
+      "reference": "v04-c0196:p0070",
+      "fact_status": "孟猜来世或多未来，未确定命运"
+    },
     {
       "type": "mirror_acquired",
       "entity": "gao_jinsheng_mirror",
