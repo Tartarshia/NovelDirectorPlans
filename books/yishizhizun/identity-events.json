@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0184",
+  "through_chapter": "v04-c0185",
   "events": [
+    {
+      "type": "weapon_name_confirmed",
+      "entity": "xuangui_sword",
+      "reference": "v04-c0185:p0001",
+      "fact_status": "承前章龟纹剑，明确玄龟"
+    },
+    {
+      "type": "escape_observed",
+      "entity": "bai_chong_skin_escape",
+      "reference": "v04-c0185:p0005",
+      "fact_status": "脱皮血遁，真实生死后未明"
+    },
+    {
+      "type": "rank_now_identified",
+      "entity": "waterspike_assassin_qing",
+      "reference": "v04-c0185:p0011",
+      "fact_status": "承前蓝阶杀神剑外另刺客明确青阶"
+    },
+    {
+      "type": "dharmakaya_appeared",
+      "entity": "han_guang_at_bridge",
+      "reference": "v04-c0185:p0028",
+      "fact_status": "韩现并精神压孟，后有真假身反转"
+    },
+    {
+      "type": "array_triggered",
+      "entity": "liu_shengming",
+      "reference": "v04-c0185:p0049",
+      "fact_status": "柳爆气喝名触阵，不归孟亲手完成"
+    },
+    {
+      "type": "present_action_confirmed",
+      "entity": "cui_qinghe",
+      "reference": "v04-c0185:p0053",
+      "fact_status": "平津侯府拔剑紫霞起，非前章已见"
+    },
+    {
+      "type": "cooperation_inferred",
+      "entity": "liu_gu_cooperation",
+      "reference": "v04-c0185:p0060",
+      "fact_status": "孟醒悟推断，未独立完整口供"
+    },
+    {
+      "type": "entrance_actually_used",
+      "entity": "meng_gu_heaven_boundary",
+      "reference": "v04-c0185:p0072",
+      "fact_status": "孟雷痕顾界碑牵手实入，不耗轮回符"
+    },
+    {
+      "type": "reader_only_presence",
+      "entity": "gao_lan_on_throne",
+      "reference": "v04-c0185:p0080",
+      "fact_status": "高览座上看二人离，非孟所见"
+    },
+    {
+      "type": "body_identity_judged",
+      "entity": "cui_judges_bai_corpse_han",
+      "reference": "v04-c0185:p0088",
+      "fact_status": "崔判失踪白冲样尸为韩真身，真实白冲去向未证"
+    },
+    {
+      "type": "distribution_order_given",
+      "entity": "lamp_envoy_entrance_map",
+      "reference": "v04-c0185:p0092",
+      "fact_status": "按圣女吩咐发令，遍贴未见完成"
+    },
     {
       "type": "disguise_recognized",
       "entity": "sun_identifies_bai_chong",
