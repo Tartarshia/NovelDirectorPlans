@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0205",
+  "through_chapter": "v04-c0206",
   "events": [
+    {
+      "type": "pale_hand_identity_confirmed",
+      "entity": "meng_living_hand",
+      "reference": "v04-c0206:p0001",
+      "fact_status": "扣手明确孟，205不明点名到此确认"
+    },
+    {
+      "type": "living_state_restored",
+      "entity": "meng_spirit_vitality",
+      "reference": "v04-c0206:p0015",
+      "fact_status": "藏生散拟死退非真复活"
+    },
+    {
+      "type": "song_bingde_name_given",
+      "entity": "xiaoru_master",
+      "reference": "v04-c0206:p0033",
+      "fact_status": "自报宋大晋外景，诅咒说法未证"
+    },
+    {
+      "type": "xiaoru_ar_u_alias",
+      "entity": "three_realm_pair",
+      "reference": "v04-c0206:p0040",
+      "fact_status": "阿如小如同人师徒三重自述"
+    },
+    {
+      "type": "yi_brothers_sixth_peak",
+      "entity": "yi_meng_yi_xin",
+      "reference": "v04-c0206:p0043",
+      "fact_status": "正文两六重顶，蒙衰辛仍活"
+    },
+    {
+      "type": "aura_clash_ended",
+      "entity": "meng_and_yi",
+      "reference": "v04-c0206:p0055",
+      "fact_status": "气势压不等宗师突破，无死战"
+    },
+    {
+      "type": "yi_meng_death_observed",
+      "entity": "coffin",
+      "reference": "v04-c0206:p0069",
+      "fact_status": "开棺蒙确亡，不据气势争执判孟杀"
+    },
+    {
+      "type": "coffin_writing_observed",
+      "entity": "another_self",
+      "reference": "v04-c0206:p0071",
+      "fact_status": "留字实见另一我身份未定"
+    },
+    {
+      "type": "gu_coffin_opened",
+      "entity": "huang_tomb_search",
+      "reference": "v04-c0206:p0078",
+      "fact_status": "邪气出身份未揭，非已证古复活"
+    },
     {
       "type": "valley_arrival_actual",
       "entity": "meng_yongsheng_valley",
