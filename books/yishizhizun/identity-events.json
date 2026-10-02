@@ -1,7 +1,91 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0261",
+  "through_chapter": "v04-c0262",
   "events": [
+    {
+      "type": "pan_peach_consumed",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0262:p0006",
+      "fact_status": "实际吞服8寿数自报"
+    },
+    {
+      "type": "yuanxin_transmission_received_and_returned",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0262:p0015",
+      "fact_status": "接受一次孟收回铃合作不收费"
+    },
+    {
+      "type": "sleeve_technique_transmitted",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0262:p0019",
+      "fact_status": "实际传授51初皮毛"
+    },
+    {
+      "type": "taiyi_pill_consumed",
+      "entity": "meng_qi",
+      "reference": "v04-c0262:p0035",
+      "fact_status": "鼻吸入本枚耗非齐吸药味"
+    },
+    {
+      "type": "earth_body_basic_activity",
+      "entity": "meng_qi_earth_body",
+      "reference": "v04-c0262:p0041",
+      "fact_status": "出洞实周城43拟定"
+    },
+    {
+      "type": "initial_sleeve_and_yuanxin_practice",
+      "entity": "meng_qi",
+      "reference": "v04-c0262:p0051",
+      "fact_status": "皮毛道一少许三刀似能未测"
+    },
+    {
+      "type": "kunlun_robe_repair_confirmed",
+      "entity": "meng_qi",
+      "reference": "v04-c0262:p0055",
+      "fact_status": "齐及齐炼器宗师已修"
+    },
+    {
+      "type": "magnetic_beast_initial_change",
+      "entity": "meng_qi",
+      "reference": "v04-c0262:p0066",
+      "fact_status": "借小磁山初掌不明山耗完"
+    },
+    {
+      "type": "loot_valuation_only",
+      "entity": "meng_qi",
+      "reference": "v04-c0262:p0068",
+      "fact_status": "40200鉴价未售"
+    },
+    {
+      "type": "two_divine_weapon_materials_present",
+      "entity": "meng_qi",
+      "reference": "v04-c0262:p0076",
+      "fact_status": "真持未成形珠大日焰心转移过程未叙"
+    },
+    {
+      "type": "divine_weapon_quote_not_completion",
+      "entity": "six_daos_identification_voice",
+      "reference": "v04-c0262:p0078",
+      "fact_status": "60000加专属任务未执行"
+    },
+    {
+      "type": "loan_plan_accepted_not_paid",
+      "entity": "meng_qi",
+      "reference": "v04-c0262:p0082",
+      "fact_status": "抵押55000信用5000未到账"
+    },
+    {
+      "type": "secret_room_barrier_activated",
+      "entity": "meng_qi",
+      "reference": "v04-c0262:p0090",
+      "fact_status": "根九娘带入禁室实际"
+    },
+    {
+      "type": "luya_identification_testimony",
+      "entity": "daqinggen",
+      "reference": "v04-c0262:p0092",
+      "fact_status": "根供六道昊天子陆压94孟仍疑"
+    },
     {
       "type": "initial_immortal_yuanshi_domain",
       "entity": "meng_qi",

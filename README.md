@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第261章，761 / 1410 个目录条目，约248.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第262章，762 / 1410 个目录条目，约249.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第262章复核](books/yishizhizun/reviews/review-v04-0262.md)：服太乙与双躯基础活动、袖里初修、昆仑袍修复、神兵筹资和陆压口供待核，94段、158个句内单元；[报价融资账](books/yishizhizun/reviews/ledger-v04-0262.md)。
 - [第261章复核](books/yishizhizun/reviews/review-v04-0261.md)：宗师领域与双躯试操、宫排回临淄、双经前三和补教袖约、镇鞭借限，69段、97个句内单元；[资料分配账](books/yishizhizun/reviews/ledger-v04-0261.md)。
 - [第260章复核](books/yishizhizun/reviews/review-v04-0260.md)：最后金丹耗尽、道一真意入神、双敌微解扇飞、棺内地球旧身与真正跨梯宗师，85段、105个句内单元；[耗药传承账](books/yishizhizun/reviews/ledger-v04-0260.md)。
 - [第259章复核](books/yishizhizun/reviews/review-v04-0259.md)：因果自主决拼、掌刀换伤实夺道一、八九破功与印光未知消失，79段、88个句内单元；[夺印耗用账](books/yishizhizun/reviews/ledger-v04-0259.md)。
