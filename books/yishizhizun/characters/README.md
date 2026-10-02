@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷272章
+# 角色阶段索引 · 截至第四卷273章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -342,3 +342,5 @@
 最新[271章复核](../reviews/review-v04-0271.md)：调查团详目、皓月旧恩仇/斧关联可能、环物定名与风险撤决；[物品任务账](../reviews/ledger-v04-0271.md)、[团员卡](shalan-investigation-party.md)、[戒杀皓月卡](saren-gaowa-haoyue.md)、[萨满体系](shaman-system-tianmu.md)、[幽冥/活死人](youming-emperor-undead.md)。
 
 最新[272章复核](../reviews/review-v04-0272.md)：识破假设/黄雀推演、陶视角他心通与调查实出、飞廉将爆悬点；[风险行动账](../reviews/ledger-v04-0272.md)、[陶与六欲心通卡](taogesi-liuyu-telepathy.md)。
+
+最新[273章复核](../reviews/review-v04-0273.md)：邪欲陨落与黑幡实用、唤尸/读心指控和两路内斗；[死伤行动账](../reviews/ledger-v04-0273.md)、[邪欲死亡卡](xieyu-bodhisattva.md)。

@@ -1,7 +1,79 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0272",
+  "through_chapter": "v04-c0273",
   "events": [
+    {
+      "type": "feilian_body_explosion_executed",
+      "entity": "fei_lian_undead",
+      "reference": "v04-c0273:p0009",
+      "fact_status": "半法躯实爆非新半法活人"
+    },
+    {
+      "type": "black_banner_defense_used",
+      "entity": "meng_qi",
+      "reference": "v04-c0273:p0010",
+      "fact_status": "假极恶实催黑幡浊浪限爆"
+    },
+    {
+      "type": "xieyu_death_confirmed",
+      "entity": "xieyu_bodhisattva",
+      "reference": "v04-c0273:p0014",
+      "fact_status": "宗师明确陨落无复活信息"
+    },
+    {
+      "type": "gu_accuses_jievil_proximity",
+      "entity": "gu_xiaosang",
+      "reference": "v04-c0273:p0015",
+      "fact_status": "相隔近指控不判孟是真爆尸者"
+    },
+    {
+      "type": "gu_admits_assistance_disputes_reanimation",
+      "entity": "gu_xiaosang",
+      "reference": "v04-c0273:p0023",
+      "fact_status": "承推波但与六欲互指唤尸"
+    },
+    {
+      "type": "liuyu_reports_jievil_thoughts",
+      "entity": "liuyu_true_buddha",
+      "reference": "v04-c0273:p0027",
+      "fact_status": "六欲公开心思转述非孟直接内证"
+    },
+    {
+      "type": "gu_mind_unreadable_liuyu_claim",
+      "entity": "liuyu_true_buddha",
+      "reference": "v04-c0273:p0032",
+      "fact_status": "称顾凝心听不到不能证有罪"
+    },
+    {
+      "type": "ruyi_spell_taogesi_inference",
+      "entity": "tao_ge_si",
+      "reference": "v04-c0273:p0041",
+      "fact_status": "认天母术功能当时未亲见托施"
+    },
+    {
+      "type": "tuoya_rejects_liuyu_credibility",
+      "entity": "tuo_ya",
+      "reference": "v04-c0273:p0042",
+      "fact_status": "质疑读心说法有欲望与可撒谎"
+    },
+    {
+      "type": "liuyu_coercive_capture_request",
+      "entity": "liuyu_true_buddha",
+      "reference": "v04-c0273:p0043",
+      "fact_status": "求擒托把玩未已成"
+    },
+    {
+      "type": "taogesi_attacks_tuoya",
+      "entity": "tao_ge_si",
+      "reference": "v04-c0273:p0045",
+      "fact_status": "突背一刀欲重伤未结果"
+    },
+    {
+      "type": "meng_liuyu_attack_gu",
+      "entity": "meng_qi",
+      "reference": "v04-c0273:p0048",
+      "fact_status": "两人同时实攻顾胜负未给"
+    },
     {
       "type": "han_detection_hypothesis_not_confirmed",
       "entity": "meng_qi",

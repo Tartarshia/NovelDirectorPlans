@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第272章，772 / 1410 个目录条目，约252.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第273章，773 / 1410 个目录条目，约252.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第273章复核](books/yishizhizun/reviews/review-v04-0273.md)：邪欲陨落、黑幡实用、读心指控与两路内斗，48段、78个句内单元；[死伤行动账](books/yishizhizun/reviews/ledger-v04-0273.md)。
 - [第272章复核](books/yishizhizun/reviews/review-v04-0272.md)：识破假设与黄雀推演、陶视角他心通、卫特实抓和飞廉将爆，56段、81个句内单元；[风险行动账](books/yishizhizun/reviews/ledger-v04-0272.md)。
 - [第271章复核](books/yishizhizun/reviews/review-v04-0271.md)：调查团名单、皓月关联可能与叶秘半步、环物定名和撤离风险阈值，52段、78个句内单元；[调查资源账](books/yishizhizun/reviews/ledger-v04-0271.md)。
 - [第270章复核](books/yishizhizun/reviews/review-v04-0270.md)：鹰情报实达、高览北周条件契约实签与韩秘密杀令，79段、109个句内单元；[契约任务账](books/yishizhizun/reviews/ledger-v04-0270.md)。
