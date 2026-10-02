@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷265章
+# 角色阶段索引 · 截至第四卷266章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -328,3 +328,5 @@
 最新[264章复核](../reviews/review-v04-0264.md)：双印交换、云鹤阳神与援手条件、金帐毒手元心入局；[门权传承账](../reviews/ledger-v04-0264.md)、[云鹤阶段卡](yunhe-wanxiang.md)、[两名守卫卡](golden-tent-gate-guards.md)。
 
 最新[265章复核](../reviews/review-v04-0265.md)：青帐极恶试探与元心反制、陆冲试斧实际、投名状未完成；[战果任务账](../reviews/ledger-v04-0265.md)、[极恶阶段卡](jie-e-tianmo.md)、[其弟子](jie-e-disciple.md)、[潜龙飞凤目标卡](qianlong-feifeng-couple.md)、[古尔多与天诛斧](guerduo-tianzhu-axe.md)。
+
+最新[266章复核](../reviews/review-v04-0266.md)：领域限度、极恶肉身损/元神活擒、伪师返回青帐与魂灯不灭；[生擒身份账](../reviews/ledger-v04-0266.md)。

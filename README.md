@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第265章，765 / 1410 个目录条目，约250.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第266章，766 / 1410 个目录条目，约250.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第266章复核](books/yishizhizun/reviews/review-v04-0266.md)：能力限制、极恶活擒与假师返回青帐，48段、58个句内单元；[生擒身份账](books/yishizhizun/reviews/ledger-v04-0266.md)。
 - [第265章复核](books/yishizhizun/reviews/review-v04-0265.md)：青帐极恶试探、陆冲实际试斧与荒野元心反制，89段、132个句内单元；[战果任务账](books/yishizhizun/reviews/ledger-v04-0265.md)。
 - [第264章复核](books/yishizhizun/reviews/review-v04-0264.md)：双印换得、阳神云鹤与援手条件、毒手金帐元心入局，61段、96个句内单元；[门权传承账](books/yishizhizun/reviews/ledger-v04-0264.md)。
 - [第263章复核](books/yishizhizun/reviews/review-v04-0263.md)：元心核情仍留疑、跨界付费问讯与实借实付、神兵任务及放弃新规，53段、101个句内单元；[资金任务账](books/yishizhizun/reviews/ledger-v04-0263.md)。
