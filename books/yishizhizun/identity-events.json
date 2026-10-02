@@ -1,7 +1,91 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0255",
+  "through_chapter": "v04-c0256",
   "events": [
+    {
+      "type": "corridor_same_spot_discovered",
+      "entity": "meng_qi",
+      "reference": "v04-c0256:p0011",
+      "fact_status": "心映确认原地多方式无效"
+    },
+    {
+      "type": "opening_heaven_breaks_corridor_actual",
+      "entity": "meng_qi",
+      "reference": "v04-c0256:p0018",
+      "fact_status": "开天裂虚见玄黄殿"
+    },
+    {
+      "type": "two_grandmasters_explicit",
+      "entity": "yang_xizhi_gu_heng",
+      "reference": "v04-c0256:p0020",
+      "fact_status": "双宗师叙明"
+    },
+    {
+      "type": "gu_first_murder_order_speech",
+      "entity": "gu_heng",
+      "reference": "v04-c0256:p0023",
+      "fact_status": "师令杀孟胜取宝首次木讷实声"
+    },
+    {
+      "type": "true_fantian_domain_and_meng_fatian",
+      "entity": "gu_heng",
+      "reference": "v04-c0256:p0028",
+      "fact_status": "真翻天束孟法天破部分锁"
+    },
+    {
+      "type": "wuhuo_qiqin_fan_confirmed",
+      "entity": "yang_xizhi",
+      "reference": "v04-c0256:p0036",
+      "fact_status": "名与神兵确认非先疑已确"
+    },
+    {
+      "type": "dashen_whip_activated_and_yang_wounded",
+      "entity": "meng_qi",
+      "reference": "v04-c0256:p0038",
+      "fact_status": "真鞭金身定灭焰杨血伤未死"
+    },
+    {
+      "type": "whip_non_deity_limitation",
+      "entity": "dashen_whip",
+      "reference": "v04-c0256:p0039",
+      "fact_status": "无榜对他族普通神兵叙明"
+    },
+    {
+      "type": "shoulder_chest_crushed_robe_damage",
+      "entity": "meng_qi",
+      "reference": "v04-c0256:p0042",
+      "fact_status": "左肩颈胸肉泥玄磁部分碎"
+    },
+    {
+      "type": "earth_magnetic_escape_talisman_consumed",
+      "entity": "meng_qi",
+      "reference": "v04-c0256:p0046",
+      "fact_status": "地磁元光符实烧非破空"
+    },
+    {
+      "type": "yang_pill_and_dead_flesh_collection",
+      "entity": "yang_xizhi",
+      "reference": "v04-c0256:p0048",
+      "fact_status": "未名一丹收败血肉未咒成"
+    },
+    {
+      "type": "wall_recitation_for_future_transformations",
+      "entity": "meng_qi",
+      "reference": "v04-c0256:p0059",
+      "fact_status": "知识助未来非已练全36"
+    },
+    {
+      "type": "mixed_healing_pills_unspecified",
+      "entity": "meng_qi",
+      "reference": "v04-c0256:p0061",
+      "fact_status": "各类各一未名东极续账待核"
+    },
+    {
+      "type": "unknown_shadow_mentions_luya",
+      "entity": "unknown_yuxu_shadow_follower",
+      "reference": "v04-c0256:p0065",
+      "fact_status": "陆压元始镇压是影者话未实名自己"
+    },
     {
       "type": "sun_transformation_duration_estimate",
       "entity": "meng_qi",
