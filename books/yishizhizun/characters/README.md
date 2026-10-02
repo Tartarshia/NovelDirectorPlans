@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷281章
+# 角色阶段索引 · 截至第四卷282章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -360,3 +360,5 @@
 最新[280章复核](../reviews/review-v04-0280.md)：莲握双针换鬼门、主动挑战顾、金帐冥海目标与次日战；[交易战期账](../reviews/ledger-v04-0280.md)、[大满/冥海消息卡](daman-minghai-golden-tent-report.md)。
 
 最新[281章复核](../reviews/review-v04-0281.md)：刀威止追、顾答冥海与内应线索、孟遁离；[无面/藏剑楼嫌疑卡](wumian-cangjian-suspicions.md)、[欢喜菩萨威慑卡](huanxi-bodhisattva-blacklist-deterrence.md)。
+
+最新[282章复核](../reviews/review-v04-0282.md)：孟寄莲向藏剑楼、情报已到叶、正道集中力量部署和陆冲升空；[部署卡](zhengdao-deployment-luda-chonghe.md)、[动作状态账](../reviews/ledger-v04-0282.md)。
