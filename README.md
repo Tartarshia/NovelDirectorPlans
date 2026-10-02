@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第257章，757 / 1410 个目录条目，约247.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第258章，758 / 1410 个目录条目，约247.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第258章复核](books/yishizhizun/reviews/review-v04-0258.md)：元心铃实得、草人真名追踪、虚空无极台空与老母久远自称，68段、89个句内单元；[实物与追踪账](books/yishizhizun/reviews/ledger-v04-0258.md)。
 - [第257章复核](books/yishizhizun/reviews/review-v04-0257.md)：金丹全复与余一、妖桃吞药剩蟠桃留齐、元心殿分身诱敌未得铃，60段、76个句内单元；[丹房账](books/yishizhizun/reviews/ledger-v04-0257.md)。
 - [第256章复核](books/yishizhizun/reviews/review-v04-0256.md)：开天解廊、宗师杀阵与实催鞭重伤耗地磁符、墙诵未来知识及陆压线索，65段、77个句内单元；[耗用与伤药账](books/yishizhizun/reviews/ledger-v04-0256.md)。
 - [第255章复核](books/yishizhizun/reviews/review-v04-0255.md)：突破失败、后土仿旗明名、树牌再感与交鞭单送真入宫、未知尾随，61段、98个句内单元。
