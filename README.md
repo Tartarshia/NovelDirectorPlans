@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第269章，769 / 1410 个目录条目，约251.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第270章，770 / 1410 个目录条目，约251.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第270章复核](books/yishizhizun/reviews/review-v04-0270.md)：鹰情报实达、高览北周条件契约实签与韩秘密杀令，79段、109个句内单元；[契约任务账](books/yishizhizun/reviews/ledger-v04-0270.md)。
 - [第269章复核](books/yishizhizun/reviews/review-v04-0269.md)：曹死接受与杀局来源、送头压盟、韩顾独场杀狼安排及抓奸建议，66段、109个句内单元；[认知物权账](books/yishizhizun/reviews/ledger-v04-0269.md)。
 - [第268章复核](books/yishizhizun/reviews/review-v04-0268.md)：黄帐现场、顾公众圣女形象与高曹政治说法、曹首级震撼，64段、104个句内单元；[现场消息账](books/yishizhizun/reviews/ledger-v04-0268.md)。
 - [第267章复核](books/yishizhizun/reviews/review-v04-0267.md)：有限碎忆、韩广偶遇与七重伪装界限、低层他心通和九道部署，57段、77个句内单元；[材料情报账](books/yishizhizun/reviews/ledger-v04-0267.md)。
