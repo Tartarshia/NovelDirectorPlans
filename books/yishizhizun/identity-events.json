@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0271",
+  "through_chapter": "v04-c0272",
   "events": [
+    {
+      "type": "han_detection_hypothesis_not_confirmed",
+      "entity": "meng_qi",
+      "reference": "v04-c0272:p0001",
+      "fact_status": "先假作韩识破而推演非确认"
+    },
+    {
+      "type": "unknown_follower_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v04-c0272:p0013",
+      "fact_status": "无面/神话可能黄雀未见"
+    },
+    {
+      "type": "taogesi_loyalty_self_assessment",
+      "entity": "tao_ge_si",
+      "reference": "v04-c0272:p0029",
+      "fact_status": "重用报信任的本人心理"
+    },
+    {
+      "type": "feilian_undead_name_revealed",
+      "entity": "fei_lian_undead",
+      "reference": "v04-c0272:p0032",
+      "fact_status": "本章活死人具名不独立半法活人"
+    },
+    {
+      "type": "liuyu_telepathy_to_taogesi",
+      "entity": "liuyu_true_buddha",
+      "reference": "v04-c0272:p0035",
+      "fact_status": "声响心底回应陶暗骂"
+    },
+    {
+      "type": "gu_rank_and_wusheng_taogesi_assessment",
+      "entity": "tao_ge_si",
+      "reference": "v04-c0272:p0041",
+      "fact_status": "顾顶多刚宗师/疑似无生是陶估"
+    },
+    {
+      "type": "weite_investigation_brief",
+      "entity": "tao_ge_si",
+      "reference": "v04-c0272:p0043",
+      "fact_status": "大汗消息族长近期卫特首领据说会员"
+    },
+    {
+      "type": "party_departure_executed",
+      "entity": "investigation_party",
+      "reference": "v04-c0272:p0047",
+      "fact_status": "遁光投卫特已实际离金帐"
+    },
+    {
+      "type": "weite_chief_captured",
+      "entity": "tao_ge_si",
+      "reference": "v04-c0272:p0049",
+      "fact_status": "首领抓交六欲拷問托娅孟协助"
+    },
+    {
+      "type": "gu_finger_gesture_observed",
+      "entity": "gu_xiaosang",
+      "reference": "v04-c0272:p0050",
+      "fact_status": "陶余光见掐诀未揭因果"
+    },
+    {
+      "type": "feilian_eruption_imminent_explosion",
+      "entity": "fei_lian_undead",
+      "reference": "v04-c0272:p0053",
+      "fact_status": "扑邪欲将自爆未爆"
+    },
     {
       "type": "saren_gaowa_jiesha_identity_recalled",
       "entity": "saren_gaowa",
