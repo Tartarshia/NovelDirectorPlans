@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷285章
+# 角色阶段索引 · 截至第四卷286章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -368,3 +368,5 @@
 最新[284章复核](../reviews/review-v04-0284.md)：陆冲古实战、孟留寻援、藏剑双内应；[双叛身份卡](nangong-yu-double-infiltration.md)、[江东妖家卡](jinli-shenruoxuan-demon-family.md)、[动作账](../reviews/ledger-v04-0284.md)。
 
 最新[285章复核](../reviews/review-v04-0285.md)：邱羽死李接楼、孟袖掳统领耗符救稳阵、各路战与醒妖枪；[旁战卡](heqi-simayin-side-battles.md)、[妖王枪卡](taili-awakened-demon-spear.md)、[资源账](../reviews/ledger-v04-0285.md)。
+
+最新[286章复核](../reviews/review-v04-0286.md)：崔陨至戈北返、空闻神掌与高宿敌应激；[崔末战卡](cui-qinghe-last-stand.md)、[空闻舍利卡](kongwen-yuankong-white-tiger.md)、[兰柯救生卡](lanke-fire-intervention.md)。
