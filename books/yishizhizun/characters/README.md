@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷283章
+# 角色阶段索引 · 截至第四卷284章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -364,3 +364,5 @@
 最新[282章复核](../reviews/review-v04-0282.md)：孟寄莲向藏剑楼、情报已到叶、正道集中力量部署和陆冲升空；[部署卡](zhengdao-deployment-luda-chonghe.md)、[动作状态账](../reviews/ledger-v04-0282.md)。
 
 最新[283章复核](../reviews/review-v04-0283.md)：护短拒疑与战像牵援、藏剑主攻；[藏剑人物卡](cangjian-qiu-wansheng-guarding.md)、[愿力战像卡](luo-faith-war-images.md)、[动作账](../reviews/ledger-v04-0283.md)。
+
+最新[284章复核](../reviews/review-v04-0284.md)：陆冲古实战、孟留寻援、藏剑双内应；[双叛身份卡](nangong-yu-double-infiltration.md)、[江东妖家卡](jinli-shenruoxuan-demon-family.md)、[动作账](../reviews/ledger-v04-0284.md)。

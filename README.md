@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第283章，783 / 1410 个目录条目，约256.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第284章，784 / 1410 个目录条目，约256.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第284章复核](books/yishizhizun/reviews/review-v04-0284.md)：陆冲古实战、孟留援、邱重伤与南宫/羽双叛身份，76段、94个句内单元；[动作账](books/yishizhizun/reviews/ledger-v04-0284.md)。
 - [第283章复核](books/yishizhizun/reviews/review-v04-0283.md)：孟到藏剑楼护短拒疑、顾准法身战像牵援、曹引主攻与幽冥阵实启，69段、95个句内单元；[动作账](books/yishizhizun/reviews/ledger-v04-0283.md)。
 - [第282章复核](books/yishizhizun/reviews/review-v04-0282.md)：孟种莲向藏剑楼、情报实际送达与正道集中部署、天明陆冲赴战，62段、92个句内单元；[动作部署账](books/yishizhizun/reviews/ledger-v04-0282.md)。
 - [第281章复核](books/yishizhizun/reviews/review-v04-0281.md)：沾因果威慑止追、顾答冥海和内应嫌疑、孟遁离与顾现场哼唱，99段、172个句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0281.md)。
