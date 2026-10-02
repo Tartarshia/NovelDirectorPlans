@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第279章，779 / 1410 个目录条目，约254.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第280章，780 / 1410 个目录条目，约254.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第280章复核](books/yishizhizun/reviews/review-v04-0280.md)：莲子实持、双针换残破鬼门主材、清心挑战与金帐冥海消息，51段、82个句内单元；[状态条件账](books/yishizhizun/reviews/ledger-v04-0280.md)。
 - [第279章复核](books/yishizhizun/reviews/review-v04-0279.md)：S34左臂复峰直面、顾/玉身份假说、鱼命代价与条件莲约，71段、109个句内单元；[状态条件账](books/yishizhizun/reviews/ledger-v04-0279.md)。
 - [第278章复核](books/yishizhizun/reviews/review-v04-0278.md)：沾因果即报、雏域元磁抵罚、断臂团队丹与顾大能分析，70段、81个句内单元；[因果资源账](books/yishizhizun/reviews/ledger-v04-0278.md)。
 - [第277章复核](books/yishizhizun/reviews/review-v04-0277.md)：托死亡、顾移旁、韩后手实到与一刀斩哭，74段、99个句内单元；[战果资源账](books/yishizhizun/reviews/ledger-v04-0277.md)。
