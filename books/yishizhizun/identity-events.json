@@ -1,7 +1,103 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0250",
+  "through_chapter": "v04-c0251",
   "events": [
+    {
+      "type": "magnetic_motor_command_disruption",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0002",
+      "fact_status": "神痛念令身指令不准"
+    },
+    {
+      "type": "magnetic_beast_change_unavailable",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0008",
+      "fact_status": "宗师后三十六才可当前不能"
+    },
+    {
+      "type": "golden_lotus_mind_stabilized",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0009",
+      "fact_status": "金莲定神念复"
+    },
+    {
+      "type": "kunlun_robe_activation_confirmed",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0011",
+      "fact_status": "本章甲真实可全催修过程未知"
+    },
+    {
+      "type": "first_arrow_white_mark",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0016",
+      "fact_status": "脸中白印非重伤"
+    },
+    {
+      "type": "two_extra_arms_yinyang_conversion",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0028",
+      "fact_status": "印转斥吸小弧冲"
+    },
+    {
+      "type": "missed_blade_splits_peak",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0033",
+      "fact_status": "刀偏敌十丈劈峰不塌"
+    },
+    {
+      "type": "tortoise_projection_destroyed",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0045",
+      "fact_status": "玄龟甲影裂非剑实体毁"
+    },
+    {
+      "type": "mouth_bleeding_actual",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0046",
+      "fact_status": "横退口血真"
+    },
+    {
+      "type": "micro_control_arrow_dodge",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0055",
+      "fact_status": "步准实闪箭"
+    },
+    {
+      "type": "coarse_exterior_micro_control",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0063",
+      "fact_status": "外景级粗微非宗师"
+    },
+    {
+      "type": "half_power_maintenance_cost",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0064",
+      "fact_status": "半力维印非永久损"
+    },
+    {
+      "type": "ranged_light_attack_deflected",
+      "entity": "chixia_daoren",
+      "reference": "v04-c0251:p0068",
+      "fact_status": "磁仍折无量光"
+    },
+    {
+      "type": "double_arrow_acceleration_rain",
+      "entity": "chixia_daoren",
+      "reference": "v04-c0251:p0071",
+      "fact_status": "后撞前速箭雨"
+    },
+    {
+      "type": "kunlun_second_activation",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0072",
+      "fact_status": "再甲真催"
+    },
+    {
+      "type": "blade_trajectory_stabilized",
+      "entity": "meng_qi",
+      "reference": "v04-c0251:p0076",
+      "fact_status": "混阴阳稳轨未命中果"
+    },
     {
       "type": "secret_nails_destroyed",
       "entity": "meng_qi",
