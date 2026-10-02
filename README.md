@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第249章，749 / 1410 个目录条目，约245.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第250章，750 / 1410 个目录条目，约245.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第250章复核](books/yishizhizun/reviews/review-v04-0250.md)：符逃幻与太初实杀、植记掩护、断发诱赤霞元磁初战，80段、110个句内单元。
 - [第249章复核](books/yishizhizun/reviews/review-v04-0249.md)：矩子责任、兼利承谤与朝会翻天印王丹实死，62段、113个句内单元。
 - [第248章复核](books/yishizhizun/reviews/review-v04-0248.md)：实交易用符进入封神、矩子归墓与长期治陈，56段、88个句内单元；[兑换账](books/yishizhizun/reviews/ledger-v04-0248.md)。
 - [第247章复核](books/yishizhizun/reviews/review-v04-0247.md)：条件战局、冲和地仙转报、身份潜入与用符计划，69段、120个句内单元。
