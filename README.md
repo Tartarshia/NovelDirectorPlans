@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第286章，786 / 1410 个目录条目，约257.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第287章，787 / 1410 个目录条目，约257.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第287章复核](books/yishizhizun/reviews/review-v04-0287.md)：王道实介入灭像大满死、韩秘入少林、孟放哈斯接刀与苏出关，75段、84个句内单元；[动作账](books/yishizhizun/reviews/ledger-v04-0287.md)。
 - [第286章复核](books/yishizhizun/reviews/review-v04-0286.md)：崔陨至戈北返、兰柯实灭火、空闻伤虎与高宿敌剑玺应激，65段、68个句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0286.md)。
 - [第285章复核](books/yishizhizun/reviews/review-v04-0285.md)：邱羽死李接楼、孟袖掳哈斯耗破空符，各路实战与醒妖圣枪，129段、150个句内单元；[资源账](books/yishizhizun/reviews/ledger-v04-0285.md)。
 - [第284章复核](books/yishizhizun/reviews/review-v04-0284.md)：陆冲古实战、孟留援、邱重伤与南宫/羽双叛身份，76段、94个句内单元；[动作账](books/yishizhizun/reviews/ledger-v04-0284.md)。
