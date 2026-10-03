@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷310章
+# 角色阶段索引 · 截至第四卷311章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -418,3 +418,5 @@
 最新[309章复核](../reviews/review-v04-0309.md)：[陈钊](chen-zhao-far-north.md)与[刘泽君](liu-zejun-far-north.md)、冰峡切磋与求援中断；[状态账](../reviews/ledger-v04-0309.md)。
 
 最新[310章复核](../reviews/review-v04-0310.md)：叶寒光神兵、幽冥真身扩域、[明曾求援](mingfa-zengruoxuan-ice-lake.md)与[匿名断臂武士](golden-tent-frozen-arm-warrior.md)；[状态账](../reviews/ledger-v04-0310.md)。
+
+最新[311章复核](../reviews/review-v04-0311.md)：[鉴心旧宫缘](ice-palace-heart-road.md)、[黄泉骸真法](huangquan-remains-method.md)、[幻汤婆](old-woman-forgetting-soup-vision.md)与[历代爪主残景](hentian-xietianshu-residual-scenes.md)；[状态账](../reviews/ledger-v04-0311.md)。
