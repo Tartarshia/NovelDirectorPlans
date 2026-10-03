@@ -1,7 +1,79 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0309",
+  "through_chapter": "v04-c0310",
   "events": [
+    {
+      "type": "mingfa_zengruoxuan_surrounded_sent_signal",
+      "entity": "mingfa_zengruoxuan",
+      "reference": "v04-c0310:p0003",
+      "fact_status": "五敌围二已求援未死亡"
+    },
+    {
+      "type": "sun_bow_on_haswula_person",
+      "entity": "haswula",
+      "reference": "v04-c0310:p0005",
+      "fact_status": "个人带弓明确先未示"
+    },
+    {
+      "type": "ye_ice_divine_sword_fast_aid",
+      "entity": "ye_yuqi",
+      "reference": "v04-c0310:p0012",
+      "fact_status": "寒光剑神兵明述13实际催速"
+    },
+    {
+      "type": "youming_life_death_pens_intervene",
+      "entity": "coffin_dijun_unnamed",
+      "reference": "v04-c0310:p0024",
+      "fact_status": "实双笔阻寒光"
+    },
+    {
+      "type": "unnamed_warrior_frozen_arm_removed",
+      "entity": "golden_tent_warrior_unnamed",
+      "reference": "v04-c0310:p0033",
+      "fact_status": "自断冻肩臂未死非哈"
+    },
+    {
+      "type": "youming_half_body_revealed",
+      "entity": "coffin_dijun_unnamed",
+      "reference": "v04-c0310:p0046",
+      "fact_status": "半法身真身明述神兵构成感非literal"
+    },
+    {
+      "type": "chen_liu_follow_meng_confirmed",
+      "entity": "chen_zhao",
+      "reference": "v04-c0310:p0053",
+      "fact_status": "带刘实际跟来非仍意愿"
+    },
+    {
+      "type": "youming_unknown_object_crushed",
+      "entity": "coffin_dijun_unnamed",
+      "reference": "v04-c0310:p0055",
+      "fact_status": "暗碎未知物启动秘域"
+    },
+    {
+      "type": "huangquan_bone_demonic_qi_unplanned_expansion",
+      "entity": "coffin_dijun_unnamed",
+      "reference": "v04-c0310:p0058",
+      "fact_status": "骨勾气千里超预期"
+    },
+    {
+      "type": "meng_enveloped_despite_safe_stop",
+      "entity": "meng_qi",
+      "reference": "v04-c0310:p0059",
+      "fact_status": "原安全距被事故域包未死"
+    },
+    {
+      "type": "peak_sigh_in_meng_vision",
+      "entity": "peak_sigh_voice_unnamed",
+      "reference": "v04-c0310:p0061",
+      "fact_status": "听坐化语真幻身份未证"
+    },
+    {
+      "type": "chen_ice_palace_ward_similarity_question",
+      "entity": "chen_zhao",
+      "reference": "v04-c0310:p0062",
+      "fact_status": "传音疑似对比未同源/破域"
+    },
     {
       "type": "chen_zhao_age_and_master_progress",
       "entity": "chen_zhao",
