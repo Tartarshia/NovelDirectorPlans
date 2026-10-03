@@ -1,7 +1,115 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0337",
+  "through_chapter": "v04-c0338",
   "events": [
+    {
+      "type": "switchboard_female_identity",
+      "entity": "annan_prison_switchboard_unnamed",
+      "reference": "v04-c0338:p0001",
+      "fact_status": "承337接线女性手续说明"
+    },
+    {
+      "type": "switchboard_name_zhu_lin",
+      "entity": "annan_prison_switchboard_unnamed",
+      "reference": "v04-c0338:p0008",
+      "fact_status": "朱琳新名稳定ID，后朱莉疑字"
+    },
+    {
+      "type": "operator_opens_three_defenses",
+      "entity": "annan_prison_control_operator_unnamed",
+      "reference": "v04-c0338:p0008",
+      "fact_status": "验身份开防"
+    },
+    {
+      "type": "operator_replays_without_leader_signature",
+      "entity": "annan_prison_control_operator_unnamed",
+      "reference": "v04-c0338:p0015",
+      "fact_status": "实际破规回放"
+    },
+    {
+      "type": "staff_pair_unconscious_not_dead",
+      "entity": "prison_control_staff_pair",
+      "reference": "v04-c0338:p0030",
+      "fact_status": "两人叫不出倒昏非死"
+    },
+    {
+      "type": "yuanshin_seal_influences_zhu_lin",
+      "entity": "meng_qi",
+      "reference": "v04-c0338:p0033",
+      "fact_status": "元心印影响骗开中枢明述"
+    },
+    {
+      "type": "mismatched_surveillance_angle",
+      "entity": "meng_qi",
+      "reference": "v04-c0338:p0040",
+      "fact_status": "小半角度疑人为"
+    },
+    {
+      "type": "eighth_cell_location_actual",
+      "entity": "meng_qi",
+      "reference": "v04-c0338:p0042",
+      "fact_status": "到第八外"
+    },
+    {
+      "type": "anti_spirit_defense_limits_meng",
+      "entity": "meng_qi",
+      "reference": "v04-c0338:p0045",
+      "fact_status": "超限可伤魂离体需附身"
+    },
+    {
+      "type": "electric_body_and_regional_blackout",
+      "entity": "meng_qi",
+      "reference": "v04-c0338:p0047",
+      "fact_status": "安南夏南断电凝躯"
+    },
+    {
+      "type": "electric_body_blocks_phone_travel",
+      "entity": "meng_qi",
+      "reference": "v04-c0338:p0048",
+      "fact_status": "暂肉身代价"
+    },
+    {
+      "type": "ten_zhang_giant_punch",
+      "entity": "meng_qi",
+      "reference": "v04-c0338:p0051",
+      "fact_status": "撞磁反应装"
+    },
+    {
+      "type": "eighth_cell_guards_vaporized",
+      "entity": "annan_eighth_cell_guards_unnamed",
+      "reference": "v04-c0338:p0055",
+      "fact_status": "明确死亡"
+    },
+    {
+      "type": "company_members_dead_device_destroyed",
+      "entity": "cangqiong_company_core_group_unnamed",
+      "reference": "v04-c0338:p0056",
+      "fact_status": "焦尸半重组装再毁"
+    },
+    {
+      "type": "fragment_visible_not_collected",
+      "entity": "meng_qi",
+      "reference": "v04-c0338:p0057",
+      "fact_status": "漂浮原片"
+    },
+    {
+      "type": "chaos_corpse_vision",
+      "entity": "chaos_giant_corpse_unnamed",
+      "reference": "v04-c0338:p0060",
+      "fact_status": "半透体内似宇宙身份未知"
+    },
+    {
+      "type": "world_derivation_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v04-c0338:p0061",
+      "fact_status": "是否黑山界由体衍猜"
+    },
+    {
+      "type": "giant_corpse_eyes_open",
+      "entity": "chaos_giant_corpse_unnamed",
+      "reference": "v04-c0338:p0062",
+      "fact_status": "章尾睁眼实际异常"
+    },
     {
       "type": "curse_progression_four_survivors_hypothesis",
       "entity": "qin_shi_team",
