@@ -1,7 +1,127 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0331",
+  "through_chapter": "v04-c0332",
   "events": [
+    {
+      "type": "yuseng_actual_current_branch_arrival",
+      "entity": "yuseng",
+      "reference": "v04-c0332:p0002",
+      "fact_status": "步莲到场"
+    },
+    {
+      "type": "qi_contact_not_physical_battle",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0011",
+      "fact_status": "气机异象非胜负新法身"
+    },
+    {
+      "type": "foreknowledge_misinterpretation",
+      "entity": "cangtian_left_envoy",
+      "reference": "v04-c0332:p0016",
+      "fact_status": "孙推神魔前知非证"
+    },
+    {
+      "type": "former_sect_master_persona_claim",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0019",
+      "fact_status": "昔败黑山突破为身份话术"
+    },
+    {
+      "type": "forty_nine_day_sealing_proposal",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0021",
+      "fact_status": "暂堵报告后续49日仪式未完"
+    },
+    {
+      "type": "dizang_handwritten_relic_background",
+      "entity": "yuseng",
+      "reference": "v04-c0332:p0031",
+      "fact_status": "镇宝菩萨手书非菩萨到场"
+    },
+    {
+      "type": "sutra_content_only_request",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0035",
+      "fact_status": "助亲长求抄非原本"
+    },
+    {
+      "type": "unconditional_compassionate_permission",
+      "entity": "yuseng",
+      "reference": "v04-c0332:p0041",
+      "fact_status": "慈愿允看先无索价"
+    },
+    {
+      "type": "voluntary_causal_exchange_request",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0044",
+      "fact_status": "自愿避免亲长空受因果"
+    },
+    {
+      "type": "incomplete_fist_exchange_request",
+      "entity": "yuseng",
+      "reference": "v04-c0332:p0046",
+      "fact_status": "求补本寺残拳"
+    },
+    {
+      "type": "promise_to_complete_fist_not_delivered",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0047",
+      "fact_status": "承诺未履少林未正式许可"
+    },
+    {
+      "type": "sutra_opened_without_oath",
+      "entity": "yuseng",
+      "reference": "v04-c0332:p0051",
+      "fact_status": "翻页供看不禁众"
+    },
+    {
+      "type": "sutra_text_actually_memorized",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0052",
+      "fact_status": "内容实际记牢原本未拿"
+    },
+    {
+      "type": "past_branch_death_retelling",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0058",
+      "fact_status": "公开旧支非本局新杀冲"
+    },
+    {
+      "type": "left_envoy_absent_branch_memory",
+      "entity": "cangtian_left_envoy",
+      "reference": "v04-c0332:p0061",
+      "fact_status": "茫然恐惧未恢复旧记忆"
+    },
+    {
+      "type": "du_grief_disbelief",
+      "entity": "white_youth_follower_girl_unnamed",
+      "reference": "v04-c0332:p0064",
+      "fact_status": "拒信未知现代冲活"
+    },
+    {
+      "type": "yuseng_doubts_body_time_reversal",
+      "entity": "yuseng",
+      "reference": "v04-c0332:p0066",
+      "fact_status": "法身不能倒时的见解"
+    },
+    {
+      "type": "prior_branch_information_explanation",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0067",
+      "fact_status": "解释知道愚会来携经"
+    },
+    {
+      "type": "huangtian_memory_immunity_cover",
+      "entity": "meng_qi",
+      "reference": "v04-c0332:p0069",
+      "fact_status": "伪身份说法非真正功法原因"
+    },
+    {
+      "type": "observer_disbelief_remains",
+      "entity": "lanruo_observer_group",
+      "reference": "v04-c0332:p0071",
+      "fact_status": "来源尚未公开众未全信"
+    },
     {
       "type": "meng_spirit_returns_lanruo_body",
       "entity": "meng_qi",
