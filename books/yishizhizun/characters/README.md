@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷338章
+# 角色阶段索引 · 截至第四卷339章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -474,3 +474,5 @@
 最新[337章复核](../reviews/review-v04-0337.md)：[安南因果定位](annan-prison-causal-search.md)、[董实交范围及反制](mitian-dong-yuan-video-call.md)、[冲分头默经平情](white-sword-youth-blood-banner.md)、[鬼字请愚待救](qin-shuanglian-shi-tiangao-new-team.md)；[状态账](../reviews/ledger-v04-0337.md)。
 
 最新[338章复核](../reviews/review-v04-0338.md)：[朱琳与监控员](zhu-lin-prison-control-staff.md)、[第八牢房与电躯强攻](annan-prison-causal-search.md)、[片实见巨尸](cangqiong-fragment-world-access.md)；[状态账](../reviews/ledger-v04-0338.md)。
+
+最新[339章复核](../reviews/review-v04-0339.md)：[七杀巨尸与时线对照](qisha-corpse-local-timeline.md)、[梁少年被杀](cangtian-sect-original-lord.md)、[孙宗主新身份](cangtian-left-right-ziyuemen.md)、[碑到敌手](heishan-qisha-blood-mark-reports.md)；[状态账](../reviews/ledger-v04-0339.md)。
