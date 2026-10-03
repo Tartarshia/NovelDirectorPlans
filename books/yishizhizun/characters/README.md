@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷327章
+# 角色阶段索引 · 截至第四卷328章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -452,3 +452,5 @@
 最新[326章复核](../reviews/review-v04-0326.md)：[吴游铭重组](nangong-uncle-cangqiong-company.md)、[公司前台保全](cangqiong-reception-security-reassembly.md)、[真女帝](lanruo-three-masters-heishan-reports.md)、[电磁与元心](metal-pod-forum-man.md)；[状态账](../reviews/ledger-v04-0326.md)。
 
 最新[327章复核](../reviews/review-v04-0327.md)：[碎片与真实穿界口供](cangqiong-fragment-world-access.md)、[吴自知已死](nangong-uncle-cangqiong-company.md)、[女帝火焰身与外墙战](lanruo-three-masters-heishan-reports.md)、[摄录分来源](metal-pod-forum-man.md)；[状态账](../reviews/ledger-v04-0327.md)。
+
+最新[328章复核](../reviews/review-v04-0328.md)：[张东海观片误读](zhang-donghai-news-intern.md)、[黑白公关与删片渠道](blackwhite-pr-deletion-channels.md)、[论坛真假论争](forum-advice-savegame-reports.md)、[孟实发与亲见计划](meng-qi.md)；[状态账](../reviews/ledger-v04-0328.md)。

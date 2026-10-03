@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第327章，827 / 1410 个目录条目，约270.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第328章，828 / 1410 个目录条目，约270.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第328章复核](books/yishizhizun/reviews/review-v04-0328.md)：公关实发、张东海观片误读、删除与新闻公司计划，73段、124句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0328.md)。
 - [第327章复核](books/yishizhizun/reviews/review-v04-0327.md)：外墙电火脱逃、吴述碎片与三问、影像待公布，80段、128句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0327.md)。
 - [第326章复核](books/yishizhizun/reviews/review-v04-0326.md)：公司遮查、吴游铭拆解重组与真女帝遭遇撤层，87段、125句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0326.md)。
 - [第325章复核](books/yishizhizun/reviews/review-v04-0325.md)：七杀转述线索、抄经方案、三日限制与公司楼前，66段、104句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0325.md)。
