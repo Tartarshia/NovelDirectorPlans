@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷325章
+# 角色阶段索引 · 截至第四卷326章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -448,3 +448,5 @@
 最新[324章复核](../reviews/review-v04-0324.md)：[孟设备读档与发帖](meng-qi.md)、[舱与冲求救](metal-pod-forum-man.md)、[夏南新闻报警警方](xianan-news-police-help.md)、[多支河新线索](tavern-repeated-scene.md)；[状态账](../reviews/ledger-v04-0324.md)。
 
 最新[325章复核](../reviews/review-v04-0325.md)：[七杀和攻略口供](forum-advice-savegame-reports.md)、[摩柯抄经师缘](dizang-sutra-master-hope.md)、[电体三日](metal-pod-forum-man.md)、[舅视频与公司门前](nangong-uncle-cangqiong-company.md)；[状态账](../reviews/ledger-v04-0325.md)。
+
+最新[326章复核](../reviews/review-v04-0326.md)：[吴游铭重组](nangong-uncle-cangqiong-company.md)、[公司前台保全](cangqiong-reception-security-reassembly.md)、[真女帝](lanruo-three-masters-heishan-reports.md)、[电磁与元心](metal-pod-forum-man.md)；[状态账](../reviews/ledger-v04-0326.md)。
