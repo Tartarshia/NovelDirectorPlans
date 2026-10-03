@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷299章
+# 角色阶段索引 · 截至第四卷300章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -396,3 +396,5 @@
 最新[298章复核](../reviews/review-v04-0298.md)：断右掌与武道之心、十招中止；[状态账](../reviews/ledger-v04-0298.md)。斩玉来源已回查217兑换，纠正288待核误项。
 
 最新[299章复核](../reviews/review-v04-0299.md)：道心自省与流罗来访、果名疑及截信；[流罗](liuluo-current-inquiry.md)、[建木果名](jianmu-and-unnamed-fruit.md)、[状态账](../reviews/ledger-v04-0299.md)。
+
+最新[300章复核](../reviews/review-v04-0300.md)：短期道心漫游、[海上道士](unknown-blue-robe-daoist.md)与[金帐邪伙](golden-tent-unnamed-cult.md)；[状态账](../reviews/ledger-v04-0300.md)。
