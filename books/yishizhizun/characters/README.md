@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷341章
+# 角色阶段索引 · 截至第四卷342章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -480,3 +480,5 @@
 最新[340章复核](../reviews/review-v04-0340.md)：[黑袍青年新形态](heishan-black-robed-youth.md)、[旧黑元神崩](heishan-qisha-blood-mark-reports.md)、[分身拿碑与巨尸站起](qisha-corpse-local-timeline.md)、[孟戏名与假境界](meng-qi.md)；[状态账](../reviews/ledger-v04-0340.md)。
 
 最新[341章复核](../reviews/review-v04-0341.md)：[奖励与余额账](merit-ledger-three-skills-task.md)、[六道鉴碑](six-daos-weapon-task-rules.md)、[江第二梯](jiang-zhiwei.md)、[阮四圆](ruan-yushu.md)、[赵近境](zhao-heng.md)、[秦队祸解](qin-shuanglian-shi-tiangao-new-team.md)；[状态账](../reviews/ledger-v04-0341.md)。
+
+最新[342章复核](../reviews/review-v04-0342.md)：[碑现档与风险](qisha-corpse-local-timeline.md)、[22500账差](merit-ledger-three-skills-task.md)、[树术与队名准备](reincarnation-tree-secret-and-team-prep.md)、[江](jiang-zhiwei.md)/[阮](ruan-yushu.md)/[赵](zhao-heng.md)兑换；[状态账](../reviews/ledger-v04-0342.md)。

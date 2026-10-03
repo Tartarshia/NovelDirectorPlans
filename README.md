@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第341章，841 / 1410 个目录条目，约274.9万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第342章，842 / 1410 个目录条目，约275.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第342章复核](books/yishizhizun/reviews/review-v04-0342.md)：审慎用碑、回溯限制与队伍筹备，54段、79句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0342.md)。
 - [第341章复核](books/yishizhizun/reviews/review-v04-0341.md)：任务兑现、队友成长与七杀碑鉴定，83段、115句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0341.md)。
 - [第340章复核](books/yishizhizun/reviews/review-v04-0340.md)：破心防斩旧黑、分身得碑与黑袍青年，71段、90句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0340.md)。
 - [第339章复核](books/yishizhizun/reviews/review-v04-0339.md)：七杀碑现世、模拟克敌与局部时线改写，100段、120句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0339.md)。
