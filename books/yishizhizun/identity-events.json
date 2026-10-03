@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0306",
+  "through_chapter": "v04-c0307",
   "events": [
+    {
+      "type": "north_search_party_gathered",
+      "entity": "ye_yuqi",
+      "reference": "v04-c0307:p0010",
+      "fact_status": "叶外13宗师含孟，非所有宗师"
+    },
+    {
+      "type": "sword_token_hidden_scripture",
+      "entity": "he_xiu",
+      "reference": "v04-c0307:p0014",
+      "fact_status": "部分无名剑经令内藏叙述明确"
+    },
+    {
+      "type": "meng_reports_no_zhanyinguo_for_gao",
+      "entity": "meng_qi",
+      "reference": "v04-c0307:p0023",
+      "fact_status": "口解释未用，306已有动作证不新耗"
+    },
+    {
+      "type": "he_xiu_receives_sword_token",
+      "entity": "he_xiu",
+      "reference": "v04-c0307:p0031",
+      "fact_status": "实收孟不再持令"
+    },
+    {
+      "type": "sword_manor_aid_promise",
+      "entity": "he_xiu",
+      "reference": "v04-c0307:p0033",
+      "fact_status": "代表宗门承诺未实际援"
+    },
+    {
+      "type": "meng_receives_contact_rescue_items",
+      "entity": "meng_qi",
+      "reference": "v04-c0307:p0042",
+      "fact_status": "实馈名称数量未知"
+    },
+    {
+      "type": "meng_solo_search_approved",
+      "entity": "meng_qi",
+      "reference": "v04-c0307:p0046",
+      "fact_status": "叶允47分林行动未会敵"
+    },
+    {
+      "type": "haswula_wounds_healed",
+      "entity": "haswula",
+      "reference": "v04-c0307:p0049",
+      "fact_status": "叙述伤愈，左臂再生未给"
+    },
+    {
+      "type": "coffin_dijun_fresh_body_demand",
+      "entity": "coffin_dijun_unnamed",
+      "reference": "v04-c0307:p0054",
+      "fact_status": "敌私下合作目的未捕祭成功孟未知"
+    },
     {
       "type": "gao_hidden_disease_inner_confirmation",
       "entity": "gao_qianyuan",

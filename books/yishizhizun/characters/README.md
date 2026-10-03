@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷306章
+# 角色阶段索引 · 截至第四卷307章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -410,3 +410,5 @@
 最新[305章复核](../reviews/review-v04-0305.md)：[大自在](six-paths-heaven-demon.md)与[齐正言](qi-zhengyan.md)幕后、[水祖送盒称谓](water-ancestor-messenger.md)、[兰惊天死亡](lan-jingtian-golden-tent.md)；[状态账](../reviews/ledger-v04-0305.md)。
 
 最新[306章复核](../reviews/review-v04-0306.md)：[高乾元死亡](gao-qianyuan-golden-tent.md)、战养心刀与[哈斯冰原纸讯](haswula-speed-arm-loss.md)；[状态账](../reviews/ledger-v04-0306.md)。
+
+最新[307章复核](../reviews/review-v04-0307.md)：[何休接令](he-xiu-sword-token.md)、[北地搜敌群](north-forest-search-party.md)、哈斯伤愈与[棺中帝君](coffin-dijun-forest.md)；[状态账](../reviews/ledger-v04-0307.md)。
