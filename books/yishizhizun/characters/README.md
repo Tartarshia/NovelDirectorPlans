@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷289章
+# 角色阶段索引 · 截至第四卷290章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -376,3 +376,5 @@
 最新[288章复核](../reviews/review-v04-0288.md)：孟新刀双耗哈斯逃、白虎死与曹蜕爆、冲燃身守正；[哈斯单战卡](haswula-speed-arm-loss.md)、[冲任务旧疑卡](chonghe-death-task-and-ziyun.md)、[伤耗账](../reviews/ledger-v04-0288.md)。
 
 最新[289章复核](../reviews/review-v04-0289.md)：苏成法身跨场剑斩蒙南，斧救古陆追；[蒙南死亡卡](mengnan-asura-death.md)、[法王逃离与判断卡](dushi-fawang-su-wuming-retreat.md)、[战果账](../reviews/ledger-v04-0289.md)。
+
+最新[290章复核](../reviews/review-v04-0290.md)：古毁身余灵投珠、苏陆约剑与韩破塔妖逃；[古残灵卡](guerduo-shensui-spirit-choice.md)、[韩佛法桥卡](han-guang-buddhist-bridge.md)、[状态账](../reviews/ledger-v04-0290.md)。
