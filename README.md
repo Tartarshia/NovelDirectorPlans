@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第314章，814 / 1410 个目录条目，约266.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第315章，815 / 1410 个目录条目，约266.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第315章复核](books/yishizhizun/reviews/review-v04-0315.md)：真假诱箭重伤胜、哈败亡弓遁与八重成长，79段、90句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0315.md)。
 - [第314章复核](books/yishizhizun/reviews/review-v04-0314.md)：断锁避箭、念恩快攻与一死一袖俘迎箭，69段、75句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0314.md)。
 - [第313章复核](books/yishizhizun/reviews/review-v04-0313.md)：古棺触空与霸王因果推理、明法伤俘和射日锁孟，99段、113句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0313.md)。
 - [第312章复核](books/yishizhizun/reviews/review-v04-0312.md)：天魔遗言、鱼假说与各组峰口古棺，50段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0312.md)。
