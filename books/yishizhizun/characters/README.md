@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷301章
+# 角色阶段索引 · 截至第四卷302章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -400,3 +400,5 @@
 最新[300章复核](../reviews/review-v04-0300.md)：短期道心漫游、[海上道士](unknown-blue-robe-daoist.md)与[金帐邪伙](golden-tent-unnamed-cult.md)；[状态账](../reviews/ledger-v04-0300.md)。
 
 最新[301章复核](../reviews/review-v04-0301.md)：[莫师三徒](mo-shaotian-and-disciples.md)、[兰惊天](lan-jingtian-golden-tent.md)、[高乾元](gao-qianyuan-golden-tent.md)；[状态账](../reviews/ledger-v04-0301.md)。
+
+最新[302章复核](../reviews/review-v04-0302.md)：护送三徒与驱羊探路；[魔土古孙线索](golden-tent-demon-soil.md)、[状态账](../reviews/ledger-v04-0302.md)。

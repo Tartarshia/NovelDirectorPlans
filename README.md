@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第301章，801 / 1410 个目录条目，约262.1万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第302章，802 / 1410 个目录条目，约262.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第302章复核](books/yishizhizun/reviews/review-v04-0302.md)：断气机护三徒、兰高探魔土与临界尾随，49段、57句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0302.md)。
 - [第301章复核](books/yishizhizun/reviews/review-v04-0301.md)：莫师遇袭口报、戊己逼兰与大日显高，54段、80句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0301.md)。
 - [第300章复核](books/yishizhizun/reviews/review-v04-0300.md)：漫游短期道心、青怪道与海眼及草原异事，55段、67句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0300.md)。
 - [第299章复核](books/yishizhizun/reviews/review-v04-0299.md)：道心自省、流罗来访与果名疑及截信指控，62段、99句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0299.md)。
