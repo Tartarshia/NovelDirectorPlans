@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷333章
+# 角色阶段索引 · 截至第四卷334章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -464,3 +464,5 @@
 最新[332章复核](../reviews/review-v04-0332.md)：[愚僧慈愿与警觉](yuseng-lanruo-arrival.md)、[经内容已得、补拳待履](dizang-sutra-master-hope.md)、[孟公开伪身份解释](meng-qi.md)、[孙无旧支记忆](cangtian-left-right-ziyuemen.md)；[状态账](../reviews/ledger-v04-0332.md)。
 
 最新[333章复核](../reviews/review-v04-0333.md)：[元神核验跨界卡](lanruo-spirit-verification-modern.md)、[燕实到与宁怪梦](yan-chixia-ning-caichen-lanruo.md)、[杜初外景留界与现代冲](white-sword-youth-blood-banner.md)、[愚谨慎实访](yuseng-lanruo-arrival.md)；[状态账](../reviews/ledger-v04-0333.md)。
+
+最新[334章复核](../reviews/review-v04-0334.md)：[秦史新轮回小队](qin-shuanglian-shi-tiangao-new-team.md)、[燕愚回归核实](lanruo-spirit-verification-modern.md)、[本界天师实体](lanruo-three-masters-heishan-reports.md)、[杜留界与冲梦](white-sword-youth-blood-banner.md)；[状态账](../reviews/ledger-v04-0334.md)。
