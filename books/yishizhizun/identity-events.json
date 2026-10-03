@@ -1,7 +1,79 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0316",
+  "through_chapter": "v04-c0317",
   "events": [
+    {
+      "type": "meng_biyoutian_arrival",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0004",
+      "fact_status": "已到玉柱"
+    },
+    {
+      "type": "meng_old_items_sold_109500",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0016",
+      "fact_status": "实际售物总非价值报价"
+    },
+    {
+      "type": "meng_credit_5000_budget_repayment",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0028",
+      "fact_status": "21还款意及自由预算合算5000已扣"
+    },
+    {
+      "type": "meng_new_escape_talisman_healing_elixir",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0036",
+      "fact_status": "两次古符黑帝丹已兑未用"
+    },
+    {
+      "type": "meng_third_skill_40000_paid",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0044",
+      "fact_status": "末式挪预留真付非三招都得"
+    },
+    {
+      "type": "seven_kills_stele_special_task_accepted",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0046",
+      "fact_status": "2月失败两成未完成"
+    },
+    {
+      "type": "meng_healing_zhanyu_repair_4000",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0047",
+      "fact_status": "真实选择支付治疗修刀合4000"
+    },
+    {
+      "type": "delayed_ranking_sumeng_eighteenth",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0070",
+      "fact_status": "榜评大宗师非新真实阶"
+    },
+    {
+      "type": "assassinate_sumeng_request_to_unnamed_lord",
+      "entity": "assassination_lord_unnamed",
+      "reference": "v04-c0317:p0081",
+      "fact_status": "报委托未明雇主与接受"
+    },
+    {
+      "type": "meng_three_months_retreat_finishes",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0083",
+      "fact_status": "3月余结束未逐招熟练证"
+    },
+    {
+      "type": "lanruo_black_mountain_main_task_starts",
+      "entity": "meng_qi",
+      "reference": "v04-c0317:p0085",
+      "fact_status": "3月真身根脚除尽奖4000未成"
+    },
+    {
+      "type": "other_team_leader_warns_interteam_risk",
+      "entity": "other_reincarnation_team_leader_unnamed",
+      "reference": "v04-c0317:p0090",
+      "fact_status": "另一队前次死旧史未见孟"
+    },
     {
       "type": "meng_eight_heavens_partial_triad_fusion",
       "entity": "meng_qi",

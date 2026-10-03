@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷316章
+# 角色阶段索引 · 截至第四卷317章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -430,3 +430,5 @@
 最新[315章复核](../reviews/review-v04-0315.md)：[孟八重成长](meng-qi-eight-heavens-turn.md)、[射日箭与弓遁](sunbow-arrow-tactics.md)、[哈败亡](haswula-speed-arm-loss.md)和[袖俘死亡](golden-tent-sleeve-captive.md)；[状态账](../reviews/ledger-v04-0315.md)。
 
 最新[316章复核](../reviews/review-v04-0316.md)：[战后药伤与取物](post-battle-recovery-loot.md)、[孟八重](meng-qi-eight-heavens-turn.md)、[棺机制推论](black-pine-bronze-coffin.md)、[何血脉](he-xiu-sword-token.md)；[状态账](../reviews/ledger-v04-0316.md)。
+
+最新[317章复核](../reviews/review-v04-0317.md)：[善功双任务](merit-ledger-three-skills-task.md)、[楼主委托](unnamed-lord-assassination-request.md)、[新队领队](other-reincarnation-team-leader.md)、[孟](meng-qi.md)/[吴](wu-jizhen-sunu-lead.md)；[状态账](../reviews/ledger-v04-0317.md)。
