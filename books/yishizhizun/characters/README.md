@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷313章
+# 角色阶段索引 · 截至第四卷314章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -424,3 +424,5 @@
 最新[312章复核](../reviews/review-v04-0312.md)：[吴杨爪主残景](wu-daoming-yang-tongtian-residual-scenes.md)、[黑松古棺](black-pine-bronze-coffin.md)及[鉴心路更新](ice-palace-heart-road.md)；[状态账](../reviews/ledger-v04-0312.md)。
 
 最新[313章复核](../reviews/review-v04-0313.md)：[古棺更新](black-pine-bronze-coffin.md)、[霸王因果推理](bawang-blade-coffin-inference.md)、[冰雪仙尊残留](ice-snow-immortal-residue.md)、[明曾伤围](mingfa-zengruoxuan-ice-lake.md)与[哈射日](haswula-speed-arm-loss.md)；[状态账](../reviews/ledger-v04-0313.md)。
+
+最新[314章复核](../reviews/review-v04-0314.md)：[射日战术](sunbow-arrow-tactics.md)、[铜棍宗死](golden-tent-vajra-staff-warrior.md)、[袖俘迎箭](golden-tent-sleeve-captive.md)及[孟](meng-qi.md)/[哈](haswula-speed-arm-loss.md)；[状态账](../reviews/ledger-v04-0314.md)。
