@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第318章，818 / 1410 个目录条目，约267.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第319章，819 / 1410 个目录条目，约267.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第319章复核](books/yishizhizun/reviews/review-v04-0319.md)：查幻梦、冲杜孙定名与兰若寺燕宁初会，53段、83句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0319.md)。
 - [第318章复核](books/yishizhizun/reviews/review-v04-0318.md)：苍天宗主伪装、黑山口供与酒楼重复未解，77段、113句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0318.md)。
 - [第317章复核](books/yishizhizun/reviews/review-v04-0317.md)：仙迹整备善功核账、神技双任务与榜刺旁线，91段、118句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0317.md)。
 - [第316章复核](books/yishizhizun/reviews/review-v04-0316.md)：药伤取物、无损离域与同路异见时空推论，71段、108句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0316.md)。

@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷318章
+# 角色阶段索引 · 截至第四卷319章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -434,3 +434,5 @@
 最新[317章复核](../reviews/review-v04-0317.md)：[善功双任务](merit-ledger-three-skills-task.md)、[楼主委托](unnamed-lord-assassination-request.md)、[新队领队](other-reincarnation-team-leader.md)、[孟](meng-qi.md)/[吴](wu-jizhen-sunu-lead.md)；[状态账](../reviews/ledger-v04-0317.md)。
 
 最新[318章复核](../reviews/review-v04-0318.md)：[真苍天宗主](cangtian-sect-original-lord.md)、[左右使紫月](cangtian-left-right-ziyuemen.md)、[本地强者口供](lanruo-three-masters-heishan-reports.md)、[白侠少女](white-sword-youth-blood-banner.md)与[酒楼重现](tavern-repeated-scene.md)；[状态账](../reviews/ledger-v04-0318.md)。
+
+最新[319章复核](../reviews/review-v04-0319.md)：[南宫冲杜青青定名](white-sword-youth-blood-banner.md)、[左使孙俊林](cangtian-left-right-ziyuemen.md)、[燕赤霞宁采臣初会](yan-chixia-ning-caichen-lanruo.md)、[寺鬼口供](lanruo-ghost-history-reports.md)、[异常检验](tavern-repeated-scene.md)；[状态账](../reviews/ledger-v04-0319.md)。
