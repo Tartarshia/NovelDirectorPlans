@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第336章，836 / 1410 个目录条目，约273.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第337章，837 / 1410 个目录条目，约273.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第337章复核](books/yishizhizun/reviews/review-v04-0337.md)：搜索信息落实、独立分工与安南定位，49段、66句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0337.md)。
 - [第336章复核](books/yishizhizun/reviews/review-v04-0336.md)：实际附冲、校园学武激励与宗师背字，98段、149句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0336.md)。
 - [第335章复核](books/yishizhizun/reviews/review-v04-0335.md)：方死背字、三人北探与黑山七杀碑口供，87段、129句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0335.md)。
 - [第334章复核](books/yishizhizun/reviews/review-v04-0334.md)：核验回归、愚同行求天师与新人轮回队，68段、95句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0334.md)。
