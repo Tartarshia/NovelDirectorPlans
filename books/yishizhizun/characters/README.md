@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷320章
+# 角色阶段索引 · 截至第四卷321章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -438,3 +438,5 @@
 最新[319章复核](../reviews/review-v04-0319.md)：[南宫冲杜青青定名](white-sword-youth-blood-banner.md)、[左使孙俊林](cangtian-left-right-ziyuemen.md)、[燕赤霞宁采臣初会](yan-chixia-ning-caichen-lanruo.md)、[寺鬼口供](lanruo-ghost-history-reports.md)、[异常检验](tavern-repeated-scene.md)；[状态账](../reviews/ledger-v04-0319.md)。
 
 最新[320章复核](../reviews/review-v04-0320.md)：[宁聂首轮与重现](nie-xiaoqian-ash-jar-request.md)、[愚僧到寺](yuseng-lanruo-arrival.md)、[燕宁照护](yan-chixia-ning-caichen-lanruo.md)、[冲杜受袭改策](white-sword-youth-blood-banner.md)、[重复边界](tavern-repeated-scene.md)；[状态账](../reviews/ledger-v04-0320.md)。
+
+最新[321章复核](../reviews/review-v04-0321.md)：[地藏经师缘](dizang-sutra-master-hope.md)、[愚僧交涉](yuseng-lanruo-arrival.md)、[冲私诉夺经](white-sword-youth-blood-banner.md)、[主动逼异常](tavern-repeated-scene.md)；[状态账](../reviews/ledger-v04-0321.md)。
