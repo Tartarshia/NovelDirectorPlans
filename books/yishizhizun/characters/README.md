@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷294章
+# 角色阶段索引 · 截至第四卷295章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -386,3 +386,5 @@
 最新[293章复核](../reviews/review-v04-0293.md)：陆解他我两路、曹存根基与真净土开封猜；[真封印段瑞线索卡](ananda-real-seal-duanrui-inquiry.md)、[机制账](../reviews/ledger-v04-0293.md)。
 
 最新[294章复核](../reviews/review-v04-0294.md)：天榜十人新拟、孟地24与净土引段；[新拟榜表](postwar-rankings-and-meng-report.md)、[晋皇族政治卡](jin-imperial-family-postwar.md)、[状态账](../reviews/ledger-v04-0294.md)。
+
+最新[295章复核](../reviews/review-v04-0295.md)：王家主洛书六重、纸条劫段与匿名阻悟；[孩童扮演卡](guangling-children-hero-roleplay.md)、[匿名任务卡](anonymous-blade-obstruction-mission.md)、[状态账](../reviews/ledger-v04-0295.md)。

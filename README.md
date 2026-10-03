@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第294章，794 / 1410 个目录条目，约260.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第295章，795 / 1410 个目录条目，约260.4万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第295章复核](books/yishizhizun/reviews/review-v04-0295.md)：童戏显名与王家主洛书、段劫疑韩/死囚经及匿名阻悟任务，72段、117句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0295.md)。
 - [第294章复核](books/yishizhizun/reviews/review-v04-0294.md)：新拟天榜与孟地24、皇族监管及净土舆情引段，50段、79句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0294.md)。
 - [第293章复核](books/yishizhizun/reviews/review-v04-0293.md)：他我两路与曹家保存、真衍封印推理及找段瑞指令，56段、93句内单元；[机制账](books/yishizhizun/reviews/ledger-v04-0293.md)。
 - [第292章复核](books/yishizhizun/reviews/review-v04-0292.md)：空圆寂交接、冲和留言与孟反抗依赖决意、叶接掌碧游宫，76段、129句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0292.md)。
