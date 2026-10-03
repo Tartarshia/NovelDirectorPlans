@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷296章
+# 角色阶段索引 · 截至第四卷297章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -390,3 +390,5 @@
 最新[295章复核](../reviews/review-v04-0295.md)：王家主洛书六重、纸条劫段与匿名阻悟；[孩童扮演卡](guangling-children-hero-roleplay.md)、[匿名任务卡](anonymous-blade-obstruction-mission.md)、[状态账](../reviews/ledger-v04-0295.md)。
 
 最新[296章复核](../reviews/review-v04-0296.md)：素女正式条件、柳府成长与避亲；[吴季真线索](wu-jizhen-sunu-lead.md)、[状态账](../reviews/ledger-v04-0296.md)。
+
+最新[297章复核](../reviews/review-v04-0297.md)：狂客情执与十招首拳；[吴季真](wu-jizhen-sunu-lead.md)、[老仆](wu-jizhen-old-servant.md)、[状态账](../reviews/ledger-v04-0297.md)。

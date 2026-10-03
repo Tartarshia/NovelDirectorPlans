@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第296章，796 / 1410 个目录条目，约260.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第297章，797 / 1410 个目录条目，约261.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第297章复核](books/yishizhizun/reviews/review-v04-0297.md)：狂客情执、直钩借偈与十招首拳，60段、92句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0297.md)。
 - [第296章复核](books/yishizhizun/reviews/review-v04-0296.md)：素女正式条件与柳府差距、吴线索及避亲，70段、103句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0296.md)。
 - [第295章复核](books/yishizhizun/reviews/review-v04-0295.md)：童戏显名与王家主洛书、段劫疑韩/死囚经及匿名阻悟任务，72段、117句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0295.md)。
 - [第294章复核](books/yishizhizun/reviews/review-v04-0294.md)：新拟天榜与孟地24、皇族监管及净土舆情引段，50段、79句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0294.md)。
