@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第308章，808 / 1410 个目录条目，约264.1万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第309章，809 / 1410 个目录条目，约264.5万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第309章复核](books/yishizhizun/reviews/review-v04-0309.md)：极北陈刘、冰峡同境切磋与求援中断，65段、96句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0309.md)。
 - [第308章复核](books/yishizhizun/reviews/review-v04-0308.md)：幽冥幻域诱援计划、五人射日弓互防与救猎双线索，51段、72句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0308.md)。
 - [第307章复核](books/yishizhizun/reviews/review-v04-0307.md)：赠令结剑庄善缘、独搜许可及哈斯伤愈棺援计划，54段、75句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0307.md)。
 - [第306章复核](books/yishizhizun/reviews/review-v04-0306.md)：战养心刀、土遁避符与高元神死亡及哈斯纸讯，61段、71句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0306.md)。
