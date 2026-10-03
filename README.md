@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第334章，834 / 1410 个目录条目，约272.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第335章，835 / 1410 个目录条目，约273.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第335章复核](books/yishizhizun/reviews/review-v04-0335.md)：方死背字、三人北探与黑山七杀碑口供，87段、129句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0335.md)。
 - [第334章复核](books/yishizhizun/reviews/review-v04-0334.md)：核验回归、愚同行求天师与新人轮回队，68段、95句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0334.md)。
 - [第333章复核](books/yishizhizun/reviews/review-v04-0333.md)：现代证据公开、杜重逢受限与燕愚元神核验，77段、126句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0333.md)。
 - [第332章复核](books/yishizhizun/reviews/review-v04-0332.md)：愚僧慈愿借经、补拳待履与倒时公开叙述，71段、107句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0332.md)。

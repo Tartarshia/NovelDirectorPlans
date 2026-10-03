@@ -1,7 +1,169 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0334",
+  "through_chapter": "v04-c0335",
   "events": [
+    {
+      "type": "fang_death_physically_confirmed",
+      "entity": "fang_zhidong",
+      "reference": "v04-c0335:p0003",
+      "fact_status": "秦感脉听心反复确认"
+    },
+    {
+      "type": "zhu_hanqiu_name_first_reveal",
+      "entity": "zhu_hanqiu",
+      "reference": "v04-c0335:p0006",
+      "fact_status": "劲装男与祝姓区分"
+    },
+    {
+      "type": "zhu_huashan_name_reveals_unnamed_teammate",
+      "entity": "jiang_skirt_teammate_unnamed",
+      "reference": "v04-c0335:p0007",
+      "fact_status": "祝画扇少女沿334旧演员"
+    },
+    {
+      "type": "rescue_efforts_reported_failed",
+      "entity": "qin_shi_team",
+      "reference": "v04-c0335:p0007",
+      "fact_status": "内劲丹报告药名数量未知"
+    },
+    {
+      "type": "fang_back_kill_mark_seen",
+      "entity": "fang_zhidong",
+      "reference": "v04-c0335:p0016",
+      "fact_status": "深赤杀字死因未证"
+    },
+    {
+      "type": "shi_light_red_back_mark",
+      "entity": "shi_tiangao",
+      "reference": "v04-c0335:p0025",
+      "fact_status": "存活浅红字"
+    },
+    {
+      "type": "zhu_deeper_red_back_mark",
+      "entity": "zhu_hanqiu",
+      "reference": "v04-c0335:p0031",
+      "fact_status": "存活较深字"
+    },
+    {
+      "type": "qin_huashan_also_marked",
+      "entity": "qin_huashan_group",
+      "reference": "v04-c0335:p0032",
+      "fact_status": "都未幸免色未给"
+    },
+    {
+      "type": "team_decides_seek_tianshi_help",
+      "entity": "qin_shuanglian",
+      "reference": "v04-c0335:p0034",
+      "fact_status": "求援决定"
+    },
+    {
+      "type": "tianshi_declines_spirit_confirmation",
+      "entity": "lanruo_tianshi_unnamed",
+      "reference": "v04-c0335:p0037",
+      "fact_status": "信愚不愿元神交伪孟"
+    },
+    {
+      "type": "three_party_joint_northward_action",
+      "entity": "meng_qi",
+      "reference": "v04-c0335:p0047",
+      "fact_status": "实际合计北飛形成协作"
+    },
+    {
+      "type": "defensive_city_important_forces_return",
+      "entity": "three_master_group",
+      "reference": "v04-c0335:p0055",
+      "fact_status": "召强禁法实证"
+    },
+    {
+      "type": "heishan_actual_body_seen_with_emperor",
+      "entity": "heishan_laoyao",
+      "reference": "v04-c0335:p0056",
+      "fact_status": "同宫实体联手"
+    },
+    {
+      "type": "heishan_blood_gaze_blocks_heaven_eye",
+      "entity": "heishan_laoyao",
+      "reference": "v04-c0335:p0057",
+      "fact_status": "遮愚窥视非僧死瞎"
+    },
+    {
+      "type": "tianshi_confirms_enemy_alliance",
+      "entity": "lanruo_tianshi_unnamed",
+      "reference": "v04-c0335:p0059",
+      "fact_status": "敌盟实际确认"
+    },
+    {
+      "type": "meng_detects_extraworld_causal_links",
+      "entity": "meng_qi",
+      "reference": "v04-c0335:p0066",
+      "fact_status": "几线模糊未精准身份"
+    },
+    {
+      "type": "causal_links_only_memorized_not_manipulable",
+      "entity": "meng_qi",
+      "reference": "v04-c0335:p0071",
+      "fact_status": "分不出操不了记特征"
+    },
+    {
+      "type": "yuxu_divination_government_search_plan",
+      "entity": "meng_qi",
+      "reference": "v04-c0335:p0072",
+      "fact_status": "拟锁可疑地未执行完成"
+    },
+    {
+      "type": "three_masters_withdraw_defenses_intact",
+      "entity": "three_master_group",
+      "reference": "v04-c0335:p0073",
+      "fact_status": "未破阵退"
+    },
+    {
+      "type": "heishan_voice_and_repair_claim",
+      "entity": "heishan_laoyao",
+      "reference": "v04-c0335:p0076",
+      "fact_status": "低沉磁性特装几日未成"
+    },
+    {
+      "type": "heishan_game_branch_search_report",
+      "entity": "heishan_laoyao",
+      "reference": "v04-c0335:p0078",
+      "fact_status": "玩家变化似不定未来排猜口供"
+    },
+    {
+      "type": "qisha_origin_effect_ten_year_recovery_claim",
+      "entity": "heishan_laoyao",
+      "reference": "v04-c0335:p0080",
+      "fact_status": "天帝物邪神炼碑据说未独证"
+    },
+    {
+      "type": "original_lord_name_liang_wuji_reveal",
+      "entity": "cangtian_original_lord",
+      "reference": "v04-c0335:p0081",
+      "fact_status": "新名非孟真名"
+    },
+    {
+      "type": "emperor_demands_fragment_share",
+      "entity": "female_emperor_heishan_world",
+      "reference": "v04-c0335:p0082",
+      "fact_status": "利益要求未实交"
+    },
+    {
+      "type": "emperor_doubts_heishan_half_truth",
+      "entity": "female_emperor_heishan_world",
+      "reference": "v04-c0335:p0084",
+      "fact_status": "藏关键为其疑"
+    },
+    {
+      "type": "meng_prepares_modern_fragment_search",
+      "entity": "meng_qi",
+      "reference": "v04-c0335:p0086",
+      "fact_status": "回府静室准备未新附体"
+    },
+    {
+      "type": "tianshi_dispatches_master_to_ghost_village",
+      "entity": "lanruo_tianshi_unnamed",
+      "reference": "v04-c0335:p0087",
+      "fact_status": "派护探未结果"
+    },
     {
       "type": "ash_jar_visible_beside_meng",
       "entity": "meng_qi",
