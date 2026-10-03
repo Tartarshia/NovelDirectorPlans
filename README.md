@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第312章，812 / 1410 个目录条目，约265.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第313章，813 / 1410 个目录条目，约265.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第313章复核](books/yishizhizun/reviews/review-v04-0313.md)：古棺触空与霸王因果推理、明法伤俘和射日锁孟，99段、113句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0313.md)。
 - [第312章复核](books/yishizhizun/reviews/review-v04-0312.md)：天魔遗言、鱼假说与各组峰口古棺，50段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0312.md)。
 - [第311章复核](books/yishizhizun/reviews/review-v04-0311.md)：异样山路、鉴心旧宫缘与黄泉目标、叶幻汤和爪主残景，70段、89句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0311.md)。
 - [第310章复核](books/yishizhizun/reviews/review-v04-0310.md)：寒光神兵来援、幽冥真身与黄泉骨意外扩域，62段、68句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0310.md)。
