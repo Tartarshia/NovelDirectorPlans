@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷323章
+# 角色阶段索引 · 截至第四卷324章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -444,3 +444,5 @@
 最新[322章复核](../reviews/review-v04-0322.md)：[宁聂礼与急救](nie-xiaoqian-ash-jar-request.md)、[雷林九幽危变](forest-threat-jiuyou-escalation.md)、[冲记杀与道一联系](tavern-repeated-scene.md)、[灰舱论坛旁线](metal-pod-forum-man.md)；[状态账](../reviews/ledger-v04-0322.md)。
 
 最新[323章复核](../reviews/review-v04-0323.md)：[论坛与单档口供](forum-advice-savegame-reports.md)、[孟逆联系临时电躯](meng-qi.md)、[舱外南宫](metal-pod-forum-man.md)、[殿内救护](yan-chixia-ning-caichen-lanruo.md)；[状态账](../reviews/ledger-v04-0323.md)。
+
+最新[324章复核](../reviews/review-v04-0324.md)：[孟设备读档与发帖](meng-qi.md)、[舱与冲求救](metal-pod-forum-man.md)、[夏南新闻报警警方](xianan-news-police-help.md)、[多支河新线索](tavern-repeated-scene.md)；[状态账](../reviews/ledger-v04-0324.md)。
