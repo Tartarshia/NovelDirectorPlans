@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷330章
+# 角色阶段索引 · 截至第四卷331章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -458,3 +458,5 @@
 最新[329章复核](../reviews/review-v04-0329.md)：[迷天董元与电话先生](mitian-dong-yuan-video-call.md)、[警头盔与天基未射](police-helmets-orbital-permission.md)、[张当面证据转折](zhang-donghai-news-intern.md)、[女帝认知修正](lanruo-three-masters-heishan-reports.md)；[状态账](../reviews/ledger-v04-0329.md)。
 
 最新[330章复核](../reviews/review-v04-0330.md)：[军搜血字](government-raid-blood-message.md)、[吴极限死亡](nangong-uncle-cangqiong-company.md)、[冲获释获法](white-sword-youth-blood-banner.md)、[孟兑现与再临](meng-qi.md)；[状态账](../reviews/ledger-v04-0330.md)。
+
+最新[331章复核](../reviews/review-v04-0331.md)：[姥树魂别世](laolao-tree-soul-rebirth.md)、[宁聂灰坛未成](nie-xiaoqian-ash-jar-request.md)、[投影冲与本人分开](white-sword-youth-blood-banner.md)、[七杀六道新口供](lanruo-three-masters-heishan-reports.md)；[状态账](../reviews/ledger-v04-0331.md)。
