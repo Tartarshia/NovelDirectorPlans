@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第350章，850 / 1410 个目录条目，约277.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第351章，851 / 1410 个目录条目，约278.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第351章复核](books/yishizhizun/reviews/review-v04-0351.md)：声证矛盾、利益排查与张府断线，57段、95句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0351.md)。
 - [第350章复核](books/yishizhizun/reviews/review-v04-0350.md)：治理授权、魔窟情报与梅妃亲核，58段、96句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0350.md)。
 - [第349章复核](books/yishizhizun/reviews/review-v04-0349.md)：正式暂代、灯影安众与基层卷宗线索，71段、106句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0349.md)。
 - [第348章复核](books/yishizhizun/reviews/review-v04-0348.md)：志向安众、竞争查案与卷宗假说，63段、96句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0348.md)。

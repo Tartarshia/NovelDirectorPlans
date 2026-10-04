@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷350章
+# 角色阶段索引 · 截至第四卷351章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -498,3 +498,5 @@
 最新[349章复核](../reviews/review-v04-0349.md)：[正式暂代与灯影安众](meng-qi.md)、[民间母教报告](luo-faith-war-images.md)、[祖存神提炼及日期](zu-cunshen-six-doors.md)、[询梅计划](mei-fei-jin-court.md)；[状态账](../reviews/ledger-v04-0349.md)。
 
 最新[350章复核](../reviews/review-v04-0350.md)：[祖强硬方案与假金章](zu-cunshen-six-doors.md)、[梅哭后声态及身体核](mei-fei-jin-court.md)、[华贵仇看与怀孕](hua-guifei-jin-court.md)、[魔窟消失报告](mojun-old-demonic-way.md)；[状态账](../reviews/ledger-v04-0350.md)。
+
+最新[351章复核](../reviews/review-v04-0351.md)：[华证词与承诺破](hua-guifei-jin-court.md)、[孟声证假说](meng-qi.md)、[冯征待核死报](feng-zheng-palace-steward.md)、[张家两人](longnan-zhang-court.md)；[状态账](../reviews/ledger-v04-0351.md)。

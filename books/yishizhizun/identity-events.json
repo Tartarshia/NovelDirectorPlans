@@ -1,7 +1,145 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0350",
+  "through_chapter": "v04-c0351",
   "events": [
+    {
+      "type": "hua_fetal_movement_observed",
+      "entity": "hua_guifei",
+      "reference": "v04-c0351:p0001",
+      "fact_status": "新命胎动非性别亲核"
+    },
+    {
+      "type": "meng_expands_succession_interest_scope",
+      "entity": "meng_qi",
+      "reference": "v04-c0351:p0004",
+      "fact_status": "不因赵友情避未定赵有罪"
+    },
+    {
+      "type": "hua_nearly_screams_but_covers_mouth",
+      "entity": "hua_guifei",
+      "reference": "v04-c0351:p0006",
+      "fact_status": "未实际尖叫"
+    },
+    {
+      "type": "hua_accuses_mei_and_claims_prince_pregnancy",
+      "entity": "hua_guifei",
+      "reference": "v04-c0351:p0011",
+      "fact_status": "归因性别是其话未核"
+    },
+    {
+      "type": "hua_careless_harm_theory",
+      "entity": "hua_guifei",
+      "reference": "v04-c0351:p0014",
+      "fact_status": "非故意但害帝为推"
+    },
+    {
+      "type": "meng_orders_liu_pregnancy_method_requestion",
+      "entity": "meng_qi",
+      "reference": "v04-c0351:p0016",
+      "fact_status": "新疑问"
+    },
+    {
+      "type": "hua_emperor_wooden_voice_recollection",
+      "entity": "hua_guifei",
+      "reference": "v04-c0351:p0021",
+      "fact_status": "华转述帝旧话"
+    },
+    {
+      "type": "meng_voice_testimony_conflict",
+      "entity": "meng_qi",
+      "reference": "v04-c0351:p0026",
+      "fact_status": "与旧笔录相矛盾"
+    },
+    {
+      "type": "meng_yuanxin_hua_authenticity_assessment",
+      "entity": "meng_qi",
+      "reference": "v04-c0351:p0028",
+      "fact_status": "情真有限判断"
+    },
+    {
+      "type": "meng_other_female_charm_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v04-c0351:p0030",
+      "fact_status": "机制假说非现场证"
+    },
+    {
+      "type": "feng_palace_defense_question",
+      "entity": "feng_zheng",
+      "reference": "v04-c0351:p0033",
+      "fact_status": "负责整体守未内应定案"
+    },
+    {
+      "type": "liu_reports_mei_no_pregnancy_method",
+      "entity": "liu_shengming",
+      "reference": "v04-c0351:p0034",
+      "fact_status": "梅转述帝未来补孕承诺"
+    },
+    {
+      "type": "hua_exclusive_promise_breakdown",
+      "entity": "hua_guifei",
+      "reference": "v04-c0351:p0035",
+      "fact_status": "怔喃不信"
+    },
+    {
+      "type": "palace_guard_reports_zhang_took_feng",
+      "entity": "feng_zheng",
+      "reference": "v04-c0351:p0040",
+      "fact_status": "半时辰前称故交长辈情问"
+    },
+    {
+      "type": "zhang_yu_gold_family_influence",
+      "entity": "zhang_yu",
+      "reference": "v04-c0351:p0041",
+      "fact_status": "陇南掺沙金章"
+    },
+    {
+      "type": "meng_rushes_zhang_shelves_qin_visit",
+      "entity": "meng_qi",
+      "reference": "v04-c0351:p0042",
+      "fact_status": "秦未实际访"
+    },
+    {
+      "type": "zhang_baili_council_welcomes",
+      "entity": "zhang_baili",
+      "reference": "v04-c0351:p0048",
+      "fact_status": "参知红脸雄体中气足"
+    },
+    {
+      "type": "zhang_baili_orders_zhang_yu_with_feng",
+      "entity": "zhang_baili",
+      "reference": "v04-c0351:p0050",
+      "fact_status": "老17称呼"
+    },
+    {
+      "type": "zhang_yu_reports_feng_suicide",
+      "entity": "zhang_yu",
+      "reference": "v04-c0351:p0052",
+      "fact_status": "五叔金服惶死报未尸核"
+    },
+    {
+      "type": "zhang_baili_surprised_at_death_report",
+      "entity": "zhang_baili",
+      "reference": "v04-c0351:p0053",
+      "fact_status": "似不信非真伪定"
+    },
+    {
+      "type": "meng_orders_nearby_spies_recent_observations",
+      "entity": "meng_qi",
+      "reference": "v04-c0351:p0054",
+      "fact_status": "前一刻令未收报"
+    },
+    {
+      "type": "zhang_baili_angry_silencing_suspicion_question",
+      "entity": "zhang_baili",
+      "reference": "v04-c0351:p0056",
+      "fact_status": "孟未正式判凶"
+    },
+    {
+      "type": "zhang_baili_heat_effect_on_pond",
+      "entity": "zhang_baili",
+      "reference": "v04-c0351:p0057",
+      "fact_status": "气勃水汽鲤翻香未战胜负"
+    },
     {
       "type": "meng_adds_cult_file_disappearance_hypothesis",
       "entity": "meng_qi",
