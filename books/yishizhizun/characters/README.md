@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷354章
+# 角色阶段索引 · 截至第四卷355章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -507,3 +507,5 @@
 最新[353章复核](../reviews/review-v04-0353.md)：[S46孟自校印界](meng-qi.md)、[華夸大与死亡](hua-guifei-jin-court.md)、[返家妹扫报告](family-watch-and-shaolin-status.md)、[顾香归因](gu-xiaosang.md)；[状态账](../reviews/ledger-v04-0353.md)。
 
 最新[354章复核](../reviews/review-v04-0354.md)：[孟主动准备](meng-qi.md)、[子悦承唐家](su-ziyue-tang-succession.md)、[顾玉假说](gu-xiaosang-yulongzi-hypotheses.md)、[常欢旧案](dushi-fawang-su-wuming-retreat.md)、[碑定位界限](qisha-corpse-local-timeline.md)；[状态账](../reviews/ledger-v04-0354.md)。
+
+最新[355章复核](../reviews/review-v04-0355.md)：[S47孟迎伏亮兵](meng-qi.md)、[柳伪装揭](liushengming-and-lamp-envoy.md)、[奉典宝物](fengdian-envoy.md)、[欢喜对质](huanxi-bodhisattva-blacklist-deterrence.md)、[秦合作指证](jin-imperial-family-postwar.md)；[状态账](../reviews/ledger-v04-0355.md)。

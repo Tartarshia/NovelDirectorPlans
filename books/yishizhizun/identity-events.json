@@ -1,7 +1,151 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0354",
+  "through_chapter": "v04-c0355",
   "events": [
+    {
+      "type": "liu_new_report_explicit_telepathy",
+      "entity": "liu_shengming",
+      "reference": "v04-c0355:p0006",
+      "fact_status": "入楼前传音"
+    },
+    {
+      "type": "liu_hidden_guest_escape_report",
+      "entity": "liu_shengming",
+      "reference": "v04-c0355:p0010",
+      "fact_status": "似未发现崔门楼船报告"
+    },
+    {
+      "type": "meng_authorized_local_gate_restriction_lift",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0012",
+      "fact_status": "暂解除门旁实际随后出城"
+    },
+    {
+      "type": "liu_five_factions_elimination_reasoning",
+      "entity": "liu_shengming",
+      "reference": "v04-c0355:p0021",
+      "fact_status": "分析非各族法证排除"
+    },
+    {
+      "type": "meng_beizhou_loyal_clan_interest_theory",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0029",
+      "fact_status": "高览合作利益推"
+    },
+    {
+      "type": "meng_zhang_head_weapon_in_capital_inference",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0034",
+      "fact_status": "应来带兵未实名实见"
+    },
+    {
+      "type": "gao_teng_candidate_rank_eight",
+      "entity": "gao_teng",
+      "reference": "v04-c0355:p0038",
+      "fact_status": "前北周帝地8介绍候选"
+    },
+    {
+      "type": "meng_boat_has_no_gao_teng",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0040",
+      "fact_status": "明确否候选在船"
+    },
+    {
+      "type": "liu_feigned_emotions_drop_to_fear",
+      "entity": "liu_shengming",
+      "reference": "v04-c0355:p0045",
+      "fact_status": "伪表褪真惧紧"
+    },
+    {
+      "type": "meng_sansheng_link_detects_gu_near_boat",
+      "entity": "gu_xiaosang",
+      "reference": "v04-c0355:p0046",
+      "fact_status": "三果联系感附近藏未本体声"
+    },
+    {
+      "type": "void_barrier_separates_meng_liu",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0047",
+      "fact_status": "琉璃混沌隔开实际"
+    },
+    {
+      "type": "fengdian_huanxi_emerge_boat",
+      "entity": "fengdian_envoy",
+      "reference": "v04-c0355:p0048",
+      "fact_status": "双敌实出非顾法王"
+    },
+    {
+      "type": "meng_void_seal_transmission_treasure_appraisal",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0051",
+      "fact_status": "非原印一两传承宝判"
+    },
+    {
+      "type": "fengdian_fawang_threshold_token_claim",
+      "entity": "fengdian_envoy",
+      "reference": "v04-c0355:p0053",
+      "fact_status": "法王未到关隘报告"
+    },
+    {
+      "type": "huanxi_surrender_offer",
+      "entity": "huanxi_bodhisattva",
+      "reference": "v04-c0355:p0054",
+      "fact_status": "持兵笑诱降"
+    },
+    {
+      "type": "meng_emperor_backlash_by_huanxi_identification",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0056",
+      "fact_status": "孟指证57解释"
+    },
+    {
+      "type": "meng_qin_luo_sunu_cooperation_accusation",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0059",
+      "fact_status": "秦未当场供认"
+    },
+    {
+      "type": "huanxi_questions_necessity_of_killing",
+      "entity": "huanxi_bodhisattva",
+      "reference": "v04-c0355:p0060",
+      "fact_status": "逻辑反问非完整供"
+    },
+    {
+      "type": "meng_three_day_lure_timing_theory",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0062",
+      "fact_status": "传播最短巧判断"
+    },
+    {
+      "type": "meng_sima_disappearance_necessary_lure_theory",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0063",
+      "fact_status": "死活位置未证"
+    },
+    {
+      "type": "fengdian_asks_why_meng_came",
+      "entity": "fengdian_envoy",
+      "reference": "v04-c0355:p0064",
+      "fact_status": "沉声"
+    },
+    {
+      "type": "meng_draws_weapon_declares_came_to_kill",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0068",
+      "fact_status": "实际宣言未杀"
+    },
+    {
+      "type": "orange_divine_weapon_seen",
+      "entity": "meng_qi",
+      "reference": "v04-c0355:p0069",
+      "fact_status": "橙黄入三人眼神兵实揭"
+    },
+    {
+      "type": "liu_shocked_at_divine_weapon",
+      "entity": "liu_shengming",
+      "reference": "v04-c0355:p0070",
+      "fact_status": "脸色大变未死"
+    },
     {
       "type": "meng_checks_su_room_no_ambush_trap",
       "entity": "meng_qi",
