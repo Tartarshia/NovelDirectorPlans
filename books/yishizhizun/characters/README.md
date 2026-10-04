@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷344章
+# 角色阶段索引 · 截至第四卷345章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -486,3 +486,5 @@
 最新[343章复核](../reviews/review-v04-0343.md)：[传说小队共识](reincarnation-tree-secret-and-team-prep.md)、[江持镜](jiang-zhiwei.md)、[苏获片来源](su-wuming-valley-report.md)、[碑实取回](qisha-corpse-local-timeline.md)、[根供再审](lingbao-daqinggen.md)、[赴少林未交经](shaolin-relationships.md)；[状态账](../reviews/ledger-v04-0343.md)。
 
 最新[344章复核](../reviews/review-v04-0344.md)：[玄悲半步与真慧外景](shaolin-relationships.md)、[经交师拳得待送](dizang-sutra-master-hope.md)、[方丈迎客](kongwen-nirvana-and-shaolin-succession.md)、[旧同辈比较](shaolin-old-peers-return.md)、[两身八重](meng-qi-earth-body.md)、[玄心新知](shaolin-xuanxin-han-secret-door.md)；[状态账](../reviews/ledger-v04-0344.md)。
+
+最新[345章复核](../reviews/review-v04-0345.md)：[灵宝神兵](lingbao-fire-blade.md)、[愚得拳履约](dizang-sutra-master-hope.md)、[冲记名梦教](metal-pod-forum-man.md)、[纪念冲和](chonghe-death-task-and-ziyun.md)、[师泪与急报](shaolin-relationships.md)、[司马失踪](sima-shi.md)；[状态账](../reviews/ledger-v04-0345.md)。

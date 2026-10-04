@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第344章，844 / 1410 个目录条目，约275.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第345章，845 / 1410 个目录条目，约276.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第345章复核](books/yishizhizun/reviews/review-v04-0345.md)：灵宝神兵、心梦传拳履约与神都急报，102段、148句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0345.md)。
 - [第344章复核](books/yishizhizun/reviews/review-v04-0344.md)：归寺师恩兑现、玄悲半步与双身八重，77段、105句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0344.md)。
 - [第343章复核](books/yishizhizun/reviews/review-v04-0343.md)：传说小队、镜片互助与大青根口供再审，60段、110句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0343.md)。
 - [第342章复核](books/yishizhizun/reviews/review-v04-0342.md)：审慎用碑、回溯限制与队伍筹备，54段、79句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0342.md)。
