@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第355章，855 / 1410 个目录条目，约279.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第356章，856 / 1410 个目录条目，约279.6万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第356章复核](books/yishizhizun/reviews/review-v04-0356.md)：秦设局自述、司马活现与暗剑突袭，77段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0356.md)。
 - [第355章复核](books/yishizhizun/reviews/review-v04-0355.md)：柳伪装揭、楼船埋伏与S47主动亮兵，70段、123句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0355.md)。
 - [第354章复核](books/yishizhizun/reviews/review-v04-0354.md)：兄妹重逢、唐家承继与时地回溯准备，49段、70句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0354.md)。
 - [第353章复核](books/yishizhizun/reviews/review-v04-0353.md)：S46可依不赖、华尸与返家香迹，66段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0353.md)。
