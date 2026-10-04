@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第346章，846 / 1410 个目录条目，约276.5万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第347章，847 / 1410 个目录条目，约276.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第347章复核](books/yishizhizun/reviews/review-v04-0347.md)：七捕支持与暂代重议，62段、92句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0347.md)。
 - [第346章复核](books/yishizhizun/reviews/review-v04-0346.md)：公开金章、赵恒隐忍与总捕头争位，70段、90句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0346.md)。
 - [第345章复核](books/yishizhizun/reviews/review-v04-0345.md)：灵宝神兵、心梦传拳履约与神都急报，102段、148句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0345.md)。
 - [第344章复核](books/yishizhizun/reviews/review-v04-0344.md)：归寺师恩兑现、玄悲半步与双身八重，77段、105句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0344.md)。
