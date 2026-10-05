@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷358章
+# 角色阶段索引 · 截至第四卷359章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [擦船清雅匿名女声](river-laomu-question-voice.md) | 老母根脚问，身份与发声渠道未名 |
 | [虚空印真意接收](void-seal-transmission.md) | 残宝碎馈、停杀接收，非全印掌握 |
 | [苏子悦唐家承继](su-ziyue-tang-succession.md) | 实际重逢、接近六窍与不揭身世的承继意愿 |
 | [地球孟奇棺身](meng-qi-earth-body.md) | 因果相连、来历未解与真实宗师转折 |
@@ -516,3 +517,5 @@
 最新[357章复核](../reviews/review-v04-0357.md)：[碑实回与小改](qisha-corpse-local-timeline.md)、[旧刺客种魔当前楼主死](burenlou-investigation.md)、[孟压势](meng-qi.md)、[顾兵轻咦](gu-xiaosang.md)；[状态账](../reviews/ledger-v04-0357.md)。
 
 最新[358章复核](../reviews/review-v04-0358.md)：[柳死](liushengming-and-lamp-envoy.md)、[欢喜逃](huanxi-bodhisattva-blacklist-deterrence.md)、[法王弃令](dushi-fawang-su-wuming-retreat.md)、[虚空真意](void-seal-transmission.md)、[顾冷变](gu-xiaosang.md)；[状态账](../reviews/ledger-v04-0358.md)。
+
+最新[359章复核](../reviews/review-v04-0359.md)：[S48退出索偿护家](meng-qi.md)、[秦宣传口径](jin-imperial-family-postwar.md)、[张百龄百里](longnan-zhang-court.md)、[虚空初观](void-seal-transmission.md)、[匿名船声](river-laomu-question-voice.md)；[状态账](../reviews/ledger-v04-0359.md)。
