@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷373章
+# 角色阶段索引 · 截至第四卷374章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [救世准备与当地声源](salvation-team-preparation-and-local-voices.md) | 分人账、队名规则与梦教主说辞 |
 | [邪魔八道反应](eight-evil-paths-reactions.md) | 各派退守、棋子判断与未名声源 |
 | [归来征兆与分配](return-omens-and-postwar-sharing.md) | 四群声音、物份额与尸骨归属 |
 | [取忆与问道分界](question-dao-and-memory-paths.md) | S53价值触动、两路径未完成与物状态 |
@@ -564,3 +565,5 @@
 最新[372章复核](../reviews/review-v04-0372.md)：[完整骨/跨界征兆与分配](return-omens-and-postwar-sharing.md)、[孟互惠](meng-qi.md)、[何七伏与得笔](heqi-simayin-side-battles.md)、[江远观](jiang-zhiwei.md)、[陆尊贤](lu-da-wood-carving.md)；[状态账](../reviews/ledger-v04-0372.md)。
 
 最新[373章复核](../reviews/review-v04-0373.md)：[八道反应](eight-evil-paths-reactions.md)、[韩闭关](han-guang-gao-lan.md)、[小桑稳场](gu-xiaosang.md)、[新楼主](burenlou-investigation.md)、[素女分人](liuluo-current-inquiry.md)；[状态账](../reviews/ledger-v04-0373.md)。
+
+最新[374章复核](../reviews/review-v04-0374.md)：[救世准备声源](salvation-team-preparation-and-local-voices.md)、[赵一年六满](zhao-heng.md)、[江八重/塔](jiang-zhiwei.md)、[阮琴塔](ruan-yushu.md)、[孟留款](meng-qi.md)、[面具队](beidou-and-xi.md)；[状态账](../reviews/ledger-v04-0374.md)。
