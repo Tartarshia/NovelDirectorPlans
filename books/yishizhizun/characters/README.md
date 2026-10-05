@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷368章
+# 角色阶段索引 · 截至第四卷369章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [心圣遗蜕与虚空叹](xinsheng-remains-and-unlocated-sigh.md) | 天仙古圣身份、灾厄历史及声源待认 |
 | [北极龙与神尸祭品链](shengsi-divine-corpse-and-sacrifice.md) | 地仙遗蜕限制、造黄泉失败鬼神与双祖尸祭耗 |
 | [守阁、赶尸弟子与龙棺](wanbao-guard-shiwang-handler-dragon.md) | 守者已吞、尸王低灵智与未名真龙头 |
 | [万宝阁与两宗报信者](wanbao-auction-and-hidden-envoys.md) | 董老、未名天魔、幸存宗师及暗验客卿 |
@@ -549,3 +550,5 @@
 最新[367章复核](../reviews/review-v04-0367.md)：[S52自变骨召援](meng-qi.md)、[江叠击成长](jiang-zhiwei.md)、[守者/弟子/尸龙](wanbao-guard-shiwang-handler-dragon.md)、[苏破禁](su-wuming-valley-report.md)、[陆赴援](lu-da-wood-carving.md)、[幽冥危机](coffin-dijun-forest.md)；[状态账](../reviews/ledger-v04-0367.md)。
 
 最新[368章复核](../reviews/review-v04-0368.md)：[孟正式九重](meng-qi.md)、[苏人仙特征压龙](su-wuming-valley-report.md)、[北极龙/鬼神/祭耗](shengsi-divine-corpse-and-sacrifice.md)、[幽冥两次同归](coffin-dijun-forest.md)、[刀实战](lingbao-fire-blade.md)；[状态账](../reviews/ledger-v04-0368.md)。
+
+最新[369章复核](../reviews/review-v04-0369.md)：[孟专业后手](meng-qi.md)、[心圣尸/未知叹](xinsheng-remains-and-unlocated-sigh.md)、[师僧度魂](shaolin-relationships.md)、[云鹤已还门](yunhe-wanxiang.md)、[苏新剑](su-wuming-valley-report.md)、[陆困神](lu-da-wood-carving.md)；[状态账](../reviews/ledger-v04-0369.md)。
