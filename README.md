@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第363章，863 / 1410 个目录条目，约281.7万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第364章，864 / 1410 个目录条目，约282.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第364章复核](books/yishizhizun/reviews/review-v04-0364.md)：双向试探、撞马与地球字牌真跪，89段、148句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0364.md)。
 - [第363章复核](books/yishizhizun/reviews/review-v04-0363.md)：S50传道时机、双身错昼夜与公子羽，70段、110句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0363.md)。
 - [第362章复核](books/yishizhizun/reviews/review-v04-0362.md)：地球身藏市、民生回响与被取名李聃，85段、137句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0362.md)。
 - [第361章复核](books/yishizhizun/reviews/review-v04-0361.md)：地榜第二、材料取舍与地球洛邑后路，78段、115句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0361.md)。
