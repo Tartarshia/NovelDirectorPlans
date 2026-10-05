@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第370章，870 / 1410 个目录条目，约283.9万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第371章，871 / 1410 个目录条目，约284.1万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第371章复核](books/yishizhizun/reviews/review-v04-0371.md)：只取今生、虚空入门与心圣问道触动，46段、53句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0371.md)。
 - [第370章复核](books/yishizhizun/reviews/review-v04-0370.md)：两剑弥短合莲、孟阴阳融与真骨控，65段、69句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0370.md)。
 - [第369章复核](books/yishizhizun/reviews/review-v04-0369.md)：心圣与专业后援、森罗门已归，59段、68句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0369.md)。
 - [第368章复核](books/yishizhizun/reviews/review-v04-0368.md)：孟正式九重、北极龙与神尸祭耗，45段、47句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0368.md)。
