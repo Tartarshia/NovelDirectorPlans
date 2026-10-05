@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷360章
+# 角色阶段索引 · 截至第四卷361章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [司马方](sima-fang.md) | 幼女报喜、崇拜与父女稳重反差 |
+| [地榜第二反应](ranking-second-reactions.md) | 榜文与公开评价、各地反应和未送提醒 |
 | [彼岸时光道标说明](bian-time-beacons-explanation.md) | 流罗知识来源、金母突破未知与未来一线 |
 | [擦船清雅女声](river-laomu-question-voice.md) | 359章匿名、360章揭为流罗柳漱玉；发声渠道未明 |
 | [虚空印真意接收](void-seal-transmission.md) | 残宝碎馈、停杀接收，非全印掌握 |
@@ -522,3 +524,5 @@
 最新[359章复核](../reviews/review-v04-0359.md)：[S48退出索偿护家](meng-qi.md)、[秦宣传口径](jin-imperial-family-postwar.md)、[张百龄百里](longnan-zhang-court.md)、[虚空初观](void-seal-transmission.md)、[匿名船声](river-laomu-question-voice.md)；[状态账](../reviews/ledger-v04-0359.md)。
 
 最新[360章复核](../reviews/review-v04-0360.md)：[流罗船声揭](liuluo-current-inquiry.md)、[彼岸时光分层](bian-time-beacons-explanation.md)、[旧老母声记忆](wusheng-laomu-echo.md)、[孟同病一线](meng-qi.md)；[状态账](../reviews/ledger-v04-0360.md)。
+
+最新[361章复核](../reviews/review-v04-0361.md)：[S49资源与洛邑](meng-qi.md)、[司马复任工作](sima-shi.md)、[祖任务续](zu-cunshen-six-doors.md)、[司马方](sima-fang.md)、[榜评](ranking-second-reactions.md)、[实际碑恢复](qisha-corpse-local-timeline.md)；[状态账](../reviews/ledger-v04-0361.md)。
