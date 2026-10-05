@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷362章
+# 角色阶段索引 · 截至第四卷363章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [公子羽／姬羽](gongzi-yu.md) | 独立地球魂穿、传道盘算与听李聃失态 |
 | [李容](li-rong.md) | 守藏史施助、礼仪自立与取李聃名 |
 | [李蒹葭](li-jianjia.md) | 黄鹂声、选仆与名字揭时 |
 | [周健与苦力](zhou-jian-and-luoyi-labor.md) | 老病忧虑、新政转述与果腹希望 |
@@ -531,3 +532,5 @@
 最新[361章复核](../reviews/review-v04-0361.md)：[S49资源与洛邑](meng-qi.md)、[司马复任工作](sima-shi.md)、[祖任务续](zu-cunshen-six-doors.md)、[司马方](sima-fang.md)、[榜评](ranking-second-reactions.md)、[实际碑恢复](qisha-corpse-local-timeline.md)；[状态账](../reviews/ledger-v04-0361.md)。
 
 最新[362章复核](../reviews/review-v04-0362.md)：[孟地球身藏市](meng-qi-earth-body.md)、[李容](li-rong.md)、[蒹葭](li-jianjia.md)、[周健新政回响](zhou-jian-and-luoyi-labor.md)；[状态账](../reviews/ledger-v04-0362.md)。
+
+最新[363章复核](../reviews/review-v04-0363.md)：[孟S50保自主](meng-qi.md)、[双身错昼夜](meng-qi-earth-body.md)、[李容礼怒](li-rong.md)、[蒹葭嘴硬佩服](li-jianjia.md)、[公子羽](gongzi-yu.md)；[状态账](../reviews/ledger-v04-0363.md)。
