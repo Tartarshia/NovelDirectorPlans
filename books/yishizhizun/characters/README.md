@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷384章
+# 角色阶段索引 · 截至第四卷385章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [碎乾坤与兵器失衡](suiqiankun-weapon-imbalance.md) | 小成、无形攻与仍可定位的痕迹 |
+| [妖枪追过去](yaosheng-spear-time-pursuit.md) | 袍毁、碑实用与跨时机制未解 |
 | [西王母=旧小狐狸](xi-wangmu-little-fox-identity.md) | 揭晓生效点、道标门槛与未解私名 |
 | [魔皇爪与万古恨](demon-emperor-claw-ancient-hatred.md) | 真见、内心污染与尚未得爪 |
 | [长宁黑涡魔](changning-rift-vortex-demon.md) | 未名隔界吼与吸夺，不与首龙混同 |
@@ -602,3 +604,5 @@
 最新[383章复核](../reviews/review-v04-0383.md)：[孟恢复护友](meng-qi.md)、[江太上与合璧](jiang-zhiwei.md)、[魔皇爪](demon-emperor-claw-ancient-hatred.md)、[黑涡魔](changning-rift-vortex-demon.md)、[西妖枪去面具](xi-wangmu-divine-brush.md)；[状态账](../reviews/ledger-v04-0383.md)。
 
 最新[384章复核](../reviews/review-v04-0384.md)：[孟咫尺与谈判](meng-qi.md)、[江借混沌](jiang-zhiwei.md)、[六灭身份后解](changning-rift-vortex-demon.md)、[西=狐](xi-wangmu-little-fox-identity.md)、[爪未摄](demon-emperor-claw-ancient-hatred.md)；[状态账](../reviews/ledger-v04-0384.md)。
+
+最新[385章复核](../reviews/review-v04-0385.md)：S55[孟新策略](meng-qi.md)、[碎乾坤小成](suiqiankun-weapon-imbalance.md)、[碑实用](qisha-corpse-local-timeline.md)、[妖枪跨时](yaosheng-spear-time-pursuit.md)、[旧狐](xi-wangmu-little-fox-identity.md)；[状态账](../reviews/ledger-v04-0385.md)。
