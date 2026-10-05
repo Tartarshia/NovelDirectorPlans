@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷386章
+# 角色阶段索引 · 截至第四卷387章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第三死亡与分割任务](third-death-task-split-luojiao.md) | 一年后规则、未来境差与杀顾目标震撼 |
+| [狐的妖圣阿难提示](fox-yaosheng-ananda-ear-hint.md) | 余火泉声、信息来源与做戏未证 |
 | [齐受爪与血穹苍](qi-claw-blood-firmament-choice.md) | 友情救援、自主选择与孟的陷阱推断 |
 | [齐的复活神器情报](qi-resurrection-artifact-report.md) | 脑传孟，轮回印或封神榜二选一尚未独验 |
 | [碎乾坤与兵器失衡](suiqiankun-weapon-imbalance.md) | 小成、无形攻与仍可定位的痕迹 |
@@ -610,3 +612,5 @@
 最新[385章复核](../reviews/review-v04-0385.md)：S55[孟新策略](meng-qi.md)、[碎乾坤小成](suiqiankun-weapon-imbalance.md)、[碑实用](qisha-corpse-local-timeline.md)、[妖枪跨时](yaosheng-spear-time-pursuit.md)、[旧狐](xi-wangmu-little-fox-identity.md)；[状态账](../reviews/ledger-v04-0385.md)。
 
 最新[386章复核](../reviews/review-v04-0386.md)：[齐受爪血穹苍](qi-claw-blood-firmament-choice.md)、[末脑传复活](qi-resurrection-artifact-report.md)、[碑被迫回当前](qisha-corpse-local-timeline.md)、[魔爪归属](demon-emperor-claw-ancient-hatred.md)、[孟护友](meng-qi.md)与[五光](taili-awakened-demon-spear.md)；[状态账](../reviews/ledger-v04-0386.md)。
+
+最新[387章复核](../reviews/review-v04-0387.md)：新S56[孟回归](meng-qi.md)、[阮自主意愿](ruan-yushu.md)、[江私谋](jiang-zhiwei.md)、[狐泉声线索](fox-yaosheng-ananda-ear-hint.md)、[死亡分割](third-death-task-split-luojiao.md)/[顾未现场](gu-xiaosang.md)与[现金新账](merit-ledger-three-skills-task.md)；[状态账](../reviews/ledger-v04-0387.md)。
