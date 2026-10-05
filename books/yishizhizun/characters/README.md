@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷374章
+# 角色阶段索引 · 截至第四卷375章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [秦霜华捕头](qin-shuanghua-constable.md) | 声态、先贤控诉与堂妹身份 |
+| [李头撤退与祖孙](evacuation-li-leader-and-family.md) | 两种立场与承担代价 |
+| [贺云敛财与梦人物](he-yun-cult-fraud.md) | 具名沿旧声源、骗局与梦吻合 |
 | [救世准备与当地声源](salvation-team-preparation-and-local-voices.md) | 分人账、队名规则与梦教主说辞 |
 | [邪魔八道反应](eight-evil-paths-reactions.md) | 各派退守、棋子判断与未名声源 |
 | [归来征兆与分配](return-omens-and-postwar-sharing.md) | 四群声音、物份额与尸骨归属 |
@@ -567,3 +570,5 @@
 最新[373章复核](../reviews/review-v04-0373.md)：[八道反应](eight-evil-paths-reactions.md)、[韩闭关](han-guang-gao-lan.md)、[小桑稳场](gu-xiaosang.md)、[新楼主](burenlou-investigation.md)、[素女分人](liuluo-current-inquiry.md)；[状态账](../reviews/ledger-v04-0373.md)。
 
 最新[374章复核](../reviews/review-v04-0374.md)：[救世准备声源](salvation-team-preparation-and-local-voices.md)、[赵一年六满](zhao-heng.md)、[江八重/塔](jiang-zhiwei.md)、[阮琴塔](ruan-yushu.md)、[孟留款](meng-qi.md)、[面具队](beidou-and-xi.md)；[状态账](../reviews/ledger-v04-0374.md)。
+
+最新[375章复核](../reviews/review-v04-0375.md)：[秦霜华](qin-shuanghua-constable.md)、[秦霜莲](qin-shuanglian-shi-tiangao-new-team.md)、[贺云](he-yun-cult-fraud.md)、[撤退队与祖孙](evacuation-li-leader-and-family.md)、[孟初临](meng-qi.md)；[状态账](../reviews/ledger-v04-0375.md)。
