@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷380章
+# 角色阶段索引 · 截至第四卷381章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [今生果与分食联系](jinsheng-fruit-and-link.md) | 新鉴答、误前提、元神互唤与自主方向 |
 | [长宁菜老者与调查](changning-vendor-and-social-inquiry.md) | 名额差一、自责与未解困局 |
 | [黑峰与羲交易](changning-black-peak-and-xi-offer.md) | 第二缝异常、推身份和消息可靠性 |
 | [首缝魔龙与声源](first-rift-dragon-and-public-voices.md) | 跨界牵制、未杀本体与未知喊声 |
@@ -588,3 +589,5 @@
 最新[379章复核](../reviews/review-v04-0379.md)：[孟公开归功](meng-qi.md)、[江自融剑](jiang-zhiwei.md)、[阮钟镇](ruan-yushu.md)、[秦华先辈意义](qin-shuanghua-constable.md)、[首缝龙与声源](first-rift-dragon-and-public-voices.md)；[状态账](../reviews/ledger-v04-0379.md)。
 
 最新[380章复核](../reviews/review-v04-0380.md)：[孟戒谈](meng-qi.md)、[齐调查](qi-zhengyan.md)、[黑甲非传音](qi-black-armored-subordinate.md)、[老者困局](changning-vendor-and-social-inquiry.md)、[峰与羲](changning-black-peak-and-xi-offer.md)；[状态账](../reviews/ledger-v04-0380.md)。
+
+最新[381章复核](../reviews/review-v04-0381.md)：[孟隐真收情](meng-qi.md)、[羲履约](beidou-and-xi.md)、[顾缺席信息](gu-xiaosang.md)、[今生果](jinsheng-fruit-and-link.md)、[江镜建议](jiang-zhiwei.md)、[黑峰沉降](changning-black-peak-and-xi-offer.md)；[状态账](../reviews/ledger-v04-0381.md)。
