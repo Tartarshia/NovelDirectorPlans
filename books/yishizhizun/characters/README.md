@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷379章
+# 角色阶段索引 · 截至第四卷380章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [长宁菜老者与调查](changning-vendor-and-social-inquiry.md) | 名额差一、自责与未解困局 |
+| [黑峰与羲交易](changning-black-peak-and-xi-offer.md) | 第二缝异常、推身份和消息可靠性 |
 | [首缝魔龙与声源](first-rift-dragon-and-public-voices.md) | 跨界牵制、未杀本体与未知喊声 |
 | [鲍真与肉山魔将](bao-zhen-and-roushan-mojiang.md) | 旧伤、估敌与战果知识边界 |
 | [撤退同伴与警声](pingle-retreat-companion-and-alarms.md) | 小胡子、尖警与城头雷警分源 |
@@ -584,3 +586,5 @@
 最新[378章复核](../reviews/review-v04-0378.md)：[孟保护与试敌](meng-qi.md)、[江护众](jiang-zhiwei.md)、[阮配琴](ruan-yushu.md)、[秦华悲喜](qin-shuanghua-constable.md)、[鲍与肉山](bao-zhen-and-roushan-mojiang.md)、[李青年获生](evacuation-li-leader-and-family.md)；[状态账](../reviews/ledger-v04-0378.md)。
 
 最新[379章复核](../reviews/review-v04-0379.md)：[孟公开归功](meng-qi.md)、[江自融剑](jiang-zhiwei.md)、[阮钟镇](ruan-yushu.md)、[秦华先辈意义](qin-shuanghua-constable.md)、[首缝龙与声源](first-rift-dragon-and-public-voices.md)；[状态账](../reviews/ledger-v04-0379.md)。
+
+最新[380章复核](../reviews/review-v04-0380.md)：[孟戒谈](meng-qi.md)、[齐调查](qi-zhengyan.md)、[黑甲非传音](qi-black-armored-subordinate.md)、[老者困局](changning-vendor-and-social-inquiry.md)、[峰与羲](changning-black-peak-and-xi-offer.md)；[状态账](../reviews/ledger-v04-0380.md)。
