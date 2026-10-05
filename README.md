@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第381章，881 / 1410 个目录条目，约287.8万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第382章，882 / 1410 个目录条目，约288.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第382章复核](books/yishizhizun/reviews/review-v04-0382.md)：笔门、镜棺开幕与拒爪奴役，73段、106句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0382.md)。
 - [第381章复核](books/yishizhizun/reviews/review-v04-0381.md)：今生果鉴答、分果隐情与沉峰撑裂风险，59段、104句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0381.md)。
 - [第380章复核](books/yishizhizun/reviews/review-v04-0380.md)：街头调查、第二缝黑峰与未成交的等价交易，53段、92句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0380.md)。
 - [第379章复核](books/yishizhizun/reviews/review-v04-0379.md)：人族共同功、队内传音与首缝消除，87段、124句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0379.md)。
