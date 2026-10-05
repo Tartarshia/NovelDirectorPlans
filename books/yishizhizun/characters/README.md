@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷371章
+# 角色阶段索引 · 截至第四卷372章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [归来征兆与分配](return-omens-and-postwar-sharing.md) | 四群声音、物份额与尸骨归属 |
 | [取忆与问道分界](question-dao-and-memory-paths.md) | S53价值触动、两路径未完成与物状态 |
 | [四线与两剑合璧](joint-swords-four-fronts.md) | 互补短处、群诵来源及尚未终局 |
 | [心圣遗蜕与虚空叹](xinsheng-remains-and-unlocated-sigh.md) | 天仙古圣身份、灾厄历史及声源待认 |
@@ -558,3 +559,5 @@
 最新[370章复核](../reviews/review-v04-0370.md)：[孟阴阳融骨控](meng-qi.md)、[陆苏合璧](joint-swords-four-fronts.md)、[心圣近模拟](xinsheng-remains-and-unlocated-sigh.md)、[云控血](yunhe-wanxiang.md)、[师僧愿诵](shaolin-relationships.md)、[幽冥失控](coffin-dijun-forest.md)；[状态账](../reviews/ledger-v04-0370.md)。
 
 最新[371章复核](../reviews/review-v04-0371.md)：[S53先贤问道](meng-qi.md)、[帝取忆末意](coffin-dijun-forest.md)、[骨出处与两方案](huangquan-remains-method.md)、[圣影回棺](xinsheng-remains-and-unlocated-sigh.md)、[取忆/问道卡](question-dao-and-memory-paths.md)；[状态账](../reviews/ledger-v04-0371.md)。
+
+最新[372章复核](../reviews/review-v04-0372.md)：[完整骨/跨界征兆与分配](return-omens-and-postwar-sharing.md)、[孟互惠](meng-qi.md)、[何七伏与得笔](heqi-simayin-side-battles.md)、[江远观](jiang-zhiwei.md)、[陆尊贤](lu-da-wood-carving.md)；[状态账](../reviews/ledger-v04-0372.md)。
