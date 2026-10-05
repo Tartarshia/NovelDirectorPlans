@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷385章
+# 角色阶段索引 · 截至第四卷386章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,13 +6,15 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐受爪与血穹苍](qi-claw-blood-firmament-choice.md) | 友情救援、自主选择与孟的陷阱推断 |
+| [齐的复活神器情报](qi-resurrection-artifact-report.md) | 脑传孟，轮回印或封神榜二选一尚未独验 |
 | [碎乾坤与兵器失衡](suiqiankun-weapon-imbalance.md) | 小成、无形攻与仍可定位的痕迹 |
 | [妖枪追过去](yaosheng-spear-time-pursuit.md) | 袍毁、碑实用与跨时机制未解 |
 | [西王母=旧小狐狸](xi-wangmu-little-fox-identity.md) | 揭晓生效点、道标门槛与未解私名 |
-| [魔皇爪与万古恨](demon-emperor-claw-ancient-hatred.md) | 真见、内心污染与尚未得爪 |
-| [长宁黑涡魔](changning-rift-vortex-demon.md) | 未名隔界吼与吸夺，不与首龙混同 |
-| [西王母与画门](xi-wangmu-divine-brush.md) | 表面声音、围杀分歧与未现帮手 |
-| [昊天片开光幕](haotian-fragment-peak-opening.md) | 三友同行、初见沉迷与未穿真峰 |
+| [魔皇爪与万古恨](demon-emperor-claw-ancient-hatred.md) | 真见污染、齐386受爪与抵御自述 |
+| [长宁黑涡魔](changning-rift-vortex-demon.md) | 383未名、384后解六灭，386临身将灭未死 |
+| [西王母与画门](xi-wangmu-divine-brush.md) | 表面声音、五德枪战与五光救援 |
+| [昊天片开光幕](haotian-fragment-peak-opening.md) | 382开光幕历史，383真峰内爪景 |
 | [今生果与分食联系](jinsheng-fruit-and-link.md) | 新鉴答、误前提、元神互唤与自主方向 |
 | [长宁菜老者与调查](changning-vendor-and-social-inquiry.md) | 名额差一、自责与未解困局 |
 | [黑峰与羲交易](changning-black-peak-and-xi-offer.md) | 第二缝异常、推身份和消息可靠性 |
@@ -606,3 +608,5 @@
 最新[384章复核](../reviews/review-v04-0384.md)：[孟咫尺与谈判](meng-qi.md)、[江借混沌](jiang-zhiwei.md)、[六灭身份后解](changning-rift-vortex-demon.md)、[西=狐](xi-wangmu-little-fox-identity.md)、[爪未摄](demon-emperor-claw-ancient-hatred.md)；[状态账](../reviews/ledger-v04-0384.md)。
 
 最新[385章复核](../reviews/review-v04-0385.md)：S55[孟新策略](meng-qi.md)、[碎乾坤小成](suiqiankun-weapon-imbalance.md)、[碑实用](qisha-corpse-local-timeline.md)、[妖枪跨时](yaosheng-spear-time-pursuit.md)、[旧狐](xi-wangmu-little-fox-identity.md)；[状态账](../reviews/ledger-v04-0385.md)。
+
+最新[386章复核](../reviews/review-v04-0386.md)：[齐受爪血穹苍](qi-claw-blood-firmament-choice.md)、[末脑传复活](qi-resurrection-artifact-report.md)、[碑被迫回当前](qisha-corpse-local-timeline.md)、[魔爪归属](demon-emperor-claw-ancient-hatred.md)、[孟护友](meng-qi.md)与[五光](taili-awakened-demon-spear.md)；[状态账](../reviews/ledger-v04-0386.md)。
