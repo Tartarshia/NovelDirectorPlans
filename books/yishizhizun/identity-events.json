@@ -1,7 +1,187 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0377",
+  "through_chapter": "v04-c0378",
   "events": [
+    {
+      "type": "convoy_gate_wards_horses_stop",
+      "entity": "evacuation_convoy_ensemble",
+      "reference": "v04-c0378:p0002",
+      "fact_status": "门闭困外"
+    },
+    {
+      "type": "young_guard_despair_at_demon_tide",
+      "entity": "evacuation_young_guard_unnamed",
+      "reference": "v04-c0378:p0011",
+      "fact_status": "怕未死"
+    },
+    {
+      "type": "bao_zhen_city_lord_seventh_realm_old_injury",
+      "entity": "bao_zhen",
+      "reference": "v04-c0378:p0018",
+      "fact_status": "七旧创"
+    },
+    {
+      "type": "roushan_human_given_title_near_ninth",
+      "entity": "rou_shan_mojiang",
+      "reference": "v04-c0378:p0030",
+      "fact_status": "人族称术强"
+    },
+    {
+      "type": "bao_holds_city_formation_checks",
+      "entity": "bao_zhen",
+      "reference": "v04-c0378:p0031",
+      "fact_status": "实际借阵断联"
+    },
+    {
+      "type": "young_guard_volunteers_rearguard",
+      "entity": "evacuation_young_guard_unnamed",
+      "reference": "v04-c0378:p0037",
+      "fact_status": "颤仍担"
+    },
+    {
+      "type": "young_guard_family_memory_not_present",
+      "entity": "evacuation_young_guard_unnamed",
+      "reference": "v04-c0378:p0043",
+      "fact_status": "脑海亲非当场"
+    },
+    {
+      "type": "six_leave_before_gate_closed",
+      "entity": "meng_qi",
+      "reference": "v04-c0378:p0046",
+      "fact_status": "四友两堂妹"
+    },
+    {
+      "type": "shuanghua_fear_and_ancestor_respect",
+      "entity": "qin_shuanghua",
+      "reference": "v04-c0378:p0050",
+      "fact_status": "过去师牺"
+    },
+    {
+      "type": "shuanghua_rejects_infiltrator_hypothesis",
+      "entity": "qin_shuanghua",
+      "reference": "v04-c0378:p0053",
+      "fact_status": "其判断改变"
+    },
+    {
+      "type": "jiang_assigned_civilian_protection",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0378:p0055",
+      "fact_status": "信任分工"
+    },
+    {
+      "type": "meng_altered_jaw_ancient_face",
+      "entity": "meng_qi",
+      "reference": "v04-c0378:p0056",
+      "fact_status": "改貌同演员"
+    },
+    {
+      "type": "ruan_sets_qin_without_spoken_reply",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0378:p0059",
+      "fact_status": "琴曲未明名"
+    },
+    {
+      "type": "li_kills_old_demon_heavily_injured",
+      "entity": "evacuation_leader_li",
+      "reference": "v04-c0378:p0064",
+      "fact_status": "生重伤"
+    },
+    {
+      "type": "meng_sends_li_back_companions",
+      "entity": "meng_qi",
+      "reference": "v04-c0378:p0066",
+      "fact_status": "救回未痊"
+    },
+    {
+      "type": "qin_music_controlled_battle_rhythm",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0378:p0069",
+      "fact_status": "曲步刀相应"
+    },
+    {
+      "type": "meng_fire_sweeps_local_tide_ten_li_boundary",
+      "entity": "meng_qi",
+      "reference": "v04-c0378:p0089",
+      "fact_status": "本地潮尽不封"
+    },
+    {
+      "type": "bao_stunned_local_tide_wipe",
+      "entity": "bao_zhen",
+      "reference": "v04-c0378:p0092",
+      "fact_status": "超史是估"
+    },
+    {
+      "type": "roushan_nine_dragons_demonic_flame",
+      "entity": "rou_shan_mojiang",
+      "reference": "v04-c0378:p0099",
+      "fact_status": "当前施旧鲍伤分开"
+    },
+    {
+      "type": "meng_tanks_destroy_form_thunder",
+      "entity": "meng_qi",
+      "reference": "v04-c0378:p0111",
+      "fact_status": "主动肩碎雷"
+    },
+    {
+      "type": "roushan_domain_vines_broken",
+      "entity": "rou_shan_mojiang",
+      "reference": "v04-c0378:p0120",
+      "fact_status": "域破未M伤"
+    },
+    {
+      "type": "meng_black_disc_finger_slight_pain",
+      "entity": "meng_qi",
+      "reference": "v04-c0378:p0129",
+      "fact_status": "红指小痛非绝对无痛"
+    },
+    {
+      "type": "roushan_fear_escape",
+      "entity": "rou_shan_mojiang",
+      "reference": "v04-c0378:p0132",
+      "fact_status": "逃意未成功"
+    },
+    {
+      "type": "meng_fire_blade_bisects_kills_roushan",
+      "entity": "meng_qi",
+      "reference": "v04-c0378:p0146",
+      "fact_status": "确死"
+    },
+    {
+      "type": "crowd_view_limited_to_mountain_fall",
+      "entity": "evacuation_convoy_ensemble",
+      "reference": "v04-c0378:p0147",
+      "fact_status": "未知具体术"
+    },
+    {
+      "type": "qin_shuanghua_mixed_sorrow_after_victory",
+      "entity": "qin_shuanghua",
+      "reference": "v04-c0378:p0148",
+      "fact_status": "悲因未详"
+    },
+    {
+      "type": "ziwei_orders_avoid_meng",
+      "entity": "zi_wei_star_lord",
+      "reference": "v04-c0378:p0149",
+      "fact_status": "私名未给"
+    },
+    {
+      "type": "xiwangmu_hateful_glance_then_retires",
+      "entity": "xi_wang_mu",
+      "reference": "v04-c0378:p0152",
+      "fact_status": "仇因未明"
+    },
+    {
+      "type": "meng_requests_nearest_rift_after_local_victory",
+      "entity": "meng_qi",
+      "reference": "v04-c0378:p0154",
+      "fact_status": "未封"
+    },
+    {
+      "type": "qin_cousins_tears_ancestor_consolation_impulse",
+      "entity": "qin_cousins_ensemble",
+      "reference": "v04-c0378:p0157",
+      "fact_status": "冲动未祭成"
+    },
     {
       "type": "young_guard_fears_demon_power",
       "entity": "evacuation_young_guard_unnamed",
