@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷366章
+# 角色阶段索引 · 截至第四卷367章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,8 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [守阁、赶尸弟子与龙棺](wanbao-guard-shiwang-handler-dragon.md) | 守者已吞、尸王低灵智与未名真龙头 |
 | [万宝阁与两宗报信者](wanbao-auction-and-hidden-envoys.md) | 董老、未名天魔、幸存宗师及暗验客卿 |
-| [江东典骨书生](jiangdong-pawn-scholar.md) | 匿名书生、掌柜与黑白手骨未成交 |
+| [江东典骨书生](jiangdong-pawn-scholar.md) | 书生仍未名、367揭流转骨为孟变化物 |
 | [洛邑测字道人](luoyi-fortune-teller.md) | 364匿名、365揭为孟奇毛发与变化箱 |
 | [公子羽／姬羽](gongzi-yu.md) | 独立地球魂穿、传道盘算与听李聃失态 |
 | [李容](li-rong.md) | 守藏史施助、礼仪自立与取李聃名 |
@@ -543,3 +544,5 @@
 最新[365章复核](../reviews/review-v04-0365.md)：[S51代理传道](meng-qi.md)、[羽百世后受教](gongzi-yu.md)、[毛发道人后揭](luoyi-fortune-teller.md)、[江密信](jiang-zhiwei.md)、[匿名典骨](jiangdong-pawn-scholar.md)；[状态账](../reviews/ledger-v04-0365.md)。
 
 最新[366章复核](../reviews/review-v04-0366.md)：[匿名书生与掌柜](jiangdong-pawn-scholar.md)、[董老/天魔/宗师](wanbao-auction-and-hidden-envoys.md)、[韩广静观](han-guang-gao-lan.md)、[幽冥试探](coffin-dijun-forest.md)、[黄泉骨鉴定层次](huangquan-remains-method.md)；[状态账](../reviews/ledger-v04-0366.md)。
+
+最新[367章复核](../reviews/review-v04-0367.md)：[S52自变骨召援](meng-qi.md)、[江叠击成长](jiang-zhiwei.md)、[守者/弟子/尸龙](wanbao-guard-shiwang-handler-dragon.md)、[苏破禁](su-wuming-valley-report.md)、[陆赴援](lu-da-wood-carving.md)、[幽冥危机](coffin-dijun-forest.md)；[状态账](../reviews/ledger-v04-0367.md)。
