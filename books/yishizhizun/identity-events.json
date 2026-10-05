@@ -1,7 +1,205 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0387",
+  "through_chapter": "v04-c0388",
   "events": [
+    {
+      "type": "gu_death_target_mental_echo",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0001",
+      "fact_status": "内回响不是新系统任务"
+    },
+    {
+      "type": "meng_gu_one_survivor_pressure",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0003",
+      "fact_status": "孟规则压力判断非顾同任已证"
+    },
+    {
+      "type": "gu_past_encounters_memory_sequence",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0012",
+      "fact_status": "回忆今果关系孟知非当下顾出场"
+    },
+    {
+      "type": "gu_recalled_road_will_kill_promise",
+      "entity": "gu_xiaosang",
+      "reference": "v04-c0388:p0014",
+      "fact_status": "279旧言非今话"
+    },
+    {
+      "type": "gu_recalled_whiteflowers_revive_vow",
+      "entity": "gu_xiaosang",
+      "reference": "v04-c0388:p0015",
+      "fact_status": "旧誓未来条件非实际复活"
+    },
+    {
+      "type": "meng_recalled_blue_lamp_vow",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0016",
+      "fact_status": "27968本人旧语"
+    },
+    {
+      "type": "meng_no_killing_intent_three_rescues",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0018",
+      "fact_status": "三救本心难杀"
+    },
+    {
+      "type": "meng_future_friends_coercion_fear",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0021",
+      "fact_status": "未来可能非友师已杀"
+    },
+    {
+      "type": "meng_must_seek_sixpaths_liberation",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0022",
+      "fact_status": "内决非正式拒任务触罚"
+    },
+    {
+      "type": "meng_preparation_insufficient",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0023",
+      "fact_status": "第五刀未得局未知"
+    },
+    {
+      "type": "chonghe_old_question_recalled",
+      "entity": "chong_he",
+      "reference": "v04-c0388:p0024",
+      "fact_status": "旧记忆非复活"
+    },
+    {
+      "type": "meng_chonghe_unprepared_backup_empathy",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0025",
+      "fact_status": "孟推长者后手未备"
+    },
+    {
+      "type": "meng_stand_die_not_kneel_live",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0027",
+      "fact_status": "本心宁折内决"
+    },
+    {
+      "type": "meng_quiet_fists_calm_eye",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0028",
+      "fact_status": "真实姿态转平静"
+    },
+    {
+      "type": "meng_two_year_two_months_plan",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0030",
+      "fact_status": "符2月拟1年间隔1年未兑完"
+    },
+    {
+      "type": "earthbody_hidden_do_not_move",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0032",
+      "fact_status": "绝不可暴露故不动"
+    },
+    {
+      "type": "meng_plan_fengshen_eightprints",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0033",
+      "fact_status": "开天四象玉虚全未取"
+    },
+    {
+      "type": "meng_open_half_fashen_secret_daoyi_method",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0034",
+      "fact_status": "明半步绝刀暗自创未实成"
+    },
+    {
+      "type": "meng_plan_huangquan_zhenwu",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0035",
+      "fact_status": "觅转世遗留未到"
+    },
+    {
+      "type": "meng_plan_borrow_presentlife_mirror",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0036",
+      "fact_status": "高镜未借合来片未新参"
+    },
+    {
+      "type": "meng_soul_transfer_cut_earthbody_link_plan",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0037",
+      "fact_status": "未来双身斩联未实行"
+    },
+    {
+      "type": "meng_public_iceblade_stele_cover_plan",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0038",
+      "fact_status": "炼兵碑复遮策未做"
+    },
+    {
+      "type": "jiang_checks_meng_state",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0388:p0039",
+      "fact_status": "关心口问"
+    },
+    {
+      "type": "meng_fake_smile_public_gu_grudge",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0040",
+      "fact_status": "压情口语与内决不同"
+    },
+    {
+      "type": "death_success_reward_unheard_not_asked",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0041",
+      "fact_status": "未知不补"
+    },
+    {
+      "type": "jiang_ruan_choose_trust_reassure",
+      "entity": "jiang_ruan_reassurance_ensemble",
+      "reference": "v04-c0388:p0042",
+      "fact_status": "群口声分配待"
+    },
+    {
+      "type": "jiang_ruan_one_year_exchanged",
+      "entity": "jiang_ruan_reassurance_ensemble",
+      "reference": "v04-c0388:p0043",
+      "fact_status": "两女实兑价未给赵未明"
+    },
+    {
+      "type": "meng_possible_last_life_peace",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0044",
+      "fact_status": "可能期限非必死认证"
+    },
+    {
+      "type": "meng_calls_three_friends_no_words",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0045",
+      "fact_status": "内或永隔然后叫名"
+    },
+    {
+      "type": "meng_only_warns_careful",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0048",
+      "fact_status": "未透露全暗筹"
+    },
+    {
+      "type": "jiang_laughs_careful_warning",
+      "entity": "jiang_zhiwei",
+      "reference": "v04-c0388:p0050",
+      "fact_status": "噗笑非笑孟将死"
+    },
+    {
+      "type": "ruan_water_gaze_pause_careful",
+      "entity": "ruan_yushu",
+      "reference": "v04-c0388:p0051",
+      "fact_status": "水目停口回应"
+    },
+    {
+      "type": "meng_leaves_square_face_sinks",
+      "entity": "meng_qi",
+      "reference": "v04-c0388:p0052",
+      "fact_status": "仅离广场非已到仙迹售炼"
+    },
     {
       "type": "reincarnationseal_houtu_catalogue_history",
       "entity": "reincarnation_seal",
