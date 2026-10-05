@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷364章
+# 角色阶段索引 · 截至第四卷365章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,7 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
-| [洛邑测字道人](luoyi-fortune-teller.md) | 未名木箱测字、服务自称未验效 |
+| [江东典骨书生](jiangdong-pawn-scholar.md) | 匿名书生、掌柜与黑白手骨未成交 |
+| [洛邑测字道人](luoyi-fortune-teller.md) | 364匿名、365揭为孟奇毛发与变化箱 |
 | [公子羽／姬羽](gongzi-yu.md) | 独立地球魂穿、传道盘算与听李聃失态 |
 | [李容](li-rong.md) | 守藏史施助、礼仪自立与取李聃名 |
 | [李蒹葭](li-jianjia.md) | 黄鹂声、选仆与名字揭时 |
@@ -537,3 +538,5 @@
 最新[363章复核](../reviews/review-v04-0363.md)：[孟S50保自主](meng-qi.md)、[双身错昼夜](meng-qi-earth-body.md)、[李容礼怒](li-rong.md)、[蒹葭嘴硬佩服](li-jianjia.md)、[公子羽](gongzi-yu.md)；[状态账](../reviews/ledger-v04-0363.md)。
 
 最新[364章复核](../reviews/review-v04-0364.md)：[孟双向试](meng-qi.md)、[羽试探落空](gongzi-yu.md)、[蒹葭见闻拒诗](li-jianjia.md)、[街道人](luoyi-fortune-teller.md)；[状态账](../reviews/ledger-v04-0364.md)。
+
+最新[365章复核](../reviews/review-v04-0365.md)：[S51代理传道](meng-qi.md)、[羽百世后受教](gongzi-yu.md)、[毛发道人后揭](luoyi-fortune-teller.md)、[江密信](jiang-zhiwei.md)、[匿名典骨](jiangdong-pawn-scholar.md)；[状态账](../reviews/ledger-v04-0365.md)。
