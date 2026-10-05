@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷356章
+# 角色阶段索引 · 截至第四卷357章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -511,3 +511,5 @@
 最新[355章复核](../reviews/review-v04-0355.md)：[S47孟迎伏亮兵](meng-qi.md)、[柳伪装揭](liushengming-and-lamp-envoy.md)、[奉典宝物](fengdian-envoy.md)、[欢喜对质](huanxi-bodhisattva-blacklist-deterrence.md)、[秦合作指证](jin-imperial-family-postwar.md)；[状态账](../reviews/ledger-v04-0355.md)。
 
 最新[356章复核](../reviews/review-v04-0356.md)：[秦设局自述](jin-imperial-family-postwar.md)、[司马活现](sima-shi.md)、[崔让步](cui-qingyu-carriage-guest.md)、[刀实截](lingbao-fire-blade.md)、[柳焦伤](liushengming-and-lamp-envoy.md)、[楼主暗剑](burenlou-investigation.md)；[状态账](../reviews/ledger-v04-0356.md)。
+
+最新[357章复核](../reviews/review-v04-0357.md)：[碑实回与小改](qisha-corpse-local-timeline.md)、[旧刺客种魔当前楼主死](burenlou-investigation.md)、[孟压势](meng-qi.md)、[顾兵轻咦](gu-xiaosang.md)；[状态账](../reviews/ledger-v04-0357.md)。
