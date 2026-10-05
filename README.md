@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第376章，876 / 1410 个目录条目，约285.9万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第377章，877 / 1410 个目录条目，约286.2万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第377章复核](books/yishizhizun/reviews/review-v04-0377.md)：青年护队成长、平等星与宝典、车队关门外，63段、93句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0377.md)。
 - [第376章复核](books/yishizhizun/reviews/review-v04-0376.md)：元皇自名、心理与传音分界、齐正言万世法，69段、111句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0376.md)。
 - [第375章复核](books/yishizhizun/reviews/review-v04-0375.md)：薪火牺牲、撤退代价与秦家求援，126段、190句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0375.md)。
 - [第374章复核](books/yishizhizun/reviews/review-v04-0374.md)：分人兑换与现金、两队任务及梦教主说辞，42段、44句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0374.md)。

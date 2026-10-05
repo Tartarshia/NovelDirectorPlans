@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷376章
+# 角色阶段索引 · 截至第四卷377章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [撤退同伴与警声](pingle-retreat-companion-and-alarms.md) | 小胡子、尖警与城头雷警分源 |
 | [齐的黑甲属下](qi-black-armored-subordinate.md) | 未名谄媚声源与记言边界 |
 | [秦霜华捕头](qin-shuanghua-constable.md) | 声态、先贤控诉与堂妹身份 |
 | [李头撤退与祖孙](evacuation-li-leader-and-family.md) | 两种立场与承担代价 |
@@ -575,3 +576,5 @@
 最新[375章复核](../reviews/review-v04-0375.md)：[秦霜华](qin-shuanghua-constable.md)、[秦霜莲](qin-shuanglian-shi-tiangao-new-team.md)、[贺云](he-yun-cult-fraud.md)、[撤退队与祖孙](evacuation-li-leader-and-family.md)、[孟初临](meng-qi.md)；[状态账](../reviews/ledger-v04-0375.md)。
 
 最新[376章复核](../reviews/review-v04-0376.md)：[孟元皇自名](meng-qi.md)、[齐万世法](qi-zhengyan.md)、[黑甲属下](qi-black-armored-subordinate.md)、[秦家轮回秘密](qin-shuanglian-shi-tiangao-new-team.md)；[状态账](../reviews/ledger-v04-0376.md)。
+
+最新[377章复核](../reviews/review-v04-0377.md)：[青年与李头](evacuation-li-leader-and-family.md)、[齐平等星与宝典](qi-zhengyan.md)、[黑甲身份后解](qi-black-armored-subordinate.md)、[同伴警声](pingle-retreat-companion-and-alarms.md)；[状态账](../reviews/ledger-v04-0377.md)。
