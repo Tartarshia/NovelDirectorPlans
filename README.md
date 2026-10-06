@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第四卷第395章，895 / 1410 个目录条目，约292.0万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第四卷第396章，896 / 1410 个目录条目，约292.3万字。第一至三卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第396章复核](books/yishizhizun/reviews/review-v04-0396.md)：黄泉其一转世、生死原点口述与六道奖励挫折，85段、122句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0396.md)。
 - [第395章复核](books/yishizhizun/reviews/review-v04-0395.md)：第三天梯、传承合纵、道一镜像与现代命案悬念，70段、75句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0395.md)。
 - [第394章复核](books/yishizhizun/reviews/review-v04-0394.md)：八印关系、刀碑均衡与齐袖救重伤脱宫，53段、58句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0394.md)。
 - [第393章复核](books/yishizhizun/reviews/review-v04-0393.md)：八门真影后手、汉被逐与自爆威胁取开天对象，93段、106句内单元；[状态账](books/yishizhizun/reviews/ledger-v04-0393.md)。

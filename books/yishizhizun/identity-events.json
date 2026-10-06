@@ -1,7 +1,187 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0395",
+  "through_chapter": "v04-c0396",
   "events": [
+    {
+      "type": "bearded_detective_recognizes_boy",
+      "entity": "villa_bearded_detective",
+      "reference": "v04-c0396:p0005",
+      "fact_status": "口认孩子"
+    },
+    {
+      "type": "boy_disaster_history_report",
+      "entity": "villa_bearded_detective",
+      "reference": "v04-c0396:p0012",
+      "fact_status": "人物报告非独证"
+    },
+    {
+      "type": "chief_calls_religious_help",
+      "entity": "villa_police_chief",
+      "reference": "v04-c0396:p0022",
+      "fact_status": "两电话实际打"
+    },
+    {
+      "type": "cleric_and_exorcist_arrive",
+      "entity": "villa_cleric",
+      "reference": "v04-c0396:p0023",
+      "fact_status": "两车不同匿名角色"
+    },
+    {
+      "type": "cleric_holywater_boy",
+      "entity": "villa_cleric",
+      "reference": "v04-c0396:p0028",
+      "fact_status": "泼水真实"
+    },
+    {
+      "type": "boy_nonlexical_pain",
+      "entity": "villa_boy_unresolved",
+      "reference": "v04-c0396:p0029",
+      "fact_status": "痛吟无词"
+    },
+    {
+      "type": "cleric_claims_exorcism_success",
+      "entity": "villa_cleric",
+      "reference": "v04-c0396:p0030",
+      "fact_status": "仅人物自信"
+    },
+    {
+      "type": "chandelier_kills_cleric",
+      "entity": "villa_cleric",
+      "reference": "v04-c0396:p0033",
+      "fact_status": "作者实述非警长死"
+    },
+    {
+      "type": "exorcist_claims_deathgod_reincarnation",
+      "entity": "villa_eastern_exorcist",
+      "reference": "v04-c0396:p0038",
+      "fact_status": "人物猜口"
+    },
+    {
+      "type": "cosmic_projection_biyou_palace",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0048",
+      "fact_status": "外景牌匾非神声"
+    },
+    {
+      "type": "thunder_manifests_daoist",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0056",
+      "fact_status": "未焦地青衣人"
+    },
+    {
+      "type": "boy_flees_blood_yellow_eyes",
+      "entity": "villa_boy_unresolved",
+      "reference": "v04-c0396:p0058",
+      "fact_status": "见道人实际逃"
+    },
+    {
+      "type": "m_spirit_phase_identity",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0059",
+      "fact_status": "作者明确元神法相化"
+    },
+    {
+      "type": "biyou_two_concealment_intents",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0060",
+      "fact_status": "藏道一与转世目的非已成"
+    },
+    {
+      "type": "m_awakens_past_life",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0062",
+      "fact_status": "掌额变天击地"
+    },
+    {
+      "type": "m_sting_on_memory_contact",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0063",
+      "fact_status": "脑刺痛后退"
+    },
+    {
+      "type": "huangquan_one_reincarnation_confirmed",
+      "entity": "huangquan",
+      "reference": "v04-c0396:p0064",
+      "fact_status": "其一转世源直接"
+    },
+    {
+      "type": "huangquan_old_intention_reappears",
+      "entity": "huangquan",
+      "reference": "v04-c0396:p0065",
+      "fact_status": "古念非完整力量复生"
+    },
+    {
+      "type": "huangquan_recognizes_cause_features",
+      "entity": "huangquan",
+      "reference": "v04-c0396:p0068",
+      "fact_status": "尖利识少许诸果"
+    },
+    {
+      "type": "m_skeleton_temporary_use_statement",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0069",
+      "fact_status": "口说不实际交还"
+    },
+    {
+      "type": "zhenwu_undead_method_report",
+      "entity": "huangquan",
+      "reference": "v04-c0396:p0070",
+      "fact_status": "黄泉亲历讲述"
+    },
+    {
+      "type": "zhenwu_enters_life_death_origin_report",
+      "entity": "huangquan",
+      "reference": "v04-c0396:p0071",
+      "fact_status": "真武末落口述未当场现"
+    },
+    {
+      "type": "yuanxin_progress_weak_memory_sensing",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0074",
+      "fact_status": "元心进益，孟防瞒信心"
+    },
+    {
+      "type": "huangquan_river_origin_return_report",
+      "entity": "huangquan",
+      "reference": "v04-c0396:p0075",
+      "fact_status": "黄泉自述"
+    },
+    {
+      "type": "zhenwu_no_remaining_items_report",
+      "entity": "huangquan",
+      "reference": "v04-c0396:p0076",
+      "fact_status": "无物报告"
+    },
+    {
+      "type": "huangquan_no_secrecy_for_tormentor",
+      "entity": "huangquan",
+      "reference": "v04-c0396:p0079",
+      "fact_status": "怨动机非忠盟"
+    },
+    {
+      "type": "zhenwu_chain_task_complete_notice",
+      "entity": "six_paths_voice",
+      "reference": "v04-c0396:p0081",
+      "fact_status": "系统耳声完成总纲奖励"
+    },
+    {
+      "type": "m_no_joy_shocked",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0082",
+      "fact_status": "奖励反而震"
+    },
+    {
+      "type": "concealment_failure_mechanism_questions",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0084",
+      "fact_status": "屏蔽/早知等待两猜"
+    },
+    {
+      "type": "m_suspects_jietian_outline",
+      "entity": "meng_qi",
+      "reference": "v04-c0396:p0085",
+      "fact_status": "疑虑非伪毒确认"
+    },
     {
       "type": "fourteen_months_qi_palace",
       "entity": "meng_qi",

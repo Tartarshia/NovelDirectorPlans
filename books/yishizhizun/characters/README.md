@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷395章
+# 角色阶段索引 · 截至第四卷396章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [别墅门外群像](villa-police-cleric-exorcist.md) | 警探、教士、道士，口内与认知 |
+| [黄泉男孩转世](huangquan-reincarnated-boy.md) | 其一转世记忆苏醒，力低声态变化 |
+| [真武原点与奖励](zhenwu-origin-and-sixdaos-reward.md) | 下落口述、任务完成与隐瞒疑虑 |
 | [言无我](yan-wuwo.md) | 飞天夜叉／太乙，秘密半步与内评 |
 | [道一镜像追索](daoyi-mirror-hidden-causality.md) | 反事实刺激真隐线，能力与代价 |
 | [别墅幸存男孩](suburban-villa-surviving-boy-unresolved.md) | 现代命案，身份待揭 |
@@ -651,3 +654,5 @@
 最新[394章复核](../reviews/review-v04-0394.md)：[八印关系](nineprints-relations-eight-transmissions.md)、[刀碑隐踪](meng-blade-stele-balanced-concealment.md)、[齐袖救硬逃](qi-sleeve-rescue-withdrawal.md)与各霸当前状态；[状态账](../reviews/ledger-v04-0394.md)。
 
 最新[395章复核](../reviews/review-v04-0395.md)：第三天梯、传承合纵、道一镜像追踪与未揭男孩；[状态账](../reviews/ledger-v04-0395.md)。
+
+最新[396章复核](../reviews/review-v04-0396.md)：黄泉其一转世、原点讲述与六道奖励；[状态账](../reviews/ledger-v04-0396.md)。395男孩未揭卡保历史，新身份见黄泉卡。
