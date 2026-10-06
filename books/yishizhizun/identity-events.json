@@ -1,7 +1,199 @@
 {
   "schema_version": 1,
-  "through_chapter": "v05-c0020",
+  "through_chapter": "v05-c0021",
   "events": [
+    {
+      "type": "huangquan_river_expands",
+      "entity": "huangquan_remains",
+      "reference": "v05-c0021:p0006",
+      "fact_status": "河吞裂似通深外"
+    },
+    {
+      "type": "corpse_ensemble_actual_huangquan",
+      "entity": "lingshan_corpse_ensemble",
+      "reference": "v05-c0021:p0009",
+      "fact_status": "僧尸实际吼"
+    },
+    {
+      "type": "corpses_instinctively_merge",
+      "entity": "huangquan_remains",
+      "reference": "v05-c0021:p0010",
+      "fact_status": "僧妖尸投入"
+    },
+    {
+      "type": "river_materializes_memory_wash",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0013",
+      "fact_status": "忆灵微被洗地利倍"
+    },
+    {
+      "type": "kasyapa_corroded_light_swallowed",
+      "entity": "kasyapa_remains",
+      "reference": "v05-c0021:p0017",
+      "fact_status": "花枯光吞腐"
+    },
+    {
+      "type": "kasyapa_actual_sigh",
+      "entity": "kasyapa_remains",
+      "reference": "v05-c0021:p0018",
+      "fact_status": "哎身体声非复活"
+    },
+    {
+      "type": "kasyapa_wanban_jiekong_named",
+      "entity": "kasyapa_remains",
+      "reference": "v05-c0021:p0019",
+      "fact_status": "自创非拈笑达摩似融保似"
+    },
+    {
+      "type": "absorbed_corpses_shatter",
+      "entity": "huangquan_remains",
+      "reference": "v05-c0021:p0021",
+      "fact_status": "透明泡碎"
+    },
+    {
+      "type": "mutual_contest_no_final_victory",
+      "entity": "huangquan_remains",
+      "reference": "v05-c0021:p0024",
+      "fact_status": "河退迦腐虚碎"
+    },
+    {
+      "type": "meng_leaves_bones_remote_control",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0026",
+      "fact_status": "留骨远操奔"
+    },
+    {
+      "type": "kasyapa_split_force_finger",
+      "entity": "kasyapa_remains",
+      "reference": "v05-c0021:p0028",
+      "fact_status": "兼力八龙杵指"
+    },
+    {
+      "type": "finger_fate_misses",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0029",
+      "fact_status": "指偏擦源命运/多数牵条件"
+    },
+    {
+      "type": "meng_escapes_kasyapa_threat",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0033",
+      "fact_status": "算脱仍戒"
+    },
+    {
+      "type": "quiet_path_cause_uncertain",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0036",
+      "fact_status": "九成吸或深特问"
+    },
+    {
+      "type": "meng_blade_still_held_worried",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0039",
+      "fact_status": "右刀未终刀"
+    },
+    {
+      "type": "meng_reaches_staff_crater",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0040",
+      "fact_status": "时长未知峰坑"
+    },
+    {
+      "type": "hundreds_buddhas_assessment",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0042",
+      "fact_status": "应该旧圆寂估"
+    },
+    {
+      "type": "buddha_remains_forest_formation",
+      "entity": "lingshan_summit_buddha_remains",
+      "reference": "v05-c0021:p0049",
+      "fact_status": "阵隐未名"
+    },
+    {
+      "type": "buddha_faces_old_bloodtear_like",
+      "entity": "lingshan_summit_buddha_remains",
+      "reference": "v05-c0021:p0051",
+      "fact_status": "似旧血泪非活新哭"
+    },
+    {
+      "type": "summit_buddha_actual_ananda_grievance",
+      "entity": "lingshan_summit_buddha_remains_ensemble",
+      "reference": "v05-c0021:p0054",
+      "fact_status": "佛体嗡怨实际"
+    },
+    {
+      "type": "kong_ideas_form",
+      "entity": "kong_zhao",
+      "reference": "v05-c0021:p0057",
+      "fact_status": "历国理念渐成"
+    },
+    {
+      "type": "kong_explicit_inner_teacher_appraisal",
+      "entity": "kong_zhao",
+      "reference": "v05-c0021:p0058",
+      "fact_status": "善问赞师如龙比"
+    },
+    {
+      "type": "kong_inner_silentteacher_question",
+      "entity": "kong_zhao",
+      "reference": "v05-c0021:p0059",
+      "fact_status": "为何默等自洽疑未口"
+    },
+    {
+      "type": "meng_ananda_betrayal_questions",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0065",
+      "fact_status": "出卖为何追/执念问"
+    },
+    {
+      "type": "meng_ananda_morethan_mofo_assessment",
+      "entity": "meng_qi",
+      "reference": "v05-c0021:p0067",
+      "fact_status": "推非全史解"
+    },
+    {
+      "type": "manjusri_lion_jiang_present",
+      "entity": "jiang_zhiwei",
+      "reference": "v05-c0021:p0072",
+      "fact_status": "叼衣苍难动活"
+    },
+    {
+      "type": "dragon_peng_present_ruan_zhao",
+      "entity": "ruan_yushu_zhao_heng",
+      "reference": "v05-c0021:p0073",
+      "fact_status": "口掷孟前"
+    },
+    {
+      "type": "three_companions_immobilized_alive",
+      "entity": "jiang_ruan_zhao_joint",
+      "reference": "v05-c0021:p0074",
+      "fact_status": "焦眼难动眨"
+    },
+    {
+      "type": "deepvoice_actual_blade_coercion",
+      "entity": "unidentified_lingshan_deep_voice_01",
+      "reference": "v05-c0021:p0076",
+      "fact_status": "心刀救条件非兑现"
+    },
+    {
+      "type": "deepvoice_death_exchange_claim",
+      "entity": "unidentified_lingshan_deep_voice_01",
+      "reference": "v05-c0021:p0077",
+      "fact_status": "你死她们活非保证"
+    },
+    {
+      "type": "jiang_failed_attempt_reject_sacrifice",
+      "entity": "jiang_zhiwei",
+      "reference": "v05-c0021:p0078",
+      "fact_status": "荷荷微摇似留命非完整口"
+    },
+    {
+      "type": "jiang_anxious_mist_no_voice",
+      "entity": "jiang_zhiwei",
+      "reference": "v05-c0021:p0079",
+      "fact_status": "急眼雾非已死"
+    },
     {
       "type": "jiang_sworddevotion_excitement",
       "entity": "jiang_zhiwei",
