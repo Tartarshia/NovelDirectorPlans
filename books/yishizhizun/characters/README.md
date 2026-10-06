@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷393章
+# 角色阶段索引 · 截至第四卷394章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [九印关系与八印状态](nineprints-relations-eight-transmissions.md) | 无极衍孕/开天克，传承与入门分开 |
+| [齐袖救师侄](qi-sleeve-rescue-withdrawal.md) | 假败放敌、救袖与重伤脱宫 |
+| [刀碑均衡碎乾坤](meng-blade-stele-balanced-concealment.md) | 修配比隐踪先成后被找到 |
 | [八门真影如意应用](chu-eightgates-realshadow-ruyi.md) | 同动作临坍、七真一幻和离手如意八化 |
 | [绳伞与汉被逐](chu-binding-rope-han-umbrella.md) | 将绑未全缚、挪移未知非死 |
 | [自爆威胁与时判余地](meng-blade-selfdestruct-time-margin.md) | 真敢爆但中止，早一刹误判拿对象 |
@@ -641,3 +644,5 @@
 最新[392章复核](../reviews/review-v04-0392.md)：[四象微征未修](four-elements-hall-virtual-box.md)、[齐袖困秦](qi-huan-gong.md)、[明剑应鞭](ming-lie-gong.md)、[孟汉暂盟](meng-han-temporary-coalition.md)、[幡斧同影](openheaven-hall-banner-axe-image.md)；[状态账](../reviews/ledger-v04-0392.md)。
 
 最新[393章复核](../reviews/review-v04-0393.md)：八门复合后手、[绳伞](chu-binding-rope-han-umbrella.md)、[自爆时判余地](meng-blade-selfdestruct-time-margin.md)、[开天对象真取](openheaven-hall-banner-axe-image.md)；[状态账](../reviews/ledger-v04-0393.md)。
+
+最新[394章复核](../reviews/review-v04-0394.md)：[八印关系](nineprints-relations-eight-transmissions.md)、[刀碑隐踪](meng-blade-stele-balanced-concealment.md)、[齐袖救硬逃](qi-sleeve-rescue-withdrawal.md)与各霸当前状态；[状态账](../reviews/ledger-v04-0394.md)。
