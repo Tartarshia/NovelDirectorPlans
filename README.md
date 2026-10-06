@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第五卷第6章，908 / 1410 个目录条目，约295.9万字。第一至四卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第五卷第7章，909 / 1410 个目录条目，约296.1万字。第一至四卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第五卷第7章复核](books/yishizhizun/reviews/review-v05-0007.md)：孔昭会李聃与现实赴黎城，54段、77句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0007.md)。
 - [第五卷第6章复核](books/yishizhizun/reviews/review-v05-0006.md)：再出消息、洛邑求道与齐王精神刀/孤疯谈，84段、122句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0006.md)。
 - [第五卷第5章复核](books/yishizhizun/reviews/review-v05-0005.md)：第三遁、放人离寺与恶念耳声，98段、121句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0005.md)。
 - [第五卷第4章复核](books/yishizhizun/reviews/review-v05-0004.md)：截城受制、段瑞十年主事与残寺两次困遁，71段、106句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0004.md)。
