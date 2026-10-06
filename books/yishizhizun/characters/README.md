@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷23章
+# 角色阶段索引 · 截至第五卷24章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [活当下过去刀未来剑](meng-present-life-past-cut-and-future-sword.md) | 过去实断、法身将成与未来斩果待 |
 | [独我绝刀与不争反制](meng-unique-self-bawang-blade-and-nonstriving-counter.md) | 雷神明、认刀旧主与真挥未击果 |
 | [魔佛六道与封禁孟](mofo-sixpaths-earth-fish-and-sealed-meng.md) | 三名已证、地球真鱼自述与雷神待 |
 | [峰顶佛怨与挟友深声](lingshan-summit-buddha-grievance-and-hostage-voice.md) | 怨声来源、深者匿名与三友活挟 |
@@ -766,3 +767,5 @@
 最新[第五卷22章复核](../reviews/review-v05-0022.md)与[状态账](../reviews/ledger-v05-0022.md)：S08自毁筹码受挫与垂钓者身份揭晓。
 
 最新[第五卷23章复核](../reviews/review-v05-0023.md)与[状态账](../reviews/ledger-v05-0023.md)：独我坚持、不争反制与十年一刀。
+
+最新[第五卷24章复核](../reviews/review-v05-0024.md)及[状态账](../reviews/ledger-v05-0024.md)：过去实断、未来占有与只此一世。
