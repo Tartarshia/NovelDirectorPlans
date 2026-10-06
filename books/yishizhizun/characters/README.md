@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷16章
+# 角色阶段索引 · 截至第五卷17章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [罗胜衣三残执解脱](luoshengyi-dangshan-remnants-liberation.md) | 分执凝魂、条件来世承诺及未名驱者 |
+| [造化推衍与热身轮回](lingshan-creation-inferences-warmup-reincarnation-seal.md) | 推史、科普与当前实际行为区别 |
 | [归队旧菜、任务与炉](reunion-food-lingshan-task-and-tushita-furnace.md) | 四人实见、正式文本及旁线知情 |
 | [兜率老者双童与炉人](tushita-elder-boys-and-unidentified-furnace-occupant.md) | 未名保留、三时摄宇宙与童子声 |
 | [孔昭仁礼与老聃内经](kongzhao-ren-ritual-and-laodan-inner-dejing.md) | 孔当前实际声与孟明确心语分层 |
@@ -743,3 +745,5 @@
 最新[第五卷15章复核](../reviews/review-v05-0015.md)与[状态账](../reviews/ledger-v05-0015.md)：七日辞师、灰僧重返狂刀。
 
 最新[第五卷16章复核](../reviews/review-v05-0016.md)与[状态账](../reviews/ledger-v05-0016.md)：旧菜归队、灵山正式任务与丹炉旁线。
+
+最新[第五卷17章复核](../reviews/review-v05-0017.md)与[状态账](../reviews/ledger-v05-0017.md)：热身凝势、三执解脱与建木驱者线索。
