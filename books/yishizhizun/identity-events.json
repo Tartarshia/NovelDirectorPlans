@@ -1,7 +1,193 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0388",
+  "through_chapter": "v04-c0389",
   "events": [
+    {
+      "type": "meng_sells_consignment_now",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0002",
+      "fact_status": "取物11000实兑不等成员"
+    },
+    {
+      "type": "jiuniang_observes_dark_yuanshi",
+      "entity": "qu_jiuniang",
+      "reference": "v04-c0389:p0003",
+      "fact_status": "少跳脱止步未近"
+    },
+    {
+      "type": "meng_new_cash72200_gap280",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0004",
+      "fact_status": "源明新基旧推差280待"
+    },
+    {
+      "type": "meng_ice_sword_fee50000_paid",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0005",
+      "fact_status": "辅10000炼费40000真付"
+    },
+    {
+      "type": "ice_sword_main_materials_submitted",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0006",
+      "fact_status": "幽门冰眼辅投入"
+    },
+    {
+      "type": "ice_sword_two_year_nineprints_contract",
+      "entity": "six_paths_voice",
+      "reference": "v04-c0389:p0007",
+      "fact_status": "两年含兑时成定形败20%"
+    },
+    {
+      "type": "meng_wuji_with_gu_angry_amusement",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0008",
+      "fact_status": "无极在顾未得"
+    },
+    {
+      "type": "meng_public_two_laughs_then_calm",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0011",
+      "fact_status": "实笑12骤止"
+    },
+    {
+      "type": "blood_ancienttalisman_sold",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0014",
+      "fact_status": "3000+5400余30600"
+    },
+    {
+      "type": "stele_restored24000_year2400",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0015",
+      "fact_status": "实兑后4200"
+    },
+    {
+      "type": "reincarnation_token_wanted_sign",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0016",
+      "fact_status": "价任提文字未购"
+    },
+    {
+      "type": "meng_no_retreat_inner",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0019",
+      "fact_status": "心暗道"
+    },
+    {
+      "type": "reincarnation_token_consumed_fengshen",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0020",
+      "fact_status": "实符碎"
+    },
+    {
+      "type": "meng_enters_qi_palace",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0025",
+      "fact_status": "真到宫殿"
+    },
+    {
+      "type": "qi_yuanxin_small_success",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0389:p0027",
+      "fact_status": "孟实察无新境数"
+    },
+    {
+      "type": "meng_requests_palace_guard_shares_two_prints",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0029",
+      "fact_status": "许侥得共享未获"
+    },
+    {
+      "type": "qi_accepts_guard_openheaven_interest",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0389:p0031",
+      "fact_status": "重开天搏答"
+    },
+    {
+      "type": "qi_whip_imitation_flag_ready",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0389:p0032",
+      "fact_status": "备而未战/借出"
+    },
+    {
+      "type": "qi_praises_lingbao_potential",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0389:p0034",
+      "fact_status": "当前刀非传说"
+    },
+    {
+      "type": "meng_unformed_seapearl_blade_origin",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0037",
+      "fact_status": "告诉材料不六道内幕"
+    },
+    {
+      "type": "qi24_heavens_plus9_explanation",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0389:p0041",
+      "fact_status": "口供24+9佛义不同"
+    },
+    {
+      "type": "qi_infers_backing_divine_forge_expert",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0389:p0043",
+      "fact_status": "齐推非识六道"
+    },
+    {
+      "type": "qi_cannot_sense_godlist_by_whip",
+      "entity": "qi_huan_gong",
+      "reference": "v04-c0389:p0047",
+      "fact_status": "没有新榜址"
+    },
+    {
+      "type": "eightnine_yuanshi_intergrowth",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0049",
+      "fact_status": "实功互融互长"
+    },
+    {
+      "type": "meng_yuanshi_sacredbuddha_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0051",
+      "fact_status": "身份因果尝试疑未解"
+    },
+    {
+      "type": "wujiflag_phase_entry_recognized",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0054",
+      "fact_status": "源苏墨上下文孟"
+    },
+    {
+      "type": "fiveprints_images_displayed",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0058",
+      "fact_status": "旗印镜虚空心形"
+    },
+    {
+      "type": "daoyi_lamp_not_entry",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0062",
+      "fact_status": "未入门融道传精要灯象诸果"
+    },
+    {
+      "type": "sixprints_orbit_lamp",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0064",
+      "fact_status": "显化非物库存"
+    },
+    {
+      "type": "meng_senses_yuxu36wells",
+      "entity": "meng_qi",
+      "reference": "v04-c0389:p0067",
+      "fact_status": "再次感宫井非进入取印"
+    },
+    {
+      "type": "yuxu_palace_reappears",
+      "entity": "yuxu_palace",
+      "reference": "v04-c0389:p0068",
+      "fact_status": "再现未完整九印"
+    },
     {
       "type": "gu_death_target_mental_echo",
       "entity": "meng_qi",

@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷388章
+# 角色阶段索引 · 截至第四卷389章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [道一古灯与六印感宫](daoyi-lamp-sixprints-palace-sensing.md) | 未入门进展、显化和只感宫未进入 |
+| [冰剑九印专属任务](ice-sword-nineprints-contract.md) | 真实投入、两年含兑时与无极在顾的约束 |
 | [孟的两层反控准备](meng-two-layer-liberation-plan.md) | 宁死本心、可见暗筹与地球最隐底牌 |
 | [旧誓与欲说还休](unspoken-farewell-recalled-gu-vows.md) | 回忆声、压情答话与没有透露的告别 |
 | [第三死亡与分割任务](third-death-task-split-luojiao.md) | 一年后规则、未来境差与杀顾目标震撼 |
@@ -618,3 +620,5 @@
 最新[387章复核](../reviews/review-v04-0387.md)：新S56[孟回归](meng-qi.md)、[阮自主意愿](ruan-yushu.md)、[江私谋](jiang-zhiwei.md)、[狐泉声线索](fox-yaosheng-ananda-ear-hint.md)、[死亡分割](third-death-task-split-luojiao.md)/[顾未现场](gu-xiaosang.md)与[现金新账](merit-ledger-three-skills-task.md)；[状态账](../reviews/ledger-v04-0387.md)。
 
 最新[388章复核](../reviews/review-v04-0388.md)：[孟本心](meng-qi.md)、[反控两层准备](meng-two-layer-liberation-plan.md)、[旧誓告别](unspoken-farewell-recalled-gu-vows.md)、[地球底牌](meng-qi-earth-body.md)、[冲和回声](chonghe-death-task-and-ziyun.md)、[两女兑年](merit-ledger-three-skills-task.md)；[状态账](../reviews/ledger-v04-0388.md)。
+
+最新[389章复核](../reviews/review-v04-0389.md)：[六印古灯](daoyi-lamp-sixprints-palace-sensing.md)、[二兵申请九印](ice-sword-nineprints-contract.md)、[真实现金4200](merit-ledger-three-skills-task.md)、[小白御敌约](qi-huan-gong.md)、[九娘察不同](qu-jiuniang.md)、[碑已恢复](qisha-corpse-local-timeline.md)；[状态账](../reviews/ledger-v04-0389.md)。
