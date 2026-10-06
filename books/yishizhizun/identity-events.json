@@ -1,7 +1,145 @@
 {
   "schema_version": 1,
-  "through_chapter": "v04-c0402",
+  "through_chapter": "v05-c0001",
   "events": [
+    {
+      "type": "mu_checks_tracking_hidden_cave",
+      "entity": "mu_yunle",
+      "reference": "v05-c0001:p0003",
+      "fact_status": "真实警戒"
+    },
+    {
+      "type": "liang_poison_healing",
+      "entity": "liang_jiuzhou",
+      "reference": "v05-c0001:p0004",
+      "fact_status": "逼毒残血"
+    },
+    {
+      "type": "mu_heaven_man_union",
+      "entity": "mu_yunle",
+      "reference": "v05-c0001:p0016",
+      "fact_status": "新境前交感前五"
+    },
+    {
+      "type": "feikuchan_accumulation_report",
+      "entity": "fei_kuchan",
+      "reference": "v05-c0001:p0017",
+      "fact_status": "穆三年及陆剑指口报"
+    },
+    {
+      "type": "sword_duel_delay_three_years_remaining",
+      "entity": "su_wuming_lu_da_duel",
+      "reference": "v05-c0001:p0020",
+      "fact_status": "穆期望余三"
+    },
+    {
+      "type": "fashen_world_changes_report",
+      "entity": "wang_tong",
+      "reference": "v05-c0001:p0022",
+      "fact_status": "王苏/魔师法王地仙与两证败亡口报"
+    },
+    {
+      "type": "jiang_ground_rank_one",
+      "entity": "jiang_zhiwei",
+      "reference": "v05-c0001:p0024",
+      "fact_status": "榜读"
+    },
+    {
+      "type": "jiang_battles_report",
+      "entity": "jiang_zhiwei",
+      "reference": "v05-c0001:p0026",
+      "fact_status": "穆王读谈战績非现场"
+    },
+    {
+      "type": "jiang_taishang_title",
+      "entity": "jiang_zhiwei",
+      "reference": "v05-c0001:p0028",
+      "fact_status": "近十年称改"
+    },
+    {
+      "type": "qi_modi_ground_rank_two",
+      "entity": "qi_zhengyan",
+      "reference": "v05-c0001:p0033",
+      "fact_status": "榜第二身份"
+    },
+    {
+      "type": "qi_return_half_fashen_claw",
+      "entity": "qi_zhengyan",
+      "reference": "v05-c0001:p0034",
+      "fact_status": "十去四返半步持爪"
+    },
+    {
+      "type": "qi_expelled_huanhua_liusu_attack",
+      "entity": "qi_zhengyan",
+      "reference": "v05-c0001:p0035",
+      "fact_status": "逐门流苏峰持兵击齐退"
+    },
+    {
+      "type": "wang_tong_family_wangzai_master",
+      "entity": "wang_tong",
+      "reference": "v05-c0001:p0038",
+      "fact_status": "周郡四伯去年新宗师纪录"
+    },
+    {
+      "type": "rank_list_other_friends",
+      "entity": "ground_rank_list_v05",
+      "reference": "v05-c0001:p0039",
+      "fact_status": "群体前百无精位"
+    },
+    {
+      "type": "missing_genius_memory_unnamed",
+      "entity": "unnamed_missing_genius_v05_01",
+      "reference": "v05-c0001:p0041",
+      "fact_status": "本章未名近十年失踪忆"
+    },
+    {
+      "type": "liang_blackblood_stable_report",
+      "entity": "liang_jiuzhou",
+      "reference": "v05-c0001:p0045",
+      "fact_status": "吐毒稳伤不能外景"
+    },
+    {
+      "type": "mu_wang_escort_trust",
+      "entity": "mu_yunle_wang_tong_joint",
+      "reference": "v05-c0001:p0048",
+      "fact_status": "顾唐夫妇侠名梁结义信链"
+    },
+    {
+      "type": "changshengtian_return_hypothesis",
+      "entity": "liang_jiuzhou",
+      "reference": "v05-c0001:p0050",
+      "fact_status": "教重现突强者疑神归"
+    },
+    {
+      "type": "three_depart_south",
+      "entity": "mu_yunle_wang_tong_liang_jiuzhou",
+      "reference": "v05-c0001:p0052",
+      "fact_status": "南返到孤岭"
+    },
+    {
+      "type": "mu_telepathic_night_shelter_request",
+      "entity": "mu_yunle",
+      "reference": "v05-c0001:p0054",
+      "fact_status": "明传音"
+    },
+    {
+      "type": "temple_is_shelter_guess",
+      "entity": "mu_yunle",
+      "reference": "v05-c0001:p0058",
+      "fact_status": "苦行者歇处是猜"
+    },
+    {
+      "type": "ruined_temple_lamp_woodfish",
+      "entity": "unidentified_temple_woodfish_player",
+      "reference": "v05-c0001:p0061",
+      "fact_status": "木鱼真声不见敲者"
+    },
+    {
+      "type": "fengshen_teacher_go_seek_keeper_plan",
+      "entity": "unnamed_fengshen_teacher_01",
+      "reference": "v05-c0001:p0071",
+      "fact_status": "拟求周守藏未拜/未实名"
+    },
     {
       "type": "m_unpredicted_task_advance",
       "entity": "meng_qi",
