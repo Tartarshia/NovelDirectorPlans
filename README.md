@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第五卷第13章，915 / 1410 个目录条目，约297.9万字。第一至四卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第五卷第14章，916 / 1410 个目录条目，约298.3万字。第一至四卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳前三卷成长和当前阶段，可直接查阅表演边界。
+- [第五卷第14章复核](books/yishizhizun/reviews/review-v05-0014.md)：残影三掌、陨晶解险与逆掌魔佛，94段、118句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0014.md)。
 - [第五卷第13章复核](books/yishizhizun/reviews/review-v05-0013.md)：赎罪、生机隐情、师徒支撑与真门开，73段、93句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0013.md)。
 - [第五卷第12章复核](books/yishizhizun/reviews/review-v05-0012.md)：十年旧友、收杆警与跨手抓段，69段、88句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0012.md)。
 - [第五卷第11章复核](books/yishizhizun/reviews/review-v05-0011.md)：韩会后判断、蔡国实访与扶行离愁，87段、123句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0011.md)。
