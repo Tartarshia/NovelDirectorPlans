@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第4章，931 / 1410 个目录条目，约303.4万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第5章，932 / 1410 个目录条目，约303.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第5章复核](books/yishizhizun/reviews/review-v06-0005.md)：人仙与两特征、神兵峰值、临时因果中枢及王思远断束，68段、98句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0005.md)。
 - [第六卷第4章复核](books/yishizhizun/reviews/review-v06-0004.md)：脱轮回建议与暗夺榜、仙迹制度、正邪密会及感知先后，71段、105句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0004.md)。
 - [第六卷第3章复核](books/yishizhizun/reviews/review-v06-0003.md)：莲前内述与生活感、广法认面具、非轮回者拒仙迹担责，75段、96句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0003.md)。
 - [第六卷第2章复核](books/yishizhizun/reviews/review-v06-0002.md)：三友榜与三事协议、绝刀内争、古尔多实归及孟回主界，52段、76句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0002.md)。
