@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷7章
+# 角色阶段索引 · 截至第五卷8章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黎城还恩与冥海剑](licheng-repayment-and-nether-sword.md) | 垂手承剑真伤、杀意清空与真主人未明 |
 | [孔昭求礼与周游](kong-zhao-rites-and-travel.md) | 未名师长具名、礼形自省与未来圣师预测分 |
 | [李聃教与黎城目的](li-dan-teaching-and-licheng-destination.md) | 地球身历史关联、周游开与现实未到城 |
 | [齐王精神刀与情](wang-qi-mental-blade-and-emotion-v05.md) | 王认识限、寿期预估与孤疯选择分来源 |
@@ -714,3 +715,5 @@
 最新[第五卷6章复核](../reviews/review-v05-0006.md)：V05-S03消息与磨刀解读；[状态账](../reviews/ledger-v05-0006.md)。
 
 最新[第五卷7章复核](../reviews/review-v05-0007.md)：孔昭会李聃、孟奇赴黎城；[状态账](../reviews/ledger-v05-0007.md)。
+
+最新[第五卷8章复核](../reviews/review-v05-0008.md)：黎城还恩与戒杀离去；[状态账](../reviews/ledger-v05-0008.md)。
