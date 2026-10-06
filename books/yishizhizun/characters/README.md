@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷19章
+# 角色阶段索引 · 截至第五卷20章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [三友反制与败势](three-companions-countermeasures-and-overwhelming-remains.md) | 江入掌、阮冻结、赵颈叼，未死证 |
 | [失散者三遗蜕](manjusri-peng-white-dragon-separated-encounters.md) | 文殊实名、大鹏未定与白龙曲回忆 |
 | [迦叶遗蜕掌伤旧泪](kasyapa-remains-palm-wound-tears-and-separation.md) | 实名遗蜕、未知凶手与光明失散 |
 | [黑潮片图与未出的刀](remnant-blackness-images-and-unspent-blade.md) | 片证、推与实际护刀分层 |
@@ -754,3 +755,5 @@
 最新[第五卷18章复核](../reviews/review-v05-0018.md)与[状态账](../reviews/ledger-v05-0018.md)：黑潮片图、迦叶遗蜕与四人失散。
 
 最新[第五卷19章复核](../reviews/review-v05-0019.md)及[状态账](../reviews/ledger-v05-0019.md)：三友各迎遗蜕、封神论智与黄泉骨替刀。
+
+最新[第五卷20章复核](../reviews/review-v05-0020.md)及[状态账](../reviews/ledger-v05-0020.md)：三友全力反制无法抗衡的遗蜕。
