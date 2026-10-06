@@ -1,7 +1,217 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0003",
+  "through_chapter": "v06-c0004",
   "events": [
+    {
+      "type": "ye_prior_other_shore_task_failures_report",
+      "entity": "ye_yuqi",
+      "reference": "v06-c0004:p0002",
+      "fact_status": "旧冲批与外宇亡报告"
+    },
+    {
+      "type": "ye_asks_symbol_exclusive_task",
+      "entity": "ye_yuqi",
+      "reference": "v06-c0004:p0004",
+      "fact_status": "actual希"
+    },
+    {
+      "type": "meng_no_other_shore_symbol_exchange",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0009",
+      "fact_status": "actual没兑"
+    },
+    {
+      "type": "meng_reports_battle_cut_sixpaths",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0012",
+      "fact_status": "actual斩束"
+    },
+    {
+      "type": "ye_mind_echoes_meng_statement",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0013",
+      "fact_status": "叶脑旧声非再嘴"
+    },
+    {
+      "type": "ye_questions_sixpaths_defeat",
+      "entity": "ye_yuqi",
+      "reference": "v06-c0004:p0016",
+      "fact_status": "内疑非全群死亡"
+    },
+    {
+      "type": "meng_explains_weak_opportunity",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0019",
+      "fact_status": "笑弱时机"
+    },
+    {
+      "type": "mojun_sealed_casket_no_other_shore_report",
+      "entity": "mo_jun",
+      "reference": "v06-c0004:p0022",
+      "fact_status": "孟说不依爪跳不出时河"
+    },
+    {
+      "type": "qisha_tiansha_transmission_legend_uncertain",
+      "entity": "qi_sha_dao_ren",
+      "reference": "v06-c0004:p0023",
+      "fact_status": "中古或许传说孟话"
+    },
+    {
+      "type": "luya_strength_and_list_report",
+      "entity": "lu_ya",
+      "reference": "v06-c0004:p0023",
+      "fact_status": "造化或彼岸疑封孟话"
+    },
+    {
+      "type": "ye_needs_digest_information",
+      "entity": "ye_yuqi",
+      "reference": "v06-c0004:p0024",
+      "fact_status": "下压两口"
+    },
+    {
+      "type": "meng_free_self_without_palace_cover",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0027",
+      "fact_status": "自己不忧抹非解友计划都泄"
+    },
+    {
+      "type": "ye_understands_task_inconsistencies",
+      "entity": "ye_yuqi",
+      "reference": "v06-c0004:p0029",
+      "fact_status": "低难怪后解释"
+    },
+    {
+      "type": "exit_steps_causality_and_luda_sword_advice",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0031",
+      "fact_status": "建议尚未实施"
+    },
+    {
+      "type": "all_can_exit_hope_not_done",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0033",
+      "fact_status": "诚低希望"
+    },
+    {
+      "type": "meng_doubts_biyou_privacy",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0034",
+      "fact_status": "未露目的"
+    },
+    {
+      "type": "hidden_plan_three_tasks_qi_whip_seize_list",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0035",
+      "fact_status": "内计划未借夺"
+    },
+    {
+      "type": "ye_invites_zhengdao_secret_meeting",
+      "entity": "ye_yuqi",
+      "reference": "v06-c0004:p0036",
+      "fact_status": "信邀画眉"
+    },
+    {
+      "type": "nonreincarnator_member_not_xianji_head_rule",
+      "entity": "xianji",
+      "reference": "v06-c0004:p0037",
+      "fact_status": "作者制度"
+    },
+    {
+      "type": "meng_accepts_luda_visit",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0038",
+      "fact_status": "actual正想"
+    },
+    {
+      "type": "evil_four_secret_meeting",
+      "entity": "guerduo_han_dushi_bloodsea",
+      "reference": "v06-c0004:p0041",
+      "fact_status": "半圆实在"
+    },
+    {
+      "type": "guerduo_requests_yaozu_contact",
+      "entity": "guerduo",
+      "reference": "v06-c0004:p0043",
+      "fact_status": "委韩未联成"
+    },
+    {
+      "type": "dushi_asks_han_meaning",
+      "entity": "dushi_fawang",
+      "reference": "v06-c0004:p0045",
+      "fact_status": "本章actual"
+    },
+    {
+      "type": "han_ambush_one_fashen_hide_return_plan",
+      "entity": "han_guang",
+      "reference": "v06-c0004:p0047",
+      "fact_status": "提暗伏再匿未杀成"
+    },
+    {
+      "type": "unwritten_assassination_target_name",
+      "entity": "han_guang",
+      "reference": "v06-c0004:p0050",
+      "fact_status": "说名缺字不补"
+    },
+    {
+      "type": "zhengdao_five_luda_su_he_yun_gaoteng",
+      "entity": "zhengdao_meeting",
+      "reference": "v06-c0004:p0054",
+      "fact_status": "高腾高信非高览"
+    },
+    {
+      "type": "luda_suspects_guerduo_return",
+      "entity": "lu_da",
+      "reference": "v06-c0004:p0055",
+      "fact_status": "怕猜未密归确证"
+    },
+    {
+      "type": "luda_su_sense_first",
+      "entity": "lu_da_su_wuming",
+      "reference": "v06-c0004:p0057",
+      "fact_status": "先察"
+    },
+    {
+      "type": "he_yun_sense_two_beats_gao_not",
+      "entity": "he_qi_yunhe_gao_teng",
+      "reference": "v06-c0004:p0060",
+      "fact_status": "两息感先后"
+    },
+    {
+      "type": "luda_welcomes_entry",
+      "entity": "lu_da",
+      "reference": "v06-c0004:p0062",
+      "fact_status": "actual笑进"
+    },
+    {
+      "type": "su_inner_praise_future_cut",
+      "entity": "su_wuming",
+      "reference": "v06-c0004:p0065",
+      "fact_status": "内65原因66非新actual"
+    },
+    {
+      "type": "meng_enters_blade_mature_white_sideburns",
+      "entity": "meng_qi",
+      "reference": "v06-c0004:p0067",
+      "fact_status": "actual入无口"
+    },
+    {
+      "type": "he_yun_inner_confirm_fashen",
+      "entity": "he_qi_yunhe",
+      "reference": "v06-c0004:p0068",
+      "fact_status": "明确内感"
+    },
+    {
+      "type": "luda_directview_differs_remote_sense",
+      "entity": "lu_da",
+      "reference": "v06-c0004:p0070",
+      "fact_status": "轻咦后异"
+    },
+    {
+      "type": "luda_timeflow_sensation_cliffhanger",
+      "entity": "lu_da",
+      "reference": "v06-c0004:p0071",
+      "fact_status": "时冲感觉非新境给"
+    },
     {
       "type": "meng_returns_ruined_temple_lotus",
       "entity": "meng_qi",

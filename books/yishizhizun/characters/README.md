@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷3章
+# 角色阶段索引 · 截至第六卷4章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–3章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–4章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [何七与高腾感知位置](heqi-gaoteng-huamei-sensing-boundaries.md) | 会者身份、晚察与仍未察、共内非齐嘴 |
+| [六道脱路与隐藏夺榜](sixpaths-exit-advice-hidden-list-seizure-xianji-rule.md) | 群弱来源、建议未成、成员与首领制度 |
+| [密会匿名目标与感知先后](secret-meetings-assassination-unnamed-and-sensing-order.md) | 两方知情、未给暗杀名及先察二息差 |
 | [莲前内述与仙迹边界](meng-lotus-inner-talk-and-xianji-duty-boundary.md) | 心中凭吊、洞天与复活计划、非轮回者拒担 |
 | [广法成员认面具](xianji-guangfa-tianzun-first-meng-recognition.md) | 未知实名、心认与法身知情时点 |
 | [法身限度与绝刀内争](meng-fashen-limits-and-blade-imprint-struggle.md) | 有无能力、刀地仙非孟境、霸王执念转世计划 |
@@ -783,3 +786,5 @@
 最新[第六卷2章复核](../reviews/review-v06-0002.md)与[状态账](../reviews/ledger-v06-0002.md)；三事协议未结算，S01续。
 
 最新[第六卷3章复核](../reviews/review-v06-0003.md)与[状态账](../reviews/ledger-v06-0003.md)，S01续，情感变化与组织资格分开。
+
+最新[第六卷4章复核](../reviews/review-v06-0004.md)与[状态账](../reviews/ledger-v06-0004.md)；S01闭1–3、S02从4起。
