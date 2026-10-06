@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷390章
+# 角色阶段索引 · 截至第四卷391章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [秦穆公](qin-mu-gong.md) | 丈六兵车争印，低语分配待核 |
+| [汉武王](han-wu-wang.md) | 重瞳潇洒、玄黄真龙与低语待核 |
+| [孟两功同时门口爆发](meng-simultaneous-two-techniques-gate-burst.md) | 首次同使争时与近脱力，非跨境稳胜 |
 | [唐文王镜法](tang-wen-wang.md) | 斯文外表、镜中拦截尚未命中 |
 | [四象殿虚盒](four-elements-hall-virtual-box.md) | 见盒识印未取得，三霄为假设比较 |
 | [道一古灯与六印感宫](daoyi-lamp-sixprints-palace-sensing.md) | 未入门进展、显化和只感宫未进入 |
@@ -626,3 +629,5 @@
 最新[389章复核](../reviews/review-v04-0389.md)：[六印古灯](daoyi-lamp-sixprints-palace-sensing.md)、[二兵申请九印](ice-sword-nineprints-contract.md)、[真实现金4200](merit-ledger-three-skills-task.md)、[小白御敌约](qi-huan-gong.md)、[九娘察不同](qu-jiuniang.md)、[碑已恢复](qisha-corpse-local-timeline.md)；[状态账](../reviews/ledger-v04-0389.md)。
 
 最新[390章复核](../reviews/review-v04-0390.md)：孟真身入宫、[楚木偶八门](chu-zhuang-wang.md)、[齐追阻](qi-huan-gong.md)、[虚空藏匿](void-seal-transmission.md)、[唐镜袭](tang-wen-wang.md)、[四象未取](four-elements-hall-virtual-box.md)；[状态账](../reviews/ledger-v04-0390.md)。
+
+最新[391章复核](../reviews/review-v04-0391.md)：[唐照人鉴](tang-wen-wang.md)、[四象一次传承实得](four-elements-hall-virtual-box.md)、[两功首次同时](meng-simultaneous-two-techniques-gate-burst.md)、秦汉/楚/齐追局；[状态账](../reviews/ledger-v04-0391.md)。
