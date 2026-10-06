@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷10章
+# 角色阶段索引 · 截至第五卷11章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [韩会孟、蔡访与离别](han-meeting-cai-inquiry-and-farewell.md) | 判断限制、师称与老聃确认、不问的扶行 |
 | [重逢托镜与特征](reunion-mirror-and-fate-features-v05.md) | 伤慢复、穆69知名、韩特征判断保替代 |
 | [北湖三凶与南行](beihu-three-vicious-and-southward-rescue.md) | 三人口分、实死处置、元央敌报与罗北错向 |
 | [黎城还恩与冥海剑](licheng-repayment-and-nether-sword.md) | 垂手承剑真伤、杀意清空与真主人未明 |
@@ -723,3 +724,5 @@
 最新[第五卷9章复核](../reviews/review-v05-0009.md)：重伤扶行、命运感慨与北湖三凶实死；[状态账](../reviews/ledger-v05-0009.md)。
 
 最新[第五卷10章复核](../reviews/review-v05-0010.md)：元央脱困重逢、托镜与韩特征解释；[状态账](../reviews/ledger-v05-0010.md)。
+
+最新[第五卷11章复核](../reviews/review-v05-0011.md)：韩会后判断、蔡国实看与扶行离愁；[状态账](../reviews/ledger-v05-0011.md)。
