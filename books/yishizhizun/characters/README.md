@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷400章
+# 角色阶段索引 · 截至第四卷401章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [粟北外务](su-bei-xuannv-negotiator.md) | 承诺交刀未交，异宝屏心与轮回者试逃 |
+| [霸王过去身与雷神疑](overlord-past-self-and-thunder-god-question.md) | 旧刀像重识与彼岸假说待验证 |
+| [船现与七日死任](boat-encounter-seven-day-death-task.md) | 顾无词、六道提前、天命口叹 |
 | [苏剑皇与他我](su-jianhuang-other-self-link.md) | 独立宿忆、切联窗口与彼岸条件 |
 | [阮代种琴送](ruan-outline-custody-and-farewell.md) | 真参代收，齐未获，低唱送别 |
 | [王信话外](wang-letter-unspoken-warning.md) | 字警与代传口声分，答案未尽 |
@@ -673,3 +676,5 @@
 最新[399章复核](../reviews/review-v04-0399.md)：今生来世镜照与洗剑阁分享告别；[状态账](../reviews/ledger-v04-0399.md)。
 
 最新[400章复核](../reviews/review-v04-0400.md)：他我新知、阮参代种与王信话外；[状态账](../reviews/ledger-v04-0400.md)。
+
+最新[401章复核](../reviews/review-v04-0401.md)：过去身与时间需求、粟北报价、船现顾与七日任务；[状态账](../reviews/ledger-v04-0401.md)。
