@@ -1,7 +1,199 @@
 {
   "schema_version": 1,
-  "through_chapter": "v05-c0025",
+  "through_chapter": "v06-c0001",
   "events": [
+    {
+      "type": "daode_voice_reaches_chu_qi",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0001",
+      "fact_status": "大道声远传"
+    },
+    {
+      "type": "chu_repeats_daode_excerpt",
+      "entity": "chu_zhuang_wang",
+      "reference": "v06-c0001:p0004",
+      "fact_status": "细低语"
+    },
+    {
+      "type": "chu_recognizes_sumo",
+      "entity": "chu_zhuang_wang",
+      "reference": "v06-c0001:p0008",
+      "fact_status": "脱口苏墨"
+    },
+    {
+      "type": "qi_huangong_hears_dao",
+      "entity": "qi_huan_gong",
+      "reference": "v06-c0001:p0013",
+      "fact_status": "法术终道口"
+    },
+    {
+      "type": "meng_anticipates_hidden_arranger",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0015",
+      "fact_status": "内预见未先实名"
+    },
+    {
+      "type": "greenox_dissolves_repairs_fashen",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0021",
+      "fact_status": "色点修战隐患"
+    },
+    {
+      "type": "renhuang_sword_returned_gaolan",
+      "entity": "gao_lan",
+      "reference": "v06-c0001:p0022",
+      "fact_status": "神器已回"
+    },
+    {
+      "type": "meng_remaining_items_inventory",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0023",
+      "fact_status": "绝刀真意树桃其余粉经"
+    },
+    {
+      "type": "yuqing_plaque_written",
+      "entity": "yuqing_palace",
+      "reference": "v06-c0001:p0027",
+      "fact_status": "匾非口"
+    },
+    {
+      "type": "yang_greets_shixiong",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0032",
+      "fact_status": "湖畔小师弟"
+    },
+    {
+      "type": "meng_names_zhenhui_yangjian",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0033",
+      "fact_status": "两口惊认"
+    },
+    {
+      "type": "zhenhui_is_yangjian_reveal",
+      "entity": "zhen_hui",
+      "reference": "v06-c0001:p0034",
+      "fact_status": "当前身份明"
+    },
+    {
+      "type": "yang_other_shore_prospect",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0035",
+      "fact_status": "誉最望非已彼岸"
+    },
+    {
+      "type": "meng_past_brother_memory_hurt",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0039",
+      "fact_status": "旧情难合"
+    },
+    {
+      "type": "meng_sadanger_waits_door",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0040",
+      "fact_status": "悲怒未坐"
+    },
+    {
+      "type": "yang_consciousness_zhenhui_explanation",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0041",
+      "fact_status": "非鱼道标转世仅隐忆一缕非独立自述"
+    },
+    {
+      "type": "meng_accepts_mechanism_not_all_emotion",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0043",
+      "fact_status": "不得不认"
+    },
+    {
+      "type": "yang_memory_restored_yuxu_trigger",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0044",
+      "fact_status": "发现地球身触禁自述"
+    },
+    {
+      "type": "meng_sits_at_distance",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0045",
+      "fact_status": "远坐问"
+    },
+    {
+      "type": "yang_swapped_earth_body_saved_yuxu",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0046",
+      "fact_status": "赶毁前偷换秘殿口述"
+    },
+    {
+      "type": "mofo_near_complete_other_shore_report",
+      "entity": "mofo_ananda",
+      "reference": "v06-c0001:p0048",
+      "fact_status": "杨说逆魔快速逼果雏形"
+    },
+    {
+      "type": "meng_independence_reduces_mofo_completeness",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0051",
+      "fact_status": "杨说独立削圆满将欲吞"
+    },
+    {
+      "type": "reseal_requires_buddha_or_three_other_shore",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0053",
+      "fact_status": "杨说末劫封松条件"
+    },
+    {
+      "type": "yuanshi_location_unknown_to_yang",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0055",
+      "fact_status": "祖去不知仅提示"
+    },
+    {
+      "type": "buddha_motive_unknown_after_daoguo",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0057",
+      "fact_status": "我不知口"
+    },
+    {
+      "type": "last_epoch_hypothesis",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0059",
+      "fact_status": "最后纪元怀疑下次难说"
+    },
+    {
+      "type": "yang_fragment_return_plan",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0061",
+      "fact_status": "回时侵蚀择时本地分神欲归"
+    },
+    {
+      "type": "meng_asks_fourfriend_liberation",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0062",
+      "fact_status": "仍想救四友"
+    },
+    {
+      "type": "friends_fengshen_list_claw_constraints",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0063",
+      "fact_status": "有的榜有的爪非逐人全表"
+    },
+    {
+      "type": "yang_fragment_turns_transparent",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0064",
+      "fact_status": "虚河显"
+    },
+    {
+      "type": "yang_hopes_meet_shixiong_again",
+      "entity": "yang_jian",
+      "reference": "v06-c0001:p0065",
+      "fact_status": "时间依己暂师兄口"
+    },
+    {
+      "type": "meng_subjective_littlebrother_dead",
+      "entity": "meng_qi",
+      "reference": "v06-c0001:p0067",
+      "fact_status": "关系伤不是实际击杀"
+    },
     {
       "type": "futurecut_daoyi_sevenkill_mechanism",
       "entity": "meng_qi",

@@ -2,14 +2,15 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第五卷第25章，927 / 1410 个目录条目，约302.1万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第1章，928 / 1410 个目录条目，约302.4万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
-- [第五卷成长汇总](books/yishizhizun/characters/v05-growth-summary.md)：25章、八阶段，稳定特质与阶段表演；[卷末复核](books/yishizhizun/reviews/volume-v05-review.md)。下一章第六卷第一章。
+- [第六卷第1章复核](books/yishizhizun/reviews/review-v06-0001.md)：真慧＝杨戬、地球身经过与末劫解友限制，68段、101句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0001.md)。
+- [第五卷成长汇总](books/yishizhizun/characters/v05-growth-summary.md)：25章、八阶段，稳定特质与阶段表演；[卷末复核](books/yishizhizun/reviews/volume-v05-review.md)。第六卷已开始顺读。
 - [第五卷第25章复核](books/yishizhizun/reviews/review-v05-0025.md)：未来与六道群线断、元始法身成及尊异道告别，120段、131句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0025.md)。
 - [第五卷第24章复核](books/yishizhizun/reviews/review-v05-0024.md)：过去实断、未来反攻与活在当下，72段、76句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0024.md)。
 - [第五卷第23章复核](books/yishizhizun/reviews/review-v05-0023.md)：独我坚持、不争反制与十年一刀，123段、156句内单元；[状态账](books/yishizhizun/reviews/ledger-v05-0023.md)。
