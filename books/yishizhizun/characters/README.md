@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷14章
+# 角色阶段索引 · 截至第五卷15章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孔昭仁礼与老聃内经](kongzhao-ren-ritual-and-laodan-inner-dejing.md) | 孔当前实际声与孟明确心语分层 |
+| [七日莲花与辞师狂刀](seven-day-lotus-farewell-and-kuangdao-return.md) | 留言空缺、内经、废根与外观行动转段 |
 | [阿难残影三掌与魔佛](ananda-residue-three-palms-and-magic-buddha.md) | 陨晶、三位护众、逆掌虚声与关联揭露 |
 | [段条件生机与净土](duan-conditional-survival-shaolin-pureland.md) | 赎罪、未执行交易、师徒支撑与未知峰叹 |
 | [十年消息、灵山与筹手](ten-year-reports-lingshan-and-duan-hand.md) | 江转述、自述与收杆警限、抓段视野转换 |
@@ -735,3 +737,5 @@
 最新[第五卷13章复核](../reviews/review-v05-0013.md)与[状态账](../reviews/ledger-v05-0013.md)：段被抓、伦理反省、条件隐情、师徒劝撑与真门开。
 
 最新[第五卷14章复核](../reviews/review-v05-0014.md)及[状态账](../reviews/ledger-v05-0014.md)：阿难残留三掌和逆掌魔佛关联。
+
+最新[第五卷15章复核](../reviews/review-v05-0015.md)与[状态账](../reviews/ledger-v05-0015.md)：七日辞师、灰僧重返狂刀。
