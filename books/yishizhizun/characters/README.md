@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷1章
+# 角色阶段索引 · 截至第五卷2章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [灰僧揭孟](meng-gray-monk-reader-reveal.md) | 真定自称与读者/来客知情差，当前境界未报 |
+| [真慧曲与寺中声](zhenhui-song-report-and-temple-reprise.md) | 来源自述、两人唱/诗念/低语分别 |
 | [穆云乐与王同](mu-yunle-and-wang-tong.md) | 青年自信、崇敬与任侠，周郡家世 |
 | [梁九州情报](liang-jiuzhou-changshengtian-report.md) | 毒伤未全愈、长生教与天归假说 |
 | [榜与剑约](duel-delay-and-ranking-reports-v05.md) | 新时间/排名事实及口报界限 |
@@ -690,3 +692,5 @@
 最新[402章复核](../reviews/review-v04-0402.md)：顾死、记忆声与绝刀烙印；[状态账](../reviews/ledger-v04-0402.md)。第四卷402章顺读完成，卷末角色与成长归纳见[第四卷](../volumes/v04.md)，尚待全书终审。
 
 最新[第五卷1章复核](../reviews/review-v05-0001.md)：新一代榜谈、齐逐门与残寺/封神留名；[状态账](../reviews/ledger-v05-0001.md)。
+
+最新[第五卷2章复核](../reviews/review-v05-0002.md)：真定/孟身份与十年心，现唱/念/说；[状态账](../reviews/ledger-v05-0002.md)。

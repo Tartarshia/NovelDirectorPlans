@@ -1,7 +1,127 @@
 {
   "schema_version": 1,
-  "through_chapter": "v05-c0001",
+  "through_chapter": "v05-c0002",
   "events": [
+    {
+      "type": "gray_monk_opens_door",
+      "entity": "meng_qi",
+      "reference": "v05-c0002:p0006",
+      "fact_status": "尚未读者明名表面灰僧"
+    },
+    {
+      "type": "mu_requests_shelter",
+      "entity": "mu_yunle",
+      "reference": "v05-c0002:p0008",
+      "fact_status": "清澈明口"
+    },
+    {
+      "type": "monk_allows_stay",
+      "entity": "meng_qi",
+      "reference": "v05-c0002:p0009",
+      "fact_status": "平短明口"
+    },
+    {
+      "type": "mu_buddha_statue_safety_judgment",
+      "entity": "mu_yunle",
+      "reference": "v05-c0002:p0011",
+      "fact_status": "她判断非客观僧废"
+    },
+    {
+      "type": "monk_sideways_faces_lotus",
+      "entity": "meng_qi",
+      "reference": "v05-c0002:p0016",
+      "fact_status": "怪侧坐实景"
+    },
+    {
+      "type": "wang_telepathic_zen_guess",
+      "entity": "wang_tong",
+      "reference": "v05-c0002:p0018",
+      "fact_status": "明传音不确宗属"
+    },
+    {
+      "type": "mu_loneliness_sympathy",
+      "entity": "mu_yunle",
+      "reference": "v05-c0002:p0022",
+      "fact_status": "往事猜未读心"
+    },
+    {
+      "type": "mu_shuyu_three_suns_report",
+      "entity": "liang_jiuzhou",
+      "reference": "v05-c0002:p0027",
+      "fact_status": "梁漱玉/费曹口报"
+    },
+    {
+      "type": "liang_near40years_outerland_feeling",
+      "entity": "liang_jiuzhou",
+      "reference": "v05-c0002:p0028",
+      "fact_status": "感老非准确岁龄"
+    },
+    {
+      "type": "monk_selfnames_zhending",
+      "entity": "meng_qi",
+      "reference": "v05-c0002:p0031",
+      "fact_status": "公开法号非三客确识孟"
+    },
+    {
+      "type": "liang_old_hero_report",
+      "entity": "liang_jiuzhou",
+      "reference": "v05-c0002:p0037",
+      "fact_status": "只闻没见旧侠不识"
+    },
+    {
+      "type": "liang_heals_again",
+      "entity": "liang_jiuzhou",
+      "reference": "v05-c0002:p0039",
+      "fact_status": "再白雾未全愈"
+    },
+    {
+      "type": "mu_sings_source_fragment",
+      "entity": "mu_yunle",
+      "reference": "v05-c0002:p0041",
+      "fact_status": "明低唱"
+    },
+    {
+      "type": "monk_asks_song_teacher",
+      "entity": "meng_qi",
+      "reference": "v05-c0002:p0043",
+      "fact_status": "低磁口"
+    },
+    {
+      "type": "mu_zhenhui_humming_report",
+      "entity": "zhen_hui",
+      "reference": "v05-c0002:p0044",
+      "fact_status": "穆自述非慧现场"
+    },
+    {
+      "type": "reader_revealed_meng_identity",
+      "entity": "meng_qi",
+      "reference": "v05-c0002:p0045",
+      "fact_status": "源明正孟三客未识"
+    },
+    {
+      "type": "meng_ten_years_grief",
+      "entity": "meng_qi",
+      "reference": "v05-c0002:p0046",
+      "fact_status": "明内哀"
+    },
+    {
+      "type": "meng_woodfish_and_song_reprise",
+      "entity": "meng_qi",
+      "reference": "v05-c0002:p0047",
+      "fact_status": "实重敲嘴续唱"
+    },
+    {
+      "type": "mu_actual_poem_recitation",
+      "entity": "mu_yunle",
+      "reference": "v05-c0002:p0051",
+      "fact_status": "明低念"
+    },
+    {
+      "type": "meng_after_song_detachment_words",
+      "entity": "meng_qi",
+      "reference": "v05-c0002:p0053",
+      "fact_status": "低口宣词非痛/控已尽"
+    },
     {
       "type": "mu_checks_tracking_hidden_cave",
       "entity": "mu_yunle",
