@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷4章
+# 角色阶段索引 · 截至第五卷5章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [放人与离寺知情](temple-release-and-awareness-v05.md) | 欢喜明识/穆未知/梁疑认与释放醒转区分 |
+| [恶念耳声与莲台试验](huanxi-evil-intent-voice-and-lotus-test.md) | 可见孟口与未见声源分，观察不具名神术 |
 | [欢喜截城与寺困遁](huanxi-city-abduction-and-temple-loop.md) | 门房死与梁主事似睡分，两次遁返事实/机制未知 |
 | [段瑞百缺十年](duanrui-baique-ten-year-growth.md) | 当前追杀主事八天魔，不以名号补精确境 |
 | [婴宁与邵长歌追兵](yingning-shao-changge-pursuit-v05.md) | 当前身份/战力报告、搜山失败与模仿顾不复生 |
@@ -702,3 +704,5 @@
 最新[第五卷3章复核](../reviews/review-v05-0003.md)：少女自省、夜安脱险与追兵搜空、元央寻人；[状态账](../reviews/ledger-v05-0003.md)。
 
 最新[第五卷4章复核](../reviews/review-v05-0004.md)：V05-S02截城受制与残寺困遁；[状态账](../reviews/ledger-v05-0004.md)。
+
+最新[第五卷5章复核](../reviews/review-v05-0005.md)：第三遁、放人离寺与草原劝声；[状态账](../reviews/ledger-v05-0005.md)。
