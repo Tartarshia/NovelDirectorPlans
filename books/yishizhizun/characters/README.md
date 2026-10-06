@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷401章
+# 角色阶段索引 · 截至第四卷402章／卷末
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,10 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾迎刃与死亡](gu-awakened-encounter-and-death.md) | 死亡实证、孟的醒悟与旧声分层 |
+| [粟因果伤取忆](su-bei-causal-wound-and-memory.md) | 远遁实成但伤裂，入口新知 |
+| [开天对无极](kaitian-wuji-and-metal-control.md) | 金兵控、诸法归虚与主动迎刃 |
+| [死任成与十年](death-mission-completion-and-ten-years.md) | 奖励通知、九印条件与无言烙印 |
 | [粟北外务](su-bei-xuannv-negotiator.md) | 承诺交刀未交，异宝屏心与轮回者试逃 |
 | [霸王过去身与雷神疑](overlord-past-self-and-thunder-god-question.md) | 旧刀像重识与彼岸假说待验证 |
 | [船现与七日死任](boat-encounter-seven-day-death-task.md) | 顾无词、六道提前、天命口叹 |
@@ -678,3 +682,5 @@
 最新[400章复核](../reviews/review-v04-0400.md)：他我新知、阮参代种与王信话外；[状态账](../reviews/ledger-v04-0400.md)。
 
 最新[401章复核](../reviews/review-v04-0401.md)：过去身与时间需求、粟北报价、船现顾与七日任务；[状态账](../reviews/ledger-v04-0401.md)。
+
+最新[402章复核](../reviews/review-v04-0402.md)：顾死、记忆声与绝刀烙印；[状态账](../reviews/ledger-v04-0402.md)。第四卷402章顺读完成，卷末角色与成长归纳见[第四卷](../volumes/v04.md)，尚待全书终审。
