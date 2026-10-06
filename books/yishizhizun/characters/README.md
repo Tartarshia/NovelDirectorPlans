@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷5章
+# 角色阶段索引 · 截至第五卷6章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐王精神刀与情](wang-qi-mental-blade-and-emotion-v05.md) | 王认识限、寿期预估与孤疯选择分来源 |
+| [封神洛邑未名求道](fengshen-luoyi-seeking-dao-unnamed.md) | 只城门未见师，雷天象不确施法 |
 | [放人与离寺知情](temple-release-and-awareness-v05.md) | 欢喜明识/穆未知/梁疑认与释放醒转区分 |
 | [恶念耳声与莲台试验](huanxi-evil-intent-voice-and-lotus-test.md) | 可见孟口与未见声源分，观察不具名神术 |
 | [欢喜截城与寺困遁](huanxi-city-abduction-and-temple-loop.md) | 门房死与梁主事似睡分，两次遁返事实/机制未知 |
@@ -706,3 +708,5 @@
 最新[第五卷4章复核](../reviews/review-v05-0004.md)：V05-S02截城受制与残寺困遁；[状态账](../reviews/ledger-v05-0004.md)。
 
 最新[第五卷5章复核](../reviews/review-v05-0005.md)：第三遁、放人离寺与草原劝声；[状态账](../reviews/ledger-v05-0005.md)。
+
+最新[第五卷6章复核](../reviews/review-v05-0006.md)：V05-S03消息与磨刀解读；[状态账](../reviews/ledger-v05-0006.md)。
