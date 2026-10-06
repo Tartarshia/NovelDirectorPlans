@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第五卷18章
+# 角色阶段索引 · 截至第五卷19章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [失散者三遗蜕](manjusri-peng-white-dragon-separated-encounters.md) | 文殊实名、大鹏未定与白龙曲回忆 |
 | [迦叶遗蜕掌伤旧泪](kasyapa-remains-palm-wound-tears-and-separation.md) | 实名遗蜕、未知凶手与光明失散 |
 | [黑潮片图与未出的刀](remnant-blackness-images-and-unspent-blade.md) | 片证、推与实际护刀分层 |
 | [罗胜衣三残执解脱](luoshengyi-dangshan-remnants-liberation.md) | 分执凝魂、条件来世承诺及未名驱者 |
@@ -751,3 +752,5 @@
 最新[第五卷17章复核](../reviews/review-v05-0017.md)与[状态账](../reviews/ledger-v05-0017.md)：热身凝势、三执解脱与建木驱者线索。
 
 最新[第五卷18章复核](../reviews/review-v05-0018.md)与[状态账](../reviews/ledger-v05-0018.md)：黑潮片图、迦叶遗蜕与四人失散。
+
+最新[第五卷19章复核](../reviews/review-v05-0019.md)及[状态账](../reviews/ledger-v05-0019.md)：三友各迎遗蜕、封神论智与黄泉骨替刀。
