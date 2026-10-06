@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷398章
+# 角色阶段索引 · 截至第四卷399章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,8 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [今生地球与未来同笑](jinsheng-earth-memory-and-future-smiles.md) | 镜所见与三魂/归来疑问分 |
+| [江的总纲分享与告别](jiang-shared-outline-and-unspoken-farewell.md) | 实悟还种、剑助诺与独面内心 |
 | [高览同归一体](gao-integrated-self-and-boundary.md) | 温情皇者并存与道路底线 |
 | [今镜与金书片段](gao-mirror-loan-and-jinshu-excerpts.md) | 真借需还、本人领悟非原真意 |
 | [总纲种子与同参](jietian-seed-and-shared-task.md) | 实领初悟，共享资格有限 |
@@ -664,3 +666,5 @@
 最新[397章复核](../reviews/review-v04-0397.md)：深层冷静、散灵未辨、总纲实悟与祭日候镜；[状态账](../reviews/ledger-v04-0397.md)。
 
 最新[398章复核](../reviews/review-v04-0398.md)：同归一体的高览、今镜实借与个人金书片段；[状态账](../reviews/ledger-v04-0398.md)。
+
+最新[399章复核](../reviews/review-v04-0399.md)：今生来世镜照与洗剑阁分享告别；[状态账](../reviews/ledger-v04-0399.md)。
