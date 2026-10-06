@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷392章
+# 角色阶段索引 · 截至第四卷393章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [八门真影如意应用](chu-eightgates-realshadow-ruyi.md) | 同动作临坍、七真一幻和离手如意八化 |
+| [绳伞与汉被逐](chu-binding-rope-han-umbrella.md) | 将绑未全缚、挪移未知非死 |
+| [自爆威胁与时判余地](meng-blade-selfdestruct-time-margin.md) | 真敢爆但中止，早一刹误判拿对象 |
 | [明烈公](ming-lie-gong.md) | 昏迷剑应鞭无伤亡结果 |
 | [孟汉暂盟](meng-han-temporary-coalition.md) | 心媒与嘴据、利弊游说与独吞风险 |
 | [开天殿幡斧影](openheaven-hall-banner-axe-image.md) | 同影不同角色认知，未取印 |
@@ -636,3 +639,5 @@
 最新[391章复核](../reviews/review-v04-0391.md)：[唐照人鉴](tang-wen-wang.md)、[四象一次传承实得](four-elements-hall-virtual-box.md)、[两功首次同时](meng-simultaneous-two-techniques-gate-burst.md)、秦汉/楚/齐追局；[状态账](../reviews/ledger-v04-0391.md)。
 
 最新[392章复核](../reviews/review-v04-0392.md)：[四象微征未修](four-elements-hall-virtual-box.md)、[齐袖困秦](qi-huan-gong.md)、[明剑应鞭](ming-lie-gong.md)、[孟汉暂盟](meng-han-temporary-coalition.md)、[幡斧同影](openheaven-hall-banner-axe-image.md)；[状态账](../reviews/ledger-v04-0392.md)。
+
+最新[393章复核](../reviews/review-v04-0393.md)：八门复合后手、[绳伞](chu-binding-rope-han-umbrella.md)、[自爆时判余地](meng-blade-selfdestruct-time-margin.md)、[开天对象真取](openheaven-hall-banner-axe-image.md)；[状态账](../reviews/ledger-v04-0393.md)。
