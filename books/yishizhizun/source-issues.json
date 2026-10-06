@@ -3,6 +3,19 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "shangong-balance-v04-c0389",
+      "kind": "unexplained_balance_difference",
+      "evidence": [
+        "v04-c0387:p0023",
+        "v04-c0387:p0036",
+        "v04-c0387:p0042",
+        "v04-c0389:p0004"
+      ],
+      "source_word": "旧推60920加11000得71920 / 源明72200，差280",
+      "state": "unresolved_source_issue",
+      "director_handling": "以389明确余额与后续4200为当前源基准；前章推算来源仍保，不捏造新280进账。"
+    },
+    {
       "id": "beidou-title-v04-c0382",
       "kind": "title_variation",
       "evidence": [
