@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷5章
+# 角色阶段索引 · 截至第六卷6章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–5章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–6章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [韩的苏暗杀论证](han-su-assassination-plan-and-mirror-incentive.md) | 目标揭名、条件与镜欲、私知法身 |
+| [三次联络与未来网络](wanjie-ball-plan-three-use-contact-and-public-access.md) | 还物可用、次数未分配、球与普惠待成 |
+| [方华吟记名弟子](fang-huayin-registered-disciple-and-future-cihang.md) | 慈航未来戏号、劝导师分劳非新出场 |
 | [人仙与临时因果中枢](meng-human-immortal-traits-and-causal-relay.md) | 孟本人阶、特征限与借物实施程度 |
 | [树名认知与神兵峰值](bodhi-tree-recognition-and-ten-weapons-ceiling.md) | 谱评价非现全醒、认枝非获树 |
 | [王思远脱束窗口](wang-siyuan-release-window-and-family-control.md) | 王家旧控制、个人解束与冲法身未来 |
@@ -793,3 +796,5 @@
 最新[第六卷4章复核](../reviews/review-v06-0004.md)与[状态账](../reviews/ledger-v06-0004.md)；S01闭1–3、S02从4起。
 
 最新[第六卷5章复核](../reviews/review-v06-0005.md)与[状态账](../reviews/ledger-v06-0005.md)；S02继续。
+
+最新[第六卷6章复核](../reviews/review-v06-0006.md)与[状态账](../reviews/ledger-v06-0006.md)；S02继续，孟实际离画眉未抵南荒。
