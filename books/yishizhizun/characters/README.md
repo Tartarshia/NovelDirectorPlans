@@ -1,4 +1,4 @@
-# 角色阶段索引 · 截至第四卷394章
+# 角色阶段索引 · 截至第四卷395章
 
 这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–126章本轮做正文语义与归属复核。未读真相不纳入表演。
 
@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [言无我](yan-wuwo.md) | 飞天夜叉／太乙，秘密半步与内评 |
+| [道一镜像追索](daoyi-mirror-hidden-causality.md) | 反事实刺激真隐线，能力与代价 |
+| [别墅幸存男孩](suburban-villa-surviving-boy-unresolved.md) | 现代命案，身份待揭 |
 | [九印关系与八印状态](nineprints-relations-eight-transmissions.md) | 无极衍孕/开天克，传承与入门分开 |
 | [齐袖救师侄](qi-sleeve-rescue-withdrawal.md) | 假败放敌、救袖与重伤脱宫 |
 | [刀碑均衡碎乾坤](meng-blade-stele-balanced-concealment.md) | 修配比隐踪先成后被找到 |
@@ -646,3 +649,5 @@
 最新[393章复核](../reviews/review-v04-0393.md)：八门复合后手、[绳伞](chu-binding-rope-han-umbrella.md)、[自爆时判余地](meng-blade-selfdestruct-time-margin.md)、[开天对象真取](openheaven-hall-banner-axe-image.md)；[状态账](../reviews/ledger-v04-0393.md)。
 
 最新[394章复核](../reviews/review-v04-0394.md)：[八印关系](nineprints-relations-eight-transmissions.md)、[刀碑隐踪](meng-blade-stele-balanced-concealment.md)、[齐袖救硬逃](qi-sleeve-rescue-withdrawal.md)与各霸当前状态；[状态账](../reviews/ledger-v04-0394.md)。
+
+最新[395章复核](../reviews/review-v04-0395.md)：第三天梯、传承合纵、道一镜像追踪与未揭男孩；[状态账](../reviews/ledger-v04-0395.md)。
