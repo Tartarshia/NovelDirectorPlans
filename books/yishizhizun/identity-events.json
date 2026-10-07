@@ -1,7 +1,380 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0037",
+  "through_chapter": "v06-c0038",
   "events": [
+    {
+      "type": "jiang_actual_danger_and_opportunity_of_cataclysm",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0038:p0001",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "jiang_aims_beyond_fashen_not_attained",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0038:p0002",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_plans_retreat_before_qingping_search",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0006",
+      "fact_status": "character_future_plan_conditional_risk_or_hope_not_completed_migration_or_promotion"
+    },
+    {
+      "type": "meng_actual_lineage_survival_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0007",
+      "fact_status": "character_future_plan_conditional_risk_or_hope_not_completed_migration_or_promotion"
+    },
+    {
+      "type": "jiang_worries_xijian_future",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0038:p0009",
+      "fact_status": "character_future_plan_conditional_risk_or_hope_not_completed_migration_or_promotion"
+    },
+    {
+      "type": "jiang_actual_identifies_lineage_fallback_plan",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0038:p0011",
+      "fact_status": "character_future_plan_conditional_risk_or_hope_not_completed_migration_or_promotion"
+    },
+    {
+      "type": "meng_actual_fragment_migration_conditional_proposal",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0012",
+      "fact_status": "character_future_plan_conditional_risk_or_hope_not_completed_migration_or_promotion"
+    },
+    {
+      "type": "meng_actual_future_helpers_possible",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0013",
+      "fact_status": "character_future_plan_conditional_risk_or_hope_not_completed_migration_or_promotion"
+    },
+    {
+      "type": "jiang_actual_selfother_encounter_dangers",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0038:p0014",
+      "fact_status": "character_future_plan_conditional_risk_or_hope_not_completed_migration_or_promotion"
+    },
+    {
+      "type": "meng_private_fragment_uncertainty_only_one_backup",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0015",
+      "fact_status": "explicit_backup_limit_and_possible_hidden_mystery_not_proven_origin",
+      "channel": "actual_private_spiritual_voice",
+      "recipient": "jiang_zhiwei"
+    },
+    {
+      "type": "meng_actual_visit_old_friends_holds_wheel",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0017",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_wheel_earthimmortal_special_wisdom_rank",
+      "entity": "narrator",
+      "reference": "v06-c0038:p0018",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_complete_wisdom_creation_buddha_not_current_meng",
+      "entity": "narrator",
+      "reference": "v06-c0038:p0019",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_jiang_depart_autumn_path",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0021",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "shaolin_monks_still_absorbed_prior_palm_display",
+      "entity": "narrator",
+      "reference": "v06-c0038:p0024",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "kongwen_senses_hutuktu_guarded_actual_greeting",
+      "entity": "kongwen",
+      "reference": "v06-c0038:p0027",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "kongwen_timefragment_v06_c0032",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "monks_guess_hutuktu_attacking",
+      "entity": "fragment_shaolin_monks_group",
+      "reference": "v06-c0038:p0030",
+      "fact_status": "monks_inner_guess_not_hutuktu_actual_attack"
+    },
+    {
+      "type": "hutuktu_actual_kneels_before_statue",
+      "entity": "hutuktu",
+      "reference": "v06-c0038:p0032",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "hutuktu_timefragment_v06_c0034",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "monks_inner_confused_purpose",
+      "entity": "fragment_shaolin_monks_group",
+      "reference": "v06-c0038:p0034",
+      "fact_status": "monks_inner_guess_not_hutuktu_actual_attack"
+    },
+    {
+      "type": "kongwen_actual_asks_purpose",
+      "entity": "kongwen",
+      "reference": "v06-c0038:p0036",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "kongwen_timefragment_v06_c0032",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "hutuktu_actual_requests_shaolin_sweeper_not_elder",
+      "entity": "hutuktu",
+      "reference": "v06-c0038:p0037",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "hutuktu_timefragment_v06_c0034",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "kongwen_actual_bodhisattva_only_hope",
+      "entity": "kongwen",
+      "reference": "v06-c0038:p0040",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "kongwen_timefragment_v06_c0032",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "hutuktu_actual_rank_names_empty",
+      "entity": "hutuktu",
+      "reference": "v06-c0038:p0041",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "hutuktu_timefragment_v06_c0034",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "hutuktu_actual_picks_menial_left_broom_sweeps",
+      "entity": "hutuktu",
+      "reference": "v06-c0038:p0042",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "hutuktu_timefragment_v06_c0034",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "hutuktu_actual_sings_pastfuture_swept_verse",
+      "entity": "hutuktu",
+      "reference": "v06-c0038:p0043",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "hutuktu_timefragment_v06_c0034",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "young_fu_restless_in_nunnery",
+      "entity": "fu_zhenzhen",
+      "reference": "v06-c0038:p0047",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "fu_zhenzhen_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "young_fu_sneaks_to_backhill",
+      "entity": "fu_zhenzhen",
+      "reference": "v06-c0038:p0048",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "fu_zhenzhen_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "young_fu_bandages_injured_rabbit",
+      "entity": "fu_zhenzhen",
+      "reference": "v06-c0038:p0049",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "fu_zhenzhen_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "unnamed_sky_voice_actual_good_deeds_reward",
+      "entity": "unknown_sky_gift_voice",
+      "reference": "v06-c0038:p0051",
+      "fact_status": "actual_voice_speaker_not_explicitly_named",
+      "speaker_candidates": [
+        "meng_qi",
+        "jiang_zhiwei"
+      ]
+    },
+    {
+      "type": "book_of_yangzhi_yulu_descends_title_not_speech",
+      "entity": "narrator",
+      "reference": "v06-c0038:p0053",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "fu_sees_blue_yellow_two_backs",
+      "entity": "fu_zhenzhen",
+      "reference": "v06-c0038:p0054",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "fu_zhenzhen_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "fu_actual_surprised_only_saved_rabbit",
+      "entity": "fu_zhenzhen",
+      "reference": "v06-c0038:p0056",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "fu_zhenzhen_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "fu_inner_questions_big_display",
+      "entity": "fu_zhenzhen",
+      "reference": "v06-c0038:p0057",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "fu_zhenzhen_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "fragment_zhao_wei_prince_weakness_despair",
+      "entity": "zhao_heng",
+      "reference": "v06-c0038:p0061",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "zhao_heng_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "fragment_zhao_actual_cannot_seek_adventure",
+      "entity": "zhao_heng",
+      "reference": "v06-c0038:p0062",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "zhao_heng_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "fragment_zhao_actual_meteor_better_than_weakness",
+      "entity": "zhao_heng",
+      "reference": "v06-c0038:p0064",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "zhao_heng_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "meteor_actual_hits_zhao_painful_body_change",
+      "entity": "zhao_heng",
+      "reference": "v06-c0038:p0066",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "zhao_heng_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "fragment_zhao_body_strong_not_rank_attained",
+      "entity": "zhao_heng",
+      "reference": "v06-c0038:p0067",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "zhao_heng_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "fragment_zhao_actual_grateful_unknown_benefactor",
+      "entity": "zhao_heng",
+      "reference": "v06-c0038:p0068",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "instance_id": "zhao_heng_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "meng_actual_murmurs_no_need_thanks_depart_with_jiang",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0069",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "unnamed_langya_girl_roasts_larvae",
+      "entity": "unnamed_langya_little_girl",
+      "reference": "v06-c0038:p0072",
+      "fact_status": "source_unnamed_actor_identity_inference_pending_not_confirmed",
+      "identity_candidate": "ruan_yushu"
+    },
+    {
+      "type": "girl_sees_burning_finger",
+      "entity": "unnamed_langya_little_girl",
+      "reference": "v06-c0038:p0075",
+      "fact_status": "source_unnamed_actor_identity_inference_pending_not_confirmed",
+      "identity_candidate": "ruan_yushu"
+    },
+    {
+      "type": "girl_actual_hesitates_uh",
+      "entity": "unnamed_langya_little_girl",
+      "reference": "v06-c0038:p0076",
+      "fact_status": "source_unnamed_actor_identity_inference_pending_not_confirmed",
+      "identity_candidate": "ruan_yushu"
+    },
+    {
+      "type": "meng_actual_fire_for_shared_food",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0078",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "girl_actual_one_each_larvae",
+      "entity": "unnamed_langya_little_girl",
+      "reference": "v06-c0038:p0080",
+      "fact_status": "source_unnamed_actor_identity_inference_pending_not_confirmed",
+      "identity_candidate": "ruan_yushu"
+    },
+    {
+      "type": "girl_meal_shared_friendship_farewell",
+      "entity": "unnamed_langya_little_girl",
+      "reference": "v06-c0038:p0081",
+      "fact_status": "source_unnamed_actor_identity_inference_pending_not_confirmed",
+      "identity_candidate": "ruan_yushu"
+    },
+    {
+      "type": "meng_actual_refuses_to_remove_all_evil_threats",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0082",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_jiang_actually_leave_fragment",
+      "entity": "meng_qi",
+      "reference": "v06-c0038:p0083",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "fragment_shoujing_seems_watches_departure",
+      "entity": "shoujing",
+      "reference": "v06-c0038:p0086",
+      "fact_status": "source_apparent_gaze_not_proven_omniscience",
+      "instance_id": "shoujing_timefragment_v06_c0038",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "later_rumors_timeframe_not_current_action",
+      "entity": "narrator",
+      "reference": "v06-c0038:p0088",
+      "fact_status": "later_jianghu_rumor_not_directly_observed_battle_or_disappearance"
+    },
+    {
+      "type": "later_rumor_hutuktu_three_moves_missing",
+      "entity": "hutuktu",
+      "reference": "v06-c0038:p0089",
+      "fact_status": "later_jianghu_rumor_not_directly_observed_battle_or_disappearance",
+      "instance_id": "hutuktu_timefragment_v06_c0034",
+      "world_context": "current_timefragment_not_mainworld_person_state_reset"
+    },
+    {
+      "type": "later_rumor_southland_peace",
+      "entity": "narrator",
+      "reference": "v06-c0038:p0090",
+      "fact_status": "later_jianghu_rumor_not_directly_observed_battle_or_disappearance"
+    },
+    {
+      "type": "later_rumor_crying_oldman_wounded_by_female_companion",
+      "entity": "narrator",
+      "reference": "v06-c0038:p0091",
+      "fact_status": "later_jianghu_rumor_not_directly_observed_battle_or_disappearance"
+    },
     {
       "type": "mindrealm_starfield_jiang_not_seen",
       "entity": "narrator",

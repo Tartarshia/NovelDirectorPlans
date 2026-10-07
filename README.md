@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第37章，964 / 1410 个目录条目，约314.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第38章，965 / 1410 个目录条目，约315.1万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第38章复核](books/yishizhizun/reviews/review-v06-0038.md)：宙光后备风险、扫地实成、幼友相助与后世传言，92段、119句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0038.md)。
 - [第六卷第37章复核](books/yishizhizun/reviews/review-v06-0037.md)：心界制限、三世空身与弃轮重修，95段、115句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0037.md)。
 - [第六卷第36章复核](books/yishizhizun/reviews/review-v06-0036.md)：活佛误判、私传合作与心界切磋起，47段、65句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0036.md)。
 - [第六卷第35章复核](books/yishizhizun/reviews/review-v06-0035.md)：少林复刻误判与佛音似悟、活佛新问，68段、97句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0035.md)。
