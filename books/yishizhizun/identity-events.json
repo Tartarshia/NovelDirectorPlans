@@ -1,7 +1,496 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0040",
+  "through_chapter": "v06-c0041",
   "events": [
+    {
+      "type": "guests_actual_greet_public_yedi",
+      "entity": "sea_guests_group",
+      "reference": "v06-c0041:p0001",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_reconsiders_false_yedi_aura",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0002",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "false_yedi_actual_welcome",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0003",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_public_role",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "false_yedi_actual_wine_description_warning",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0008",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_public_role",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "guests_actual_toast_host",
+      "entity": "sea_guests_group",
+      "reference": "v06-c0041:p0011",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_slight_wine_benefit_not_promotion",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0012",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "false_yedi_actual_crab_dish_report",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0013",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_public_role",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "meng_inner_regrets_ruan_absent",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0016",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "false_yedi_actual_one_wish_selection",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0018",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_public_role",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "false_yedi_chooses_merchant_not_meng",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0020",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_public_role",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "merchant_actual_requests_protection_heigu",
+      "entity": "unknown_chosen_sea_merchant",
+      "reference": "v06-c0041:p0022",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "false_yedi_actual_yunyue_letter_order",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0023",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_public_role",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "yunyue_actual_message_enough",
+      "entity": "yunyue",
+      "reference": "v06-c0041:p0024",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "false_yedi_actual_delegates_not_completed_delivery",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0026",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_public_role",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "meng_hears_merchant_inner_regret",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0027",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "merchant_explicit_inner_child_apprenticeship_regret",
+      "entity": "unknown_chosen_sea_merchant",
+      "reference": "v06-c0041:p0028",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "false_yedi_actual_youhu_dismiss_guests",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0031",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_public_role",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "youhu_narrated_servant_instructions_no_verbatim",
+      "entity": "youhu",
+      "reference": "v06-c0041:p0032",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "true_gardener_actual_asks_feeling",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0034",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "meng_actual_false_not_true_yedi",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0035",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "true_gardener_actual_how_identified",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0036",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "source_gardener_is_actual_huo_identity_confirmed",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0037",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "ordinary_gardener_disguise",
+      "identity_resolution": {
+        "prior_actor_id": "unknown_yedi_ship_gardener",
+        "resolved_actor_id": "huo_lishang",
+        "prior_references": [
+          "v06-c0040:p0083",
+          "v06-c0040:p0086"
+        ],
+        "knowledge_scope": "confirmed_now_not_known_by_meng_at_prior_chapter"
+      }
+    },
+    {
+      "type": "meng_actual_life_passion_vs_imitation",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0038",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_actual_youhu_bloom_portrait",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0039",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "huo_actual_liushang_jealous_portrait",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0040",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "huo_actual_xiapei_shy_portrait",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0041",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "huo_actual_yunyue_playful_portrait",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0042",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "huo_actual_life_aesthetics",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0043",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "meng_actual_asks_false_yedi_reason",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0044",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_actual_years_of_identity_experiments",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0047",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "huo_actual_false_yedi_was_chixia_gardener",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0048",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "ordinary_gardener_disguise",
+      "identity_resolution": {
+        "prior_actor_id": "unknown_yedi_ship_whiteclothed_man",
+        "resolved_actor_id": "chixia_gardener",
+        "prior_references": [
+          "v06-c0040:p0089"
+        ],
+        "knowledge_scope": "actual_impersonator_revealed_current_chapter"
+      }
+    },
+    {
+      "type": "huo_actual_halfyear_ordinary_family_experience",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0049",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "meng_actual_changeback_question_with_unease",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0050",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_actual_early_end_due_to_meng",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0051",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "ordinary_gardener_disguise"
+    },
+    {
+      "type": "huo_changes_features_enters_hall",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0052",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "false_yedi_actual_stammer_fright",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0053",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_public_role",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "huo_actual_game_over",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0055",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_removes_qianhuan_false_aura_vanishes",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0056",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "false_gardener_actual_denies_identity_loss",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0057",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "ordinary_chixia_gardener_unmasked",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "false_gardener_actual_appeals_liushang_xiapei",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0058",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "ordinary_chixia_gardener_unmasked",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "women_leave_false_greet_true_huo",
+      "entity": "liushang_xiapei",
+      "reference": "v06-c0041:p0059",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "false_gardener_actual_cries_taken_not_killed",
+      "entity": "chixia_gardener",
+      "reference": "v06-c0041:p0060",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "ordinary_chixia_gardener_unmasked",
+      "embodiment": "different_person_impersonating_huo_qianhuan_borrowed_power_not_self_fashen"
+    },
+    {
+      "type": "true_huo_reclaims_seat_and_yedi_role",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0062",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_initial_refusal_then_agreed_after_trial",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0063",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_qianhuan_lends_force_and_fullauthority",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0064",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_consequences_his_own_responsibility",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0066",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "meng_actual_questions_attendant_subordinate_feelings",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0070",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_actual_claims_women_willing",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0071",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "liushang_actual_denial_tears",
+      "entity": "liushang",
+      "reference": "v06-c0041:p0072",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xiapei_actual_only_satisfying_huo_not_enjoying",
+      "entity": "xiapei",
+      "reference": "v06-c0041:p0073",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_actual_soothing_my_fault",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0074",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "liushang_actual_willing_for_him",
+      "entity": "liushang",
+      "reference": "v06-c0041:p0075",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xiapei_actual_if_you_think_willing_then_willing",
+      "entity": "xiapei",
+      "reference": "v06-c0041:p0076",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_actual_pitches_pleasures_wealth_power",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0077",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_past_participants_unwilling_leave_report",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0078",
+      "fact_status": "huo_actual_character_account_claim_or_aesthetic_not_everyone_verified_inner_consent",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_infers_strong_person_hidden_purpose",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0080",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_route_curdeath_yinvisit_information",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0081",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_secret_organization_relation_knowledge",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0082",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_organization_investigator_hypothesis",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0083",
+      "fact_status": "character_inference_or_calculation_not_full_identity_known_or_plan_completed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "meng_inner_shaken_actual_denies",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0084",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_actual_proposes_exchange_and_investigation_help",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0085",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "meng_actual_exchange_query",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0088",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_inner_cover_utility_and_hidden_purpose_doubt",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0090",
+      "fact_status": "character_inference_or_calculation_not_full_identity_known_or_plan_completed"
+    },
+    {
+      "type": "huo_actual_qianhuan_exchange_offer_repeated",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0094",
+      "fact_status": "exchange_offer_acceptance_and_mask_handoff_authorization_no_source_meng_wearing_power_demonstrated_yet",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "meng_actual_accepts_exchange",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0097",
+      "fact_status": "exchange_offer_acceptance_and_mask_handoff_authorization_no_source_meng_wearing_power_demonstrated_yet"
+    },
+    {
+      "type": "huo_hands_qianhuan_to_meng",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0098",
+      "fact_status": "exchange_offer_acceptance_and_mask_handoff_authorization_no_source_meng_wearing_power_demonstrated_yet",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_authorizes_meng_yedi_role",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0099",
+      "fact_status": "exchange_offer_acceptance_and_mask_handoff_authorization_no_source_meng_wearing_power_demonstrated_yet",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "huo_actual_asks_own_new_identity",
+      "entity": "huo_lishang",
+      "reference": "v06-c0041:p0100",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_true_form"
+    },
+    {
+      "type": "meng_actual_claims_taiyi_tianzun_han_guang_false_identity",
+      "entity": "meng_qi",
+      "reference": "v06-c0041:p0102",
+      "fact_status": "meng_actual_false_name_to_exchange_partner_not_han_guang_actual_actor_or_new_xianji_membership",
+      "claimed_identity": "taiyi_tianzun_han_guang",
+      "recipient": "huo_lishang"
+    },
     {
       "type": "qu_is_xianji_member_supplied_two_treasure_clues",
       "entity": "qu_baimei",

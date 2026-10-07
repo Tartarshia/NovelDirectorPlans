@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷40章
+# 角色阶段索引 · 截至第六卷41章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–40章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–41章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [霍离殇：真花匠、完整身份玩法与千幻借力边界](huo-lishang-identity-exchange-and-qianhuan-boundaries.md) | 第六卷41章当前证据与表演边界 |
+| [夜帝四侍：外观分工、个人声与乐意说的距离](yedi-four-attendants-character-voices-and-consent-claims.md) | 第六卷41章当前证据与表演边界 |
+| [孟答换夜帝、借势内算与韩广伪名](meng-yedi-agreement-hanguang-false-name-and-authority-limits.md) | 第六卷41章当前证据与表演边界 |
 | [曲白眉：仙迹获利、有限谨慎与黄龙身死](qu-baimei-huanglong-profit-prudence-and-fatal-betrayal.md) | 第六卷40章当前证据与表演边界 |
 | [阴祖徐悲黑影、殷的知情与诱查命令](yinzu-xubei-shadow-curse-claim-and-investigation-bait.md) | 第六卷40章当前证据与表演边界 |
 | [夜帝霍离殇的资料、邀宴声与花匠猜测](yedi-huolishang-sea-feast-and-gardener-uncertainty.md) | 第六卷40章当前证据与表演边界 |
@@ -971,3 +974,5 @@
 最新[第六卷39章复核](../reviews/review-v06-0039.md)与[状态账](../reviews/ledger-v06-0039.md)，半年补法不新境、海外金鳌失踪消息链与曲白眉黄龙面具；S10从39开。
 
 最新[第六卷40章复核](../reviews/review-v06-0040.md)与[状态账](../reviews/ledger-v06-0040.md)，黄龙真陨与咒口述、孟未知诱查、夜船花匠未证身份。
+
+最新[第六卷41章复核](../reviews/review-v06-0041.md)与[状态账](../reviews/ledger-v06-0041.md)，真伪夜帝稳定actor分离、四女意见差与孟答换韩广伪名；S10继续。
