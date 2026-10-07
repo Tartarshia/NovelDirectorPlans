@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷24章
+# 角色阶段索引 · 截至第六卷25章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–24章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–25章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [冰宫护路、洞天备置与高览的耐心](icepalace-guards-cave-preparation-and-gao-unification-patience.md) | 第六卷25章当前证据与表演边界 |
+| [七彩枝、疑镯片与天诛斧脱手复返](guerduo-sevenbranch-bracelet-fragment-and-axe-return.md) | 第六卷25章当前证据与表演边界 |
+| [苏识韩化身与钟片的局部倒带景象](su-recognizes-han-avatar-bell-fragment-local-rewind.md) | 第六卷25章当前证据与表演边界 |
 | [孟奇的假镜、元始混位与拖时障眼法](meng-false-mirror-yuanshi-position-and-hidden-purpose.md) | 第六卷24章当前证据与表演边界 |
 | [绝刀雷霆入微与血魔意识炸身](blade-thunder-microstructure-and-blood-consciousness-explosion.md) | 第六卷24章当前证据与表演边界 |
 | [血色恒星、池中防御与碎器目标转移](yaochi-blood-star-pool-defense-and-fragment-targets.md) | 第六卷24章当前证据与表演边界 |
@@ -891,3 +894,5 @@
 最新[第六卷23章复核](../reviews/review-v06-0023.md)与[状态账](../reviews/ledger-v06-0023.md)，再生诱敌与血魔一点融合揭面，反攻待续。
 
 最新[第六卷24章复核](../reviews/review-v06-0024.md)与[状态账](../reviews/ledger-v06-0024.md)，真假镜计、微观雷刀与冰宫退路风险。
+
+最新[第六卷25章复核](../reviews/review-v06-0025.md)与[状态账](../reviews/ledger-v06-0025.md)，钟片真实浮、似局部倒带与外韩问刀。
