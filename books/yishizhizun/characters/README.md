@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷6章
+# 角色阶段索引 · 截至第六卷7章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–6章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–7章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [希打悲仇与对错](xida-grief-hope-and-unresolved-rightwrong.md) | 希望不是战果、末尾伦理疑未解 |
+| [希打父亲的告密](xida-father-protection-dependence-and-informing.md) | 痛亲与3756人生存权衡、未名局部身份 |
+| [万虫血阵与死亡](wanchong-blood-array-confidence-and-backlash-death.md) | 阵中自信、一次刀三雷及蛊反噬 |
+| [蛊神规则辩词与合声](gu-god-protection-argument-and-miasma-chorus.md) | 画面来源、全域说法与自主未决 |
 | [韩的苏暗杀论证](han-su-assassination-plan-and-mirror-incentive.md) | 目标揭名、条件与镜欲、私知法身 |
 | [三次联络与未来网络](wanjie-ball-plan-three-use-contact-and-public-access.md) | 还物可用、次数未分配、球与普惠待成 |
 | [方华吟记名弟子](fang-huayin-registered-disciple-and-future-cihang.md) | 慈航未来戏号、劝导师分劳非新出场 |
@@ -798,3 +802,5 @@
 最新[第六卷5章复核](../reviews/review-v06-0005.md)与[状态账](../reviews/ledger-v06-0005.md)；S02继续。
 
 最新[第六卷6章复核](../reviews/review-v06-0006.md)与[状态账](../reviews/ledger-v06-0006.md)；S02继续，孟实际离画眉未抵南荒。
+
+最新[第六卷7章复核](../reviews/review-v06-0007.md)与[状态账](../reviews/ledger-v06-0007.md)；S02闭4–6，S03从7章南荒现实冲突起。
