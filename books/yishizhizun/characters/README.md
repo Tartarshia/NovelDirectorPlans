@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷16章
+# 角色阶段索引 · 截至第六卷17章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–16章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–17章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [无形袭击与感知模型](meng-luda-undetectable-attacks-and-sensing-model.md) | 失败后的思路更新，当前限制 |
+| [法则合作与棺中魔心](luda-law-sword-meng-amplification-and-coffin-heart.md) | 分工显形与影响边界 |
+| [邪四能力与孟新知](evilfour-realm-profile-and-meng-new-god-knowledge.md) | 作者介绍、人物知情与时点 |
 | [无极庆云与陆剑屏](meng-wuji-qingyun-luda-microblade-and-hidden-poison.md) | 现有防御与极致潜力、隐藏邪毒 |
 | [冰仙化身猜与九墓疑](iceimmortal-mojun-avatar-hypothesis-and-nine-tomb-gap.md) | 明确只是推想，不倒主次 |
 | [邪四痕、古血与未名敌](evilfour-traces-guerduo-goldblood-and-unseen-attacker.md) | 痕迹证据与攻击者未知 |
@@ -851,3 +854,5 @@
 最新[第六卷15章复核](../reviews/review-v06-0015.md)与[状态账](../reviews/ledger-v06-0015.md)，S06继续，四援镜屋到位、两入三外换路，棺与陆压目的仍疑。
 
 最新[第六卷16章复核](../reviews/review-v06-0016.md)与[状态账](../reviews/ledger-v06-0016.md)，S06继续，黑墙已破、双防御显差异，冰仙化身仍猜，伤古尔多的攻击者未知。
+
+最新[第六卷17章复核](../reviews/review-v06-0017.md)与[状态账](../reviews/ledger-v06-0017.md)，S06继续，联合显棺魔心、幕后身份与后续战果未定。
