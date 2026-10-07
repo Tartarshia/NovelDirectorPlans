@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第33章，960 / 1410 个目录条目，约313.4万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第34章，961 / 1410 个目录条目，约313.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第34章复核](books/yishizhizun/reviews/review-v06-0034.md)：江自主他我、少林计划与幼张有限剑赠，75段、115句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0034.md)。
 - [第六卷第33章复核](books/yishizhizun/reviews/review-v06-0033.md)：四十年假说、江剑心与不留名演练，70段、117句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0033.md)。
 - [第六卷第32章复核](books/yishizhizun/reviews/review-v06-0032.md)：幼江与片中故人、缺苏假设及虚和异史，99段、158句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0032.md)。
 - [第六卷第31章复核](books/yishizhizun/reviews/review-v06-0031.md)：江脱轮、六字任务与实入宙光，52段、81句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0031.md)。

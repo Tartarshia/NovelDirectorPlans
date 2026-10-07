@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷33章
+# 角色阶段索引 · 截至第六卷34章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–33章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–34章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [江自主他我路线、自信条件与多意念风险](jiang-autonomous-other-self-confidence-and-spirit-risk.md) | 第六卷34章当前证据与表演边界 |
+| [唯一师父、有限演掌计划与净土知识边界](meng-one-master-kongwen-limited-palm-plan-and-pureland-boundaries.md) | 第六卷34章当前证据与表演边界 |
+| [幼张族望、洗髓有限剑赠与不牵真真](child-zhang-family-pressure-meng-marrow-refinement-and-partial-swordgift.md) | 第六卷34章当前证据与表演边界 |
 | [四十年异史、活佛与轮回者节点假说](timefragment-fortyyear-node-hutuktu-and-reincarnator-hypothesis.md) | 第六卷33章当前证据与表演边界 |
 | [江纯剑乐、旧长辈情怀与自愿帮助的戒律界限](jiang-pure-swordjoy-lineage-rule-and-voluntary-help.md) | 第六卷33章当前证据与表演边界 |
 | [洗剑双真意消散、余周视角与不留名演练](xijian-two-inheritances-lost-yuwanli-zhoutaichong-and-anonymous-demonstration.md) | 第六卷33章当前证据与表演边界 |
@@ -936,3 +939,5 @@
 最新[第六卷32章复核](../reviews/review-v06-0032.md)与[状态账](../reviews/ledger-v06-0032.md)，幼江与片中故人、缺苏假设、虚和异史与主韩仍活。
 
 最新[第六卷33章复核](../reviews/review-v06-0033.md)与[状态账](../reviews/ledger-v06-0033.md)，四十年规则猜、江纯粹与戒律、周视角独证消散及匿名演练。
+
+最新[第六卷34章复核](../reviews/review-v06-0034.md)与[状态账](../reviews/ledger-v06-0034.md)，江自主不融、少林未执行愿望、幼张真实有限助与片活佛伤愈。
