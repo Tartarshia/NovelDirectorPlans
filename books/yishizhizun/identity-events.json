@@ -1,7 +1,211 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0012",
+  "through_chapter": "v06-c0013",
   "events": [
+    {
+      "type": "farnorth_fog_spirit_reduction",
+      "entity": "icepalace_region",
+      "reference": "v06-c0013:p0001",
+      "fact_status": "实际环境"
+    },
+    {
+      "type": "blue_liquidlake_freezing_conditional",
+      "entity": "icepalace_lake",
+      "reference": "v06-c0013:p0003",
+      "fact_status": "触可能死非新death"
+    },
+    {
+      "type": "icepalace_route_and_local_outer_exploration",
+      "entity": "icepalace",
+      "reference": "v06-c0013:p0005",
+      "fact_status": "当地只外层"
+    },
+    {
+      "type": "chen_liu_now_married_explicit",
+      "entity": "chen_zhao_liu_zejun",
+      "reference": "v06-c0013:p0006",
+      "fact_status": "师妹兼夫人"
+    },
+    {
+      "type": "chen_thirdladder_grandmaster_progress",
+      "entity": "chen_zhao",
+      "reference": "v06-c0013:p0007",
+      "fact_status": "作者境明"
+    },
+    {
+      "type": "liu_fear_advises_return",
+      "entity": "liu_zejun",
+      "reference": "v06-c0013:p0008",
+      "fact_status": "actual"
+    },
+    {
+      "type": "unnamed_iceelder_halfstep_mockery",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0013:p0009",
+      "fact_status": "话境来源"
+    },
+    {
+      "type": "observers_driven_by_monster_law",
+      "entity": "icepalace_observers",
+      "reference": "v06-c0013:p0010",
+      "fact_status": "同避而非盟"
+    },
+    {
+      "type": "chen_retorts_lost_courage",
+      "entity": "chen_zhao",
+      "reference": "v06-c0013:p0011",
+      "fact_status": "actual嘿"
+    },
+    {
+      "type": "blackpath_lamps_exploration_progress",
+      "entity": "icepalace_path",
+      "reference": "v06-c0013:p0012",
+      "fact_status": "危禁尺度"
+    },
+    {
+      "type": "bronze_coffin_brief_core_appearance",
+      "entity": "bronze_coffin_icepalace",
+      "reference": "v06-c0013:p0014",
+      "fact_status": "真实闪现"
+    },
+    {
+      "type": "chen_liu_similar_modxu_coffin_question",
+      "entity": "chen_zhao_liu_zejun",
+      "reference": "v06-c0013:p0017",
+      "fact_status": "很像非同一确证"
+    },
+    {
+      "type": "elder_coffin_common_farnorth_knowledge",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0013:p0018",
+      "fact_status": "知情非主者认证"
+    },
+    {
+      "type": "unnamed_blue_swordsman_arrives",
+      "entity": "icepalace_swordsman_01",
+      "reference": "v06-c0013:p0019",
+      "fact_status": "苏候选未名"
+    },
+    {
+      "type": "chen_guesses_southern_fashen",
+      "entity": "chen_zhao",
+      "reference": "v06-c0013:p0022",
+      "fact_status": "猜未认识"
+    },
+    {
+      "type": "swordsman_one_step_all_lamps_core_entry",
+      "entity": "icepalace_swordsman_01",
+      "reference": "v06-c0013:p0024",
+      "fact_status": "真实过路"
+    },
+    {
+      "type": "observers_exceed_old_humanimmortal_comparison",
+      "entity": "icepalace_observers",
+      "reference": "v06-c0013:p0026",
+      "fact_status": "视角不正式阶"
+    },
+    {
+      "type": "four_fashen_arrive_later",
+      "entity": "evil_four",
+      "reference": "v06-c0013:p0028",
+      "fact_status": "后四实到"
+    },
+    {
+      "type": "han_timeappearance",
+      "entity": "han_guang",
+      "reference": "v06-c0013:p0029",
+      "fact_status": "末49对应"
+    },
+    {
+      "type": "guerduo_axe_appearance_correspondence",
+      "entity": "guerduo",
+      "reference": "v06-c0013:p0030",
+      "fact_status": "未名既外相对应"
+    },
+    {
+      "type": "dushi_transparency_appearance",
+      "entity": "dushi_fawang",
+      "reference": "v06-c0013:p0031",
+      "fact_status": "末50对应"
+    },
+    {
+      "type": "bloodsea_redrobe_appearance",
+      "entity": "blood_sea_rakshasa",
+      "reference": "v06-c0013:p0032",
+      "fact_status": "末50对应"
+    },
+    {
+      "type": "four_fashen_cross_blackpath",
+      "entity": "evil_four",
+      "reference": "v06-c0013:p0034",
+      "fact_status": "陆续实过"
+    },
+    {
+      "type": "han_seems_see_mirror_observers",
+      "entity": "han_guang",
+      "reference": "v06-c0013:p0035",
+      "fact_status": "似透镜"
+    },
+    {
+      "type": "chen_stress_acupoints_heat",
+      "entity": "chen_zhao",
+      "reference": "v06-c0013:p0037",
+      "fact_status": "真实应激"
+    },
+    {
+      "type": "han_smile_turn_four_enter_core",
+      "entity": "evil_four",
+      "reference": "v06-c0013:p0038",
+      "fact_status": "实际核心"
+    },
+    {
+      "type": "elder_weakness_reason_guess",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0013:p0039",
+      "fact_status": "猜放过因非确"
+    },
+    {
+      "type": "meng_yuxu_wuji_practice_skytrigger",
+      "entity": "meng_qi",
+      "reference": "v06-c0013:p0042",
+      "fact_status": "仍玉虚"
+    },
+    {
+      "type": "meng_knows_somebody_entered_secretplace",
+      "entity": "meng_qi",
+      "reference": "v06-c0013:p0043",
+      "fact_status": "内非公开口"
+    },
+    {
+      "type": "luya_prior_minor_skyinfo_source",
+      "entity": "lu_ya",
+      "reference": "v06-c0013:p0044",
+      "fact_status": "旧口信息无新场"
+    },
+    {
+      "type": "meng_coincidence_suspicion",
+      "entity": "meng_qi",
+      "reference": "v06-c0013:p0046",
+      "fact_status": "内未名单"
+    },
+    {
+      "type": "han_constrained_actual_frontguard",
+      "entity": "han_guang",
+      "reference": "v06-c0013:p0049",
+      "fact_status": "先锋结果非计划"
+    },
+    {
+      "type": "han_composed_smile_dushi_unknown_thought",
+      "entity": "evil_four",
+      "reference": "v06-c0013:p0050",
+      "fact_status": "韩笑渡未知"
+    },
+    {
+      "type": "bloodsea_more_silent_bloodblade_grip",
+      "entity": "blood_sea_rakshasa",
+      "reference": "v06-c0013:p0050",
+      "fact_status": "新沉默无脑词"
+    },
     {
       "type": "meng_taiyi_qingdi_or_earth_taiyi_speculation",
       "entity": "meng_qi",
