@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷30章
+# 角色阶段索引 · 截至第六卷31章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–30章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–31章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [江芷微实际脱轮回、强忍契机与主动协查](jiang-name-erasure-causality-release-and-restraint.md) | 第六卷31章当前证据与表演边界 |
+| [怪道双形、青帝六字任务与血桃秘密不问](qingdi-two-forms-sixword-message-and-bloodpeach-secrecy.md) | 第六卷31章当前证据与表演边界 |
+| [孟江神游见兰柯与双身体降临巨大宙光碎片](meng-jiang-spiritual-journey-lanke-and-timefragment-entry.md) | 第六卷31章当前证据与表演边界 |
 | [镜裂大小、互借与新路传说的联系条件](meng-mirror-split-shared-use-and-legend-contact-path.md) | 第六卷30章当前证据与表演边界 |
 | [云鹤炼剑风险、青萍剑之念与金乌派线索](yunhe-sword-forging-uncertainty-qingping-and-jinwu-options.md) | 第六卷30章当前证据与表演边界 |
 | [榜前江名优先、冲和仍榜与青帝任务暂停抹名](luya-list-jiang-choice-chonghe-name-and-qingdi-task.md) | 第六卷30章当前证据与表演边界 |
@@ -921,3 +924,5 @@
 最新[第六卷29章复核](../reviews/review-v06-0029.md)与[状态账](../reviews/ledger-v06-0029.md)，镜钟分获、化身毁与劈镜仍计划。
 
 最新[第六卷30章复核](../reviews/review-v06-0030.md)与[状态账](../reviews/ledger-v06-0030.md)，镜真裂、炼剑咨询与江抹名暂停。
+
+最新[第六卷31章复核](../reviews/review-v06-0031.md)与[状态账](../reviews/ledger-v06-0031.md)，江脱轮克制契机、怪道六字与神游真入宙光。
