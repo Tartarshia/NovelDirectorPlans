@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷21章
+# 角色阶段索引 · 截至第六卷22章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–21章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–22章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [血海夺宝、替傀与孟奇仇局](blood-sea-yaochi-wounds-substitute-and-meng-feud.md) | 第六卷22章当前证据与表演边界 |
+| [昊天镜核心的定身、隔界与平面映照](haotian-core-freeze-world-separation-and-planar-reflection.md) | 第六卷22章当前证据与表演边界 |
+| [玄冥断剑、般若残幡与七宝妙树断枝](yaochi-xuanming-banner-and-seven-treasure-branch.md) | 第六卷22章当前证据与表演边界 |
 | [韩广本体、阎魔化身与玄天宗计划](han-body-avatar-mojun-sixparts-and-xuantianzong-plan.md) | 第六卷21章当前证据与表演边界 |
 | [古尔多的主场斧威与虔信威胁](guerduo-home-axe-relegationpool-and-devotee-threat.md) | 第六卷21章当前证据与表演边界 |
 | [断桥后的退路与老母后手推断](meng-escape-options-and-mother-followup-inference.md) | 第六卷21章当前证据与表演边界 |
@@ -876,3 +879,5 @@
 最新[第六卷20章复核](../reviews/review-v06-0020.md)与[状态账](../reviews/ledger-v06-0020.md)，S06闭13–19、S07自20起，瑶池实入碎器险、苏反剑与断桥悬点。
 
 最新[第六卷21章复核](../reviews/review-v06-0021.md)与[状态账](../reviews/ledger-v06-0021.md)，断桥真成、苏自斩归与韩本体新揭。
+
+最新[第六卷22章复核](../reviews/review-v06-0022.md)与[状态账](../reviews/ledger-v06-0022.md)，镜分各界、替傀免死与双对局待续。
