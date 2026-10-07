@@ -3,6 +3,29 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "extermination-staging-v06-c0040",
+      "kind": "unresolved_staging_ambiguity",
+      "evidence": [
+        "v06-c0040:p0044",
+        "v06-c0040:p0045",
+        "v06-c0040:p0049",
+        "v06-c0040:p0051"
+      ],
+      "source_word": "片甲不留 / 伪做灭门",
+      "state": "unresolved_source_issue",
+      "director_handling": "命令前杀尽后伪做具体手段未给，毁府实见/灭门闻报分层；不自动补全家死名单或全员假死及凶手伪造细节。"
+    },
+    {
+      "id": "letlet-v06-c0040",
+      "kind": "possible_word_duplication",
+      "evidence": [
+        "v06-c0040:p0084"
+      ],
+      "source_word": "让让自己联想",
+      "state": "unresolved_source_issue",
+      "director_handling": "重复让疑叠字，保源偏移与陆大气质联想，不两次新动作。"
+    },
+    {
       "id": "other-fiveelders-v06-c0039",
       "kind": "possible_count_ambiguity",
       "evidence": [

@@ -1,7 +1,373 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0039",
+  "through_chapter": "v06-c0040",
   "events": [
+    {
+      "type": "qu_is_xianji_member_supplied_two_treasure_clues",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0002",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "qu_explicit_inner_grateful_for_xianji",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0004",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "qu_resource_and_training_became_zongshi",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0006",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "qu_guesses_two_leaders_overseas_twelve",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0008",
+      "fact_status": "character_guess_plan_or_expectation_not_final_truth_or_completed_action"
+    },
+    {
+      "type": "qu_inner_initial_assassination_plan",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0009",
+      "fact_status": "character_guess_plan_or_expectation_not_final_truth_or_completed_action"
+    },
+    {
+      "type": "moning_separate_trade_front_pawn",
+      "entity": "mo_ning",
+      "reference": "v06-c0040:p0011",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "qu_inner_revises_kill_two_frame_moning_plan",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0013",
+      "fact_status": "character_guess_plan_or_expectation_not_final_truth_or_completed_action"
+    },
+    {
+      "type": "qu_removes_huanglong_mask_public_actual_departure",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0015",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_underforty_zongshi_actual_reply",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0016",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "moning_present_whitehair_hut",
+      "entity": "mo_ning",
+      "reference": "v06-c0040:p0017",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "qu_private_confirms_target_here",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0018",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "channel": "actual_private_spiritual_voice",
+      "recipient": "yin_feilong"
+    },
+    {
+      "type": "island_barrier_waves_isolates_area",
+      "entity": "narrator",
+      "reference": "v06-c0040:p0019",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "moning_realizes_qu_intends_silencing",
+      "entity": "mo_ning",
+      "reference": "v06-c0040:p0020",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_ghost_form_attack_toward_moning",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0023",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "qu_secretly_stabs_yin_back",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0024",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "qu_attack_hits_foam_yin_unharmed",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0026",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xubei_dark_shadow_separates_from_yin",
+      "entity": "xu_bei",
+      "reference": "v06-c0040:p0027",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "xubei_manifested_dark_shadow_not_confirmed_physical_mainbody_arrival"
+    },
+    {
+      "type": "qu_actual_blurts_yinzu_shock",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0028",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_xubei_yinzu_fiveelder_shijue_master",
+      "entity": "xu_bei",
+      "reference": "v06-c0040:p0029",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "xubei_manifested_dark_shadow_not_confirmed_physical_mainbody_arrival"
+    },
+    {
+      "type": "yin_inner_qu_took_bait",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0030",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_received_certain_identity_message_reason_unaware",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0031",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xubei_shadow_points_qu_forehead",
+      "entity": "xu_bei",
+      "reference": "v06-c0040:p0032",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "xubei_manifested_dark_shadow_not_confirmed_physical_mainbody_arrival"
+    },
+    {
+      "type": "qu_internal_blackfire_to_ash",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0033",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_huanglong_actual_dead",
+      "entity": "qu_baimei",
+      "reference": "v06-c0040:p0034",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_actual_surprised_oldimmortal",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0035",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_inner_prior_keepalive_soulsearch_bait_plan",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0036",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xubei_actual_claims_mysterious_curse_could_not_stop",
+      "entity": "xu_bei",
+      "reference": "v06-c0040:p0037",
+      "fact_status": "xubei_claim_curse_and_inability_not_confirmed_curse_origin",
+      "embodiment": "xubei_manifested_dark_shadow_not_confirmed_physical_mainbody_arrival"
+    },
+    {
+      "type": "yin_actual_asks_gain",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0038",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xubei_actual_knows_only_xianji_aliases",
+      "entity": "xu_bei",
+      "reference": "v06-c0040:p0039",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "xubei_manifested_dark_shadow_not_confirmed_physical_mainbody_arrival"
+    },
+    {
+      "type": "yin_actual_repeats_trinity_aliases_then_inner_fear",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0040",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xubei_seems_anxious_looks_sea",
+      "entity": "xu_bei",
+      "reference": "v06-c0040:p0043",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "xubei_manifested_dark_shadow_not_confirmed_physical_mainbody_arrival"
+    },
+    {
+      "type": "xubei_actual_extermination_command",
+      "entity": "xu_bei",
+      "reference": "v06-c0040:p0044",
+      "fact_status": "actual_commands_with_extermination_vs_fake_staging_wording_ambiguity_not_all_deaths_proven",
+      "embodiment": "xubei_manifested_dark_shadow_not_confirmed_physical_mainbody_arrival"
+    },
+    {
+      "type": "xubei_actual_fake_extermination_clues_bait_command",
+      "entity": "xu_bei",
+      "reference": "v06-c0040:p0045",
+      "fact_status": "actual_commands_with_extermination_vs_fake_staging_wording_ambiguity_not_all_deaths_proven",
+      "embodiment": "xubei_manifested_dark_shadow_not_confirmed_physical_mainbody_arrival"
+    },
+    {
+      "type": "yin_actual_obeys_hopes_reveal_leaders",
+      "entity": "yin_feilong",
+      "reference": "v06-c0040:p0046",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actually_crosses_fengshen_seaeye_changhua_ruins",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0049",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_queries_oldman_public_cover",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0050",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "oldman_reports_lastmonth_house_destruction",
+      "entity": "unknown_changhua_oldman",
+      "reference": "v06-c0040:p0051",
+      "fact_status": "oldman_report_contains_hearsay_not_all_direct_witness_or_dead_list"
+    },
+    {
+      "type": "meng_guesses_jinao_recent_secret_cause",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0052",
+      "fact_status": "character_guess_plan_or_expectation_not_final_truth_or_completed_action"
+    },
+    {
+      "type": "source_meng_unaware_qu_other_actions",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0054",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_feigns_confusion",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0055",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "oldman_reports_yin_visit_then_return_inquiry",
+      "entity": "unknown_changhua_oldman",
+      "reference": "v06-c0040:p0056",
+      "fact_status": "oldman_report_contains_hearsay_not_all_direct_witness_or_dead_list"
+    },
+    {
+      "type": "oldman_reports_yin_some_months_shijue_home",
+      "entity": "unknown_changhua_oldman",
+      "reference": "v06-c0040:p0058",
+      "fact_status": "oldman_report_contains_hearsay_not_all_direct_witness_or_dead_list"
+    },
+    {
+      "type": "meng_nextday_lowprofile_ship_to_shijue",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0060",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_inner_responsibility_and_possible_watchers",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0061",
+      "fact_status": "character_guess_plan_or_expectation_not_final_truth_or_completed_action"
+    },
+    {
+      "type": "source_same_lihai_canglan_crossrealm_array_shijue",
+      "entity": "narrator",
+      "reference": "v06-c0040:p0063",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_seaguest_disguise_deck",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0065",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "still_two_three_days_before_shijue",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0067",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "sea_guests_actual_murmur_yedi",
+      "entity": "sea_guests_group",
+      "reference": "v06-c0040:p0070",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_huo_lishang_reported_battlepower_and_history",
+      "entity": "huo_lishang",
+      "reference": "v06-c0040:p0073",
+      "fact_status": "gathered_information_huo_fashen_reported_earthimmortal_battlepower_not_rank_certified"
+    },
+    {
+      "type": "sea_guest_actual_hopes_yedi_invitation",
+      "entity": "unknown_seaguest_commentator",
+      "reference": "v06-c0040:p0076",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "unknown_ship_voice_actual_banquet_transmission",
+      "entity": "unknown_yedi_ship_invitation_voice",
+      "reference": "v06-c0040:p0079",
+      "fact_status": "actual_transmitted_voice_speaker_not_named_not_auto_huo"
+    },
+    {
+      "type": "two_seaguest_voices_actual_accept",
+      "entity": "sea_guests_group",
+      "reference": "v06-c0040:p0080",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_joins_boarding_yedi_ship",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0082",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "unnamed_gardener_joyful_flowertending",
+      "entity": "unknown_yedi_ship_gardener",
+      "reference": "v06-c0040:p0083",
+      "fact_status": "source_unnamed_gardener_meng_later_identity_guess_not_confirmed",
+      "identity_candidate": "huo_lishang"
+    },
+    {
+      "type": "meng_gardener_luda_association_not_same_person",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0084",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "gardener_nonverbal_smile",
+      "entity": "unknown_yedi_ship_gardener",
+      "reference": "v06-c0040:p0086",
+      "fact_status": "source_unnamed_gardener_meng_later_identity_guess_not_confirmed",
+      "identity_candidate": "huo_lishang"
+    },
+    {
+      "type": "meng_inner_gardener_maybe_huo_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0087",
+      "fact_status": "character_guess_plan_or_expectation_not_final_truth_or_completed_action"
+    },
+    {
+      "type": "meng_enters_hall_no_emotion_revealed",
+      "entity": "meng_qi",
+      "reference": "v06-c0040:p0088",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "unnamed_whiteclothed_man_and_woman_seen",
+      "entity": "unknown_yedi_ship_whiteclothed_man",
+      "reference": "v06-c0040:p0089",
+      "fact_status": "source_unnamed_appearance_not_confirmed_yedi_identity"
+    },
     {
       "type": "meng_retreat_breathing_cosmic_method_phenomena",
       "entity": "meng_qi",
