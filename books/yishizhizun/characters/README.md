@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷18章
+# 角色阶段索引 · 截至第六卷19章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–18章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–19章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [因果斩、元始身与真伤](meng-causal-cut-yuanshiform-injury-and-missing-sword.md) | 全力仍受伤，缺剑反事实 |
+| [具现佛与撤法](manifested-douzhan-buddha-and-law-withdrawal.md) | 三幻消失与诱导理解 |
+| [塔壁画与入口](tower-mural-sevenheart-avatar-and-yaochi-entry.md) | 新来源验证，遗蜕未解 |
 | [专情、元心与多棺猜](luda-devoted-grief-meng-yuanxin-and-sevenheart-hypothesis.md) | 情绪抵抗与身份推想 |
 | [具现孔宣与悟空](iceheart-manifested-kongxuan-wukong-and-limits.md) | 具现非本尊，行为和资源限 |
 | [悟空对战与火烟袖收](meng-wukong-duel-tactics-smoke-and-sleeve.md) | 力量吃亏后的战术变化 |
@@ -861,3 +864,5 @@
 最新[第六卷17章复核](../reviews/review-v06-0017.md)与[状态账](../reviews/ledger-v06-0017.md)，S06继续，联合显棺魔心、幕后身份与后续战果未定。
 
 最新[第六卷18章复核](../reviews/review-v06-0018.md)与[状态账](../reviews/ledger-v06-0018.md)，S06继续，幻想强者明确具现、猴向袖过程未完整终局。
+
+最新[第六卷19章复核](../reviews/review-v06-0019.md)与[状态账](../reviews/ledger-v06-0019.md)，S06继续，撤法解三幻陆脱、壁画新增化身证据，已到入口未越池。
