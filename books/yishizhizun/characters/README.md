@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷35章
+# 角色阶段索引 · 截至第六卷36章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–35章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–36章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [活佛圆润心境、问候选择与法身误判](hutuktu-mindstate-lineage-greeting-and-identity-misjudgment.md) | 第六卷36章当前证据与表演边界 |
+| [江辨活佛与转轮旧战经验的私传合作](jiang-zhuanlun-memory-and-private-intelligence-sharing.md) | 第六卷36章当前证据与表演边界 |
+| [三世明王轮与心灵战场的已成边界](sanshimingwang-wheel-mindrealm-entry-and-battle-boundary.md) | 第六卷36章当前证据与表演边界 |
 | [片空闻的兰柯旧迹、戒备礼迎与似悟限](fragment-kongwen-lanke-traces-and-limited-palm-insight.md) | 第六卷35章当前证据与表演边界 |
 | [少林复刻误判与孟金佛宏音棒喝](meng-shaolin-replication-misjudgment-and-buddha-voice.md) | 第六卷35章当前证据与表演边界 |
 | [活佛至少林求进境契机，与江擦肩回问](hutuktu-shaolin-ascent-breakthrough-opportunity-and-jiang-address.md) | 第六卷35章当前证据与表演边界 |
@@ -946,3 +949,5 @@
 最新[第六卷34章复核](../reviews/review-v06-0034.md)与[状态账](../reviews/ledger-v06-0034.md)，江自主不融、少林未执行愿望、幼张真实有限助与片活佛伤愈。
 
 最新[第六卷35章复核](../reviews/review-v06-0035.md)与[状态账](../reviews/ledger-v06-0035.md)，片首座误判、孟佛音助空似悟与活佛新问。玄悲稳定ID统一xuan_bei，不同世界实例仍分开。
+
+最新[第六卷36章复核](../reviews/review-v06-0036.md)与[状态账](../reviews/ledger-v06-0036.md)，S08归结30–35、S09活佛误判切磋起，心界已入未决胜。
