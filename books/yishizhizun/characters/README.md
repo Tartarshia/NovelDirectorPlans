@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷32章
+# 角色阶段索引 · 截至第六卷33章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–32章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–33章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [四十年异史、活佛与轮回者节点假说](timefragment-fortyyear-node-hutuktu-and-reincarnator-hypothesis.md) | 第六卷33章当前证据与表演边界 |
+| [江纯剑乐、旧长辈情怀与自愿帮助的戒律界限](jiang-pure-swordjoy-lineage-rule-and-voluntary-help.md) | 第六卷33章当前证据与表演边界 |
+| [洗剑双真意消散、余周视角与不留名演练](xijian-two-inheritances-lost-yuwanli-zhoutaichong-and-anonymous-demonstration.md) | 第六卷33章当前证据与表演边界 |
 | [宙光幼江、真验入山与不同入门报告](jiang-child-other-self-xijian-entry-and-different-master.md) | 第六卷32章当前证据与表演边界 |
 | [宙光洪潜、空闻玄悲与苏唯一假设](timefragment-hong-kongwen-xuanbei-and-suspected-unique-su.md) | 第六卷32章当前证据与表演边界 |
 | [片虚和韩广雷死报告与主线韩广仍活](fragment-xuhe-hanguang-thunder-death-report-and-mainline-survival.md) | 第六卷32章当前证据与表演边界 |
@@ -931,3 +934,5 @@
 最新[第六卷31章复核](../reviews/review-v06-0031.md)与[状态账](../reviews/ledger-v06-0031.md)，江脱轮克制契机、怪道六字与神游真入宙光。
 
 最新[第六卷32章复核](../reviews/review-v06-0032.md)与[状态账](../reviews/ledger-v06-0032.md)，幼江与片中故人、缺苏假设、虚和异史与主韩仍活。
+
+最新[第六卷33章复核](../reviews/review-v06-0033.md)与[状态账](../reviews/ledger-v06-0033.md)，四十年规则猜、江纯粹与戒律、周视角独证消散及匿名演练。
