@@ -1,7 +1,199 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0020",
+  "through_chapter": "v06-c0021",
   "events": [
+    {
+      "type": "coffin_heart_identity_confirmed",
+      "entity": "bronze_coffin",
+      "reference": "v06-c0021:p0001",
+      "fact_status": "作者新确"
+    },
+    {
+      "type": "two_remote_attack_to_block_dushi",
+      "entity": "meng_qi_lu_da",
+      "reference": "v06-c0021:p0001",
+      "fact_status": "真攻"
+    },
+    {
+      "type": "dushi_blades_destroy_bridge",
+      "entity": "dushi_fawang",
+      "reference": "v06-c0021:p0004",
+      "fact_status": "实毁"
+    },
+    {
+      "type": "dushi_falls_bypasses_three_attacks",
+      "entity": "dushi_fawang",
+      "reference": "v06-c0021:p0006",
+      "fact_status": "实避"
+    },
+    {
+      "type": "dushi_smiles_enters_tianhe",
+      "entity": "dushi_fawang",
+      "reference": "v06-c0021:p0009",
+      "fact_status": "实消非死"
+    },
+    {
+      "type": "coffin_returns_imagination",
+      "entity": "bronze_coffin",
+      "reference": "v06-c0021:p0010",
+      "fact_status": "实际"
+    },
+    {
+      "type": "meng_mother_trap_inference",
+      "entity": "meng_qi",
+      "reference": "v06-c0021:p0011",
+      "fact_status": "口推"
+    },
+    {
+      "type": "luda_more_followup_inference",
+      "entity": "lu_da",
+      "reference": "v06-c0021:p0014",
+      "fact_status": "旧识口推"
+    },
+    {
+      "type": "meng_public_exit_options",
+      "entity": "meng_qi",
+      "reference": "v06-c0021:p0015",
+      "fact_status": "口说未逃"
+    },
+    {
+      "type": "meng_old_routes_and_hidden_backup",
+      "entity": "meng_qi",
+      "reference": "v06-c0021:p0018",
+      "fact_status": "内回忆未揭招"
+    },
+    {
+      "type": "luda_decides_reinforce_su",
+      "entity": "lu_da",
+      "reference": "v06-c0021:p0019",
+      "fact_status": "未接到"
+    },
+    {
+      "type": "su_swordsea_breaks_partial_time_delay",
+      "entity": "su_wuming",
+      "reference": "v06-c0021:p0022",
+      "fact_status": "实际"
+    },
+    {
+      "type": "su_legendlike_geography_not_promotion",
+      "entity": "su_wuming",
+      "reference": "v06-c0021:p0023",
+      "fact_status": "作者似"
+    },
+    {
+      "type": "guerduo_surprise_without_fear",
+      "entity": "guerduo",
+      "reference": "v06-c0021:p0024",
+      "fact_status": "实际"
+    },
+    {
+      "type": "axe_home_nineheaven_power",
+      "entity": "tianzhu_axe",
+      "reference": "v06-c0021:p0027",
+      "fact_status": "作者确认"
+    },
+    {
+      "type": "axe_manifests_relegationpool",
+      "entity": "guerduo",
+      "reference": "v06-c0021:p0030",
+      "fact_status": "实际"
+    },
+    {
+      "type": "guerduo_heavenpunishment_speech",
+      "entity": "guerduo",
+      "reference": "v06-c0021:p0032",
+      "fact_status": "actual"
+    },
+    {
+      "type": "pool_relegates_fragments_to_rust",
+      "entity": "tianzhu_axe",
+      "reference": "v06-c0021:p0034",
+      "fact_status": "实际"
+    },
+    {
+      "type": "su_returns_far_reduced_aura_exits",
+      "entity": "su_wuming",
+      "reference": "v06-c0021:p0036",
+      "fact_status": "实际"
+    },
+    {
+      "type": "guerduo_explains_su_selfcut_return",
+      "entity": "guerduo",
+      "reference": "v06-c0021:p0039",
+      "fact_status": "复盘相证"
+    },
+    {
+      "type": "guerduo_notices_two_evil_absent",
+      "entity": "guerduo",
+      "reference": "v06-c0021:p0040",
+      "fact_status": "未知渡桥详情"
+    },
+    {
+      "type": "guerduo_contract_evasion_complaint",
+      "entity": "guerduo",
+      "reference": "v06-c0021:p0041",
+      "fact_status": "口来源"
+    },
+    {
+      "type": "han_claims_mirror_bell_motive",
+      "entity": "han_guang",
+      "reference": "v06-c0021:p0044",
+      "fact_status": "内化身口"
+    },
+    {
+      "type": "guerduo_devotee_threat_not_executed",
+      "entity": "guerduo",
+      "reference": "v06-c0021:p0048",
+      "fact_status": "计划"
+    },
+    {
+      "type": "inner_han_and_guerduo_seek_fragments",
+      "entity": "han_guang_guerduo",
+      "reference": "v06-c0021:p0051",
+      "fact_status": "同行未获得"
+    },
+    {
+      "type": "chen_party_leaves_icepalace",
+      "entity": "chen_zhao_party",
+      "reference": "v06-c0021:p0053",
+      "fact_status": "实际"
+    },
+    {
+      "type": "outer_han_and_phantom_demon_appear",
+      "entity": "han_guang",
+      "reference": "v06-c0021:p0054",
+      "fact_status": "本体新揭"
+    },
+    {
+      "type": "phantom_demon_threecorpse_guess_denied",
+      "entity": "huanmie_tianmo",
+      "reference": "v06-c0021:p0058",
+      "fact_status": "猜被否"
+    },
+    {
+      "type": "han_avatar_mojun_sixpart_explanation",
+      "entity": "han_guang",
+      "reference": "v06-c0021:p0062",
+      "fact_status": "韩口来源"
+    },
+    {
+      "type": "mobuddha_bridge_hidden_from_listener",
+      "entity": "han_guang",
+      "reference": "v06-c0021:p0063",
+      "fact_status": "作者未说"
+    },
+    {
+      "type": "time_blade_stays_with_avatar",
+      "entity": "han_guang",
+      "reference": "v06-c0021:p0064",
+      "fact_status": "作者器物状态"
+    },
+    {
+      "type": "han_xuantianzong_target_and_acceptable_loss",
+      "entity": "han_guang",
+      "reference": "v06-c0021:p0069",
+      "fact_status": "实际口目标内代价未成"
+    },
     {
       "type": "two_enter_icepool_yaochi_region",
       "entity": "meng_qi_lu_da",

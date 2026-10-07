@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷20章
+# 角色阶段索引 · 截至第六卷21章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–20章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–21章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [韩广本体、阎魔化身与玄天宗计划](han-body-avatar-mojun-sixparts-and-xuantianzong-plan.md) | 第六卷21章当前证据与表演边界 |
+| [古尔多的主场斧威与虔信威胁](guerduo-home-axe-relegationpool-and-devotee-threat.md) | 第六卷21章当前证据与表演边界 |
+| [断桥后的退路与老母后手推断](meng-escape-options-and-mother-followup-inference.md) | 第六卷21章当前证据与表演边界 |
 | [天河鹊桥与碎器风险](yaochi-tianhe-magpiebridge-and-brokenweapon-risks.md) | 渡河尺度、知识与收剑愿 |
 | [苏反剑与韩死归报告](suwuming-manyworld-counterattack-and-han-deathreport.md) | 地利借我与报道边界 |
 | [法王断桥与棺试阻](dushi-magpiebridge-cut-and-coffin-interference.md) | 动作明确，结果动机未知 |
@@ -871,3 +874,5 @@
 最新[第六卷19章复核](../reviews/review-v06-0019.md)与[状态账](../reviews/ledger-v06-0019.md)，S06继续，撤法解三幻陆脱、壁画新增化身证据，已到入口未越池。
 
 最新[第六卷20章复核](../reviews/review-v06-0020.md)与[状态账](../reviews/ledger-v06-0020.md)，S06闭13–19、S07自20起，瑶池实入碎器险、苏反剑与断桥悬点。
+
+最新[第六卷21章复核](../reviews/review-v06-0021.md)与[状态账](../reviews/ledger-v06-0021.md)，断桥真成、苏自斩归与韩本体新揭。
