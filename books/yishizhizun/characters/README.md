@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷26章
+# 角色阶段索引 · 截至第六卷27章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–26章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–27章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [光阴刀主动助虚道人与韩眼中童子画面](han-timeblade-clash-child-prince-vision.md) | 第六卷27章当前证据与表演边界 |
+| [小桑相貌仙体崩解与孟的备用身推断](gu-frozen-immortal-body-and-meng-backupbody-inference.md) | 第六卷27章当前证据与表演边界 |
+| [魔君头心遁去、母像摘瑶池与大道树后手](mojun-head-heart-escape-motherstatue-yaochi-refining.md) | 第六卷27章当前证据与表演边界 |
 | [陆大先生的静心辨痕与法王虚空幻行](luda-quiet-heart-trace-versus-dushi-void-senses.md) | 第六卷26章当前证据与表演边界 |
 | [韩广守劫伪装、虚道人识伪与光阴刀沉默](han-shoujie-disguise-xudao-recognition-and-timeblade-silence.md) | 第六卷26章当前证据与表演边界 |
 | [孟奇收化血刀、镜露古宅与熟悉白影](meng-bloodknife-acquired-hidden-palace-familiar-whitefigure.md) | 第六卷26章当前证据与表演边界 |
@@ -901,3 +904,5 @@
 最新[第六卷25章复核](../reviews/review-v06-0025.md)与[状态账](../reviews/ledger-v06-0025.md)，钟片真实浮、似局部倒带与外韩问刀。
 
 最新[第六卷26章复核](../reviews/review-v06-0026.md)与[状态账](../reviews/ledger-v06-0026.md)，陆心辨虚、伪装问刀无应与孟真收化血刀。
+
+最新[第六卷27章复核](../reviews/review-v06-0027.md)与[状态账](../reviews/ledger-v06-0027.md)，仙体遗迹、时光画面与母像炼池困局。
