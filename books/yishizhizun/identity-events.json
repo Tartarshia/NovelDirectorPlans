@@ -1,7 +1,199 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0014",
+  "through_chapter": "v06-c0015",
   "events": [
+    {
+      "type": "chen_comparison_defeat_fades",
+      "entity": "chen_zhao",
+      "reference": "v06-c0015:p0004",
+      "fact_status": "鸿沟认清"
+    },
+    {
+      "type": "elder_local_generations_report",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0015:p0008",
+      "fact_status": "口源"
+    },
+    {
+      "type": "elder_fears_meng_covets_misreading",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0015:p0009",
+      "fact_status": "误读"
+    },
+    {
+      "type": "meng_uses_wait_for_local_knowledge",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0011",
+      "fact_status": "决策"
+    },
+    {
+      "type": "chen_owner_and_realm_local_inference",
+      "entity": "chen_zhao",
+      "reference": "v06-c0015:p0013",
+      "fact_status": "陈判断"
+    },
+    {
+      "type": "meng_dushi_yaochi_conditional_advantage",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0017",
+      "fact_status": "若条件非战绩"
+    },
+    {
+      "type": "liu_respectful_iceimmortal_question",
+      "entity": "liu_zejun",
+      "reference": "v06-c0015:p0020",
+      "fact_status": "actual"
+    },
+    {
+      "type": "meng_public_sameimmortal_unknown",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0021",
+      "fact_status": "知识限"
+    },
+    {
+      "type": "four_reinforcements_arrive_mirrorroom",
+      "entity": "righteous_reinforcements",
+      "reference": "v06-c0015:p0025",
+      "fact_status": "实际到"
+    },
+    {
+      "type": "elder_names_renhuang_sword",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0015:p0030",
+      "fact_status": "脱口"
+    },
+    {
+      "type": "gao_confirms_sword_cold",
+      "entity": "gao_lan",
+      "reference": "v06-c0015:p0032",
+      "fact_status": "actual"
+    },
+    {
+      "type": "blade_rivalry_light_pressure",
+      "entity": "bawang_jue_dao",
+      "reference": "v06-c0015:p0034",
+      "fact_status": "器物灵性"
+    },
+    {
+      "type": "yunhe_names_bawang_blade",
+      "entity": "yunhe",
+      "reference": "v06-c0015:p0038",
+      "fact_status": "actual"
+    },
+    {
+      "type": "blade_calm_after_recognition",
+      "entity": "bawang_jue_dao",
+      "reference": "v06-c0015:p0042",
+      "fact_status": "真实敛光"
+    },
+    {
+      "type": "meng_mature_selfmockery",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0043",
+      "fact_status": "内自评"
+    },
+    {
+      "type": "meng_requests_alternate_path",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0046",
+      "fact_status": "actual"
+    },
+    {
+      "type": "chen_blackwall_route_report",
+      "entity": "chen_zhao",
+      "reference": "v06-c0015:p0048",
+      "fact_status": "地方知限"
+    },
+    {
+      "type": "meng_causal_twoinside_threeoutside_strategy",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0050",
+      "fact_status": "交流摘要"
+    },
+    {
+      "type": "chen_tells_liu_leave_and_leads",
+      "entity": "chen_zhao",
+      "reference": "v06-c0015:p0051",
+      "fact_status": "嘱非已离"
+    },
+    {
+      "type": "gao_brother_tease_unified",
+      "entity": "gao_lan",
+      "reference": "v06-c0015:p0056",
+      "fact_status": "低冷actual"
+    },
+    {
+      "type": "meng_unpredictability_after_recovery",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0058",
+      "fact_status": "内判断非人格复发"
+    },
+    {
+      "type": "chen_iceheart_path_introduction",
+      "entity": "chen_zhao",
+      "reference": "v06-c0015:p0062",
+      "fact_status": "actual"
+    },
+    {
+      "type": "meng_luda_enter_path",
+      "entity": "meng_qi_lu_da",
+      "reference": "v06-c0015:p0063",
+      "fact_status": "实际入"
+    },
+    {
+      "type": "iceheart_path_loses_reflection",
+      "entity": "iceheart_path",
+      "reference": "v06-c0015:p0068",
+      "fact_status": "路变"
+    },
+    {
+      "type": "meng_explains_path_cannot_bear",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0070",
+      "fact_status": "actual解释"
+    },
+    {
+      "type": "three_reach_blackwall",
+      "entity": "meng_luda_chen",
+      "reference": "v06-c0015:p0072",
+      "fact_status": "真实抵"
+    },
+    {
+      "type": "chen_same_coffin_report",
+      "entity": "chen_zhao",
+      "reference": "v06-c0015:p0073",
+      "fact_status": "目见相似声称"
+    },
+    {
+      "type": "meng_no_lie_sense_not_sameobject_proof",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0075",
+      "fact_status": "感知限"
+    },
+    {
+      "type": "meng_era_overlap_and_luya_hiddenpurpose_suspicion",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0077",
+      "fact_status": "疑"
+    },
+    {
+      "type": "meng_tells_luda_summary",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0079",
+      "fact_status": "无原词"
+    },
+    {
+      "type": "banner_shadow_merges_blade",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0082",
+      "fact_status": "虚影非真宝新得"
+    },
+    {
+      "type": "meng_openheaven_cut_initiated",
+      "entity": "meng_qi",
+      "reference": "v06-c0015:p0083",
+      "fact_status": "斩发未破墙结果"
+    },
     {
       "type": "chen_heat_fades_icewalls_unchanged",
       "entity": "chen_zhao",
