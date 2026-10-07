@@ -1,7 +1,295 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0042",
+  "through_chapter": "v06-c0043",
   "events": [
+    {
+      "type": "port_crowd_spreads_yedi_ship_news",
+      "entity": "shijue_port_crowd",
+      "reference": "v06-c0043:p0003",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "public_reputation_chance_not_all_wishes_completed",
+      "entity": "shijue_port_crowd",
+      "reference": "v06-c0043:p0006",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "ship_all_stay_aboard_servants_alive",
+      "entity": "meng_qi",
+      "reference": "v06-c0043:p0007",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "unknown_rumor_actual_hostile_guess",
+      "entity": "unknown_shijue_rumor_speaker",
+      "reference": "v06-c0043:p0010",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "unknown_commentator_actual_alliance_power_objection",
+      "entity": "unknown_shijue_commentator_a",
+      "reference": "v06-c0043:p0012",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "unknown_commentator_actual_mad_selfdestruction_speculation",
+      "entity": "unknown_shijue_commentator_b",
+      "reference": "v06-c0043:p0012",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "yin_waits_respectfully_uncertain",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0013",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xu_pool_face_seems_actual_asks_opinion",
+      "entity": "xu_bei",
+      "reference": "v06-c0043:p0015",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "pool_surface_seeming_face_speaking_no_body_location_certified"
+    },
+    {
+      "type": "yin_actual_calls_behavior_probe",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0016",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "yin_actual_wonders_secret_detected",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0017",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "xu_actual_fears_mutual_destruction_sends_yin_hu",
+      "entity": "xu_bei",
+      "reference": "v06-c0043:p0018",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed",
+      "embodiment": "pool_surface_seeming_face_speaking_no_body_location_certified"
+    },
+    {
+      "type": "xu_actual_secret_envoy_leak_possibility",
+      "entity": "xu_bei",
+      "reference": "v06-c0043:p0020",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed",
+      "embodiment": "pool_surface_seeming_face_speaking_no_body_location_certified"
+    },
+    {
+      "type": "five_elders_historical_lingbao_identity_hypotheses",
+      "entity": "tiandao_five_elders",
+      "reference": "v06-c0043:p0021",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "huo_not_born_at_lingbao_first_reveal_rules_out_lingbao",
+      "entity": "huo_lishang",
+      "reference": "v06-c0043:p0022",
+      "fact_status": "historical_timing_not_huo_lingbao_not_chonghe_resurrection"
+    },
+    {
+      "type": "yin_actual_huo_might_be_yuanshi_guess",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0023",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "xu_actual_possible_orders_probe",
+      "entity": "xu_bei",
+      "reference": "v06-c0043:p0024",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed",
+      "embodiment": "pool_surface_seeming_face_speaking_no_body_location_certified"
+    },
+    {
+      "type": "yin_actual_concern_hu_being_pursued",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0025",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "hu_source_grandmaster_disciple_external_affairs_elder",
+      "entity": "hu_yanran",
+      "reference": "v06-c0043:p0026",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "rank_boundary": "grandmaster_not_fashen_or_successor_already_installed"
+    },
+    {
+      "type": "xu_actual_hu_needs_experience_for_future_succession",
+      "entity": "xu_bei",
+      "reference": "v06-c0043:p0027",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed",
+      "embodiment": "pool_surface_seeming_face_speaking_no_body_location_certified"
+    },
+    {
+      "type": "yin_accepts_order_leaves",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0028",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_yedi_with_four_attendants",
+      "entity": "meng_qi",
+      "reference": "v06-c0043:p0030",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "yunyue_waters_flowers",
+      "entity": "yunyue",
+      "reference": "v06-c0043:p0031",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yunyue_actual_asks_staying_aboard",
+      "entity": "yunyue",
+      "reference": "v06-c0043:p0032",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_selfplay_imitates_wang_style",
+      "entity": "meng_qi",
+      "reference": "v06-c0043:p0033",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "meng_actual_pressure_to_expose_missing_clues",
+      "entity": "meng_qi",
+      "reference": "v06-c0043:p0034",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "unknown_servant_actual_reports_hu_yin_visit",
+      "entity": "unknown_yedi_ship_reporting_servant",
+      "reference": "v06-c0043:p0035",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_admits_visitors",
+      "entity": "meng_qi",
+      "reference": "v06-c0043:p0036",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "yunyue_actual_teases_fishing_hu_guess",
+      "entity": "yunyue",
+      "reference": "v06-c0043:p0037",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "hu_biyu_mudan_epithet_narrated",
+      "entity": "hu_yanran",
+      "reference": "v06-c0043:p0038",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "liushang_dim_gaze_attends_hu_arrival",
+      "entity": "liushang",
+      "reference": "v06-c0043:p0039",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_walks_with_hu_feels_pressure",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0040",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "hu_somber_air_clear_eyes_inner_stir",
+      "entity": "hu_yanran",
+      "reference": "v06-c0043:p0041",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_praises_hu",
+      "entity": "meng_qi",
+      "reference": "v06-c0043:p0042",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "hu_feels_praise_sincere_not_insult",
+      "entity": "hu_yanran",
+      "reference": "v06-c0043:p0043",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "hu_actual_polite_thanks",
+      "entity": "hu_yanran",
+      "reference": "v06-c0043:p0044",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_inner_startled_hu_enjoys_praise",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0045",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "meng_actual_praises_yin_youth_grandmaster",
+      "entity": "meng_qi",
+      "reference": "v06-c0043:p0046",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "yin_inner_honored_not_false_praise",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0047",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "yin_inner_male_attraction_worry_not_meng_fact",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0048",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "hu_actual_asks_intention",
+      "entity": "hu_yanran",
+      "reference": "v06-c0043:p0049",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_waits_meng_looks_meaningfully",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0050",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_ambiguous_what_do_you_think",
+      "entity": "meng_qi",
+      "reference": "v06-c0043:p0051",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "yin_inner_wonders_secret_exposed",
+      "entity": "yin_feilong",
+      "reference": "v06-c0043:p0052",
+      "fact_status": "character_claim_inference_or_speculation_not_all_secret_truth_confirmed"
+    },
+    {
+      "type": "huo_false_han_role_actually_surveys_yin_home_area",
+      "entity": "huo_lishang",
+      "reference": "v06-c0043:p0054",
+      "fact_status": "actual_survey_and_information_collection_not_case_solved_or_real_rank_dropped",
+      "surface_identity": "han_guang_false_name_similar_meng_disguise",
+      "embodiment": "same_huo_lishang_not_han_guang_or_formal_xianji_membership"
+    },
     {
       "type": "huo_repeats_false_han_name",
       "entity": "huo_lishang",
