@@ -3,6 +3,26 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "bridge-danger-scope-v06-c0020",
+      "kind": "possible_narrative_scope_ambiguity",
+      "evidence": [
+        "v06-c0020:p0048"
+      ],
+      "source_word": "没有遇到危险",
+      "state": "unresolved_source_issue",
+      "director_handling": "与13初袭有表述范围张力，保原句按后续桥行处理，不删初袭或新增另一座桥。"
+    },
+    {
+      "id": "yikou-figure-v06-c0020",
+      "kind": "possible_source_typo",
+      "evidence": [
+        "v06-c0020:p0049"
+      ],
+      "source_word": "一口人影",
+      "state": "unresolved_source_issue",
+      "director_handling": "疑口为个，保源字偏移，不另建口腔怪物角色。"
+    },
+    {
       "id": "silue-v06-c0019",
       "kind": "possible_source_typo",
       "evidence": [
