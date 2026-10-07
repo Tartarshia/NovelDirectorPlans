@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第27章，954 / 1410 个目录条目，约311.1万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第28章，955 / 1410 个目录条目，约311.5万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第28章复核](books/yishizhizun/reviews/review-v06-0028.md)：吸池解封、四十年传承与失寿受问，85段、106句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0028.md)。
 - [第六卷第27章复核](books/yishizhizun/reviews/review-v06-0027.md)：时光画面、替身遗迹与瑶池炼宝，89段、108句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0027.md)。
 - [第六卷第26章复核](books/yishizhizun/reviews/review-v06-0026.md)：心迹破虚、伪装问刀与熟悉白影，82段、93句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0026.md)。
 - [第六卷第25章复核](books/yishizhizun/reviews/review-v06-0025.md)：护路帝志、两宝阻斧与钟片似倒带，53段、69句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0025.md)。

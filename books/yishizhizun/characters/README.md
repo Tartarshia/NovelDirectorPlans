@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷27章
+# 角色阶段索引 · 截至第六卷28章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–27章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–28章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [大道树吸收瑶池与母愿躯果断撤离](dadao-tree-yaochi-absorption-mother-consciousness-retreat.md) | 第六卷28章当前证据与表演边界 |
+| [韩广幼形遇守静、四十年传承与五百年寿元代价](han-child-shoujing-fortyyears-fullbook-and-lifespan-cost.md) | 第六卷28章当前证据与表演边界 |
+| [七宝妙树刷庆云、陆古争镜与韩苏争钟](meng-seven-treasure-brush-luda-guerduo-mirror-contest.md) | 第六卷28章当前证据与表演边界 |
 | [光阴刀主动助虚道人与韩眼中童子画面](han-timeblade-clash-child-prince-vision.md) | 第六卷27章当前证据与表演边界 |
 | [小桑相貌仙体崩解与孟的备用身推断](gu-frozen-immortal-body-and-meng-backupbody-inference.md) | 第六卷27章当前证据与表演边界 |
 | [魔君头心遁去、母像摘瑶池与大道树后手](mojun-head-heart-escape-motherstatue-yaochi-refining.md) | 第六卷27章当前证据与表演边界 |
@@ -906,3 +909,5 @@
 最新[第六卷26章复核](../reviews/review-v06-0026.md)与[状态账](../reviews/ledger-v06-0026.md)，陆心辨虚、伪装问刀无应与孟真收化血刀。
 
 最新[第六卷27章复核](../reviews/review-v06-0027.md)与[状态账](../reviews/ledger-v06-0027.md)，仙体遗迹、时光画面与母像炼池困局。
+
+最新[第六卷28章复核](../reviews/review-v06-0028.md)与[状态账](../reviews/ledger-v06-0028.md)，吸池解封与韩全册传承失寿受问。
