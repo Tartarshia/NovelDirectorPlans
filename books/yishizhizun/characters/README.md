@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷8章
+# 角色阶段索引 · 截至第六卷9章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–8章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–9章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟的因果故事与限度](meng-causal-story-limits-and-faith-transfer.md) | 作者新揭心印沾因果、真界取巧、避根夺愿 |
+| [齐承神印与治理负担](qi-accepts-southern-divine-causal-burden.md) | 真接印而非新晋、孟内帮而非音信 |
+| [邪方消息延迟](evil-response-delay-and-gu-death-report.md) | 低信、围孟起而未到、神陨惊 |
 | [神力与赶山鞭](gu-god-earthimmortal-power-mountain-whip-and-scope.md) | 地仙力阶、驱山与伤而未死 |
 | [因果天罚与附近改地](meng-causal-judgment-and-southern-terrain-rearrangement.md) | 攻击阶非修炼阶、业债条件、替代范围 |
 | [希打悲仇与对错](xida-grief-hope-and-unresolved-rightwrong.md) | 希望不是战果、末尾伦理疑未解 |
@@ -808,3 +811,5 @@
 最新[第六卷7章复核](../reviews/review-v06-0007.md)与[状态账](../reviews/ledger-v06-0007.md)；S02闭4–6，S03从7章南荒现实冲突起。
 
 最新[第六卷8章复核](../reviews/review-v06-0008.md)与[状态账](../reviews/ledger-v06-0008.md)；S03继续，附近替代行动已起效、全域治理未终结。
+
+最新[第六卷9章复核](../reviews/review-v06-0009.md)与[状态账](../reviews/ledger-v06-0009.md)；S03继续，蛊神实际陨、虚印齐接、后续治理与邪方行动待。
