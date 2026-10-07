@@ -1,7 +1,271 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0010",
+  "through_chapter": "v06-c0011",
   "events": [
+    {
+      "type": "zhaoheng_emperor_visits_zhuyilou",
+      "entity": "zhao_heng",
+      "reference": "v06-c0011:p0001",
+      "fact_status": "实到"
+    },
+    {
+      "type": "zhao_lingshan_return_knowledge_not_sima",
+      "entity": "zhao_heng",
+      "reference": "v06-c0011:p0003",
+      "fact_status": "赵内司马不知"
+    },
+    {
+      "type": "qinwang_retry_fashen",
+      "entity": "qinwang",
+      "reference": "v06-c0011:p0005",
+      "fact_status": "问答闭关尝试非晋"
+    },
+    {
+      "type": "sima_fourstrong_unjudgeable",
+      "entity": "sima_shi",
+      "reference": "v06-c0011:p0016",
+      "fact_status": "消息和猜难判"
+    },
+    {
+      "type": "sima_lottery_shield_actual",
+      "entity": "sima_shi",
+      "reference": "v06-c0011:p0022",
+      "fact_status": "隔精神"
+    },
+    {
+      "type": "zhao_draw_luda_first",
+      "entity": "zhao_heng",
+      "reference": "v06-c0011:p0028",
+      "fact_status": "真抽"
+    },
+    {
+      "type": "zhao_draw_su_second",
+      "entity": "zhao_heng",
+      "reference": "v06-c0011:p0030",
+      "fact_status": "真抽"
+    },
+    {
+      "type": "zhao_draw_meng_third",
+      "entity": "zhao_heng",
+      "reference": "v06-c0011:p0032",
+      "fact_status": "真抽"
+    },
+    {
+      "type": "official_remaining_ranks_han_dushi_gao_kong",
+      "entity": "sima_shi",
+      "reference": "v06-c0011:p0035",
+      "fact_status": "官方评非实战验证"
+    },
+    {
+      "type": "official_remaining_ranks_he_zhu_yun_blood",
+      "entity": "sima_shi",
+      "reference": "v06-c0011:p0036",
+      "fact_status": "官方评"
+    },
+    {
+      "type": "guerduo_omitted_official_unknown",
+      "entity": "guerduo",
+      "reference": "v06-c0011:p0039",
+      "fact_status": "官未知不否作者已归"
+    },
+    {
+      "type": "yuanhuang_nickname_chosen",
+      "entity": "meng_qi",
+      "reference": "v06-c0011:p0045",
+      "fact_status": "新号选择"
+    },
+    {
+      "type": "meng_public_board_age37_humanimmortal_rank3",
+      "entity": "meng_qi",
+      "reference": "v06-c0011:p0053",
+      "fact_status": "公榜人仙37第三"
+    },
+    {
+      "type": "suli_familyjoy_to_smallsky",
+      "entity": "su_li",
+      "reference": "v06-c0011:p0060",
+      "fact_status": "檐小转静"
+    },
+    {
+      "type": "suli_cannot_jump_wishes_son_freedom",
+      "entity": "su_li",
+      "reference": "v06-c0011:p0064",
+      "fact_status": "内愿非death"
+    },
+    {
+      "type": "wangzai_lawchange_guess",
+      "entity": "wang_zai",
+      "reference": "v06-c0011:p0068",
+      "fact_status": "不能覆9作者限"
+    },
+    {
+      "type": "wangshuhou_advises_nocomparison",
+      "entity": "wang_shuhou",
+      "reference": "v06-c0011:p0070",
+      "fact_status": "祖父actual"
+    },
+    {
+      "type": "wangzai_own_slowpath_friendship",
+      "entity": "wang_zai",
+      "reference": "v06-c0011:p0071",
+      "fact_status": "平和actual"
+    },
+    {
+      "type": "muyunle_return_dajin_city",
+      "entity": "mu_yunle",
+      "reference": "v06-c0011:p0075",
+      "fact_status": "实返未名城"
+    },
+    {
+      "type": "anonymous_teahouse_youth_claims",
+      "entity": "anonymous_teahouse_speakers",
+      "reference": "v06-c0011:p0078",
+      "fact_status": "茶客估最年轻"
+    },
+    {
+      "type": "muyunle_board_pride",
+      "entity": "mu_yunle",
+      "reference": "v06-c0011:p0086",
+      "fact_status": "念与骄傲"
+    },
+    {
+      "type": "jiang_actual_mirror_hold",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0011:p0089",
+      "fact_status": "当前实物"
+    },
+    {
+      "type": "jiang_meng_alive_inner_relief",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0011:p0090",
+      "fact_status": "明内"
+    },
+    {
+      "type": "jiang_other_self_noncoercive_path",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0011:p0093",
+      "fact_status": "未点化不融合"
+    },
+    {
+      "type": "jiang_half_fashen_early_dangerous_path",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0011:p0094",
+      "fact_status": "境作者明"
+    },
+    {
+      "type": "ruan_calm_qin_moon_alivewish",
+      "entity": "ruan_yushu",
+      "reference": "v06-c0011:p0101",
+      "fact_status": "欣喜宁和无晋"
+    },
+    {
+      "type": "meng_actual_gu_shell_whip_capture",
+      "entity": "meng_qi",
+      "reference": "v06-c0011:p0105",
+      "fact_status": "实收"
+    },
+    {
+      "type": "meng_private_treasures_for_south_plan",
+      "entity": "meng_qi",
+      "reference": "v06-c0011:p0106",
+      "fact_status": "意未发完"
+    },
+    {
+      "type": "meng_crafting_gap_missing_sword_ballmaterials",
+      "entity": "meng_qi",
+      "reference": "v06-c0011:p0107",
+      "fact_status": "没学炼器"
+    },
+    {
+      "type": "meng_trophies_storage_westtrip",
+      "entity": "meng_qi",
+      "reference": "v06-c0011:p0109",
+      "fact_status": "入内天地实西去"
+    },
+    {
+      "type": "wanxiang_westmountain_present",
+      "entity": "wanxiang_men",
+      "reference": "v06-c0011:p0113",
+      "fact_status": "实际重立"
+    },
+    {
+      "type": "senluo_door_longloan_yun",
+      "entity": "yunhe",
+      "reference": "v06-c0011:p0115",
+      "fact_status": "长期借非赠"
+    },
+    {
+      "type": "yun_small_dragon_oldcorpse_crafting_inference",
+      "entity": "yunhe",
+      "reference": "v06-c0011:p0116",
+      "fact_status": "应作者推"
+    },
+    {
+      "type": "meng_lingshan_entry_temporarily_unknown",
+      "entity": "meng_qi",
+      "reference": "v06-c0011:p0118",
+      "fact_status": "失牵暂未入口"
+    },
+    {
+      "type": "fang_tianrenheyi_yun_report",
+      "entity": "fang_huayin",
+      "reference": "v06-c0011:p0119",
+      "fact_status": "云口非本人出镜"
+    },
+    {
+      "type": "yun_yuxu_private_recognition",
+      "entity": "yunhe",
+      "reference": "v06-c0011:p0121",
+      "fact_status": "私actual"
+    },
+    {
+      "type": "yun_ancestor_book_erasure_guess",
+      "entity": "yunhe",
+      "reference": "v06-c0011:p0126",
+      "fact_status": "典籍和猜"
+    },
+    {
+      "type": "meng_otherworld_fengshen_information",
+      "entity": "meng_qi",
+      "reference": "v06-c0011:p0127",
+      "fact_status": "口述来源"
+    },
+    {
+      "type": "yun_mainworld_fengshen_notes",
+      "entity": "yunhe",
+      "reference": "v06-c0011:p0128",
+      "fact_status": "祖笔记无其余知"
+    },
+    {
+      "type": "two_worlds_relation_unresolved",
+      "entity": "meng_qi_yunhe",
+      "reference": "v06-c0011:p0133",
+      "fact_status": "互述未串"
+    },
+    {
+      "type": "nine_immortal_remains_sealing_evil_report",
+      "entity": "yunhe",
+      "reference": "v06-c0011:p0136",
+      "fact_status": "云报告"
+    },
+    {
+      "type": "sealedcry_spirit_threat_hollowdisciples",
+      "entity": "yunhe",
+      "reference": "v06-c0011:p0139",
+      "fact_status": "报告不是怪物原声"
+    },
+    {
+      "type": "yun_month_nightmares_selfreport",
+      "entity": "yunhe",
+      "reference": "v06-c0011:p0140",
+      "fact_status": "云述"
+    },
+    {
+      "type": "yun_ancientlanguage_candidate_taiyi_taiyi",
+      "entity": "yunhe",
+      "reference": "v06-c0011:p0145",
+      "fact_status": "太乙或太一未身份定"
+    },
     {
       "type": "gu_historical_actual_earthimmortal",
       "entity": "gu_shen",
