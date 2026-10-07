@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷22章
+# 角色阶段索引 · 截至第六卷23章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–22章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–23章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [血魔的一点意识、刀中天仙力与诱敌血影](blood-demon-partial-fusion-knife-body-and-bait.md) | 第六卷23章当前证据与表演边界 |
+| [孟奇的命运换位、防御瓦解与主动反攻](meng-fate-swap-defense-break-and-offensive-reversal.md) | 第六卷23章当前证据与表演边界 |
+| [离火朱雀断剑与灯、虚空、刀的防守次序](lihuo-vermilion-sword-fragment-not-living-bird.md) | 第六卷23章当前证据与表演边界 |
 | [血海夺宝、替傀与孟奇仇局](blood-sea-yaochi-wounds-substitute-and-meng-feud.md) | 第六卷22章当前证据与表演边界 |
 | [昊天镜核心的定身、隔界与平面映照](haotian-core-freeze-world-separation-and-planar-reflection.md) | 第六卷22章当前证据与表演边界 |
 | [玄冥断剑、般若残幡与七宝妙树断枝](yaochi-xuanming-banner-and-seven-treasure-branch.md) | 第六卷22章当前证据与表演边界 |
@@ -881,3 +884,5 @@
 最新[第六卷21章复核](../reviews/review-v06-0021.md)与[状态账](../reviews/ledger-v06-0021.md)，断桥真成、苏自斩归与韩本体新揭。
 
 最新[第六卷22章复核](../reviews/review-v06-0022.md)与[状态账](../reviews/ledger-v06-0022.md)，镜分各界、替傀免死与双对局待续。
+
+最新[第六卷23章复核](../reviews/review-v06-0023.md)与[状态账](../reviews/ledger-v06-0023.md)，再生诱敌与血魔一点融合揭面，反攻待续。
