@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷13章
+# 角色阶段索引 · 截至第六卷14章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–13章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–14章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟真身问讯与援手](meng-truebody-mirror-inquiry-and-layered-reinforcements.md) | 真身非元神影，计划与启程到场分开 |
+| [高的空室与讯息](gao-empty-formerprince-room-and-message-response.md) | 喜隐怒一体，敌逃来源与响应 |
+| [苏遍在与冰仙九墓](suwuming-limited-ubiquity-and-iceimmortal-nine-tombs.md) | 新身份确认、范围仅缩、棺仍猜 |
 | [冰宫镜屋与铜棺](icepalace-observers-chen-liu-elder-and-bronze-coffin.md) | 夫妻新明、成长尺度、关系未证 |
 | [冰宫入者与玉虚天象](icepalace-first-swordsman-four-arrivals-and-meng-sky.md) | 先客未名与孟知情限，邪四实入 |
 | [何暮认可与升华](he-mu-recognition-outdoor-realm-and-jietian-ascent.md) | 不仗名、正式嫡传、外景不能转两门 |
@@ -836,3 +839,5 @@
 最新[第六卷12章复核](../reviews/review-v06-0012.md)与[状态账](../reviews/ledger-v06-0012.md)，S04闭10–11、S05由12起。方何正式嫡传、本地玉虚已重立，笔记交宗与瑶池行动待。
 
 最新[第六卷13章复核](../reviews/review-v06-0013.md)与[状态账](../reviews/ledger-v06-0013.md)，S05于12章闭、S06从13起。冰宫核心实入，孟未到池与核心所得未证。
+
+最新[第六卷14章复核](../reviews/review-v06-0014.md)与[状态账](../reviews/ledger-v06-0014.md)，S06继续，援手实际启程而未全抵达，冰仙九墓关联新增棺主仍待。

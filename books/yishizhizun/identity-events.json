@@ -1,7 +1,235 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0013",
+  "through_chapter": "v06-c0014",
   "events": [
+    {
+      "type": "chen_heat_fades_icewalls_unchanged",
+      "entity": "chen_zhao",
+      "reference": "v06-c0014:p0001",
+      "fact_status": "应激退"
+    },
+    {
+      "type": "elder_attack_survival_conditional",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0014:p0003",
+      "fact_status": "内若"
+    },
+    {
+      "type": "elder_regret_southern_youth_counterfactual",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0014:p0005",
+      "fact_status": "反事实"
+    },
+    {
+      "type": "liu_firstladder_then_slow_not_master",
+      "entity": "liu_zejun",
+      "reference": "v06-c0014:p0009",
+      "fact_status": "源新境史"
+    },
+    {
+      "type": "liu_wants_south_again",
+      "entity": "liu_zejun",
+      "reference": "v06-c0014:p0009",
+      "fact_status": "愿未行"
+    },
+    {
+      "type": "chen_agrees_south",
+      "entity": "chen_zhao",
+      "reference": "v06-c0014:p0010",
+      "fact_status": "哈哈actual"
+    },
+    {
+      "type": "elder_150plus_lateyears_hesitation",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0014:p0011",
+      "fact_status": "年龄犹豫"
+    },
+    {
+      "type": "chen_lifespan_gamble_conditional",
+      "entity": "chen_zhao",
+      "reference": "v06-c0014:p0012",
+      "fact_status": "刻薄条件"
+    },
+    {
+      "type": "meng_fashen_observer_arrival",
+      "entity": "meng_qi",
+      "reference": "v06-c0014:p0014",
+      "fact_status": "新实际到"
+    },
+    {
+      "type": "chen_recognizes_old_su_target",
+      "entity": "chen_zhao",
+      "reference": "v06-c0014:p0018",
+      "fact_status": "actual"
+    },
+    {
+      "type": "liu_confirms_meng_recognition",
+      "entity": "liu_zejun",
+      "reference": "v06-c0014:p0022",
+      "fact_status": "低actual"
+    },
+    {
+      "type": "chen_challenge_gap_bittersmile",
+      "entity": "chen_zhao",
+      "reference": "v06-c0014:p0024",
+      "fact_status": "心酸非弃武"
+    },
+    {
+      "type": "elder_shock_twelve_thirteen_year_ascent",
+      "entity": "icepalace_elder_01",
+      "reference": "v06-c0014:p0031",
+      "fact_status": "十二三年惊"
+    },
+    {
+      "type": "meng_truebody_from_mirror",
+      "entity": "meng_qi",
+      "reference": "v06-c0014:p0035",
+      "fact_status": "真实穿"
+    },
+    {
+      "type": "three_suppress_faxiang_causal_envelopment",
+      "entity": "icepalace_observers",
+      "reference": "v06-c0014:p0037",
+      "fact_status": "受柔幽气难相非死"
+    },
+    {
+      "type": "meng_body_spirit_faxiang_integrated",
+      "entity": "meng_qi",
+      "reference": "v06-c0014:p0040",
+      "fact_status": "法身真身非神影"
+    },
+    {
+      "type": "meng_recognizes_chen",
+      "entity": "meng_qi",
+      "reference": "v06-c0014:p0041",
+      "fact_status": "微笑"
+    },
+    {
+      "type": "chen_congratulates_meng",
+      "entity": "chen_zhao",
+      "reference": "v06-c0014:p0043",
+      "fact_status": "吐气麻苦贺"
+    },
+    {
+      "type": "meng_asks_core_arrivals",
+      "entity": "meng_qi",
+      "reference": "v06-c0014:p0044",
+      "fact_status": "actual"
+    },
+    {
+      "type": "chen_full_report_summary",
+      "entity": "chen_zhao",
+      "reference": "v06-c0014:p0045",
+      "fact_status": "只见过原词其余摘要"
+    },
+    {
+      "type": "su_swordsman_identity_confirmed_now",
+      "entity": "su_wuming",
+      "reference": "v06-c0014:p0046",
+      "fact_status": "新名确认13未知"
+    },
+    {
+      "type": "meng_trap_suspicion_not_known_hanpurpose",
+      "entity": "meng_qi",
+      "reference": "v06-c0014:p0049",
+      "fact_status": "推未源定"
+    },
+    {
+      "type": "meng_luda_in_others_out_plan",
+      "entity": "meng_qi",
+      "reference": "v06-c0014:p0051",
+      "fact_status": "分层方案高未必估"
+    },
+    {
+      "type": "meng_lamp_causal_message_actual",
+      "entity": "meng_qi",
+      "reference": "v06-c0014:p0052",
+      "fact_status": "实联无次数"
+    },
+    {
+      "type": "luda_depart_grave_sword",
+      "entity": "lu_da",
+      "reference": "v06-c0014:p0053",
+      "fact_status": "启未到"
+    },
+    {
+      "type": "heqi_leaves_hejiu_message_depart",
+      "entity": "he_qi",
+      "reference": "v06-c0014:p0054",
+      "fact_status": "口信无原词"
+    },
+    {
+      "type": "yunhe_dragon_depart_north",
+      "entity": "yunhe",
+      "reference": "v06-c0014:p0055",
+      "fact_status": "器龙实北遁"
+    },
+    {
+      "type": "gao_in_shendu_formerprince_house",
+      "entity": "gao_lan",
+      "reference": "v06-c0014:p0056",
+      "fact_status": "当前神都"
+    },
+    {
+      "type": "formerprince_room_empty_glass_scent",
+      "entity": "formerprince_room",
+      "reference": "v06-c0014:p0058",
+      "fact_status": "真空无位置源"
+    },
+    {
+      "type": "gao_fledfast_selfpleased_hiddenanger",
+      "entity": "gao_lan",
+      "reference": "v06-c0014:p0059",
+      "fact_status": "口评"
+    },
+    {
+      "type": "gao_receives_meng_message_actual_depart",
+      "entity": "gao_lan",
+      "reference": "v06-c0014:p0060",
+      "fact_status": "响应未已到"
+    },
+    {
+      "type": "su_secretplace_ubiquity_only_rangelimit",
+      "entity": "su_wuming",
+      "reference": "v06-c0014:p0062",
+      "fact_status": "可前后侦"
+    },
+    {
+      "type": "evil_four_maintain_far_distance",
+      "entity": "evil_four",
+      "reference": "v06-c0014:p0062",
+      "fact_status": "实际远"
+    },
+    {
+      "type": "guerduo_coffin_legendfeeling_uncertain",
+      "entity": "guerduo",
+      "reference": "v06-c0014:p0064",
+      "fact_status": "不确定"
+    },
+    {
+      "type": "han_possible_owner_remains",
+      "entity": "han_guang",
+      "reference": "v06-c0014:p0065",
+      "fact_status": "可能非确"
+    },
+    {
+      "type": "han_names_iceimmortal_owner",
+      "entity": "han_guang",
+      "reference": "v06-c0014:p0067",
+      "fact_status": "口源"
+    },
+    {
+      "type": "iceimmortal_one_of_nine_tombs",
+      "entity": "ice_immortal",
+      "reference": "v06-c0014:p0070",
+      "fact_status": "作者明"
+    },
+    {
+      "type": "evil_listeners_yaochi_relation_question",
+      "entity": "evil_listeners",
+      "reference": "v06-c0014:p0072",
+      "fact_status": "共内关系未解"
+    },
     {
       "type": "farnorth_fog_spirit_reduction",
       "entity": "icepalace_region",
