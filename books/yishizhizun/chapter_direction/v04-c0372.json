@@ -77,7 +77,12 @@
   "semantic_review": {
     "status": "reviewed_current_read_boundary",
     "review_id": "review-v04-0372",
-    "full_book_consistency": "pending"
+    "full_book_consistency": "pending",
+    "supplemental_identity_review": {
+      "review_id": "review-v06-0035",
+      "scope": "xuanbei_canonical_id_source_checked_and_heqi_focalizer_at_p0074_p0075_corrected",
+      "source_spans_and_unit_counts_unchanged": true
+    }
   },
   "attribution": {
     "schema_version": 1,
@@ -1653,7 +1658,7 @@
             "surface_identity": "narrator",
             "knowledge_boundary": "ring_treasure_lu_four_su_four_jiang_two_separate_dragon_yunhe_sealed_divine_corpse_shaolin_shengsi_pen_heqi_complete_huangquan_bone_meng_stored_leave_tomb_no_new_merit_balance_task_reward_or_forged_peerless_weapon",
             "voice_event": "xuanbei_amitabha_invocation_narrated_not_added_quoted_scripture",
-            "focalizer": "xuanbei",
+            "focalizer": "xuan_bei",
             "certainty": "reviewed_assignment"
           },
           {
@@ -1661,8 +1666,8 @@
             "start": 18,
             "end": 25,
             "kind": "spoken_dialogue",
-            "speaker": "xuanbei",
-            "surface_identity": "xuanbei",
+            "speaker": "xuan_bei",
+            "surface_identity": "xuan_bei",
             "knowledge_boundary": "ring_treasure_lu_four_su_four_jiang_two_separate_dragon_yunhe_sealed_divine_corpse_shaolin_shengsi_pen_heqi_complete_huangquan_bone_meng_stored_leave_tomb_no_new_merit_balance_task_reward_or_forged_peerless_weapon",
             "voice_event": "xuanbei_amitabha_invocation_narrated_not_added_quoted_scripture",
             "certainty": "reviewed_assignment"
@@ -1683,8 +1688,9 @@
             "surface_identity": "narrator",
             "knowledge_boundary": "ring_treasure_lu_four_su_four_jiang_two_separate_dragon_yunhe_sealed_divine_corpse_shaolin_shengsi_pen_heqi_complete_huangquan_bone_meng_stored_leave_tomb_no_new_merit_balance_task_reward_or_forged_peerless_weapon",
             "state_change": "monks_take_sealed_corpse_heqi_grateful",
-            "focalizer": "xuanbei",
-            "certainty": "reviewed_assignment"
+            "focalizer": "he_qi",
+            "certainty": "reviewed_assignment",
+            "text_context": "he_qi_gratitude_and_understood_loot_concession_not_xuanbei_inner_viewpoint"
           }
         ]
       },
@@ -1701,8 +1707,8 @@
             "speaker": "narrator",
             "surface_identity": "narrator",
             "knowledge_boundary": "ring_treasure_lu_four_su_four_jiang_two_separate_dragon_yunhe_sealed_divine_corpse_shaolin_shengsi_pen_heqi_complete_huangquan_bone_meng_stored_leave_tomb_no_new_merit_balance_task_reward_or_forged_peerless_weapon",
-            "text_context": "heqi_lineage_no_divine_weapon_sword_tokens_and_guard_array_distinct_leaving_pen_for_him",
-            "focalizer": "xuanbei",
+            "text_context": "heqi_lineage_no_divine_weapon_sword_tokens_and_guard_array_distinct_leaving_pen_for_him; focalizer_he_qi_not_xuanbei",
+            "focalizer": "he_qi",
             "certainty": "reviewed_assignment"
           }
         ]
