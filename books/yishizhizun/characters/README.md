@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷67章
+# 角色阶段索引 · 截至第六卷68章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–67章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–68章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [霍离殇：实际吞丹与隐身处血迹](huo-actual-elixir-swallow-and-hidden-shadow-blood.md) | 第六卷68章证据与表演边界 |
+| [宋蒹葭：清浊双斩、真袖与未出口警告](song-clear-turbid-strikes-true-sleeve-and-unspoken-warning.md) | 第六卷68章证据与表演边界 |
+| [朱吾暗算太离与金鳌青帝自述](zhuwu-zhaoyao-banner-ambush-and-jinao-qing-emperor-claim.md) | 第六卷68章证据与表演边界 |
 | [高太反袭：对方形貌残迹与未明来源](gao-taili-counterattacks-and-opponent-likeness-remains.md) | 第六卷67章当前证据与表演边界 |
 | [徐悲受审：秘密成员确认与因果隔符](xu-bond-causal-talisman-isolation-and-heart-interrogation.md) | 第六卷67章当前证据与表演边界 |
 | [岛外四帝与中央天帝自号：旧黑帝天命报告](four-external-emperors-central-title-and-former-black-emperor.md) | 第六卷67章当前证据与表演边界 |
@@ -1115,3 +1118,5 @@
 最新[第六卷66章复核](../reviews/review-v06-0066.md)与[状态账](../reviews/ledger-v06-0066.md)：孟绕秦擒徐、岛主报告与停战后双袭。
 
 最新[第六卷67章复核](../reviews/review-v06-0067.md)与[状态账](../reviews/ledger-v06-0067.md)：反同貌袭、审徐四帝、宋误认与天命旧黑帝。
+
+最新[第六卷68章复核](../reviews/review-v06-0068.md)与[状态账](../reviews/ledger-v06-0068.md)：吞丹血迹、宋转悟未告与朱吾青帝自述。

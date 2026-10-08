@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第67章，994 / 1410 个目录条目，约324.5万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第68章，995 / 1410 个目录条目，约324.8万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第68章复核](books/yishizhizun/reviews/review-v06-0068.md)：霍吞丹与隐影血迹、宋悟假冒未告、朱吾制太离并自述青帝，78段、107句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0068.md)。
 - [第六卷第67章复核](books/yishizhizun/reviews/review-v06-0067.md)：反同貌袭、审徐四帝、宋误认与天命旧黑帝，127段、169句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0067.md)。
 - [第六卷第66章复核](books/yishizhizun/reviews/review-v06-0066.md)：孟绕秦擒徐、岛主旧记与有限停战后的双袭，49段、75句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0066.md)。
 - [第六卷第65章复核](books/yishizhizun/reviews/review-v06-0065.md)：四使者定名、混战分散与两路遭遇，49段、57句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0065.md)。
