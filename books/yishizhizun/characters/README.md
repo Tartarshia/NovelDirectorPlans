@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷85章
+# 角色阶段索引 · 截至第六卷86章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–85章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–86章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [任的截教多宝支脉与现掌大能未答](ren-jiejiao-duobao-branch-and-current-master-unanswered.md) | 第六卷86章证据与表演边界 |
+| [碧游宫、阵图及四剑第一篇：交换尚在意向](biyou-palace-four-sword-text-limit-and-exchange-opening.md) | 第六卷86章证据与表演边界 |
+| [多目死亡、伪九幽图收获与轻修正边界](duomu-death-pseudo-map-loot-and-limited-history-correction.md) | 第六卷86章证据与表演边界 |
+| [五派请柬送达与借名聚人的行动意向](five-sect-invitation-delivered-and-fame-as-reunion-tool.md) | 第六卷86章证据与表演边界 |
 | [气圣：生民勾连、四绝剑与凡人代价](qi-sheng-vitality-four-jue-sword-and-civilian-cost.md) | 第六卷85章证据与表演边界 |
 | [霸王：无言救走吴与留待强敌单挑](bawang-rescues-wu-for-future-single-combat.md) | 第六卷85章证据与表演边界 |
 | [未名帝袍陌客：可悲可叹与霸王不出刀](imperial-robed-stranger-pity-lament-and-bawang-restraint.md) | 第六卷85章证据与表演边界 |
@@ -1218,3 +1222,5 @@
 最新[第六卷84章复核](../reviews/review-v06-0084.md)与[状态账](../reviews/ledger-v06-0084.md)：真灵问罪掌破、多目重创、诸圣分界与魔种声东击西。
 
 最新[第六卷85章复核](../reviews/review-v06-0085.md)与[状态账](../reviews/ledger-v06-0085.md)：求救暴露、气圣逼种与平民伤亡、霸王救吴、帝袍未知。
+
+最新[第六卷86章复核](../reviews/review-v06-0086.md)与[状态账](../reviews/ledger-v06-0086.md)：死亡收剑与轻修正、截教交流未成、五派请柬；S13收75–85，S14自86起。
