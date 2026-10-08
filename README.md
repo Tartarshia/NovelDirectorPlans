@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第86章，1013 / 1410 个目录条目，约330.0万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第87章，1014 / 1410 个目录条目，约330.3万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第87章复核](books/yishizhizun/reviews/review-v06-0087.md)：五派点评、汤文远确名、强阵隐耗与出风头，89段、119句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0087.md)。
 - [第六卷第86章复核](books/yishizhizun/reviews/review-v06-0086.md)：死亡收剑、截教支脉与阵经交流意向、五派请柬；S13收束/S14开始，75段、119句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0086.md)。
 - [第六卷第85章复核](books/yishizhizun/reviews/review-v06-0085.md)：求救暴露与气圣逼种、霸王救吴及帝袍陌客，75段、95句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0085.md)。
 - [第六卷第84章复核](books/yishizhizun/reviews/review-v06-0084.md)：真灵问罪掌破、诸圣分界护民与魔种声东击西，61段、64句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0084.md)。

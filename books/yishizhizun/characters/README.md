@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第六卷86章
+# 角色阶段索引 · 截至第六卷87章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–86章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–87章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [汤文远：送柬人确名与被拒的人仙挑战](tang-wenyuan-luoxing-messenger-and-rejected-challenge.md) | 第六卷87章证据与表演边界 |
+| [五派落伽山代表与临时洞天](five-sect-luojia-representatives-and-temporary-arena.md) | 第六卷87章证据与表演边界 |
+| [王文正：星斗剑法败于点评，明悟与沮丧并存](wang-wenzheng-star-array-critique-and-limited-defeat.md) | 第六卷87章证据与表演边界 |
+| [李量：识时光后主动出战，强阵背后孟的代价](li-liang-moon-resistance-and-meng-array-hidden-cost.md) | 第六卷87章证据与表演边界 |
+| [孟的公开点评：外在从容、内在空耗与借名目的](meng-public-critique-inner-cost-and-fame-motive.md) | 第六卷87章证据与表演边界 |
 | [任的截教多宝支脉与现掌大能未答](ren-jiejiao-duobao-branch-and-current-master-unanswered.md) | 第六卷86章证据与表演边界 |
 | [碧游宫、阵图及四剑第一篇：交换尚在意向](biyou-palace-four-sword-text-limit-and-exchange-opening.md) | 第六卷86章证据与表演边界 |
 | [多目死亡、伪九幽图收获与轻修正边界](duomu-death-pseudo-map-loot-and-limited-history-correction.md) | 第六卷86章证据与表演边界 |
@@ -1224,3 +1229,5 @@
 最新[第六卷85章复核](../reviews/review-v06-0085.md)与[状态账](../reviews/ledger-v06-0085.md)：求救暴露、气圣逼种与平民伤亡、霸王救吴、帝袍未知。
 
 最新[第六卷86章复核](../reviews/review-v06-0086.md)与[状态账](../reviews/ledger-v06-0086.md)：死亡收剑与轻修正、截教交流未成、五派请柬；S13收75–85，S14自86起。
+
+最新[第六卷87章复核](../reviews/review-v06-0087.md)与[状态账](../reviews/ledger-v06-0087.md)：汤文远确名、五派点评、强阵消耗与出风头自白。
