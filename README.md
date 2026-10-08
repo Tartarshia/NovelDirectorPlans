@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第59章，986 / 1410 个目录条目，约322.0万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第60章，987 / 1410 个目录条目，约322.3万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第60章复核](books/yishizhizun/reviews/review-v06-0060.md)：刺客败亡、本界印成与真实冬至，71段、87句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0060.md)。
 - [第六卷第59章复核](books/yishizhizun/reviews/review-v06-0059.md)：秘史争议、刺尚令与虚拟联系初成，84段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0059.md)。
 - [第六卷第58章复核](books/yishizhizun/reviews/review-v06-0058.md)：报纸奇妙江湖、连载认知与反馈，62段、84句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0058.md)。
 - [第六卷第57章复核](books/yishizhizun/reviews/review-v06-0057.md)：改传播环境、未来视景与一年后报业，48段、58句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0057.md)。
