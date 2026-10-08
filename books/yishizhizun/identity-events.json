@@ -1,7 +1,401 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0045",
+  "through_chapter": "v06-c0046",
   "events": [
+    {
+      "type": "yin_actual_waited_line_continues_same_previous_event",
+      "entity": "yin_feilong",
+      "reference": "v06-c0046:p0001",
+      "fact_status": "same_line_event_repeated_at_chapter_boundary_not_second_waking",
+      "continuation_of": "v06-c0045:p0079"
+    },
+    {
+      "type": "restrained_yin_spits_autonomous_centipede",
+      "entity": "yin_feilong",
+      "reference": "v06-c0046:p0002",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_threeheaded_centipede_features",
+      "entity": "buzhou_green_centipede",
+      "reference": "v06-c0046:p0004",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_real_fashen_dafan_night_defense_drops_role",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0005",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "centipede_disappears_into_night_not_dead_yet",
+      "entity": "buzhou_green_centipede",
+      "reference": "v06-c0046:p0006",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_actual_blurts_dafanye_technique",
+      "entity": "yin_feilong",
+      "reference": "v06-c0046:p0007",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yin_focal_infers_true_yedi_identity",
+      "entity": "yin_feilong",
+      "reference": "v06-c0046:p0009",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified"
+    },
+    {
+      "type": "huo_explicit_inner_role_excuse_for_soulsearch",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0010",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_soulsearch_small_memory_fragments",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0012",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_inner_eastsea_jinao_envoy_surprise",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0013",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_focal_seven_seas_and_ancient_eastsea_terms",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0015",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_leftfinger_bitten_poison",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0019",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "centipede_returns_through_selfworld_night",
+      "entity": "buzhou_green_centipede",
+      "reference": "v06-c0046:p0020",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_layers_night_crushes_centipede_dead",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0023",
+      "fact_status": "centipede_crushed_dead_poison_already_in_huo",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han",
+      "killed_entity": "buzhou_green_centipede"
+    },
+    {
+      "type": "huo_poison_urgent_retained_life_pill",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0024",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "yin_soul_collapses_during_interrupted_soulsearch_dead",
+      "entity": "yin_feilong",
+      "reference": "v06-c0046:p0025",
+      "fact_status": "source_actual_soul_collapse_during_soulsearch_not_xu_curse_newly_triggered",
+      "life_status": "dead_soul_collapsed_now_not_previous_chapter"
+    },
+    {
+      "type": "huo_injured_escape_abandoned_house",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0026",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_knows_shidian_token_remote_attack_arrangement",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0027",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "attendants_inner_huo_bears_blame_prediction",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0046:p0029",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified"
+    },
+    {
+      "type": "youhu_adjusts_tea_and_shared_fate",
+      "entity": "youhu",
+      "reference": "v06-c0046:p0034",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "youhu_inner_depends_on_meng_power_comparison",
+      "entity": "youhu",
+      "reference": "v06-c0046:p0035",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified"
+    },
+    {
+      "type": "xu_returns_ship_after_probe",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0038",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_first_departure_probe_and_reconsideration",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0039",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_thought_it_through_offers_undrunk_tea",
+      "entity": "meng_qi",
+      "reference": "v06-c0046:p0040",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_actual_cannot_hide_and_sits",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0042",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xu_focal_one_vs_four_secret_sharing_choice",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0043",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified"
+    },
+    {
+      "type": "meng_actual_limited_knowledge_source_true",
+      "entity": "meng_qi",
+      "reference": "v06-c0046:p0044",
+      "fact_status": "source_explicitly_meng_limited_knowledge_true_not_feigned_omniscience",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "attendants_stunned_xu_softening",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0046:p0045",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_material_transformation_control_explanation_not_rank",
+      "entity": "meng_qi",
+      "reference": "v06-c0046:p0048",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_senses_yin_dead_assumes_traps_not_useful",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0051",
+      "fact_status": "xu_limited_knowledge_traps_not_useful_assumption_centipede_actually_injured_huo_reader_knows"
+    },
+    {
+      "type": "xu_inner_probably_xianji",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0052",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified"
+    },
+    {
+      "type": "xu_actual_reports_yin_death_observes_meng",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0053",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_surprise_inner_huo_fast",
+      "entity": "meng_qi",
+      "reference": "v06-c0046:p0054",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_actual_no_longer_matters",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0055",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xu_actual_asks_envoy_told_what",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0057",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_no_envoy_met",
+      "entity": "meng_qi",
+      "reference": "v06-c0046:p0058",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_actual_humanimmortal_stuck_envoy_introduced_by_yin",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0059",
+      "fact_status": "xu_account_envoy_and_voluntary_service_not_all_details_verified",
+      "rank_boundary": "xu_actual_humanimmortal_stuck_years_not_earthimmortal"
+    },
+    {
+      "type": "meng_actual_asks_qu_and_organization_orders",
+      "entity": "meng_qi",
+      "reference": "v06-c0046:p0060",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_actual_jinao_demands_organization_investigation",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0061",
+      "fact_status": "xu_character_account_or_offer_envoy_heavenimmortal_claim_not_meng_seen_or_membership_accepted"
+    },
+    {
+      "type": "meng_inner_jinao_cultivator_and_disappearance_questions",
+      "entity": "meng_qi",
+      "reference": "v06-c0046:p0062",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_actual_offers_external_member_introduction",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0064",
+      "fact_status": "xu_character_account_or_offer_envoy_heavenimmortal_claim_not_meng_seen_or_membership_accepted"
+    },
+    {
+      "type": "xu_actual_claims_envoy_heavenimmortal",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0065",
+      "fact_status": "xu_character_account_or_offer_envoy_heavenimmortal_claim_not_meng_seen_or_membership_accepted"
+    },
+    {
+      "type": "meng_inner_envoy_identity_questions_actual_limits_and_tomorrow_answer",
+      "entity": "meng_qi",
+      "reference": "v06-c0046:p0066",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_really_leaves_this_time",
+      "entity": "xu_bei",
+      "reference": "v06-c0046:p0067",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "attendants_jinao_envoy_rank_beyond_knowledge",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0046:p0068",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_hides_dock_cargo_detox",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0070",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_life_danger_passed_extreme_fashen_weakness_not_healed",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0071",
+      "fact_status": "life_saved_but_extreme_fashen_toxic_damage_cannot_self_recover_not_formal_mortal_rank",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_explicit_inner_task_done_selfcomfort_wants_role_back",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0072",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_inner_treasury_left_with_false_yedi_for_healing",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0073",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_approaches_ship_alone_flower_tender",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0074",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_inner_youhu_good_luck",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0075",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "huo_actual_game_over_to_youhu",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0077",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "youhu_observes_weak_huo_and_cabin_presence",
+      "entity": "youhu",
+      "reference": "v06-c0046:p0078",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_actual_repeats_youhu_and_game_over",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0079",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
+    {
+      "type": "youhu_actual_this_gentleman_respect_yourself",
+      "entity": "youhu",
+      "reference": "v06-c0046:p0081",
+      "fact_status": "actual_refusal_game_end_motive_not_fully_given_no_meng_order_confirmed"
+    },
+    {
+      "type": "huo_inner_stunned_repetition_on_dock",
+      "entity": "huo_lishang",
+      "reference": "v06-c0046:p0082",
+      "fact_status": "character_inner_or_focal_account_inference_not_all_future_outcome_or_envoy_identity_rank_certified",
+      "surface_identity": "taiyi_tianzun_han_guang_role_then_actual_weak_huo_return",
+      "embodiment": "same_true_fashen_huo_poisoned_not_rank_reset_or_real_han"
+    },
     {
       "type": "attendants_senses_confused_by_ship_host",
       "entity": "yedi_attendants_group",
