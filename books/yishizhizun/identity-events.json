@@ -1,7 +1,423 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0063",
+  "through_chapter": "v06-c0064",
   "events": [
+    {
+      "type": "inner_daji_surprise",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0001",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_islandmaster_or_wife_hypothesis_not_confirmation",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0002",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "recalled_earth_tv_comparison_not_local_history",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0004",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "recalled_known_fengshen_interruption_history",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0005",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_yunzhongzi_past_and_daji_lifespan_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0006",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_rank_lifespan_and_yunzhongzi_death_hypotheses",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0007",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_fake_or_descendant_alternative",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0008",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "observed_daji_at_least_earth_rank_estimate_not_exact",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0009",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "rank_boundary": "meng_initial_earth_or_above_estimate_daji_exact_rank_unknown"
+    },
+    {
+      "type": "actual_clear_gaze_returns_salute",
+      "entity": "lu_da",
+      "reference": "v06-c0064:p0010",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_indifferent_beauty_response_no_speech",
+      "entity": "su_wuming",
+      "reference": "v06-c0064:p0010",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_hot_possessive_gaze_not_executed_abduction",
+      "entity": "guerduo",
+      "reference": "v06-c0064:p0010",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_imperial_posture_not_palace_control",
+      "entity": "gao_lan",
+      "reference": "v06-c0064:p0010",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_alert_observation",
+      "entity": "he_qi",
+      "reference": "v06-c0064:p0011",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_void_hidden_emotion_shift_and_restraint",
+      "entity": "dushi_fawang",
+      "reference": "v06-c0064:p0011",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "source_myth_name_surprise_not_identity_verification",
+      "entity": "overseas_fashen_group",
+      "reference": "v06-c0064:p0012",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_beauty_praise_death_without_regret_not_death",
+      "entity": "huo_lishang",
+      "reference": "v06-c0064:p0013",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_requests_hold_pose_and_starts_portrait",
+      "entity": "huo_lishang",
+      "reference": "v06-c0064:p0015",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_ignores_painter_observes_daji",
+      "entity": "bi_jingxuan",
+      "reference": "v06-c0064:p0016",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_ignores_painter_observes_daji",
+      "entity": "sun_chuci",
+      "reference": "v06-c0064:p0016",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_shang_or_demon_lineage_question",
+      "entity": "overseas_fashen_group",
+      "reference": "v06-c0064:p0017",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_item_enabled_private_shared_righteous_channel_question",
+      "entity": "yunhe",
+      "reference": "v06-c0064:p0018",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "channel_boundary": "item_enabled_righteous_shared_channel_explicit_at_18_continuation_not_repeated_for_every_reply"
+    },
+    {
+      "type": "actual_shang_name_question",
+      "entity": "lu_da",
+      "reference": "v06-c0064:p0019",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "channel_boundary": "item_enabled_righteous_shared_channel_explicit_at_18_continuation_not_repeated_for_every_reply"
+    },
+    {
+      "type": "actual_reports_ancestral_text_shang_lineage_cultivation",
+      "entity": "yunhe",
+      "reference": "v06-c0064:p0020",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "channel_boundary": "item_enabled_righteous_shared_channel_explicit_at_18_continuation_not_repeated_for_every_reply"
+    },
+    {
+      "type": "actual_limited_ancestral_history_and_reported_power_struggle",
+      "entity": "yunhe",
+      "reference": "v06-c0064:p0021",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "channel_boundary": "item_enabled_righteous_shared_channel_explicit_at_18_continuation_not_repeated_for_every_reply"
+    },
+    {
+      "type": "actual_daji_last_shang_king_favored_consort_account",
+      "entity": "yunhe",
+      "reference": "v06-c0064:p0022",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "channel_boundary": "item_enabled_righteous_shared_channel_explicit_at_18_continuation_not_repeated_for_every_reply"
+    },
+    {
+      "type": "actual_qingqiu_demon_emperor_connection_seems_account",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0023",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "channel_boundary": "item_enabled_righteous_shared_channel_explicit_at_18_continuation_not_repeated_for_every_reply"
+    },
+    {
+      "type": "actual_demon_plot_question_not_confirmation",
+      "entity": "he_qi",
+      "reference": "v06-c0064:p0024",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "channel_boundary": "item_enabled_righteous_shared_channel_explicit_at_18_continuation_not_repeated_for_every_reply"
+    },
+    {
+      "type": "inner_missing_taili_explanation_question",
+      "entity": "he_qi",
+      "reference": "v06-c0064:p0025",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_arrives_with_heaven_envoy_fivecolored_hair",
+      "entity": "tai_li",
+      "reference": "v06-c0064:p0026",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_arrives_baize_king_no_verbatim_speech",
+      "entity": "zhuwu",
+      "reference": "v06-c0064:p0026",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_fengshen_not_invited_ignorance_or_avoidance_hypotheses",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0027",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_known_fengshen_powers_account_with_uncertainty",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0028",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "channel_boundary": "item_enabled_righteous_shared_channel_explicit_at_18_continuation_not_repeated_for_every_reply"
+    },
+    {
+      "type": "inner_ancestral_history_complexity_and_danger_assessment",
+      "entity": "yunhe",
+      "reference": "v06-c0064:p0029",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_meng_tribulation_knowledge_praise_not_public",
+      "entity": "yunhe",
+      "reference": "v06-c0064:p0030",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_attentive_cold_posture_not_all_knowing",
+      "entity": "gao_lan",
+      "reference": "v06-c0064:p0031",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_gao_may_know_more_from_emperor_sword",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0032",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_all_guests_arrived_seating_invitation",
+      "entity": "su_daji",
+      "reference": "v06-c0064:p0033",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_jinao_banquet_formally_begins",
+      "entity": "external_or_narrator",
+      "reference": "v06-c0064:p0034",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_true_islandmaster_if_daji_regent_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0035",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_zhouwang_candidate_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0036",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_zhouwang_regain_ambition_and_rank_unlikely_assessment",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0037",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_legend_rank_rarity_not_new_rank",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0038",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "personal_ethical_blame_allocation_not_cosmological_verdict",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0039",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_islandmaster_still_unknown",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0040",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_portrait_complete",
+      "entity": "huo_lishang",
+      "reference": "v06-c0064:p0041",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_portrait_praise_apparent_sincerity_not_guaranteed",
+      "entity": "su_daji",
+      "reference": "v06-c0064:p0042",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_sincere_insufficient_beauty_reply",
+      "entity": "huo_lishang",
+      "reference": "v06-c0064:p0043",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_earth_photography_analogy_not_actual_camera",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0044",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_claim_exercises_islandmaster_duties_not_true_master_reveal",
+      "entity": "su_daji",
+      "reference": "v06-c0064:p0045",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_main_issue_here",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0046",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_invites_direct_statement",
+      "entity": "huo_lishang",
+      "reference": "v06-c0064:p0047",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_future_power_return_danger_claim",
+      "entity": "su_daji",
+      "reference": "v06-c0064:p0048",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_claim_shang_legitimacy_selfsealing_future_return_not_completed_rule",
+      "entity": "su_daji",
+      "reference": "v06-c0064:p0049",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_four_heaven_envoys_excluding_daji",
+      "entity": "jinao_heaven_envoys_group",
+      "reference": "v06-c0064:p0050",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "rank_boundary": "four_heaven_envoys_excluding_daji_daji_rank_unresolved"
+    },
+    {
+      "type": "inner_four_heaven_envoys_shock_not_unison",
+      "entity": "invited_fashen_group",
+      "reference": "v06-c0064:p0051",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_promises_future_heaven_legend_opportunity_not_advance",
+      "entity": "su_daji",
+      "reference": "v06-c0064:p0052",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_recruitment_recognition_more_to_come",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0053",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_jiuzhuan_lixuan_elixir_requirement_annual_antidote_not_yet_taken",
+      "entity": "su_daji",
+      "reference": "v06-c0064:p0054",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "plan_status": "elixir_demand_not_actual_ingestion_or_tested_drug_mechanism"
+    },
+    {
+      "type": "actual_smiling_casual_delivery_of_control_condition",
+      "entity": "su_daji",
+      "reference": "v06-c0064:p0055",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "actual_dangerous_frozen_atmosphere_not_battle",
+      "entity": "invited_fashen_group",
+      "reference": "v06-c0064:p0056",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_other_fiction_drug_analogy_then_actual_waits_array_opportunity",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0057",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "plan_status": "waiting_to_launch_zhuxian_array_not_launched",
+      "drug_boundary": "baotai_yijing_allusion_not_actual_jiuzhuan_lixuan_elixir_name"
+    },
+    {
+      "type": "inner_four_heaven_exceeds_expected_array_limit",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0058",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_ally_cooperation_and_xu_covert_alignment_concern",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0059",
+      "fact_status": "meng_concern_and_xu_alignment_assessment_not_author_revealed_organization_roster"
+    },
+    {
+      "type": "actual_five_no_elixir_exit_places_to_compete_not_awarded",
+      "entity": "su_daji",
+      "reference": "v06-c0064:p0061",
+      "fact_status": "source_action_account_or_character_inference_as_typed",
+      "plan_status": "five_places_offered_no_winners_departures_rules_or_delivery_verified"
+    },
+    {
+      "type": "actual_atmosphere_eases_undercurrents",
+      "entity": "invited_fashen_group",
+      "reference": "v06-c0064:p0062",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_why_incite_infighting_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0063",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
+    {
+      "type": "inner_something_strange_not_plot_solved",
+      "entity": "meng_qi",
+      "reference": "v06-c0064:p0064",
+      "fact_status": "source_action_account_or_character_inference_as_typed"
+    },
     {
       "type": "actual_black_bird_transformation_complete",
       "entity": "huo_lishang",

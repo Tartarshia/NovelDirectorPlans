@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷63章
+# 角色阶段索引 · 截至第六卷64章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–63章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–64章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [苏妲己：代理自述、服丹要求与五个离岛名额](su-daji-regency-elixir-demand-and-five-exit-places.md) | 第六卷64章当前证据与表演边界 |
+| [云鹤与孟奇：殷商封神秘语与两妖王到场](yunhe-meng-shang-history-private-channel-and-demon-arrivals.md) | 第六卷64章当前证据与表演边界 |
+| [金鳌正式开宴：群像、绘美与未发剑阵](banquet-reaction-table-huo-painting-and-unlaunched-array.md) | 第六卷64章当前证据与表演边界 |
 | [霍离殇：近龙验实、面具黑影与石像变化](huo-dragon-test-face-shadow-and-changing-statue.md) | 第六卷63章当前证据与表演边界 |
 | [韩广：钟碎共鸣、错时九婴与另一六指身影](han-bell-resonance-nine-infant-time-and-second-likeness.md) | 第六卷63章当前证据与表演边界 |
 | [孟奇：有限指向、摘星楼与毫毛分身消融](meng-star-tower-reflection-pig-stomach-and-hair-double-swap.md) | 第六卷63章当前证据与表演边界 |
@@ -1092,3 +1095,5 @@
 最新[第六卷62章复核](../reviews/review-v06-0062.md)与[状态账](../reviews/ledger-v06-0062.md)：海外回归、初互见与三层潜行。
 
 最新[第六卷63章复核](../reviews/review-v06-0063.md)与[状态账](../reviews/ledger-v06-0063.md)：探楼换位、三同貌与苏妲己初问安。
+
+最新[第六卷64章复核](../reviews/review-v06-0064.md)与[状态账](../reviews/ledger-v06-0064.md)：殷商代理、服丹控制与五名额，正式开宴未交战。
