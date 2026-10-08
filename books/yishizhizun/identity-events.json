@@ -1,7 +1,346 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0084",
+  "through_chapter": "v06-c0085",
   "events": [
+    {
+      "type": "inner_discovery_fear_and_actual_heartbeat",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0003",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_seed_controls_mortal_body_to_hide",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0004",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_attack_or_calm_choice",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0006",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_gaze_moves_away_from_wu_to_duomu",
+      "entity": "meng_qi",
+      "reference": "v06-c0085:p0007",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_disguises_fear_of_corpse_not_duomu_death",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0010",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_decoy_awakening",
+      "entity": "wu_seed_carriers_multiple",
+      "reference": "v06-c0085:p0011",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_earlier_eclipse_awakening_then_gate_approach",
+      "entity": "wu_gate_stallman_carrier_unidentified",
+      "reference": "v06-c0085:p0012",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "embodiment": "gate_stallman_not_shop_customer_same_wu_seed_controller"
+    },
+    {
+      "type": "actual_scans_departures",
+      "entity": "double_pupil_gate_fashen_unidentified",
+      "reference": "v06-c0085:p0013",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_scan_misses_seed_not_yet_exit",
+      "entity": "wu_gate_stallman_carrier_unidentified",
+      "reference": "v06-c0085:p0016",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "embodiment": "gate_stallman_not_shop_customer_same_wu_seed_controller"
+    },
+    {
+      "type": "source_dying_still_alive",
+      "entity": "duomu_tianwang",
+      "reference": "v06-c0085:p0019",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_hoarse_low_plea_to_master",
+      "entity": "duomu_tianwang",
+      "reference": "v06-c0085:p0021",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "life_state": "duomu_dying_but_alive_actual_plea_not_corpse"
+    },
+    {
+      "type": "actual_sword_sound_consciousness_broadcast",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0085:p0023",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_order_gate_entry_only",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0085:p0024",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "ren_sword_sound_consciousness_city_broadcast"
+    },
+    {
+      "type": "actual_warn_wu_mortal_escape",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0085:p0025",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "ren_sword_sound_consciousness_city_broadcast"
+    },
+    {
+      "type": "actual_prohibition_closes",
+      "entity": "luocheng_gate",
+      "reference": "v06-c0085:p0026",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_disappointment_full_body_control",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0027",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_quoted_text_steadies_mind",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0029",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "quoted_text_echoes_in_wu_mind_not_public_speech"
+    },
+    {
+      "type": "actual_six_finger_filth_grabs_ren",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0030",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_biyue_separates_two_worlds",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0085:p0031",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_city_sword_expels_seeds",
+      "entity": "qi_sheng_vitality",
+      "reference": "v06-c0085:p0032",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "vitality_sage_qisheng_distinct_from_crafting_sage_qi_sheng"
+    },
+    {
+      "type": "actual_spits_mince_dissolves_response_body",
+      "entity": "wudai_xuannv",
+      "reference": "v06-c0085:p0032",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "embodiment": "response_body_dissolves_not_main_body_death"
+    },
+    {
+      "type": "source_exits_liyu_realm_four_jue_sword",
+      "entity": "qi_sheng_vitality",
+      "reference": "v06-c0085:p0034",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "vitality_sage_qisheng_distinct_from_crafting_sage_qi_sheng"
+    },
+    {
+      "type": "actual_seeds_aggregate_demon_fetus",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0035",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_child_with_claw_burns_body_opens_five_filthy_rifts",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0036",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_severs_rift_external_channel",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0085:p0038",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_concentrates_future_sealing_sword",
+      "entity": "qi_sheng_vitality",
+      "reference": "v06-c0085:p0039",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "vitality_sage_qisheng_distinct_from_crafting_sage_qi_sheng"
+    },
+    {
+      "type": "inner_extreme_sword_other_shore_potential_assessment",
+      "entity": "meng_qi",
+      "reference": "v06-c0085:p0040",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "rank_boundary": "meng_hypothetical_extreme_sword_and_sage_potential_not_current_other_shore"
+    },
+    {
+      "type": "actual_claw_black_hand_counter",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0041",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_struck_gate_crater",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0042",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_many_killed_by_residual_force_despite_prohibition",
+      "entity": "departing_civilians",
+      "reference": "v06-c0085:p0042",
+      "fact_status": "source_explicit_civilian_deaths"
+    },
+    {
+      "type": "source_still_transforming_claw_awakened_force_resists_peak_heaven_blow_severe_injury",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0044",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_hopes_claw_legend_awakening_not_actual",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0045",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "rank_boundary": "hope_claw_legend_not_awakening_confirmed"
+    },
+    {
+      "type": "actual_hat_man_arrives",
+      "entity": "bawang",
+      "reference": "v06-c0085:p0047",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_recognizes_bawang",
+      "entity": "meng_qi",
+      "reference": "v06-c0085:p0049",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_grand_voice_questions_bawang",
+      "entity": "qi_sheng_vitality",
+      "reference": "v06-c0085:p0053",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "vitality_sage_qisheng_distinct_from_crafting_sage_qi_sheng"
+    },
+    {
+      "type": "actual_silent_lifts_wu_strikes_with_blade",
+      "entity": "bawang",
+      "reference": "v06-c0085:p0054",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_purple_slash_breaks_qi_sword_splits_sky",
+      "entity": "bawang",
+      "reference": "v06-c0085:p0055",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_breaks_liyu_realm_heaven_immortals_ejected",
+      "entity": "bawang",
+      "reference": "v06-c0085:p0056",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_disappear_rescue_completed",
+      "entity": "bawang_and_wu_daoming",
+      "reference": "v06-c0085:p0057",
+      "fact_status": "bawang_actual_rescue_not_wu_carrier_gate_escape_success"
+    },
+    {
+      "type": "actual_giant_form_withdrawn_quoted_dominance_praise",
+      "entity": "meng_qi",
+      "reference": "v06-c0085:p0058",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_rescue_alliance_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v06-c0085:p0059",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "meng_alliance_guess_not_river_dialogue_known"
+    },
+    {
+      "type": "actual_asks_rescue_reason",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0062",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "focal_prior_two_duels_no_friendship_xuannv_guess",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0063",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_reason_future_peak_heaven_wu_duel_claw_vs_blade",
+      "entity": "bawang",
+      "reference": "v06-c0085:p0064",
+      "fact_status": "bawang_stated_future_duel_reason_not_current_duel_or_permanent_alliance"
+    },
+    {
+      "type": "actual_surprise_reason_only",
+      "entity": "wu_daoming",
+      "reference": "v06-c0085:p0065",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_reason_enough_reply_steps_across_river",
+      "entity": "bawang",
+      "reference": "v06-c0085:p0066",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_roadside_encounter_not_named",
+      "entity": "imperial_robed_man_unidentified_v06_c0085",
+      "reference": "v06-c0085:p0067",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "imperial_robed_stranger_unknown_no_han_gao_or_emperor_guess_no_duel_yet"
+    },
+    {
+      "type": "actual_pity_lament",
+      "entity": "imperial_robed_man_unidentified_v06_c0085",
+      "reference": "v06-c0085:p0069",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "imperial_robed_stranger_unknown_no_han_gao_or_emperor_guess_no_duel_yet"
+    },
+    {
+      "type": "inner_challenge_reaction_actual_grasps_blade",
+      "entity": "bawang",
+      "reference": "v06-c0085:p0070",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "imperial_robed_stranger_unknown_no_han_gao_or_emperor_guess_no_duel_yet"
+    },
+    {
+      "type": "actual_self_pity_bitter_smile",
+      "entity": "imperial_robed_man_unidentified_v06_c0085",
+      "reference": "v06-c0085:p0072",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "imperial_robed_stranger_unknown_no_han_gao_or_emperor_guess_no_duel_yet"
+    },
+    {
+      "type": "actual_all_pitiful_lament",
+      "entity": "imperial_robed_man_unidentified_v06_c0085",
+      "reference": "v06-c0085:p0073",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "imperial_robed_stranger_unknown_no_han_gao_or_emperor_guess_no_duel_yet"
+    },
+    {
+      "type": "actual_leaves_voice_recedes",
+      "entity": "imperial_robed_man_unidentified_v06_c0085",
+      "reference": "v06-c0085:p0074",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "imperial_robed_stranger_unknown_no_han_gao_or_emperor_guess_no_duel_yet"
+    },
+    {
+      "type": "quoted_madman_question_uncertain_inner_or_low_actual_not_drawn",
+      "entity": "bawang",
+      "reference": "v06-c0085:p0075",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "imperial_robed_stranger_unknown_no_han_gao_or_emperor_guess_no_duel_yet"
+    },
     {
       "type": "inner_body_sanctity_assessment_not_meng_new_rank",
       "entity": "duomu_tianwang",

@@ -3,6 +3,16 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "ruoshi-era-limit-v06-c0085",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v06-c0085:p0040"
+      ],
+      "source_word": "若是时代限制",
+      "state": "unresolved_source_issue",
+      "director_handling": "语境疑若非时代限制，存在反向语义风险；保留正文偏移，勿按疑字强推各圣当前境界或必然晋阶，录制前核对。"
+    },
+    {
       "id": "fanyue-five-fingers-v06-c0084",
       "kind": "possible_source_word_error",
       "evidence": [

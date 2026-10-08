@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷84章
+# 角色阶段索引 · 截至第六卷85章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–84章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–85章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [气圣：生民勾连、四绝剑与凡人代价](qi-sheng-vitality-four-jue-sword-and-civilian-cost.md) | 第六卷85章证据与表演边界 |
+| [霸王：无言救走吴与留待强敌单挑](bawang-rescues-wu-for-future-single-combat.md) | 第六卷85章证据与表演边界 |
+| [未名帝袍陌客：可悲可叹与霸王不出刀](imperial-robed-stranger-pity-lament-and-bawang-restraint.md) | 第六卷85章证据与表演边界 |
+| [多载体逃城、城门封禁与多目求救](wu-seed-carriers-gate-blockade-and-duomu-plea.md) | 第六卷85章证据与表演边界 |
 | [吴道明：孩童显形、凡人魔种与声东击西](wu-daoming-child-and-parasitic-customer-diversion.md) | 第六卷84章证据与表演边界 |
 | [真灵问罪、私藏支脉与压天掌击](meng-duomu-spirit-accusation-hidden-inheritance-and-palm-impact.md) | 第六卷84章证据与表演边界 |
 | [仁圣分界护民与吴利用凡人界的计划](ren-sheng-two-realms-protection-and-wu-civilian-escape-plan.md) | 第六卷84章证据与表演边界 |
@@ -1212,3 +1216,5 @@
 最新[第六卷83章复核](../reviews/review-v06-0083.md)与[状态账](../reviews/ledger-v06-0083.md)：因果肉沫推算、食日照城、排兵与肉身反转。
 
 最新[第六卷84章复核](../reviews/review-v06-0084.md)与[状态账](../reviews/ledger-v06-0084.md)：真灵问罪掌破、多目重创、诸圣分界与魔种声东击西。
+
+最新[第六卷85章复核](../reviews/review-v06-0085.md)与[状态账](../reviews/ledger-v06-0085.md)：求救暴露、气圣逼种与平民伤亡、霸王救吴、帝袍未知。
