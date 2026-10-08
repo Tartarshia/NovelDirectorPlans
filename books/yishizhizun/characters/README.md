@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷77章
+# 角色阶段索引 · 截至第六卷78章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–77章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–78章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [江东盟约：强者自律及紧急现实边界](jiangdong-covenant-restraint-emergency-and-coercion.md) | 第六卷78章证据与表演边界 |
+| [中古仁圣：同心偶远声与草庐不在](ren-sheng-medieval-remote-voice-and-missing-host.md) | 第六卷78章证据与表演边界 |
+| [同心偶、暂失效的联络器与新来遮掩](tongxin-puppet-communication-and-ascension-cover.md) | 第六卷78章证据与表演边界 |
+| [魔剑天王闯入与隔界之斗待证](mojian-tianwang-arrival-and-isolated-battle-question.md) | 第六卷78章证据与表演边界 |
 | [任孟指剑试传与借大能来历](ren-meng-finger-sword-test-and-borrowed-hidden-lineage.md) | 第六卷77章证据与表演边界 |
 | [吴道明魔皇九转与十八日消息](wu-daoming-nine-transformations-eighteen-days-ren-report.md) | 第六卷77章证据与表演边界 |
 | [刀鸣、跨时随身与小改历史的风险](blade-chime-ubiquity-and-small-history-change-risk.md) | 第六卷77章证据与表演边界 |
@@ -1170,3 +1174,5 @@
 最新[第六卷76章复核](../reviews/review-v06-0076.md)与[状态账](../reviews/ledger-v06-0076.md)：罗城寻何、任秋水当前与未来分层、七剑归纳和绝仙截天识认。
 
 最新[第六卷77章复核](../reviews/review-v06-0077.md)与[状态账](../reviews/ledger-v06-0077.md)：指试绝仙截天、任述吴九转十八日、绝刀鸣与世界线风险。
+
+最新[第六卷78章复核](../reviews/review-v06-0078.md)与[状态账](../reviews/ledger-v06-0078.md)：盟约现实边界、同心偶远声、寻人方案与草庐遇袭。

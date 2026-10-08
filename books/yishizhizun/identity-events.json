@@ -1,7 +1,295 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0077",
+  "through_chapter": "v06-c0078",
   "events": [
+    {
+      "type": "actual_offers_help_with_wu",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0002",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_declines_help_unknown_trust_and_limited_relative_power",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0003",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_how_find_uncontactable_friend",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0004",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_suggests_tomorrow_xin_lecture",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0005",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "goal_boundary": "tomorrow_lecture_heqi_reunion_plan_not_executed_communicator_not_destroyed"
+    },
+    {
+      "type": "actual_good_method_then_inner_heqi_reunion_plan_not_met",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0006",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "goal_boundary": "tomorrow_lecture_heqi_reunion_plan_not_executed_communicator_not_destroyed"
+    },
+    {
+      "type": "source_communicator_temporarily_ineffective_cross_time_chaotic_causality",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0006",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "goal_boundary": "tomorrow_lecture_heqi_reunion_plan_not_executed_communicator_not_destroyed"
+    },
+    {
+      "type": "actual_takes_brown_selflikeness_puppet",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0007",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_name",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0008",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_reports_su_meng_name_inner_gourd_joke_not_actual_threat",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0009",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_if_willing_righteous",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0010",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_reports_rensheng_responsibility_principle",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0013",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_reports_jiangdong_covenant_voluntary_battle_isolation",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0017",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_emergency_exception",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0018",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_self_preservation_exception_lower_voice",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0019",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_demonic_coercion_problem",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0021",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_acknowledges_hostage_cases_and_greater_loss_exception",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0022",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_praises_rensheng",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0023",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_overlord_not_sign",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0025",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_overlord_did_not_sign_report",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0027",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_invites_visit_and_sign",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0029",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "goal_boundary": "visit_to_sign_accepted_covenant_not_yet_signed"
+    },
+    {
+      "type": "actual_agrees_visit_not_signature_completed",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0030",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "goal_boundary": "visit_to_sign_accepted_covenant_not_yet_signed"
+    },
+    {
+      "type": "inner_future_return_contact_motivation",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0031",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_operates_puppet",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0032",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_remote_puppet_voice_asks_wu_encounter",
+      "entity": "ren_sheng",
+      "reference": "v06-c0078:p0033",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "ren_sheng_remote_voice_via_tongxin_puppet_not_puppet_personality",
+      "identity_boundary": "medieval_ren_sheng_not_rensheng_dijun"
+    },
+    {
+      "type": "actual_denies_wu_encounter_introduces_new_fashen",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0037",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_ascension_origin_used_as_excuse_now_covers_meng",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0038",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "ascension_excuse_not_true_origin_confirmed"
+    },
+    {
+      "type": "actual_remote_invitation_voice_within_one_zhang",
+      "entity": "ren_sheng",
+      "reference": "v06-c0078:p0039",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "ren_sheng_remote_voice_via_tongxin_puppet_not_puppet_personality",
+      "identity_boundary": "medieval_ren_sheng_not_rensheng_dijun"
+    },
+    {
+      "type": "actual_names_tongxin_puppet_qisheng_shusheng_coauthors",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0042",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_leads_meng_out_luocheng_to_academy",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0044",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_absent_from_hut_despite_recent_call",
+      "entity": "ren_sheng",
+      "reference": "v06-c0078:p0045",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_sword_light_reveals_empty_room",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0048",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_enters_and_searches",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0049",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_reports_no_battle_traces",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0050",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_rensheng_near_legend_rank_assessment",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0051",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "rank_assessment_or_battle_mechanism_hypothesis_not_current_legend_or_two_kings_and_map_confirmed"
+    },
+    {
+      "type": "actual_suggests_isolated_battle_hypothesis",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0052",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "rank_assessment_or_battle_mechanism_hypothesis_not_current_legend_or_two_kings_and_map_confirmed"
+    },
+    {
+      "type": "actual_forced_pull_question_lixian_sword_ready",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0054",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "rank_assessment_or_battle_mechanism_hypothesis_not_current_legend_or_two_kings_and_map_confirmed"
+    },
+    {
+      "type": "actual_jiuyou_map_two_kings_possible_not_observed",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0055",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "rank_assessment_or_battle_mechanism_hypothesis_not_current_legend_or_two_kings_and_map_confirmed"
+    },
+    {
+      "type": "source_two_former_kings_among_four_guards_one_has_died",
+      "entity": "demonic_six_kings",
+      "reference": "v06-c0078:p0057",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "six_kings_distinct_from_four_guards_two_overlap_one_overlap_dead_survivor_unnamed"
+    },
+    {
+      "type": "inner_all_demons_rescue_wu_question_not_confirmed",
+      "entity": "meng_qi",
+      "reference": "v06-c0078:p0058",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "rank_assessment_or_battle_mechanism_hypothesis_not_current_legend_or_two_kings_and_map_confirmed"
+    },
+    {
+      "type": "actual_blown_open_by_snowstorm",
+      "entity": "hut_door",
+      "reference": "v06-c0078:p0058",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "rank_assessment_or_battle_mechanism_hypothesis_not_current_legend_or_two_kings_and_map_confirmed"
+    },
+    {
+      "type": "actual_blackrobe_snake_black_sword_arrival_identified_by_ren",
+      "entity": "mojian_tianwang",
+      "reference": "v06-c0078:p0059",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "identified_by_ren_private_report_no_true_name_or_exact_rank",
+      "action_boundary": "threat_not_sacrifice_success"
+    },
+    {
+      "type": "actual_disparages_two_juniors",
+      "entity": "mojian_tianwang",
+      "reference": "v06-c0078:p0060",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "identified_by_ren_private_report_no_true_name_or_exact_rank",
+      "action_boundary": "threat_not_sacrifice_success"
+    },
+    {
+      "type": "actual_threatens_sword_sacrifice_not_executed",
+      "entity": "mojian_tianwang",
+      "reference": "v06-c0078:p0061",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "identified_by_ren_private_report_no_true_name_or_exact_rank",
+      "action_boundary": "threat_not_sacrifice_success"
+    },
+    {
+      "type": "actual_private_transmission_identifies_mojian_tianwang",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0078:p0063",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "private_transmission_to_meng_not_public_speech"
+    },
     {
       "type": "source_bahuang_jietian_origin_rumor_no_evidence",
       "entity": "narrator",
