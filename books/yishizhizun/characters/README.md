@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷93章
+# 角色阶段索引 · 截至第六卷94章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–93章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–94章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [阿难五德念珠、轮回印推认与条件护持](ananda-fivevirtue-beads-reincarnation-seal-and-conditional-protection.md) | 第六卷94章证据与表演边界 |
+| [灵山旧记、抽取历史转述与孟奇的坦诚调整](bi-lingshan-ancestor-report-time-extraction-and-meng-honesty.md) | 第六卷94章证据与表演边界 |
+| [云阶入遗迹、韩广现身与宣阳假孟的自我欲望](cloud-stairs-ruins-han-arrival-and-xuanyang-impostor-agency.md) | 第六卷94章证据与表演边界 |
 | [天庭遗迹的旧记、自隐疑问与寻归动机](heaven-ruins-ancient-record-hidden-treasure-and-return-intent.md) | 第六卷93章证据与表演边界 |
 | [三霄传承、混元金斗确名与玉虚旧怨风险](bi-sanxiao-lineage-hunyuan-jindou-and-yuxu-grievance-warning.md) | 第六卷93章证据与表演边界 |
 | [阿难到玉皇山：历史烙印与当下未明之处](ananda-yuhuang-arrival-historical-imprint-not-freed-mofo.md) | 第六卷93章证据与表演边界 |
@@ -1265,3 +1268,5 @@
 最新[第六卷92章复核](../reviews/review-v06-0092.md)与[状态账](../reviews/ledger-v06-0092.md)：家训拟立、互验真假、碧伤消息与同写天帝；宣阳报告真伪未解。
 
 最新[第六卷93章复核](../reviews/review-v06-0093.md)与[状态账](../reviews/ledger-v06-0093.md)：遗迹归途、混元金斗与三霄私仇警告，阿难历史烙印实至。
+
+最新[第六卷94章复核](../reviews/review-v06-0094.md)与[状态账](../reviews/ledger-v06-0094.md)：阿难带路、抽史转述、孟补警告、韩广入遗迹与宣阳假孟。
