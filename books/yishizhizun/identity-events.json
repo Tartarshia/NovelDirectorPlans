@@ -1,7 +1,281 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0049",
+  "through_chapter": "v06-c0050",
   "events": [
+    {
+      "type": "lu_da_leaf_invitation_world_vision",
+      "entity": "lu_da",
+      "reference": "v06-c0050:p0004",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "leaf_world_and_invitation_burn_no_external_world_destroyed",
+      "entity": "lu_da",
+      "reference": "v06-c0050:p0006",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "lu_da_actual_open_world_in_leaf_murmur",
+      "entity": "lu_da",
+      "reference": "v06-c0050:p0007",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_luda_touches_heavenimmortal_threshold_not_rank",
+      "entity": "lu_da",
+      "reference": "v06-c0050:p0009",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "rank_boundary": "luda_threshold_touched_not_formal_heavenimmortal_advance"
+    },
+    {
+      "type": "source_winter_solstice_months_away_invitation_posture",
+      "entity": "external_or_narrator",
+      "reference": "v06-c0050:p0010",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "su_wuming_silent_leaf_invitation_burn",
+      "entity": "su_wuming",
+      "reference": "v06-c0050:p0011",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_invitations_trackable_worth_inviting_fashen_not_everyone",
+      "entity": "external_or_narrator",
+      "reference": "v06-c0050:p0012",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_jinao_apparent_return_mechanism_unknown",
+      "entity": "jinao_island",
+      "reference": "v06-c0050:p0013",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_auxiliaries_from_treasury_and_equal_exchange",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0016",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_enters_lihuo_hall_cauldron_scene",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0017",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "source_attendant_jinwu_chaosheng_cauldron_heavenimmortal_crafting_and_balance_account",
+      "entity": "jinwu_chaosheng_cauldron",
+      "reference": "v06-c0050:p0018",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "fan_eight_elders_actual_instruction_deep_fragment_melting",
+      "entity": "fan_lishuang",
+      "reference": "v06-c0050:p0019",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_force_consciousness_wrap_fragments_fan_unseals",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0020",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_consciousness_force_double_inside_cauldron",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0022",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "force_and_consciousness_double_enters_first_true_body_outside_until_p35"
+    },
+    {
+      "type": "meng_inner_identifies_legend_jinwu_corpse_unknown_name",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0026",
+      "fact_status": "character_inner_recognition_question_plan_or_selfassessment_not_all_objective_confirmation_or_executed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "source_meng_recognition_experience_support",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0028",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_double_blade_light_crosses_flames",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0030",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_double_force_burns_consciousness_heat",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0031",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_double_chaos_change_swallow_fire",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0032",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_double_chaos_cracks_cannot_final_layer",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0034",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_true_body_causal_swap_and_qingyun_enters_final_flames",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0035",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "source_qingyun_mirror_core_hit_and_rakshasa_body_comparison",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0036",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_actual_return_void_force_push_three_fragments_deeper",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0037",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_swaps_true_body_out_double_burned_not_body_dead",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0038",
+      "fact_status": "actual_true_body_exits_via_second_swap_double_force_consciousness_burned_not_meng_dead",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "meng_actual_cough_eye_heat_reports_delivery",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0039",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "fan_elders_actual_unnecessary_so_deep_reply",
+      "entity": "fan_and_jinwu_elders_group",
+      "reference": "v06-c0050:p0040",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "fan_elders_inner_49day_option_and_rank_method_questions",
+      "entity": "fan_and_jinwu_elders_group",
+      "reference": "v06-c0050:p0041",
+      "fact_status": "character_inner_recognition_question_plan_or_selfassessment_not_all_objective_confirmation_or_executed"
+    },
+    {
+      "type": "meng_actual_is_it_wrong_inner_crafting_concern",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0045",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "fan_actual_correct_sevenday_melting_expectation",
+      "entity": "fan_lishuang",
+      "reference": "v06-c0050:p0046",
+      "fact_status": "fan_actual_future_sevenday_melt_estimate_not_completed_or_new_sword_forged"
+    },
+    {
+      "type": "meng_actual_or_inner_relief",
+      "entity": "meng_qi",
+      "reference": "v06-c0050:p0048",
+      "fact_status": "character_inner_recognition_question_plan_or_selfassessment_not_all_objective_confirmation_or_executed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_true_body_and_force_consciousness_double_distinct_not_new_person"
+    },
+    {
+      "type": "huo_inner_meng_trouble_and_contact_danger",
+      "entity": "huo_lishang",
+      "reference": "v06-c0050:p0052",
+      "fact_status": "character_inner_recognition_question_plan_or_selfassessment_not_all_objective_confirmation_or_executed",
+      "embodiment": "true_huo_injured_partial_outerlandscape_capacity_not_formal_rank_reset"
+    },
+    {
+      "type": "huo_explicit_abandons_steward_contact_plan",
+      "entity": "huo_lishang",
+      "reference": "v06-c0050:p0053",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "true_huo_injured_partial_outerlandscape_capacity_not_formal_rank_reset"
+    },
+    {
+      "type": "huo_inner_outerlandscape_wealth_medicine_recovery_plan",
+      "entity": "huo_lishang",
+      "reference": "v06-c0050:p0054",
+      "fact_status": "character_inner_recognition_question_plan_or_selfassessment_not_all_objective_confirmation_or_executed",
+      "embodiment": "true_huo_injured_partial_outerlandscape_capacity_not_formal_rank_reset"
+    },
+    {
+      "type": "huo_actual_sets_out_not_yet_recovered",
+      "entity": "huo_lishang",
+      "reference": "v06-c0050:p0056",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "true_huo_injured_partial_outerlandscape_capacity_not_formal_rank_reset"
+    },
+    {
+      "type": "xu_again_sees_envoy",
+      "entity": "xu_bei",
+      "reference": "v06-c0050:p0058",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "envoy_actual_cancels_yedi_hunt",
+      "entity": "jinao_envoy",
+      "reference": "v06-c0050:p0059",
+      "fact_status": "actual_hunt_cancellation_order_huo_not_informed"
+    },
+    {
+      "type": "xu_actual_what_changed",
+      "entity": "xu_bei",
+      "reference": "v06-c0050:p0060",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "envoy_actual_islandmaster_invites_fashen_winter_including_yedi",
+      "entity": "jinao_envoy",
+      "reference": "v06-c0050:p0061",
+      "fact_status": "envoy_actual_islandmaster_invitation_account_not_islandmaster_live_speech_or_huo_received_invite"
+    },
+    {
+      "type": "huo_shiver_selfattributes_fashen_damage_unaware_cancellation",
+      "entity": "huo_lishang",
+      "reference": "v06-c0050:p0062",
+      "fact_status": "character_inner_recognition_question_plan_or_selfassessment_not_all_objective_confirmation_or_executed",
+      "embodiment": "true_huo_injured_partial_outerlandscape_capacity_not_formal_rank_reset"
+    },
     {
       "type": "huo_false_denial_first_line_same_previous_event",
       "entity": "huo_lishang",
