@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷57章
+# 角色阶段索引 · 截至第六卷58章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–57章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–58章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [钱平安：生计、便宜茶与江湖故事听众](qian-pingan-rice-clerk-livelihood-and-jingshen-story-audience.md) | 第六卷58章当前证据与表演边界 |
+| [高浮沉与任兄：名声压力下的江湖自制](gao-fuchen-public-reputation-restraint-and-ren-companion.md) | 第六卷58章当前证据与表演边界 |
+| [茶铺说书先生：识字媒介、连载与历史叙事层](teashop-storyteller-newspaper-serialization-and-reported-history.md) | 第六卷58章当前证据与表演边界 |
+| [报纸江湖：物流、名声约束与认知实验的实效](newspaper-public-figures-and-cognition-feedback-through-audiences.md) | 第六卷58章当前证据与表演边界 |
 | [孟奇：改传播条件的实际行动与未成的印](meng-cognition-transmission-bottleneck-and-world-environment-change.md) | 第六卷57章当前证据与表演边界 |
 | [尚九明：报业东家与剑客旧梦的错位](shang-jiuming-newspaper-owner-and-swordsman-dream-dislocation.md) | 第六卷57章当前证据与表演边界 |
 | [刘学文：武林快报总编与东家的功劳](liu-xuewen-wulin-news-editor-and-employer-reverence.md) | 第六卷57章当前证据与表演边界 |
@@ -1058,3 +1062,5 @@
 最新[第六卷56章复核](../reviews/review-v06-0056.md)与[状态账](../reviews/ledger-v06-0056.md)：梦授明源、丘叶败亡与虚拟他我初想，S11继续。
 
 最新[第六卷57章复核](../reviews/review-v06-0057.md)与[状态账](../reviews/ledger-v06-0057.md)：改传播环境、未来视景与一年后报业，S11继续。
+
+最新[第六卷58章复核](../reviews/review-v06-0058.md)与[状态账](../reviews/ledger-v06-0058.md)：报纸奇妙江湖、连载听众与认知反馈，S11继续。
