@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第56章，983 / 1410 个目录条目，约321.1万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第57章，984 / 1410 个目录条目，约321.3万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第57章复核](books/yishizhizun/reviews/review-v06-0057.md)：改传播环境、未来视景与一年后报业，48段、58句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0057.md)。
 - [第六卷第56章复核](books/yishizhizun/reviews/review-v06-0056.md)：梦授明源、丘叶败亡与虚拟他我初想，73段、88句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0056.md)。
 - [第六卷第55章复核](books/yishizhizun/reviews/review-v06-0055.md)：师徒夺偶慈贪、同化危机与翻背试验，70段、100句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0055.md)。
 - [第六卷第54章复核](books/yishizhizun/reviews/review-v06-0054.md)：神识附偶、雨庙四书与百年传闻，67段、97句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0054.md)。
