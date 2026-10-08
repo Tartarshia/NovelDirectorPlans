@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷62章
+# 角色阶段索引 · 截至第六卷63章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–62章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–63章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [霍离殇：近龙验实、面具黑影与石像变化](huo-dragon-test-face-shadow-and-changing-statue.md) | 第六卷63章当前证据与表演边界 |
+| [韩广：钟碎共鸣、错时九婴与另一六指身影](han-bell-resonance-nine-infant-time-and-second-likeness.md) | 第六卷63章当前证据与表演边界 |
+| [孟奇：有限指向、摘星楼与毫毛分身消融](meng-star-tower-reflection-pig-stomach-and-hair-double-swap.md) | 第六卷63章当前证据与表演边界 |
+| [三处同貌未解与苏妲己初次问安](three-unresolved-likenesses-and-su-daji-first-greeting.md) | 第六卷63章当前证据与表演边界 |
 | [海外回归：两群人数、五地仙与观察边界](overseas-return-two-groups-and-five-earth-immortals.md) | 第六卷62章当前证据与表演边界 |
 | [金鳌洪荒碎片：禽兽显形与深宫警告](jinao-primordial-fragment-beasts-and-biyou-warning.md) | 第六卷62章当前证据与表演边界 |
 | [洪荒三层潜行：霍本尊、韩阎魔化身与孟本尊](huo-han-and-meng-three-covert-bodies-in-primordial-night.md) | 第六卷62章当前证据与表演边界 |
@@ -1086,3 +1090,5 @@
 最新[第六卷61章复核](../reviews/review-v06-0061.md)与[状态账](../reviews/ledger-v06-0061.md)：云阶试探、两线赴宴与玄鸟建筑，S12自61起。
 
 最新[第六卷62章复核](../reviews/review-v06-0062.md)与[状态账](../reviews/ledger-v06-0062.md)：海外回归、初互见与三层潜行。
+
+最新[第六卷63章复核](../reviews/review-v06-0063.md)与[状态账](../reviews/ledger-v06-0063.md)：探楼换位、三同貌与苏妲己初问安。
