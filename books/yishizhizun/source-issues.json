@@ -3,6 +3,16 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "ming-canyue-v06-c0080",
+      "kind": "possible_extra_character",
+      "evidence": [
+        "v06-c0080:p0049"
+      ],
+      "source_word": "明残月",
+      "state": "unresolved_source_issue",
+      "director_handling": "疑多一明，保原字与偏移，按抬头望残月动作理解，不另造光源或时间跳转。"
+    },
+    {
       "id": "fenshu-v06-c0079",
       "kind": "possible_wrong_character",
       "evidence": [
@@ -16,11 +26,12 @@
       "id": "riyue-shuangbi-v06-c0078",
       "kind": "possible_wrong_character",
       "evidence": [
-        "v06-c0078:p0056"
+        "v06-c0078:p0056",
+        "v06-c0080:p0031"
       ],
       "source_word": "日月双壁",
       "state": "unresolved_source_issue",
-      "director_handling": "疑日月双璧，保原字与偏移；仅高人名单背景，不据此补本名境界或实际登场。"
+      "director_handling": "疑日月双璧，保原字与偏移；仅高人名单背景，不据此补本名境界或实际登场。80:31同形再见，仍保原字不改。"
     },
     {
       "id": "yifu-picture-v06-c0077",

@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第六卷79章
+# 角色阶段索引 · 截至第六卷80章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–79章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–80章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [卓潮生：星眼、清水壶与剑者自信](zhuo-chaosheng-star-eyes-water-vessel-and-sword-confidence.md) | 第六卷80章证据与表演边界 |
+| [诛仙暴露、任的戒备与孟试势](ren-zhuxian-caution-and-meng-probing-hidden-lineage.md) | 第六卷80章证据与表演边界 |
+| [孟的天机遮蔽信心与月下忐忑](meng-causal-obscurity-confidence-and-moonlit-unease.md) | 第六卷80章证据与表演边界 |
+| [七剑点评传名、宗门面子与邀评意向](sword-ranking-publicity-sect-face-and-invitation-report.md) | 第六卷80章证据与表演边界 |
+| [乾坤二剑代称与人皇遗剑补榜](qiankun-sword-labels-and-human-emperor-legacy-art.md) | 第六卷80章证据与表演边界 |
 | [孟奇五色借力破界与引援选择](meng-borrowed-force-five-colour-ring-and-public-rescue.md) | 第六卷79章证据与表演边界 |
 | [任秋水初地、碧月来历与心身共袭](ren-earth-rank-biyue-gift-and-mind-body-sword-attack.md) | 第六卷79章证据与表演边界 |
 | [心圣无距离掌与未名六指黑掌](xin-sheng-palm-and-unnamed-six-finger-counter.md) | 第六卷79章证据与表演边界 |
@@ -1182,3 +1187,5 @@
 最新[第六卷78章复核](../reviews/review-v06-0078.md)与[状态账](../reviews/ledger-v06-0078.md)：盟约现实边界、同心偶远声、寻人方案与草庐遇袭。
 
 最新[第六卷79章复核](../reviews/review-v06-0079.md)与[状态账](../reviews/ledger-v06-0079.md)：借力引援、仁圣风趣签约、任初地与末剑法承认。
+
+最新[第六卷80章复核](../reviews/review-v06-0080.md)与[状态账](../reviews/ledger-v06-0080.md)：任收情戒备、孟试势与天机信心、卓清水壶与七剑点评后果。
