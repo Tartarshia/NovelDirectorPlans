@@ -1,7 +1,380 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0044",
+  "through_chapter": "v06-c0045",
   "events": [
+    {
+      "type": "attendants_senses_confused_by_ship_host",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0045:p0001",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "liushang_inner_true_huo_return_question",
+      "entity": "liushang",
+      "reference": "v06-c0045:p0004",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "yunyue_inner_attributes_power_to_mask",
+      "entity": "yunyue",
+      "reference": "v06-c0045:p0005",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "youhu_inner_prior_huo_chidi_earthimmortal_battle_memory",
+      "entity": "youhu",
+      "reference": "v06-c0045:p0006",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "youhu_inner_who_and_taiyi_questions",
+      "entity": "youhu",
+      "reference": "v06-c0045:p0007",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "source_ship_host_is_meng_now_confirmed",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0009",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang",
+      "identity_resolution": {
+        "prior_actor_id": "unknown_yedi_ship_whiteclothed_presence",
+        "resolved_actor_id": "meng_qi",
+        "prior_references": [
+          "v06-c0044:p0058"
+        ],
+        "knowledge_scope": "confirmed_now_by_source_meng_name_not_attendants_already_knew"
+      }
+    },
+    {
+      "type": "youhu_inner_fears_huo_return_impossible",
+      "entity": "youhu",
+      "reference": "v06-c0045:p0011",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "xu_actual_notes_changed_yedi",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0012",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "yedi_daheitian_method_and_two_origin_reports",
+      "entity": "huo_lishang",
+      "reference": "v06-c0045:p0013",
+      "fact_status": "method_background_with_two_reported_origin_versions_not_unique_deity_origin_verified"
+    },
+    {
+      "type": "xu_inner_night_gone_breakthrough_or_method_question",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0014",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "meng_source_chaos_host_identity_confirmed",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0017",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "meng_actual_all_sources_return_home",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0018",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_focal_reinterprets_prior_huo_home_words",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0019",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "xu_inner_home_method_stage_guess",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0020",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "meng_actual_seat_invitation",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0022",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "meng_uses_mask_force_with_own_chaos_not_direct_method_copy",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0023",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "meng_focal_chaos_and_words_shock_xu",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0024",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_old_fashen_earthimmortal_progress_difficult",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0025",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "rank_boundary": "old_fashen_earthimmortal_advance_difficult_not_new_earthimmortal"
+    },
+    {
+      "type": "xu_actual_direct_purpose_question",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0026",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_praises_regenerated_ghost_life",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0028",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_source_regenerated_old_ghost_actual_purpose_question",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0030",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "source_ghost_body_progress_difficulty",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0031",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_you_should_know",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0033",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_actual_leave_before_sunset",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0035",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "attendants_inner_fear_array_alliance_and_collateral",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0045:p0037",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "youhu_pulls_yunyue_before_speech",
+      "entity": "youhu",
+      "reference": "v06-c0045:p0042",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "youhu_cautious_headshake",
+      "entity": "youhu",
+      "reference": "v06-c0045:p0043",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "youhu_attempted_private_warning_blocked",
+      "entity": "youhu",
+      "reference": "v06-c0045:p0044",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "channel": "attempted_private_message_blocked_no_verbatim_content",
+      "recipient": "xu_bei"
+    },
+    {
+      "type": "meng_inner_how_many_elders_share_secret",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0045",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "meng_actual_if_not_leave",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0046",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "attendants_inner_shock_not_actual_blast",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0045:p0047",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "attendants_mouth_power_motion_restricted",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0045:p0048",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xu_actual_try_it",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0049",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xu_black_ice_and_island_ghost_cries",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0050",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_inner_not_true_huo",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0051",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "meng_actual_microstructure_transformation",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0052",
+      "fact_status": "actual_material_transformation_or_transfer_not_legend_rank_achieved",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "source_real_gold_leaf_created",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0053",
+      "fact_status": "actual_material_transformation_or_transfer_not_legend_rank_achieved",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_inner_true_gold_or_legend_alchemy_guess",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0055",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "meng_flicks_goldleaf_to_xu",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0057",
+      "fact_status": "actual_material_transformation_or_transfer_not_legend_rank_achieved",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "meng_actual_invites_other_five_elders",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0058",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "xu_inner_confirms_real_gold",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0060",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "xu_leaves_no_actual_farewell",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0061",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xu_inner_revise_plan_possible_new_adventure",
+      "entity": "xu_bei",
+      "reference": "v06-c0045:p0062",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "attendants_freed_after_xu_leave",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0045:p0064",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "attendants_inner_more_frightening_and_identity_question",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0045:p0065",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "liushang_actual_five_elders_unwise_warning",
+      "entity": "liushang",
+      "reference": "v06-c0045:p0067",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_can_run_real_huo_bears_name",
+      "entity": "meng_qi",
+      "reference": "v06-c0045:p0068",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_qianhuan_disguise",
+      "embodiment": "same_meng_qi_not_true_huo_lishang"
+    },
+    {
+      "type": "attendants_inner_shock_shameless_and_future_pursuit_guess",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0045:p0070",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "huo_source_taiyi_actor_with_yin_in_abandoned_house",
+      "entity": "huo_lishang",
+      "reference": "v06-c0045:p0076",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "identity_resolution": {
+        "prior_actor_id": "unknown_taiyi_masked_intruder",
+        "resolved_actor_id": "huo_lishang",
+        "prior_references": [
+          "v06-c0044:p0064"
+        ],
+        "knowledge_scope": "continuity_confirmed_now_named_huo_with_awake_yin_not_yin_knows_huo_true_identity"
+      },
+      "surface_identity": "taiyi_tianzun_han_guang_false_role",
+      "embodiment": "same_true_fashen_huo_not_han_guang_or_rank_dropped"
+    },
+    {
+      "type": "huo_actual_understates_rank_for_role",
+      "entity": "huo_lishang",
+      "reference": "v06-c0045:p0076",
+      "fact_status": "role_understatement_not_actual_huo_below_fashen",
+      "surface_identity": "taiyi_tianzun_han_guang_false_role",
+      "embodiment": "same_true_fashen_huo_not_han_guang_or_rank_dropped"
+    },
+    {
+      "type": "huo_shivers_suspects_bad_event",
+      "entity": "huo_lishang",
+      "reference": "v06-c0045:p0077",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_inner_current_yedi_meng_did_what",
+      "entity": "huo_lishang",
+      "reference": "v06-c0045:p0078",
+      "fact_status": "character_inner_memory_or_inference_not_current_battle_identity_rank_or_future_outcome_certified"
+    },
+    {
+      "type": "yin_awake_alive_actual_waited_for_investigation",
+      "entity": "yin_feilong",
+      "reference": "v06-c0045:p0079",
+      "fact_status": "yin_awake_alive_and_actual_investigation_bait_claim_no_soulsearch_result_or_full_secret_confession"
+    },
     {
       "type": "yin_inner_uncertain_secret_or_bluff",
       "entity": "yin_feilong",

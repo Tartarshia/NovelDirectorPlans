@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第44章，971 / 1410 个目录条目，约317.3万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第45章，972 / 1410 个目录条目，约317.6万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第45章复核](books/yishizhizun/reviews/review-v06-0045.md)：混沌话术、真金震退、幽湖私传受阻与真霍殷醒，79段、103句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0045.md)。
 - [第六卷第44章复核](books/yishizhizun/reviews/review-v06-0044.md)：真实界诱试、阴祖登船与太乙面具人悬念，68段、103句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0044.md)。
 - [第六卷第43章复核](books/yishizhizun/reviews/review-v06-0043.md)：阴祖派胡殷探问、孟停船加压与霍府外实查，54段、86句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0043.md)。
 - [第六卷第42章复核](books/yishizhizun/reviews/review-v06-0042.md)：实戴千幻、流裳独诉与冷漠评价、驾临十绝几日停船，70段、104句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0042.md)。

@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷44章
+# 角色阶段索引 · 截至第六卷45章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–44章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–45章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [混沌演夜帝与真实金叶：能力和境界分开](meng-chaos-performance-and-real-goldleaf-not-legend-rank.md) | 第六卷45章当前证据与表演边界 |
+| [幽湖的敏锐、恐惧与失败私传](youhu-sensory-fear-and-blocked-private-warning.md) | 第六卷45章当前证据与表演边界 |
+| [真霍太乙角色、殷苏醒与诱查回应](huo-taiyi-role-yin-awake-and-investigation-bait.md) | 第六卷45章当前证据与表演边界 |
 | [真实界解释与殷飞龙的知秘误判](meng-realrealm-explanation-and-yin-secret-misreading.md) | 第六卷44章当前证据与表演边界 |
 | [借力限制、侍妾忧虑与阴祖登船](yedi-attendants-limited-borrowed-power-and-xu-arrival.md) | 第六卷44章当前证据与表演边界 |
 | [殷府太乙面具人与黑暗悬念](yin-feilong-taiyi-intruder-and-darkness-cliffhanger.md) | 第六卷44章当前证据与表演边界 |
@@ -991,3 +994,5 @@
 最新[第六卷43章复核](../reviews/review-v06-0043.md)与[状态账](../reviews/ledger-v06-0043.md)，阴祖派胡殷、孟停船加压与模糊反问、霍假韩名府外实查；S10继续。
 
 最新[第六卷44章复核](../reviews/review-v06-0044.md)与[状态账](../reviews/ledger-v06-0044.md)，真实界诱试知秘误判、阴祖实访与府内太乙面具悬念；S10继续。
+
+最新[第六卷45章复核](../reviews/review-v06-0045.md)与[状态账](../reviews/ledger-v06-0045.md)，船孟/太乙霍身份链明、混沌与真金威慑退徐、幽暗传失败和殷醒等查；S10继续。
