@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷48章
+# 角色阶段索引 · 截至第六卷49章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–48章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–49章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [范离双：工匠挑战、九重天与炼器条件](fan-lishuang-jinwu-crafter-terms-and-failure-boundaries.md) | 第六卷49章当前证据与表演边界 |
+| [孟奇的补偿、自我与拒放邪刀](meng-compensation-selfhood-and-mountain-whip-choice.md) | 第六卷49章当前证据与表演边界 |
+| [霍的假者故事、千幻口述与自我疑问](huo-qianhuan-inheritance-account-and-self-doubt.md) | 第六卷49章当前证据与表演边界 |
 | [金鳌使者亲临、血裔自述与夜帝追索](jinao-envoy-first-appearance-bloodline-and-yedi-hunt.md) | 第六卷48章当前证据与表演边界 |
 | [扶桑远望、乌巢介绍与天一岛炼器前置](fusang-tree-wuchao-reports-and-tianyi-crafting-approach.md) | 第六卷48章当前证据与表演边界 |
 | [楼船后手落空、找总管计划与真霍否认](huo-ship-fallback-fails-and-envoy-identity-denial.md) | 第六卷48章当前证据与表演边界 |
@@ -1011,3 +1014,5 @@
 最新[第六卷47章复核](../reviews/review-v06-0047.md)与[状态账](../reviews/ledger-v06-0047.md)，云暗送药、独立伪装、拒金鳌改炼器与船离霍扑空；S10继续。
 
 最新[第六卷48章复核](../reviews/review-v06-0048.md)与[状态账](../reviews/ledger-v06-0048.md)，遮船云海、扶桑古籍与乌巢口述、天仙使者追索真霍否认；S10继续。
+
+最新[第六卷49章复核](../reviews/review-v06-0049.md)与[状态账](../reviews/ledger-v06-0049.md)，霍假者故事千幻口述、范炼器条件与孟神鞭补偿、冬至金鳌请帖；S10继续。
