@@ -1,7 +1,343 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0046",
+  "through_chapter": "v06-c0047",
   "events": [
+    {
+      "type": "youhu_refusal_line_continues_same_event",
+      "entity": "youhu",
+      "reference": "v06-c0047:p0001",
+      "fact_status": "same_refusal_at_chapter_boundary_not_second_refusal",
+      "continuation_of": "v06-c0046:p0081"
+    },
+    {
+      "type": "youhu_turns_into_cabin_huo_shocked",
+      "entity": "youhu",
+      "reference": "v06-c0047:p0002",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_inner_ship_change_false_han_tiger_inference",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0004",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_inner_attendant_traits_and_contact_plan",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0006",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_calm_wait_at_cargo",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0009",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "yunyue_dawn_flower_arrival",
+      "entity": "yunyue",
+      "reference": "v06-c0047:p0010",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_servant_disguise_actual_calls_yunyue",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0011",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_inner_true_weak_aura_concealment",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0012",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "yunyue_actual_asks_who_are_you",
+      "entity": "yunyue",
+      "reference": "v06-c0047:p0016",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "huo_inner_true_yedi_identity_crisis",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0018",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_remembers_previous_false_yedi_shouts",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0020",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_inner_replacement_and_identity_questions",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0022",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "yunyue_covert_real_pill_delivery",
+      "entity": "yunyue",
+      "reference": "v06-c0047:p0024",
+      "fact_status": "yunyue_actual_covert_pill_delivery_youhu_previous_notice_only_huo_inference"
+    },
+    {
+      "type": "huo_receives_yeliuqingyan_pill_feigns_dejection",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0026",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_inner_expected_outerlandscape_recovery",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0027",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_inner_infers_youhu_cooperation_not_confirmed",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0029",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_inner_future_return_and_supply_exhaustion_forecast",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0030",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "meng_removes_qianhuan_studies_remote_force_law",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0035",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "meng_observes_supply_stopped_halfday_inner_curse_or_jinao_questions",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0036",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "attendants_actual_xu_arrival_report",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0047:p0037",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_real_independent_face_aura_yedi_imitation",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0038",
+      "fact_status": "actual_independent_imitation_without_qianhuan_not_new_rank_or_true_huo_body",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "yunyue_actual_stammered_gongzi",
+      "entity": "yunyue",
+      "reference": "v06-c0047:p0039",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_residual_force_study_xuangong_explanation",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0042",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "attendants_inner_last_mask_constraint_fails",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0047:p0044",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed"
+    },
+    {
+      "type": "xu_actual_asks_answer",
+      "entity": "xu_bei",
+      "reference": "v06-c0047:p0046",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_refuses_jinao_subordination",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0047",
+      "fact_status": "actual_rejected_external_membership_not_accepted",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "meng_inner_qingping_not_essential_no_need_tiger_risk",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0049",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "meng_inner_future_earth_heaven_rank_expectation_not_achieved",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0053",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "meng_considered_five_person_heavenimmortal_encirclement_not_executed",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0054",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "xu_actual_refusal_comment_and_warning",
+      "entity": "xu_bei",
+      "reference": "v06-c0047:p0055",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "xu_actual_jinao_secret_take_care",
+      "entity": "xu_bei",
+      "reference": "v06-c0047:p0056",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_reflects_xu_humanimmortal_following_makes_heaven_claim_plausible",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0058",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "xu_leaves_yunyue_actual_what_now",
+      "entity": "yunyue",
+      "reference": "v06-c0047:p0060",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "attendants_inner_possible_heavenimmortal_pursuit_fear",
+      "entity": "yedi_attendants_group",
+      "reference": "v06-c0047:p0064",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed"
+    },
+    {
+      "type": "meng_actual_tracking_difficulty_and_safety_promise",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0065",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "meng_inner_ship_return_worlds_fallback_not_executed",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0066",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "liushang_actual_counterfactual_kill_xu_suggestion",
+      "entity": "liushang",
+      "reference": "v06-c0047:p0067",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_actual_local_xu_difficult_kill_and_no_conciliation_then_crafter_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0069",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "xiapei_actual_jinwu_chidi_joint_crafting_report",
+      "entity": "xiapei",
+      "reference": "v06-c0047:p0071",
+      "fact_status": "source_action_or_account_boundary_reviewed"
+    },
+    {
+      "type": "meng_inner_yunhe_eastsea_jinwu_link_questions",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0072",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "meng_after_inquiry_more_certain_same_jinwu",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0074",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "meng_actual_sail_cloudsea_order",
+      "entity": "meng_qi",
+      "reference": "v06-c0047:p0075",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "surface_identity": "huo_lishang_yedi_independent_xuangong_disguise",
+      "embodiment": "same_meng_qi_not_true_huo"
+    },
+    {
+      "type": "huo_real_partial_initial_outerlandscape_recovery",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0077",
+      "fact_status": "actual_initial_outerlandscape_combat_recovery_not_formal_fashen_demote_or_full_healing",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_goes_dock_for_more_medicine",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0078",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_ship_absent_smile_freezes",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0079",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "huo_actual_asks_oldman_ship",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0082",
+      "fact_status": "source_action_or_account_boundary_reviewed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
+    {
+      "type": "oldman_actual_departed_hour_ago_destination_unknown",
+      "entity": "unnamed_dock_oldman",
+      "reference": "v06-c0047:p0083",
+      "fact_status": "oldman_report_ship_departed_unknown_destination_to_him_not_meng_destination_unknown"
+    },
+    {
+      "type": "huo_dock_without_ship_inner_unknown_echo",
+      "entity": "huo_lishang",
+      "reference": "v06-c0047:p0085",
+      "fact_status": "character_inner_memory_inference_plan_or_expectation_not_all_objectively_certified_or_executed",
+      "embodiment": "true_fashen_huo_with_injured_actual_combat_capacity_not_rank_reset"
+    },
     {
       "type": "yin_actual_waited_line_continues_same_previous_event",
       "entity": "yin_feilong",
