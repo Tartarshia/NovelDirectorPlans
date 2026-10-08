@@ -3,6 +3,26 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "daoxiao-zhongsheng-v06-c0082",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v06-c0082:p0022"
+      ],
+      "source_word": "刀小众生",
+      "state": "unresolved_source_issue",
+      "director_handling": "语义疑字，替换词尚未确认；保留源文本与偏移，录制前再核，不擅定更正。"
+    },
+    {
+      "id": "wudi-fangshi-v06-c0082",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v06-c0082:p0001"
+      ],
+      "source_word": "无的放失",
+      "state": "unresolved_source_issue",
+      "director_handling": "疑无的放矢，保留源文本和偏移，不静默更正。"
+    },
+    {
       "id": "chopstick-material-wording-v06-c0081",
       "kind": "continuity_wording_difference",
       "evidence": [

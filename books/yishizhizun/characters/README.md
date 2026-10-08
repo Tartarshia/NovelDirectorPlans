@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷81章
+# 角色阶段索引 · 截至第六卷82章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–81章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–82章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [五代玄女：应身显化、洒脱与爱侣秘密](wudai-xuannv-manifestation-poise-and-private-love.md) | 第六卷82章证据与表演边界 |
+| [王大娘与豆腐铺：普通探查及食物新线索](wang-daniang-tofu-shop-ordinary-probe-and-food-clue.md) | 第六卷82章证据与表演边界 |
+| [吴早死、霸王命运连锁与少干预选择](wu-early-death-overlord-fate-and-limited-intervention.md) | 第六卷82章证据与表演边界 |
+| [豆花中的暗红肉沫：观察纠偏与未解身份](tofu-bowl-dark-red-mince-observation-unresolved.md) | 第六卷82章证据与表演边界 |
 | [未名坠星剑客：白纱隔界与逆剑点评](chuixing-sword-visitor-cloth-isolation-and-reverse-evaluation.md) | 第六卷81章证据与表演边界 |
 | [何七罗城会合：名声寻人与抵达时差](heqi-luocheng-reunion-public-fame-and-arrival-offset.md) | 第六卷81章证据与表演边界 |
 | [何孟私谈改史危险与天诛斧可能庇护](heqi-meng-history-alteration-danger-and-axe-protection-possibility.md) | 第六卷81章证据与表演边界 |
@@ -1195,3 +1199,5 @@
 最新[第六卷80章复核](../reviews/review-v06-0080.md)与[状态账](../reviews/ledger-v06-0080.md)：任收情戒备、孟试势与天机信心、卓清水壶与七剑点评后果。
 
 最新[第六卷81章复核](../reviews/review-v06-0081.md)与[状态账](../reviews/ledger-v06-0081.md)：坠星隔界逆剑、何七实际会合、时差改史私谈与云鹤豆腐铺线索。
+
+最新[第六卷82章复核](../reviews/review-v06-0082.md)与[状态账](../reviews/ledger-v06-0082.md)：实际王铺探查、玄女应身与爱侣秘密、肉沫观察未解。
