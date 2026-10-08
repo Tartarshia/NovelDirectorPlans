@@ -3,6 +3,26 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "fuhorror-v06-c0055",
+      "kind": "possible_missing_character",
+      "evidence": [
+        "v06-c0055:p0003"
+      ],
+      "source_word": "构成了副",
+      "state": "unresolved_source_issue",
+      "director_handling": "疑漏一为构成了一副，保源不自动校改。"
+    },
+    {
+      "id": "mengdi-breath-v06-c0055",
+      "kind": "possible_missing_character",
+      "evidence": [
+        "v06-c0055:p0006"
+      ],
+      "source_word": "猛地了口气",
+      "state": "unresolved_source_issue",
+      "director_handling": "疑漏松或吐等谓语，不能唯一复原；保源。"
+    },
+    {
       "id": "muna-unnamed-youth-v06-c0054",
       "kind": "possible_character_typo",
       "evidence": [
