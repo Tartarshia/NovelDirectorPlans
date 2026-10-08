@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷83章
+# 角色阶段索引 · 截至第六卷84章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–83章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–84章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [吴道明：孩童显形、凡人魔种与声东击西](wu-daoming-child-and-parasitic-customer-diversion.md) | 第六卷84章证据与表演边界 |
+| [真灵问罪、私藏支脉与压天掌击](meng-duomu-spirit-accusation-hidden-inheritance-and-palm-impact.md) | 第六卷84章证据与表演边界 |
+| [仁圣分界护民与吴利用凡人界的计划](ren-sheng-two-realms-protection-and-wu-civilian-escape-plan.md) | 第六卷84章证据与表演边界 |
+| [图上三王、未名唤鬼者与六指接引魔影](map-three-kings-ghost-caller-and-six-finger-rescuer-unidentified.md) | 第六卷84章证据与表演边界 |
 | [多目天王：预设排兵规则与肉身反转](duomu-tianwang-isolated-world-weapon-exclusion-and-body-reversal.md) | 第六卷83章证据与表演边界 |
 | [天狗食日、心圣照城与隔界知情](heavenly-dog-eclipse-xin-sheng-light-and-knowledge-separation.md) | 第六卷83章证据与表演边界 |
 | [离仙弹出、任秋水忧急与开界尝试](meng-ren-heqi-weapon-ejection-and-rescue-attempt.md) | 第六卷83章证据与表演边界 |
@@ -1206,3 +1210,5 @@
 最新[第六卷82章复核](../reviews/review-v06-0082.md)与[状态账](../reviews/ledger-v06-0082.md)：实际王铺探查、玄女应身与爱侣秘密、肉沫观察未解。
 
 最新[第六卷83章复核](../reviews/review-v06-0083.md)与[状态账](../reviews/ledger-v06-0083.md)：因果肉沫推算、食日照城、排兵与肉身反转。
+
+最新[第六卷84章复核](../reviews/review-v06-0084.md)与[状态账](../reviews/ledger-v06-0084.md)：真灵问罪掌破、多目重创、诸圣分界与魔种声东击西。
