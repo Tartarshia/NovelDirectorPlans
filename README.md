@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第47章，974 / 1410 个目录条目，约318.3万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第48章，975 / 1410 个目录条目，约318.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第48章复核](books/yishizhizun/reviews/review-v06-0048.md)：遮船到云海、扶桑古籍与天仙追索真霍否认，78段、107句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0048.md)。
 - [第六卷第47章复核](books/yishizhizun/reviews/review-v06-0047.md)：暗送药、独立伪装、拒金鳌改炼器与霍扑空，85段、119句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0047.md)。
 - [第六卷第46章复核](books/yishizhizun/reviews/review-v06-0046.md)：霍毒伤与殷元神崩灭、金鳌口述及幽湖拒换，82段、115句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0046.md)。
 - [第六卷第45章复核](books/yishizhizun/reviews/review-v06-0045.md)：混沌话术、真金震退、幽湖私传受阻与真霍殷醒，79段、103句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0045.md)。
