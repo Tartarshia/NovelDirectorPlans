@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷87章
+# 角色阶段索引 · 截至第六卷88章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–87章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–88章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [方寒镜：天海掌门与体面认输后的中肯点评](fang-hanjing-tianhai-master-endurance-and-dignified-concession.md) | 第六卷88章证据与表演边界 |
+| [陈月琪与林怡：同路示范和因果轻格中的尊敬变化](chen-yueqi-yaoguang-light-rain-and-lin-yi-causal-instruction.md) | 第六卷88章证据与表演边界 |
+| [换经具体提案、秘籍形式许可与昆仑守密](ren-exchange-offer-manual-copy-and-kunlun-location-withheld.md) | 第六卷88章证据与表演边界 |
+| [微细控制的观者推测与八九阴阳恢复实证](microcontrol-crowd-inference-and-bajiu-yinyang-recovery.md) | 第六卷88章证据与表演边界 |
 | [汤文远：送柬人确名与被拒的人仙挑战](tang-wenyuan-luoxing-messenger-and-rejected-challenge.md) | 第六卷87章证据与表演边界 |
 | [五派落伽山代表与临时洞天](five-sect-luojia-representatives-and-temporary-arena.md) | 第六卷87章证据与表演边界 |
 | [王文正：星斗剑法败于点评，明悟与沮丧并存](wang-wenzheng-star-array-critique-and-limited-defeat.md) | 第六卷87章证据与表演边界 |
@@ -1231,3 +1235,5 @@
 最新[第六卷86章复核](../reviews/review-v06-0086.md)与[状态账](../reviews/ledger-v06-0086.md)：死亡收剑与轻修正、截教交流未成、五派请柬；S13收75–85，S14自86起。
 
 最新[第六卷87章复核](../reviews/review-v06-0087.md)与[状态账](../reviews/ledger-v06-0087.md)：汤文远确名、五派点评、强阵消耗与出风头自白。
+
+最新[第六卷88章复核](../reviews/review-v06-0088.md)与[状态账](../reviews/ledger-v06-0088.md)：三派点评完成、巅峰恢复、换经提案与昆仑守密。
