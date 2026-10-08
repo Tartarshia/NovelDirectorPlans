@@ -1,7 +1,293 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0078",
+  "through_chapter": "v06-c0079",
   "events": [
+    {
+      "type": "source_taishi_sword_current_accomplished_user",
+      "entity": "mojian_tianwang",
+      "reference": "v06-c0079:p0002",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_veteran_heaven_rank_later_overlord_death_not_current",
+      "entity": "mojian_tianwang",
+      "reference": "v06-c0079:p0003",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "timeline_boundary": "veteran_heaven_current_overlord_final_kill_future_not_this_fight"
+    },
+    {
+      "type": "inner_future_history_advantage_divination_joke",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0006",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_human_heaven_gap_flee_with_heaven_lixian_not_rank_advance",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0007",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "rank_boundary": "meng_still_human_cannot_fully_bridge_heaven_gap_counterfactual_psychological_seed_not_yet_formed"
+    },
+    {
+      "type": "inner_overlord_failure_seed_not_yet_available_counterfactual_kill",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0008",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "rank_boundary": "meng_still_human_cannot_fully_bridge_heaven_gap_counterfactual_psychological_seed_not_yet_formed"
+    },
+    {
+      "type": "actual_draws_biyue_sword",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0079:p0012",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_explicit_new_earth_rank",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0079:p0013",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "rank_boundary": "ren_newly_earth_explicit_updates_prior_estimate_not_current_heaven"
+    },
+    {
+      "type": "inner_biyue_teacher_gift_lingbao_crafted_heaven_weapon",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0079:p0014",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "lingbao_crafted_teacher_gift_not_explicit_identity_of_gifting_teacher"
+    },
+    {
+      "type": "actual_attacks_without_deference",
+      "entity": "mojian_tianwang",
+      "reference": "v06-c0079:p0015",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_hand_shakes_initially_cannot_strike",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0079:p0017",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_mind_black_dragon_attacks_true_spirit_not_external_dragon",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0079:p0019",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_manages_moon_sword_defense",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0079:p0021",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_draws_five_colour_ring_with_lixian",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0022",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_ring_absorbs_dark_snow_and_covers_sword_variations",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0025",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_immature_wuji_zhuxian_lixian_cave_power_combination",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0027",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "ability_boundary": "immature_wuji_zhuxian_lixian_borrows_enemy_force_breaks_seal_not_solo_kills_heaven"
+    },
+    {
+      "type": "actual_giant_sword_pillar_power_attack",
+      "entity": "mojian_tianwang",
+      "reference": "v06-c0079:p0028",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_hand_shakes_sword_chimes_under_power_pressure",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0032",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "ability_boundary": "immature_wuji_zhuxian_lixian_borrows_enemy_force_breaks_seal_not_solo_kills_heaven"
+    },
+    {
+      "type": "source_true_goal_borrow_enemy_power",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0034",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "ability_boundary": "immature_wuji_zhuxian_lixian_borrows_enemy_force_breaks_seal_not_solo_kills_heaven"
+    },
+    {
+      "type": "actual_borrowed_force_breaks_boundary",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0035",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "ability_boundary": "immature_wuji_zhuxian_lixian_borrows_enemy_force_breaks_seal_not_solo_kills_heaven"
+    },
+    {
+      "type": "actual_collapses_sword_light_exposes_fight_to_luocheng",
+      "entity": "snow_world",
+      "reference": "v06-c0079:p0037",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "ability_boundary": "immature_wuji_zhuxian_lixian_borrows_enemy_force_breaks_seal_not_solo_kills_heaven"
+    },
+    {
+      "type": "actual_carefree_to_grave",
+      "entity": "mojian_tianwang",
+      "reference": "v06-c0079:p0038",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_no_distance_palm_intervenes_no_spoken_line",
+      "entity": "xin_sheng",
+      "reference": "v06-c0079:p0041",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_counters_xin_palm_owner_unnamed",
+      "entity": "six_finger_black_palm_owner_unidentified",
+      "reference": "v06-c0079:p0043",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "unnamed_owner_holders_or_helpers_do_not_merge_with_prior_named_entities"
+    },
+    {
+      "type": "actual_suppresses_collateral_shockwave",
+      "entity": "xin_sheng",
+      "reference": "v06-c0079:p0043",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "unnamed_owner_holders_or_helpers_do_not_merge_with_prior_named_entities"
+    },
+    {
+      "type": "actual_escapes_looks_deeply_at_meng_not_killed",
+      "entity": "mojian_tianwang",
+      "reference": "v06-c0079:p0044",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_scroll_emerges_two_hold_ends_escape",
+      "entity": "two_scroll_holders_unidentified",
+      "reference": "v06-c0079:p0045",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "unnamed_owner_holders_or_helpers_do_not_merge_with_prior_named_entities"
+    },
+    {
+      "type": "actual_present_warns_hold_positions_diversion",
+      "entity": "ren_sheng",
+      "reference": "v06-c0079:p0046",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "embodiment": "present_body_not_puppet_remote_voice"
+    },
+    {
+      "type": "actual_sword_mirror_other_auras_withdraw",
+      "entity": "unidentified_righteous_reinforcements",
+      "reference": "v06-c0079:p0047",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "unnamed_owner_holders_or_helpers_do_not_merge_with_prior_named_entities"
+    },
+    {
+      "type": "inner_diversion_recognition",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0048",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "meng_focal_reconstruction_jiuyou_map_attack_two_route_rescue_plan",
+      "entity": "demonic_kings",
+      "reference": "v06-c0079:p0050",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "meng_focal_reconstruction_of_several_kings_plan_not_all_six_witnessed_or_wu_escape_confirmed"
+    },
+    {
+      "type": "low_spoken_good_scheme_then_inner_early_disruption_assessment",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0051",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_reorganizes_deployment_praises_meng_human_rank",
+      "entity": "ren_sheng",
+      "reference": "v06-c0079:p0052",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "embodiment": "present_body_not_puppet_remote_voice"
+    },
+    {
+      "type": "source_white_brows_beard_haoran_humorous_not_only_stern",
+      "entity": "ren_sheng",
+      "reference": "v06-c0079:p0053",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "embodiment": "present_body_not_puppet_remote_voice"
+    },
+    {
+      "type": "inner_surprised_humorous_old_man",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0054",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_sheathes_lixian_thanks_ren_for_attention_diversion",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0055",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_jokes_excess_modesty_not_real_hostility",
+      "entity": "ren_sheng",
+      "reference": "v06-c0079:p0056",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "embodiment": "present_body_not_puppet_remote_voice"
+    },
+    {
+      "type": "actual_covenant_signing_episode_then_invites_search",
+      "entity": "ren_sheng",
+      "reference": "v06-c0079:p0057",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "embodiment": "present_body_not_puppet_remote_voice",
+      "goal_boundary": "covenant_signing_episode_completed_no_extra_oath_details_wu_search_not_completed"
+    },
+    {
+      "type": "source_covenant_signing_episode_not_blood_oath",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0057",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "goal_boundary": "covenant_signing_episode_completed_no_extra_oath_details_wu_search_not_completed"
+    },
+    {
+      "type": "actual_accepts_wu_search_invitation_not_search_success",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0060",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_departure_asks_sword_not_jietian",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0079:p0061",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "actual_character_speech",
+      "knowledge_boundary": "this_strike_zhuxian_not_jietian_prior_ch77_test_not_retracted_ren_lineage_not_revealed"
+    },
+    {
+      "type": "inner_familiarity",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0079:p0062",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_confirms_not_jietian",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0063",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "actual_character_speech",
+      "knowledge_boundary": "this_strike_zhuxian_not_jietian_prior_ch77_test_not_retracted_ren_lineage_not_revealed"
+    },
+    {
+      "type": "actual_identifies_zhuxian_sword_art",
+      "entity": "meng_qi",
+      "reference": "v06-c0079:p0064",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "actual_character_speech",
+      "knowledge_boundary": "this_strike_zhuxian_not_jietian_prior_ch77_test_not_retracted_ren_lineage_not_revealed"
+    },
     {
       "type": "actual_offers_help_with_wu",
       "entity": "meng_qi",
