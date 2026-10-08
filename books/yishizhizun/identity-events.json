@@ -1,7 +1,250 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0090",
+  "through_chapter": "v06-c0091",
   "events": [
+    {
+      "type": "actual_yuhuang_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0001",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_self_fate_chaos_external_links_readable",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0003",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "ability_boundary": "wang_self_report_limits_affinity_not_all_future_known"
+    },
+    {
+      "type": "source_future_losses_explain_later_motto_not_current_rules",
+      "entity": "wang_family_motto",
+      "reference": "v06-c0091:p0005",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_follows_wang_array_changes_route_yuhuang_first",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0007",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "world_boundary": "actually_yuhuang_first_zhenwu_marks_pending"
+    },
+    {
+      "type": "actual_yuhuang_halfmountain_pavilion",
+      "entity": "meng_qi_shu_sheng",
+      "reference": "v06-c0091:p0011",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_waits_change_not_fully_known",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0013",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_divination_limits_and_key_guidance_account",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0015",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "ability_boundary": "wang_self_report_limits_affinity_not_all_future_known"
+    },
+    {
+      "type": "actual_wang_affinity_vague_feeling_account",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0017",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "ability_boundary": "wang_self_report_limits_affinity_not_all_future_known"
+    },
+    {
+      "type": "actual_maybe_future_wang_links_wordplay",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0018",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_requests_unhidden_hand_face_divination",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0020",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "inner_fivecolor_fate_disappearance_after_mofo_cut_assessment",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0021",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_agrees_try",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0022",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_left_hand_offered_luoshu_in_eyes",
+      "entity": "meng_qi_shu_sheng",
+      "reference": "v06-c0091:p0025",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_two_lives_divination",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0026",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "inner_accurate_focus_grows",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0027",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_spirit_body_two_lives_possession_return_question",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0028",
+      "fact_status": "wang_question_no_final_two_lives_mechanism_conclusion"
+    },
+    {
+      "type": "source_no_definite_conclusion_continues",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0029",
+      "fact_status": "wang_question_no_final_two_lives_mechanism_conclusion"
+    },
+    {
+      "type": "actual_lovelife_obstructed",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0030",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_smiling_silence",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0031",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_setback_loss_partner_lonely_fate_prediction",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0032",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "knowledge_boundary": "divination_chance_omen_not_actual_partner_revival_or_fixed_date_location"
+    },
+    {
+      "type": "actual_life_death_ambiguous_one_chance",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0034",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "knowledge_boundary": "divination_chance_omen_not_actual_partner_revival_or_fixed_date_location"
+    },
+    {
+      "type": "actual_startled_asks_chance",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0035",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "inner_xiaosang_revival_question_not_result",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0036",
+      "fact_status": "meng_hopes_xiaosang_revival_not_wang_explicitly_confirms_it"
+    },
+    {
+      "type": "actual_not_alone_chance_not_specific_revival",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0037",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "knowledge_boundary": "divination_chance_omen_not_actual_partner_revival_or_fixed_date_location"
+    },
+    {
+      "type": "actual_cannot_find_only_omen",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0039",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "knowledge_boundary": "divination_chance_omen_not_actual_partner_revival_or_fixed_date_location"
+    },
+    {
+      "type": "actual_star_rain_omen",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0041",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "knowledge_boundary": "divination_chance_omen_not_actual_partner_revival_or_fixed_date_location"
+    },
+    {
+      "type": "actual_past_fate_cut_reading",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0043",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "life_boundary": "past_and_afterlife_cut_present_alive_newborn_soul_wang_inference"
+    },
+    {
+      "type": "actual_no_past",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0044",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "life_boundary": "past_and_afterlife_cut_present_alive_newborn_soul_wang_inference"
+    },
+    {
+      "type": "actual_confirms_no_past",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0045",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "life_boundary": "past_and_afterlife_cut_present_alive_newborn_soul_wang_inference"
+    },
+    {
+      "type": "actual_newborn_soul_inference_and_no_afterlife_reading",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0046",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "life_boundary": "past_and_afterlife_cut_present_alive_newborn_soul_wang_inference"
+    },
+    {
+      "type": "actual_knows",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0047",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "life_boundary": "past_and_afterlife_cut_present_alive_newborn_soul_wang_inference"
+    },
+    {
+      "type": "actual_most_future_unreadable_few_often_death",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0049",
+      "fact_status": "few_future_possibilities_not_actual_death_or_current_yuanshi_rank_or_inevitable_result"
+    },
+    {
+      "type": "actual_some_future_wedding_garment_for_others",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0050",
+      "fact_status": "few_future_possibilities_not_actual_death_or_current_yuanshi_rank_or_inevitable_result"
+    },
+    {
+      "type": "focal_acknowledges_danger",
+      "entity": "meng_qi",
+      "reference": "v06-c0091:p0051",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_other_similar_futures_begins_becomes",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0052",
+      "fact_status": "few_future_possibilities_not_actual_death_or_current_yuanshi_rank_or_inevitable_result"
+    },
+    {
+      "type": "actual_becomes_yuanshi_possible_futures_not_current_identity",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0055",
+      "fact_status": "few_future_possibilities_not_actual_death_or_current_yuanshi_rank_or_inevitable_result"
+    },
+    {
+      "type": "actual_startled_uncertain_gaze",
+      "entity": "shu_sheng_wang_daolin",
+      "reference": "v06-c0091:p0056",
+      "fact_status": "source_action_or_character_divination_as_typed"
+    },
+    {
+      "type": "actual_yuhuang_path_arrival_no_speech",
+      "entity": "bi_jingxuan",
+      "reference": "v06-c0091:p0058",
+      "fact_status": "source_action_or_character_divination_as_typed",
+      "identity_boundary": "bi_jingxuan_actual_no_new_rank_or_intent_given"
+    },
     {
       "type": "actual_private_feigned_confusion_not_self_exposure",
       "entity": "meng_qi",
