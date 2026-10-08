@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷88章
+# 角色阶段索引 · 截至第六卷89章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–88章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–89章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [何受绝仙参考、传承所有权与留城分工](heqi-juexian-reference-inheritance-ownership-and-luocheng-wait.md) | 第六卷89章证据与表演边界 |
+| [邱寒与罗城墨宫：传送、消息、机关拜访意向](qiu-han-mogong-transport-news-and-crafting-intent.md) | 第六卷89章证据与表演边界 |
+| [卓碧婷、未名侍女与想回去吗的未解指向](zhuo-biting-luojiao-saintess-maid-and-return-question.md) | 第六卷89章证据与表演边界 |
+| [两剑秘籍实得、后世参考与纯阳补赠计划](juexian-zhuxian-manual-received-and-future-chunyang-gift.md) | 第六卷89章证据与表演边界 |
 | [方寒镜：天海掌门与体面认输后的中肯点评](fang-hanjing-tianhai-master-endurance-and-dignified-concession.md) | 第六卷88章证据与表演边界 |
 | [陈月琪与林怡：同路示范和因果轻格中的尊敬变化](chen-yueqi-yaoguang-light-rain-and-lin-yi-causal-instruction.md) | 第六卷88章证据与表演边界 |
 | [换经具体提案、秘籍形式许可与昆仑守密](ren-exchange-offer-manual-copy-and-kunlun-location-withheld.md) | 第六卷88章证据与表演边界 |
@@ -1237,3 +1241,5 @@
 最新[第六卷87章复核](../reviews/review-v06-0087.md)与[状态账](../reviews/ledger-v06-0087.md)：汤文远确名、五派点评、强阵消耗与出风头自白。
 
 最新[第六卷88章复核](../reviews/review-v06-0088.md)与[状态账](../reviews/ledger-v06-0088.md)：三派点评完成、巅峰恢复、换经提案与昆仑守密。
+
+最新[第六卷89章复核](../reviews/review-v06-0089.md)与[状态账](../reviews/ledger-v06-0089.md)：秘籍实得授何参考、留城分工、邱寒与卓碧婷归途问。

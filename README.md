@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第88章，1015 / 1410 个目录条目，约330.6万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第89章，1016 / 1410 个目录条目，约330.9万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第89章复核](books/yishizhizun/reviews/review-v06-0089.md)：秘籍授何与留城分工、邱寒墨宫、卓碧婷归途问，52段、82句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0089.md)。
 - [第六卷第88章复核](books/yishizhizun/reviews/review-v06-0088.md)：巅峰恢复、三派指教、换经提案与昆仑守密，79段、105句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0088.md)。
 - [第六卷第87章复核](books/yishizhizun/reviews/review-v06-0087.md)：五派点评、汤文远确名、强阵隐耗与出风头，89段、119句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0087.md)。
 - [第六卷第86章复核](books/yishizhizun/reviews/review-v06-0086.md)：死亡收剑、截教支脉与阵经交流意向、五派请柬；S13收束/S14开始，75段、119句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0086.md)。
