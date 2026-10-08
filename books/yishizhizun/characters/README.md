@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷65章
+# 角色阶段索引 · 截至第六卷66章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–65章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–66章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇绕秦擒徐：不杀无辜与秦跃重估](meng-spares-qin-captures-xu-and-qin-revises-estimate.md) | 第六卷66章当前证据与表演边界 |
+| [岛主根脚：太离旧记、未名手势与提前回归风险](taili-shang-islandmaster-account-and-unnamed-gesture.md) | 第六卷66章当前证据与表演边界 |
+| [高览太离：有限停战与来源未明的双袭](gao-taili-limited-truce-and-two-unidentified-attacks.md) | 第六卷66章当前证据与表演边界 |
 | [金鳌四天仙定名：殷不二、殷未央、朱子升、闻吉](four-named-jinao-envoys-and-historical-aliases.md) | 第六卷65章当前证据与表演边界 |
 | [洪荒混战：规则、禁符承诺与因果定位限制](honghuang-melee-talisman-promise-and-causal-location-limit.md) | 第六卷65章当前证据与表演边界 |
 | [混世金仙秦跃：藏待计划、主观分层与遇孟](qin-yue-hiding-plan-subjective-tiers-and-meng-encounter.md) | 第六卷65章当前证据与表演边界 |
@@ -1103,3 +1106,5 @@
 最新[第六卷64章复核](../reviews/review-v06-0064.md)与[状态账](../reviews/ledger-v06-0064.md)：殷商代理、服丹控制与五名额，正式开宴未交战。
 
 最新[第六卷65章复核](../reviews/review-v06-0065.md)与[状态账](../reviews/ledger-v06-0065.md)：四使者定名、混战分散、秦遇孟与高太蓄势。
+
+最新[第六卷66章复核](../reviews/review-v06-0066.md)与[状态账](../reviews/ledger-v06-0066.md)：孟绕秦擒徐、岛主报告与停战后双袭。
