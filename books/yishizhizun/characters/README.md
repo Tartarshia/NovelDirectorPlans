@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷73章
+# 角色阶段索引 · 截至第六卷74章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–73章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–74章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [再布诛仙阵、徐单败亡与留命禁锢](second-zhuxian-array-xu-shan-deaths-and-capture-restraint.md) | 第六卷74章证据与表演边界 |
+| [太离逼药、天命确认与携友逃生](taili-antidote-ultimatum-tianming-claim-and-causal-escape.md) | 第六卷74章证据与表演边界 |
+| [金鳌崩毁、青萍黑物与未知钟青光](jinao-collapse-qingping-darkmass-and-unknown-bell-light.md) | 第六卷74章证据与表演边界 |
+| [孟奇异地苏醒、机关鸟与中古疑问](meng-awakens-mechanical-birds-luocheng-and-medieval-question.md) | 第六卷74章证据与表演边界 |
 | [妲己真实天仙与韩广阎魔化身援手](daji-real-heaven-escape-and-han-yama-avatar-reinforcement.md) | 第六卷73章证据与表演边界 |
 | [孟奇的袁洪推测与密室确认](meng-yuanhong-inference-versus-secret-meeting-confirmation.md) | 第六卷73章证据与表演边界 |
 | [宫内逃留选择与霍离殇双准备](palace-choice-to-flee-or-help-and-huo-two-preparations.md) | 第六卷73章证据与表演边界 |
@@ -1149,3 +1153,5 @@
 最新[第六卷72章复核](../reviews/review-v06-0072.md)与[状态账](../reviews/ledger-v06-0072.md)：双使陨落显毛、殷未央自疑与太离攻妲己。
 
 最新[第六卷73章复核](../reviews/review-v06-0073.md)与[状态账](../reviews/ledger-v06-0073.md)：妲己真天仙、韩化身、四剑返宫及袁洪秘会。
+
+最新[第六卷74章复核](../reviews/review-v06-0074.md)与[状态账](../reviews/ledger-v06-0074.md)：四剑留命逼药、岛毁逃离、青萍与中古疑问；S12阶段61–74闭段。
