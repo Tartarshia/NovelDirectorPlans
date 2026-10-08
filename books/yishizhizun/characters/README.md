@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷75章
+# 角色阶段索引 · 截至第六卷76章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–75章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–76章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [任秋水 · 碧月剑仙](ren-qiushui.md) | 第六卷76章证据与表演边界 |
+| [罗城繁荣记载与何七寻踪](luocheng-prosperity-record-and-heqi-search-not-reunion.md) | 第六卷76章证据与表演边界 |
+| [后世七大剑法与绝仙识认](seven-retrospective-sword-arts-and-juexian-recognition.md) | 第六卷76章证据与表演边界 |
 | [绝刀失踪、跨时唯一性推理与真实界测试](missing-overlord-blade-unique-time-and-realrealm-test.md) | 第六卷75章证据与表演边界 |
 | [中古豪想、当世牵挂与归途双目标](meng-medieval-grandeur-present-attachments-and-return-goals.md) | 第六卷75章证据与表演边界 |
 | [空袖、同伴模糊痕迹与印记微感](empty-sleeve-companion-traces-and-weak-cross-time-imprint.md) | 第六卷75章证据与表演边界 |
@@ -1160,3 +1163,5 @@
 最新[第六卷74章复核](../reviews/review-v06-0074.md)与[状态账](../reviews/ledger-v06-0074.md)：四剑留命逼药、岛毁逃离、青萍与中古疑问；S12阶段61–74闭段。
 
 最新[第六卷75章复核](../reviews/review-v06-0075.md)与[状态账](../reviews/ledger-v06-0075.md)：绝刀缺失、中古多检、寻同伴与未来归途，S13开启。
+
+最新[第六卷76章复核](../reviews/review-v06-0076.md)与[状态账](../reviews/ledger-v06-0076.md)：罗城寻何、任秋水当前与未来分层、七剑归纳和绝仙截天识认。

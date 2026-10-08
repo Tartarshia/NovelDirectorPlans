@@ -1,7 +1,227 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0075",
+  "through_chapter": "v06-c0076",
   "events": [
+    {
+      "type": "actual_arrives_luocheng_city_artifacts",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0001",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_wanxiang_record_agriculture_artifacts_starsea_ship_research",
+      "entity": "medieval_civilization",
+      "reference": "v06-c0076:p0002",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_strolls_not_heart_sage_lecture_yet",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0004",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "goal_boundary": "search_heqi_probable_in_city_not_met_no_heart_sage_lecture_attended"
+    },
+    {
+      "type": "inner_heqi_should_be_luocheng_divination_not_reunion",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0004",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "goal_boundary": "search_heqi_probable_in_city_not_met_no_heart_sage_lecture_attended"
+    },
+    {
+      "type": "inner_time_sequence_feature_separation_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0005",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_other_belongings_remain_except_overlord_blade",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0006",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_follows_waiter_upstairs",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0008",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_male_style_scholar_attire_female_identity",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0010",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_swordqi_cleans_oil_table",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0011",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_recognizes_juexian_familiar_not_currently_knows_art",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0012",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "ability_boundary": "meng_familiar_with_juexian_but_not_currently_practices_it_jietian_claim_not_all_seven_moves"
+    },
+    {
+      "type": "inner_identifies_ren_qiushui_not_actual_name_call",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0014",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_future_records_tomb_scripture_biyue_lineage_not_now",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0016",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "time_rank_boundary": "meng_future_history_not_ren_current_heaven_rank_current_exact_rank_estimated"
+    },
+    {
+      "type": "inner_future_ren_heaven_and_death_history_not_current_rank",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0017",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "time_rank_boundary": "meng_future_history_not_ren_current_heaven_rank_current_exact_rank_estimated"
+    },
+    {
+      "type": "inner_current_ren_rank_estimate_not_exact_confirmation",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0018",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "time_rank_boundary": "meng_future_history_not_ren_current_heaven_rank_current_exact_rank_estimated"
+    },
+    {
+      "type": "actual_looks_river_at_ease",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0019",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_what_does_he_want",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0021",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_praises_different_from_seven_swordarts",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0022",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "seven_ranking_retrospective_not_current_official_list_or_all_arts_mastered"
+    },
+    {
+      "type": "actual_asks_which_seven",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0024",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_no_contemporary_ranking_later_summary",
+      "entity": "narrator",
+      "reference": "v06-c0076:p0025",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "seven_ranking_retrospective_not_current_official_list_or_all_arts_mastered"
+    },
+    {
+      "type": "actual_sits_speaks_jietian_origin_lost",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0026",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "seven_ranking_retrospective_not_current_official_list_or_all_arts_mastered"
+    },
+    {
+      "type": "actual_first_rensheng_nine_swords",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0027",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "seven_ranking_retrospective_not_current_official_list_or_all_arts_mastered"
+    },
+    {
+      "type": "actual_agrees_first",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0028",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "seven_ranking_retrospective_not_current_official_list_or_all_arts_mastered"
+    },
+    {
+      "type": "actual_tea_second_wang_kanxu",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0029",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "seven_ranking_retrospective_not_current_official_list_or_all_arts_mastered"
+    },
+    {
+      "type": "actual_agrees_wang_heritage_luoshu",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0030",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "seven_ranking_retrospective_not_current_official_list_or_all_arts_mastered"
+    },
+    {
+      "type": "actual_remaining_five_swords_not_ren_art",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0031",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "seven_ranking_retrospective_not_current_official_list_or_all_arts_mastered"
+    },
+    {
+      "type": "actual_asks_origin_then_inner_curiosity",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0032",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_names_four_killing_swords_and_her_juexian",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0033",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "ability_boundary": "meng_familiar_with_juexian_but_not_currently_practices_it_jietian_claim_not_all_seven_moves"
+    },
+    {
+      "type": "actual_smile_fades_gaze_grave",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0034",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_he_knows_origin",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0035",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_he_knows_four_swords",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0036",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_which_art_meng_practices",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0037",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_me_reply",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0038",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_claims_jietian_seven_not_all_moves_proven",
+      "entity": "meng_qi",
+      "reference": "v06-c0076:p0039",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "ability_boundary": "meng_familiar_with_juexian_but_not_currently_practices_it_jietian_claim_not_all_seven_moves"
+    },
+    {
+      "type": "inner_jietian_question_actual_hand_tightens_not_attack",
+      "entity": "ren_qiushui",
+      "reference": "v06-c0076:p0040",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
     {
       "type": "source_ancient_return_shock_not_emotionless",
       "entity": "meng_qi",
