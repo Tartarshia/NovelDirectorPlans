@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第六卷66章
+# 角色阶段索引 · 截至第六卷67章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–66章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–67章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [高太反袭：对方形貌残迹与未明来源](gao-taili-counterattacks-and-opponent-likeness-remains.md) | 第六卷67章当前证据与表演边界 |
+| [徐悲受审：秘密成员确认与因果隔符](xu-bond-causal-talisman-isolation-and-heart-interrogation.md) | 第六卷67章当前证据与表演边界 |
+| [岛外四帝与中央天帝自号：旧黑帝天命报告](four-external-emperors-central-title-and-former-black-emperor.md) | 第六卷67章当前证据与表演边界 |
+| [宋蒹葭：积年地仙、青袍袭者与误认危机](song-jianjia-earth-body-and-meng-likeness-misrecognition.md) | 第六卷67章当前证据与表演边界 |
+| [霍回宫与天命先在：入内尚未吞丹](huo-talisman-return-unconsumed-elixir-and-tianming-inner-palace.md) | 第六卷67章当前证据与表演边界 |
 | [孟奇绕秦擒徐：不杀无辜与秦跃重估](meng-spares-qin-captures-xu-and-qin-revises-estimate.md) | 第六卷66章当前证据与表演边界 |
 | [岛主根脚：太离旧记、未名手势与提前回归风险](taili-shang-islandmaster-account-and-unnamed-gesture.md) | 第六卷66章当前证据与表演边界 |
 | [高览太离：有限停战与来源未明的双袭](gao-taili-limited-truce-and-two-unidentified-attacks.md) | 第六卷66章当前证据与表演边界 |
@@ -1108,3 +1113,5 @@
 最新[第六卷65章复核](../reviews/review-v06-0065.md)与[状态账](../reviews/ledger-v06-0065.md)：四使者定名、混战分散、秦遇孟与高太蓄势。
 
 最新[第六卷66章复核](../reviews/review-v06-0066.md)与[状态账](../reviews/ledger-v06-0066.md)：孟绕秦擒徐、岛主报告与停战后双袭。
+
+最新[第六卷67章复核](../reviews/review-v06-0067.md)与[状态账](../reviews/ledger-v06-0067.md)：反同貌袭、审徐四帝、宋误认与天命旧黑帝。

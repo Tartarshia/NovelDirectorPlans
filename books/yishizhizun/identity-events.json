@@ -1,7 +1,555 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0066",
+  "through_chapter": "v06-c0067",
   "events": [
+    {
+      "type": "actual_spear_attack_gao_back",
+      "entity": "taili_attacker_likeness_unresolved",
+      "reference": "v06-c0067:p0002",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_sanqing_or_spear_independence_hypotheses",
+      "entity": "gao_lan",
+      "reference": "v06-c0067:p0003",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_emperor_body_appears",
+      "entity": "gao_lan",
+      "reference": "v06-c0067:p0008",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_human_spirit_royal_qi_convergence",
+      "entity": "gao_lan",
+      "reference": "v06-c0067:p0013",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_royal_qi_halts_spear",
+      "entity": "gao_lan",
+      "reference": "v06-c0067:p0015",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_emperor_sword_targets_demon",
+      "entity": "gao_lan",
+      "reference": "v06-c0067:p0016",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_taili_form_immobilized",
+      "entity": "taili_attacker_likeness_unresolved",
+      "reference": "v06-c0067:p0017",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_cuts_attacker_spear_and_body_not_true_taili_death",
+      "entity": "gao_lan",
+      "reference": "v06-c0067:p0018",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "opponent_likeness_attacker_not_true_gao_taili_death_or_real_weapon_destruction"
+    },
+    {
+      "type": "actual_attacker_remains_burn_away",
+      "entity": "external_or_narrator",
+      "reference": "v06-c0067:p0019",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "opponent_likeness_attacker_not_true_gao_taili_death_or_real_weapon_destruction"
+    },
+    {
+      "type": "inner_sanqing_ambush_hypothesis_not_fact",
+      "entity": "tai_li",
+      "reference": "v06-c0067:p0025",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_fivevirtues_restores_thought",
+      "entity": "tai_li",
+      "reference": "v06-c0067:p0026",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_fivecolor_light_sweeps_gao_form_sword",
+      "entity": "tai_li",
+      "reference": "v06-c0067:p0027",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_human_images_reform_gao_body",
+      "entity": "gao_attacker_likeness_unresolved",
+      "reference": "v06-c0067:p0031",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_spear_pierces_attacker_sword_body",
+      "entity": "tai_li",
+      "reference": "v06-c0067:p0035",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "opponent_likeness_attacker_not_true_gao_taili_death_or_real_weapon_destruction"
+    },
+    {
+      "type": "actual_gao_form_burns_not_true_gao_death",
+      "entity": "external_or_narrator",
+      "reference": "v06-c0067:p0036",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "opponent_likeness_attacker_not_true_gao_taili_death_or_real_weapon_destruction"
+    },
+    {
+      "type": "actual_incomplete_this_assessment_no_explanation",
+      "entity": "tai_li",
+      "reference": "v06-c0067:p0037",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_releases_xu_from_sleeve",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0039",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_bell_dazes_spirit",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0040",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_luohun_bell_recognition",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0041",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_wuji_earth_rope_binds_xu_fashen",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0043",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_wuji_seal_multiple_functions_not_new_separate_treasure",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0044",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_confirmed_secret_jinao_member",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0045",
+      "fact_status": "narrator_explicit_confirms_secret_membership_and_capture_motive"
+    },
+    {
+      "type": "source_enemy_distinction_and_interrogation_capture_motive_confirmed",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0045",
+      "fact_status": "narrator_explicit_confirms_secret_membership_and_capture_motive"
+    },
+    {
+      "type": "actual_asks_xiuli_qiankun_luohun_bell",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0046",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_unhidden_human_immortal_aura_seen_by_xu",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0048",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "mistaken_capture_motive_five_places",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0050",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_indirect_confirms_two_methods",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0051",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_already_took_jiuzhuan_lixuan_elixir_and_expects_talisman_safety",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0055",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_jinao_member_foreknowledge",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0056",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_feigns_ignorance",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0057",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_secret_membership_reminder",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0058",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_yedi_leak_hypothesis_no_answer",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0059",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_invites_talisman_trial",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0060",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_daoyi_lamp_causal_light",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0061",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_takes_talisman_and_points",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0063",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_breaks_isolated_talisman_no_return",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0064",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "talisman_boundary": "meng_causal_isolation_breaks_then_recreates_intact_looking_symbol_not_global_return_failure"
+    },
+    {
+      "type": "actual_recreates_intact_looking_talisman",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0067",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "talisman_boundary": "meng_causal_isolation_breaks_then_recreates_intact_looking_symbol_not_global_return_failure"
+    },
+    {
+      "type": "inner_envoy_rescue_in_time_doubt",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0069",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_confidentiality_promise_then_chaos_field_isolation",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0071",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_yuanxin_amplifies_xu_ambition_and_death_fear",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0072",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_relents_asks_questions",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0073",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_yuanxin_hand_and_threat_no_universal_lie_detector_claim",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0074",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_assigned_task",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0075",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_no_assigned_task_self_planned_ambush_for_merit_account",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0076",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_inclines_belief_feedback_and_events_not_certainty",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0078",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_asks_other_secret_members",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0080",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_not_told_other_names_low_status",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0081",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_reports_four_emperors_external_hierarchy",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0082",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_four_emperors_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0083",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_reports_central_title_and_qing_hei_bai_xue_roles",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0084",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "four_external_titles_not_four_heaven_envoys_central_selftitle_not_original_tiandi"
+    },
+    {
+      "type": "inner_four_member_names_unknown",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0085",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_overseas_origin_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0086",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_queries_external_title_internal_strength",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0087",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_envoys_restrictions_inference",
+      "entity": "xu_bei",
+      "reference": "v06-c0067:p0088",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_agrees_restrictions_judgment",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0089",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_opportunity",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0090",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_removes_yuanshi_field",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0091",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_beast_entry_warning_not_named_speaker",
+      "entity": "jinao_broadcast_unidentified",
+      "reference": "v06-c0067:p0092",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "actual_macro_broadcast_individual_unidentified"
+    },
+    {
+      "type": "inner_forced_combat_purpose_assessment",
+      "entity": "meng_qi",
+      "reference": "v06-c0067:p0093",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_female_three_demons_leader_reputation",
+      "entity": "song_jianjia",
+      "reference": "v06-c0067:p0096",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "source_veteran_earth_immortal_mysterious_body_and_old_zhongli_win",
+      "entity": "song_jianjia",
+      "reference": "v06-c0067:p0097",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_finger_wind_hits_hidden_blue_man",
+      "entity": "song_jianjia",
+      "reference": "v06-c0067:p0098",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "actual_golden_body_blocks_finger_unharmed",
+      "entity": "meng_likeness_song_unresolved",
+      "reference": "v06-c0067:p0100",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "inner_identifies_ship_human_immortal_not_identity_proof",
+      "entity": "song_jianjia",
+      "reference": "v06-c0067:p0101",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "actual_resists_sleevelike_skill",
+      "entity": "song_jianjia",
+      "reference": "v06-c0067:p0102",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "actual_mocks_sleeve_skill",
+      "entity": "song_jianjia",
+      "reference": "v06-c0067:p0104",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "actual_counter_seal",
+      "entity": "song_jianjia",
+      "reference": "v06-c0067:p0105",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "actual_cloud_escape_song_eightpair_wings_pursuit",
+      "entity": "meng_likeness_song_unresolved",
+      "reference": "v06-c0067:p0106",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "actual_disappears",
+      "entity": "meng_likeness_song_unresolved",
+      "reference": "v06-c0067:p0107",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "actual_same_beast_warning_heard_by_song",
+      "entity": "jinao_broadcast_unidentified",
+      "reference": "v06-c0067:p0109",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "channel": "actual_macro_broadcast_individual_unidentified",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "actual_sees_meng_xu_pair_believes_same_attacker",
+      "entity": "song_jianjia",
+      "reference": "v06-c0067:p0110",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "identity_boundary": "first_blue_man_meng_likeness_origin_unknown_song_identification_not_author_confirmed_same_as_true_meng_with_xu"
+    },
+    {
+      "type": "inner_easy_find_proverb",
+      "entity": "song_jianjia",
+      "reference": "v06-c0067:p0111",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_activates_talisman",
+      "entity": "huo_lishang",
+      "reference": "v06-c0067:p0114",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_returns_palace_one_successful_case",
+      "entity": "huo_lishang",
+      "reference": "v06-c0067:p0115",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "talisman_boundary": "actual_huo_return_one_case_not_contradiction_to_meng_isolated_xu"
+    },
+    {
+      "type": "actual_stands_behind_daji",
+      "entity": "yin_weiyang",
+      "reference": "v06-c0067:p0115",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "talisman_boundary": "actual_huo_return_one_case_not_contradiction_to_meng_isolated_xu"
+    },
+    {
+      "type": "actual_asks_why_no_five_places",
+      "entity": "su_daji",
+      "reference": "v06-c0067:p0116",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_control_as_new_experience_claim_not_elixir_taken",
+      "entity": "huo_lishang",
+      "reference": "v06-c0067:p0117",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_shocked_by_huo_not_actual_insult",
+      "entity": "yin_weiyang",
+      "reference": "v06-c0067:p0118",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "inner_maybe_heard_yin_buer_mention",
+      "entity": "yin_weiyang",
+      "reference": "v06-c0067:p0119",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_invites_inner_elixir_not_actual_ingestion",
+      "entity": "su_daji",
+      "reference": "v06-c0067:p0120",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "life_boundary": "entry_or_invitation_not_confirmed_huo_tianming_elixir_ingestion"
+    },
+    {
+      "type": "actual_enters_inner_palace",
+      "entity": "huo_lishang",
+      "reference": "v06-c0067:p0121",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "life_boundary": "entry_or_invitation_not_confirmed_huo_tianming_elixir_ingestion"
+    },
+    {
+      "type": "actual_already_in_inner_palace",
+      "entity": "tianming_daoren",
+      "reference": "v06-c0067:p0122",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_dejected_fate_murmur",
+      "entity": "tianming_daoren",
+      "reference": "v06-c0067:p0123",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_someone_earlier_to_take_question_not_ingestion_proof",
+      "entity": "huo_lishang",
+      "reference": "v06-c0067:p0124",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "life_boundary": "entry_or_invitation_not_confirmed_huo_tianming_elixir_ingestion"
+    },
+    {
+      "type": "actual_tianming_past_betrayal_and_deep_link_account",
+      "entity": "su_daji",
+      "reference": "v06-c0067:p0125",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_betrayal_question",
+      "entity": "huo_lishang",
+      "reference": "v06-c0067:p0126",
+      "fact_status": "source_action_account_or_character_assessment_as_typed"
+    },
+    {
+      "type": "actual_claim_tianming_former_black_emperor_not_current_seat_proof",
+      "entity": "su_daji",
+      "reference": "v06-c0067:p0127",
+      "fact_status": "source_action_account_or_character_assessment_as_typed",
+      "knowledge_boundary": "daji_tells_huo_inner_palace_meng_not_present",
+      "identity_boundary": "former_black_emperor_claim_not_current_office_or_full_betrayal_details"
+    },
     {
       "type": "actual_sevencolored_sword_and_hunshi_immortal_body_guard",
       "entity": "qin_yue",
