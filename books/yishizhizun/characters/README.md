@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷91章
+# 角色阶段索引 · 截至第六卷92章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–91章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–92章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [十二字提点、家训拟立与微弱历史修正](wang-family-motto-meng-advice-and-weak-history-correction.md) | 第六卷92章证据与表演边界 |
+| [碧景璇的真假互验、伤势与外来者消息](bi-jingxuan-causal-check-hair-eagle-and-injury-reports.md) | 第六卷92章证据与表演边界 |
+| [同写天帝与宣阳苏孟报告的真伪悬念](yuhuang-written-tiandi-word-and-xuanyang-sumeng-report.md) | 第六卷92章证据与表演边界 |
 | [数圣的算命边界、外物牵连与王氏缘感](shu-sheng-divination-limits-external-links-and-wang-affinity.md) | 第六卷91章证据与表演边界 |
 | [情路判词的苦痛与星落如雨的一线希望](meng-lovelife-grief-hope-star-rain-omen-unresolved.md) | 第六卷91章证据与表演边界 |
 | [无过去与无来世、凶险分支和元始未来可能](meng-no-past-no-afterlife-and-yuanshi-possible-future.md) | 第六卷91章证据与表演边界 |
@@ -1255,3 +1258,5 @@
 最新[第六卷90章复核](../reviews/review-v06-0090.md)与[状态账](../reviews/ledger-v06-0090.md)：拒老母与顾小桑、数圣避霸王欲往玉皇山、魔剑继续追索。
 
 最新[第六卷91章复核](../reviews/review-v06-0091.md)与[状态账](../reviews/ledger-v06-0091.md)：S14收束/S15开始、玉皇实至、星雨一线与身成元始的少数可能。
+
+最新[第六卷92章复核](../reviews/review-v06-0092.md)与[状态账](../reviews/ledger-v06-0092.md)：家训拟立、互验真假、碧伤消息与同写天帝；宣阳报告真伪未解。
