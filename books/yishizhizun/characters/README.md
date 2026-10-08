@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷52章
+# 角色阶段索引 · 截至第六卷53章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–52章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–53章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [四剑体悟、黑汗排魔与秘籍限制](meng-four-sword-heritage-black-sweat-and-copying-limits.md) | 第六卷53章当前证据与表演边界 |
+| [皇兄称呼、赴宴风险与高陆合作](gao-brother-title-banquet-choice-and-luda-cooperation.md) | 第六卷53章当前证据与表演边界 |
+| [四人各剑、初成剑阵与十九日镜计划](four-sword-division-initial-array-and-nineteen-day-personal-plan.md) | 第六卷53章当前证据与表演边界 |
 | [霍回船、宝库补偿与韩广假名余债](huo-returned-qianhuan-treasury-compensation-and-false-hanguang-debt.md) | 第六卷52章当前证据与表演边界 |
 | [返玉虚实见邀请与筹备选择](meng-screenwall-invitation-crossworld-divination-and-preparation-options.md) | 第六卷52章当前证据与表演边界 |
 | [四法身诛仙剑阵构想与叶玉琦警告](meng-proposed-four-fashen-zhuxian-array-and-yuqi-warning.md) | 第六卷52章当前证据与表演边界 |
@@ -1031,3 +1034,5 @@
 最新[第六卷51章复核](../reviews/review-v06-0051.md)与[状态账](../reviews/ledger-v06-0051.md)。S10继续，末仅结束宣言未实际换回。
 
 最新[第六卷52章复核](../reviews/review-v06-0052.md)与[状态账](../reviews/ledger-v06-0052.md)：交面具、地仙鞭补、照壁实见与诛仙阵拟筹，S10继续。
+
+最新[第六卷53章复核](../reviews/review-v06-0053.md)与[状态账](../reviews/ledger-v06-0053.md)：体悟抄经、高允合作与四剑初成，S11开始。
