@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷71章
+# 角色阶段索引 · 截至第六卷72章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–71章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–72章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [四剑合击、双天仙陨落与各自白毛](four-sword-chaos-envoy-deaths-and-separate-white-hairs.md) | 第六卷72章证据与表演边界 |
+| [殷未央：完整记忆、自我动摇与白毛形态](yin-weiyang-memory-existence-doubt-and-white-hair-collapse.md) | 第六卷72章证据与表演边界 |
+| [太离攻妲己与孔雀不低头](taili-fivecolor-attack-on-daji-and-inner-refusal-to-bow.md) | 第六卷72章证据与表演边界 |
 | [孟硬挡火焰神珠、破吞噬与天仙渐适应](meng-wuji-blocks-heaven-fire-pearl-and-evades-adapting-pursuer.md) | 第六卷71章证据与表演边界 |
 | [假太离掠宋后证与苏无名无处不在](false-taili-song-capture-resolution-and-su-ubiquity.md) | 第六卷71章证据与表演边界 |
 | [留者名单、假身传说特征限制与会合阻挡](water-screen-survivors-legend-feature-limits-and-reunion-blocks.md) | 第六卷71章证据与表演边界 |
@@ -1138,3 +1141,5 @@
 最新[第六卷70章复核](../reviews/review-v06-0070.md)与[状态账](../reviews/ledger-v06-0070.md)：宿命论、何未服丹、假身替代疑问、匿名密谋与孟被截。
 
 最新[第六卷71章复核](../reviews/review-v06-0071.md)与[状态账](../reviews/ledger-v06-0071.md)：挡天仙、假太离掠宋后证与四角起阵。
+
+最新[第六卷72章复核](../reviews/review-v06-0072.md)与[状态账](../reviews/ledger-v06-0072.md)：双使陨落显毛、殷未央自疑与太离攻妲己。
