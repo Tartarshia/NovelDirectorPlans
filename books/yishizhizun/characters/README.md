@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷60章
+# 角色阶段索引 · 截至第六卷61章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–60章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–61章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇登云阶：短宇宙试探与尚未判定的能力](meng-cloud-stair-universes-and-envoy-uncertain-power-probe.md) | 第六卷61章当前证据与表演边界 |
+| [天命道人：旧识、五色命格与命劳叹](tianming-daoist-reunion-five-color-memory-and-fate-sigh.md) | 第六卷61章当前证据与表演边界 |
+| [海外仙船：碧景璇、孙楚辞与霍的旧败](bi-jingxuan-sun-chuci-and-huo-overseas-ship-knowledge-gaps.md) | 第六卷61章当前证据与表演边界 |
+| [两线赴金鳌：接引群像与玄鸟图腾](jinao-two-ship-arrivals-and-xuanniao-totem-boundaries.md) | 第六卷61章当前证据与表演边界 |
 | [孟奇：惊神世界印记完成与方法的条件](meng-jingshen-world-imprint-completed-and-conditional-persistence.md) | 第六卷60章当前证据与表演边界 |
 | [尚九明：惊神反刺与守住新人生](shang-jiuming-jingshen-counter-assassin-and-guarding-new-life.md) | 第六卷60章当前证据与表演边界 |
 | [高浮沉：投稿无门与见剑后的动摇](gao-fuchen-silenced-submissions-and-belief-shaken-by-jingshen.md) | 第六卷60章当前证据与表演边界 |
@@ -1075,3 +1079,5 @@
 最新[第六卷59章复核](../reviews/review-v06-0059.md)与[状态账](../reviews/ledger-v06-0059.md)：秘史争议、刺尚令与虚拟联系初成，S11继续。
 
 最新[第六卷60章复核](../reviews/review-v06-0060.md)与[状态账](../reviews/ledger-v06-0060.md)：刺客败亡、本界印成与真实冬至，S11收束53–60。
+
+最新[第六卷61章复核](../reviews/review-v06-0061.md)与[状态账](../reviews/ledger-v06-0061.md)：云阶试探、两线赴宴与玄鸟建筑，S12自61起。
