@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷55章
+# 角色阶段索引 · 截至第六卷56章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–55章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–56章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [梦授由孟明源：新内功与盒封限制](meng-dream-teaching-new-inner-method-and-metal-box-limits.md) | 第六卷56章当前证据与表演边界 |
+| [丘叶／丘盛楼：岳江拓片旧债与江畔败亡](qiu-ye-shenglou-yuejiang-fragments-and-fatal-sword-encounter.md) | 第六卷56章当前证据与表演边界 |
+| [尚九明从驱鬼到祖师礼：门派愿望与战后重估](shang-jiuming-from-ghost-offering-to-jingshen-lineage-vow.md) | 第六卷56章当前证据与表演边界 |
+| [世界反馈与虚拟他我：留印方法初现](meng-world-feedback-virtual-other-self-and-projection-feature-hypothesis.md) | 第六卷56章当前证据与表演边界 |
 | [许成瞒师夺偶与尚未执行完的面壁](xu-cheng-greed-concealment-return-and-future-punishment.md) | 第六卷55章当前证据与表演边界 |
 | [尚九明的慈贪挣扎与偏好镇邪](shang-jiuming-compassion-greed-and-sword-practice-misdirection.md) | 第六卷55章当前证据与表演边界 |
 | [附偶同化危险、翻背试验与梦影未名](meng-puppet-assimilation-urgency-backflip-trial-and-unidentified-dream.md) | 第六卷55章当前证据与表演边界 |
@@ -1047,3 +1051,5 @@
 最新[第六卷54章复核](../reviews/review-v06-0054.md)与[状态账](../reviews/ledger-v06-0054.md)：附木偶、雨庙四书与旧史传闻，S11继续。
 
 最新[第六卷55章复核](../reviews/review-v06-0055.md)与[状态账](../reviews/ledger-v06-0055.md)：师徒夺偶慈贪、同化危机翻背试验与梦影未名，S11继续。
+
+最新[第六卷56章复核](../reviews/review-v06-0056.md)与[状态账](../reviews/ledger-v06-0056.md)：梦授明源、丘叶败亡与虚拟他我初想，S11继续。
