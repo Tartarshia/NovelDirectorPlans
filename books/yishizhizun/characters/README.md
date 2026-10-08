@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷69章
+# 角色阶段索引 · 截至第六卷70章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–69章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–70章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [霍与天命道路分歧、秦重新燃起希望](huo-tianming-determinism-dispute-and-qin-renewed-hope.md) | 第六卷70章证据与表演边界 |
+| [何七：假云鹤袭击、传承两难与尚未吞丹](heqi-false-yunhe-wounds-legacy-choice-and-unconsumed-elixir.md) | 第六卷70章证据与表演边界 |
+| [假身渐进观察、记忆替代假说与最后为真口径](replicas-learning-observation-memory-hypothesis-and-last-survivor-rule.md) | 第六卷70章证据与表演边界 |
+| [太离收到匿名夺药秘音与朱子升截孟](taili-anonymous-antidote-plot-and-zhu-intercepts-meng.md) | 第六卷70章证据与表演边界 |
 | [妖族层级、法身品阶与朱吾旧志](demon-ranks-fashen-grade-and-zhuwu-old-ambition.md) | 第六卷69章证据与表演边界 |
 | [秦跃与单恒：至交背刺及地仙夜帝形强敌](qin-yue-shan-heng-betrayal-and-earth-night-likeness.md) | 第六卷69章证据与表演边界 |
 | [首批返宫者服丹与殿内水幕](first-returned-guests-forced-elixir-and-water-screen-boundaries.md) | 第六卷69章证据与表演边界 |
@@ -1126,3 +1130,5 @@
 最新[第六卷68章复核](../reviews/review-v06-0068.md)与[状态账](../reviews/ledger-v06-0068.md)：吞丹血迹、宋转悟未告与朱吾青帝自述。
 
 最新[第六卷69章复核](../reviews/review-v06-0069.md)与[状态账](../reviews/ledger-v06-0069.md)：秦单背刺、首批服丹、水幕真伪与两使踏入。
+
+最新[第六卷70章复核](../reviews/review-v06-0070.md)与[状态账](../reviews/ledger-v06-0070.md)：宿命论、何未服丹、假身替代疑问、匿名密谋与孟被截。
