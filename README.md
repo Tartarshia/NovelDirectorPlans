@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第92章，1019 / 1410 个目录条目，约331.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第93章，1020 / 1410 个目录条目，约332.0万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第93章复核](books/yishizhizun/reviews/review-v06-0093.md)：遗迹归途、混元金斗与阿难历史烙印来客，57段、92句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0093.md)。
 - [第六卷第92章复核](books/yishizhizun/reviews/review-v06-0092.md)：家训提点、真假互验、同写天帝与宣阳消息，65段、105句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0092.md)。
 - [第六卷第91章复核](books/yishizhizun/reviews/review-v06-0091.md)：玉皇同行、星雨生机与元始未来可能，58段、97句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0091.md)，S14收束/S15开始。
 - [第六卷第90章复核](books/yishizhizun/reviews/review-v06-0090.md)：因顾小桑拒老母、数圣欲往玉皇山与魔剑追索，65段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0090.md)。
