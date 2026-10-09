@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷120章
+# 角色阶段索引 · 截至第六卷121章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–120章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–121章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐桓公地仙、知情借鞭助与太乙空府报告](qi-earth-immortal-informed-whip-aid-and-taiyi-empty-cave.md) | 第六卷121章证据与表演边界 |
+| [绝刀天仙幌子、隐藏月光底牌与夺榜计划](meng-heaven-blade-decoy-hidden-moonlight-and-whip-plan.md) | 第六卷121章证据与表演边界 |
+| [陆压青帝友敌两推、取榜与本体警告](luya-qingdi-two-hypotheses-and-truebody-alarm.md) | 第六卷121章证据与表演边界 |
 | [韩司马招揽、夜帝自报与高先北计划](han-sima-recruitment-yedi-return-and-gao-north-plan.md) | 第六卷120章证据与表演边界 |
 | [陆大归鞘、叶玉琦求不得后的守望](lu-return-sheathed-sword-and-ye-quiet-guarding.md) | 第六卷120章证据与表演边界 |
 | [玉虚师徒归返、月光存活与星雨下白莲无变](meng-disciples-return-moonlight-alive-and-star-rain-unchanged.md) | 第六卷120章证据与表演边界 |
@@ -1405,3 +1408,5 @@
 最新[第六卷119章复核](../reviews/review-v06-0119.md)与[状态账](../reviews/ledger-v06-0119.md)：真实界两年变局、江读中古记载与东海强横身影。
 
 最新[第六卷120章复核](../reviews/review-v06-0120.md)与[状态账](../reviews/ledger-v06-0120.md)：各地归返、方外景与月光存活实证、星雨白莲无变。
+
+最新[第六卷121章复核](../reviews/review-v06-0121.md)与[状态账](../reviews/ledger-v06-0121.md)：齐地仙知情援手、绝刀天仙、月光本体急阻。
