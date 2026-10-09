@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷116章
+# 角色阶段索引 · 截至第六卷117章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–116章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–117章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [陆何宁西寻朱前世、三宝辅助与静默离场](luda-ningxi-zhubuxuan-pastlife-three-relics-and-silent-departure.md) | 第六卷117章证据与表演边界 |
+| [陆之平独有自我、纯化先升路线与一心剑低语](luzhiping-yeyuyan-husband-purified-self-first-legend-proposal.md) | 第六卷117章证据与表演边界 |
+| [器圣时冲老去、拟魂人偶愿与月光玉皇去向消息](artificer-aging-soul-mimic-puppet-wish-and-moonlight-yuhuang-report.md) | 第六卷117章证据与表演边界 |
 | [苏无名抵罗、前世印记判断与中古不死边界](su-wuming-arrival-imprint-inference-two-impostors-and-suicide-uncertainty.md) | 第六卷116章证据与表演边界 |
 | [飞仙谷会盟、海外去向报告与返归核心展示](feixian-valley-overseas-return-reports-causal-screen-and-core-display.md) | 第六卷116章证据与表演边界 |
 | [隐重陵合作、待援围剿分工与器圣求教](hidden-tomb-contribution-conditional-encirclement-and-artificer-study.md) | 第六卷116章证据与表演边界 |
@@ -1382,3 +1385,5 @@
 最新[第六卷115章复核](../reviews/review-v06-0115.md)与[状态账](../reviews/ledger-v06-0115.md)：三清实受未全成、卓醒求吹捧与数圣棋局之叹。
 
 最新[第六卷116章复核](../reviews/review-v06-0116.md)与[状态账](../reviews/ledger-v06-0116.md)：苏印判断与不死边界、飞仙谷返归会盟及待援分工。
+
+最新[第六卷117章复核](../reviews/review-v06-0117.md)与[状态账](../reviews/ledger-v06-0117.md)：陆之平纯化路线设想、器圣人偶长存愿与月光去向实报。
