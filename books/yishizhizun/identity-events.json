@@ -1,7 +1,217 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0122",
+  "through_chapter": "v06-c0123",
   "events": [
+    {
+      "type": "inner_echo_ruan_illness_report",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0001",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "inner_wang_scheme_first_hypothesis_insufficient_information",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0004",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "alternative_backlash_hypothesis",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0005",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_gratitude_visit_intention",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0006",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_arrival_wang_ancestral_home",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0008",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_guides_meng_called_su_head",
+      "entity": "hexiang",
+      "reference": "v06-c0123:p0009",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "observed_illness_affects_environment_loss_control",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0010",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_bedridden_wasted_body_alive",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0011",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_cough_and_selfcalls_dying_not_dead",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0012",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_character_based_scheme_assessment_not_proof",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0015",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_layout_concealment_and_fate_discussion_not_confession",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0018",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "near_suspects_terminal_rally_not_confirmed",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0019",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_thanks_family_motto_advice",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0020",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_you_surprise_then_inner_historical_knowledge_alarm",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0021",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_medieval_fame_and_ancestor_fragments_recognition_report_bloodcough",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0023",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_confirms_guerduo_death_axe_escape",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0027",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_quotes_fortune_poem",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0028",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_overnight_invitation_nextday_talk_pending",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0029",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_accepts_stay",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0030",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_names_hexiang_guest_tianji_lou",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0031",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_no_friend_only_personal_visitor_selfreport",
+      "entity": "wang_siyuan",
+      "reference": "v06-c0123:p0032",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "inner_terminal_big_scheme_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0034",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_core_area_guidance_warning",
+      "entity": "hexiang",
+      "reference": "v06-c0123:p0036",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_about_twenty_days_training_error_report_tears",
+      "entity": "hexiang",
+      "reference": "v06-c0123:p0038",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_identifies_ancestral_hall",
+      "entity": "hexiang",
+      "reference": "v06-c0123:p0041",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_night_surroundings_sensing",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0043",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_other_self_imprints_connection_not_legend_promotion",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0044",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_terrifying_cry_heard_person_unknown",
+      "entity": "unknown_ancestral_scream",
+      "reference": "v06-c0123:p0046",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_asks_cry_cause",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0047",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_ancestor_death_residual_obsession_account_heavenpunishment_hearsay",
+      "entity": "hexiang",
+      "reference": "v06-c0123:p0048",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "inner_recall_shusheng_old_warning_not_live_voice",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0049",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_shusheng_died_elsewhere_clothes_only_report",
+      "entity": "hexiang",
+      "reference": "v06-c0123:p0051",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_earliest_residual_scream_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0123:p0052",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_second_cry_from_hall",
+      "entity": "unknown_ancestral_scream",
+      "reference": "v06-c0123:p0053",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_frightened_founder_attribution_report",
+      "entity": "hexiang",
+      "reference": "v06-c0123:p0054",
+      "fact_status": "source_action_or_scoped_report_hypothesis_plan_as_typed_not_all_independent_truth"
+    },
     {
       "type": "inner_echo_moonlight_not_new_voice",
       "entity": "meng_qi",

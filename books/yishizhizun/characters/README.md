@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷122章
+# 角色阶段索引 · 截至第六卷123章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–122章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–123章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [王思远病榻：咳血、识中古与私人来访](wang-bedridden-bloodcough-medieval-recognition-and-lonely-guest.md) | 第六卷123章证据与表演边界 |
+| [荷香引路、病因转述与祖祠残声](hexiang-guidance-illness-report-and-ancestral-screams.md) | 第六卷123章证据与表演边界 |
+| [王家祖祠：两次惨叫、立族祖报与数圣衣冠](wang-ancestral-hall-screams-founders-and-shusheng-clothes-only.md) | 第六卷123章证据与表演边界 |
 | [陆压第三事：五庄后人送匣、81封与血桃反应](luya-third-delivery-eightyone-seals-and-bloodpeach-response.md) | 第六卷122章证据与表演边界 |
 | [阮玉书除榜斩因果、晋大宗师与成年家务](ruan-list-erased-links-cut-grandmaster-and-grown-duty.md) | 第六卷122章证据与表演边界 |
 | [孟奇收起强夺：风险坦述与亲疏选择阮](meng-abandons-forced-list-seizure-and-chooses-ruan.md) | 第六卷122章证据与表演边界 |
@@ -1415,3 +1418,5 @@
 最新[第六卷121章复核](../reviews/review-v06-0121.md)与[状态账](../reviews/ledger-v06-0121.md)：齐地仙知情援手、绝刀天仙、月光本体急阻。
 
 最新[第六卷122章复核](../reviews/review-v06-0122.md)与[状态账](../reviews/ledger-v06-0122.md)：停止強夺、81封玉匣与阮大宗师成长。
+
+最新[第六卷123章复核](../reviews/review-v06-0123.md)与[状态账](../reviews/ledger-v06-0123.md)：王病榻试探、荷香报层和祖祠残声。
