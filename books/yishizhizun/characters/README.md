@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷112章
+# 角色阶段索引 · 截至第六卷113章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–112章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–113章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [药师遗气琉璃佛珠交付与历史收尾归返条件](medicine-aura-glass-bead-return-array-and-history-conditions.md) | 第六卷113章证据与表演边界 |
+| [孟推阿弥陀佛与道德古老对弈、因果好处证据限制](meng-amitabha-daode-chess-inference-and-benefit-evidence.md) | 第六卷113章证据与表演边界 |
+| [月光未来再会可能、孟代死方案与青帝状态判断](moonlight-future-reunion-possibility-qingdi-rank-assessment.md) | 第六卷113章证据与表演边界 |
 | [月光净土接引、卓伤复昏迷与孟隐未来](moonlight-pureland-summon-zhuo-healing-and-concealed-future.md) | 第六卷112章证据与表演边界 |
 | [药师五千年坐化自报、舍利菩提枯荣与本愿重演](medicine-buddha-relic-bodhi-wither-bloom-and-vow-replay.md) | 第六卷112章证据与表演边界 |
 | [青帝点醒时代真身、逐步统一过去与其他法身之谜](qingdi-past-unification-purpose-and-other-fashen-question.md) | 第六卷112章证据与表演边界 |
@@ -1362,3 +1365,5 @@
 最新[第六卷111章复核](../reviews/review-v06-0111.md)与[状态账](../reviews/ledger-v06-0111.md)：开天爆头重生、金身污染风险与镜片救卓消失。
 
 最新[第六卷112章复核](../reviews/review-v06-0112.md)与[状态账](../reviews/ledger-v06-0112.md)：东方琉璃接引、药师舍利本愿与青帝用意新疑。
+
+最新[第六卷113章复核](../reviews/review-v06-0113.md)与[状态账](../reviews/ledger-v06-0113.md)：返珠实际交付、古老对弈缺直证推理与也许再会。
