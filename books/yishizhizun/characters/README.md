@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷95章
+# 角色阶段索引 · 截至第六卷96章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–95章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–96章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [天帝化身自承、两具融回与韩广天仙确阶](han-tiandi-avatar-selfadmission-heaven-rank-and-two-bodies.md) | 第六卷96章证据与表演边界 |
+| [玉书一毁两取与数圣预劫追阿难](ananda-three-books-one-destroyed-two-taken-and-wang-pursuit.md) | 第六卷96章证据与表演边界 |
+| [孟碧各抗余波与尚未出手的联合意向](meng-bi-aftermath-survival-and-unexecuted-cooperation.md) | 第六卷96章证据与表演边界 |
 | [宣阳假苏灰灭与魔剑对本体的误判](xuanyang-impostor-whitehair-destruction-and-mojian-misreading.md) | 第六卷95章证据与表演边界 |
 | [任秋水与未名长者窥战：袁洪后台的误判](ren-elder-witness-whitehair-and-yuanhong-backing-inference.md) | 第六卷95章证据与表演边界 |
 | [韩广异声问雷神与阿难未答完的先攻](han-unfamiliar-tiandi-voice-questions-thunder-god-ananda-attack.md) | 第六卷95章证据与表演边界 |
@@ -1275,3 +1278,5 @@
 最新[第六卷94章复核](../reviews/review-v06-0094.md)与[状态账](../reviews/ledger-v06-0094.md)：阿难带路、抽史转述、孟补警告、韩广入遗迹与宣阳假孟。
 
 最新[第六卷95章复核](../reviews/review-v06-0095.md)与[状态账](../reviews/ledger-v06-0095.md)：假苏灰灭、袁洪后台误判与韩异声质问，阿难佛掌先攻。
+
+最新[第六卷96章复核](../reviews/review-v06-0096.md)与[状态账](../reviews/ledger-v06-0096.md)：玉书一毁两取、王预劫追出、韩天帝化身与天仙实证，三弟悬念。
