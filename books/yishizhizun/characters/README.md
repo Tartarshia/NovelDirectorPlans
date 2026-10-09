@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷114章
+# 角色阶段索引 · 截至第六卷115章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–114章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–115章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [陆孟三清真意实受、演法视像与完整修成的界限](meng-luda-sanqing-transmission-vision-and-complete-skill-boundary.md) | 第六卷115章证据与表演边界 |
+| [卓醒忆九幽图、孟求吹捧奇男子与留印未知](zhuo-awakens-map-memory-meng-fame-request-and-imprint-uncertainty.md) | 第六卷115章证据与表演边界 |
+| [数圣惊卓越死劫、未证灰僧与王家棋债之叹](wang-daolin-zhuo-death-fate-surprise-and-family-chess-debt.md) | 第六卷115章证据与表演边界 |
 | [月光远址重陵挪移、修正代价与尽量镇压约定](moonlight-distant-tomb-rebuild-transport-and-suppression-request.md) | 第六卷114章证据与表演边界 |
 | [何七血牢实救、赤袍混洞死亡与吴迟返空院](heqi-blood-prison-rescue-red-demon-blackhole-and-wu-return.md) | 第六卷114章证据与表演边界 |
 | [孟伪因果避混沌标记、三清十来次与留印计划](meng-false-causal-lines-sanqing-remaining-transmissions-and-imprint-plan.md) | 第六卷114章证据与表演边界 |
@@ -1372,3 +1375,5 @@
 最新[第六卷113章复核](../reviews/review-v06-0113.md)与[状态账](../reviews/ledger-v06-0113.md)：返珠实际交付、古老对弈缺直证推理与也许再会。
 
 最新[第六卷114章复核](../reviews/review-v06-0114.md)与[状态账](../reviews/ledger-v06-0114.md)：远陵安排、何实救与混洞灭院、伪天机及三清提议。
+
+最新[第六卷115章复核](../reviews/review-v06-0115.md)与[状态账](../reviews/ledger-v06-0115.md)：三清实受未全成、卓醒求吹捧与数圣棋局之叹。
