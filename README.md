@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第121章，1048 / 1410 个目录条目，约340.1万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第122章，1049 / 1410 个目录条目，约340.4万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第122章复核](books/yishizhizun/reviews/review-v06-0122.md)：81封送匣、阮脱轮回晋大宗师与成年担当，59段、98句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0122.md)。
 - [第六卷第121章复核](books/yishizhizun/reviews/review-v06-0121.md)：齐宫知情求援、绝刀天仙与陆压本体急阻，65段、106句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0121.md)。
 - [第六卷第120章复核](books/yishizhizun/reviews/review-v06-0120.md)：各地归返、月光避死实证与莲池星雨无变，85段、134句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0120.md)。
 - [第六卷第119章复核](books/yishizhizun/reviews/review-v06-0119.md)：真实界两年变局、江读中古书与东海归返悬念，58段、91句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0119.md)。
