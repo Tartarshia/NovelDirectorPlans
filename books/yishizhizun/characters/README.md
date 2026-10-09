@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷123章
+# 角色阶段索引 · 截至第六卷124章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–123章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–124章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [王祠洞天、九链祖棺与两次刮盖](wang-ancestral-caverealm-ninechains-and-two-coffin-sounds.md) | 第六卷124章证据与表演边界 |
+| [鬼神真灵图：历史口报、金绳实物与二十余日重现](wang-guishen-truespirit-scroll-history-and-twentyday-reappearance.md) | 第六卷124章证据与表演边界 |
+| [孟奇留宿意图推解、保护荷香与师叔分行](meng-infers-nightstay-invitation-protects-hexiang-and-qi-separates.md) | 第六卷124章证据与表演边界 |
 | [王思远病榻：咳血、识中古与私人来访](wang-bedridden-bloodcough-medieval-recognition-and-lonely-guest.md) | 第六卷123章证据与表演边界 |
 | [荷香引路、病因转述与祖祠残声](hexiang-guidance-illness-report-and-ancestral-screams.md) | 第六卷123章证据与表演边界 |
 | [王家祖祠：两次惨叫、立族祖报与数圣衣冠](wang-ancestral-hall-screams-founders-and-shusheng-clothes-only.md) | 第六卷123章证据与表演边界 |
@@ -1420,3 +1423,5 @@
 最新[第六卷122章复核](../reviews/review-v06-0122.md)与[状态账](../reviews/ledger-v06-0122.md)：停止強夺、81封玉匣与阮大宗师成长。
 
 最新[第六卷123章复核](../reviews/review-v06-0123.md)与[状态账](../reviews/ledger-v06-0123.md)：王病榻试探、荷香报层和祖祠残声。
+
+最新[第六卷124章复核](../reviews/review-v06-0124.md)与[状态账](../reviews/ledger-v06-0124.md)：祠洞天、两棺声、鬼神图报告与齐分行。
