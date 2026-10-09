@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷100章
+# 角色阶段索引 · 截至第六卷101章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–100章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–101章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [寒蝉三重布置、大智奉旨与黑发替身](hanchan-three-nets-dazhi-mandate-and-hair-substitution.md) | 第六卷101章证据与表演边界 |
+| [陆大接纯力首刀、唯我唯一感与下一刀预告](luda-bawang-first-blade-and-next-sixslash-pending.md) | 第六卷101章证据与表演边界 |
+| [脱困之后的戒备、未知动机与纯阳优先](meng-escaped-three-nets-unknown-motive-and-chunyang-first-choice.md) | 第六卷101章证据与表演边界 |
 | [袖里乾坤救灾、离仙空囚与屡害蛟处置](meng-flood-sleeve-rescue-and-jiaolong-execution-not-dead-revival.md) | 第六卷100章证据与表演边界 |
 | [海镜的管教辩论与七僧传请持符](haijing-hanchan-dazhi-mount-discipline-argument-and-sevenmonk-invitation.md) | 第六卷100章证据与表演边界 |
 | [江心源联系已经留下与寒蝉请寺悬念](meng-jiangxinyuan-causal-contact-left-and-hanchan-unclear-intent.md) | 第六卷100章证据与表演边界 |
@@ -1302,3 +1305,5 @@
 最新[第六卷99章复核](../reviews/review-v06-0099.md)与[状态账](../reviews/ledger-v06-0099.md)：正式初地仙、相应天仙水准与破时障，现在节点理解、古妲刀退活着。
 
 最新[第六卷100章复核](../reviews/review-v06-0100.md)与[状态账](../reviews/ledger-v06-0100.md)：救灾处蛟、海镜辩论、江心源已留联系与六字碎帖，纯阳老者未名。
+
+最新[第六卷101章复核](../reviews/review-v06-0101.md)与[状态账](../reviews/ledger-v06-0101.md)：三重脱困、奉旨动机仍未知，陆大接纯力刀与下一刀预告。
