@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷107章
+# 角色阶段索引 · 截至第六卷108章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–107章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–108章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟假算命联孙、未来签批与宋投韩报告](meng-fortuneteller-sun-chuci-private-contact-and-song-han-report.md) | 第六卷108章证据与表演边界 |
+| [高览前世留印、遗族返阵与未得核心](gaolan-pastlife-imprints-descendant-return-array-missing-core.md) | 第六卷108章证据与表演边界 |
+| [高览让古试改史的自述与晏然反事实痛问](gaolan-allows-gu-history-test-and-yanran-counterfactual-pain.md) | 第六卷108章证据与表演边界 |
 | [孟陆带物离陵后的修正、记缺与四条应急构想](meng-luda-history-backlash-memory-loss-and-four-emergency-plans.md) | 第六卷107章证据与表演边界 |
 | [何七间接日会机制、吴署名东海纸条与被擒推知](heqi-indirect-meeting-wu-signed-eastsea-note-and-capture-inference.md) | 第六卷107章证据与表演边界 |
 | [人皇遗族仙船、双卫礼迎与高览抵罗城](gaolan-humanemperor-descendant-vessel-luocheng-arrival.md) | 第六卷107章证据与表演边界 |
@@ -1337,3 +1340,5 @@
 最新[第六卷106章复核](../reviews/review-v06-0106.md)与[状态账](../reviews/ledger-v06-0106.md)：嘲讽压古、断妲因果取回，刀意预警带陆回罗城。
 
 最新[第六卷107章复核](../reviews/review-v06-0107.md)与[状态账](../reviews/ledger-v06-0107.md)：记忆修正四策未落、吴署名东海纸约、遗族仙船迎高览。
+
+最新[第六卷108章复核](../reviews/review-v06-0108.md)与[状态账](../reviews/ledger-v06-0108.md)：隐秘联孙、宋韩报告与高览返阵缺核及晏然痛问。
