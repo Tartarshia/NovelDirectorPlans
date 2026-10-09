@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第110章，1037 / 1410 个目录条目，约336.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第111章，1038 / 1410 个目录条目，约337.0万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第111章复核](books/yishizhizun/reviews/review-v06-0111.md)：开天爆头重生、魔爪污染风险与镜片救卓消失，51段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0111.md)。
 - [第六卷第110章复核](books/yishizhizun/reviews/review-v06-0110.md)：未发绝刀请托、人质软威胁与偏激魔论，首次交攻暂未破防；43段、66句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0110.md)。
 - [第六卷第109章复核](books/yishizhizun/reviews/review-v06-0109.md)：玄女准备与青帝线索、吴血月诱纸及卓被擒，53段、89句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0109.md)。
 - [第六卷第108章复核](books/yishizhizun/reviews/review-v06-0108.md)：假算命联孙与兄弟夜会、返阵缺核及晏然痛问，61段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0108.md)。
