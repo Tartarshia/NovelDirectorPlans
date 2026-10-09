@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷104章
+# 角色阶段索引 · 截至第六卷105章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–104章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–105章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [陆大专注追墓、伤后控剑借雷击棺](luda-focused-pursuit-wounded-sword-and-coffin-lightning-ruse.md) | 第六卷105章证据与表演边界 |
+| [纯阳三剑两真意像、妲持物与空棺残执声](chunyang-three-swords-two-statues-daji-possession-and-coffin-voice.md) | 第六卷105章证据与表演边界 |
+| [孟奇返陵后的纯阳青帝疑问与回途线索](meng-chunyang-qingdi-identity-question-and-return-route-hypothesis.md) | 第六卷105章证据与表演边界 |
 | [大智错拿霸王、六字符加袋与宝物认主限度](dazhi-accidental-bawang-bag-capture-and-owned-artifact-limits.md) | 第六卷104章证据与表演边界 |
 | [黄眉顶弥勒名与池旁主人的层层禀报](huangmei-mile-disguise-and-white-lotus-pool-master-report-chain.md) | 第六卷104章证据与表演边界 |
 | [孟奇开天返虚拳脱围与纯阳因果联系返陵](meng-breaks-unformed-sixmantra-and-returns-via-chunyang-contact.md) | 第六卷104章证据与表演边界 |
@@ -1322,3 +1325,5 @@
 最新[第六卷103章复核](../reviews/review-v06-0103.md)与[状态账](../reviews/ledger-v06-0103.md)：两度阵败、绝刀模糊意念与袖收搬局，江心源旧联系实际触发。
 
 最新[第六卷104章复核](../reviews/review-v06-0104.md)与[状态账](../reviews/ledger-v06-0104.md)：孟脱围联系返陵、暂袋收霸王，黄眉顶名层报与昔佛箴言记忆。
+
+最新[第六卷105章复核](../reviews/review-v06-0105.md)与[状态账](../reviews/ledger-v06-0105.md)：陆伤控剑触棺、妲已持物、孟返谁我与青帝疑路。
