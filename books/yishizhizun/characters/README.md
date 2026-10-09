@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷115章
+# 角色阶段索引 · 截至第六卷116章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–115章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–116章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [苏无名抵罗、前世印记判断与中古不死边界](su-wuming-arrival-imprint-inference-two-impostors-and-suicide-uncertainty.md) | 第六卷116章证据与表演边界 |
+| [飞仙谷会盟、海外去向报告与返归核心展示](feixian-valley-overseas-return-reports-causal-screen-and-core-display.md) | 第六卷116章证据与表演边界 |
+| [隐重陵合作、待援围剿分工与器圣求教](hidden-tomb-contribution-conditional-encirclement-and-artificer-study.md) | 第六卷116章证据与表演边界 |
 | [陆孟三清真意实受、演法视像与完整修成的界限](meng-luda-sanqing-transmission-vision-and-complete-skill-boundary.md) | 第六卷115章证据与表演边界 |
 | [卓醒忆九幽图、孟求吹捧奇男子与留印未知](zhuo-awakens-map-memory-meng-fame-request-and-imprint-uncertainty.md) | 第六卷115章证据与表演边界 |
 | [数圣惊卓越死劫、未证灰僧与王家棋债之叹](wang-daolin-zhuo-death-fate-surprise-and-family-chess-debt.md) | 第六卷115章证据与表演边界 |
@@ -1377,3 +1380,5 @@
 最新[第六卷114章复核](../reviews/review-v06-0114.md)与[状态账](../reviews/ledger-v06-0114.md)：远陵安排、何实救与混洞灭院、伪天机及三清提议。
 
 最新[第六卷115章复核](../reviews/review-v06-0115.md)与[状态账](../reviews/ledger-v06-0115.md)：三清实受未全成、卓醒求吹捧与数圣棋局之叹。
+
+最新[第六卷116章复核](../reviews/review-v06-0116.md)与[状态账](../reviews/ledger-v06-0116.md)：苏印判断与不死边界、飞仙谷返归会盟及待援分工。
