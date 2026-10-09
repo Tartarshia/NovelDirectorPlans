@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷99章
+# 角色阶段索引 · 截至第六卷100章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–99章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–100章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [袖里乾坤救灾、离仙空囚与屡害蛟处置](meng-flood-sleeve-rescue-and-jiaolong-execution-not-dead-revival.md) | 第六卷100章证据与表演边界 |
+| [海镜的管教辩论与七僧传请持符](haijing-hanchan-dazhi-mount-discipline-argument-and-sevenmonk-invitation.md) | 第六卷100章证据与表演边界 |
+| [江心源联系已经留下与寒蝉请寺悬念](meng-jiangxinyuan-causal-contact-left-and-hanchan-unclear-intent.md) | 第六卷100章证据与表演边界 |
+| [霸王抵纯阳陵与未名专注白发老者](bawang-chunyang-tomb-arrival-unnamed-devout-elder.md) | 第六卷100章证据与表演边界 |
 | [孟奇九窍天地确阶地仙与相应天仙水准](meng-earth-immortal-confirmed-nine-worlds-and-corresponding-heaven-power.md) | 第六卷99章证据与表演边界 |
 | [现在节点、相对未来与仍不能回归](meng-present-node-river-view-and-relative-future-understanding.md) | 第六卷99章证据与表演边界 |
 | [霸王刀退古妲与温柔暂别玄女](bawang-drives-gu-daji-outside-and-tender-xuannv-farewell.md) | 第六卷99章证据与表演边界 |
@@ -1296,3 +1300,5 @@
 最新[第六卷98章复核](../reviews/review-v06-0098.md)与[状态账](../reviews/ledger-v06-0098.md)：S15收束/S16开启，三年多苦修开窍未晋、霍暗追与吴一日后目标，霸王拒条件战果未定。
 
 最新[第六卷99章复核](../reviews/review-v06-0099.md)与[状态账](../reviews/ledger-v06-0099.md)：正式初地仙、相应天仙水准与破时障，现在节点理解、古妲刀退活着。
+
+最新[第六卷100章复核](../reviews/review-v06-0100.md)与[状态账](../reviews/ledger-v06-0100.md)：救灾处蛟、海镜辩论、江心源已留联系与六字碎帖，纯阳老者未名。
