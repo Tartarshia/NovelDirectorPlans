@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷106章
+# 角色阶段索引 · 截至第六卷107章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–106章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–107章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟陆带物离陵后的修正、记缺与四条应急构想](meng-luda-history-backlash-memory-loss-and-four-emergency-plans.md) | 第六卷107章证据与表演边界 |
+| [何七间接日会机制、吴署名东海纸条与被擒推知](heqi-indirect-meeting-wu-signed-eastsea-note-and-capture-inference.md) | 第六卷107章证据与表演边界 |
+| [人皇遗族仙船、双卫礼迎与高览抵罗城](gaolan-humanemperor-descendant-vessel-luocheng-arrival.md) | 第六卷107章证据与表演边界 |
 | [孟奇激将古尔多、抵谪仙与佯装死战](meng-guerduo-taunts-relegation-resistance-and-feigned-deathfight.md) | 第六卷106章证据与表演边界 |
 | [陆缠妲、香旗破阵与孟断因果取回传承](luda-daji-scent-banner-meng-causal-inheritance-retrieval.md) | 第六卷106章证据与表演边界 |
 | [绝刀私密预警、避霸王方向与孟陆回罗城](absolute-blade-private-warning-avoid-bawang-return-luocheng.md) | 第六卷106章证据与表演边界 |
@@ -1332,3 +1335,5 @@
 最新[第六卷105章复核](../reviews/review-v06-0105.md)与[状态账](../reviews/ledger-v06-0105.md)：陆伤控剑触棺、妲已持物、孟返谁我与青帝疑路。
 
 最新[第六卷106章复核](../reviews/review-v06-0106.md)与[状态账](../reviews/ledger-v06-0106.md)：嘲讽压古、断妲因果取回，刀意预警带陆回罗城。
+
+最新[第六卷107章复核](../reviews/review-v06-0107.md)与[状态账](../reviews/ledger-v06-0107.md)：记忆修正四策未落、吴署名东海纸约、遗族仙船迎高览。
