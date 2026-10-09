@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷117章
+# 角色阶段索引 · 截至第六卷118章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–117章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–118章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [古求斧缘、四剑阵死亡与混沌未具名玉手](guerduo-axe-origin-search-four-sword-death-and-unidentified-jade-hand.md) | 第六卷118章证据与表演边界 |
+| [妲九尾伤存净土收、孟的死敌叹与成长意图](daji-nine-tail-survives-moonlight-capture-and-meng-growth-lament.md) | 第六卷118章证据与表演边界 |
+| [龙台陵物归还、云鹤悔与佛珠启阵传话](longtai-tomb-restored-yunhe-regret-bead-array-and-message-delivery.md) | 第六卷118章证据与表演边界 |
 | [陆何宁西寻朱前世、三宝辅助与静默离场](luda-ningxi-zhubuxuan-pastlife-three-relics-and-silent-departure.md) | 第六卷117章证据与表演边界 |
 | [陆之平独有自我、纯化先升路线与一心剑低语](luzhiping-yeyuyan-husband-purified-self-first-legend-proposal.md) | 第六卷117章证据与表演边界 |
 | [器圣时冲老去、拟魂人偶愿与月光玉皇去向消息](artificer-aging-soul-mimic-puppet-wish-and-moonlight-yuhuang-report.md) | 第六卷117章证据与表演边界 |
@@ -1387,3 +1390,8 @@
 最新[第六卷116章复核](../reviews/review-v06-0116.md)与[状态账](../reviews/ledger-v06-0116.md)：苏印判断与不死边界、飞仙谷返归会盟及待援分工。
 
 最新[第六卷117章复核](../reviews/review-v06-0117.md)与[状态账](../reviews/ledger-v06-0117.md)：陆之平纯化路线设想、器圣人偶长存愿与月光去向实报。
+
+最新[第六卷118章复核](../reviews/review-v06-0118.md)与[状态账](../reviews/ledger-v06-0118.md)：四阵古死妲镇、未具名玉手与龙台启阵中古结束，S16收束。
+
+
+阶段收束：[V06-S16 · 98–118章成长与归返](meng-lu-su-gao-medieval-stage16-growth-and-return.md)。

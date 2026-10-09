@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第117章，1044 / 1410 个目录条目，约338.8万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第118章，1045 / 1410 个目录条目，约339.1万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第118章复核](books/yishizhizun/reviews/review-v06-0118.md)：四阵古死妲镇、未名玉手与龙台启阵中古结束，74段、93句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0118.md)，[S16成长收束](books/yishizhizun/characters/meng-lu-su-gao-medieval-stage16-growth-and-return.md)。
 - [第六卷第117章复核](books/yishizhizun/reviews/review-v06-0117.md)：一心剑纯化路线设想、器圣长存人偶愿与月光去向报告，67段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0117.md)。
 - [第六卷第116章复核](books/yishizhizun/reviews/review-v06-0116.md)：苏印判断与不死边界、飞仙谷返归会盟及待援分工，61段、105句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0116.md)。
 - [第六卷第115章复核](books/yishizhizun/reviews/review-v06-0115.md)：三清真意实受、卓醒求吹捧与数圣棋债，52段、88句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0115.md)。
