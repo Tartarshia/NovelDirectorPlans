@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷109章
+# 角色阶段索引 · 截至第六卷110章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–109章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–110章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [吴同伴陪葬软胁迫、孟未发刀求援与何质风险](wu-hostage-soft-coercion-meng-unsent-blade-request-and-heqi-threat.md) | 第六卷110章证据与表演边界 |
+| [卓痛哼、孟心死责任归位与吴偏激魔论](zhuo-pain-groan-meng-moral-position-and-wu-extreme-doctrine.md) | 第六卷110章证据与表演边界 |
+| [孟吴初交锋、庆云魔身与双防暂未破](meng-wu-first-clashes-qingyun-demonbody-and-unbroken-defenses.md) | 第六卷110章证据与表演边界 |
 | [高览玄女准备、古存在推演与皇太弟称谓梗](gaolan-xuannv-preparation-gu-existence-question-and-emperorbrother-joke.md) | 第六卷109章证据与表演边界 |
 | [吴血月现身、东海诱纸与混沌天机追踪](wu-bloodmoon-eastsea-note-bait-and-chaotic-fate-tracking.md) | 第六卷109章证据与表演边界 |
 | [卓潮生伤体被擒、祭品未成与吴蜕变的孟评](zhuo-captured-wounded-before-sacrifice-wu-completion-assessment.md) | 第六卷109章证据与表演边界 |
@@ -1347,3 +1350,5 @@
 最新[第六卷108章复核](../reviews/review-v06-0108.md)与[状态账](../reviews/ledger-v06-0108.md)：隐秘联孙、宋韩报告与高览返阵缺核及晏然痛问。
 
 最新[第六卷109章复核](../reviews/review-v06-0109.md)与[状态账](../reviews/ledger-v06-0109.md)：高玄女准备、返核青帝模糊线与吴血月诱纸、卓俘虏实身份。
+
+最新[第六卷110章复核](../reviews/review-v06-0110.md)与[状态账](../reviews/ledger-v06-0110.md)：何质软胁迫停召刀、卓痛哼与吴魔论、初交双防不破。
