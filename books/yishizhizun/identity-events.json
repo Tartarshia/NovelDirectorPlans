@@ -1,7 +1,193 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0118",
+  "through_chapter": "v06-c0119",
   "events": [
+    {
+      "type": "actual_recent_halfyear_quiet",
+      "entity": "dou_shop",
+      "reference": "v06-c0119:p0001",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "reported_jinao_feast_two_years_ago",
+      "entity": "dou_shopkeeper",
+      "reference": "v06-c0119:p0006",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "missing_fashen_death_or_capture_rumors_not_confirmed",
+      "entity": "dou_shopkeeper",
+      "reference": "v06-c0119:p0008",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "shopkeeper_reported_overseas_victories",
+      "entity": "jiang_zhiwei_ye_yuqi",
+      "reference": "v06-c0119:p0011",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "reported_introductory_peerless_skills_and_assessed_advancement",
+      "entity": "nanhuang",
+      "reference": "v06-c0119:p0014",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "inner_desire_not_actual_departure",
+      "entity": "new_shop_assistant",
+      "reference": "v06-c0119:p0015",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "conditional_dead_fashen_treasure_speculation",
+      "entity": "dou_shopkeeper",
+      "reference": "v06-c0119:p0017",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "quoted_popular_sea_adventure_slogan_not_other_live_voice",
+      "entity": "dou_shopkeeper",
+      "reference": "v06-c0119:p0019",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_qin_breakthrough_question",
+      "entity": "sima_shi",
+      "reference": "v06-c0119:p0023",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_qin_two_year_cultivation_and_first_breakthrough_goal",
+      "entity": "zhao_heng",
+      "reference": "v06-c0119:p0024",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "inner_last_chance_assessment",
+      "entity": "sima_shi",
+      "reference": "v06-c0119:p0027",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_empty_presence_cultivation_not_formal_rank_confirmed",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0119:p0030",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_acquired_by_junior_borrowed_by_jiang",
+      "entity": "medieval_sword_immortal_book",
+      "reference": "v06-c0119:p0034",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "document_historical_bawang_encirclement_death_not_current_kill",
+      "entity": "zhuo_chaosheng",
+      "reference": "v06-c0119:p0035",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_same_name_comment_not_identity_recognition",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0119:p0036",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "document_sword_saint_sumeng_rocheng_history",
+      "entity": "meng_qi",
+      "reference": "v06-c0119:p0037",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_ancient_modern_sword_opinion_surprise",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0119:p0038",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "document_human_immortal_sword_array_history_jiang_admiration",
+      "entity": "meng_qi",
+      "reference": "v06-c0119:p0039",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "inner_current_lu_meng_ability_assessment",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0119:p0040",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "document_earth_immortal_bawang_wu_zhuo_rescue_history",
+      "entity": "meng_qi",
+      "reference": "v06-c0119:p0041",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "document_modest_unfamed_portrayal_not_new_personality_fact",
+      "entity": "meng_qi",
+      "reference": "v06-c0119:p0042",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_soul_lamp_bright_safe_assessment_future_story_plan",
+      "entity": "jiang_zhiwei",
+      "reference": "v06-c0119:p0043",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_fashen_true_spirit_training",
+      "entity": "former_dajin_crown_prince",
+      "reference": "v06-c0119:p0046",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "selfreported_reward_body_huangmei_destroyed_by_mofo",
+      "entity": "former_dajin_crown_prince",
+      "reference": "v06-c0119:p0048",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_buddha_statue_fashen_merging_in_progress",
+      "entity": "former_dajin_crown_prince",
+      "reference": "v06-c0119:p0049",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "selfassessed_qingdi_current_advantage",
+      "entity": "former_dajin_crown_prince",
+      "reference": "v06-c0119:p0050",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "selfreported_amituo_sent_gao_away_two_year_growth",
+      "entity": "former_dajin_crown_prince",
+      "reference": "v06-c0119:p0051",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_appear_unlisted_names_tsunami",
+      "entity": "east_sea_strong_figures",
+      "reference": "v06-c0119:p0055",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "actual_startled_voice_representative_unknown",
+      "entity": "sea_travelers",
+      "reference": "v06-c0119:p0056",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "inner_missing_fashen_identity_question",
+      "entity": "sea_travelers",
+      "reference": "v06-c0119:p0057",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
+    {
+      "type": "inner_escape_question_not_all_return_confirmed",
+      "entity": "sea_travelers",
+      "reference": "v06-c0119:p0058",
+      "fact_status": "source_action_or_scoped_report_document_thought_as_typed_not_all_independent_truth"
+    },
     {
       "type": "actual_noon_yuhuang_climb",
       "entity": "guerduo_su_daji",

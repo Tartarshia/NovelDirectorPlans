@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷118章
+# 角色阶段索引 · 截至第六卷119章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–118章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–119章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [窦家店：法身失踪两年、南荒传功与海上冒险](dou-shop-two-year-absence-nanhuang-and-sea-adventure-reports.md) | 第六卷119章证据与表演边界 |
+| [江芷微：中古剑仙书与未认出的小和尚](jiang-medieval-sumeng-book-and-unrecognized-monk.md) | 第六卷119章证据与表演边界 |
+| [赵氏与前太子：秦王突破期待、法报修炼两年](zhao-qin-breakthrough-hope-and-formerprince-two-year-growth.md) | 第六卷119章证据与表演边界 |
 | [古求斧缘、四剑阵死亡与混沌未具名玉手](guerduo-axe-origin-search-four-sword-death-and-unidentified-jade-hand.md) | 第六卷118章证据与表演边界 |
 | [妲九尾伤存净土收、孟的死敌叹与成长意图](daji-nine-tail-survives-moonlight-capture-and-meng-growth-lament.md) | 第六卷118章证据与表演边界 |
 | [龙台陵物归还、云鹤悔与佛珠启阵传话](longtai-tomb-restored-yunhe-regret-bead-array-and-message-delivery.md) | 第六卷118章证据与表演边界 |
@@ -1395,3 +1398,5 @@
 
 
 阶段收束：[V06-S16 · 98–118章成长与归返](meng-lu-su-gao-medieval-stage16-growth-and-return.md)。
+
+最新[第六卷119章复核](../reviews/review-v06-0119.md)与[状态账](../reviews/ledger-v06-0119.md)：真实界两年变局、江读中古记载与东海强横身影。
