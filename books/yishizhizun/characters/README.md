@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷101章
+# 角色阶段索引 · 截至第六卷102章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–101章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–102章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [陆大天仙剑威未晋天仙、受创再立与配剑](luda-heaven-power-not-heaven-rank-and-wounded-stand.md) | 第六卷102章证据与表演边界 |
+| [孟奇到纯阳救陆、偷还传承仅险计划](meng-chunyang-arrival-rescues-luda-not-inheritance-taken.md) | 第六卷102章证据与表演边界 |
+| [熟悉招风诱长河、集中命运因果的合击](meng-lures-bawang-river-stroke-and-targets-fate-causality.md) | 第六卷102章证据与表演边界 |
 | [寒蝉三重布置、大智奉旨与黑发替身](hanchan-three-nets-dazhi-mandate-and-hair-substitution.md) | 第六卷101章证据与表演边界 |
 | [陆大接纯力首刀、唯我唯一感与下一刀预告](luda-bawang-first-blade-and-next-sixslash-pending.md) | 第六卷101章证据与表演边界 |
 | [脱困之后的戒备、未知动机与纯阳优先](meng-escaped-three-nets-unknown-motive-and-chunyang-first-choice.md) | 第六卷101章证据与表演边界 |
@@ -1307,3 +1310,5 @@
 最新[第六卷100章复核](../reviews/review-v06-0100.md)与[状态账](../reviews/ledger-v06-0100.md)：救灾处蛟、海镜辩论、江心源已留联系与六字碎帖，纯阳老者未名。
 
 最新[第六卷101章复核](../reviews/review-v06-0101.md)与[状态账](../reviews/ledger-v06-0101.md)：三重脱困、奉旨动机仍未知，陆大接纯力刀与下一刀预告。
+
+最新[第六卷102章复核](../reviews/review-v06-0102.md)与[状态账](../reviews/ledger-v06-0102.md)：陆伤再立孟实际到救，熟招诱长河、命运因果配剑未决胜。
