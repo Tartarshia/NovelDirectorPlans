@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷129章
+# 角色阶段索引 · 截至第六卷130章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–129章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–130章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [王思远正式遁一法身与自毁真灵悬念](wang-siyuan-formal-dunyi-yidao-body-and-selfspirit-strike-pending.md) | 第六卷130章证据与表演边界 |
+| [阎罗离府近传说拳与洛书神兵阵](yanluo-outside-underworld-near-legend-fist-and-luoshu-weapons-array.md) | 第六卷130章证据与表演边界 |
+| [图向初祖棺、束绳与图内迫醒前兆](wang-scroll-toward-founder-coffin-and-sacred-awakening-sign.md) | 第六卷130章证据与表演边界 |
 | [王怀恩以死阻路、异变与彻底消灭](wang-huaien-sacrificial-obstruction-death-and-monster-final-destruction.md) | 第六卷129章证据与表演边界 |
 | [天道怪规则再生与诛仙阵终灭](tiandao-monster-rule-regeneration-and-zhuxian-destruction.md) | 第六卷129章证据与表演边界 |
 | [祠门已开、仙雷与证法身未决](meng-shrine-door-open-and-wang-fashen-thunder-question.md) | 第六卷129章证据与表演边界 |
@@ -1450,3 +1453,5 @@
 最新[第六卷128章复核](../reviews/review-v06-0128.md)与[状态账](../reviews/ledger-v06-0128.md)：首刀已挡、拒转世利诱与隐脉劝退，七日后准备未斩。
 
 最新[第六卷129章复核](../reviews/review-v06-0129.md)与[状态账](../reviews/ledger-v06-0129.md)：怀恩死阻、群怪终灭与仙雷，已开祠门未斩沾因果。
+
+最新[第六卷130章复核](../reviews/review-v06-0130.md)与[状态账](../reviews/ledger-v06-0130.md)：正式易道真身、阎罗阻图与自毁真灵未决。
