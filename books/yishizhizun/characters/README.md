@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷138章
+# 角色阶段索引 · 截至第六卷139章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–138章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–139章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [鬼帝附体何暮、两星击破与本体未灭](ghost-emperor-possesses-he-mu-two-star-break-and-body-not-destroyed.md) | 第六卷139章证据与表演边界 |
+| [齐开放功法交付、附条件与迟战准备](qi-open-skill-delivery-conditional-access-and-delayed-conflict-preparation.md) | 第六卷139章证据与表演边界 |
+| [金乌辅助件进度与霍仿制拦截计划](jinwu-auxiliary-parts-progress-and-huo-copy-interception-plans.md) | 第六卷139章证据与表演边界 |
 | [方借轮稳场与范接炼器、帖效果知识差](fang-borrowed-wheel-aura-fan-letter-knowledge-gap-and-accepted-craft.md) | 第六卷138章证据与表演边界 |
 | [霍以鞭识旧假太乙与元始名推测、名感限度](huo-whip-links-false-taiyi-yuanshi-guess-and-name-sensing-limit.md) | 第六卷138章证据与表演边界 |
 | [何暮第一天梯、南荒初见与未名黑影](he-mu-first-ladder-nanhuang-hope-and-unidentified-shadow.md) | 第六卷138章证据与表演边界 |
@@ -1495,3 +1498,5 @@
 最新[第六卷137章复核](../reviews/review-v06-0137.md)与[状态账](../reviews/ledger-v06-0137.md)：方任务实进、何送达与炼成待。
 
 最新[第六卷138章复核](../reviews/review-v06-0138.md)与[状态账](../reviews/ledger-v06-0138.md)：范接单未交货、何抵齐黑影未名。
+
+最新[第六卷139章复核](../reviews/review-v06-0139.md)与[状态账](../reviews/ledger-v06-0139.md)：鬼帝本体未灭、开放篇已交、仿制拦截尚计划。
