@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第133章，1060 / 1410 个目录条目，约343.5万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第134章，1061 / 1410 个目录条目，约343.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第134章复核](books/yishizhizun/reviews/review-v06-0134.md)：沾因果三用、舍家自主与顾后手线索，42段、82句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0134.md)。
 - [第六卷第133章复核](books/yishizhizun/reviews/review-v06-0133.md)：齐法身晋成、洞天毁与王重塑，72段、80句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0133.md)。
 - [第六卷第132章复核](books/yishizhizun/reviews/review-v06-0132.md)：王消散、未知因果与齐证法身启动，63段、80句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0132.md)。
 - [第六卷第131章复核](books/yishizhizun/reviews/review-v06-0131.md)：献祭、洛书争夺与约刀粘线，59段、67句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0131.md)。
