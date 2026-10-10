@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷126章
+# 角色阶段索引 · 截至第六卷127章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–126章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–127章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇古地府博弈推解与未知帝候选](meng-ancient-underworld-game-inference-and-emperor-candidates-unresolved.md) | 第六卷127章证据与表演边界 |
+| [道一灯照因果、跨梦远刀与未晋传说](meng-daoyi-causal-lamp-crossdream-blade-not-legend-rank.md) | 第六卷127章证据与表演边界 |
+| [转轮王、崔牛马梦殿与远刀抵达](zhuanlun-king-hall-cui-report-and-remote-blade-arrival.md) | 第六卷127章证据与表演边界 |
 | [福伯形象：送食警告、时空抓回与烟散](fubo-form-ghost-warning-space-capture-and-smoke-disappearance.md) | 第六卷126章证据与表演边界 |
 | [牛马与崔判官形象：收袖经历、未知大帝与末空](bull-horse-cui-judge-forms-sleeve-capture-and-unidentified-emperor.md) | 第六卷126章证据与表演边界 |
 | [孟奇冷月思绪：改救榜方式、南荒斡旋与传说愿](meng-coldmoon-list-rescue-nanhuang-mediation-and-legend-wish.md) | 第六卷126章证据与表演边界 |
@@ -1435,3 +1438,5 @@
 最新[第六卷125章复核](../reviews/review-v06-0125.md)与[状态账](../reviews/ledger-v06-0125.md)：自称天道怪、疯狂非病愈、桃无反应和七日请求未答。
 
 最新[第六卷126章复核](../reviews/review-v06-0126.md)与[状态账](../reviews/ledger-v06-0126.md)：请求后不问离去、冷月诸计划与鬼府似梦警告。
+
+最新[第六卷127章复核](../reviews/review-v06-0127.md)与[状态账](../reviews/ledger-v06-0127.md)：上古推解与梦境转轮殿远刀实际抵达。
