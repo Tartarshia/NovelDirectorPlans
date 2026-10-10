@@ -1,11 +1,13 @@
-# 角色阶段索引 · 截至第六卷143章
+# 角色阶段索引 · 截至第六卷144章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–143章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–144章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [圣佛菩提接引与八九补全口述、元始马甲推断](shengfo-bodhi-guidance-bajiu-account-and-yuanshi-avatar-hypothesis.md) | 第六卷144章证据与表演边界 |
+| [五庄两支、镇元生死未明与东海人参树报告](wuzhuang-two-branches-zhenyuan-unknown-and-eastsea-ginseng-tree-report.md) | 第六卷144章证据与表演边界 |
 | [天柱不灭化身、时限与阿难冒称策略](meng-tianzhu-immortal-body-avatar-time-limit-and-ananda-cover.md) | 第六卷143章证据与表演边界 |
 | [不死灵山口述、佛门判断与双候选未确认](undying-lingshan-account-buddhist-hypothesis-and-unconfirmed-two-names.md) | 第六卷143章证据与表演边界 |
 | [欢喜怜欲最简编号符设想与特别群组隐私误判](huanxi-lianyu-basic-number-token-plan-and-special-group-privacy-error.md) | 第六卷142章证据与表演边界 |
@@ -1520,3 +1522,5 @@
 最新[第六卷142章复核](../reviews/review-v06-0142.md)与[状态账](../reviews/ledger-v06-0142.md)：黄睛非黄眉、不死实名待、未知call留疑。
 
 最新[第六卷143章复核](../reviews/review-v06-0143.md)与[状态账](../reviews/ledger-v06-0143.md)：本尊留外、化身地仙、阿难冒称及佛门双候选未确认。
+
+最新[第六卷144章复核](../reviews/review-v06-0144.md)与[状态账](../reviews/ledger-v06-0144.md)：不死实名未认、圣佛元始推断、五庄两支报告与化身限到渐散。
