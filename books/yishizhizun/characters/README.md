@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷130章
+# 角色阶段索引 · 截至第六卷131章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–130章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–131章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [王献祭三类资源与洛书无主](wang-sacrifice-ancestral-weapons-corpses-luoshu-mark-and-ownerless-treasure.md) | 第六卷131章证据与表演边界 |
+| [酆都少力、魔君与未名琴手云争洛书](fengdu-small-power-mojun-and-unnamed-hands-luoshu-contest.md) | 第六卷131章证据与表演边界 |
+| [孟实际粘走因果线、王末恐惧与结果未决](meng-actual-causal-line-cut-wang-final-fear-outcome-pending.md) | 第六卷131章证据与表演边界 |
 | [王思远正式遁一法身与自毁真灵悬念](wang-siyuan-formal-dunyi-yidao-body-and-selfspirit-strike-pending.md) | 第六卷130章证据与表演边界 |
 | [阎罗离府近传说拳与洛书神兵阵](yanluo-outside-underworld-near-legend-fist-and-luoshu-weapons-array.md) | 第六卷130章证据与表演边界 |
 | [图向初祖棺、束绳与图内迫醒前兆](wang-scroll-toward-founder-coffin-and-sacred-awakening-sign.md) | 第六卷130章证据与表演边界 |
@@ -1455,3 +1458,5 @@
 最新[第六卷129章复核](../reviews/review-v06-0129.md)与[状态账](../reviews/ledger-v06-0129.md)：怀恩死阻、群怪终灭与仙雷，已开祠门未斩沾因果。
 
 最新[第六卷130章复核](../reviews/review-v06-0130.md)与[状态账](../reviews/ledger-v06-0130.md)：正式易道真身、阎罗阻图与自毁真灵未决。
+
+最新[第六卷131章复核](../reviews/review-v06-0131.md)与[状态账](../reviews/ledger-v06-0131.md)：献祭、洛书无主争夺与约刀实际粘线。
