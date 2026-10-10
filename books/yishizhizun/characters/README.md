@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷136章
+# 角色阶段索引 · 截至第六卷137章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–136章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–137章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟双徒任务：离仙送信与三世轮补材](meng-two-disciple-tasks-lixian-letter-and-mingwang-crafting.md) | 第六卷137章证据与表演边界 |
+| [方金乌抵达与拜帖宇宙视像](fang-huayin-jinwu-arrival-letter-universe-vision-not-meng-rank.md) | 第六卷137章证据与表演边界 |
+| [云月元皇或熟法身为太乙的假说](yunyue-yuanhuang-or-familiar-fashen-taiyi-hypothesis.md) | 第六卷137章证据与表演边界 |
 | [南荒开放功法与宗门改传承方案](nanhuang-open-skill-sect-school-proposal-and-advanced-smallclass.md) | 第六卷136章证据与表演边界 |
 | [孟公开和解与内心实力底线、叶余疑](meng-public-reconciliation-inner-power-and-ye-residual-doubt.md) | 第六卷136章证据与表演边界 |
 | [孟顾另藏青莲假说与寻前高风险准备](meng-xiaosang-other-chaos-lotus-hypothesis-and-risk-before-search.md) | 第六卷135章证据与表演边界 |
@@ -1485,3 +1488,5 @@
 最新[第六卷135章复核](../reviews/review-v06-0135.md)与[状态账](../reviews/ledger-v06-0135.md)：陆晋天仙已明，顾另莲仍假说。
 
 最新[第六卷136章复核](../reviews/review-v06-0136.md)与[状态账](../reviews/ledger-v06-0136.md)：暂解不是永久和解，方案未落地。
+
+最新[第六卷137章复核](../reviews/review-v06-0137.md)与[状态账](../reviews/ledger-v06-0137.md)：方任务实进、何送达与炼成待。
