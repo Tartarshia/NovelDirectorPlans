@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第125章，1052 / 1410 个目录条目，约341.3万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第126章，1053 / 1410 个目录条目，约341.5万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第126章复核](books/yishizhizun/reviews/review-v06-0126.md)：不追问离场、冷月救友计划与鬼府似梦警告，60段、89句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0126.md)。
 - [第六卷第125章复核](books/yishizhizun/reviews/review-v06-0125.md)：天道怪报告、疯狂非病愈与七日斩因果请求，49段、91句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0125.md)。
 - [第六卷第124章复核](books/yishizhizun/reviews/review-v06-0124.md)：祠堂洞天、两具棺柩声音与鬼神图来源，57段、89句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0124.md)。
 - [第六卷第123章复核](books/yishizhizun/reviews/review-v06-0123.md)：病榻探王、中古家训识别与祖祠惨叫来源，54段、92句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0123.md)。

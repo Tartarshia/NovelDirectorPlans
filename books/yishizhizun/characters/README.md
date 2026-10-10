@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷125章
+# 角色阶段索引 · 截至第六卷126章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–125章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–126章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [福伯形象：送食警告、时空抓回与烟散](fubo-form-ghost-warning-space-capture-and-smoke-disappearance.md) | 第六卷126章证据与表演边界 |
+| [牛马与崔判官形象：收袖经历、未知大帝与末空](bull-horse-cui-judge-forms-sleeve-capture-and-unidentified-emperor.md) | 第六卷126章证据与表演边界 |
+| [孟奇冷月思绪：改救榜方式、南荒斡旋与传说愿](meng-coldmoon-list-rescue-nanhuang-mediation-and-legend-wish.md) | 第六卷126章证据与表演边界 |
 | [王氏自称天道怪：死后七日、封镇与数圣例外](wang-selfnamed-tiandao-monsters-seven-days-and-shusheng-exception.md) | 第六卷125章证据与表演边界 |
 | [王思远疯狂非病愈：家族痛苦与七日斩因果请求](wang-madness-not-recovery-family-suffering-and-sevenday-blade-request.md) | 第六卷125章证据与表演边界 |
 | [孟奇忍住血桃试棺、图空报层与两事推解](meng-bloodpeach-coffin-test-withheld-and-scroll-empty-report.md) | 第六卷125章证据与表演边界 |
@@ -1430,3 +1433,5 @@
 最新[第六卷124章复核](../reviews/review-v06-0124.md)与[状态账](../reviews/ledger-v06-0124.md)：祠洞天、两棺声、鬼神图报告与齐分行。
 
 最新[第六卷125章复核](../reviews/review-v06-0125.md)与[状态账](../reviews/ledger-v06-0125.md)：自称天道怪、疯狂非病愈、桃无反应和七日请求未答。
+
+最新[第六卷126章复核](../reviews/review-v06-0126.md)与[状态账](../reviews/ledger-v06-0126.md)：请求后不问离去、冷月诸计划与鬼府似梦警告。
