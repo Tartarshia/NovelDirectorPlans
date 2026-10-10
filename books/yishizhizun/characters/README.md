@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷134章
+# 角色阶段索引 · 截至第六卷135章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–134章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–135章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟顾另藏青莲假说与寻前高风险准备](meng-xiaosang-other-chaos-lotus-hypothesis-and-risk-before-search.md) | 第六卷135章证据与表演边界 |
+| [方伯招徒焦虑游说与偷学假说](fang-bo-wuxiang-soul-sect-recruitment-lobby-and-theft-hypothesis.md) | 第六卷135章证据与表演边界 |
+| [陆正式天仙与南荒善恶迷惑](luda-formal-heavenimmortal-return-meditation-and-nanhuang-doubt.md) | 第六卷135章证据与表演边界 |
 | [王沾因果三用、仿珠与目的隐藏](wang-causal-cut-three-uses-imitation-pearl-and-hidden-purpose.md) | 第六卷134章证据与表演边界 |
 | [王舍家底蕴与洛书求自主](wang-clan-and-luoshu-abandonment-for-autonomy-not-legend-rank.md) | 第六卷134章证据与表演边界 |
 | [孟齐立场未答与顾后手线索](meng-qi-position-question-and-xiaosang-hidden-backup-hint.md) | 第六卷134章证据与表演边界 |
@@ -1476,3 +1479,5 @@
 最新[第六卷133章复核](../reviews/review-v06-0133.md)与[状态账](../reviews/ledger-v06-0133.md)：法身晋成与重塑归来，洛书仍未定。
 
 最新[第六卷134章复核](../reviews/review-v06-0134.md)与[状态账](../reviews/ledger-v06-0134.md)：剖析有信息来源，顾后手未明。
+
+最新[第六卷135章复核](../reviews/review-v06-0135.md)与[状态账](../reviews/ledger-v06-0135.md)：陆晋天仙已明，顾另莲仍假说。
