@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷141章
+# 角色阶段索引 · 截至第六卷142章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–141章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–142章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [欢喜怜欲最简编号符设想与特别群组隐私误判](huanxi-lianyu-basic-number-token-plan-and-special-group-privacy-error.md) | 第六卷142章证据与表演边界 |
+| [黄睛妖王、假龙威礼物与未知诱惑来电](huangjing-king-false-dragon-gift-and-unidentified-seductive-call.md) | 第六卷142章证据与表演边界 |
+| [不死妖神天柱位置、古老自述与灵山传言](undying-demon-god-tianzhu-location-ancient-claims-and-lingshan-rumor.md) | 第六卷142章证据与表演边界 |
 | [孟三身纯化权宜、未时间三身与西游实抵](meng-three-body-purification-not-time-triad-and-xiyou-arrival.md) | 第六卷141章证据与表演边界 |
 | [通识上传方案、状态配文与好友下线](tongshiqiu-uploaded-proposals-status-captions-and-friends-offline.md) | 第六卷141章证据与表演边界 |
 | [九头虫后裔、五庄寻址与妖王喷嚏](ninehead-descendant-wuzhuang-search-and-demon-sneezes-not-capture.md) | 第六卷141章证据与表演边界 |
@@ -1511,3 +1514,5 @@
 最新[第六卷140章复核](../reviews/review-v06-0140.md)与[状态账](../reviews/ledger-v06-0140.md)：通识球实成、仿件爆、三身与西游待。
 
 最新[第六卷141章复核](../reviews/review-v06-0141.md)与[状态账](../reviews/ledger-v06-0141.md)：S17收束、S18纯法西游实返，三身权宜。
+
+最新[第六卷142章复核](../reviews/review-v06-0142.md)与[状态账](../reviews/ledger-v06-0142.md)：黄睛非黄眉、不死实名待、未知call留疑。
