@@ -1,11 +1,13 @@
-# 角色阶段索引 · 截至第六卷142章
+# 角色阶段索引 · 截至第六卷143章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–142章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–143章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [天柱不灭化身、时限与阿难冒称策略](meng-tianzhu-immortal-body-avatar-time-limit-and-ananda-cover.md) | 第六卷143章证据与表演边界 |
+| [不死灵山口述、佛门判断与双候选未确认](undying-lingshan-account-buddhist-hypothesis-and-unconfirmed-two-names.md) | 第六卷143章证据与表演边界 |
 | [欢喜怜欲最简编号符设想与特别群组隐私误判](huanxi-lianyu-basic-number-token-plan-and-special-group-privacy-error.md) | 第六卷142章证据与表演边界 |
 | [黄睛妖王、假龙威礼物与未知诱惑来电](huangjing-king-false-dragon-gift-and-unidentified-seductive-call.md) | 第六卷142章证据与表演边界 |
 | [不死妖神天柱位置、古老自述与灵山传言](undying-demon-god-tianzhu-location-ancient-claims-and-lingshan-rumor.md) | 第六卷142章证据与表演边界 |
@@ -1516,3 +1518,5 @@
 最新[第六卷141章复核](../reviews/review-v06-0141.md)与[状态账](../reviews/ledger-v06-0141.md)：S17收束、S18纯法西游实返，三身权宜。
 
 最新[第六卷142章复核](../reviews/review-v06-0142.md)与[状态账](../reviews/ledger-v06-0142.md)：黄睛非黄眉、不死实名待、未知call留疑。
+
+最新[第六卷143章复核](../reviews/review-v06-0143.md)与[状态账](../reviews/ledger-v06-0143.md)：本尊留外、化身地仙、阿难冒称及佛门双候选未确认。
