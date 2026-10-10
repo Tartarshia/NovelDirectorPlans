@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷131章
+# 角色阶段索引 · 截至第六卷132章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–131章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–132章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟避三险线、未知人生线承担](meng-three-danger-lines-avoided-unknown-life-memory-line-attaches.md) | 第六卷132章证据与表演边界 |
+| [王法身消散、暗红初祖线与南荒生机疑](wang-body-disappearance-darkred-founder-line-and-nanhuang-life-question.md) | 第六卷132章证据与表演边界 |
+| [齐正言自强星证法身启动与魔君退路被挡](qi-ziqiang-star-fashen-attempt-mojun-withdrawal-blocked.md) | 第六卷132章证据与表演边界 |
+| [琴手被称伏皇与未决洛书争夺](qin-hand-called-fuhuang-and-luoshu-contest-still-unresolved.md) | 第六卷132章证据与表演边界 |
 | [王献祭三类资源与洛书无主](wang-sacrifice-ancestral-weapons-corpses-luoshu-mark-and-ownerless-treasure.md) | 第六卷131章证据与表演边界 |
 | [酆都少力、魔君与未名琴手云争洛书](fengdu-small-power-mojun-and-unnamed-hands-luoshu-contest.md) | 第六卷131章证据与表演边界 |
 | [孟实际粘走因果线、王末恐惧与结果未决](meng-actual-causal-line-cut-wang-final-fear-outcome-pending.md) | 第六卷131章证据与表演边界 |
@@ -1460,3 +1464,5 @@
 最新[第六卷130章复核](../reviews/review-v06-0130.md)与[状态账](../reviews/ledger-v06-0130.md)：正式易道真身、阎罗阻图与自毁真灵未决。
 
 最新[第六卷131章复核](../reviews/review-v06-0131.md)与[状态账](../reviews/ledger-v06-0131.md)：献祭、洛书无主争夺与约刀实际粘线。
+
+最新[第六卷132章复核](../reviews/review-v06-0132.md)与[状态账](../reviews/ledger-v06-0132.md)：未知承担、王本界消散与南荒晋阶启动。
