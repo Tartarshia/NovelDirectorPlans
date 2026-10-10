@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第144章，1071 / 1410 个目录条目，约346.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第145章，1072 / 1410 个目录条目，约347.0万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第145章复核](books/yishizhizun/reviews/review-v06-0145.md)：东海问路、因果重连降星与法海伪名，61段、96句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0145.md)。
 - [第六卷第144章复核](books/yishizhizun/reviews/review-v06-0144.md)：身份留疑、圣佛马甲与五庄两支，40段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0144.md)。
 - [第六卷第143章复核](books/yishizhizun/reviews/review-v06-0143.md)：有限化身入天柱、阿难试探与灵山口述，62段、99句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0143.md)。
 - [第六卷第142章复核](books/yishizhizun/reviews/review-v06-0142.md)：匿名符误判、假龙问路与不死妖神传言，71段、123句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0142.md)。
