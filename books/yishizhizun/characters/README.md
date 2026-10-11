@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷156章
+# 角色阶段索引 · 截至第六卷157章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–156章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–157章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [韩广：控制已拔、三条因果与兑换玉柱计划](han-control-removed-three-causal-lines-and-exchange-pillar-plan.md) | 第六卷157章证据与表演边界 |
+| [赵谦：前太子、神掌招揽与舍身代死说](zhao-qian-formerprince-eightpalms-offer-and-bodydeath-account.md) | 第六卷157章证据与表演边界 |
+| [碧景璇：金鳌白帝自述与未知后台](bi-former-jinao-whiteemperor-and-unknown-backing.md) | 第六卷157章证据与表演边界 |
+| [玉虚开门布局、四人入宫与剑气击钟](true-yuxu-door-layout-three-followers-and-bell-strike.md) | 第六卷157章证据与表演边界 |
 | [未名少女：星火求武与五年生活改善](unnamed-starfire-girl-fiveyear-livelihood-and-network-hope.md) | 第六卷156章证据与表演边界 |
 | [卷帘神使：提前苏醒、巨大损伤与赴宫](juanlian-envoy-early-costly-awakening-and-yuxu-order.md) | 第六卷156章证据与表演边界 |
 | [通识球质押借鞭与玉虚宫前三方](tongshiqiu-pledged-whip-no-allies-and-three-yuxu-waiters.md) | 第六卷156章证据与表演边界 |
@@ -1582,3 +1586,5 @@
 最新[第六卷155章复核](../reviews/review-v06-0155.md)及[状态账](../reviews/ledger-v06-0155.md)：木像成、九影未印、全窍开但天仙未晋。
 
 最新[第六卷156章复核](../reviews/review-v06-0156.md)与[状态账](../reviews/ledger-v06-0156.md)：质押借鞭、卷帘提前醒、宫前未开门。
+
+最新[第六卷157章复核](../reviews/review-v06-0157.md)与[状态账](../reviews/ledger-v06-0157.md)：开门问来意，赵谦白帝具认，未知气来击钟。
