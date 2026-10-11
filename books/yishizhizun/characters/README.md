@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷153章
+# 角色阶段索引 · 截至第六卷154章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–153章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–154章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [聪哥与学校反抗：未贴符的受伤战斗](cong-school-bullies-fei-unprotected-counterattack-and-retreat.md) | 第六卷154章证据与表演边界 |
+| [三月自描元皇、刘韵陶木雕店与雷云](three-month-selfdrawn-yuanhuang-liuyuntao-carving-and-thunder.md) | 第六卷154章证据与表演边界 |
+| [爵士枪下单、等值跨界运费与三十币懊恼](jazz-pistol-purchase-doubleprice-yuxu-courier-and-thirtycoin-regret.md) | 第六卷154章证据与表演边界 |
 | [数学上架、选择可见与商城售假制裁](fei-math-listing-selective-visibility-wang-purchase-and-market-penalty.md) | 第六卷153章证据与表演边界 |
 | [玉虚实物快递、教战与元皇参拜意向](yuxu-delivery-two-items-bully-advice-unfinished-appointment-and-faith.md) | 第六卷153章证据与表演边界 |
 | [传记激励、五币奖励与免费功法门槛](fei-yuanhuang-biography-inspiration-and-fivecoin-free-skill-test.md) | 第六卷152章证据与表演边界 |
@@ -1567,3 +1570,5 @@
 最新[第六卷152章复核](../reviews/review-v06-0152.md)及[状态账](../reviews/ledger-v06-0152.md)：气感成功不筑基完成，传记任务文字与师徒声音分开。
 
 最新[第六卷153章复核](../reviews/review-v06-0153.md)与[状态账](../reviews/ledger-v06-0153.md)：王买数学、两物实送，未学校反击或元皇立像完成。
+
+最新[第六卷154章复核](../reviews/review-v06-0154.md)与[状态账](../reviews/ledger-v06-0154.md)：反抗实际未符战验，枪实到与三月画像雷云。
