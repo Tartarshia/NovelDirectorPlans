@@ -5,3 +5,7 @@
 孟到熟路心微妙actual移家，男子还actual讲三皇五帝神话变迁却见空座闭窗，想昨夜片内疑遇鬼，非真鬼实体。家置气依旧，母厨房做菜父擦桌摆碗、黑白猫专注电视皆actual无本章台词。孟眼模糊准备现身未真现，门开熟身actual高声喊父母回来，明确又一个孟奇像未离。稳定另设earth_returned_meng_lookalike_unresolved，非主孟分身/魔佛/他我/幻象已证，未与父母相认或解身份。
 
 客车男子稳定earth_bus_middleaged_passenger_unnamed，兴趣讲述不权威全史。门口另孟稳定earth_returned_meng_lookalike_unresolved，surface熟悉孟奇相貌，不并入真主体meng_qi台词，身份待后章原证。父母、黑白猫此章没有台词，不能提前猫神或父母知真相。证据v06-c0168:p0057–p0077。
+
+## 第六卷169章后证 · V06-S21
+
+16934/35明确另孟是魔佛新魂灌旧忆、杨取血捏肉身替代，独立自我非主孟分身。保earth_returned_meng_lookalike_unresolved稳定ID以便历史追踪，当前surface改resolved_earth_meng_new_soul_yang_blood_body，旧168未知不倒改已知。主孟留书认兄弟，蔡电话感谢昨日指点错认对象。证据v06-c0169:p0001–p0072。

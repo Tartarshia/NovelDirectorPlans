@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第168章，1095 / 1410 个目录条目，约354.0万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第169章，1096 / 1410 个目录条目，约354.3万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第169章复核](books/yishizhizun/reviews/review-v06-0169.md)：另孟新魂替肉、认兄弟与我之体悟近天仙，72段、117句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0169.md)。
 - [第六卷第168章复核](books/yishizhizun/reviews/review-v06-0168.md)：实际碑回过往捕因归地球、故人避险与另孟悬念，77段、110句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0168.md)。
 - [第六卷第167章复核](books/yishizhizun/reviews/review-v06-0167.md)：孙受心法、南宫冲队长留乡与七杀碑限一次实借，78段、118句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0167.md)。
 - [第六卷第166章复核](books/yishizhizun/reviews/review-v06-0166.md)：消息后手判断、两莲种安置与回地球筹谋，50段、60句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0166.md)。
