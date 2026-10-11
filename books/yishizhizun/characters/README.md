@@ -1,11 +1,13 @@
-# 角色阶段索引 · 截至第六卷167章
+# 角色阶段索引 · 截至第六卷168章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–167章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–168章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟回地球、天机边界与蔡杨故人避险](meng-earth-return-divination-limit-and-cai-yang-encounter.md) | 第六卷168章证据与表演边界 |
+| [客车神话谈话、家中另孟与未揭身份](earth-bus-myth-discussion-and-home-second-meng-unresolved.md) | 第六卷168章证据与表演边界 |
 | [南宫冲：队长成长、留乡选择与通识符师缘](nangong-chong-science-captain-earthly-family-choice-and-token-link.md) | 第六卷167章证据与表演边界 |
 | [孟掌内示法、孙受心法与七杀一次借碑](meng-palmworld-sun-method-gift-and-qisha-once-tablet-loan.md) | 第六卷167章证据与表演边界 |
 | [孟消息后手判断、两莲种安置与灵智投影伦理界限](meng-message-backup-chaos-two-seeds-and-refusal-to-kill-sentient-projection.md) | 第六卷166章证据与表演边界 |
@@ -1628,3 +1630,5 @@
 最新[第六卷166章复核](../reviews/review-v06-0166.md)与[状态账](../reviews/ledger-v06-0166.md)：后手消息认识、莲种实安、回地球仍拟、S20收束S21引子。
 
 最新[第六卷167章复核](../reviews/review-v06-0167.md)与[状态账](../reviews/ledger-v06-0167.md)：孙掌内受法、冲队长留乡、七杀碑限次实借，尚未回溯。
+
+最新[第六卷168章复核](../reviews/review-v06-0168.md)与[状态账](../reviews/ledger-v06-0168.md)：实际归地球、蔡听劝避险、另孟身份未揭。
