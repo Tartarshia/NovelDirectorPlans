@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷147章
+# 角色阶段索引 · 截至第六卷148章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–147章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–148章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [许玄认法海师叔与孟奇伪支脉托物说辞](xu-fahai-shishu-acceptance-and-fabricated-branch-delivery-account.md) | 第六卷148章证据与表演边界 |
+| [陆压玉匣实际交付：瑶池水、半蟠桃与被压血桃](luya-box-delivered-yaochi-water-half-peach-and-unused-bloodpeach.md) | 第六卷148章证据与表演边界 |
+| [定海珠天界通道、因果屏蔽解释与无生老母口述](dinghai-pearl-sky-route-causal-screening-and-wusheng-protector-report.md) | 第六卷148章证据与表演边界 |
 | [化身本尊轮换净土与消如来换不灭脱袖](meng-avatar-rotation-pureland-and-removal-before-sleeve-escape.md) | 第六卷147章证据与表演边界 |
 | [覆海大圣后裔、死星洪击与心灵旧生掌](fuhai-descendant-flood-attack-and-pastlife-mind-palm.md) | 第六卷147章证据与表演边界 |
 | [许玄五庄后人确认、袖里乾坤与师叔自称](xu-xuan-confirmed-wuzhuang-descendant-sleeve-and-shishu-claim.md) | 第六卷147章证据与表演边界 |
@@ -1538,3 +1541,5 @@
 最新[第六卷146章复核](../reviews/review-v06-0146.md)与[状态账](../reviews/ledger-v06-0146.md)：两套口供留对照、精神回溯非现世、残声未名许玄身世仍疑。
 
 最新[第六卷147章复核](../reviews/review-v06-0147.md)与[状态账](../reviews/ledger-v06-0147.md)：轮换克时限、五庄后人正文确认、精神旧生与师叔自称待认。
+
+最新[第六卷148章复核](../reviews/review-v06-0148.md)与[状态账](../reviews/ledger-v06-0148.md)：实际认师及交物、定海珠通道解释、无生天口述与化身表述待查。
