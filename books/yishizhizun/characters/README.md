@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷150章
+# 角色阶段索引 · 截至第六卷151章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–150章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–151章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [费正涛：异宇学生与通识符奇遇](fei-zhengtao.md) | 第六卷151章证据与表演边界 |
+| [实际并国、高天仙、司马法身与四继](unified-zhou-gao-heaven-sima-fashen-and-four-heirs.md) | 第六卷151章证据与表演边界 |
+| [九宇宙投符限制与现代电脑适配](nine-crossuniverse-symbols-neural-limit-and-modern-pc-activation.md) | 第六卷151章证据与表演边界 |
+| [江法身影像后证、争榜文本与商城页面渠道](jiang-fashen-video-forum-rank-rumors-and-market-page-channels.md) | 第六卷151章证据与表演边界 |
 | [小桑旧访无生天口述与玉虚后手疑](gu-reported-wusheng-visit-residual-fruit-and-yuxu-backup-hypothesis.md) | 第六卷150章证据与表演边界 |
 | [赵恒解榜、符中刀光晋半步与秘殿归国决定](zhao-list-release-symbol-blade-halfstep-and-secret-unification-decision.md) | 第六卷150章证据与表演边界 |
 | [陆压暂缓任务、真灵肉身警告与地仙全窍计划](luya-further-rescue-deferred-spirit-body-warning-and-earth-aperture-plan.md) | 第六卷150章证据与表演边界 |
@@ -1553,3 +1557,5 @@
 最新[第六卷149章复核](../reviews/review-v06-0149.md)与[状态账](../reviews/ledger-v06-0149.md)：白莲路开而未入、传闻分源、半桃化参果物证与树源推问。
 
 最新[第六卷150章复核](../reviews/review-v06-0150.md)与[状态账](../reviews/ledger-v06-0150.md)：小桑旧访口述非复活、赵解榜斩联系晋半步、并国表态非实施。
+
+最新[第六卷151章复核](../reviews/review-v06-0151.md)与[状态账](../reviews/ledger-v06-0151.md)：S19开启，正式高天仙司马法身、江影像后证、九符与费入网，多媒体来源分开。
