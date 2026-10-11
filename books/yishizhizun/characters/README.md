@@ -1,11 +1,13 @@
-# 角色阶段索引 · 截至第六卷159章
+# 角色阶段索引 · 截至第六卷160章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–159章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–160章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [韩广：钟碎片倒退两刹那与修复宇宙](han-bellfragment-twoinstant-rewind-cost-and-repaired-dream-universe.md) | 第六卷160章证据与表演边界 |
+| [孟元始他我印记、韩双烙印与出井](meng-yuanshi-other-self-imprint-han-dual-imprints-and-well-exit.md) | 第六卷160章证据与表演边界 |
 | [韩广：短复过去、双化身与佛魔护信息](han-short-time-return-dual-avatars-and-buddha-demon-information-shield.md) | 第六卷159章证据与表演边界 |
 | [宇宙信息、金莲生头与鞭改睡躯](universe-information-head-regrowth-and-whip-turn-to-sleepingbody.md) | 第六卷159章证据与表演边界 |
 | [击钟重坍缩、三十六井与气泡宇宙](bell-induced-recollapse-thirtysix-wells-and-dreambubble-universe.md) | 第六卷158章证据与表演边界 |
@@ -1596,3 +1598,5 @@
 最新[第六卷158章复核](../reviews/review-v06-0158.md)与[状态账](../reviews/ledger-v06-0158.md)：古井分宇，自主化身欲夺诸果，孟拔刀鞭未战。
 
 最新[第六卷159章复核](../reviews/review-v06-0159.md)与[状态账](../reviews/ledger-v06-0159.md)：宇重头炸再生，韩护灵、孟改鞭未中。
+
+最新[第六卷160章复核](../reviews/review-v06-0160.md)与[状态账](../reviews/ledger-v06-0160.md)：两刹那倒时有代价，投影转换与实际出井。
