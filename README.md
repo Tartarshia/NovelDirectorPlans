@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第152章，1079 / 1410 个目录条目，约349.3万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第153章，1080 / 1410 个目录条目，约349.6万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第153章复核](books/yishizhizun/reviews/review-v06-0153.md)：王购数学、平台雷罚与玉虚实物快递，69段、107句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0153.md)。
 - [第六卷第152章复核](books/yishizhizun/reviews/review-v06-0152.md)：传记激励、免费功法门槛与大青根跨界筑基指导，78段、125句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0152.md)。
 - [第六卷第151章复核](books/yishizhizun/reviews/review-v06-0151.md)：统一与正式晋阶、九符跨宇宙投放及现代学生接网，85段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0151.md)。
 - [第六卷第150章复核](books/yishizhizun/reviews/review-v06-0150.md)：小桑旧访口述、赵解榜斩联系晋半步与秘殿归国表态，63段、107句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0150.md)。
