@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第158章，1085 / 1410 个目录条目，约351.2万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第159章，1086 / 1410 个目录条目，约351.5万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第159章复核](books/yishizhizun/reviews/review-v06-0159.md)：宇重头炸再生、韩双化身与孟改鞭，64段、71句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0159.md)。
 - [第六卷第158章复核](books/yishizhizun/reviews/review-v06-0158.md)：三十六井气泡宇宙、自主元始化身与夺诸果威胁，61段、86句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0158.md)。
 - [第六卷第157章复核](books/yishizhizun/reviews/review-v06-0157.md)：开真宫、问来意与超天仙气来击钟，61段、88句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0157.md)。
 - [第六卷第156章复核](books/yishizhizun/reviews/review-v06-0156.md)：世间美好、卷帘提前醒与质押借鞭宫前聚集，52段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0156.md)。
