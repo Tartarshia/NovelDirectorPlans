@@ -1,11 +1,13 @@
-# 角色阶段索引 · 截至第六卷164章
+# 角色阶段索引 · 截至第六卷165章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–164章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–165章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [沙悟净：卷帘身份、老母原属与悲寂送别](sha-wujing-juanlian-laomu-origin-and-lonely-wukong-farewell.md) | 第六卷165章证据与表演边界 |
+| [老母三话转述与沙所知历史剪裁顺序](laomu-three-message-relay-and-sha-fragmented-history-account.md) | 第六卷165章证据与表演边界 |
 | [哪吒灵珠子沉睡与顾旧影、中央莲的解答](nezha-lingzhuzi-sleeping-central-lotus-and-gu-past-mirror.md) | 第六卷164章证据与表演边界 |
 | [赵谦添加减少理论与孟隐留平衡试验](zhao-addition-reduction-theory-and-meng-private-balance-plan.md) | 第六卷164章证据与表演边界 |
 | [孟十刹自爆破阵与印记助血痕再生](meng-teninstant-selfblast-arraybreak-imprint-assisted-blood-regrowth.md) | 第六卷163章证据与表演边界 |
@@ -1616,3 +1618,5 @@
 最新[第六卷163章复核](../reviews/review-v06-0163.md)与[状态账](../reviews/ledger-v06-0163.md)：自爆破阵血痕再生，韩抢莲目的明、孟混沌移位。
 
 最新[第六卷164章复核](../reviews/review-v06-0164.md)与[状态账](../reviews/ledger-v06-0164.md)：顾历史原声不复活、沉睡哪吒、减少理论人物说辞。
+
+最新[第六卷165章复核](../reviews/review-v06-0165.md)与[状态账](../reviews/ledger-v06-0165.md)：沙悟净具名、转老母报告与沙据知分层、历史未全证。
