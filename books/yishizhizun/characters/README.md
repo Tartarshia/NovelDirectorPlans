@@ -1,11 +1,13 @@
-# 角色阶段索引 · 截至第六卷161章
+# 角色阶段索引 · 截至第六卷162章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–161章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–162章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [九莲根、三枚缺痕与中央含苞](nine-lotusroots-three-missing-seeds-and-central-bud-uncertainty.md) | 第六卷162章证据与表演边界 |
+| [碧九曲阵、金皇盟友判断与孟借刀入阵](bi-ninebend-array-jinhuang-ally-inference-and-meng-blade-entry.md) | 第六卷162章证据与表演边界 |
 | [韩重伤、孟隐身尾随与化身重修条件](han-heavy-injury-hidden-meng-tail-and-conditional-avatar-rebuild.md) | 第六卷161章证据与表演边界 |
 | [孟元始布局内推与莲池认碧失望](meng-yuanshi-layout-inference-and-bi-lotuspool-disappointment.md) | 第六卷161章证据与表演边界 |
 | [韩广：钟碎片倒退两刹那与修复宇宙](han-bellfragment-twoinstant-rewind-cost-and-repaired-dream-universe.md) | 第六卷160章证据与表演边界 |
@@ -1604,3 +1606,5 @@
 最新[第六卷160章复核](../reviews/review-v06-0160.md)与[状态账](../reviews/ledger-v06-0160.md)：两刹那倒时有代价，投影转换与实际出井。
 
 最新[第六卷161章复核](../reviews/review-v06-0161.md)与[状态账](../reviews/ledger-v06-0161.md)：韩化身崩重伤，布局为孟内推、莲池认碧失望。
+
+最新[第六卷162章复核](../reviews/review-v06-0162.md)与[状态账](../reviews/ledger-v06-0162.md)：九莲仍疑，碧布阵、孟借刀入阵未胜。
