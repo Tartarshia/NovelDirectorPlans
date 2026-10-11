@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷154章
+# 角色阶段索引 · 截至第六卷155章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–154章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–155章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [刘韵陶：同班女生、赠伞改观与木像雷击](liu-yuntao.md) | 第六卷155章证据与表演边界 |
+| [木像成雷、一周天候与九形未成印记](completed-yuanhuang-statue-weeklong-thunder-and-nine-unfinished-marks.md) | 第六卷155章证据与表演边界 |
+| [全窍完成、脏腑关隘与币道收获出关](all-apertures-complete-viscera-gate-currency-merit-and-fengshen-return.md) | 第六卷155章证据与表演边界 |
 | [聪哥与学校反抗：未贴符的受伤战斗](cong-school-bullies-fei-unprotected-counterattack-and-retreat.md) | 第六卷154章证据与表演边界 |
 | [三月自描元皇、刘韵陶木雕店与雷云](three-month-selfdrawn-yuanhuang-liuyuntao-carving-and-thunder.md) | 第六卷154章证据与表演边界 |
 | [爵士枪下单、等值跨界运费与三十币懊恼](jazz-pistol-purchase-doubleprice-yuxu-courier-and-thirtycoin-regret.md) | 第六卷154章证据与表演边界 |
@@ -1572,3 +1575,5 @@
 最新[第六卷153章复核](../reviews/review-v06-0153.md)与[状态账](../reviews/ledger-v06-0153.md)：王买数学、两物实送，未学校反击或元皇立像完成。
 
 最新[第六卷154章复核](../reviews/review-v06-0154.md)与[状态账](../reviews/ledger-v06-0154.md)：反抗实际未符战验，枪实到与三月画像雷云。
+
+最新[第六卷155章复核](../reviews/review-v06-0155.md)及[状态账](../reviews/ledger-v06-0155.md)：木像成、九影未印、全窍开但天仙未晋。
