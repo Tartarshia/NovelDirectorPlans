@@ -1,11 +1,13 @@
-# 角色阶段索引 · 截至第六卷172章
+# 角色阶段索引 · 截至第六卷173章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–172章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–173章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [地球洪荒渡世宝筏：王有限报告与孟道德候选](earth-honghuang-raft-wang-limited-report-and-meng-daode-hypothesis.md) | 第六卷173章证据与表演边界 |
+| [孟归乡青春告别、母梦低语与何暮渊海符诏](meng-earth-youth-farewell-mother-dream-and-he-mu-yuanhai-edict.md) | 第六卷173章证据与表演边界 |
 | [孟地球平行话术、一年天仙预估与官赠药](meng-earth-parallel-cover-one-year-heaven-forecast-and-official-herb.md) | 第六卷172章证据与表演边界 |
 | [地球金霁姻缘求卦、王思远远声与洪荒误复述](earth-jin-ji-marriage-request-wang-divination-relay-and-honghuang.md) | 第六卷172章证据与表演边界 |
 | [地球父母药效与孟小奇服药](earth-parents-herb-visible-effects-and-xiaoqi-ingestion.md) | 第六卷171章证据与表演边界 |
@@ -1648,3 +1650,5 @@
 最新[第六卷171章复核](../reviews/review-v06-0171.md)与[状态账](../reviews/ledger-v06-0171.md)：罗教仍有限自述、药实际表征、双孟通话与量子未答。
 
 最新[第六卷172章复核](../reviews/review-v06-0172.md)与[状态账](../reviews/ledger-v06-0172.md)：平行是话术，天仙仍未来、金霁远卦与小奇误复述。
+
+最新[第六卷173章复核](../reviews/review-v06-0173.md)与[状态账](../reviews/ledger-v06-0173.md)：宝筏有限推理，归乡阶段收束，渊海符诏仅师令。
