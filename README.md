@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第170章，1097 / 1410 个目录条目，约354.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第171章，1098 / 1410 个目录条目，约355.0万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第171章复核](books/yishizhizun/reviews/review-v06-0171.md)：罗教伦理、父母药效与地球小奇CEO秘书量子通话，98段、160句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0171.md)。
 - [第六卷第170章复核](books/yishizhizun/reviews/review-v06-0170.md)：地球罗教愿因追、黄教主人物报告与活捉，72段、105句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0170.md)。
 - [第六卷第169章复核](books/yishizhizun/reviews/review-v06-0169.md)：另孟新魂替肉、认兄弟与我之体悟近天仙，72段、117句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0169.md)。
 - [第六卷第168章复核](books/yishizhizun/reviews/review-v06-0168.md)：实际碑回过往捕因归地球、故人避险与另孟悬念，77段、110句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0168.md)。
