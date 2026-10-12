@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷173章
+# 角色阶段索引 · 截至第六卷174章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–173章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–174章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [费正涛：大学武道社与跨界直播观众](fei-university-yuanhuang-club-and-crossworld-livestream.md) | 第六卷174章证据与表演边界 |
+| [萧千：散修实战主播与失控救场](xiao-qian-sanxiu-livestream-trap-and-tentacle-rescue.md) | 第六卷174章证据与表演边界 |
+| [孟正式天仙：九月积累、星系雏形与九幽近传说](meng-formal-heaven-nine-months-universe-prototype-and-jiuyou.md) | 第六卷174章证据与表演边界 |
+| [两罗：双头天仙邪魔与地利自信](liang-luo-two-heads-heaven-demon-and-local-advantage.md) | 第六卷174章证据与表演边界 |
 | [地球洪荒渡世宝筏：王有限报告与孟道德候选](earth-honghuang-raft-wang-limited-report-and-meng-daode-hypothesis.md) | 第六卷173章证据与表演边界 |
 | [孟归乡青春告别、母梦低语与何暮渊海符诏](meng-earth-youth-farewell-mother-dream-and-he-mu-yuanhai-edict.md) | 第六卷173章证据与表演边界 |
 | [孟地球平行话术、一年天仙预估与官赠药](meng-earth-parallel-cover-one-year-heaven-forecast-and-official-herb.md) | 第六卷172章证据与表演边界 |
@@ -1652,3 +1656,5 @@
 最新[第六卷172章复核](../reviews/review-v06-0172.md)与[状态账](../reviews/ledger-v06-0172.md)：平行是话术，天仙仍未来、金霁远卦与小奇误复述。
 
 最新[第六卷173章复核](../reviews/review-v06-0173.md)与[状态账](../reviews/ledger-v06-0173.md)：宝筏有限推理，归乡阶段收束，渊海符诏仅师令。
+
+最新[第六卷174章复核](../reviews/review-v06-0174.md)与[状态账](../reviews/ledger-v06-0174.md)：孟正式天仙，弹幕只文字，两罗地利近传说非正式传说。
