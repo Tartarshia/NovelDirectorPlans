@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷178章
+# 角色阶段索引 · 截至第六卷179章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–178章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–179章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [应身印景：佛前鬼告别与吴季真病妻](xuannv-manifestation-memory-temple-ghost-and-wu-wife-farewell.md) | 第六卷179章证据与表演边界 |
+| [高览与晏然烙印：救妻誓言与握空](gao-yanran-imprint-untouchable-rescue-vow-and-grief.md) | 第六卷179章证据与表演边界 |
+| [当代玄女无生机：死因推断与强闯应激](xuannv-lifeless-body-uncertain-breakthrough-cause-and-raid-stress.md) | 第六卷179章证据与表演边界 |
 | [定海珠候选与苏无名最快传说预测](dinghaizhu-seal-carrier-proposal-and-su-fastest-legend-forecast.md) | 第六卷178章证据与表演边界 |
 | [素女内应：接应、掩护答与传音报告](sunu-elegant-infiltrator-entry-question-heartbeat-and-transmission.md) | 第六卷178章证据与表演边界 |
 | [素女道突入：虚空吟唱与空殿](meng-gao-sunu-ambient-invocation-joint-blade-and-empty-hall.md) | 第六卷178章证据与表演边界 |
@@ -1678,3 +1681,5 @@
 最新[第六卷177章复核](../reviews/review-v06-0177.md)与[状态账](../reviews/ledger-v06-0177.md)：抢玄女未实施、复活有子未成、众生力法门已提出但承载物未得。
 
 最新[第六卷178章复核](../reviews/review-v06-0178.md)与[状态账](../reviews/ledger-v06-0178.md)：承载珠未得、入界破门实成、吟唱非孟嘴、殿内未见玄女。
+
+最新[第六卷179章复核](../reviews/review-v06-0179.md)与[状态账](../reviews/ledger-v06-0179.md)：应身虚幻经历、晏然握空、玄女无生机及应激启动；死因仍孟推。
