@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷181章
+# 角色阶段索引 · 截至第六卷182章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–181章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–182章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [甘若虚：失眷家庭压力与元始名讳响应](gan-ruoxu-parents-stigma-and-yuanshi-response.md) | 第六卷182章证据与表演边界 |
+| [吴钜与薛廉：自估等级、羞辱与实际结果](wu-ju-xue-lian-self-forecasts-and-actual-guardian-results.md) | 第六卷182章证据与表演边界 |
+| [神眷业位图：当地九等、香礼与匿名声音](shenjuan-god-chart-local-grades-ritual-and-unnamed-public-voices.md) | 第六卷182章证据与表演边界 |
 | [高孟海舟狂歌与人道万界计划](gao-meng-sea-song-grief-and-world-human-dao-plan.md) | 第六卷181章证据与表演边界 |
 | [七杀碑快时修复与江芷微先试提醒](qisha-tablet-fast-time-restoration-and-jiang-trial-warning.md) | 第六卷181章证据与表演边界 |
 | [神眷国未名少年：通神私试无回应](shenjuan-unnamed-teenager-no-guardian-response.md) | 第六卷181章证据与表演边界 |
@@ -1693,3 +1696,5 @@
 最新[第六卷180章复核](../reviews/review-v06-0180.md)与[状态账](../reviews/ledger-v06-0180.md)：彼岸誓愿未成、封界遭树迫退、九天遗蜕末镜与当代死身区分。
 
 最新[第六卷181章复核](../reviews/review-v06-0181.md)与[状态账](../reviews/ledger-v06-0181.md)：实际喝酒与狂歌、彼岸万界尚计划、快宇先试及神眷少年未名。
+
+最新[第六卷182章复核](../reviews/review-v06-0182.md)与[状态账](../reviews/ledger-v06-0182.md)：甘若虚姓名、吴薛估与实感、图亮元始而响应载体未揭。
