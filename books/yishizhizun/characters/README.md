@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷180章
+# 角色阶段索引 · 截至第六卷181章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–180章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–181章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [高孟海舟狂歌与人道万界计划](gao-meng-sea-song-grief-and-world-human-dao-plan.md) | 第六卷181章证据与表演边界 |
+| [七杀碑快时修复与江芷微先试提醒](qisha-tablet-fast-time-restoration-and-jiang-trial-warning.md) | 第六卷181章证据与表演边界 |
+| [神眷国未名少年：通神私试无回应](shenjuan-unnamed-teenager-no-guardian-response.md) | 第六卷181章证据与表演边界 |
 | [高览：不屈彼岸誓愿与海上邀酒](gao-unyielding-other-shore-vow-and-sea-drink-invitation.md) | 第六卷180章证据与表演边界 |
 | [素女封界、灭绝球与大道树脱困](sunu-two-world-barrier-destruction-sphere-and-dao-tree-expulsion.md) | 第六卷180章证据与表演边界 |
 | [九天玄女遗蜕：拳势、流罗容貌与离后自语](jiutian-xuannv-remains-fist-liuluo-likeness-and-private-tree-question.md) | 第六卷180章证据与表演边界 |
@@ -1688,3 +1691,5 @@
 最新[第六卷179章复核](../reviews/review-v06-0179.md)与[状态账](../reviews/ledger-v06-0179.md)：应身虚幻经历、晏然握空、玄女无生机及应激启动；死因仍孟推。
 
 最新[第六卷180章复核](../reviews/review-v06-0180.md)与[状态账](../reviews/ledger-v06-0180.md)：彼岸誓愿未成、封界遭树迫退、九天遗蜕末镜与当代死身区分。
+
+最新[第六卷181章复核](../reviews/review-v06-0181.md)与[状态账](../reviews/ledger-v06-0181.md)：实际喝酒与狂歌、彼岸万界尚计划、快宇先试及神眷少年未名。
