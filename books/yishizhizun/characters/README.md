@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷184章
+# 角色阶段索引 · 截至第六卷185章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–184章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–185章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [许静虚与许飞翎：入门、护神与大师兄规则](xu-jingxu-xu-feiling-huguoguan-entry-guardian-grades-and-masterbrother-rule.md) | 第六卷185章证据与表演边界 |
+| [甘若虚与林风啸：大师兄挑战、玄水与承击](gan-lin-fengxiao-masterbrother-challenge-black-water-and-shadow-palm.md) | 第六卷185章证据与表演边界 |
+| [吴许布阵：七杀字碑与白裙抱琴人影](gan-wu-xu-gift-array-seven-kill-tablet-and-white-robed-qin-woman.md) | 第六卷185章证据与表演边界 |
 | [甘若虚：阴阳印初用、封禁复活与代价](gan-yinyang-seal-first-use-fear-death-seal-revival-and-dizziness.md) | 第六卷184章证据与表演边界 |
 | [孙乾、张县丞与未名河刺客](sun-qian-zhang-deputy-river-assassin-and-sealed-revival-voices.md) | 第六卷184章证据与表演边界 |
 | [吴钜：家传断刺、天蓬观想与阵法邀请](wu-ju-family-broken-rake-spike-vision-and-array-invitation.md) | 第六卷184章证据与表演边界 |
@@ -1708,3 +1711,5 @@
 最新[第六卷183章复核](../reviews/review-v06-0183.md)与[状态账](../reviews/ledger-v06-0183.md)：种子、县令劝密、湖州教学与观想所见。
 
 最新[第六卷184章复核](../reviews/review-v06-0184.md)与[状态账](../reviews/ledger-v06-0184.md)：阴阳印初用、孙张声源与吴家断刺。
+
+最新[第六卷185章复核](../reviews/review-v06-0185.md)与[状态账](../reviews/ledger-v06-0185.md)：实际入门挑战、布阵与人影未知。
