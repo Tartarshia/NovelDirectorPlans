@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷176章
+# 角色阶段索引 · 截至第六卷177章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–176章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–177章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [玄女三千应身：时机推演与抢先掳人计划](gao-xuannv-three-thousand-manifestations-timing-and-preemptive-capture-plan.md) | 第六卷177章证据与表演边界 |
+| [高览的未来孩子与继承顺位玩笑](gao-future-child-succession-joke-and-same-integrated-voice.md) | 第六卷177章证据与表演边界 |
+| [众生之力修封：青帝猜测与承载物缺口](yuanhai-seal-livingbeings-power-method-qingdi-guess-and-carrier-needed.md) | 第六卷177章证据与表演边界 |
 | [直播遗骸财欲、大青根放包与剑战延期](fei-root-livestream-loot-desire-and-delayed-sword-duel.md) | 第六卷176章证据与表演边界 |
 | [渊海底封：未知紫红眼与争取突破时间](meng-yuanhai-seal-unknown-purple-eyes-and-delaying-plan.md) | 第六卷176章证据与表演边界 |
 | [长乐见高：皇太弟入宫权属与玄女将突破](gao-xuannv-impending-manifestation-report-and-palace-access.md) | 第六卷176章证据与表演边界 |
@@ -1668,3 +1671,5 @@
 最新[第六卷175章复核](../reviews/review-v06-0175.md)与[状态账](../reviews/ledger-v06-0175.md)：双头各真灵新明，孟当地无极诛仙破躯，观众威望为内心判断。
 
 最新[第六卷176章复核](../reviews/review-v06-0176.md)与[状态账](../reviews/ledger-v06-0176.md)：底封未加固、紫红眼未知、苏陆天仙剑期延，玄女要证未已证。
+
+最新[第六卷177章复核](../reviews/review-v06-0177.md)与[状态账](../reviews/ledger-v06-0177.md)：抢玄女未实施、复活有子未成、众生力法门已提出但承载物未得。

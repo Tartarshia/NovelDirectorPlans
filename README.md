@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第176章，1103 / 1410 个目录条目，约356.4万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第177章，1104 / 1410 个目录条目，约356.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第177章复核](books/yishizhizun/reviews/review-v06-0177.md)：玄女抢先控制方案、未来继承玩笑与众生力修封承载物缺口，48段、89句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0177.md)。
 - [第六卷第176章复核](books/yishizhizun/reviews/review-v06-0176.md)：直播拾骸愿望、受侵蚀封印与未知紫红眼、玄女将证应身，66段、83句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0176.md)。
 - [第六卷第175章复核](books/yishizhizun/reviews/review-v06-0175.md)：双头各自真灵、孟九幽无极诛仙与直播破躯威望，57段、68句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0175.md)。
 - [第六卷第174章复核](books/yishizhizun/reviews/review-v06-0174.md)：孟正式天仙、跨界直播文字层与两罗双头地利，79段、102句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0174.md)。
