@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷201章
+# 角色阶段索引 · 截至第六卷202章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–201章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–202章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [妖皇安排感与雷神印参照目标、不泄后史](meng-yaohuang-arrangement-guess-thunderimprint-reference-and-no-history-leak.md) | 第六卷202章证据与表演边界 |
+| [避殃生灵移殿、霸王持绝刀与孟双手首挡](palace-battle-protect-livingbeings-blade-in-bawang-hands-and-meng-barehands.md) | 第六卷202章证据与表演边界 |
+| [孟全力抢先、番天闪背拳与霸王真体局部势均](meng-full-force-firstmove-fantian-backfist-bawang-body-and-balanced-exchange.md) | 第六卷202章证据与表演边界 |
 | [垂翼祖传未得、妖尊成长与妖皇殿多门口述](chuiyizi-inheritance-unobtained-yaozun-growth-and-palace-multiple-doors-reports.md) | 第六卷201章证据与表演边界 |
 | [中古吴败死报告与五代玄女最强赞、霸王传说前海眼行](bawang-historical-wu-death-xuannv-strongest-praise-and-prelegend-eye-trip.md) | 第六卷201章证据与表演边界 |
 | [孟袖绝刀突失、门前中古霸王与未定对望](meng-absolute-blade-disappears-palace-door-historical-bawang-gaze-no-outcome.md) | 第六卷201章证据与表演边界 |
