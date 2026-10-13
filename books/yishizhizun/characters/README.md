@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷195章
+# 角色阶段索引 · 截至第六卷196章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–195章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–196章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [倒流与第二遍坠天：记忆保全、珠因果改且仅部分](time-reversal-two-heavenfalls-memory-preserved-changed-bead-partial-record.md) | 第六卷196章证据与表演边界 |
+| [星雨未见小桑：古叹、火宫帝影与身份疑问](star-rain-no-xiaosang-ancient-sigh-falling-palace-emperor-corpse-questions.md) | 第六卷196章证据与表演边界 |
+| [微改历史：龙王记忆、回溯推理与天尊误认臣礼](microhistory-change-dragon-memory-retrotravel-inference-and-mistaken-tianzun-kowtow.md) | 第六卷196章证据与表演边界 |
 | [七杀筛时：干扰避选与过去龙王不识孟](sevenkill-timefilter-interference-past-dragonpalace-and-unrecognized-meng.md) | 第六卷195章证据与表演边界 |
 | [蛇身女影与坠天雷雨：女娲手段仅疑](snakebody-shadow-thunder-filter-whiteflash-and-darkred-flood.md) | 第六卷195章证据与表演边界 |
 | [二十四珠因果：记而不取、未名暗红天眼](twentyfour-bead-causal-memory-not-capture-and-unnamed-darkred-sky-eyes.md) | 第六卷195章证据与表演边界 |
@@ -1763,3 +1766,5 @@
 最新[第六卷194章复核](../reviews/review-v06-0194.md)与[状态账](../reviews/ledger-v06-0194.md)：三剑已收、时间双证差异与实际碑启动。
 
 最新[第六卷195章复核](../reviews/review-v06-0195.md)与[状态账](../reviews/ledger-v06-0195.md)：actual到过去、24因果记不取，冷眼未名。
+
+最新[第六卷196章复核](../reviews/review-v06-0196.md)与[状态账](../reviews/ledger-v06-0196.md)：倒流重记部分、返未来与龙王误认天尊。
