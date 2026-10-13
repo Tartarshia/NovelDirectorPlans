@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷208章
+# 角色阶段索引 · 截至第六卷209章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–208章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–209章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾限手处女借甲实战、轮回击杀与借物消失](gu-handonly-virgo-cloth-purification-reincarnation-kill-and-expired-loan.md) | 第六卷209章证据与表演边界 |
+| [双舍利献眼、百米操尸与林情报潜伏计划](gu-two-sarira-offering-hundredmeter-corpse-control-and-lin-infiltration-plan.md) | 第六卷209章证据与表演边界 |
+| [顾借尸神使外观阻自残、第七套广播操开场](gu-corpse-envoy-disguise-selfharm-interruption-and-seventh-radio-gymnastics.md) | 第六卷209章证据与表演边界 |
 | [顾闭眼佛参照与未名根存在视像、司机心安信](gu-closedeye-buddhist-reference-faith-vision-and-coachman-belief.md) | 第六卷208章证据与表演边界 |
 | [林瞳太阳神官、舍利排查与李林峰姓名差、血墙伏击](lin-sungod-priest-sarira-investigation-li-lin-feng-namegap-and-bloodwall-ambush.md) | 第六卷208章证据与表演边界 |
 | [匿名逆佛攻击与一分钟限手圣衣、尚未脱险](inversebuddha-redblack-robed-man-attack-and-one-minute-handonly-virgo-cloth.md) | 第六卷208章证据与表演边界 |
