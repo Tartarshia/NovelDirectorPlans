@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷187章
+# 角色阶段索引 · 截至第六卷188章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–187章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–188章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [云古皇天道主：潜入、许化身伏待与决退](yun-gu-huangtian-leader-infiltration-xu-avatar-and-decisive-retreat.md) | 第六卷188章证据与表演边界 |
+| [甘主动赋力：白眼时袭与混沌怀抱化解](gan-active-gift-clock-eye-attack-and-chaos-embrace-defense.md) | 第六卷188章证据与表演边界 |
+| [张不周：东皇眷闯观失败与末日祭坛意图](zhang-buzhou-donghuang-guardian-failed-raid-and-apocalypse-altar-intent.md) | 第六卷188章证据与表演边界 |
 | [阮的烤兔：清冷专业、共食与羞浅笑](ruan-roast-rabbit-clear-voice-shared-meal-and-shy-smile.md) | 第六卷187章证据与表演边界 |
 | [甘的孤寂：游历邀请、安全取舍与父母愿望](gan-solitude-travel-invitation-refusal-and-parent-protection-hope.md) | 第六卷187章证据与表演边界 |
 | [三线风起：林招揽、海图天帝与黄巾东皇杀旨](lin-wudoumi-recruitment-sea-tiandi-glow-and-huangjin-donghuang-order.md) | 第六卷187章证据与表演边界 |
@@ -1723,3 +1726,5 @@
 最新[第六卷186章复核](../reviews/review-v06-0186.md)与[状态账](../reviews/ledger-v06-0186.md)：阮真身份、默诵与老猪死因重审。
 
 最新[第六卷187章复核](../reviews/review-v06-0187.md)与[状态账](../reviews/ledger-v06-0187.md)：实际偷兔烹食与笑、甘独修与外部三线。
+
+最新[第六卷188章复核](../reviews/review-v06-0188.md)与[状态账](../reviews/ledger-v06-0188.md)：实际闯观防御与毁世方案未行。
