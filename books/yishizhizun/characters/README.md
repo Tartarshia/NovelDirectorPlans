@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷211章
+# 角色阶段索引 · 截至第六卷212章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–211章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–212章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟多宇操印仍不足、根垂直播与费游戏计划](meng-simultaneous-imprints-insufficient-root-chui-streaming-and-fei-game-plan.md) | 第六卷212章证据与表演边界 |
+| [狐文伯昆仑新城、短寿享受与苗吴虚拟擂提案](fox-wenbo-kunlun-newcity-shortlife-enjoyment-and-miao-wu-virtualarena-proposal.md) | 第六卷212章证据与表演边界 |
+| [狐玉虚冷礼、阿难他我资料与灵山救残大圣条件](fox-yuxu-cold-courtesy-ananda-other-self-data-and-lingshan-rescue-condition.md) | 第六卷212章证据与表演边界 |
 | [孟旧日宇宙万门真印、无面合作与堕神车夫 · V06-S31](meng-old-day-universe-gate-trueimprint-faceless-cooperation-and-fallen-driver.md) | 第六卷211章证据与表演边界 |
 | [顾一年警司皇冠、陈宇洪万章方钰同窗会](gu-year-superintendent-crown-chen-hong-fang-class-reunion.md) | 第六卷211章证据与表演边界 |
 | [顾警司兼逆教主、无血操舞与唱片歌、灰暗安慰](gu-police-cultleader-dualrole-bloodless-gymnastics-recorded-song-and-gloom.md) | 第六卷211章证据与表演边界 |
