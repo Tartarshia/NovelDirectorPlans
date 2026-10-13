@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷209章
+# 角色阶段索引 · 截至第六卷210章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–209章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–210章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [七魔内部书来源链与顾信仰崩塌 · V06-S30](gu-seven-demon-internal-documents-source-chains-and-faith-collapse.md) | 第六卷210章证据与表演边界 |
+| [顾心眼心谈、子爵别墅潜伏与时空互穿 · V06-S30](gu-heart-eye-minddialogue-noble-villa-infiltration-and-spacetime-separation.md) | 第六卷210章证据与表演边界 |
+| [焦尸商人未死、银片第15次劈死自述与无面外观线索](charred-watchmerchant-alive-silverplate-fifteenth-lightning-claim-and-faceless-clue.md) | 第六卷210章证据与表演边界 |
 | [顾限手处女借甲实战、轮回击杀与借物消失](gu-handonly-virgo-cloth-purification-reincarnation-kill-and-expired-loan.md) | 第六卷209章证据与表演边界 |
 | [双舍利献眼、百米操尸与林情报潜伏计划](gu-two-sarira-offering-hundredmeter-corpse-control-and-lin-infiltration-plan.md) | 第六卷209章证据与表演边界 |
 | [顾借尸神使外观阻自残、第七套广播操开场](gu-corpse-envoy-disguise-selfharm-interruption-and-seventh-radio-gymnastics.md) | 第六卷209章证据与表演边界 |
