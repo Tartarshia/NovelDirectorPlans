@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷188章
+# 角色阶段索引 · 截至第六卷189章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–188章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–189章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟接本宇元始投影：全像更替与三德香火](meng-local-yuanshi-projection-reception-all-statue-change-and-incense.md) | 第六卷189章证据与表演边界 |
+| [东皇祭坛：身份未决、迎降与如意阻断](donghuang-altar-invocation-unknown-identity-and-tianwai-ruyi-block.md) | 第六卷189章证据与表演边界 |
+| [琴声擒张：女子身份线索与特图实际到孟手](zhang-qin-women-capture-special-chart-and-meng-array-receipt.md) | 第六卷189章证据与表演边界 |
 | [云古皇天道主：潜入、许化身伏待与决退](yun-gu-huangtian-leader-infiltration-xu-avatar-and-decisive-retreat.md) | 第六卷188章证据与表演边界 |
 | [甘主动赋力：白眼时袭与混沌怀抱化解](gan-active-gift-clock-eye-attack-and-chaos-embrace-defense.md) | 第六卷188章证据与表演边界 |
 | [张不周：东皇眷闯观失败与末日祭坛意图](zhang-buzhou-donghuang-guardian-failed-raid-and-apocalypse-altar-intent.md) | 第六卷188章证据与表演边界 |
@@ -1728,3 +1731,5 @@
 最新[第六卷187章复核](../reviews/review-v06-0187.md)与[状态账](../reviews/ledger-v06-0187.md)：实际偷兔烹食与笑、甘独修与外部三线。
 
 最新[第六卷188章复核](../reviews/review-v06-0188.md)与[状态账](../reviews/ledger-v06-0188.md)：实际闯观防御与毁世方案未行。
+
+最新[第六卷189章复核](../reviews/review-v06-0189.md)与[状态账](../reviews/ledger-v06-0189.md)：孟接投影、实际阻降与阵取图。

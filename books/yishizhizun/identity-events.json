@@ -1,7 +1,247 @@
 {
   "schema_version": 1,
-  "through_chapter": "v06-c0188",
+  "through_chapter": "v06-c0189",
   "events": [
+    {
+      "type": "actual_weather_changes_last_halfday_then_revert",
+      "entity": "weather_guardians",
+      "reference": "v06-c0189:p0002",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_shocked_stands_after_worst_omen_draw",
+      "entity": "xu_jingxu",
+      "reference": "v06-c0189:p0004",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_new_altar_chart_threepure_masked_donghuang_name_dyed",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0008",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_yubu_and_bell_ritual_part_completed",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0010",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_blizzard_xu_elders_divine_invocation_inference",
+      "entity": "shenjuan_capital",
+      "reference": "v06-c0189:p0015",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_exclaims_madness",
+      "entity": "xu_jingxu",
+      "reference": "v06-c0189:p0016",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_informs_royal_house_and_searches_with_elders",
+      "entity": "xu_jingxu",
+      "reference": "v06-c0189:p0019",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_flies_toward_mountain_weather_source",
+      "entity": "yun_gu",
+      "reference": "v06-c0189:p0020",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_offers_forehead_huangjin_to_chart",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0021",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_thin_eye_like_dark_rift_appears",
+      "entity": "invocation_rift",
+      "reference": "v06-c0189:p0023",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_hall_door_sky_observation",
+      "entity": "gan_ruoxu",
+      "reference": "v06-c0189:p0025",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_brain_daoist_opens_eyes_causal_divination",
+      "entity": "gan_ruoxu",
+      "reference": "v06-c0189:p0026",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_or_inner_question_so_called_donghuang_ancient_aura_source_identity_unknown",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0027",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "suspected_sevenkill_restoration_block_motive_not_confirmed",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0028",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "inner_shenyuan_postponement_motive_question",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0029",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "recalled_old_donghuang_death_and_fusang_blood_not_current_identity_proof",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0031",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "assessment_gan_power_or_ruan_contact_arrival_too_late_no_call_shown",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0032",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_causal_link_gan_own_imprint_early_decision",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0034",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "projection_causal_lines_not_only_own_threads",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0035",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_all_local_offering_temples_statues_change_to_meng_form",
+      "entity": "local_yuanshi_statues",
+      "reference": "v06-c0189:p0037",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_all_local_honorifics_change_not_live_chorus",
+      "entity": "local_yuanshi_honorifics",
+      "reference": "v06-c0189:p0038",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_receives_unintelligent_local_yuanshi_projection",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0040",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "source_true_yuanshi_of_this_universe_not_main_formal_rank_advance",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0041",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_synchronized_hand_receives_accumulated_threevirtue_incense_power",
+      "entity": "meng_qi_gan_and_daoist",
+      "reference": "v06-c0189:p0043",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_synchronized_right_hand_clench_condenses_power",
+      "entity": "meng_qi_gan_and_daoist",
+      "reference": "v06-c0189:p0044",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_offered_huangjin_burns_with_blood",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0046",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_nine_prostrations_complete_final_ritual_xu_elders_frozen",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0048",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_high_invocation_welcome_donghuang_not_god_live_words",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0049",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_partial_bell_resistance_and_blade_attack_rift_opens",
+      "entity": "yun_gu",
+      "reference": "v06-c0189:p0050",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_cough_blood_smile_like_too_late_not_verbatim_speech",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0051",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_blade_dispersed_and_slowed",
+      "entity": "yun_gu",
+      "reference": "v06-c0189:p0052",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_tianwai_arrival_strikes_eye_like_rift",
+      "entity": "sanbao_ruyi",
+      "reference": "v06-c0189:p0054",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_heard_honorific_chant_singer_unidentified",
+      "entity": "ethereal_honorific_chant_unnamed",
+      "reference": "v06-c0189:p0056",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "editorial_inner_ruyi_recognition_owner_unresolved",
+      "entity": "ritual_site_onlookers_collective",
+      "reference": "v06-c0189:p0057",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_rift_break_ancient_aura_blocked_clouds_snow_end",
+      "entity": "sanbao_ruyi",
+      "reference": "v06-c0189:p0061",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_controls_fear_bell_escape_takes_chart_xu_cannot_catch",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0063",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_exhausted_rest_after_selfassessed_escape_out_capital_area",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0064",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_two_women_qin_arrival_ruan_xu_continuity_candidates_not_named_here",
+      "entity": "qin_woman_and_young_companion_unidentified",
+      "reference": "v06-c0189:p0065",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_captured_weak_by_qin_opponent_special_chart_searched",
+      "entity": "zhang_buzhou",
+      "reference": "v06-c0189:p0067",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
+    {
+      "type": "actual_yuxu_hand_into_array_receives_same_chart",
+      "entity": "meng_qi",
+      "reference": "v06-c0189:p0069",
+      "fact_status": "source_fact_character_report_inner_hypothesis_or_plan_as_typed"
+    },
     {
       "type": "source_winter_annual_heaven_rite_not_ten_years_elapsed",
       "entity": "shenjuan_capital",
