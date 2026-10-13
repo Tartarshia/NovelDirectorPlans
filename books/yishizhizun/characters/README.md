@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷198章
+# 角色阶段索引 · 截至第六卷199章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–198章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–199章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [大青根封购物、快递奖赏与代购复发](daqinggen-shopping-seal-reward-relapse-and-unnamed-disciple-proxy.md) | 第六卷199章证据与表演边界 |
+| [圆蒙魔佛投影与传说两条件、脆界送符](yuanmeng-mofo-projection-legend-two-conditions-and-fragileworld-talisman.md) | 第六卷199章证据与表演边界 |
+| [段向非与段明诚：老迈、隔界视像、转世公开说与到账](duan-xiangfei-mingcheng-aged-father-talisman-vision-rebirth-claim-and-coins.md) | 第六卷199章证据与表演边界 |
+| [龙王论坛评说与借刀意图、帖子淹没](eastsea-dragon-forum-crossworld-powers-and-borrowed-knife-failed.md) | 第六卷199章证据与表演边界 |
 | [一珠实际收炼：八十一日、黑洞返路与镇界修损](dinghaipearl-eightyone-days-refined-one-obtained-and-boundary-repair-deployment.md) | 第六卷198章证据与表演边界 |
 | [高览他我关隘与收碑：孟的平衡传说计划](gao-imprint-contact-limit-tablet-recall-and-meng-balanced-legend-road.md) | 第六卷198章证据与表演边界 |
 | [黑帝论坛九势：文字来源、尼庵柳枝与碧守三莲](forum-blackdi-nine-powers-written-rumors-shuiyue-willow-and-bijing-lotus.md) | 第六卷198章证据与表演边界 |
