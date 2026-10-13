@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷202章
+# 角色阶段索引 · 截至第六卷203章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–202章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–203章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [借形逆斩、魔君化身旧棺伤与孟灯灭断联](bawang-causal-form-attack-mojun-avatar-coffin-wound-and-meng-lamp-break.md) | 第六卷203章证据与表演边界 |
+| [霸王暂融他我历史印破无极、孟黑发替死续力](bawang-temporary-tawo-history-fusion-wuji-break-and-meng-hair-substitutes.md) | 第六卷203章证据与表演边界 |
+| [孟指轻伤夹刀、认主庆幸推与三气实际发动](meng-finger-lightwound-blade-mercy-inference-regret-and-threeqi-start.md) | 第六卷203章证据与表演边界 |
 | [妖皇安排感与雷神印参照目标、不泄后史](meng-yaohuang-arrangement-guess-thunderimprint-reference-and-no-history-leak.md) | 第六卷202章证据与表演边界 |
 | [避殃生灵移殿、霸王持绝刀与孟双手首挡](palace-battle-protect-livingbeings-blade-in-bawang-hands-and-meng-barehands.md) | 第六卷202章证据与表演边界 |
 | [孟全力抢先、番天闪背拳与霸王真体局部势均](meng-full-force-firstmove-fantian-backfist-bawang-body-and-balanced-exchange.md) | 第六卷202章证据与表演边界 |
