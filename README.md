@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第203章，1130 / 1410 个目录条目，约364.4万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第204章，1131 / 1410 个目录条目，约364.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第204章复核](books/yishizhizun/reviews/review-v06-0204.md)：三清具名与未困阵、互惜停战及真实界三十年路径，63段、70句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0204.md)。
 - [第六卷第203章复核](books/yishizhizun/reviews/review-v06-0203.md)：借形逆斩与暂融破无极、孟指轻伤认主推及三气发动，55段、57句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0203.md)。
 - [第六卷第202章复核](books/yishizhizun/reviews/review-v06-0202.md)：相逢安排猜、殿内双天仙首轮与孟全力抢先，76段、86句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0202.md)。
 - [第六卷第201章复核](books/yishizhizun/reviews/review-v06-0201.md)：垂翼祖传与多门口述、历史霸王晋境目标及刀失对望，62段、119句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0201.md)。
