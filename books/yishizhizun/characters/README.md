@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷196章
+# 角色阶段索引 · 截至第六卷197章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–196章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–197章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [因果珠影筛选：两候选、五成黑洞与末珠样微宇](bead-causal-projections-two-candidates-blackhole-halfchance-and-current-pearl-sight.md) | 第六卷197章证据与表演边界 |
+| [新历二十年体验：江天仙与弟子半步仅未来分支](newcalendar20-possible-future-jiang-heavenrank-disciples-halfbody-not-current.md) | 第六卷197章证据与表演边界 |
+| [金银诡瞳未来威胁：法身崩解体验与古灯醒转](possible-future-goldsilver-eye-legend-threat-body-collapse-and-causal-lamp-wakeup.md) | 第六卷197章证据与表演边界 |
 | [倒流与第二遍坠天：记忆保全、珠因果改且仅部分](time-reversal-two-heavenfalls-memory-preserved-changed-bead-partial-record.md) | 第六卷196章证据与表演边界 |
 | [星雨未见小桑：古叹、火宫帝影与身份疑问](star-rain-no-xiaosang-ancient-sigh-falling-palace-emperor-corpse-questions.md) | 第六卷196章证据与表演边界 |
 | [微改历史：龙王记忆、回溯推理与天尊误认臣礼](microhistory-change-dragon-memory-retrotravel-inference-and-mistaken-tianzun-kowtow.md) | 第六卷196章证据与表演边界 |
@@ -1768,3 +1771,5 @@
 最新[第六卷195章复核](../reviews/review-v06-0195.md)与[状态账](../reviews/ledger-v06-0195.md)：actual到过去、24因果记不取，冷眼未名。
 
 最新[第六卷196章复核](../reviews/review-v06-0196.md)与[状态账](../reviews/ledger-v06-0196.md)：倒流重记部分、返未来与龙王误认天尊。
+
+最新[第六卷197章复核](../reviews/review-v06-0197.md)与[状态账](../reviews/ledger-v06-0197.md)：可能未来等级不当前晋、混洞五色珠已见未取。
