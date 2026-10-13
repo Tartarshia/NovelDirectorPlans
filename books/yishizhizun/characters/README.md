@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷193章
+# 角色阶段索引 · 截至第六卷194章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–193章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–194章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [龙王能屈伸：玉虚出身、诛仙名压与交换释负](eastsea-dragonking-flexible-face-yuxu-zhuxian-fear-and-trade-relief.md) | 第六卷194章证据与表演边界 |
+| [三剑实际补齐：阿赖耶、腾龙、起凤与商城剁枝](meng-alaya-tenglong-qifeng-three-swords-trade-and-mall-branch-joke.md) | 第六卷194章证据与表演边界 |
+| [二刻半与三刻：双证差异、魔攻日刻与碑启动](dragonking-twohalf-vs-linggan-threequarters-testimony-and-tablet-start.md) | 第六卷194章证据与表演边界 |
 | [古史两套顺序：旧梳理与西游在前推演](meng-two-ancient-timelines-demonlord-xiyou-order-and-uncertain-history.md) | 第六卷193章证据与表演边界 |
 | [古史证据审查：魔佛承认范围、沙记忆与小说细节](mofo-explicit-admissions-sha-memory-audit-and-book-detail-limits.md) | 第六卷193章证据与表演边界 |
 | [东海龙王：紫光金阙残锤、敌袭误警与倒履相迎](eastsea-dragonking-broken-ziguang-hammers-alarm-and-cautious-welcome.md) | 第六卷193章证据与表演边界 |
@@ -1753,3 +1756,5 @@
 最新[第六卷192章复核](../reviews/review-v06-0192.md)与[状态账](../reviews/ledger-v06-0192.md)：一气三清后证、年份口述与实际重生，孟未知池址。
 
 最新[第六卷193章复核](../reviews/review-v06-0193.md)与[状态账](../reviews/ledger-v06-0193.md)：古史两序未证、龙王实际相迎未交易。
+
+最新[第六卷194章复核](../reviews/review-v06-0194.md)与[状态账](../reviews/ledger-v06-0194.md)：三剑已收、时间双证差异与实际碑启动。
