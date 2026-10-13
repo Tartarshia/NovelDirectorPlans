@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第207章，1134 / 1410 个目录条目，约365.6万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第208章，1135 / 1410 个目录条目，约365.9万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第208章复核](books/yishizhizun/reviews/review-v06-0208.md)：心眼佛共鸣、林太阳神官与限手圣衣伏击，80段、114句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0208.md)。
 - [第六卷第207章复核](books/yishizhizun/reviews/review-v06-0207.md)：章林具名、9527警长与受限处女小宇宙，58段、95句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0207.md)。
 - [第六卷第206章复核](books/yishizhizun/reviews/review-v06-0206.md)：愿望眼射术验证、转正第一组与逆佛调查任务，61段、98句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0206.md)。
 - [第六卷第205章复核](books/yishizhizun/reviews/review-v06-0205.md)：狐传话筛接、雷特征镜探与顾良见习焦尸案，62段、94句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0205.md)。

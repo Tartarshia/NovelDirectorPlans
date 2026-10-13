@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷207章
+# 角色阶段索引 · 截至第六卷208章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–207章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–208章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾闭眼佛参照与未名根存在视像、司机心安信](gu-closedeye-buddhist-reference-faith-vision-and-coachman-belief.md) | 第六卷208章证据与表演边界 |
+| [林瞳太阳神官、舍利排查与李林峰姓名差、血墙伏击](lin-sungod-priest-sarira-investigation-li-lin-feng-namegap-and-bloodwall-ambush.md) | 第六卷208章证据与表演边界 |
+| [匿名逆佛攻击与一分钟限手圣衣、尚未脱险](inversebuddha-redblack-robed-man-attack-and-one-minute-handonly-virgo-cloth.md) | 第六卷208章证据与表演边界 |
 | [章守缺首席具名、七组与顾良9527警長改信](zhang-shouque-chief-seven-groups-gu-sergeant9527-and-faith-decision.md) | 第六卷207章证据与表演边界 |
 | [林瞳总督察、圣灵武器与逆佛口供资料链](lin-tong-chiefinspector-holyspirit-revolver-team-reports-and-captured-cult-confession.md) | 第六卷207章证据与表演边界 |
 | [愿望眼奉献限制、处女小宇宙感官与摩羯内心](wish-eye-contribution-limits-gu-virgo-fastmicrocosm-and-capricorn-thought.md) | 第六卷207章证据与表演边界 |
