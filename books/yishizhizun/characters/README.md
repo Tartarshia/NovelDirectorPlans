@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷205章
+# 角色阶段索引 · 截至第六卷206章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–205章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–206章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾良误按与愿望眼铭文、未知雷声及十枪验证](gu-wisheye-button-inscription-unknown-thundervoice-and-ten-bullseyes.md) | 第六卷206章证据与表演边界 |
+| [黄远波内部书和夏洛特旧案报告、延交与转正已批](huang-internal-book-charlotte-oldcase-delayed-handover-and-approved-regularization.md) | 第六卷206章证据与表演边界 |
+| [匿名黑衣第一组指派、逆佛史报告和奉献任务](blackcoat-unnamed-first-action-group-inversebuddha-history-and-contribution-task.md) | 第六卷206章证据与表演边界 |
 | [垂翼传狐条件、论坛禁言与大青根筛接、雷特征镜探](chui-foxmessage-condition-forum-mute-root-callfilter-and-thundermirror-search.md) | 第六卷205章证据与表演边界 |
 | [顾良见习警员与黄远波、焦尸怀表黄金及薄片疑案](gu-liang-trainee-huang-yuanbo-charred-body-watch-gold-and-silverplate-clue.md) | 第六卷205章证据与表演边界 |
 | [世界异闻录七魔神文字来源与远东失史认识](world-yiwenlu-seven-demons-written-xilu-reports-fareast-losthistory.md) | 第六卷205章证据与表演边界 |
