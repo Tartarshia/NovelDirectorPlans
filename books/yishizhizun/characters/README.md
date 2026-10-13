@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷204章
+# 角色阶段索引 · 截至第六卷205章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–204章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–205章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [垂翼传狐条件、论坛禁言与大青根筛接、雷特征镜探](chui-foxmessage-condition-forum-mute-root-callfilter-and-thundermirror-search.md) | 第六卷205章证据与表演边界 |
+| [顾良见习警员与黄远波、焦尸怀表黄金及薄片疑案](gu-liang-trainee-huang-yuanbo-charred-body-watch-gold-and-silverplate-clue.md) | 第六卷205章证据与表演边界 |
+| [世界异闻录七魔神文字来源与远东失史认识](world-yiwenlu-seven-demons-written-xilu-reports-fareast-losthistory.md) | 第六卷205章证据与表演边界 |
 | [三清具名三化身、同境不同实力与本尊救身换位](threepure-zhending-sumeng-qingyuan-named-unequal-avatars-and-causal-swap.md) | 第六卷204章证据与表演边界 |
 | [霸王伤换时间不入阵、孟袖计未困与末开天停战](bawang-wounded-timebuy-no-swordarray-meng-sleeve-failure-final-opener-and-truce.md) | 第六卷204章证据与表演边界 |
 | [孟陆大道路体验、三十年真实界积累与雷神特征分别](meng-luda-selfpath-thirty-realrealm-years-thunderfeatures-and-era-farewell.md) | 第六卷204章证据与表演边界 |
