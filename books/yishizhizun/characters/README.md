@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷186章
+# 角色阶段索引 · 截至第六卷187章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–186章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–187章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮的烤兔：清冷专业、共食与羞浅笑](ruan-roast-rabbit-clear-voice-shared-meal-and-shy-smile.md) | 第六卷187章证据与表演边界 |
+| [甘的孤寂：游历邀请、安全取舍与父母愿望](gan-solitude-travel-invitation-refusal-and-parent-protection-hope.md) | 第六卷187章证据与表演边界 |
+| [三线风起：林招揽、海图天帝与黄巾东皇杀旨](lin-wudoumi-recruitment-sea-tiandi-glow-and-huangjin-donghuang-order.md) | 第六卷187章证据与表演边界 |
 | [阮实际降临：嫦娥误认与飞的兔子计划](ruan-real-descent-change-misrecognition-and-xu-rabbit-plan.md) | 第六卷186章证据与表演边界 |
 | [因果惨叫、阿难未承认与天河阻隔](meng-rake-causal-cry-ananda-nonadmission-and-tianhe-barrier.md) | 第六卷186章证据与表演边界 |
 | [甘吴修器回报：默诵与断刺实际修返](gan-wu-friendship-repair-gift-silent-chant-and-returned-spike.md) | 第六卷186章证据与表演边界 |
@@ -1718,3 +1721,5 @@
 最新[第六卷185章复核](../reviews/review-v06-0185.md)与[状态账](../reviews/ledger-v06-0185.md)：实际入门挑战、布阵与人影未知。
 
 最新[第六卷186章复核](../reviews/review-v06-0186.md)与[状态账](../reviews/ledger-v06-0186.md)：阮真身份、默诵与老猪死因重审。
+
+最新[第六卷187章复核](../reviews/review-v06-0187.md)与[状态账](../reviews/ledger-v06-0187.md)：实际偷兔烹食与笑、甘独修与外部三线。
