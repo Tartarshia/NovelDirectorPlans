@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷192章
+# 角色阶段索引 · 截至第六卷193章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–192章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–193章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [古史两套顺序：旧梳理与西游在前推演](meng-two-ancient-timelines-demonlord-xiyou-order-and-uncertain-history.md) | 第六卷193章证据与表演边界 |
+| [古史证据审查：魔佛承认范围、沙记忆与小说细节](mofo-explicit-admissions-sha-memory-audit-and-book-detail-limits.md) | 第六卷193章证据与表演边界 |
+| [东海龙王：紫光金阙残锤、敌袭误警与倒履相迎](eastsea-dragonking-broken-ziguang-hammers-alarm-and-cautious-welcome.md) | 第六卷193章证据与表演边界 |
 | [一气三清诛仙：四体声音、两择与时间证词](meng-yiqi-sanqing-four-voices-zhuxian-threat-and-linggan-date-testimony.md) | 第六卷192章证据与表演边界 |
 | [灵感自爆与普陀重生：读者事实与孟知情](linggan-selfexplosion-putuo-pool-projection-rebirth-and-meng-knowledge-limit.md) | 第六卷192章证据与表演边界 |
 | [残锤宝宫：三口天仙剑缺口与东海备选交易](meng-broken-hammers-palace-treasure-three-sword-gap-and-eastsea-plan.md) | 第六卷192章证据与表演边界 |
@@ -1748,3 +1751,5 @@
 最新[第六卷191章复核](../reviews/review-v06-0191.md)与[状态账](../reviews/ledger-v06-0191.md)：罚恶实战、投影避刀与未名助声，未终杀。
 
 最新[第六卷192章复核](../reviews/review-v06-0192.md)与[状态账](../reviews/ledger-v06-0192.md)：一气三清后证、年份口述与实际重生，孟未知池址。
+
+最新[第六卷193章复核](../reviews/review-v06-0193.md)与[状态账](../reviews/ledger-v06-0193.md)：古史两序未证、龙王实际相迎未交易。
