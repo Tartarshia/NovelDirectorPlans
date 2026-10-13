@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第200章，1127 / 1410 个目录条目，约363.5万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第201章，1128 / 1410 个目录条目，约363.8万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第201章复核](books/yishizhizun/reviews/review-v06-0201.md)：垂翼祖传与多门口述、历史霸王晋境目标及刀失对望，62段、119句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0201.md)。
 - [第六卷第200章复核](books/yishizhizun/reviews/review-v06-0200.md)：明通传像与妖族博弈、圆蒙印实际及妖皇殿垂翼重逢，129段、175句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0200.md)。
 - [第六卷第199章复核](books/yishizhizun/reviews/review-v06-0199.md)：圆蒙投影送符、段父子转世公开说与根封购代购，91段、136句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0199.md)。
 - [第六卷第198章复核](books/yishizhizun/reviews/review-v06-0198.md)：一珠实收部署、传说计划与论坛文字众评，87段、104句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0198.md)。
