@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷199章
+# 角色阶段索引 · 截至第六卷200章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–199章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–200章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [明通柳叶镜与沙悟净影像、未知背物和白龙拖骸](mingtong-willow-mirror-lingshan-sha-unknown-corpse-and-white-dragon.md) | 第六卷200章证据与表演边界 |
+| [妖族他我资料与救残圣计划、罗教博弈](yaozu-ananda-projection-records-residual-saints-plan-and-luojiao-bargain.md) | 第六卷200章证据与表演边界 |
+| [圆蒙印一月实际融法身与魔佛烙印不可直吸](yuanmeng-imprint-one-month-actual-fusion-and-mofo-brands-not-absorbable.md) | 第六卷200章证据与表演边界 |
+| [真实界东海海眼、单面妖皇殿与垂翼故旧重逢](realrealm-eastsea-eye-yaohuang-oneface-palace-chuiyizi-reunion.md) | 第六卷200章证据与表演边界 |
 | [大青根封购物、快递奖赏与代购复发](daqinggen-shopping-seal-reward-relapse-and-unnamed-disciple-proxy.md) | 第六卷199章证据与表演边界 |
 | [圆蒙魔佛投影与传说两条件、脆界送符](yuanmeng-mofo-projection-legend-two-conditions-and-fragileworld-talisman.md) | 第六卷199章证据与表演边界 |
 | [段向非与段明诚：老迈、隔界视像、转世公开说与到账](duan-xiangfei-mingcheng-aged-father-talisman-vision-rebirth-claim-and-coins.md) | 第六卷199章证据与表演边界 |
