@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷194章
+# 角色阶段索引 · 截至第六卷195章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–194章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–195章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [七杀筛时：干扰避选与过去龙王不识孟](sevenkill-timefilter-interference-past-dragonpalace-and-unrecognized-meng.md) | 第六卷195章证据与表演边界 |
+| [蛇身女影与坠天雷雨：女娲手段仅疑](snakebody-shadow-thunder-filter-whiteflash-and-darkred-flood.md) | 第六卷195章证据与表演边界 |
+| [二十四珠因果：记而不取、未名暗红天眼](twentyfour-bead-causal-memory-not-capture-and-unnamed-darkred-sky-eyes.md) | 第六卷195章证据与表演边界 |
 | [龙王能屈伸：玉虚出身、诛仙名压与交换释负](eastsea-dragonking-flexible-face-yuxu-zhuxian-fear-and-trade-relief.md) | 第六卷194章证据与表演边界 |
 | [三剑实际补齐：阿赖耶、腾龙、起凤与商城剁枝](meng-alaya-tenglong-qifeng-three-swords-trade-and-mall-branch-joke.md) | 第六卷194章证据与表演边界 |
 | [二刻半与三刻：双证差异、魔攻日刻与碑启动](dragonking-twohalf-vs-linggan-threequarters-testimony-and-tablet-start.md) | 第六卷194章证据与表演边界 |
@@ -1758,3 +1761,5 @@
 最新[第六卷193章复核](../reviews/review-v06-0193.md)与[状态账](../reviews/ledger-v06-0193.md)：古史两序未证、龙王实际相迎未交易。
 
 最新[第六卷194章复核](../reviews/review-v06-0194.md)与[状态账](../reviews/ledger-v06-0194.md)：三剑已收、时间双证差异与实际碑启动。
+
+最新[第六卷195章复核](../reviews/review-v06-0195.md)与[状态账](../reviews/ledger-v06-0195.md)：actual到过去、24因果记不取，冷眼未名。
