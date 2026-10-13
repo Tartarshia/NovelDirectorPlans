@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷190章
+# 角色阶段索引 · 截至第六卷191章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–190章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–191章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [元心四象与洞天洪水：接近传说的实战边界](meng-yuanxin-sixiang-heavens-qingyun-and-linggan-nearlegend-reflection.md) | 第六卷191章证据与表演边界 |
+| [儿时西游不满：惩恶动机与灵感投影避刀](meng-childhood-xiyou-injustice-punishment-motive-and-linggan-projection-escape.md) | 第六卷191章证据与表演边界 |
+| [逃湖变星空：方向反转与三位未名助声](linggan-direction-reversal-starfield-and-three-unnamed-helper-voices.md) | 第六卷191章证据与表演边界 |
 | [东皇逆溯：候选排除与存活假设边界](donghuang-causal-exclusions-survival-and-demonlord-hypothesis.md) | 第六卷190章证据与表演边界 |
 | [当地十年：甘成长、阮归返与七杀碑交接](gan-local-tenyear-growth-ruan-return-tablet-and-food-gifts.md) | 第六卷190章证据与表演边界 |
 | [灵感巨泽：蟹将通传、拒见与雷刀堵门](linggan-crab-report-rejected-visit-and-meng-lake-blockade.md) | 第六卷190章证据与表演边界 |
@@ -1738,3 +1741,5 @@
 最新[第六卷189章复核](../reviews/review-v06-0189.md)与[状态账](../reviews/ledger-v06-0189.md)：孟接投影、实际阻降与阵取图。
 
 最新[第六卷190章复核](../reviews/review-v06-0190.md)与[状态账](../reviews/ledger-v06-0190.md)：当地十年、阮可尝试突破与实际堵门，东皇身份未决。
+
+最新[第六卷191章复核](../reviews/review-v06-0191.md)与[状态账](../reviews/ledger-v06-0191.md)：罚恶实战、投影避刀与未名助声，未终杀。
