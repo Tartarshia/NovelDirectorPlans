@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷212章
+# 角色阶段索引 · 截至第六卷213章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–212章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–213章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟青丘灵山合作、罗教代价未明与妲己去向问](meng-qingqiu-lingshan-agreement-luojiao-price-unknown-and-daji-future-question.md) | 第六卷213章证据与表演边界 |
+| [妖皇殿三天诸派整合、殿时间相遇限制](yaohuang-three-heavens-faction-integration-and-palace-time-control-limits.md) | 第六卷213章证据与表演边界 |
+| [辉光落伽非想、青丘继承竞争与太离天仙增长](huiguang-luojia-feixiang-qingqiu-contest-and-taili-heaven-growth.md) | 第六卷213章证据与表演边界 |
 | [孟多宇操印仍不足、根垂直播与费游戏计划](meng-simultaneous-imprints-insufficient-root-chui-streaming-and-fei-game-plan.md) | 第六卷212章证据与表演边界 |
 | [狐文伯昆仑新城、短寿享受与苗吴虚拟擂提案](fox-wenbo-kunlun-newcity-shortlife-enjoyment-and-miao-wu-virtualarena-proposal.md) | 第六卷212章证据与表演边界 |
 | [狐玉虚冷礼、阿难他我资料与灵山救残大圣条件](fox-yuxu-cold-courtesy-ananda-other-self-data-and-lingshan-rescue-condition.md) | 第六卷212章证据与表演边界 |
