@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷222章
+# 角色阶段索引 · 截至第六卷223章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–222章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–223章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [论坛罗教劝诱、书面见闻争论与删帖扩散](forum-luojiao-persuasion-written-witness-dispute-and-deletion-spread.md) | 第六卷223章证据与表演边界 |
+| [司马六扇门网络应对、代际争论与未成结盟](sima-sixdoors-network-moderation-generational-debate-and-unfinished-alliance.md) | 第六卷223章证据与表演边界 |
+| [高览提前出关、十年传说条件与人皇遗族召唤](gao-early-retreat-exit-tenyear-conditional-legend-and-humanemperor-clan-call.md) | 第六卷223章证据与表演边界 |
 | [蛟鹏二圣归、孔宣遗羽报告与三圣目压](jiao-peng-saints-return-kongxuan-lastfeathers-report-and-threesaints-gaze.md) | 第六卷222章证据与表演边界 |
 | [青丘资料实酬、孟收骨弃迦叶与玉虚静修](qingqiu-ananda-records-paid-meng-bones-return-kasyapa-left-and-yuxu-retreat.md) | 第六卷222章证据与表演边界 |
 | [霍真身天仙、神使陆醒与沙卷帘西境护民](huo-formal-heaven-vacuum-years-envoys-waking-and-sha-westborder-defense.md) | 第六卷222章证据与表演边界 |
