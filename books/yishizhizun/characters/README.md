@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷215章
+# 角色阶段索引 · 截至第六卷216章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–215章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–216章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [迦叶指穿五光功德塔、福德护救与群妖限制](kasyapa-finger-pierces-fivecolor-merittower-fortune-save-and-demonlimits.md) | 第六卷216章证据与表演边界 |
+| [孟袖暂收黄河抛迦叶、黄骨未回收](meng-sleeve-temporary-yellowriver-release-not-bone-recovery.md) | 第六卷216章证据与表演边界 |
+| [真定河见当前身体地球过去、母怀回溯与后峰进入](zhending-river-currentbody-earth-past-mother-retrace-and-backpeak-entry.md) | 第六卷216章证据与表演边界 |
 | [真定沿下游、三正掌舍利与逆掌未修](zhending-downriver-three-positive-palm-sarira-and-reversepalm-unpracticed.md) | 第六卷215章证据与表演边界 |
 | [四妖灵山实战、功德塔气运光与刷吞佛尸](four-demons-lingshan-combat-virtue-tower-fortune-light-and-buddha-swallow.md) | 第六卷215章证据与表演边界 |
 | [迦叶无死气与黄泉骸河、孟烙印仍在未取](kasyapa-no-death-aura-huangquan-bones-river-and-surviving-meng-mark.md) | 第六卷215章证据与表演边界 |

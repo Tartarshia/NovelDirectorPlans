@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第215章，1142 / 1410 个目录条目，约367.9万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第216章，1143 / 1410 个目录条目，约368.2万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第216章复核](books/yishizhizun/reviews/review-v06-0216.md)：袖暂收抛黄泉与化身身体回溯，64段、70句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0216.md)。
 - [第六卷第215章复核](books/yishizhizun/reviews/review-v06-0215.md)：真定沿河、四妖实战与迦叶黄骨，70段、78句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0215.md)。
 - [第六卷第214章复核](books/yishizhizun/reviews/review-v06-0214.md)：魔佛消息改主导、六人实际入灵山，53段、75句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0214.md)。
 - [第六卷第213章复核](books/yishizhizun/reviews/review-v06-0213.md)：灵山合作、青丘族主与三妖山头，61段、93句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0213.md)。
