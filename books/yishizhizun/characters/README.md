@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷218章
+# 角色阶段索引 · 截至第六卷219章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–218章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–219章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [独佛残愿与巨掌、四妖败伤和孟黄骨云手抗](sole-truebuddha-vow-residue-active-palms-and-fourdemon-injuries.md) | 第六卷219章证据与表演边界 |
+| [阿难善念泪、绝刀迁化身与一层压制突破](ananda-goodness-tear-avatar-blade-transfer-and-one-suppression-broken.md) | 第六卷219章证据与表演边界 |
+| [兜率实际开炉、金毛老孙手握金棒与归来边界](tusita-furnace-actual-opening-golden-hand-laosun-staff-and-return-limits.md) | 第六卷219章证据与表演边界 |
 | [真定古蝉蜕收、新破洞与文殊万佛空壳](zhending-old-cicada-shell-collected-newbroken-cave-and-hollow-buddha-remnants.md) | 第六卷218章证据与表演边界 |
 | [峰顶咒棒未成、魔封禁触与未知巨影](peak-staff-incantation-unfinished-mofo-seal-taboo-and-unknown-shadow.md) | 第六卷218章证据与表演边界 |
 | [兜率道装老者开炉令、金银童子六百年丹惊](tusita-daorobed-elder-open-furnace-order-and-gold-silver-boys-surprise.md) | 第六卷218章证据与表演边界 |
