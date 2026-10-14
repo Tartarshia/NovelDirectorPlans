@@ -24,3 +24,15 @@ git push
 恢复时先克隆本仓库，再自行准备与 `source_sha256` 匹配的原书并使用 NovelVoice 的本地索引工具生成私有阅读副本。不要从云端角色百科补写成已读原文；本包未提供小说全文，无法单独执行全文复核。
 
 补充归属校验：`python scripts/validate_attribution.py --source ../NovelVoice/output/director/yishizhizun`。此命令只在有本地正文时校验字符偏移及段落哈希；不带 source 可查发布包覆盖。新复核章节须同步 reviews/attribution-summary.json，不得用结构通过替代逐段语义审查。
+
+## 每章完成后的五小时额度检查
+
+用户要求：每完成一章（全文精读、导演分场、角色状态、句内归属、语义复核、校验和提交推送均完成），必须检查当前 Codex 五小时 usage limit，再决定是否开始下一章。不得累积多章后再查。恢复阅读前也检查一次。
+
+在本仓库运行 `python scripts/check_usage.py`；从 NovelVoice 运行时可用 `python ../NovelDirectorPlans/scripts/check_usage.py --record output/director/yishizhizun/usage-checks/章节ID.json` 保存本地检查回执。脚本通过已登录 Codex 的 `account/rateLimits/read` 只读获取额度，不开启模型回合，不读取或打印凭据。按 `windowDurationMins == 300` 选取五小时窗口，剩余比例为 `100 - usedPercent`，不以累计 token、费用、周额度或上下文剩余量替代。
+
+- 返回 `continue`（退出码0）：剩余至少15%，可继续；恰好15%不触发本规则。
+- 返回 `pause`（退出码2）：剩余不足15%。不开始下一章；按用户此项条件暂停授权，将当前线程 goal 设为 `paused`，报告已完成章节与剩余比例，然后停止工作，等待用户恢复。
+- 返回 `unknown`（退出码3）：本次无法核实额度。保留已完成成果，不假报比例或默认充足；暂不开始下一章，说明读取失败并请用户提供当前五小时剩余比例。
+
+额度回执仅保存在本地 `usage-checks/`，不导出或提交账户额度、重置时间等个人使用记录。条件暂停不改动全书目标、阅读进度或下一章，不将项目标记为完成；也不自动消耗重置权益、购买额度或切换账号。
