@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷217章
+# 角色阶段索引 · 截至第六卷218章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–217章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–218章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [真定古蝉蜕收、新破洞与文殊万佛空壳](zhending-old-cicada-shell-collected-newbroken-cave-and-hollow-buddha-remnants.md) | 第六卷218章证据与表演边界 |
+| [峰顶咒棒未成、魔封禁触与未知巨影](peak-staff-incantation-unfinished-mofo-seal-taboo-and-unknown-shadow.md) | 第六卷218章证据与表演边界 |
+| [兜率道装老者开炉令、金银童子六百年丹惊](tusita-daorobed-elder-open-furnace-order-and-gold-silver-boys-surprise.md) | 第六卷218章证据与表演边界 |
 | [玉虚苏真君报称、三妖重评与分两队计划](meng-yuxu-name-threedemons-reassessment-and-accepted-two-team-plan.md) | 第六卷217章证据与表演边界 |
 | [黄泉烙印骸骨显身与似孟吼、操控未决](huangquan-marked-bones-emerge-menglike-roar-controller-unresolved.md) | 第六卷217章证据与表演边界 |
 | [真定见金蝉裂空壳、本体峰阵空无遗蜕](zhending-empty-goldcicada-shell-and-mainparty-empty-buddha-array.md) | 第六卷217章证据与表演边界 |
