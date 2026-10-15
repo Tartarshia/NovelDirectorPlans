@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷227章
+# 角色阶段索引 · 截至第六卷228章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–227章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–228章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟凡人借金送港、窍闭耳力与普通平衡](meng-mortal-borrowed-gold-porttrip-ear-apertures-and-ordinary-balance.md) | 第六卷228章证据与表演边界 |
+| [黄昌新机会、客人元皇生祠叙事与闭眼者未明](huang-chang-new-opportunity-passenger-shrine-stories-and-unidentified-closedeyes.md) | 第六卷228章证据与表演边界 |
+| [双童元皇变形金刚书、孟真实故事与玄心回忆](twins-yuanhuang-transformer-book-meng-realstory-and-xuanxin-memory.md) | 第六卷228章证据与表演边界 |
 | [孟旧忆与公众战绩、巴彦游人和内心释依](meng-memory-versus-public-victories-bayan-tourists-and-inner-release.md) | 第六卷227章证据与表演边界 |
 | [碧景璇应孟请求金斗削修、凡胎与诸果难运](bi-jingxuan-consented-hunyuan-depowering-meng-mortal-causal-root-inoperable.md) | 第六卷227章证据与表演边界 |
 | [孟道力衣消、绝刀储物难取与碧给衣](meng-powerclothes-vanish-blade-storage-inaccessible-and-bi-gives-clothes.md) | 第六卷227章证据与表演边界 |
