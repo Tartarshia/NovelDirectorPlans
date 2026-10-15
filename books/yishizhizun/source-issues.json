@@ -3,6 +3,16 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "nose-fiveflavors-v06-c0226",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v06-c0226:p0026"
+      ],
+      "source_word": "鼻为五味所染",
+      "state": "unresolved_source_issue",
+      "director_handling": "感官与五味搭配疑用字或版本问题；保原话及偏移，按江论感官蒙本性理解，不自行替换为其他感官或气味名。"
+    },
+    {
       "id": "zhen-ming-zhen-an-v06-c0225",
       "kind": "possible_source_word_error",
       "evidence": [
@@ -31,8 +41,21 @@
         "v06-c0225:p0051"
       ],
       "source_word": "没有‘他我’",
-      "state": "unresolved_source_issue",
-      "director_handling": "224源明确999、22519重述像999，而陆51劝孟无他我。保三处表述；将原有牵扯与后天构造/吸纳投影区分只是导演暂释，待全书语义终审核实。本章没有999消失动作，不用推断覆盖旧原文。"
+      "state": "clarified_by_later_source",
+      "director_handling": "224源明确999、22519重述像999，而陆51劝孟无他我。保三处表述；将原有牵扯与后天构造/吸纳投影区分只是导演暂释，待全书语义终审核实。本章没有999消失动作，不用推断覆盖旧原文。",
+      "prior_state": "unresolved_source_issue",
+      "later_resolutions": [
+        {
+          "recorded_at": "v06-c0226",
+          "evidence": [
+            "v06-c0226:p0001",
+            "v06-c0226:p0002",
+            "v06-c0226:p0003",
+            "v06-c0226:p0004"
+          ],
+          "resolution": "孟明确他我模拟印记或无灵智投影，不需考虑独立记忆情感冲击，另一个完全同者他是他自己是自己。由此本章澄清无原生他我牵扯与999构造投影的范围，999未消失；仅扫知见障见路，非正式传说。旧条原证据及导演暂释保阅读边界，全书终审仍待。"
+        }
+      ]
     },
     {
       "id": "qiao-she-v06-c0224",

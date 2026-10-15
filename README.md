@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第225章，1152 / 1410 个目录条目，约370.9万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第226章，1153 / 1410 个目录条目，约371.2万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第226章复核](books/yishizhizun/reviews/review-v06-0226.md)：第三问、江斩吾心得与齐弃武追问，69段、96句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0226.md)。
 - [第六卷第225章复核](books/yishizhizun/reviews/review-v06-0225.md)：科学绕关失败、访陆两问与关你何事，53段、68句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0225.md)。
 - [第六卷第224章复核](books/yishizhizun/reviews/review-v06-0224.md)：遗族到场、月光九灵护宫与999他我，62段、78句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0224.md)。
 - [第六卷第223章复核](books/yishizhizun/reviews/review-v06-0223.md)：论坛舆论危机、六扇门预案与高览召族，46段、82句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0223.md)。
