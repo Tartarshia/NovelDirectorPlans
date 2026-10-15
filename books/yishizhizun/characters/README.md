@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷224章
+# 角色阶段索引 · 截至第六卷225章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–224章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–225章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟伪造石像方程、科学绕关失败与实际出游](meng-forged-statue-equations-scientific-legend-bypass-fails-and-journey.md) | 第六卷225章证据与表演边界 |
+| [孟封忆最后备选、陆带伤浇灌与叶梦境修行](meng-memoryseal-lastoption-luda-wounded-watering-and-ye-dreamworld.md) | 第六卷225章证据与表演边界 |
+| [陆答自我两问、本性一念与关你何事](luda-selfhood-twoquestions-true-nature-onethought-and-whats-it-to-you.md) | 第六卷225章证据与表演边界 |
 | [人皇遗族少玄羲娥到场与未完末日之舟](humanemperor-clan-shaoxuan-xie-arrival-and-unfinished-doomsday-ark.md) | 第六卷224章证据与表演边界 |
 | [掌灯神使、灯源未明与月光九灵声护宫退敌](zhangdeng-envoy-lamp-identity-unknown-moonlight-barrier-and-jiuling-roar-retreat.md) | 第六卷224章证据与表演边界 |
 | [玄悲见阿难像泪悟善恶、凝金身与孟999他我](xuanbei-ananda-statue-tears-good-evil-insight-and-meng-999-imprints.md) | 第六卷224章证据与表演边界 |
