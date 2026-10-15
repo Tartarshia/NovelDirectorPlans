@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第六卷229章
+# 角色阶段索引 · 截至第六卷230章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–229章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–230章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [月光报身愿限与孟夜谈护客真意](moonlight-vow-boundaries-meng-nighttalk-protects-ship-passengers.md) | 第六卷230章证据与表演边界 |
+| [黄昌赠旧符、忘号码与凡人记忆限](huang-chang-old-talisman-gift-forgotten-numbers-and-mortal-memory.md) | 第六卷230章证据与表演边界 |
+| [孟多种认知模式互参、道路清楚但未传说](meng-many-cognitive-modes-trueself-road-clear-not-formal-legend.md) | 第六卷230章证据与表演边界 |
+| [扶桑七海虚影、罗教传说与圣女线索耳报](fusang-sevenseas-phantom-luojiao-legend-saintess-trace-moonlight-report.md) | 第六卷230章证据与表演边界 |
 | [闭眼黑袍客无妄瞳、未落杀掌与神佛护景](closedeye-passenger-wuwang-pupils-murder-intent-and-protective-buddhist-vision.md) | 第六卷229章证据与表演边界 |
 | [孟真空劫类比、外援与经验习惯重构夜谈](meng-vacuumtribulation-analogy-external-aid-and-rebuilt-habits-nighttalk.md) | 第六卷229章证据与表演边界 |
 | [双童紫裙母戒心、孟恶搞故事与玄心反思](ship-twins-purplemother-caution-meng-funny-stories-and-xuanxin-reflection.md) | 第六卷229章证据与表演边界 |
