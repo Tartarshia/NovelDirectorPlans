@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第230章，1157 / 1410 个目录条目，约372.5万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第231章，1158 / 1410 个目录条目，约372.7万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第231章复核](books/yishizhizun/reviews/review-v06-0231.md)：客服迂回求援、净土有情旁观与借刀入境，62段、97句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0231.md)。
 - [第六卷第230章复核](books/yishizhizun/reviews/review-v06-0230.md)：报身愿限、记忆与多模式局限、扶桑圣女线索，71段、96句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0230.md)。
 - [第六卷第229章复核](books/yishizhizun/reviews/review-v06-0229.md)：满天外护、凡身夜谈与真空劫类比，56段、83句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0229.md)。
 - [第六卷第228章复核](books/yishizhizun/reviews/review-v06-0228.md)：凡人航船、公众元皇与真实故事被疑，67段、98句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0228.md)。

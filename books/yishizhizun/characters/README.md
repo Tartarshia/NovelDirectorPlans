@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷230章
+# 角色阶段索引 · 截至第六卷231章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–230章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–231章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [大青根客服错认、孟私事验身与转高览](daqinggen-courier-service-meng-identity-challenge-and-gao-call-transfer.md) | 第六卷231章证据与表演边界 |
+| [高览有条件请援、少玄羲娥持舟刀入境](gao-conditional-clan-aid-shaoxuan-xie-actual-entry-with-ark-and-blade.md) | 第六卷231章证据与表演边界 |
+| [孟情绪仍在而不拘、月光净土功德池旁观](meng-emotions-present-not-binding-moonlight-pureland-remote-observation.md) | 第六卷231章证据与表演边界 |
 | [月光报身愿限与孟夜谈护客真意](moonlight-vow-boundaries-meng-nighttalk-protects-ship-passengers.md) | 第六卷230章证据与表演边界 |
 | [黄昌赠旧符、忘号码与凡人记忆限](huang-chang-old-talisman-gift-forgotten-numbers-and-mortal-memory.md) | 第六卷230章证据与表演边界 |
 | [孟多种认知模式互参、道路清楚但未传说](meng-many-cognitive-modes-trueself-road-clear-not-formal-legend.md) | 第六卷230章证据与表演边界 |
