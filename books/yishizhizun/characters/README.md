@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷223章
+# 角色阶段索引 · 截至第六卷224章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–223章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–224章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [人皇遗族少玄羲娥到场与未完末日之舟](humanemperor-clan-shaoxuan-xie-arrival-and-unfinished-doomsday-ark.md) | 第六卷224章证据与表演边界 |
+| [掌灯神使、灯源未明与月光九灵声护宫退敌](zhangdeng-envoy-lamp-identity-unknown-moonlight-barrier-and-jiuling-roar-retreat.md) | 第六卷224章证据与表演边界 |
+| [玄悲见阿难像泪悟善恶、凝金身与孟999他我](xuanbei-ananda-statue-tears-good-evil-insight-and-meng-999-imprints.md) | 第六卷224章证据与表演边界 |
 | [论坛罗教劝诱、书面见闻争论与删帖扩散](forum-luojiao-persuasion-written-witness-dispute-and-deletion-spread.md) | 第六卷223章证据与表演边界 |
 | [司马六扇门网络应对、代际争论与未成结盟](sima-sixdoors-network-moderation-generational-debate-and-unfinished-alliance.md) | 第六卷223章证据与表演边界 |
 | [高览提前出关、十年传说条件与人皇遗族召唤](gao-early-retreat-exit-tenyear-conditional-legend-and-humanemperor-clan-call.md) | 第六卷223章证据与表演边界 |
