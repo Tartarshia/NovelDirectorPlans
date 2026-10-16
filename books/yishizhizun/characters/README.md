@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷12章
+# 角色阶段索引 · 截至第七卷13章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–12章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–13章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [赤精子玉鼎道行借剑归、孟同辈与仙尊称号](chijing-yuding-daoxing-sword-strands-and-meng-peer-acceptance.md) | 第七卷13章证据与表演边界 |
+| [文殊女子道身存、菩萨金身亡与吞遗蜕释然](wenshu-female-dao-body-survives-bodhisattva-death-and-relic-swallow-joy.md) | 第七卷13章证据与表演边界 |
+| [哮天犬代二郎、未到同门与召钟后证](xiaotian-dog-yang-proxy-greeting-and-unattended-yuxu-seats.md) | 第七卷13章证据与表演边界 |
+| [玉虚同门死讯来源、佛道双身与未到不等亡](yuxu-brothers-death-reports-buddha-dao-bodies-and-unknown-absences.md) | 第七卷13章证据与表演边界 |
 | [广成借番天印一丝降临、护短策略与同门牵念](guangcheng-fantian-projected-strand-protection-and-yuxu-brothers.md) | 第七卷12章证据与表演边界 |
 | [悟空棒与金手救卷帘、三使逃与未撕破脸](wukong-staff-goldenhand-rescues-sha-and-three-envoys-escape.md) | 第七卷12章证据与表演边界 |
 | [鹏攻州建妖庭令、弥勒撤将举与山河图统治依赖](peng-war-order-mile-earth-buddhaland-and-map-territory-limit.md) | 第七卷12章证据与表演边界 |
