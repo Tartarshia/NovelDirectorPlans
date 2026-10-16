@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第14章，1178 / 1410 个目录条目，约378.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第15章，1179 / 1410 个目录条目，约378.8万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第15章复核](books/yishizhizun/reviews/review-v07-0015.md)：根诱教符报复、孟左窍请顾三策与周域封阵提案，43段、59句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0015.md)。
 - [第七卷第14章复核](books/yishizhizun/reviews/review-v07-0014.md)：定光旧敌后证、全脉暂摄掌教实定、寻师线索与借宝承诺，100段、145句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0014.md)。
 - [第七卷第13章复核](books/yishizhizun/reviews/review-v07-0013.md)：同门借宝归殿与孟同辈、文殊佛道双身、犬代二郎及钟敲者后证，81段、114句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0013.md)。
 - [第七卷第12章复核](books/yishizhizun/reviews/review-v07-0012.md)：番天印护短、悟空救沙、领土战令与真宫广成一丝显化，74段、86句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0012.md)。
