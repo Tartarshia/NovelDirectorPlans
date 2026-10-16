@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第七卷5章
+# 角色阶段索引 · 截至第七卷6章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–5章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–6章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孙教龙、新生孙武与玉虚令十岁送宫约](sun-jiaolong-son-sun-wu-yuxu-token-and-future-discipleship.md) | 第七卷6章证据与表演边界 |
+| [孙家仆夸张误发无图帖、模仿回复与实删](sun-servant-exaggerated-forum-post-misfire-memes-and-deletion.md) | 第七卷6章证据与表演边界 |
+| [于齐两次转世后的新我与孟不抹人格之择](yu-qi-two-rebirths-independent-self-and-meng-memory-ethics.md) | 第七卷6章证据与表演边界 |
 | [孟黄泉骨定位梦府、拳掌抓河威压与实际代价](meng-yellowbones-locates-dream-underworld-fist-river-pressure-and-cost.md) | 第七卷5章证据与表演边界 |
 | [阎罗让步送罗入人道、血河归位与张符仅眉目](yanluo-concedes-luo-human-reincarnation-river-return-and-zhangfu-clues.md) | 第七卷5章证据与表演边界 |
 | [江东孙家新婴与元皇求见、身份尚未直名](sun-clan-newborn-yuanhuang-visit-report-identity-not-yet-named.md) | 第七卷5章证据与表演边界 |
