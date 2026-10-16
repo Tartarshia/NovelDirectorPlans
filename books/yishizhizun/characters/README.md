@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷235章
+# 角色阶段索引 · 截至第六卷236章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–235章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–236章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [伍延平论坛旧典、先帖习惯与第四异象震惊](wu-yanping-forum-posts-ancient-omen-knowledge-and-fourth-surprise.md) | 第六卷236章证据与表演边界 |
+| [孟正式传说、先天无极破门与四异象虚幻多元](meng-formal-legend-wuji-gate-four-omens-and-virtual-multiverse.md) | 第六卷236章证据与表演边界 |
+| [九仙山未名两道人、提前唤醒吩咐与接刀巨掌未名](jiuxian-unidentified-daoists-wake-order-ancient-return-and-unknown-blade-hand.md) | 第六卷236章证据与表演边界 |
 | [沙与投影化传记、尸骸文字反制及先果后坟未行](sha-book-transformation-lingshan-corpse-word-counter-and-fruit-before-grave-plan.md) | 第六卷235章证据与表演边界 |
 | [掌灯袖困被舟刀破、主动熄灯再困](zhangdeng-sleeve-ark-breakout-and-deliberate-lamp-extinction-trap.md) | 第六卷235章证据与表演边界 |
 | [孟源初映照自认、因果金莲与仙界横空异象启动](meng-yuanshi-selfimage-recognition-causal-lotus-and-legend-omen-begins.md) | 第六卷235章证据与表演边界 |
