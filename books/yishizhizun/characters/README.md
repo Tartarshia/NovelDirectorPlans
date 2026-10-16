@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷24章
+# 角色阶段索引 · 截至第七卷25章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–24章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–25章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [魔君杀孟防齐动机、孟悟高饵局与保密反思](mojun-killmeng-qithreat-meng-gao-baitplan-secrecy-reflection.md) | 第七卷25章证据与表演边界 |
+| [原诛仙图自投孟掌拍枢、完整结构与传说醒力](original-zhuxian-map-selfselects-meng-core-join-fullstructure-legendawake.md) | 第七卷25章证据与表演边界 |
+| [宝瓶诸投影真灭与二使实逃、群妖伤与袁白毛替死](baoping-all-imprints-killed-two-envoys-escape-demon-injuries-hair-decoy.md) | 第七卷25章证据与表演边界 |
+| [韩评阵法醒力上限、高问人皇遗蜕未答](han-array-limit-gao-ancient-remains-humanemperor-question.md) | 第七卷25章证据与表演边界 |
 | [牛哪初造化与弱传说功德塔助妖出战界](qingqiu-merit-pagoda-weaklegend-escape-niunezha-initialfortune.md) | 第七卷24章证据与表演边界 |
 | [家乡投影实降、敌我同限与似母神像](hometown-projection-neutral-ubiquity-ban-four-blooms-motherlike-image.md) | 第七卷24章证据与表演边界 |
 | [六灭阎魔身双攻、反噬下坠与九幽救回](liumie-yanmo-avatar-jointstrike-backlash-jiuyou-rescue-no-capture.md) | 第七卷24章证据与表演边界 |
