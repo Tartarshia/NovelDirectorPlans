@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷20章
+# 角色阶段索引 · 截至第七卷21章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–20章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–21章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [牛代价底牌真牛身、局部宇宙解限与哪莲侵界](niu-costly-true-ox-inner-cosmos-local-ubiquity-and-nezha-lotus.md) | 第七卷21章证据与表演边界 |
+| [弥勒伤复慢、未来星宿法身与三舍利区域解限](mile-wounded-future-star-dharmakaya-three-relics-local-pureland.md) | 第七卷21章证据与表演边界 |
+| [孟本尊束枢、少羲改派与八九临佛国外](meng-array-center-binding-shaoxi-redeployment-bajiu-avatar-reserve.md) | 第七卷21章证据与表演边界 |
+| [江主场投影保命条件、孟未来被杀原因推测](jiang-home-imprints-conditional-rebirth-and-meng-future-death-hypothesis.md) | 第七卷21章证据与表演边界 |
 | [青帝多身份回溯纪元始、尚须占未来登彼岸](qingdi-unified-past-era-beginning-future-occupation-not-yet-other-shore.md) | 第七卷20章证据与表演边界 |
 | [哪吒借阵跨线、宝瓶真焚灰再复聚](nezha-zhou-array-multifront-pressure-bottle-ash-and-reconstitution.md) | 第七卷20章证据与表演边界 |
 | [南州城实失、极寒域与合体自我批评边界](southcity-falls-cold-domain-fusion-selfhood-critique-wisdom-sword.md) | 第七卷20章证据与表演边界 |
