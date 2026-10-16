@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第七卷15章
+# 角色阶段索引 · 截至第七卷16章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–15章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–16章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [高先造危局争盟主动、当年突破外助未名](gao-staged-crisis-unnamed-breakthrough-aid-and-alliance-leadership.md) | 第七卷16章证据与表演边界 |
+| [掌教借四剑的实际仪式与周二十七州布置](meng-acting-head-ritual-borrows-four-swords-zhou-map-deployment.md) | 第七卷16章证据与表演边界 |
+| [妖行被截、佛驾顿与哪吒袁洪识四剑](four-sword-reactions-demon-march-mile-nezha-and-yuanhong.md) | 第七卷16章证据与表演边界 |
 | [根收尿土与通识教学报复、犬成瘾仍未来笑想](daqinggen-collects-urine-soil-and-online-teaching-revenge-not-addiction-yet.md) | 第七卷15章证据与表演边界 |
 | [孟顾左窍逗语、坦认谋略短与暗谋容忍界限](meng-gu-left-aperture-adult-banter-honest-strategy-request-and-boundaries.md) | 第七卷15章证据与表演边界 |
 | [顾三策盟友分化与周域诛仙封无处不在提案](gu-three-strategies-alliances-and-proposed-zhou-zhuxian-ubiquity-ban.md) | 第七卷15章证据与表演边界 |
