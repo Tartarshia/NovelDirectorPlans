@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷19章
+# 角色阶段索引 · 截至第七卷20章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–19章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–20章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [青帝多身份回溯纪元始、尚须占未来登彼岸](qingdi-unified-past-era-beginning-future-occupation-not-yet-other-shore.md) | 第七卷20章证据与表演边界 |
+| [哪吒借阵跨线、宝瓶真焚灰再复聚](nezha-zhou-array-multifront-pressure-bottle-ash-and-reconstitution.md) | 第七卷20章证据与表演边界 |
+| [南州城实失、极寒域与合体自我批评边界](southcity-falls-cold-domain-fusion-selfhood-critique-wisdom-sword.md) | 第七卷20章证据与表演边界 |
+| [孟哪牵制、哮天破弥勒金身与未显后手](meng-nezha-distraction-xiaotian-bites-mile-and-reserve-threats.md) | 第七卷20章证据与表演边界 |
 | [月光答药师在未来与孟两线反应](moonlight-medicineking-in-future-answer-and-meng-parallel-body.md) | 第七卷19章证据与表演边界 |
 | [陆苏龙珠宇宙合体、陆无名与文殊大智慧剑](lusu-seven-dragonballs-fusion-lu-wuming-wenshu-wisdom-sword.md) | 第七卷19章证据与表演边界 |
 | [江天仙门槛与等效战力、清内应迎三使](jiang-heaven-threshold-effective-power-city-pacification-three-envoys.md) | 第七卷19章证据与表演边界 |
