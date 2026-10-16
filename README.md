@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第18章，1182 / 1410 个目录条目，约379.7万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第19章，1183 / 1410 个目录条目，约379.9万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第19章复核](books/yishizhizun/reviews/review-v07-0019.md)：江天仙门槛与等效战力、陆苏合体借大智慧剑，47段、58句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0019.md)。
 - [第七卷第18章复核](books/yishizhizun/reviews/review-v07-0018.md)：元皇授诏、各线实到与孟僧身净土求援，60段、72句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0018.md)。
 - [第七卷第17章复核](books/yishizhizun/reviews/review-v07-0017.md)：阵效实证、牛断臂再生、皇太弟催图与遥派江陆苏，72段、100句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0017.md)。
 - [第七卷第16章复核](books/yishizhizun/reviews/review-v07-0016.md)：高览造势求盟、掌教仪式借剑与四剑实罩周域，68段、86句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0016.md)。
