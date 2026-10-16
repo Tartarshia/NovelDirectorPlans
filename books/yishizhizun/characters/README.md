@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第七卷3章
+# 角色阶段索引 · 截至第七卷4章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–3章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–4章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾左窍藏身、外患猜与孟顾感情再审](gu-left-aperture-concealment-threat-guesses-and-relationship-review.md) | 第七卷4章证据与表演边界 |
+| [扶桑果残内景诸天怀疑与绝世炼器材料限制](fusang-fruit-inner-heavens-hypothesis-and-peerless-crafting-limits.md) | 第七卷4章证据与表演边界 |
+| [孟以黄泉骨探罗转世地府的计划未行](meng-luo-reincarnation-underworld-plan-yellow-spring-bones.md) | 第七卷4章证据与表演边界 |
 | [于齐低档通识实购、户籍要求与新手界面](yu-qi-lowtier-talisman-purchase-registration-and-onboarding-text.md) | 第七卷3章证据与表演边界 |
 | [六圣地网页、元皇转世流言与封天台条件消息](six-holy-sites-webtext-yuanhuang-reincarnation-rumor-and-conditional-fengtian.md) | 第七卷3章证据与表演边界 |
 | [于齐不弃仙缘、雕像联想与再入山未行](yu-qi-missed-affinity-recovery-statue-resemblance-and-return-plan.md) | 第七卷3章证据与表演边界 |
