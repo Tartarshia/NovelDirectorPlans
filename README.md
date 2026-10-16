@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第10章，1174 / 1410 个目录条目，约377.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第11章，1175 / 1410 个目录条目，约377.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第11章复核](books/yishizhizun/reviews/review-v07-0011.md)：二十七州山河图、金册挡鹏、未醒造化手与玉虚钟，75段、78句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0011.md)。
 - [第七卷第10章复核](books/yishizhizun/reviews/review-v07-0010.md)：三身僵持与完整无极推出、高览局部敕封及千里代价，60段、65句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0010.md)。
 - [第七卷第9章复核](books/yishizhizun/reviews/review-v07-0009.md)：同源三化身挡使、弥勒降世实力与封天守方后手、未名翼影，68段、73句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0009.md)。
 - [第七卷第8章复核](books/yishizhizun/reviews/review-v07-0008.md)：奉典原主与四使封昆仑、封天尾工和弥勒索台，64段、67句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0008.md)。
