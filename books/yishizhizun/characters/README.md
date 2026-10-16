@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷23章
+# 角色阶段索引 · 截至第七卷24章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–23章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–24章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [牛哪初造化与弱传说功德塔助妖出战界](qingqiu-merit-pagoda-weaklegend-escape-niunezha-initialfortune.md) | 第七卷24章证据与表演边界 |
+| [家乡投影实降、敌我同限与似母神像](hometown-projection-neutral-ubiquity-ban-four-blooms-motherlike-image.md) | 第七卷24章证据与表演边界 |
+| [六灭阎魔身双攻、反噬下坠与九幽救回](liumie-yanmo-avatar-jointstrike-backlash-jiuyou-rescue-no-capture.md) | 第七卷24章证据与表演边界 |
+| [真高韩广隐观、灵宝原诛仙图掷落未接](realgao-hanguang-hiddenwatch-original-zhuxian-map-descending.md) | 第七卷24章证据与表演边界 |
 | [真佛吞法华林、双愿交锋与犬咬强维均势](truebuddha-consumes-fahualin-vows-and-meng-dog-balance-order.md) | 第七卷23章证据与表演边界 |
 | [月光无未来旅行法、推地点留信碑的条件建议](moonlight-no-futuretravel-letter-at-predicted-medicineking-place.md) | 第七卷23章证据与表演边界 |
 | [袁假高报盟、孟话风试探与白猿还原](yuanhong-fakegao-allyclaim-speechstyle-test-and-return-to-ape.md) | 第七卷23章证据与表演边界 |
