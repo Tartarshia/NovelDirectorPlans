@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷7章
+# 角色阶段索引 · 截至第七卷8章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–7章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–8章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟传说两面修行、四使封宫与经声定界](meng-legend-cultivation-four-envoy-kunlun-seal-and-scripture-law.md) | 第七卷8章证据与表演边界 |
+| [奉典借力原主提前醒与宝瓶借天封昆仑](fengdian-original-awakened-vs-old-envoy-and-baoping-sealed-kunlun.md) | 第七卷8章证据与表演边界 |
+| [封天久备尾工、少羲守舟与弥勒慈悲索台](fengtian-long-preparation-final-months-and-mile-demands-custody.md) | 第七卷8章证据与表演边界 |
+| [于半山金章无极可行但受限与窗外封台不见](yu-wuji-route-limits-and-fengtian-disappears-from-window.md) | 第七卷8章证据与表演边界 |
 | [于齐玉虚记名、三年考校与照见宿世的未来条件](yu-qi-registered-disciples-threeyear-test-and-memory-technique.md) | 第七卷7章证据与表演边界 |
 | [于齐选择金章、资源优先妻子与玉虚药瓶瞬递](yu-qi-yuanshi-choice-resource-priority-and-yuxu-instant-pill-delivery.md) | 第七卷7章证据与表演边界 |
 | [长乐封天台仍建、闲人宣讲与于半山波折预感](changle-fengtian-construction-local-boast-and-yu-foreboding.md) | 第七卷7章证据与表演边界 |
