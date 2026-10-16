@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第2章，1166 / 1410 个目录条目，约375.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第3章，1167 / 1410 个目录条目，约375.5万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第3章复核](books/yishizhizun/reviews/review-v07-0003.md)：通识实购、六圣地文字与转世流言，64段、81句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0003.md)。
 - [第七卷第2章复核](books/yishizhizun/reviews/review-v07-0002.md)：公开星火功、通识直播与飞升境阶再对照，82段、121句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0002.md)。
 - [第七卷第1章复核](books/yishizhizun/reviews/review-v07-0001.md)：于半山齐锦绣飞升、玉虚旁听与仙界误认，72段、113句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0001.md)。
 - [第六卷成长汇总](books/yishizhizun/characters/v06-growth-summary.md)与[卷末复核](books/yishizhizun/reviews/volume-v06-review.md)：237章、40阶段，正式传说与顾真正归来；全书仍为进行中草案。
