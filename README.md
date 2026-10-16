@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第233章，1160 / 1410 个目录条目，约373.2万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第234章，1161 / 1410 个目录条目，约373.5万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷第234章复核](books/yishizhizun/reviews/review-v06-0234.md)：灯内交锋、沙读孟奇墓碑与内观道人自称元始，60段、64句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0234.md)。
 - [第六卷第233章复核](books/yishizhizun/reviews/review-v06-0233.md)：灯刀灰烬、援族认知尺度更正与孟重历鼠鹰石记忆，59段、66句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0233.md)。
 - [第六卷第232章复核](books/yishizhizun/reviews/review-v06-0232.md)：绝刀回传观局、急求传说的盲点与旧鼠鹰记忆唤起，38段、55句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0232.md)。
 - [第六卷第231章复核](books/yishizhizun/reviews/review-v06-0231.md)：客服迂回求援、净土有情旁观与借刀入境，62段、97句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0231.md)。
