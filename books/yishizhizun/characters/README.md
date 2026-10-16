@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷21章
+# 角色阶段索引 · 截至第七卷22章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–21章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–22章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [万佛阵正面难破、广陵陷与八九哮天里外破局](wanfo-array-bajiu-frontal-failure-guangling-dog-inside-outside-break.md) | 第七卷22章证据与表演边界 |
+| [青丘枪醒传说确认、玲珑塔与三使家乡涡](qingqiu-spear-legend-confirmed-pagoda-and-envoys-hometown-vortex.md) | 第七卷22章证据与表演边界 |
+| [袁洪冒高览入阵、非真实求援归来](yuanhong-disguises-gao-lan-enters-array-not-real-ally-return.md) | 第七卷22章证据与表演边界 |
+| [法华林伤后自审、未名四十佛牙琉璃手](fahualin-wounded-not-dead-emotion-purge-and-unnamed-fortyteeth-hand.md) | 第七卷22章证据与表演边界 |
 | [牛代价底牌真牛身、局部宇宙解限与哪莲侵界](niu-costly-true-ox-inner-cosmos-local-ubiquity-and-nezha-lotus.md) | 第七卷21章证据与表演边界 |
 | [弥勒伤复慢、未来星宿法身与三舍利区域解限](mile-wounded-future-star-dharmakaya-three-relics-local-pureland.md) | 第七卷21章证据与表演边界 |
 | [孟本尊束枢、少羲改派与八九临佛国外](meng-array-center-binding-shaoxi-redeployment-bajiu-avatar-reserve.md) | 第七卷21章证据与表演边界 |
