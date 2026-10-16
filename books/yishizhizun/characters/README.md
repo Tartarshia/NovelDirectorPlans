@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第七卷11章
+# 角色阶段索引 · 截至第七卷12章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–11章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–12章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [广成借番天印一丝降临、护短策略与同门牵念](guangcheng-fantian-projected-strand-protection-and-yuxu-brothers.md) | 第七卷12章证据与表演边界 |
+| [悟空棒与金手救卷帘、三使逃与未撕破脸](wukong-staff-goldenhand-rescues-sha-and-three-envoys-escape.md) | 第七卷12章证据与表演边界 |
+| [鹏攻州建妖庭令、弥勒撤将举与山河图统治依赖](peng-war-order-mile-earth-buddhaland-and-map-territory-limit.md) | 第七卷12章证据与表演边界 |
 | [弥勒袋近困少羲与二十七州山河图真界反噬制衡](mile-bag-nearcapture-mountains-rivers-map-and-realrealm-backlash.md) | 第七卷11章证据与表演边界 |
 | [鹏魔王羽袭、金册孟像挡救与记名游历布局猜测](peng-wing-ambush-meng-goldbook-icon-and-speculated-travel-plan.md) | 第七卷11章证据与表演边界 |
 | [奉典破经、未醒未名造化手与真玉虚钟止掌](fengdian-breaks-scripture-sleeping-fortune-envoy-hand-and-yuxu-bell.md) | 第七卷11章证据与表演边界 |
