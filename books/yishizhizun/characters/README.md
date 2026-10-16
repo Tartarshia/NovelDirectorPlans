@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷13章
+# 角色阶段索引 · 截至第七卷14章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–13章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–14章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [定光金银瞳旧未来敌、燃灯使入殿与哪吒逐离](dingguang-goldsilver-future-attacker-randeng-envoy-and-nezha-expulsion.md) | 第七卷14章证据与表演边界 |
+| [孟暂摄整个玉虚掌教实际接受与助周决断](meng-yuxu-temporary-head-accepted-greetings-and-aid-zhou-decision.md) | 第七卷14章证据与表演边界 |
+| [犬传杨寻师两线索、可借力宝与未行探访](yang-qingwei-ninthheaven-clues-proxy-and-borrowed-treasures-promise.md) | 第七卷14章证据与表演边界 |
+| [哮天犬暂随孟与大青根旧厕所轻喜](xiaotian-root-old-toilet-recognition-and-temporary-following-meng.md) | 第七卷14章证据与表演边界 |
 | [赤精子玉鼎道行借剑归、孟同辈与仙尊称号](chijing-yuding-daoxing-sword-strands-and-meng-peer-acceptance.md) | 第七卷13章证据与表演边界 |
 | [文殊女子道身存、菩萨金身亡与吞遗蜕释然](wenshu-female-dao-body-survives-bodhisattva-death-and-relic-swallow-joy.md) | 第七卷13章证据与表演边界 |
 | [哮天犬代二郎、未到同门与召钟后证](xiaotian-dog-yang-proxy-greeting-and-unattended-yuxu-seats.md) | 第七卷13章证据与表演边界 |
