@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第六卷236章
+# 角色阶段索引 · 截至第六卷237章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–236章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟传说扶桑破暗、饶沙夺果盒与坟莲灰失望](meng-legend-fusang-breaks-lamp-spares-sha-fruitbox-and-grave-seed-ash.md) | 第六卷237章证据与表演边界 |
+| [顾小桑真正归来、三生果灵光与混沌莲三步后手](gu-real-return-sansheng-fruit-selfspark-chaos-lotus-and-three-step-plan.md) | 第六卷237章证据与表演边界 |
+| [孟顾成熟重逢、拒魔佛动机未答与爹称戏谑](meng-gu-mature-reunion-mofo-motives-open-and-dad-tease-not-kinship.md) | 第六卷237章证据与表演边界 |
 | [伍延平论坛旧典、先帖习惯与第四异象震惊](wu-yanping-forum-posts-ancient-omen-knowledge-and-fourth-surprise.md) | 第六卷236章证据与表演边界 |
 | [孟正式传说、先天无极破门与四异象虚幻多元](meng-formal-legend-wuji-gate-four-omens-and-virtual-multiverse.md) | 第六卷236章证据与表演边界 |
 | [九仙山未名两道人、提前唤醒吩咐与接刀巨掌未名](jiuxian-unidentified-daoists-wake-order-ancient-return-and-unknown-blade-hand.md) | 第六卷236章证据与表演边界 |
@@ -1895,3 +1898,6 @@
 最新[第六卷197章复核](../reviews/review-v06-0197.md)与[状态账](../reviews/ledger-v06-0197.md)：可能未来等级不当前晋、混洞五色珠已见未取。
 
 最新[第六卷198章复核](../reviews/review-v06-0198.md)与[状态账](../reviews/ledger-v06-0198.md)：一珠实得部署、结界修中与论坛文字观点。
+
+
+[第六卷成长汇总](v06-growth-summary.md)：237章40阶段、正式传说与顾真正归来；[卷末复核](../reviews/volume-v06-review.md)。

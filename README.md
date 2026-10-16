@@ -2,13 +2,15 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第六卷第236章，1163 / 1410 个目录条目，约374.2万字。第一至五卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第六卷第237章，1164 / 1410 个目录条目，约374.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第六卷成长汇总](books/yishizhizun/characters/v06-growth-summary.md)与[卷末复核](books/yishizhizun/reviews/volume-v06-review.md)：237章、40阶段，正式传说与顾真正归来；全书仍为进行中草案。
+- [第六卷第237章复核](books/yishizhizun/reviews/review-v06-0237.md)：孟破局夺果、莲灰失望与顾真正归来，104段、123句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0237.md)。
 - [第六卷第236章复核](books/yishizhizun/reviews/review-v06-0236.md)：自证传说成、四异象与众人反应，117段、135句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0236.md)。
 - [第六卷第235章复核](books/yishizhizun/reviews/review-v06-0235.md)：沙化书复身、舟破袖后熄灯困局与孟自认及传说异象启动，79段、81句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0235.md)。
 - [第六卷第234章复核](books/yishizhizun/reviews/review-v06-0234.md)：灯内交锋、沙读孟奇墓碑与内观道人自称元始，60段、64句内单元；[状态账](books/yishizhizun/reviews/ledger-v06-0234.md)。
