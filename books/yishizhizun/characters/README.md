@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷17章
+# 角色阶段索引 · 截至第七卷18章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–17章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–18章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [元皇授阵权、少羲西门与哪吒笑迎牛](yuanhuang-decrees-allies-west-gate-niu-escort-and-nezha-greeting.md) | 第七卷18章证据与表演边界 |
+| [江藏刀演剑、六扇报告与州城降临](jiang-aperture-blade-swordlight-sixdoors-reports-and-city-descent.md) | 第七卷18章证据与表演边界 |
+| [陆苏实访玉皇、虚道人关口与光阴刀醒力不准](lusu-yuhuang-visit-xudaoren-threshold-and-timeblade-uncertain-awakening.md) | 第七卷18章证据与表演边界 |
+| [弥勒实破城禁与孟僧身净土问药师](mile-jiangdong-array-loss-and-meng-buddhist-avatar-moonlight-query.md) | 第七卷18章证据与表演边界 |
 | [刘固见剑与周域阵限制瞬至、他我取力](liugu-witness-and-zhou-array-suppresses-ubiquity-and-power.md) | 第七卷17章证据与表演边界 |
 | [牛复造化非峰、细推残阵与断臂再生](niu-fortune-restored-incomplete-array-analysis-and-regrown-severed-arm.md) | 第七卷17章证据与表演边界 |
 | [弥勒唯道辩词与山河图使星空直破改门破](mile-void-descriptors-worldview-map-protection-and-gate-entry-choice.md) | 第七卷17章证据与表演边界 |
