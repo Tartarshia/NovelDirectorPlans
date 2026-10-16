@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷8章
+# 角色阶段索引 · 截至第七卷9章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–8章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–9章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾身内拆半真苦海与孟规则逆转](gu-inside-meng-explains-false-bittersea-and-rule-overturn.md) | 第七卷9章证据与表演边界 |
+| [同一孟三化身分挡沙灯瓶与持续时限风险](meng-three-avatar-distinct-delivery-vs-sha-lamp-bottle-and-duration-risk.md) | 第七卷9章证据与表演边界 |
+| [弥勒降世上限、法华林大妙相与舟印守方后手](mile-reborn-body-limit-two-attendants-ark-defense-and-emperor-seal.md) | 第七卷9章证据与表演边界 |
+| [于齐窗前皇宫剑光与未名遮天翼影](yuqi-palace-sword-emperor-question-and-unidentified-sky-wing.md) | 第七卷9章证据与表演边界 |
 | [孟传说两面修行、四使封宫与经声定界](meng-legend-cultivation-four-envoy-kunlun-seal-and-scripture-law.md) | 第七卷8章证据与表演边界 |
 | [奉典借力原主提前醒与宝瓶借天封昆仑](fengdian-original-awakened-vs-old-envoy-and-baoping-sealed-kunlun.md) | 第七卷8章证据与表演边界 |
 | [封天久备尾工、少羲守舟与弥勒慈悲索台](fengtian-long-preparation-final-months-and-mile-demands-custody.md) | 第七卷8章证据与表演边界 |
