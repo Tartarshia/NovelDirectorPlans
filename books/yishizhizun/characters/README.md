@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第七卷9章
+# 角色阶段索引 · 截至第七卷10章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–9章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–10章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [三化身僵持、剑身黄泉骨与八九暗界守刀](meng-avatar-stalemates-yellow-spring-bones-and-lamp-darkness.md) | 第七卷10章证据与表演边界 |
+| [本尊完整无极与奉典等待化身消散的时限战](meng-complete-wuji-vs-fengdian-avatar-duration-race.md) | 第七卷10章证据与表演边界 |
+| [高览局部敕封少玄星主羲娥雷尊与范围代价](gao-local-altar-appointments-shaoxuan-ziwei-xie-thunder-and-cost.md) | 第七卷10章证据与表演边界 |
 | [顾身内拆半真苦海与孟规则逆转](gu-inside-meng-explains-false-bittersea-and-rule-overturn.md) | 第七卷9章证据与表演边界 |
 | [同一孟三化身分挡沙灯瓶与持续时限风险](meng-three-avatar-distinct-delivery-vs-sha-lamp-bottle-and-duration-risk.md) | 第七卷9章证据与表演边界 |
 | [弥勒降世上限、法华林大妙相与舟印守方后手](mile-reborn-body-limit-two-attendants-ark-defense-and-emperor-seal.md) | 第七卷9章证据与表演边界 |
