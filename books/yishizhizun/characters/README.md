@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷45章
+# 角色阶段索引 · 截至第七卷46章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–45章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–46章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [何暮游界返、第三名单与盲摸教学未晋阶](he-mu-halfyear-forum-third-suspects-blind-elephant-no-new-rank.md) | 第七卷46章证据与表演边界 |
+| [越子倾：地仙圆满、网上激论与线下机械样礼笑](yue-zi-qing.md) | 第七卷46章证据与表演边界 |
+| [实查第三批至止虚山、屏文邀请非六道主线](meng-third-suspect-review-written-invitation-not-sixpaths-task.md) | 第七卷46章证据与表演边界 |
+| [止虚多未来分歧、祖师沉睡封秘地待考](zhixu-founder-futures-sealed-trial-not-yet-attempted.md) | 第七卷46章证据与表演边界 |
 | [阮嫦娥江玉鼎公开消息、正式外围不等战力高低](laozhang-ruan-jiang-xianji-formal-periphery-status-misread.md) | 第七卷45章证据与表演边界 |
 | [元始称号同元皇被队确认、民间闯六道故事有限](team-yuanshi-yuanhuang-identity-folk-escape-story-not-full-victory.md) | 第七卷45章证据与表演边界 |
 | [祝心灵网隐四交流、焦对外佯惊与真放声](team-psychic-network-hidden-reactions-and-jiao-real-vs-feigned-shock.md) | 第七卷45章证据与表演边界 |
