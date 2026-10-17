@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷33章
+# 角色阶段索引 · 截至第七卷34章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–33章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–34章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [准提属菩提三尸之一、两种划分与另二未知](zhunti-bodhi-one-of-three-corpses-two-unknown-weak-manifestation.md) | 第七卷34章证据与表演边界 |
+| [四梵文闪念联系泄密、真实镇记而未反用](four-brahmi-glyphs-memory-link-actual-seal-not-destroy-future-deception.md) | 第七卷34章证据与表演边界 |
+| [第三层旧毁、灰殿九天共鸣两条条件路线](nineheavens-thirdlayer-destroyed-resonance-platform-or-court-conditional.md) | 第七卷34章证据与表演边界 |
+| [Gu将闭关冲传说、寻青帝未来与外道祖师待访](gu-plans-retreat-legend-qingdi-future-waidao-founders-not-visited.md) | 第七卷34章证据与表演边界 |
 | [清微先探后真入、八九预感与首影搜空](qingwei-first-consciousness-then-body-bajiu-prescience-shadow-search-empty.md) | 第七卷33章证据与表演边界 |
 | [清微过去未来碎片、两刹实失百岁未恢复](qingwei-past-future-fragments-real-century-lifespan-loss-not-restored.md) | 第七卷33章证据与表演边界 |
 | [元始灵宝旧战与失踪相涉线索、去向仍待](qingwei-yuanshi-lingbao-oldbattle-missing-linked-next-nineheavens-clue.md) | 第七卷33章证据与表演边界 |
