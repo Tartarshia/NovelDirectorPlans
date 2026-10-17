@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第31章，1195 / 1410 个目录条目，约383.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第32章，1196 / 1410 个目录条目，约383.5万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第32章复核](books/yishizhizun/reviews/review-v07-0032.md)：陆旧局多重疑与清微八碑解除旧限，末空白半拔天雷毁开涡未入，66段、76句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0032.md)。
 - [第七卷第31章复核](books/yishizhizun/reviews/review-v07-0031.md)：上苍受眼阻仍掌大地实敕封、封榜替策与左窍怪源头释疑，70段、87句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0031.md)。
 - [第七卷第30章复核](books/yishizhizun/reviews/review-v07-0030.md)：韩广借图旧盟已止、论坛灾恸与一月后舍皇蜕护地，封天之礼仅起，66段、79句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0030.md)。
 - [第七卷第29章复核](books/yishizhizun/reviews/review-v07-0029.md)：破封被劝退、黄泉传闻与战后未名白影，真高返台仅第一问，51段、70句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0029.md)。

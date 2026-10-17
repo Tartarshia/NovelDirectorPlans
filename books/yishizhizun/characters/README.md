@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷31章
+# 角色阶段索引 · 截至第七卷32章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–31章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–32章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [Gu论陆跨纪元受庇与天庭疑局、血桃温顺](gu-luya-previousepoch-yuanshi-shelter-heavenfall-links-uncertain.md) | 第七卷32章证据与表演边界 |
+| [孟Gu彼此临崖、传说仍待与魔佛未出](meng-gu-parallel-cliff-danger-legend-not-yet-mofo-not-released.md) | 第七卷32章证据与表演边界 |
+| [清微命运抵消旧碑、两大陆突破海路实复](qingwei-destiny-cancels-old-tablets-breakthroughs-ocean-restored.md) | 第七卷32章证据与表演边界 |
+| [八碑已除末空白半拔被未名紫雷毁、漩涡未入](ninth-blank-tablet-halfpulled-unknown-purple-thunder-terminal-vortex.md) | 第七卷32章证据与表演边界 |
 | [暗红眼毁上四层浮光、统天未成仍掌大地](fengtian-darkred-eyes-upperfour-broken-earth-authority-retained.md) | 第七卷31章证据与表演边界 |
 | [高公开不退私谋对策、封神榜替策未获](gao-public-resolve-private-strategy-fengshenlist-proposal-no-possession.md) | 第七卷31章证据与表演边界 |
 | [左窍释暗红眼与天道怪源头、Gu记忆亦不知来历](darkred-eyes-tiandao-source-gu-leftaperture-memory-limits.md) | 第七卷31章证据与表演边界 |
