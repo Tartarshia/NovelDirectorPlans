@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷37章
+# 角色阶段索引 · 截至第七卷38章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–37章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–38章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [陆压钉头七箭书明名、东风待来目标未述](luya-nailhead-sevenarrows-identified-awaits-eastwind-target-unstated.md) | 第七卷38章证据与表演边界 |
+| [赵九劫天子法身确成、孟遥贺仍警伏皇双曲](zhaoheng-nine-thunders-emperor-fashen-achieved-meng-watches-ruan-tunes.md) | 第七卷38章证据与表演边界 |
+| [仙迹扩叶失落、九娘碧霞想换玄坛尚未换](xianji-expansion-ye-doumu-disquiet-qu-bixia-xuantan-swap-not-done.md) | 第七卷38章证据与表演边界 |
+| [阮受教情谈点叶心、私情未全判与独琴云起](ruan-guided-love-dialogue-awakens-ye-own-feelings-unresolved-clouds-only.md) | 第七卷38章证据与表演边界 |
 | [赵忆傀儡天意旧劝、胡睡与执念解释](zhao-recalls-han-puppet-heavenargument-hudou-sleep-explanation.md) | 第七卷37章证据与表演边界 |
 | [钱金符李转高令、赵实际祭祖](qian-gold-talisman-li-relayed-approval-zhao-actual-ancestralvisit.md) | 第七卷37章证据与表演边界 |
 | [赵访齐羡不悔、阮双曲宅外与新试法身未定](zhao-qi-unregretted-path-ruan-two-tunes-new-fashen-attempt-unresolved.md) | 第七卷37章证据与表演边界 |
