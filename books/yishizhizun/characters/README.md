@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷40章
+# 角色阶段索引 · 截至第七卷41章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–40章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–41章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [古彼岸强控宇宙、特殊通道与未明主人](meng-ancient-beyondshore-dominated-universe-deduction-owner-unknown.md) | 第七卷41章证据与表演边界 |
+| [茅劲、俞景华、祝天铭与未名两队友](mao-jin-yu-jinghua-zhu-tianming-reincarnator-team.md) | 第七卷41章证据与表演边界 |
+| [墙字潜晋王府半年、队伍情报有时效](reincarnator-changle-zhao-mansion-halfyear-mission-outdated-intel.md) | 第七卷41章证据与表演边界 |
+| [祝报面价神魔功、六道禁买练与茅叹](zhu-cheap-shenmo-skill-noodle-price-sixpaths-buy-practice-ban.md) | 第七卷41章证据与表演边界 |
 | [圆镜远召四者、根输后争忠被消声](meng-mirror-summons-daqinggen-losing-dog-flattery-muted.md) | 第七卷40章证据与表演边界 |
 | [论坛观念钓三派：宿命求共鸣、另外偏激批驳](waidao-forum-bait-laplace-fatalism-critique-review-not-posted.md) | 第七卷40章证据与表演边界 |
 | [两徒受命与反观念历练、不是道心已成](he-mu-fang-huayin-conflicting-views-training-no-new-rank.md) | 第七卷40章证据与表演边界 |
