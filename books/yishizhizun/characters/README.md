@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第七卷30章
+# 角色阶段索引 · 截至第七卷31章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–30章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–31章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [暗红眼毁上四层浮光、统天未成仍掌大地](fengtian-darkred-eyes-upperfour-broken-earth-authority-retained.md) | 第七卷31章证据与表演边界 |
+| [高公开不退私谋对策、封神榜替策未获](gao-public-resolve-private-strategy-fengshenlist-proposal-no-possession.md) | 第七卷31章证据与表演边界 |
+| [左窍释暗红眼与天道怪源头、Gu记忆亦不知来历](darkred-eyes-tiandao-source-gu-leftaperture-memory-limits.md) | 第七卷31章证据与表演边界 |
 | [韩广借图城下盟已止、陆压袁条件与第四问拒答](han-lent-map-forced-covenant-ended-luya-yuan-condition-fourth-refused.md) | 第七卷30章证据与表演边界 |
 | [甘州灾难影像与书面帖、伍静看重估日常](ganzhou-aftermath-written-forum-grief-wu-silent-ordinarylife.md) | 第七卷30章证据与表演边界 |
 | [一月后直播祭人皇、遗蜕实融地强化法则](monthlater-live-emperor-remains-earth-law-protection-not-revival.md) | 第七卷30章证据与表演边界 |
