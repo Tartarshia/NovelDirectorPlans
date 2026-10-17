@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷42章
+# 角色阶段索引 · 截至第七卷43章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–42章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–43章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [一日列车到长乐、敕神冲击与自路榜样自宽](team-changle-train-fengtian-enfeoffment-meaning-crisis-recovery.md) | 第七卷43章证据与表演边界 |
+| [精灵颂读公开手册、韩广天帝秘密成常识](luan-elf-hymn-public-defense-handbook-han-tiandi-revelation.md) | 第七卷43章证据与表演边界 |
+| [手册六主名单、魔佛封中与魔君失臂](public-handbook-six-masters-sealed-mofo-missing-arm-mojun.md) | 第七卷43章证据与表演边界 |
+| [俞推联盟矛盾与仙迹最大嫌疑、作者未确](yu-alliance-conflict-xianji-handbook-suspect-not-confirmed-author.md) | 第七卷43章证据与表演边界 |
 | [栾雅倩与焦离明名、原五队员身份补齐](luan-yaqian-jiao-li-elf-lineage-and-fiveperson-team-resolved.md) | 第七卷42章证据与表演边界 |
 | [俞获仙迹招募答曾经是、首领脱离仍概率](yu-xianji-recruitment-former-reincarnator-answer-freedom-probable.md) | 第七卷42章证据与表演边界 |
 | [简版符限本界、教学封锁与商城买卖限制](reincarnator-symbol-localonly-download-blocked-commerce-limits.md) | 第七卷42章证据与表演边界 |
