@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷27章
+# 角色阶段索引 · 截至第七卷28章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–27章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–28章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [燃灯断因果舍日、八九刀剑混沌与弥勒舍未来实逃](randeng-causal-sun-sacrifice-bajiu-simulated-chaos-mile-futureloss-escape.md) | 第七卷28章证据与表演边界 |
+| [孙实喊老孙、同一斗战佛手硬抗救牛出阵](wukong-actual-laosun-shout-fightingbuddha-hand-rescues-niu.md) | 第七卷28章证据与表演边界 |
+| [袁真断头重长出阵、陆压两声现形施印守青萍](yuanhong-real-headloss-regrowth-luya-two-orders-seals-qingping-guard.md) | 第七卷28章证据与表演边界 |
+| [五魔躯归合右手缺、独臂魔入旧渊海图破封](mojun-fivebody-reunion-missing-rightarm-oldyuanhai-unbroken-seal-plan.md) | 第七卷28章证据与表演边界 |
 | [孙巅峰棒与广成丝力重印、孟松限保周消余波](wukong-staff-guangcheng-slightforce-fantian-mass-meng-collateral-choice.md) | 第七卷27章证据与表演边界 |
 | [真佛本章灰灭、旧日堕神死亡与投影范围边界](truebuddha-body-annihilated-fallen-god-death-not-allimprints-asserted.md) | 第七卷27章证据与表演边界 |
 | [佛过去舍利裂、燃灯提前醒因果困皇蜕](mile-pastrelic-cracks-randeng-causal-universe-dead-emperor-trapped.md) | 第七卷27章证据与表演边界 |

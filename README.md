@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第27章，1191 / 1410 个目录条目，约382.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第28章，1192 / 1410 个目录条目，约382.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第28章复核](books/yishizhizun/reviews/review-v07-0028.md)：佛舍未来脱阵、孙救牛陆制袁与残缺五躯归合，71段、73句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0028.md)。
 - [第七卷第27章复核](books/yishizhizun/reviews/review-v07-0027.md)：孙棒重印、真佛身灭与燃灯因果救场，67段、73句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0027.md)。
 - [第七卷第26章复核](books/yishizhizun/reviews/review-v07-0026.md)：皇蜕驱动斩过去、六灭毁五躯醒与孙棒贯阵，73段、79句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0026.md)。
 - [第七卷第25章复核](books/yishizhizun/reviews/review-v07-0025.md)：原图合阵、一死两逃与人皇遗蜕悬问，80段、84句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0025.md)。
