@@ -3,6 +3,16 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "gongting-le-v07-c0037",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v07-c0037:p0007"
+      ],
+      "source_word": "宫廷了千百年",
+      "state": "unresolved_source_issue",
+      "director_handling": "了处接语不通疑里或多字，确词待版本核；保原字与偏移，不改一夜到天明时序。"
+    },
+    {
       "id": "shizhi-noon-v07-c0036",
       "kind": "possible_source_word_error",
       "evidence": [
@@ -21,7 +31,17 @@
       ],
       "source_word": "大宗师／半步境界",
       "state": "unresolved_source_issue",
-      "director_handling": "前源明踏半步、本章称大宗师，可能概称层级用法，保两时间点待全书核；不擅认正式退境或法身已成。"
+      "director_handling": "前源明踏半步、本章称大宗师，可能概称层级用法，保两时间点待全书核；不擅认正式退境或法身已成。",
+      "later_clarifications": [
+        {
+          "recorded_at": "v07-c0037",
+          "evidence": [
+            "v07-c0037:p0023",
+            "v07-c0037:p0052"
+          ],
+          "clarification": "同章明确困半步法身多年又称大宗师，支持称谓范围并用而非正式退境；两旧原文和问题字段全部保留，统一层级术语待全书终审。"
+        }
+      ]
     },
     {
       "id": "zaici-v07-c0035",
