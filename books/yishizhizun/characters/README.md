@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷29章
+# 角色阶段索引 · 截至第七卷30章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–29章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–30章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [韩广借图城下盟已止、陆压袁条件与第四问拒答](han-lent-map-forced-covenant-ended-luya-yuan-condition-fourth-refused.md) | 第七卷30章证据与表演边界 |
+| [甘州灾难影像与书面帖、伍静看重估日常](ganzhou-aftermath-written-forum-grief-wu-silent-ordinarylife.md) | 第七卷30章证据与表演边界 |
+| [一月后直播祭人皇、遗蜕实融地强化法则](monthlater-live-emperor-remains-earth-law-protection-not-revival.md) | 第七卷30章证据与表演边界 |
+| [高舍皇蜕民意转折、正式封天之礼仅开始](gao-sacrifices-remains-civilian-relief-formal-fengtian-rite-just-begins.md) | 第七卷30章证据与表演边界 |
 | [魔君破封受阻、天子心灵说服与齐高未来矛盾](mojun-sealblocked-dazizai-mindvoice-future-qi-gao-conflict.md) | 第七卷29章证据与表演边界 |
 | [黄泉转世传闻、原点方向未证与两魔共颁任务](huangquan-return-hearsay-origin-destination-mojun-mofo-jointmission.md) | 第七卷29章证据与表演边界 |
 | [实体四剑隐遁、群诵凝未名白影](zhuxian-swords-withdraw-unknown-whiteform-devotional-chants.md) | 第七卷29章证据与表演边界 |
