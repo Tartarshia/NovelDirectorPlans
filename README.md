@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第35章，1199 / 1410 个目录条目，约384.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第36章，1200 / 1410 个目录条目，约384.7万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第36章复核](books/yishizhizun/reviews/review-v07-0036.md)：赵返故国旧路、钱千宗师后证与秦王死讯私传，韩广殿内等候来意未揭，74段、88句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0036.md)。
 - [第七卷第35章复核](books/yishizhizun/reviews/review-v07-0035.md)：Gu已闭关、亲友进境与未来备选，王电话两猜六师传闻及赵恒失败内因，58段、82句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0035.md)。
 - [第七卷第34章复核](books/yishizhizun/reviews/review-v07-0034.md)：准提三尸一具与四梵文实际镇记、九天共鸣和青帝未来路线仍待，63段、91句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0034.md)。
 - [第七卷第33章复核](books/yishizhizun/reviews/review-v07-0033.md)：清微碎时旧战场、孟实损百岁与两尊失踪相涉线索，谷外道人自报名准提，55段、71句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0033.md)。

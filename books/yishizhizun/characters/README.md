@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷35章
+# 角色阶段索引 · 截至第七卷36章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–35章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–36章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [赵恒返神都、琼宴末机反事实与旧抱负](zhaoheng-return-shendu-qionghua-lastchance-counterfactual-not-rewritten.md) | 第七卷36章证据与表演边界 |
+| [胡斗忠随与魏府旧读书求药苦忆](hudou-loyal-companion-wei-study-childhood-suffering-not-new-torture.md) | 第七卷36章证据与表演边界 |
+| [钱千已宗师留守、旧路在脚下与秦王死讯](qianqian-grandmaster-shendu-governor-old-road-underfoot-hearsay.md) | 第七卷36章证据与表演边界 |
+| [秦王赵警世再败郁终、韩广殿内等赵回](qinwang-zhaojingshi-retry-failure-death-hanguang-waits-return.md) | 第七卷36章证据与表演边界 |
 | [Gu已闭关、旧战重封返宫与根犬游戏挑局](gu-actual-retreat-meng-reseals-battlefield-root-dog-game-challenge.md) | 第七卷35章证据与表演边界 |
 | [孟未来备选与亲友进境、玄悲金身已证其余期望](meng-future-plans-friend-ranks-xuanbei-goldbody-not-all-breakthroughs.md) | 第七卷35章证据与表演边界 |
 | [王电话怪两猜、六师传闻与两旧佛待访](wang-call-tiandao-two-guesses-waidao-hearsay-two-buddhist-candidates.md) | 第七卷35章证据与表演边界 |
