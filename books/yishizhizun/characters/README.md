@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷25章
+# 角色阶段索引 · 截至第七卷26章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–25章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–26章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [皇蜕藏剑死眼、高与剑灵驱动及韩盲点内悟](humanemperor-remains-swordstorage-deadeyes-gao-control-han-blindspot.md) | 第七卷26章证据与表演边界 |
+| [皇蜕五刹那前插手、六灭身亡与余五躯被迫醒](emperor-fiveinstants-past-block-liumie-dies-fivebodies-awaken-cutlink.md) | 第七卷26章证据与表演边界 |
+| [真佛创世纪实出遭过去截掌、卷混乱未明死生](truebuddha-genesis-actual-past-interruption-lowcry-outcome-unconfirmed.md) | 第七卷26章证据与表演边界 |
+| [牛实持妖圣枪被双阻、孙金棒真正贯阵](niu-holds-yaosheng-spear-emperor-nezha-block-wukong-staff-enters.md) | 第七卷26章证据与表演边界 |
 | [魔君杀孟防齐动机、孟悟高饵局与保密反思](mojun-killmeng-qithreat-meng-gao-baitplan-secrecy-reflection.md) | 第七卷25章证据与表演边界 |
 | [原诛仙图自投孟掌拍枢、完整结构与传说醒力](original-zhuxian-map-selfselects-meng-core-join-fullstructure-legendawake.md) | 第七卷25章证据与表演边界 |
 | [宝瓶诸投影真灭与二使实逃、群妖伤与袁白毛替死](baoping-all-imprints-killed-two-envoys-escape-demon-injuries-hair-decoy.md) | 第七卷25章证据与表演边界 |
