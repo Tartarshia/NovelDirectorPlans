@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷34章
+# 角色阶段索引 · 截至第七卷35章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–34章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–35章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [Gu已闭关、旧战重封返宫与根犬游戏挑局](gu-actual-retreat-meng-reseals-battlefield-root-dog-game-challenge.md) | 第七卷35章证据与表演边界 |
+| [孟未来备选与亲友进境、玄悲金身已证其余期望](meng-future-plans-friend-ranks-xuanbei-goldbody-not-all-breakthroughs.md) | 第七卷35章证据与表演边界 |
+| [王电话怪两猜、六师传闻与两旧佛待访](wang-call-tiandao-two-guesses-waidao-hearsay-two-buddhist-candidates.md) | 第七卷35章证据与表演边界 |
+| [赵恒破法身失败旧梦、皇子道路未放身心不一](zhaoheng-failed-fashen-nightmare-princely-path-unresolved-inner-conflict.md) | 第七卷35章证据与表演边界 |
 | [准提属菩提三尸之一、两种划分与另二未知](zhunti-bodhi-one-of-three-corpses-two-unknown-weak-manifestation.md) | 第七卷34章证据与表演边界 |
 | [四梵文闪念联系泄密、真实镇记而未反用](four-brahmi-glyphs-memory-link-actual-seal-not-destroy-future-deception.md) | 第七卷34章证据与表演边界 |
 | [第三层旧毁、灰殿九天共鸣两条条件路线](nineheavens-thirdlayer-destroyed-resonance-platform-or-court-conditional.md) | 第七卷34章证据与表演边界 |
