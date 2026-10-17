@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷28章
+# 角色阶段索引 · 截至第七卷29章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–28章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–29章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [魔君破封受阻、天子心灵说服与齐高未来矛盾](mojun-sealblocked-dazizai-mindvoice-future-qi-gao-conflict.md) | 第七卷29章证据与表演边界 |
+| [黄泉转世传闻、原点方向未证与两魔共颁任务](huangquan-return-hearsay-origin-destination-mojun-mofo-jointmission.md) | 第七卷29章证据与表演边界 |
+| [实体四剑隐遁、群诵凝未名白影](zhuxian-swords-withdraw-unknown-whiteform-devotional-chants.md) | 第七卷29章证据与表演边界 |
+| [真高返台仍求传说、孟设界只问借图者第一题](true-gao-postbattle-goals-meng-barrier-first-map-lender-question.md) | 第七卷29章证据与表演边界 |
 | [燃灯断因果舍日、八九刀剑混沌与弥勒舍未来实逃](randeng-causal-sun-sacrifice-bajiu-simulated-chaos-mile-futureloss-escape.md) | 第七卷28章证据与表演边界 |
 | [孙实喊老孙、同一斗战佛手硬抗救牛出阵](wukong-actual-laosun-shout-fightingbuddha-hand-rescues-niu.md) | 第七卷28章证据与表演边界 |
 | [袁真断头重长出阵、陆压两声现形施印守青萍](yuanhong-real-headloss-regrowth-luya-two-orders-seals-qingping-guard.md) | 第七卷28章证据与表演边界 |
