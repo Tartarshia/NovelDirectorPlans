@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第44章，1208 / 1410 个目录条目，约387.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第45章，1209 / 1410 个目录条目，约387.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第45章复核](books/yishizhizun/reviews/review-v07-0045.md)：心网确认元始元皇身份、民间脱轮故事边界和俞实际入府，76段、118句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0045.md)。
 - [第七卷第44章复核](books/yishizhizun/reviews/review-v07-0044.md)：俞拒独招情义、两月活计秘会和老张口述晋王仙迹身份，70段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0044.md)。
 - [第七卷第43章复核](books/yishizhizun/reviews/review-v07-0043.md)：长乐敕神价值冲击、精灵颂读公开手册与六道秘密认知崩解，96段、148句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0043.md)。
 - [第七卷第42章复核](books/yishizhizun/reviews/review-v07-0042.md)：五人全名与赵境界情报更新，通识限用教学商城封锁及户籍实际办成，61段、112句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0042.md)。

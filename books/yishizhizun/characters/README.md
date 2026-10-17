@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷44章
+# 角色阶段索引 · 截至第七卷45章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–44章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–45章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮嫦娥江玉鼎公开消息、正式外围不等战力高低](laozhang-ruan-jiang-xianji-formal-periphery-status-misread.md) | 第七卷45章证据与表演边界 |
+| [元始称号同元皇被队确认、民间闯六道故事有限](team-yuanshi-yuanhuang-identity-folk-escape-story-not-full-victory.md) | 第七卷45章证据与表演边界 |
+| [祝心灵网隐四交流、焦对外佯惊与真放声](team-psychic-network-hidden-reactions-and-jiao-real-vs-feigned-shock.md) | 第七卷45章证据与表演边界 |
+| [赵嬷带俞实际入府、下等丫环自持与未知半年后](zhao-matron-yu-servant-entry-halfyear-next-mission-unknown.md) | 第七卷45章证据与表演边界 |
 | [俞拒独招不悔、队友情与未出口逃轮回希望](yu-refused-solo-xianji-invitation-team-loyalty-not-regret.md) | 第七卷44章证据与表演边界 |
 | [两月活计与焦屋秘会、旧群聊警查教训](team-twomonth-livelihoods-jiao-secret-meeting-prior-police-lesson.md) | 第七卷44章证据与表演边界 |
 | [老张：酒友仆役、阶序观与不识字也闻册](lao-zhang-changle-household-servant-drinking-class-belief-handbook.md) | 第七卷44章证据与表演边界 |
