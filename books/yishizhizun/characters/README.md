@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷39章
+# 角色阶段索引 · 截至第七卷40章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–39章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–40章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [圆镜远召四者、根输后争忠被消声](meng-mirror-summons-daqinggen-losing-dog-flattery-muted.md) | 第七卷40章证据与表演边界 |
+| [论坛观念钓三派：宿命求共鸣、另外偏激批驳](waidao-forum-bait-laplace-fatalism-critique-review-not-posted.md) | 第七卷40章证据与表演边界 |
+| [两徒受命与反观念历练、不是道心已成](he-mu-fang-huayin-conflicting-views-training-no-new-rank.md) | 第七卷40章证据与表演边界 |
+| [诸界投影、万神殿与血月塔后一个宇宙不能入](meng-pantheon-bloodmoon-projections-one-universe-entry-blocked.md) | 第七卷40章证据与表演边界 |
 | [高云：敕封琅琊城隍、护城与观劫受摄](gao-yun-langya-citygod.md) | 第七卷39章证据与表演边界 |
 | [酆都大帝：少力显眼、审线合作与六道自述](fengdu-emperor.md) | 第七卷39章证据与表演边界 |
 | [阮神音双琴有损、末生死雷实过法身成](ruan-fashen-eight-thunders-two-qins-damaged-lifedeath-last-thunder-passed.md) | 第七卷39章证据与表演边界 |

@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第39章，1203 / 1410 个目录条目，约385.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第40章，1204 / 1410 个目录条目，约385.8万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第40章复核](books/yishizhizun/reviews/review-v07-0040.md)：圆镜师徒论坛寻道任务、诸界他我投影与一个宇宙无法进入，67段、82句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0040.md)。
 - [第七卷第39章复核](books/yishizhizun/reviews/review-v07-0039.md)：高云护城观劫、孟审酆都线实合作，阮法身确成及伏皇状态警讯，68段、87句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0039.md)。
 - [第七卷第38章复核](books/yishizhizun/reviews/review-v07-0038.md)：陆术明名但目标未揭、赵天子法身确成，阮点叶心私情未判与独琴云起，88段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0038.md)。
 - [第七卷第37章复核](books/yishizhizun/reviews/review-v07-0037.md)：赵旧对话与游旧友、阮宅外琴和新合一尝试未定，韩隐处草人双灯悬念，82段、109句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0037.md)。
