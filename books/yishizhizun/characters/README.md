@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷32章
+# 角色阶段索引 · 截至第七卷33章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–32章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–33章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [清微先探后真入、八九预感与首影搜空](qingwei-first-consciousness-then-body-bajiu-prescience-shadow-search-empty.md) | 第七卷33章证据与表演边界 |
+| [清微过去未来碎片、两刹实失百岁未恢复](qingwei-past-future-fragments-real-century-lifespan-loss-not-restored.md) | 第七卷33章证据与表演边界 |
+| [元始灵宝旧战与失踪相涉线索、去向仍待](qingwei-yuanshi-lingbao-oldbattle-missing-linked-next-nineheavens-clue.md) | 第七卷33章证据与表演边界 |
+| [清微再窥黑影、谷外虚幻道人自报准提](qingwei-shadow-daoist-selfnamed-zhunti-projection-origin-unconfirmed.md) | 第七卷33章证据与表演边界 |
 | [Gu论陆跨纪元受庇与天庭疑局、血桃温顺](gu-luya-previousepoch-yuanshi-shelter-heavenfall-links-uncertain.md) | 第七卷32章证据与表演边界 |
 | [孟Gu彼此临崖、传说仍待与魔佛未出](meng-gu-parallel-cliff-danger-legend-not-yet-mofo-not-released.md) | 第七卷32章证据与表演边界 |
 | [清微命运抵消旧碑、两大陆突破海路实复](qingwei-destiny-cancels-old-tablets-breakthroughs-ocean-restored.md) | 第七卷32章证据与表演边界 |
