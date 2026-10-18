@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷62章
+# 角色阶段索引 · 截至第七卷63章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–62章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–63章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐天仙顶峰、三魔圣传说与暂封爪暂弃地提案](qi-heavenpeak-three-returned-legends-claw-sealed-retreat-only-option.md) | 第七卷63章证据与表演边界 |
+| [赵实回南荒、持榜害与紫薇级反事实未成](zhao-nanhuang-arrival-board-liability-without-altar-not-star-lord.md) | 第七卷63章证据与表演边界 |
+| [药师大愿反馈未了、第五未出不等彼岸失境](qingdi-vow-feedback-fifth-omen-unattained-sixth-unknown.md) | 第七卷63章证据与表演边界 |
+| [青帝第一次回抓旧韩落空、灵宝只是孟疑](qingdi-first-past-grab-misses-peer-obscurer-unidentified.md) | 第七卷63章证据与表演边界 |
+| [扶桑复鼎净土圆满、孟设想复活冲和未实施](qingdi-fusang-restored-meng-chonghe-return-only-hypothesis.md) | 第七卷63章证据与表演边界 |
+| [灵山诸手退、七杀未尽醒收剑与悟空术路受限](lingshan-swordsea-staff-withdraw-qisha-not-fully-awake.md) | 第七卷63章证据与表演边界 |
 | [青帝：同一主体多身份与彼岸成长主卡](qingdi.md) | 第七卷62章证据与表演边界 |
 | [扶桑母体与青帝出生、果融树补过去](qingdi-fusang-birth-fruit-mirror-bell-path-anchors-repaired.md) | 第七卷62章证据与表演边界 |
 | [青帝四彼岸异象、返老青木与照光两处例外](qingdi-four-beyondshore-omens-youthwood-not-everything-lit.md) | 第七卷62章证据与表演边界 |
