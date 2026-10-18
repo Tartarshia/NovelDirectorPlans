@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第71章，1235 / 1410 个目录条目，约394.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第72章，1236 / 1410 个目录条目，约394.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第72章复核](books/yishizhizun/reviews/review-v07-0072.md)：主动供力借局、九净土虚河贯通与生死入口显，45段、53句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0072.md)。
 - [第七卷第71章复核](books/yishizhizun/reviews/review-v07-0071.md)：实见人类黄泉、近道理论转述与真武占躯意图，50段、84句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0071.md)。
 - [第七卷第70章复核](books/yishizhizun/reviews/review-v07-0070.md)：十八庙无镇物口述、骨身佛修显门同入，54段、79句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0070.md)。
 - [第七卷第69章复核](books/yishizhizun/reviews/review-v07-0069.md)：血杀源解、修罗报祖与孟骨身久候，63段、86句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0069.md)。

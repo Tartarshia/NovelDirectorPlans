@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷71章
+# 角色阶段索引 · 截至第七卷72章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–71章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–72章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [九沿河净土汲力诱局、黄泉念头发声](nine-riverside-purelands-drain-lure-huangquan-thought-voice.md) | 第七卷72章证据与表演边界 |
+| [始祖显本体：九首千眼990臂24腿、未新晋](asura-progenitor-nine-heads-990-arms-24-legs-originalbody.md) | 第七卷72章证据与表演边界 |
+| [孟主动传尽骨力、先探原点对丰都布局仍计划](meng-sacrifices-external-bones-before-fengdu-origin-plan.md) | 第七卷72章证据与表演边界 |
+| [血杀真入净土被吸难逃、非自愿或已死](xuesha-actual-pureland-entry-drained-not-willing-sacrifice.md) | 第七卷72章证据与表演边界 |
+| [虚河贯圈真河短逆、生死入口显现](virtual-huangquan-loop-real-river-reversal-origin-aperture.md) | 第七卷72章证据与表演边界 |
+| [愿者供力反利用、黄泉计划实施却心理错位](willing-progenitor-meng-fuel-reverses-huangquan-expectation.md) | 第七卷72章证据与表演边界 |
 | [黄泉：原九幽邪神与当前人类转世身](huangquan.md) | 第七卷71章证据与表演边界 |
 | [净土实景无人、孟祖知险入而化身未丢](pureland-empty-sumeru-aware-of-danger-avatar-entry.md) | 第七卷71章证据与表演边界 |
 | [实际见黄泉转世、遗骨未取与一梦万世自述](huangquan-reincarnation-real-meeting-bones-unretrieved-account.md) | 第七卷71章证据与表演边界 |
