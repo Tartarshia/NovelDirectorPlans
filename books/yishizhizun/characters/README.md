@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第七卷49章
+# 角色阶段索引 · 截至第七卷50章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–49章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–50章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [绝刀信息雷池心海景、池底未见与诡异悸动未解](ancient-thunderpool-blade-memory-vision-bottom-obscure-unease.md) | 第七卷50章证据与表演边界 |
+| [数百次试炼、两时辰神格与写入的18等标签](ice-punishment-godhead-hundreds-trials-twohour-written-labels.md) | 第七卷50章证据与表演边界 |
+| [冰雪惩戒神格同步融壁、第二关已通过](zhixu-secondtrial-godhead-rule-infiltration-actual-pass.md) | 第七卷50章证据与表演边界 |
+| [通关耗几时辰获报告、文士求自慰与越研究目光](zhixu-leaders-hours-confirmed-priorlearning-hope-not-fact.md) | 第七卷50章证据与表演边界 |
+| [第三关当地时光河禁法、所见未来阻路未通过](zhixu-thirdtrial-local-time-river-forbidden-futures-blocked.md) | 第七卷50章证据与表演边界 |
 | [止步冰壁古宇宙、绝刀强攻裂而复原未通过](zhixu-icewall-universe-selfrepair-blade-attempt-failed.md) | 第七卷49章证据与表演边界 |
 | [参规则反推道、造同步物架桥的方向尚未实践](zhixu-rule-synchronization-object-bridge-plan-not-made.md) | 第七卷49章证据与表演边界 |
 | [两具旧长老传说遗蜕与捐献推认、孟敬意](zhixu-two-dead-legend-elder-remains-research-materials-respect.md) | 第七卷49章证据与表演边界 |
