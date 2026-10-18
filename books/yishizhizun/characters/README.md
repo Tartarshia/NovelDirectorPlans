@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷69章
+# 角色阶段索引 · 截至第七卷70章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–69章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–70章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [试刀与黄泉剑气：殿静和远处真实伤害并存](asura-probe-huangquan-swordqi-cancel-real-distant-pain.md) | 第七卷70章证据与表演边界 |
+| [始祖误猜魔君真身、孟顺势承接而非真实身份](meng-mojun-huangquan-body-misidentification-strategic-assent.md) | 第七卷70章证据与表演边界 |
+| [始祖口述十八庙无镇物、用途和佛祖状态仍有限知](eighteen-buddha-temples-progenitor-account-no-prisoners.md) | 第七卷70章证据与表演边界 |
+| [黄泉上游千年回起点：过去口述与孟循环推问](huangquan-upstream-return-progenitor-memory-not-origin-found.md) | 第七卷70章证据与表演边界 |
+| [同一骨老身佛修显门、二人实际同入](meng-buddhist-demeanor-elder-buddhaface-pureland-gate-entry.md) | 第七卷70章证据与表演边界 |
+| [血杀出现庙外：喜疑并存且未进门](xuesha-outside-temple-after-pureland-entry-not-inside.md) | 第七卷70章证据与表演边界 |
 | [血杀道人：冥海一族后秀、68未名磁眼同人解名](xuesha-daoren.md) | 第七卷69章证据与表演边界 |
 | [阿修罗始祖：永久左断、近自封缓寿与三眼显化身](asura-progenitor.md) | 第七卷69章证据与表演边界 |
 | [孟接触佛祖宽义真话、血杀天赋并非识破全部语用](meng-buddha-contact-semantic-truth-not-personal-audience.md) | 第七卷69章证据与表演边界 |
