@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷68章
+# 角色阶段索引 · 截至第七卷69章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–68章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–69章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [血杀道人：冥海一族后秀、68未名磁眼同人解名](xuesha-daoren.md) | 第七卷69章证据与表演边界 |
+| [阿修罗始祖：永久左断、近自封缓寿与三眼显化身](asura-progenitor.md) | 第七卷69章证据与表演边界 |
+| [孟接触佛祖宽义真话、血杀天赋并非识破全部语用](meng-buddha-contact-semantic-truth-not-personal-audience.md) | 第七卷69章证据与表演边界 |
+| [修罗方知黄泉身份、层级上报并未揭封物](asura-report-huangquan-identity-ancestor-notice-not-sealbroken.md) | 第七卷69章证据与表演边界 |
+| [血杀漏杀自省追灭口、祖喝退而无新屠族实证](xuesha-silencing-attempt-blocked-ancestor-shout-no-massacre.md) | 第七卷69章证据与表演边界 |
+| [始祖三眼显庙点灯、孟骨身久候未破封](asura-ancestor-manifestation-stonetemple-meng-avatar-waiting.md) | 第七卷69章证据与表演边界 |
 | [孟黄泉骨化身实际九幽五层、本尊仍静室](meng-huangquan-bone-avatar-actual-nether-fifthlayer-truebody-yuxu.md) | 第七卷68章证据与表演边界 |
 | [须伦与布兰：九幽五层修罗理智和宿命困惑](asura-xulun-bulan.md) | 第七卷68章证据与表演边界 |
 | [黄泉十桥与阴舟渡河、遗忘规则和第十桥未知](huangquan-river-tenbridges-yinboat-forgetting-tenth-unknown.md) | 第七卷68章证据与表演边界 |

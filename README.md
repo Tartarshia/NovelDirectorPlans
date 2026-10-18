@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第68章，1232 / 1410 个目录条目，约393.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第69章，1233 / 1410 个目录条目，约393.9万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第69章复核](books/yishizhizun/reviews/review-v07-0069.md)：血杀源解、修罗报祖与孟骨身久候，63段、86句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0069.md)。
 - [第七卷第68章复核](books/yishizhizun/reviews/review-v07-0068.md)：孟黄泉骨化身实际五层、修罗宿命与未名红袍古庙灯，57段、70句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0068.md)。
 - [第七卷第67章复核](books/yishizhizun/reviews/review-v07-0067.md)：师犬实际救田父魂、狗影同在与孟未外出明暗都师，53段、81句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0067.md)。
 - [第七卷第66章复核](books/yishizhizun/reviews/review-v07-0066.md)：玄悲净土度魂、他心观地府与求徒到门未见，66段、93句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0066.md)。
