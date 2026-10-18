@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷65章
+# 角色阶段索引 · 截至第七卷66章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–65章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–66章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [玄悲：地藏金身、慈悲愿与求徒救魂成长主卡](xuanbei.md) | 第七卷66章证据与表演边界 |
+| [地藏金身净土渡魂、传说前并非真实界洞天](xuanbei-kshitigarbha-pureland-domain-not-legend-world.md) | 第七卷66章证据与表演边界 |
+| [万年古神感鬼重开灵智、玄悲半年追度仍逃未名](xuanbei-ancient-awakened-ghost-halfyear-pursuit-still-escaped.md) | 第七卷66章证据与表演边界 |
+| [田托梦掩通话被识破、求僧已做却仍未救](xuanbei-tian-dream-cover-exposed-soulcall-full-account.md) | 第七卷66章证据与表演边界 |
+| [父默四十九遍法号、玄悲他心感苦与内愿未完成](xuanbei-mindreading-fortynine-name-recitation-vow-not-rescue.md) | 第七卷66章证据与表演边界 |
+| [玄悲实际到玉虚求徒、大青根报告掌教外出](xuanbei-yuxu-arrival-daqinggen-reports-head-absent.md) | 第七卷66章证据与表演边界 |
 | [田万哲：垦荒青年、丧父阴阳来电与认知突变](tian-wanzhe.md) | 第七卷65章证据与表演边界 |
 | [田父：自然寿尽、死后远话保留生活唠叨](tian-wanzhe-father-unnamed.md) | 第七卷65章证据与表演边界 |
 | [魂绑新符广告与死后通话实证、受限与归因边界](soulbound-tongshi-ad-real-afterdeath-call-not-unlimited.md) | 第七卷65章证据与表演边界 |
