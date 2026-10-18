@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第七卷53章
+# 角色阶段索引 · 截至第七卷54章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–53章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–54章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [莫非：止虚山当代掌门、传说与越子倾师父](mo-fei.md) | 第七卷54章证据与表演边界 |
+| [荒姚：止虚山太上长老、黑衣老妪实名](huang-yao.md) | 第七卷54章证据与表演边界 |
+| [魂灯未熄仅莫非报告、祖师活死仍未定](zhixu-founder-soul-lamp-unextinguished-report-life-status-unknown.md) | 第七卷54章证据与表演边界 |
+| [应急撤禁至少四十九日、越领师命去做尚未完成](zhixu-emergency-fortynine-days-rule-adjustment-ordered-not-done.md) | 第七卷54章证据与表演边界 |
+| [青帝扶桑成败两预测、共同地点与孟拟留言](qingdi-two-forecasts-fusang-common-destination-meng-message-plan.md) | 第七卷54章证据与表演边界 |
 | [真渡第三关与因果转移近极限头痛、非新境](fate-river-thirdtrial-passed-causalroot-limit-headache-not-rank.md) | 第七卷53章证据与表演边界 |
 | [掌教倡少绝对、力士消噪与少数人真正入门](zhixu-headmaster-less-absolutes-crowd-noise-suppressed-entry.md) | 第七卷53章证据与表演边界 |
 | [薄禁石门后局限毁迹、圆满材碎片与毁者未明](zhixu-stonegate-ruins-confined-destruction-cause-unknown.md) | 第七卷53章证据与表演边界 |
