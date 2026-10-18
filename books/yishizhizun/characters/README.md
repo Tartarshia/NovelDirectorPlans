@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷66章
+# 角色阶段索引 · 截至第七卷67章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–66章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–67章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟未外出与魂绑择时、明暗关键都师而未把握蒙彼岸](meng-still-yuxu-soulbinding-timing-overt-covert-both-teacher.md) | 第七卷67章证据与表演边界 |
+| [根九幽追黄泉说辞与送犬逍遥算盘被无处不在破](daqinggen-nine-nether-cover-dog-freedom-boast-fails.md) | 第七卷67章证据与表演边界 |
+| [哮天犬自愿同行、地狱投影救魂与门前狗影同主体](xiaotian-consents-hell-projection-rescue-and-yuxu-dogshadow.md) | 第七卷67章证据与表演边界 |
+| [田父魂实际救入净土、非肉身复活而母仍未救](tian-father-soul-actually-pulled-into-pureland-not-body-revival.md) | 第七卷67章证据与表演边界 |
+| [玄悲自愿轮回修法愿景与单父魂真实救出](xuanbei-voluntary-soul-liberation-vision-one-rescue-realized.md) | 第七卷67章证据与表演边界 |
+| [鬼差失觉少一与元皇旧取罗胜衣、不是当前再毁府](underworld-wardens-anger-meng-luo-oldcase-not-new-attack.md) | 第七卷67章证据与表演边界 |
 | [玄悲：地藏金身、慈悲愿与求徒救魂成长主卡](xuanbei.md) | 第七卷66章证据与表演边界 |
 | [地藏金身净土渡魂、传说前并非真实界洞天](xuanbei-kshitigarbha-pureland-domain-not-legend-world.md) | 第七卷66章证据与表演边界 |
 | [万年古神感鬼重开灵智、玄悲半年追度仍逃未名](xuanbei-ancient-awakened-ghost-halfyear-pursuit-still-escaped.md) | 第七卷66章证据与表演边界 |
