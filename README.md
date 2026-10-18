@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第48章，1212 / 1410 个目录条目，约388.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第49章，1213 / 1410 个目录条目，约388.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第49章复核](books/yishizhizun/reviews/review-v07-0049.md)：止步冰壁强攻失败、规则造物方向与绝刀参照，66段、79句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0049.md)。
 - [第七卷第48章复核](books/yishizhizun/reviews/review-v07-0048.md)：未来模型与科研愿望揭明、王指导孟运算实过首关，62段、96句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0048.md)。
 - [第七卷第47章复核](books/yishizhizun/reviews/review-v07-0047.md)：实入止虚、报身力士本地边界与代因玉偶过载，63段、91句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0047.md)。
 - [第七卷第46章复核](books/yishizhizun/reviews/review-v07-0046.md)：何暮半年观念历练与第三名单，实际联越及祖师未来待考，61段、82句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0046.md)。

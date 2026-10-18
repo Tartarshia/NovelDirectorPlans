@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第七卷48章
+# 角色阶段索引 · 截至第七卷49章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–48章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–49章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [止步冰壁古宇宙、绝刀强攻裂而复原未通过](zhixu-icewall-universe-selfrepair-blade-attempt-failed.md) | 第七卷49章证据与表演边界 |
+| [参规则反推道、造同步物架桥的方向尚未实践](zhixu-rule-synchronization-object-bridge-plan-not-made.md) | 第七卷49章证据与表演边界 |
+| [两具旧长老传说遗蜕与捐献推认、孟敬意](zhixu-two-dead-legend-elder-remains-research-materials-respect.md) | 第七卷49章证据与表演边界 |
+| [未名文士近造化、两强发话预估久研后散留越](zhixu-unnamed-leaders-near-creation-forecast-dismiss-yue-waits.md) | 第七卷49章证据与表演边界 |
+| [绝刀真跃紫电、雷池雷神类神格参照而未炼成](jueblade-thunderpool-thundergod-reference-not-creation-complete.md) | 第七卷49章证据与表演边界 |
 | [三推衍模型、历史变量与末劫例外](zhixu-three-future-models-history-variable-beyondshore-limits.md) | 第七卷48章证据与表演边界 |
 | [掌门长老研究诸果与八九的愿望、孟实拒](zhixu-leaders-research-desire-causalroot-bajiu-meng-refusal.md) | 第七卷48章证据与表演边界 |
 | [先天术数首关：王指导、孟运算、已通过](innate-arithmetic-first-gate-wang-guidance-meng-computation-passed.md) | 第七卷48章证据与表演边界 |
