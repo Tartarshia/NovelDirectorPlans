@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷72章
+# 角色阶段索引 · 截至第七卷73章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–72章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–73章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [真武大帝：原点本人躯体实见、紫眸开而原因未明](zhenwu.md) | 第七卷73章证据与表演边界 |
+| [三者真入原点：耗寿释体、榨骨与余力不同](origin-entry-three-bodies-cost-lifespan-bones-and-reserve.md) | 第七卷73章证据与表演边界 |
+| [孟重构感知交替生死淬骨、造化宝仍希望](meng-abstract-lifedeath-alternation-balanced-bone-refinement.md) | 第七卷73章证据与表演边界 |
+| [血杀原点炼己炼眼血管杀剑、未新境](xuesha-eye-vessel-killing-sword-self-refinement-origin.md) | 第七卷73章证据与表演边界 |
+| [近道之罚无主持意志、同化亦及分神](near-dao-natural-rebound-thunder-and-consciousness-assimilation.md) | 第七卷73章证据与表演边界 |
+| [黄泉按向真武泥丸、真武紫眸开仍未揭因](huangquan-reaches-zhenwu-niwan-purple-eyes-open-unresolved.md) | 第七卷73章证据与表演边界 |
 | [九沿河净土汲力诱局、黄泉念头发声](nine-riverside-purelands-drain-lure-huangquan-thought-voice.md) | 第七卷72章证据与表演边界 |
 | [始祖显本体：九首千眼990臂24腿、未新晋](asura-progenitor-nine-heads-990-arms-24-legs-originalbody.md) | 第七卷72章证据与表演边界 |
 | [孟主动传尽骨力、先探原点对丰都布局仍计划](meng-sacrifices-external-bones-before-fengdu-origin-plan.md) | 第七卷72章证据与表演边界 |
