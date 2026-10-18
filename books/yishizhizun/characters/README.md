@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第七卷64章
+# 角色阶段索引 · 截至第七卷65章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–64章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–65章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [田万哲：垦荒青年、丧父阴阳来电与认知突变](tian-wanzhe.md) | 第七卷65章证据与表演边界 |
+| [田父：自然寿尽、死后远话保留生活唠叨](tian-wanzhe-father-unnamed.md) | 第七卷65章证据与表演边界 |
+| [魂绑新符广告与死后通话实证、受限与归因边界](soulbound-tongshi-ad-real-afterdeath-call-not-unlimited.md) | 第七卷65章证据与表演边界 |
+| [葬神荒漠绿洲、墨宫万象大周两年合作](buriedgod-desert-oasis-mogong-wanxiang-two-year-cooperation.md) | 第七卷65章证据与表演边界 |
+| [田家灵前纸符未烧、超度父母仅计划与烧更新请求](tian-family-funeral-paper-symbol-unburned-rescue-only-plan.md) | 第七卷65章证据与表演边界 |
 | [孟排除推金皇后手、未唤顾与心理理解未全知](meng-jinhuang-hidden-backup-inference-gu-not-awakened.md) | 第七卷64章证据与表演边界 |
 | [齐报告榜大部菩提封、至少五年有望解而冲和未复生](list-bodhi-seal-qis-fiveyear-hope-chonghe-not-revived.md) | 第七卷64章证据与表演边界 |
 | [九幽集结出发令未抵达、普传自强理想延续](qi-nine-nether-departure-command-not-arrival-selfstrength-teaching.md) | 第七卷64章证据与表演边界 |
