@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第七卷55章
+# 角色阶段索引 · 截至第七卷56章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–55章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–56章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [高览突破异象惠润、受阻未明确正式完成](gaolan-breakthrough-omens-blessings-obstruction-not-finished.md) | 第七卷56章证据与表演边界 |
+| [玉虚五位未全醒、无阵图四剑加印剑合拦燃灯掌](yuxu-five-notfullyawake-four-swords-no-array-randeng-palm-block.md) | 第七卷56章证据与表演边界 |
+| [少玄羲娥隔因果界、末日舟冲界未明确出](shaoxuan-xie-isolated-causalrealm-ark-boundary-impact-pending.md) | 第七卷56章证据与表演边界 |
+| [绝刀醒造化、传说孟只拖未愈袁洪非胜杀](jueblade-creation-awakening-meng-legend-delays-wounded-yuan.md) | 第七卷56章证据与表演边界 |
+| [赵恒顺继权限登台、封神榜三字只显未用](zhaoheng-heir-enters-altar-fengshen-inscription-not-used.md) | 第七卷56章证据与表演边界 |
 | [扶桑留言真写后归、及时抽身与引导者仍未知](meng-fusang-message-written-unprotected-withdrawal-guide-unknown.md) | 第七卷55章证据与表演边界 |
 | [俞潜伏近一年底限已足、熟悉声响未给新任务内容](yu-nearyear-infiltration-halfyear-exceeded-familiar-voice-no-words.md) | 第七卷55章证据与表演边界 |
 | [祝天铭花匠岗位今明、同乡掩护闲聊无逐字](zhu-gardener-role-hometown-cover-chat-untranscribed.md) | 第七卷55章证据与表演边界 |

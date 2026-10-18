@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第55章，1219 / 1410 个目录条目，约390.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第56章，1220 / 1410 个目录条目，约390.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第56章复核](books/yishizhizun/reviews/review-v07-0056.md)：高突破遭阻、刀醒造化与赵顺继持榜，52段、53句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0056.md)。
 - [第七卷第55章复核](books/yishizhizun/reviews/review-v07-0055.md)：扶桑留书已成、近年潜伏新声与高览印记足拔剑，46段、49句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0055.md)。
 - [第七卷第54章复核](books/yishizhizun/reviews/review-v07-0054.md)：莫非荒姚实名、魂灯未熄报告与青帝成败两推衍，55段、82句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0054.md)。
 - [第七卷第53章复核](books/yishizhizun/reviews/review-v07-0053.md)：第三关实过、石门毁迹与祖师残简旧自述，51段、66句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0053.md)。
