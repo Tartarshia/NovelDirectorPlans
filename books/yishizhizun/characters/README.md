@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷61章
+# 角色阶段索引 · 截至第七卷62章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–61章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–62章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [青帝：同一主体多身份与彼岸成长主卡](qingdi.md) | 第七卷62章证据与表演边界 |
+| [扶桑母体与青帝出生、果融树补过去](qingdi-fusang-birth-fruit-mirror-bell-path-anchors-repaired.md) | 第七卷62章证据与表演边界 |
+| [青帝四彼岸异象、返老青木与照光两处例外](qingdi-four-beyondshore-omens-youthwood-not-everything-lit.md) | 第七卷62章证据与表演边界 |
+| [大势定敌手撤、哪吒九灵真实释困](qingdi-attainment-withdrawals-nezha-jiuling-actually-freed.md) | 第七卷62章证据与表演边界 |
+| [枯荣七宝枝拆两图、清雅声未直接具名与赵持榜逃](kurong-sevenjewel-branch-separates-maps-zhao-board-escape.md) | 第七卷62章证据与表演边界 |
+| [韩带菩提妙树认释魔败、如意上下封位仍疑](han-carries-bodhi-tree-withdraws-unsealing-failed-order-question.md) | 第七卷62章证据与表演边界 |
 | [七杀冥海剑阻韩、水祖海像生灭挡剑](qisha-minghai-sword-waterancestor-renewing-sea-block.md) | 第七卷61章证据与表演边界 |
 | [悟空闻动反应出棒、酆都六指只求暂拦](wukong-reactive-staff-fengdu-sixfinger-delay-not-defeat.md) | 第七卷61章证据与表演边界 |
 | [赵确磨净陆印按榜、阎罗图中争主导未果](zhao-luya-mark-erased-altar-pressed-yanluo-map-contest.md) | 第七卷61章证据与表演边界 |
