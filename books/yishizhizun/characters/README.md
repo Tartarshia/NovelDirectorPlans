@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷51章
+# 角色阶段索引 · 截至第七卷52章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–51章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–52章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [审风险后再入河、诸果道一转联系往魔佛烙印](meng-causalroot-temporary-transfer-mofuo-imprint-risk-assessed.md) | 第七卷52章证据与表演边界 |
+| [绝刀护灯与逆佛魔身印影、暂压非魔佛脱封](jueblade-protects-daoyi-lamp-imprint-shadow-not-unsealed-mofo.md) | 第七卷52章证据与表演边界 |
+| [新支缥缈不稳、若成彼岸宏愿非已晋或实际过河](fate-river-new-fragile-branches-conditional-vow-not-rank-or-pass.md) | 第七卷52章证据与表演边界 |
+| [文士掌教身份本章明、三人门前欲入未实进](zhixu-whiterobe-scholar-headmaster-confirmed-now-yue-attempts-entry.md) | 第七卷52章证据与表演边界 |
 | [宿命河真入真退、彼岸特征与失败未来非实发生](fate-river-entry-trait-protection-futureimages-retreat-not-events.md) | 第七卷51章证据与表演边界 |
 | [祖师非彼岸、当地过去与外变量模型可有遗漏](zhixu-founder-not-beyondshore-local-past-outsider-variable-gaps.md) | 第七卷51章证据与表演边界 |
 | [造化旧访失败、众预判孟将出而非他已离秘地](zhixu-fate-river-visitor-failures-meng-exit-expected-not-actual.md) | 第七卷51章证据与表演边界 |

@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第51章，1215 / 1410 个目录条目，约389.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第52章，1216 / 1410 个目录条目，约389.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第52章复核](books/yishizhizun/reviews/review-v07-0052.md)：诸果暂转魔佛印开脆弱新支、孟条件宏愿与掌教身份明，47段、50句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0052.md)。
 - [第七卷第51章复核](books/yishizhizun/reviews/review-v07-0051.md)：宿命河实探退回、可能未来与魔佛印待试想法，61段、77句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0051.md)。
 - [第七卷第50章复核](books/yishizhizun/reviews/review-v07-0050.md)：有限神格造毕实过第二关、第三当地时光禁法尚阻，51段、58句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0050.md)。
 - [第七卷第49章复核](books/yishizhizun/reviews/review-v07-0049.md)：止步冰壁强攻失败、规则造物方向与绝刀参照，66段、79句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0049.md)。
