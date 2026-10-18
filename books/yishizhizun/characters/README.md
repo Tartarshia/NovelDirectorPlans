@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷57章
+# 角色阶段索引 · 截至第七卷58章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–57章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–58章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [九灵似受未来信援高、牛图困狮而非狮死](jiuling-future-message-surmise-niuwang-shanhesheji-capture-not-death.md) | 第七卷58章证据与表演边界 |
+| [孟旧符诏哪吒殿守、出战被五色光困未死未脱](nezha-meng-prior-decree-last-defense-fivecolor-captured-not-dead.md) | 第七卷58章证据与表演边界 |
+| [太离五羽全炼与借大圣合催、本人未传说](taili-kongxuan-fivefeathers-refined-loaned-still-below-legend.md) | 第七卷58章证据与表演边界 |
+| [大妙相挡苏江山门、援长乐受限而非死亡](suwuming-jiang-blocked-at-xijian-damiaoxiang-not-killed.md) | 第七卷58章证据与表演边界 |
+| [韩广亲临敬一世敌、请宝贝现身白光未斩中](han-respect-lifelong-enemy-redgourd-whitebeams-not-hit.md) | 第七卷58章证据与表演边界 |
+| [金灯渐隐最后可阻窗口、赵榜仍未合枢](gaolan-goldlamps-fade-last-interference-window-not-success.md) | 第七卷58章证据与表演边界 |
 | [孟情义惊痛与自责、三宝如意救台尚被截](meng-zhao-shock-guilt-sambo-ruyi-costly-rescue-intercepted.md) | 第七卷57章证据与表演边界 |
 | [末日舟真实脱困、魔君挡舟如意哮天给赵时间](ark-actually-escapes-mojun-intercepts-ruyi-ship-hidden-dog.md) | 第七卷57章证据与表演边界 |
 | [队已交奇物给赵任务完成、潜出与接走未完成](reincarnators-object-delivered-zhao-mission-complete-extraction-pending.md) | 第七卷57章证据与表演边界 |
