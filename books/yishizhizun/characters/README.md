@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷56章
+# 角色阶段索引 · 截至第七卷57章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–56章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–57章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟情义惊痛与自责、三宝如意救台尚被截](meng-zhao-shock-guilt-sambo-ruyi-costly-rescue-intercepted.md) | 第七卷57章证据与表演边界 |
+| [末日舟真实脱困、魔君挡舟如意哮天给赵时间](ark-actually-escapes-mojun-intercepts-ruyi-ship-hidden-dog.md) | 第七卷57章证据与表演边界 |
+| [队已交奇物给赵任务完成、潜出与接走未完成](reincarnators-object-delivered-zhao-mission-complete-extraction-pending.md) | 第七卷57章证据与表演边界 |
+| [赵帝梦与陆韩后台蓝图、榜尚未合台枢](zhaoheng-imperial-dream-luya-han-backers-board-not-in-core.md) | 第七卷57章证据与表演边界 |
+| [未来一支青帝见孟留言、自称太昊非当前晋境](qingdi-futurebranch-selfnames-taihao-message-not-current-attainment.md) | 第七卷57章证据与表演边界 |
+| [陆压草人太昊目标字明确、未给咒中结果](luya-strawman-taihao-target-inscription-no-curse-hit-yet.md) | 第七卷57章证据与表演边界 |
 | [高览突破异象惠润、受阻未明确正式完成](gaolan-breakthrough-omens-blessings-obstruction-not-finished.md) | 第七卷56章证据与表演边界 |
 | [玉虚五位未全醒、无阵图四剑加印剑合拦燃灯掌](yuxu-five-notfullyawake-four-swords-no-array-randeng-palm-block.md) | 第七卷56章证据与表演边界 |
 | [少玄羲娥隔因果界、末日舟冲界未明确出](shaoxuan-xie-isolated-causalrealm-ark-boundary-impact-pending.md) | 第七卷56章证据与表演边界 |
