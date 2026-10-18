@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷67章
+# 角色阶段索引 · 截至第七卷68章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–67章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–68章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟黄泉骨化身实际九幽五层、本尊仍静室](meng-huangquan-bone-avatar-actual-nether-fifthlayer-truebody-yuxu.md) | 第七卷68章证据与表演边界 |
+| [须伦与布兰：九幽五层修罗理智和宿命困惑](asura-xulun-bulan.md) | 第七卷68章证据与表演边界 |
+| [黄泉十桥与阴舟渡河、遗忘规则和第十桥未知](huangquan-river-tenbridges-yinboat-forgetting-tenth-unknown.md) | 第七卷68章证据与表演边界 |
+| [青灰无面石佛庙、两来历传闻与孟第三处](graystone-faceless-buddha-temples-rumors-and-third-site.md) | 第七卷68章证据与表演边界 |
+| [九幽暗红袍磁眼男子未名、施控问画像与实力自评](jiuyou-darkred-magnetic-eyed-interrogator-unidentified.md) | 第七卷68章证据与表演边界 |
+| [黄泉转世黑袍画像与庙旁失踪证言、未找到本人](huangquan-blackrobe-portrait-last-seen-temple-report-not-found.md) | 第七卷68章证据与表演边界 |
 | [孟未外出与魂绑择时、明暗关键都师而未把握蒙彼岸](meng-still-yuxu-soulbinding-timing-overt-covert-both-teacher.md) | 第七卷67章证据与表演边界 |
 | [根九幽追黄泉说辞与送犬逍遥算盘被无处不在破](daqinggen-nine-nether-cover-dog-freedom-boast-fails.md) | 第七卷67章证据与表演边界 |
 | [哮天犬自愿同行、地狱投影救魂与门前狗影同主体](xiaotian-consents-hell-projection-rescue-and-yuxu-dogshadow.md) | 第七卷67章证据与表演边界 |
