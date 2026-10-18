@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至第七卷50章
+# 角色阶段索引 · 截至第七卷51章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–50章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–51章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [宿命河真入真退、彼岸特征与失败未来非实发生](fate-river-entry-trait-protection-futureimages-retreat-not-events.md) | 第七卷51章证据与表演边界 |
+| [祖师非彼岸、当地过去与外变量模型可有遗漏](zhixu-founder-not-beyondshore-local-past-outsider-variable-gaps.md) | 第七卷51章证据与表演边界 |
+| [造化旧访失败、众预判孟将出而非他已离秘地](zhixu-fate-river-visitor-failures-meng-exit-expected-not-actual.md) | 第七卷51章证据与表演边界 |
+| [魔佛烙印作为彼岸变量的疯狂想法尚未引动](meng-mofuo-imprint-beyondshore-variable-idea-not-triggered.md) | 第七卷51章证据与表演边界 |
 | [绝刀信息雷池心海景、池底未见与诡异悸动未解](ancient-thunderpool-blade-memory-vision-bottom-obscure-unease.md) | 第七卷50章证据与表演边界 |
 | [数百次试炼、两时辰神格与写入的18等标签](ice-punishment-godhead-hundreds-trials-twohour-written-labels.md) | 第七卷50章证据与表演边界 |
 | [冰雪惩戒神格同步融壁、第二关已通过](zhixu-secondtrial-godhead-rule-infiltration-actual-pass.md) | 第七卷50章证据与表演边界 |
