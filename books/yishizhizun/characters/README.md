@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷70章
+# 角色阶段索引 · 截至第七卷71章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–70章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–71章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [黄泉：原九幽邪神与当前人类转世身](huangquan.md) | 第七卷71章证据与表演边界 |
+| [净土实景无人、孟祖知险入而化身未丢](pureland-empty-sumeru-aware-of-danger-avatar-entry.md) | 第七卷71章证据与表演边界 |
+| [实际见黄泉转世、遗骨未取与一梦万世自述](huangquan-reincarnation-real-meeting-bones-unretrieved-account.md) | 第七卷71章证据与表演边界 |
+| [近道之所与道果雏形：黄泉转述和孟保留疑问](near-dao-places-and-fruit-embryo-reported-theory-not-attainment.md) | 第七卷71章证据与表演边界 |
+| [孟串联天庭地府丈九幽、仍问为何争掌](meng-cosmic-secret-synthesis-and-unresolved-control-competition.md) | 第七卷71章证据与表演边界 |
+| [真武近道同化仅黄泉口述、占躯背出仍计划](zhenwu-assimilation-claimed-body-usurpation-future-not-done.md) | 第七卷71章证据与表演边界 |
 | [试刀与黄泉剑气：殿静和远处真实伤害并存](asura-probe-huangquan-swordqi-cancel-real-distant-pain.md) | 第七卷70章证据与表演边界 |
 | [始祖误猜魔君真身、孟顺势承接而非真实身份](meng-mojun-huangquan-body-misidentification-strategic-assent.md) | 第七卷70章证据与表演边界 |
 | [始祖口述十八庙无镇物、用途和佛祖状态仍有限知](eighteen-buddha-temples-progenitor-account-no-prisoners.md) | 第七卷70章证据与表演边界 |
