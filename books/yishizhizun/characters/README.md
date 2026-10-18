@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第七卷58章
+# 角色阶段索引 · 截至第七卷59章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–58章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–59章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [金角持太极图金桥镇斩仙白光、高尚未正式终成](jinjiao-boy-taijitu-goldenbridge-stops-zhanxian-not-gao-attainment.md) | 第七卷59章证据与表演边界 |
+| [青帝多未来逆归当下、今日冲彼岸但受干扰未终证](qingdi-future-convergence-currentday-beyondshore-bid-interrupted.md) | 第七卷59章证据与表演边界 |
+| [钉头咒干扰青帝与精血召天道眼、陆压痛未死](qingdi-nailhead-curse-hit-blood-vortex-tiandao-luya-pain-not-dead.md) | 第七卷59章证据与表演边界 |
+| [赵齐第三路、魔皇爪污封神榜尚未夺控结果](zhao-qi-thirdroad-devilclaw-contaminates-list-control-pending.md) | 第七卷59章证据与表演边界 |
+| [韩夺台扰关计划与他我印既成自有、非被夺即消](han-altar-imprint-disturbance-plan-owned-imprints-not-erased.md) | 第七卷59章证据与表演边界 |
 | [九灵似受未来信援高、牛图困狮而非狮死](jiuling-future-message-surmise-niuwang-shanhesheji-capture-not-death.md) | 第七卷58章证据与表演边界 |
 | [孟旧符诏哪吒殿守、出战被五色光困未死未脱](nezha-meng-prior-decree-last-defense-fivecolor-captured-not-dead.md) | 第七卷58章证据与表演边界 |
 | [太离五羽全炼与借大圣合催、本人未传说](taili-kongxuan-fivefeathers-refined-loaned-still-below-legend.md) | 第七卷58章证据与表演边界 |
