@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第60章，1224 / 1410 个目录条目，约391.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第61章，1225 / 1410 个目录条目，约391.7万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第61章复核](books/yishizhizun/reviews/review-v07-0061.md)：高览传说踏门、赵按榜遇阎罗争控、孟弹果与三宝第二封印，71段、77句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0061.md)。
 - [第七卷第60章复核](books/yishizhizun/reviews/review-v07-0060.md)：青帝已回当前仍难贯通、孟取果待决与韩灵山握树释魔未成，75段、77句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0060.md)。
 - [第七卷第59章复核](books/yishizhizun/reviews/review-v07-0059.md)：太极镇刀、青帝今日冲彼岸中咒反制与赵齐第三路，68段、71句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0059.md)。
 - [第七卷第58章复核](books/yishizhizun/reviews/review-v07-0058.md)：九灵哪吒援手被兑、韩广敬敌葫芦白光尚未命中，47段、49句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0058.md)。
