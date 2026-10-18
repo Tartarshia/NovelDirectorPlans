@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷59章
+# 角色阶段索引 · 截至第七卷60章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–59章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–60章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐冒险再醒爪、魔阵平衡而未实际堕魔](qi-awakened-claw-dazizai-demon-array-balance-not-corrupted.md) | 第七卷60章证据与表演边界 |
+| [韩备赵草人未施、未料联齐与日后夺榜自信](han-zhao-strawman-backup-unused-board-recapture-only-plan.md) | 第七卷60章证据与表演边界 |
+| [诛仙图上拖四剑、燃灯脱围苦海转攻青帝](randeng-escaped-sword-disruption-bittersea-attacks-qingdi.md) | 第七卷60章证据与表演边界 |
+| [青帝已回当前、药师过去受侵仍难贯通](qingdi-currentnode-return-past-medicine-anchor-still-disconnected.md) | 第七卷60章证据与表演边界 |
+| [孟取扶桑果、金皇一子是明悟且好坏未定](meng-fusang-fruit-in-hand-jinhuang-move-inference-not-given.md) | 第七卷60章证据与表演边界 |
+| [韩长乐两化身与灵山握树、释魔目标尚未完成](han-dualavatars-changle-lingshan-ninebuddha-tree-grasp-not-release.md) | 第七卷60章证据与表演边界 |
 | [金角持太极图金桥镇斩仙白光、高尚未正式终成](jinjiao-boy-taijitu-goldenbridge-stops-zhanxian-not-gao-attainment.md) | 第七卷59章证据与表演边界 |
 | [青帝多未来逆归当下、今日冲彼岸但受干扰未终证](qingdi-future-convergence-currentday-beyondshore-bid-interrupted.md) | 第七卷59章证据与表演边界 |
 | [钉头咒干扰青帝与精血召天道眼、陆压痛未死](qingdi-nailhead-curse-hit-blood-vortex-tiandao-luya-pain-not-dead.md) | 第七卷59章证据与表演边界 |
