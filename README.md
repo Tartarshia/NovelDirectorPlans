@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第92章，1256 / 1410 个目录条目，约400.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第93章，1257 / 1410 个目录条目，约400.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第93章复核](books/yishizhizun/reviews/review-v07-0093.md)：孟可晋主动缓、武匿名友早唤与Gu三支预案，57段、72句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0093.md)。
 - [第七卷第92章复核](books/yishizhizun/reviews/review-v07-0092.md)：Gu正式传说四象、M连破关与清明真武斩酆都尸，50段、51句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0092.md)。
 - [第七卷第91章复核](books/yishizhizun/reviews/review-v07-0091.md)：元阳尺实斩、Gu实出左掌与太极部分实炼，54段、58句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0091.md)。
 - [第七卷第90章复核](books/yishizhizun/reviews/review-v07-0090.md)：菩提尸意识与力量分层、梵名控漏真轮反局簿炸，59段、69句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0090.md)。

@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷92章
+# 角色阶段索引 · 截至第七卷93章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–92章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–93章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [F保命残念彻尽同次斩杀完成、七宝自逃非战利品](fengdu-last-rescue-fails-residual-obsession-ended-seventree-escapes.md) | 第七卷93章证据与表演边界 |
+| [M可即造化但主动缓晋、传说圆满根基继续完善](meng-can-advance-creation-now-chooses-perfect-foundation-still-legend.md) | 第七卷93章证据与表演边界 |
+| [大道树旧除恶念酬不讨回、无声会意非新赐第二树](zhenwu-daotree-old-evilthought-reward-nonverbal-reassurance.md) | 第七卷93章证据与表演边界 |
+| [黄泉重归前匿名友早唤真武、天意感不填姓名](zhenwu-earlyawake-before-huangquan-unnamed-friend-no-identity-reveal.md) | 第七卷93章证据与表演边界 |
+| [真武觅地闭关允不嚼舌、未正式彼岸或永久保密已证](zhenwu-leaves-for-retreat-promises-discretion-not-new-beyondshore.md) | 第七卷93章证据与表演边界 |
+| [Gu考虑三种苏醒分支、原目标证炼脱险不是必杀F](gu-three-zhenwu-waking-scenarios-plan-profit-escape-not-guaranteed-kill.md) | 第七卷93章证据与表演边界 |
 | [原点图实消佛掌、刀裂甲小损不当初斩两断](origin-chart-cancels-bodhi-palm-blade-armor-crack-not-first-death.md) | 第七卷92章证据与表演边界 |
 | [自然投影凝道苦海关接破、正式境名待直接后证](meng-natural-projection-dao-sublimation-bittersea-gates-not-explicit-rank-label.md) | 第七卷92章证据与表演边界 |
 | [顾小桑正式传说四类异象、第四永恒归宿](gu-actual-legend-four-omens-eternal-home-not-two-worlds.md) | 第七卷92章证据与表演边界 |
