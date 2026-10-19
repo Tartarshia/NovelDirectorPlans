@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第77章，1241 / 1410 个目录条目，约396.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第78章，1242 / 1410 个目录条目，约396.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第78章复核](books/yishizhizun/reviews/review-v07-0078.md)：李实际歉任、萧玄萧坤解名与快渡当地雷一，72段、101句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0078.md)。
 - [第七卷第77章复核](books/yishizhizun/reviews/review-v07-0077.md)：九王毕重德解称、火警后证与李传盗读真秘，57段、85句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0077.md)。
 - [第七卷第76章复核](books/yishizhizun/reviews/review-v07-0076.md)：古井吸睡投影受封、无力意识借云集查局，57段、78句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0076.md)。
 - [第七卷第75章复核](books/yishizhizun/reviews/review-v07-0075.md)：始祖逃出亲证、阴阳印所得与苏无名正式传说，48段、55句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0075.md)。
