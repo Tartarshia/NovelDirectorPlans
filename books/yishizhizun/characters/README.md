@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷78章
+# 角色阶段索引 · 截至第七卷79章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–78章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–79章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [裴道通：本界七劫太师、旧裴姓正式全名](pei-daotong-yunji-cosmos.md) | 第七卷79章证据与表演边界 |
+| [鲁四全：风火观主、实际自愿潜藏留京](lu-siquan.md) | 第七卷79章证据与表演边界 |
+| [本界阿难称号灰僧与琉璃灯：外界具身关联未明](closedcosmos-graymonk-called-ananda-and-glasslamp-unresolved.md) | 第七卷79章证据与表演边界 |
+| [李毕鲁实际愿留京、九王未来称帝为Li期待](three-stay-capital-volunteers-li-future-prince-investment.md) | 第七卷79章证据与表演边界 |
+| [本界从一连续渡至七、真实雷劫非本尊新晋](meng-local-steps-second-to-seventh-thunder-not-legend-promotion.md) | 第七卷79章证据与表演边界 |
+| [裴箭穿泡影消散、残雷真实而去处未示](pei-arrow-pierces-bubble-image-real-thunder-no-meng-death-proof.md) | 第七卷79章证据与表演边界 |
 | [萧玄：封闭宇宙天子九王父、旧未名帝解名](xiao-xuan-yunji-cosmos.md) | 第七卷78章证据与表演边界 |
 | [李实际歉拜凑资、求子药讯未买服](li-apology-supplies-herb-request-not-yet-cured-or-loyal-oath.md) | 第七卷78章证据与表演边界 |
 | [出京引裴与内外偷宝仍策、非任务已成](leave-capital-draw-pei-preceptor-hidden-theft-future-strategy.md) | 第七卷78章证据与表演边界 |
