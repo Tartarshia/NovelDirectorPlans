@@ -3,6 +3,49 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "month7-vs9-v07-c0077",
+      "kind": "source_date_inconsistency",
+      "evidence": [
+        "v07-c0077:p0001",
+        "v07-c0077:p0003",
+        "v07-c0077:p0005",
+        "v07-c0077:p0007"
+      ],
+      "source_word": "第3段五年前的七月；第1/5/7段七年九月",
+      "state": "unresolved_source_issue",
+      "director_handling": "保每处原月份与偏移，不私自统一；太康12三月底为当前纪年，不换公历。"
+    },
+    {
+      "id": "bugan-zaici-v07-c0077",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v07-c0077:p0004"
+      ],
+      "source_word": "让在场诸位不敢再次",
+      "state": "unresolved_source_issue",
+      "director_handling": "再次疑造次，保源，后问历史湮节点为Minner不已真改史。"
+    },
+    {
+      "id": "dashi-taishi-v07-c0077",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v07-c0077:p0038"
+      ],
+      "source_word": "当今天子或大师身边",
+      "state": "unresolved_source_issue",
+      "director_handling": "大师疑太师，保源，卫的奸细说是猜非真实敌法师现身。"
+    },
+    {
+      "id": "zhidao-wait-v07-c0077",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v07-c0077:p0046"
+      ],
+      "source_word": "只到孟奇放下书册",
+      "state": "unresolved_source_issue",
+      "director_handling": "只到疑直到，保源，等足一个时辰然后孟坐床非昏死。"
+    },
+    {
       "id": "gujin-v07-c0076",
       "kind": "possible_source_word_error",
       "evidence": [

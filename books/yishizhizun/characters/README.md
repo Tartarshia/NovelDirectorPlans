@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷76章
+# 角色阶段索引 · 截至第七卷77章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–76章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–77章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [毕重德：前灰须首认云集者正式解名](bi-zhongde.md) | 第七卷77章证据与表演边界 |
+| [卫忌：李重康得力属、奸细猜与实际盗书](wei-ji.md) | 第七卷77章证据与表演边界 |
+| [九王：前美髯皇子解称、姓名未名非太子](ninth-prince-yunji-cosmos.md) | 第七卷77章证据与表演边界 |
+| [太康本界雷劫制、许天师死与无名僧物仍谜](taikang-local-thunder-tribulations-xu-death-unnamed-monk-object.md) | 第七卷77章证据与表演边界 |
+| [孟酉前预告、南城观火实发而奸细说仍猜](yunji-warning-southcapital-temple-fires-actual-not-spy-proof.md) | 第七卷77章证据与表演边界 |
+| [李重康传被实际盗走、书面八字人生真秘非咒杀](li-chongkang-biography-stolen-written-private-birth-truth.md) | 第七卷77章证据与表演边界 |
 | [李重康：此宇宙京师藏天观主、口否投诚内心确惧](li-chongkang.md) | 第七卷76章证据与表演边界 |
 | [孟借早坐化云集死躯、无力意识同主体](meng-yunji-dead-body-powerless-awareness-not-living-possession.md) | 第七卷76章证据与表演边界 |
 | [无独立元始投影吸为他我、本界创世非本尊](sleeping-yuanshi-projection-absorbed-imprint-local-creator.md) | 第七卷76章证据与表演边界 |
