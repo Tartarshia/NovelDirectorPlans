@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷82章
+# 角色阶段索引 · 截至第七卷83章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–82章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–83章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [轮回印帝持六面、沿借尸连封内本尊之实险](reincarnation-seal-emperor-holder-links-borrowed-and-sealed-main-body.md) | 第七卷83章证据与表演边界 |
+| [绝刀轮回印本质彼岸、醒造化深浅不等孟新境](jueblade-reincarnation-seal-beyondshore-essence-creation-awakening-gap.md) | 第七卷83章证据与表演边界 |
+| [云集尸与部分意识自毁断连、本尊实脱险](yunji-body-local-awareness-deliberate-death-link-cut-main-body-survives.md) | 第七卷83章证据与表演边界 |
+| [请家长是戏称、实际求援不是新神功](yuxu-request-elder-comic-label-actual-qingdi-audience.md) | 第七卷83章证据与表演边界 |
+| [青帝碧种以封为养实解、似菩提枝非原器归还](qingdi-green-seed-eats-seal-bodhi-like-branch-not-original-artifact.md) | 第七卷83章证据与表演边界 |
+| [魔佛帮手需玉虚关系之推、尚未揭名或目击撤离](mofo-helper-yuxu-access-inference-name-unknown-not-witnessed-flight.md) | 第七卷83章证据与表演边界 |
 | [帝主动许带佛灯、孟误以偷成的信息差](emperor-permits-buddhalamp-removal-not-theft-victory.md) | 第七卷82章证据与表演边界 |
 | [毕重德实摇慑心铃背叛、换持经过未呈](bi-zhongde-betrayal-bell-rung-holder-transfer-not-shown.md) | 第七卷82章证据与表演边界 |
 | [安康坊算命先生：银付已成、三清像骗局未出口](ankang-fortune-teller-silver-paid-statue-scam-only-planned.md) | 第七卷82章证据与表演边界 |
