@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷89章
+# 角色阶段索引 · 截至第七卷90章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–89章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–90章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [酆都菩提三尸之一、彼岸意识而力量未彼岸](fengdu-bodhi-threecorpse-beyondshore-consciousness-not-power-rank.md) | 第七卷90章证据与表演边界 |
+| [七宝妙树有断桠、不同镇魔菩提树与青帝旧枝](seven-treasure-branch-vs-bodhi-tree-not-same-weapon-daotree-trapped.md) | 第七卷90章证据与表演边界 |
+| [特殊梵名主动解封控漏、关键念另封非全读心](zhunti-special-sanskrit-unsealed-controlled-leak-key-thoughts-sealed.md) | 第七卷90章证据与表演边界 |
+| [青帝改史金皇抹忆与彼岸自身三险、前两仍假设](meng-three-dangerous-patron-hypotheses-not-qingdi-jinhuang-confirmed.md) | 第七卷90章证据与表演边界 |
+| [真轮实际掀原点波、刀反击仅抽回书页未救树](lifedeath-wheel-actual-origin-wave-sword-counter-only-page-recovered.md) | 第七卷90章证据与表演边界 |
+| [一次簿实际炸耗、真武紫眼睁尚未出剑](oneshot-page-actually-exploded-zhenwu-purple-eyes-open-not-sword.md) | 第七卷90章证据与表演边界 |
 | [阮玉书正式地仙、近道音所得不Legend](ruan-yushu-actual-earthimmortal-neardao-music-not-legend.md) | 第七卷89章证据与表演边界 |
 | [青帝器联系实断、是祂疑未署身份](qingdi-lifedeathpage-link-actually-severed-unnamed-he-suspicion.md) | 第七卷89章证据与表演边界 |
 | [酆都九尺甲真身与因果黑幕、姓名后台未明](fengdu-armored-trueform-ninechi-causal-darkness-identity-hidden.md) | 第七卷89章证据与表演边界 |
