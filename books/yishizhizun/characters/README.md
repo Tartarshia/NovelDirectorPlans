@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷87章
+# 角色阶段索引 · 截至第七卷88章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–87章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–88章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孙武罗胜衣旧忆与新体糅、十岁入山尚待](sun-wu-luoshengyi-memory-newbody-nineyears-token-future-kunlun.md) | 第七卷88章证据与表演边界 |
+| [三霄三莲真归、首祖助碧唯一仍未来](sanxiao-three-lotus-return-leading-founder-promises-bi-legend.md) | 第七卷88章证据与表演边界 |
+| [广成真醒文殊早两年、玉虚除杨戬皆归](guangcheng-actual-awake-wenshu-two-years-earlier-yuxu-except-yangjian.md) | 第七卷88章证据与表演边界 |
+| [星空仙域墨飞旅与通识赌局、候选非全部新晋](star-domains-mohist-travel-forum-nextlegend-bets-not-promotions.md) | 第七卷88章证据与表演边界 |
+| [投影末步新生自然衍未成、一次簿淬炼非用掉](meng-projection-last-natural-newcosmos-step-page-refinement-unused.md) | 第七卷88章证据与表演边界 |
+| [阮向地仙未成、帝引涡催孟携物投向非已进](ruan-earthimmortal-progress-fengdu-vortex-meng-towards-origin-not-entered.md) | 第七卷88章证据与表演边界 |
 | [三片古府实取、奈何桥碑片留下与二片炼器](xiyou-three-underworld-fragments-fate-sense-nahe-stele-one-retained.md) | 第七卷87章证据与表演边界 |
 | [铁黑僵尸观者与能天帝旧败忆、身份不擅并](beijuluzhou-ironblack-zombie-witness-nengtiandi-prior-failure.md) | 第七卷87章证据与表演边界 |
 | [月光传令与药师实际应炼、功德池水两碎片已投入](moonlight-transmits-medicinebuddha-order-water-two-fragments-actual-refining.md) | 第七卷87章证据与表演边界 |
