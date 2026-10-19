@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷74章
+# 角色阶段索引 · 截至第七卷75章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–74章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–75章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [苏无名：洗剑阁本章正式自证传说](su-wuming.md) | 第七卷75章证据与表演边界 |
+| [始祖直接逃出残三首、有寿重创与臂数源异](asura-progenitor-escape-three-heads-severe-injury-arm-count-conflict.md) | 第七卷75章证据与表演边界 |
+| [原点皮毛融阴阳印、法镜归法身非铸新器](meng-yinyang-seal-mirror-life-death-insight-not-new-artifact.md) | 第七卷75章证据与表演边界 |
+| [留轮道标记录、顾未来隐渡与玄悲赠宝准备](wheel-origin-beacon-recording-gu-future-legend-xuanbei-gift-plans.md) | 第七卷75章证据与表演边界 |
+| [何方回山接令、贺文待送与于齐召归门墙](he-fang-return-congratulation-letter-yu-qi-enrollment-orders.md) | 第七卷75章证据与表演边界 |
+| [古井特殊宇宙助投影仅起念、元始投影独立非本尊](meng-well-special-universe-projection-training-future-not-entered.md) | 第七卷75章证据与表演边界 |
 | [诸天生死轮：造化级绝世真实铸成、留在原点](all-heavens-life-death-wheel.md) | 第七卷74章证据与表演边界 |
 | [黄泉灵光后手猜测与抢泥丸、非幕后已揭](huangquan-purpleeyes-backup-theory-not-mastermind-revealed.md) | 第七卷74章证据与表演边界 |
 | [真武右指剑道灭道生、黄泉无声彻底消亡](zhenwu-finger-daomie-daosheng-huangquan-annihilation.md) | 第七卷74章证据与表演边界 |

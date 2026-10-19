@@ -3,6 +3,37 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "progenitor-arms999-vs990-v07-c0075",
+      "kind": "source_number_inconsistency",
+      "evidence": [
+        "v07-c0072:p0013",
+        "v07-c0075:p0003"
+      ],
+      "source_word": "第72章九百九十只手臂；第75章回述九百九十九条手臂",
+      "state": "unresolved_source_issue",
+      "director_handling": "保留每处数字与偏移哈希，不擅统一/补长左手；第75章现状仅明确手臂稀少，具体残存臂数未给。"
+    },
+    {
+      "id": "gangai-v07-c0075",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v07-c0075:p0009"
+      ],
+      "source_word": "一丝感概",
+      "state": "unresolved_source_issue",
+      "director_handling": "感概疑感慨，保原文与心头内念归属。"
+    },
+    {
+      "id": "dedao-zhengfen-v07-c0075",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v07-c0075:p0017"
+      ],
+      "source_word": "当然得到争分夺秒",
+      "state": "unresolved_source_issue",
+      "director_handling": "到疑多字应得争分夺秒，保原文偏移；实际阴阳印精进非新artifact。"
+    },
+    {
       "id": "pashan-gaofeng-v07-c0074",
       "kind": "possible_source_word_error",
       "evidence": [
