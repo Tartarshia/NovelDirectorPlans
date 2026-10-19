@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷83章
+# 角色阶段索引 · 截至第七卷84章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–83章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–84章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [李毕鲁裴帝灭口实死、九王仅监禁存活](closedcosmos-five-deaths-causal-erasure-nine-prince-survives.md) | 第七卷84章证据与表演边界 |
+| [燃灯帮手画像无证、嫁祸与无生母线仍可能](randeng-helper-profile-no-evidence-alternatives-not-verdict.md) | 第七卷84章证据与表演边界 |
+| [九王未入书房生存与复合情绪、僧灭口仅孟说辞](ninth-prince-detained-mixed-grief-relief-meng-cover-account.md) | 第七卷84章证据与表演边界 |
+| [九最古宇宙绝控阈值、时河窍古气不等新造化](nine-oldest-universes-control-time-rivers-ancient-aura-rank-limits.md) | 第七卷84章证据与表演边界 |
+| [青帝树枝本章实际归扶桑、非永久持有](qingdi-seed-branch-returns-fusang-not-permanent-gift.md) | 第七卷84章证据与表演边界 |
+| [小桑先天德似炼满、将突破未正式晋境](gu-xiaosang-innatevirtue-seems-ready-breakthrough-not-attained.md) | 第七卷84章证据与表演边界 |
 | [轮回印帝持六面、沿借尸连封内本尊之实险](reincarnation-seal-emperor-holder-links-borrowed-and-sealed-main-body.md) | 第七卷83章证据与表演边界 |
 | [绝刀轮回印本质彼岸、醒造化深浅不等孟新境](jueblade-reincarnation-seal-beyondshore-essence-creation-awakening-gap.md) | 第七卷83章证据与表演边界 |
 | [云集尸与部分意识自毁断连、本尊实脱险](yunji-body-local-awareness-deliberate-death-link-cut-main-body-survives.md) | 第七卷83章证据与表演边界 |
