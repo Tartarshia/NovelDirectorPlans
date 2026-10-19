@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷94章
+# 角色阶段索引 · 截至第七卷95章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–94章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–95章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟五印真正升近道、诛仙四剑部分融最终未正式造化](meng-fiveprints-neardao-four-swords-partial-final-not-creation.md) | 第七卷95章证据与表演边界 |
+| [孙武三叩九拜正式入门只选八九、七戒不补省略](sun-wu-formal-admission-sevenrules-only-two-given-chooses-bajiu.md) | 第七卷95章证据与表演边界 |
+| [四同门当前境：何方大宗师、于初宗师、齐绝顶高手](yuxu-four-senior-disciples-current-ranks-hefang-grandmaster-yu-master-qi-elite.md) | 第七卷95章证据与表演边界 |
+| [根树元老形象与犬传说师兄、孙童体旧阅称呼](daqinggen-elder-image-xiaotian-legend-seniority-sun-child-reactions.md) | 第七卷95章证据与表演边界 |
+| [商城高价幼禽瑞兽书面悬赏、发帖者未明非已买得](market-young-spirit-birds-beasts-bounty-written-unnamed-poster.md) | 第七卷95章证据与表演边界 |
+| [犬受孟命持符诏潜地府、任务已发未执行查得](xiaotian-ordered-edict-infiltrate-underworld-no-result-yet.md) | 第七卷95章证据与表演边界 |
 | [孟顾十指相扣：平等互扶宣言与含笑回应](meng-gu-interlocked-hands-equal-mutual-support-not-dependence.md) | 第七卷94章证据与表演边界 |
 | [实返玉虚：顾德积耗尽左窍闭稳、孟完根未造化](meng-gu-return-yuxu-hidden-palm-retreat-not-creation-yet.md) | 第七卷94章证据与表演边界 |
 | [根犬眼闪为甜蜜调侃、玄悲净土讲经犬暂返](daqinggen-xiaotian-couple-glow-joke-xuanbei-preaching-offscreen.md) | 第七卷94章证据与表演边界 |
