@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷90章
+# 角色阶段索引 · 截至第七卷91章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–90章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–91章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [元阳尺真武紫剑借力实明、魔佛防第一为旧评](yuanyang-ruler-zhenwu-purple-sword-power-actual-artifact-identity.md) | 第七卷91章证据与表演边界 |
+| [斩道见我与六轮本灵实碰、非永久灭原点甲躯](zhenwu-zhandaowojian-fengdu-conscious-light-sixvortex-clash-not-death.md) | 第七卷91章证据与表演边界 |
+| [Gu实际出左窍置生侧、今生果内感不外传](gu-actual-leftpalm-exit-safe-life-meng-death-jinsheng-link.md) | 第七卷91章证据与表演边界 |
+| [菩提借尸暗藏近彼岸佛光掌、非F新彼岸境](bodhi-hidden-nearbeyondshore-light-palm-fengdu-corpse-not-rankup.md) | 第七卷91章证据与表演边界 |
+| [簿碎暗护一两刹那散尽、非神兵复活](lifedeathpage-fragment-last-rescue-moment-not-restored-permanent.md) | 第七卷91章证据与表演边界 |
+| [无极初始最终生死太极、部分原点实炼暂借力](wuji-initial-final-lifedeath-taiji-partial-origin-refining-actual.md) | 第七卷91章证据与表演边界 |
 | [酆都菩提三尸之一、彼岸意识而力量未彼岸](fengdu-bodhi-threecorpse-beyondshore-consciousness-not-power-rank.md) | 第七卷90章证据与表演边界 |
 | [七宝妙树有断桠、不同镇魔菩提树与青帝旧枝](seven-treasure-branch-vs-bodhi-tree-not-same-weapon-daotree-trapped.md) | 第七卷90章证据与表演边界 |
 | [特殊梵名主动解封控漏、关键念另封非全读心](zhunti-special-sanskrit-unsealed-controlled-leak-key-thoughts-sealed.md) | 第七卷90章证据与表演边界 |

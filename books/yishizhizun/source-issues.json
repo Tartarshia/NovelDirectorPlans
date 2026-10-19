@@ -3,6 +3,18 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "blade-suppression-transition-v07-c0091",
+      "kind": "possible_source_continuity_gap",
+      "evidence": [
+        "v07-c0090:p0030",
+        "v07-c0090:p0048",
+        "v07-c0091:p0044"
+      ],
+      "source_word": "放弃镇压大道之树与霸王绝刀",
+      "state": "unresolved_source_issue",
+      "director_handling": "90明刷树簿、孟刀冲取簿，91明放树刀压，中间刀怎样受压省略；保各章原文偏移哈希，不回写90刀已困或改91刀为簿。"
+    },
+    {
       "id": "yuqi-jingzhong-v07-c0090",
       "kind": "possible_source_word_error",
       "evidence": [
