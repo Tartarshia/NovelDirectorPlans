@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷86章
+# 角色阶段索引 · 截至第七卷87章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–86章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–87章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [三片古府实取、奈何桥碑片留下与二片炼器](xiyou-three-underworld-fragments-fate-sense-nahe-stele-one-retained.md) | 第七卷87章证据与表演边界 |
+| [铁黑僵尸观者与能天帝旧败忆、身份不擅并](beijuluzhou-ironblack-zombie-witness-nengtiandi-prior-failure.md) | 第七卷87章证据与表演边界 |
+| [月光传令与药师实际应炼、功德池水两碎片已投入](moonlight-transmits-medicinebuddha-order-water-two-fragments-actual-refining.md) | 第七卷87章证据与表演边界 |
+| [一次“生死簿”已炼收、不是酆都真本](oneshot-lifedeath-page-not-fengdu-real-book-actual-acquired.md) | 第七卷87章证据与表演边界 |
+| [酆都后台穷举与未名警觉、念处理不揭真凶](fengdu-patron-enumeration-unnamed-alarm-thought-handling-not-reveal.md) | 第七卷87章证据与表演边界 |
+| [数年后阮玉书准备踏破人仙关、非已晋境](ruan-yushu-years-later-retreat-humanimmortal-barrier-preparation.md) | 第七卷87章证据与表演边界 |
 | [传说造化彼岸门槛分层、孟尚未新境](legend-creation-beyondshore-thresholds-meng-not-new-attainment.md) | 第七卷86章证据与表演边界 |
 | [你我拟炼部分原点生死、目标披露而非已成](gu-meng-shared-partial-origin-refinement-benefit-plan-not-achieved.md) | 第七卷86章证据与表演边界 |
 | [Gu称真武道性恢复数十年、引斩酆都未试](gu-zhenwu-dao-instinct-decades-recovery-trigger-sword-theory.md) | 第七卷86章证据与表演边界 |
