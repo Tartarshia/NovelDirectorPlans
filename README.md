@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第88章，1252 / 1410 个目录条目，约399.0万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第89章，1253 / 1410 个目录条目，约399.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第89章复核](books/yishizhizun/reviews/review-v07-0089.md)：阮实地仙、器连实断与原点贪心威胁未战，52段、64句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0089.md)。
 - [第七卷第88章复核](books/yishizhizun/reviews/review-v07-0088.md)：孙罗旧忆新生、三霄广成归来与携物投涡，63段、78句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0088.md)。
 - [第七卷第87章复核](books/yishizhizun/reviews/review-v07-0087.md)：三残片实取、一次生死簿成与数年后阮备关，55段、59句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0087.md)。
 - [第七卷第86章复核](books/yishizhizun/reviews/review-v07-0086.md)：双方原点图益与明护身暗轮方案、实际出山寻料，40段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0086.md)。

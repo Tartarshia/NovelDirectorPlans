@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷88章
+# 角色阶段索引 · 截至第七卷89章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–88章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–89章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮玉书正式地仙、近道音所得不Legend](ruan-yushu-actual-earthimmortal-neardao-music-not-legend.md) | 第七卷89章证据与表演边界 |
+| [青帝器联系实断、是祂疑未署身份](qingdi-lifedeathpage-link-actually-severed-unnamed-he-suspicion.md) | 第七卷89章证据与表演边界 |
+| [酆都九尺甲真身与因果黑幕、姓名后台未明](fengdu-armored-trueform-ninechi-causal-darkness-identity-hidden.md) | 第七卷89章证据与表演边界 |
+| [原点阴阳庆云绝刀簿护持、未示页耗尽](origin-meng-defense-sequence-page-used-protection-not-shown-exhausted.md) | 第七卷89章证据与表演边界 |
+| [酆都贪心论纠解、双道与真武长失自保](fengdu-greed-explanation-dualdao-zhenwu-long-unprotected-not-deep-only.md) | 第七卷89章证据与表演边界 |
+| [杀真武与玉虚威胁、明确未暗带诸强未开战](fengdu-killing-intent-no-hidden-yuxu-helpers-no-attack-yet.md) | 第七卷89章证据与表演边界 |
 | [孙武罗胜衣旧忆与新体糅、十岁入山尚待](sun-wu-luoshengyi-memory-newbody-nineyears-token-future-kunlun.md) | 第七卷88章证据与表演边界 |
 | [三霄三莲真归、首祖助碧唯一仍未来](sanxiao-three-lotus-return-leading-founder-promises-bi-legend.md) | 第七卷88章证据与表演边界 |
 | [广成真醒文殊早两年、玉虚除杨戬皆归](guangcheng-actual-awake-wenshu-two-years-earlier-yuxu-except-yangjian.md) | 第七卷88章证据与表演边界 |
