@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第85章，1249 / 1410 个目录条目，约398.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第86章，1250 / 1410 个目录条目，约398.5万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第86章复核](books/yishizhizun/reviews/review-v07-0086.md)：双方原点图益与明护身暗轮方案、实际出山寻料，40段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0086.md)。
 - [第七卷第85章复核](books/yishizhizun/reviews/review-v07-0085.md)：夫妻原点方案复核、拒无恶先害与延后隐证，48段、82句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0085.md)。
 - [第七卷第84章复核](books/yishizhizun/reviews/review-v07-0084.md)：灭口实果与无证燃灯画像、最古九界与Gu将破，49段、60句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0084.md)。
 - [第七卷第83章复核](books/yishizhizun/reviews/review-v07-0083.md)：自断借尸连线、本尊脱险与青帝种实际破封，64段、69句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0083.md)。

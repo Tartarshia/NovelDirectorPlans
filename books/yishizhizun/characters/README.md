@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷85章
+# 角色阶段索引 · 截至第七卷86章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–85章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–86章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [传说造化彼岸门槛分层、孟尚未新境](legend-creation-beyondshore-thresholds-meng-not-new-attainment.md) | 第七卷86章证据与表演边界 |
+| [你我拟炼部分原点生死、目标披露而非已成](gu-meng-shared-partial-origin-refinement-benefit-plan-not-achieved.md) | 第七卷86章证据与表演边界 |
+| [Gu称真武道性恢复数十年、引斩酆都未试](gu-zhenwu-dao-instinct-decades-recovery-trigger-sword-theory.md) | 第七卷86章证据与表演边界 |
+| [公开求护宝故事、隐Gu与真轮未实际请求](public-qingdi-protection-artifact-plan-conceals-gu-and-real-wheel.md) | 第七卷86章证据与表演边界 |
+| [青帝保命标与酆都幕后断联都只是方案预测](qingdi-possible-beacon-fengdu-peer-blockade-prediction-not-event.md) | 第七卷86章证据与表演边界 |
+| [八宝池阳生古府碎阴死、孟已动身未获材料](eightmerit-pool-water-underworld-fragments-meng-departs-not-obtained.md) | 第七卷86章证据与表演边界 |
 | [九品浅莲闺房笑、孟夫妻相处初始口花半止](gu-lotus-abode-flirt-meng-awkward-couple-early-acquaintance.md) | 第七卷85章证据与表演边界 |
 | [酆都或彼岸代言由记忆空白推、真身仍未名](fengdu-beyondshore-proxy-inference-identity-not-confirmed.md) | 第七卷85章证据与表演边界 |
 | [纪元大道树原点食欲、上次骨身未携与已知防备](era-dadao-tree-origin-appetite-no-prior-carry-unproven-contingency.md) | 第七卷85章证据与表演边界 |
