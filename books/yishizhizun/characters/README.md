@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷75章
+# 角色阶段索引 · 截至第七卷76章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–75章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–76章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [李重康：此宇宙京师藏天观主、口否投诚内心确惧](li-chongkang.md) | 第七卷76章证据与表演边界 |
+| [孟借早坐化云集死躯、无力意识同主体](meng-yunji-dead-body-powerless-awareness-not-living-possession.md) | 第七卷76章证据与表演边界 |
+| [无独立元始投影吸为他我、本界创世非本尊](sleeping-yuanshi-projection-absorbed-imprint-local-creator.md) | 第七卷76章证据与表演边界 |
+| [时河根封印隔投影力、可离但重入仍封位](closed-universe-temporal-seal-powerblocked-consciousness-loophole.md) | 第七卷76章证据与表演边界 |
+| [封闭宇宙皇子与观天者、灰须道人各自未名](yunji-cosmos-imperial-son-palace-omen-reader-graybeard-unidentified.md) | 第七卷76章证据与表演边界 |
+| [封处信息知常而变数难、七年九月异物仍问](meng-universe-information-variable-emperor-seventhyear-ninthmonth-question.md) | 第七卷76章证据与表演边界 |
 | [苏无名：洗剑阁本章正式自证传说](su-wuming.md) | 第七卷75章证据与表演边界 |
 | [始祖直接逃出残三首、有寿重创与臂数源异](asura-progenitor-escape-three-heads-severe-injury-arm-count-conflict.md) | 第七卷75章证据与表演边界 |
 | [原点皮毛融阴阳印、法镜归法身非铸新器](meng-yinyang-seal-mirror-life-death-insight-not-new-artifact.md) | 第七卷75章证据与表演边界 |
