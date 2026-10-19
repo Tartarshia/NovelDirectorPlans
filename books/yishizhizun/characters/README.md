@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷80章
+# 角色阶段索引 · 截至第七卷81章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–80章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–81章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [王元福与秦假仙：官属一劫四劫、实死证据分层](wang-yuanfu-qin-jiaxian-officials-death-evidence-not-city-massacre.md) | 第七卷81章证据与表演边界 |
+| [搜天仙瞳：玉皇拳七淬强目、本案无踪实败](soutian-immortal-eye-pei-traces-fail-not-universal-omniscience.md) | 第七卷81章证据与表演边界 |
+| [白玉短剑官影消息、延迟使裴追空](whitejade-sword-message-official-image-delay-actual-evaded-pursuit.md) | 第七卷81章证据与表演边界 |
+| [李毕鲁宦装真潜宫、不同王同行路线](three-eunuch-disguises-real-palace-entry-other-routes-weakened-defense.md) | 第七卷81章证据与表演边界 |
+| [华妃：九王所述帝近爱妃号、当夜人身状态未示](hua-fei-yunji-cosmos.md) | 第七卷81章证据与表演边界 |
+| [佯袭帝气全解始知七、李见灯灰僧拦未盗](palace-raid-emperor-seventhtrial-graymonk-blocks-lamp-not-taken.md) | 第七卷81章证据与表演边界 |
 | [慑心铃：本界阿难真出示、分身神效力尚未实演](shexin-bell.md) | 第七卷80章证据与表演边界 |
 | [裴辨眼下七劫上限准确、故降修为解释仍猜](pei-correct-current-seventrial-cap-wrong-reduction-method-hypothesis.md) | 第七卷80章证据与表演边界 |
 | [七劫勉成近枯、借生死雷掩真实逃回院](meng-seven-trial-exhaustion-lifedeath-recovery-thunder-covered-escape.md) | 第七卷80章证据与表演边界 |
