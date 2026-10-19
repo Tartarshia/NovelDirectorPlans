@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷79章
+# 角色阶段索引 · 截至第七卷80章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–79章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–80章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [慑心铃：本界阿难真出示、分身神效力尚未实演](shexin-bell.md) | 第七卷80章证据与表演边界 |
+| [裴辨眼下七劫上限准确、故降修为解释仍猜](pei-correct-current-seventrial-cap-wrong-reduction-method-hypothesis.md) | 第七卷80章证据与表演边界 |
+| [七劫勉成近枯、借生死雷掩真实逃回院](meng-seven-trial-exhaustion-lifedeath-recovery-thunder-covered-escape.md) | 第七卷80章证据与表演边界 |
+| [心理败种可扰本界裴、传说有时自审即除](psychological-defeat-seed-limits-legend-self-audit.md) | 第七卷80章证据与表演边界 |
+| [炎龙载孟真出京、猎亲信逼裴仍未来](meng-fire-dragon-actual-capital-exit-guerrilla-targets-future.md) | 第七卷80章证据与表演边界 |
+| [萧坤故结巴遮今合谋、幼见真假不全明](xiao-kun-feigned-stammer-childhood-recognition-cover-story.md) | 第七卷80章证据与表演边界 |
 | [裴道通：本界七劫太师、旧裴姓正式全名](pei-daotong-yunji-cosmos.md) | 第七卷79章证据与表演边界 |
 | [鲁四全：风火观主、实际自愿潜藏留京](lu-siquan.md) | 第七卷79章证据与表演边界 |
 | [本界阿难称号灰僧与琉璃灯：外界具身关联未明](closedcosmos-graymonk-called-ananda-and-glasslamp-unresolved.md) | 第七卷79章证据与表演边界 |
