@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷112章
+# 角色阶段索引 · 截至第七卷113章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–112章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–113章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [九头九凤九头虫为九璃讲史、非九灵古府主未核](jiutou-jiufeng-jiutouchong-jiuli-history-not-jiuling-estate-owner-unconfirmed.md) | 第七卷113章证据与表演边界 |
+| [长辈遣小辈避觊觎、孟布机缘仍何推](demon-elders-send-juniors-avoid-observers-meng-opportunity-plan-only-hemu-inference.md) | 第七卷113章证据与表演边界 |
+| [古府残禁大概妖王转述、非现场测已绝对安全](jiuli-estate-restrictions-around-demonking-report-not-safety-proven.md) | 第七卷113章证据与表演边界 |
+| [何要安全凤凰五德诺可信、非正式因果誓](hemu-jiuli-fivevirtue-promise-no-backstabbing-ordinary-trust-not-formal-vow.md) | 第七卷113章证据与表演边界 |
+| [九璃敖秦同阻立誓防孟、妖皇符备选被何拒](jiuli-aoqin-joint-no-vow-meng-sensing-yaohuang-ward-option-refused.md) | 第七卷113章证据与表演边界 |
+| [何师父私嘀咕借剑泛称赐、船起未至未曝身份](hemu-private-master-murmur-loaned-sword-colloquial-gift-ship-departs-not-arrived.md) | 第七卷113章证据与表演边界 |
 | [何市价购犬气泥D装代求、掘土遮羞非免费](hemu-daqinggen-marketprice-dog-scent-soil-coverstory-not-free-gift.md) | 第七卷112章证据与表演边界 |
 | [龙凤玉佩改妖气半年、传说不留意可瞒非绝对](meng-dragon-phoenix-jade-masks-human-aura-sixmonths-unattentive-legend-limit.md) | 第七卷112章证据与表演边界 |
 | [何借离仙护星空十日登妖船、本身未人仙](hemu-lixian-protected-space-ten-days-demonship-not-humanimmortal.md) | 第七卷112章证据与表演边界 |

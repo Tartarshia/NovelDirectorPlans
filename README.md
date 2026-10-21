@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第112章，1276 / 1410 个目录条目，约405.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第113章，1277 / 1410 个目录条目，约405.9万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第113章复核](books/yishizhizun/reviews/review-v07-0113.md)：九凤九头虫讲史、长辈遣子与无誓合作船启未达，55段、95句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0113.md)。
 - [第七卷第112章复核](books/yishizhizun/reviews/review-v07-0112.md)：市价犬气泥半年佩、月落何真外游登九璃妖船与等级亲缘边界，68段、112句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0112.md)。
 - [第七卷第111章复核](books/yishizhizun/reviews/review-v07-0111.md)：实拜道德李聃问悟、八九后篇取鉴条件与何备未行，46段、64句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0111.md)。
 - [第七卷第110章复核](books/yishizhizun/reviews/review-v07-0110.md)：半年封榜韩窥遮、昆仑宝库贡献及二郎未解问后访道德启程，62段、83句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0110.md)。
