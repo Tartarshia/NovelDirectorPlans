@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷117章
+# 角色阶段索引 · 截至第七卷118章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–117章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–118章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [八九哮天气改肉身内景、无灵规则验条件非何晋仙](hemu-bajiu-xiaotian-aura-body-interior-inert-rule-acceptance-not-attainment.md) | 第七卷118章证据与表演边界 |
+| [妖神残气半真说辞示威、众增信仍未知人族](hemu-false-demon-remnant-aura-story-trust-not-true-tiangou.md) | 第七卷118章证据与表演边界 |
+| [假吞日实袖里乾坤带众过、孟旧换术非本章交易](hemu-fake-swallowday-real-sleeve-cosmos-transports-team.md) | 第七卷118章证据与表演边界 |
+| [风骨不弃队兼为安全、警异常即退似成领队](hemu-cooperation-integrity-caution-emerging-leadership-not-safety-guarantee.md) | 第七卷118章证据与表演边界 |
+| [九霄失灵锈剑暂收未分、珍器材料皆像岁蚀](jiuxiao-dead-sword-ancient-script-collected-awaiting-division.md) | 第七卷118章证据与表演边界 |
+| [禁飞一时辰登顶见鼓胀丘、未知孕物机缘未定](ancient-heaven-summit-cloud-hill-gestating-unknown-opportunity-question.md) | 第七卷118章证据与表演边界 |
 | [五德乾坤扇未绝世天仙级、九璃实际引血煞](jiuli-fivevirtues-fan-celestial-not-peer-weapon-actual-bloodsha-trigger.md) | 第七卷117章证据与表演边界 |
 | [何借离仙五行剑实际破阵开门、傲者具能](hemu-lixian-fiveelements-sword-actual-doorbreak-team-capability.md) | 第七卷117章证据与表演边界 |
 | [八头八尾蛇本名未给、近传说判断与圣德退避](eighthead-eighttail-ancient-snake-unknown-name-nearlegend-saintvirtue-retreat.md) | 第七卷117章证据与表演边界 |
