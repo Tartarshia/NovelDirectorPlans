@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷123章
+# 角色阶段索引 · 截至第七卷124章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–123章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–124章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾源明大宗师、真王神箓可短地仙非本身晋](gu-changqing-grandmaster-emperor-decree-temporary-earthimmortal-not-attainment.md) | 第七卷124章证据与表演边界 |
+| [子悦已改唐姓苏离仍父、少林玄悲年拜顾拒西堡](tangziyue-restored-surname-suli-father-xuanbei-yearly-visits-gu-fort-refusal.md) | 第七卷124章证据与表演边界 |
+| [浣花当街杀人报与缉拿、刑部裁决未有判刑](huanhua-street-killing-arrest-order-xingbu-split-not-verdict-or-revenge.md) | 第七卷124章证据与表演边界 |
+| [穆云乐未法身依法顾姪、道侣理想系孟旧影](mu-yunle-not-yet-fashen-law-and-companion-ideal-meng-old-memory.md) | 第七卷124章证据与表演边界 |
+| [未名胖真传食欲玩笑、阮饕餮商号非已判牢](huanhua-fat-disciple-food-jokes-ruan-taotie-commerce-not-already-imprisoned.md) | 第七卷124章证据与表演边界 |
+| [高说开窍以下虚拟战已有成、快半年仍未示交榜](gaolan-virtual-combat-kaiqiao-and-below-working-near-halfyear-no-list-yet.md) | 第七卷124章证据与表演边界 |
 | [唐明月：邑城现家主外景、儿女双全失兄难答](tang-mingyue.md) | 第七卷123章证据与表演边界 |
 | [顾长青：大周三十六神捕主神都、积年半步父亲](gu-changqing.md) | 第七卷123章证据与表演边界 |
 | [顾苏同五六岁与未名新生妹妹、母答二舅英雄](gu-sutong-and-newborn-sister-family-meng-second-uncle.md) | 第七卷123章证据与表演边界 |
