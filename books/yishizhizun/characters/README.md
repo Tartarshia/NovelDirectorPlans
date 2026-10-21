@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷120章
+# 角色阶段索引 · 截至第七卷121章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–120章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–121章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [九凤集昊天血复主或培虚果、孟缺关键未定](jiufeng-haotian-blood-revival-or-fruit-cultivation-two-unresolved-hypotheses.md) | 第七卷121章证据与表演边界 |
+| [血桃见死血怒激时河无灵回声、非活东皇本人](bloodpeach-time-river-haotian-hatred-unliving-echo-not-donghuang-revival.md) | 第七卷121章证据与表演边界 |
+| [东皇关联近断、未熟虚果及置桃者仍疑](bloodpeach-donghuang-association-nearly-certain-incomplete-fruit-still-question.md) | 第七卷121章证据与表演边界 |
+| [唤血忆失败、自炼左窍与最后青莲培余未出物](meng-haotian-memory-attempt-fails-blood-refinement-leftaperture-last-lotus-seed.md) | 第七卷121章证据与表演边界 |
+| [何九璃体血跨界联系、非九璃真到玉虚](hemu-jiuli-haotian-blood-interrealm-communication-not-physical-arrival.md) | 第七卷121章证据与表演边界 |
+| [何仅融合需长炼、无师遁人间待晋为掩饰未来](hemu-only-fusion-long-refinement-cover-humanrealm-emperor-protection-future.md) | 第七卷121章证据与表演边界 |
 | [诸果因影响请神联source明、孟末持昊天死血](meng-causal-influence-spirit-summoning-connection-confirmed-haotian-blood-held.md) | 第七卷120章证据与表演边界 |
 | [辉光北极真Legend到府仍受法限、枯骨龙鱼不能同瞬至](huiguang-beiji-legend-arrival-estate-rule-limits-kugu-longyu-not-ubiquitous.md) | 第七卷120章证据与表演边界 |
 | [鹏造化欲搬府牛掌阻、义兄厚谊仍各利益](peng-creation-estate-removal-blocked-by-niu-brotherhood-interests.md) | 第七卷120章证据与表演边界 |
