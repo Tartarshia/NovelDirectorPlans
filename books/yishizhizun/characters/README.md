@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷125章
+# 角色阶段索引 · 截至第七卷126章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–125章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–126章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [高实际接榜左手剑祭第一步、台中央弥上四重构](gaolan-actually-receives-list-altar-firststep-platform-reconstruction-not-final.md) | 第七卷126章证据与表演边界 |
+| [表静接榜不等全古者弃局、历史改写只是观者可能](apparently-calm-list-descent-hidden-history-rewrite-hypothesis-not-shown.md) | 第七卷126章证据与表演边界 |
+| [青帝东方琉璃实际镜定天道怪、非杀灭本体到台](qingdi-eastern-glass-world-mirror-fixes-tiandao-monster-not-killed.md) | 第七卷126章证据与表演边界 |
+| [孟运因抓共鸣欲进第三天、未已开最上封印](meng-resonance-third-heaven-entry-plan-not-yet-entered.md) | 第七卷126章证据与表演边界 |
+| [韩待统天权柄变机明、三身已融合两象现终境待证](hanguang-awaited-humanway-heavenpower-window-threebodies-merged-two-omens.md) | 第七卷126章证据与表演边界 |
+| [琉璃舍利菩提子馈主未名、刀照印影伪彼岸阻木](hanguang-unknown-donors-relic-bodhi-knife-seal-image-nineyou-pseudopeers.md) | 第七卷126章证据与表演边界 |
 | [秦宽寂寞剑客新榜、末劫借酒放弃与严未弃](qinkuan-lonely-swordsman-new-ranking-drunk-epoch-hedonism-not-world-verdict.md) | 第七卷125章证据与表演边界 |
 | [严冲王载皆大宗师临关互勉、补教化未晋法身](yan-chong-wangzai-grandmasters-mutual-threshold-education-not-fashen-yet.md) | 第七卷125章证据与表演边界 |
 | [王载明报何九法身有无相剑气真体、非现场晋镜](hejiu-youwuxiang-swordqi-truebody-fashen-reported-dayold-news.md) | 第七卷125章证据与表演边界 |
