@@ -3,6 +3,16 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "lianxi-v07-c0127",
+      "kind": "possible_source_word_error",
+      "evidence": [
+        "v07-c0127:p0008"
+      ],
+      "source_word": "联系两次交手",
+      "state": "unresolved_source_issue",
+      "director_handling": "联系疑连续，保原哈希偏移，不据联系另造全新连线法宝。"
+    },
+    {
       "id": "word-forms-v07-c0126",
       "kind": "possible_source_word_error",
       "evidence": [

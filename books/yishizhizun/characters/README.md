@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷126章
+# 角色阶段索引 · 截至第七卷127章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–126章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–127章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [青木明确青帝、玄冥黑天真逆时战改过去](qingdi-greenwood-confirmed-xuanming-heitian-actual-past-collisions.md) | 第七卷127章证据与表演边界 |
+| [悟空入幽魔猿区域伪彼岸、棒凝韩被二伪牵缠](wukong-nineyou-demonape-effective-pseudopeer-not-formal-peer.md) | 第七卷127章证据与表演边界 |
+| [韩正式传说主宰道体、神魔来朝为第二类异象](hanguang-formal-legend-zhuzai-daoti-godsdemons-attendance-second-class-omen.md) | 第七卷127章证据与表演边界 |
+| [高榜台彻融、紫薇雷神容量少五帝三清不可封](gaolan-list-platform-fused-upper-godlimits-starofficial-mortal-cap.md) | 第七卷127章证据与表演边界 |
+| [孟真入第三广文弥等同至、灰殿最上仍未开](meng-actual-enters-thirdheaven-guang-wen-mile-arrive-upperseal-not-open.md) | 第七卷127章证据与表演边界 |
+| [高实放缓韩读第三方制衡、上古各人角色未揭](gao-slows-fusion-han-thirdparty-balance-reading-not-explicit-alliance.md) | 第七卷127章证据与表演边界 |
 | [高实际接榜左手剑祭第一步、台中央弥上四重构](gaolan-actually-receives-list-altar-firststep-platform-reconstruction-not-final.md) | 第七卷126章证据与表演边界 |
 | [表静接榜不等全古者弃局、历史改写只是观者可能](apparently-calm-list-descent-hidden-history-rewrite-hypothesis-not-shown.md) | 第七卷126章证据与表演边界 |
 | [青帝东方琉璃实际镜定天道怪、非杀灭本体到台](qingdi-eastern-glass-world-mirror-fixes-tiandao-monster-not-killed.md) | 第七卷126章证据与表演边界 |
