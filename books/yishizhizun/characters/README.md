@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷100章
+# 角色阶段索引 · 截至第七卷101章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–100章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–101章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [千眼八鳞肢载体玄冥种确主、未源被余波杀](thousandeye-eightlimb-carrier-xuanming-seed-owner-confirmed-not-killed.md) | 第七卷101章证据与表演边界 |
+| [九乱失序不愚蠢、反常实袭玄冥非必守制衡](jiuluan-chaotic-not-stupid-attacks-xuanming-unpredictable-intelligent.md) | 第七卷101章证据与表演边界 |
+| [孟引原点轮黄泉声东、停诸因过玄冥审真入主体](lifedeath-wheel-diversion-huangquan-sixwatchers-xuanming-scan-passed.md) | 第七卷101章证据与表演边界 |
+| [齐抗爪噩梦非真弑亲友、共享痛苦四件教化实践](qi-daily-claw-nightmares-shared-pain-four-redrange-practices.md) | 第七卷101章证据与表演边界 |
+| [齐知暗种有大自在审、借其让旧强听观念](qi-knows-hidden-seeds-dazizai-checks-ideas-reach-oldpowers.md) | 第七卷101章证据与表演边界 |
+| [孟借载体口问阎魔后遁出、真见齐赵问榜未谈成](meng-carrier-voice-yanmo-questions-exit-body-actual-qi-zhao-meeting.md) | 第七卷101章证据与表演边界 |
 | [元始天魔九幽外加短造化、无极中游非本根永久晋](meng-yuanshi-tianmo-nether-boost-temporary-creation-intrinsic-legend.md) | 第七卷100章证据与表演边界 |
 | [九乱玄冥黑天三旧伪彼岸、非真彼岸本体实拍](nether-three-old-pseudo-beyondshore-jiuluan-xuanming-heitian.md) | 第七卷100章证据与表演边界 |
 | [第四血魔新强、吞天杀遗蜕仍孟猜非确证](blood-demon-fourth-watcher-tiansha-remains-consumption-meng-guess.md) | 第七卷100章证据与表演边界 |
