@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第121章，1285 / 1410 个目录条目，约408.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第122章，1286 / 1410 个目录条目，约408.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第122章复核](books/yishizhizun/reviews/review-v07-0122.md)：新外景商享旧园、宋家主忆特权衰落哭唱与张劝科举书院，58段、85句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0122.md)。
 - [第七卷第121章复核](books/yishizhizun/reviews/review-v07-0121.md)：桃怒时河无灵回声与东皇关联、血忆失败分流及何九璃血联，56段、80句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0121.md)。
 - [第七卷第120章复核](books/yishizhizun/reviews/review-v07-0120.md)：因果影响祭联、各融血府毁何返孟持昊天上纪元死血，76段、92句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0120.md)。
 - [第七卷第119章复核](books/yishizhizun/reviews/review-v07-0119.md)：祭坛降祖部分力破壳露血、欲取时联系断与孟神光切镜，51段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0119.md)。
