@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷106章
+# 角色阶段索引 · 截至第七卷107章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–106章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–107章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [无极虚道归一、杨戬八九先例非老师本人降临](meng-wuji-virtualdao-unification-yangjian-bajiu-precedent-not-yuanshi-return.md) | 第七卷107章证据与表演边界 |
+| [广自嘲稳妥、赤玉文不同造化道路与末劫选择](yuxu-guangcheng-selfmockery-chijing-yuding-wenshu-distinct-foundations.md) | 第七卷107章证据与表演边界 |
+| [开辟虚道盘古幡显化、道行避气非夺原物](meng-opening-virtualdao-pangu-banner-manifestation-daoxing-slight-retreat.md) | 第七卷107章证据与表演边界 |
+| [通识球因果积累反馈道一虚道、燃灯掌灯受扰](meng-daoyi-virtualdao-communication-spheres-causal-accumulation-randeng-lamp-disturbed.md) | 第七卷107章证据与表演边界 |
+| [首三虚道舟托正式造化、苦海上浮非到彼岸](meng-formal-creation-three-virtualdao-boat-above-bittersea-not-beyondshore.md) | 第七卷107章证据与表演边界 |
+| [燃灯忧因果排斥、未名俊美僧劝圆满前杀未战](randeng-causal-exclusivity-fear-unidentified-handsome-monk-urges-kill-before-perfection.md) | 第七卷107章证据与表演边界 |
 | [镜见天地层次、画册密码是降维机理未实降六强](haotian-mirror-structure-downgrade-picture-codebook-mechanism-not-enemy-transformed.md) | 第七卷106章证据与表演边界 |
 | [四伪岸杀与活捉利益冲突、魔君七杀远避未死](four-pseudopeers-kill-vs-xuanming-livecapture-mojun-qisha-stay-out.md) | 第七卷106章证据与表演边界 |
 | [孟镜照己耗一次暂伪岸、未来十息只窥非真岸](meng-mirror-selfimage-consumed-temporary-pseudopeer-not-true-beyondshore.md) | 第七卷106章证据与表演边界 |
