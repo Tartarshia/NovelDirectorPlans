@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷96章
+# 角色阶段索引 · 截至第七卷97章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–96章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–97章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [高览义兄与齐正言旧交两难、未下杀令](meng-gaolan-qizhengyan-loyalty-friendship-dilemma-not-kill-order.md) | 第七卷97章证据与表演边界 |
+| [广成人皇窗口与借九幽混战方案、非已夺榜](guangcheng-humanemperor-window-nether-mixedbattle-strategy-not-executed.md) | 第七卷97章证据与表演边界 |
+| [齐旧青袍舍生与血穹苍话语、记忆非现场传音](qizhengyan-recalled-sacrifice-red-bloodfirmament-voice-not-current.md) | 第七卷97章证据与表演边界 |
+| [顾左窍私答先己路、未来彼岸雏形复活是条件](gu-private-palm-cold-selfinterest-conditional-later-revival-not-done.md) | 第七卷97章证据与表演边界 |
+| [孟改以自身道路审局、尚未揭最终选哪方](meng-selfchosen-beyondshore-road-over-accommodation-outcome-unrevealed.md) | 第七卷97章证据与表演边界 |
+| [广受命实际真玉虚敲钟、孟亲临首位未晋境](actual-yuxu-bell-guangcheng-obeys-head-meng-takes-presiding-seat.md) | 第七卷97章证据与表演边界 |
 | [犬奉诏入府避桥渡河、心窥侦察实际返回](xiaotian-edict-underworld-river-crossing-actual-scout-return.md) | 第七卷96章证据与表演边界 |
 | [两匿名判官传音：九灵新主与鬼神图失为消息](underworld-two-judge-telepathy-jiuling-newruler-map-missing-report.md) | 第七卷96章证据与表演边界 |
 | [九灵造化圆满青帝坐骑接掌地府、未犬亲见本体](jiuling-new-underworld-lord-qingdi-mount-creation-perfection.md) | 第七卷96章证据与表演边界 |
