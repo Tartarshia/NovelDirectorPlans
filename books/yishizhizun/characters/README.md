@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷119章
+# 角色阶段索引 · 截至第七卷120章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–119章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–120章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [诸果因影响请神联source明、孟末持昊天死血](meng-causal-influence-spirit-summoning-connection-confirmed-haotian-blood-held.md) | 第七卷120章证据与表演边界 |
+| [辉光北极真Legend到府仍受法限、枯骨龙鱼不能同瞬至](huiguang-beiji-legend-arrival-estate-rule-limits-kugu-longyu-not-ubiquitous.md) | 第七卷120章证据与表演边界 |
+| [鹏造化欲搬府牛掌阻、义兄厚谊仍各利益](peng-creation-estate-removal-blocked-by-niu-brotherhood-interests.md) | 第七卷120章证据与表演边界 |
+| [昊天上帝上纪元血、失灵性生机滴血重生非本人复活](haotian-previous-epoch-blood-no-sentience-vitality-regeneration.md) | 第七卷120章证据与表演边界 |
+| [法器引多滴何残一融体、已莫名平安返玉虚](hemu-amulet-attracts-multiple-blood-drops-one-fused-safe-yuxu-return.md) | 第七卷120章证据与表演边界 |
+| [四小各融一滴外隐母知、旧获实均分未给晋阶](jiuli-four-juniors-one-drop-each-private-report-public-omission-loot-divided.md) | 第七卷120章证据与表演边界 |
 | [孕丘侵心越剑护、九璃敖秦龙凤族音真解危](hemu-heartbeat-entrained-through-sword-cover-dragon-phoenix-sound-rescue.md) | 第七卷119章证据与表演边界 |
 | [四家早备祭坛最后降部分祖力、不本体齐到](four-family-altars-partial-elder-power-late-use-not-bodily-descent.md) | 第七卷119章证据与表演边界 |
 | [何退避防专注识气、收获承诺未兑现与权衡接受](hemu-backoff-disguise-attentive-legend-precaution-loot-promises-not-paid.md) | 第七卷119章证据与表演边界 |

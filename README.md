@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第119章，1283 / 1410 个目录条目，约407.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第120章，1284 / 1410 个目录条目，约407.9万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第120章复核](books/yishizhizun/reviews/review-v07-0120.md)：因果影响祭联、各融血府毁何返孟持昊天上纪元死血，76段、92句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0120.md)。
 - [第七卷第119章复核](books/yishizhizun/reviews/review-v07-0119.md)：祭坛降祖部分力破壳露血、欲取时联系断与孟神光切镜，51段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0119.md)。
 - [第七卷第118章复核](books/yishizhizun/reviews/review-v07-0118.md)：假吞日实袖术带队、警山险登顶见死器与未知孕丘，52段、71句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0118.md)。
 - [第七卷第117章复核](books/yishizhizun/reviews/review-v07-0117.md)：实际开门入府、圣德扩罩退无智妖神与哮天气独过山禁，87段、103句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0117.md)。
