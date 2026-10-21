@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷122章
+# 角色阶段索引 · 截至第七卷123章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–122章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–123章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [唐明月：邑城现家主外景、儿女双全失兄难答](tang-mingyue.md) | 第七卷123章证据与表演边界 |
+| [顾长青：大周三十六神捕主神都、积年半步父亲](gu-changqing.md) | 第七卷123章证据与表演边界 |
+| [顾苏同五六岁与未名新生妹妹、母答二舅英雄](gu-sutong-and-newborn-sister-family-meng-second-uncle.md) | 第七卷123章证据与表演边界 |
+| [张未大宗师善经营、九叶返阳草唐宋张议商未成约](zhang-yuanli-exam-business-nineleaf-tang-song-negotiation-not-deal-closed.md) | 第七卷123章证据与表演边界 |
+| [青帝几月赐榜与增神职为未来预期、当前未交榜](qingdi-list-fewmonths-future-starappointments-character-expectation-not-delivery.md) | 第七卷123章证据与表演边界 |
+| [张旧见王思远疯狂事后未闻、非当前王死已证](wang-siyuan-old-meeting-fate-unknown-to-zhang-not-current-death.md) | 第七卷123章证据与表演边界 |
 | [宋全略：庐阳现家主诗刀词剑、旧贵失势而非一无所有](song-quanlue.md) | 第七卷122章证据与表演边界 |
 | [张元礼：陇南张氏宋旧友父仍在、未家主劝顺新世](zhang-yuanli.md) | 第七卷122章证据与表演边界 |
 | [未名贫寒新外景商客、治世传法受益住旧祖园](luyang-new-waijing-poor-origin-merchant-garden-social-mobility.md) | 第七卷122章证据与表演边界 |
