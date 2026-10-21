@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷107章
+# 角色阶段索引 · 截至第七卷108章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–107章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–108章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [因果虚道听远誓、少许虚果神异非全知](meng-causal-oath-remote-voices-special-virtualdao-not-complete-omniscience.md) | 第七卷108章证据与表演边界 |
+| [子吟婚誓雷劈地警告、男子惊逃无死亡](ziyin-marriage-vow-unnamed-suitor-five-thunder-floor-warning-not-killed.md) | 第七卷108章证据与表演边界 |
+| [九人阴火誓谋腐周、未名金章头得讯围捕](nine-yinfire-contract-conspirators-corrupt-zhou-sixdoors-goldbadge-arrest.md) | 第七卷108章证据与表演边界 |
+| [法身依己虚道自治、灯辅多数仅亲法身或己名](meng-lawbody-oath-administration-lamp-delegation-fashen-or-own-name.md) | 第七卷108章证据与表演边界 |
+| [妖约似青丘声受遮、妖皇与犬访关联未证](yaozu-contract-voice-qingqiu-suspected-obscured-yaohuang-only-hypothesis.md) | 第七卷108章证据与表演边界 |
+| [大青根庆贺获经费转三群百币、消息未证实兑](daqinggen-celebration-approved-coins-forward-three-groups-reward-unverified.md) | 第七卷108章证据与表演边界 |
 | [无极虚道归一、杨戬八九先例非老师本人降临](meng-wuji-virtualdao-unification-yangjian-bajiu-precedent-not-yuanshi-return.md) | 第七卷107章证据与表演边界 |
 | [广自嘲稳妥、赤玉文不同造化道路与末劫选择](yuxu-guangcheng-selfmockery-chijing-yuding-wenshu-distinct-foundations.md) | 第七卷107章证据与表演边界 |
 | [开辟虚道盘古幡显化、道行避气非夺原物](meng-opening-virtualdao-pangu-banner-manifestation-daoxing-slight-retreat.md) | 第七卷107章证据与表演边界 |
