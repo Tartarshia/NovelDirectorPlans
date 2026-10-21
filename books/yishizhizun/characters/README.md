@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷104章
+# 角色阶段索引 · 截至第七卷105章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–104章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–105章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [龙靴来者表面伏皇确认、彼岸威异常真因未明](fuhuang-dragonboot-presence-resolved-peer-might-wrongstate-underlying-unknown.md) | 第七卷105章证据与表演边界 |
+| [喝东皇太一名伏痛眼似九墓怪、关联非同体实证](taiyi-name-triggers-fuhuang-pain-nine-tomb-eye-similarity-not-identityproof.md) | 第七卷105章证据与表演边界 |
+| [青帝真现救全疗收榜、拟转高览尚未送到](qingdi-actual-rescue-fullheal-takes-list-promises-gaolan-not-yet-delivered.md) | 第七卷105章证据与表演边界 |
+| [原有昊天片青帝灌道一次五六玄妙、非永久原镜或已用](haotian-fragment-qingdi-oneuse-five-six-original-mystery-not-permanentmirror.md) | 第七卷105章证据与表演边界 |
+| [孟疑青帝私密周转榜可留暗手、具体谋未证](meng-qingdi-private-list-transfer-hiddenhand-hypothesis-not-confirmed-plot.md) | 第七卷105章证据与表演边界 |
+| [孟全治持一次虚镜未用实际出源、尚无战果返宫](meng-fullhealed-oneuse-mirror-unused-actually-leaves-origin-no-battleresult.md) | 第七卷105章证据与表演边界 |
 | [两不微扰无极十刹防、五前五后撑不过三刹重噬](meng-timecollapse-ten-instants-fivepast-fivefuture-threeinstant-backlash-limit.md) | 第七卷104章证据与表演边界 |
 | [因轮真遁原点开天为掩、外二体已自爆清源未毁](actual-causewheel-escape-origin-two-baitavatars-selfexplode-not-qingyuan.md) | 第七卷104章证据与表演边界 |
 | [黑天意识传音识孟携榜、猜源封候不知入口](heitian-telepathy-recognizes-meng-sealed-list-origin-net-not-entry-known.md) | 第七卷104章证据与表演边界 |

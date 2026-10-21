@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第104章，1268 / 1410 个目录条目，约403.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第105章，1269 / 1410 个目录条目，约403.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第105章复核](books/yishizhizun/reviews/review-v07-0105.md)：伏皇脚解Q真救收榜、一次镜益与孟疑局后出源，64段、84句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0105.md)。
 - [第七卷第104章复核](books/yishizhizun/reviews/review-v07-0104.md)：时防重噬因轮真遁、两体自爆敌识榜脚未知，57段、61句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0104.md)。
 - [第七卷第103章复核](books/yishizhizun/reviews/review-v07-0103.md)：三清分职三诱、六臂亡黑天抓过去未脱幽，45段、45句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0103.md)。
 - [第七卷第102章复核](books/yishizhizun/reviews/review-v07-0102.md)：Qi未真Legend赵地仙、真交榜模气失全隐，58段、62句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0102.md)。
