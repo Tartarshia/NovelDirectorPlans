@@ -3,6 +3,29 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "id": "stealth-comparison-wordgap-v07-c0103",
+      "kind": "possible_source_word_omission",
+      "evidence": [
+        "v07-c0103:p0021"
+      ],
+      "source_word": "两具隐匿不自己身 / 由前产生",
+      "state": "unresolved_source_issue",
+      "director_handling": "前疑隐匿不如自己本身等脱漏，后疑由此；保原字偏移哈希，后31两体被逼显符合诱体较易察，不擅补具体原句。"
+    },
+    {
+      "id": "xuanmiao-xuanming-v07-c0103",
+      "kind": "source_name_character_variant",
+      "evidence": [
+        "v07-c0103:p0024",
+        "v07-c0103:p0026",
+        "v07-c0103:p0027",
+        "v07-c0103:p0035"
+      ],
+      "source_word": "玄妙鬼帝 / 玄冥鬼帝",
+      "state": "unresolved_source_issue_context_same_person",
+      "director_handling": "35玄妙疑玄冥，前后四伪peer身份固定，同语境统一xuanming_ghost_emperor不新增演员，不改正文哈希源偏移。"
+    },
+    {
       "id": "tigao-kuijian-v07-c0102",
       "kind": "possible_source_word_error",
       "evidence": [
