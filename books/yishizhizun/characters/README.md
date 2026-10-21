@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷108章
+# 角色阶段索引 · 截至第七卷109章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–108章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–109章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [庆贺百币早转者真兑、后批活动已结束](celebration-hundredcoins-early-forwarders-actual-paid-late-campaign-ended.md) | 第七卷109章证据与表演边界 |
+| [妖圣牛鹏中游复峰、青丘未传说传因果护符](demon-middlerank-restored-qingqiu-prelegend-yaohuang-causal-ward.md) | 第七卷109章证据与表演边界 |
+| [弥勒伤复舍利未还、夜帝未传说镇元禁誓名](mile-healed-no-future-relic-huo-prelegend-zhenyuan-causal-defense.md) | 第七卷109章证据与表演边界 |
+| [流罗旧玄女与哪青莲限、顾若复活属其旧知](liuluo-past-xuannv-nezha-lotus-limits-gu-revival-outdated-knowledge.md) | 第七卷109章证据与表演边界 |
+| [韩树王洛书已回陆结构视野、取得与援源未知](han-bodhi-tree-wang-luoshu-retrieved-luda-structure-view-unknown-means.md) | 第七卷109章证据与表演边界 |
+| [孟造化喜少棋子苦海志岸、仍等Q给高封榜](meng-creation-muted-joy-pawn-bittersea-beyondshore-goal-list-delivery-still-awaited.md) | 第七卷109章证据与表演边界 |
 | [因果虚道听远誓、少许虚果神异非全知](meng-causal-oath-remote-voices-special-virtualdao-not-complete-omniscience.md) | 第七卷108章证据与表演边界 |
 | [子吟婚誓雷劈地警告、男子惊逃无死亡](ziyin-marriage-vow-unnamed-suitor-five-thunder-floor-warning-not-killed.md) | 第七卷108章证据与表演边界 |
 | [九人阴火誓谋腐周、未名金章头得讯围捕](nine-yinfire-contract-conspirators-corrupt-zhou-sixdoors-goldbadge-arrest.md) | 第七卷108章证据与表演边界 |
