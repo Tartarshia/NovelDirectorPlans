@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷95章
+# 角色阶段索引 · 截至第七卷96章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–95章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–96章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [犬奉诏入府避桥渡河、心窥侦察实际返回](xiaotian-edict-underworld-river-crossing-actual-scout-return.md) | 第七卷96章证据与表演边界 |
+| [两匿名判官传音：九灵新主与鬼神图失为消息](underworld-two-judge-telepathy-jiuling-newruler-map-missing-report.md) | 第七卷96章证据与表演边界 |
+| [九灵造化圆满青帝坐骑接掌地府、未犬亲见本体](jiuling-new-underworld-lord-qingdi-mount-creation-perfection.md) | 第七卷96章证据与表演边界 |
+| [青帝独立天意、师净土暂缓与菩提取图仅强推](meng-qingdi-independent-will-delays-teacher-pureland-map-bodhi-inference.md) | 第七卷96章证据与表演边界 |
+| [生死轮仍藏原点、孟分神新生宇宙修开天印](lifedeath-wheel-stays-origin-meng-newborn-universe-openingprint-refines.md) | 第七卷96章证据与表演边界 |
+| [广成尊掌教亲访请钟议九幽封神榜、尚未敲钟](guangcheng-respectful-visit-requests-bell-meeting-underworld-fengshen-list.md) | 第七卷96章证据与表演边界 |
 | [孟五印真正升近道、诛仙四剑部分融最终未正式造化](meng-fiveprints-neardao-four-swords-partial-final-not-creation.md) | 第七卷95章证据与表演边界 |
 | [孙武三叩九拜正式入门只选八九、七戒不补省略](sun-wu-formal-admission-sevenrules-only-two-given-chooses-bajiu.md) | 第七卷95章证据与表演边界 |
 | [四同门当前境：何方大宗师、于初宗师、齐绝顶高手](yuxu-four-senior-disciples-current-ranks-hefang-grandmaster-yu-master-qi-elite.md) | 第七卷95章证据与表演边界 |
