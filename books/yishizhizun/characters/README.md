@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷99章
+# 角色阶段索引 · 截至第七卷100章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–99章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–100章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [元始天魔九幽外加短造化、无极中游非本根永久晋](meng-yuanshi-tianmo-nether-boost-temporary-creation-intrinsic-legend.md) | 第七卷100章证据与表演边界 |
+| [九乱玄冥黑天三旧伪彼岸、非真彼岸本体实拍](nether-three-old-pseudo-beyondshore-jiuluan-xuanming-heitian.md) | 第七卷100章证据与表演边界 |
+| [第四血魔新强、吞天杀遗蜕仍孟猜非确证](blood-demon-fourth-watcher-tiansha-remains-consumption-meng-guess.md) | 第七卷100章证据与表演边界 |
+| [七杀似脱控突破魔君仍伤、两弱与四伪合六非六真peer](qisha-seems-freed-minghai-progress-mojun-still-wounded-six-not-all-peers.md) | 第七卷100章证据与表演边界 |
+| [诸因择未名棋子尘入胃、即将过六窥未过或成交](meng-dust-in-unnamed-demon-stomach-not-yet-past-six-watcherlines.md) | 第七卷100章证据与表演边界 |
+| [手书智慧净土真暗传收袖赴九幽、交易仍未成](actual-carried-humanemperor-handbook-wisdompureland-not-traded-yet.md) | 第七卷100章证据与表演边界 |
 | [高览人道：文明智慧聚众秩序、守律可纳兼囊道野心](gaolan-humanway-order-civilization-all-intelligent-lawabiding-beings.md) | 第七卷99章证据与表演边界 |
 | [长乐实访皇兄称谓反差、孟问根道人道非全盘背书](meng-gao-emperorbrother-comic-correction-real-changle-visit.md) | 第七卷99章证据与表演边界 |
 | [金角实际往返青帝明确许可、非道德青帝本体新嘴](jinjiao-actual-envoy-return-qingdi-clear-permission-not-direct-voice.md) | 第七卷99章证据与表演边界 |
