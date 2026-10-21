@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷124章
+# 角色阶段索引 · 截至第七卷125章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–124章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–125章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [秦宽寂寞剑客新榜、末劫借酒放弃与严未弃](qinkuan-lonely-swordsman-new-ranking-drunk-epoch-hedonism-not-world-verdict.md) | 第七卷125章证据与表演边界 |
+| [严冲王载皆大宗师临关互勉、补教化未晋法身](yan-chong-wangzai-grandmasters-mutual-threshold-education-not-fashen-yet.md) | 第七卷125章证据与表演边界 |
+| [王载明报何九法身有无相剑气真体、非现场晋镜](hejiu-youwuxiang-swordqi-truebody-fashen-reported-dayold-news.md) | 第七卷125章证据与表演边界 |
+| [同代消息报告清余真本有望、Gu早亡是严旧知](old-ranking-peer-reports-qingyu-zhenben-promise-gu-death-outdated.md) | 第七卷125章证据与表演边界 |
+| [半年真到金榜落往封台、榜名文字非已接敕完](halfyear-reached-fengshen-list-descending-inscription-not-received.md) | 第七卷125章证据与表演边界 |
+| [众能望长乐孟静室隔观、少玄羲娥戒备未新交战](powers-observe-changle-meng-quietroom-shaoxuan-xie-on-guard.md) | 第七卷125章证据与表演边界 |
 | [顾源明大宗师、真王神箓可短地仙非本身晋](gu-changqing-grandmaster-emperor-decree-temporary-earthimmortal-not-attainment.md) | 第七卷124章证据与表演边界 |
 | [子悦已改唐姓苏离仍父、少林玄悲年拜顾拒西堡](tangziyue-restored-surname-suli-father-xuanbei-yearly-visits-gu-fort-refusal.md) | 第七卷124章证据与表演边界 |
 | [浣花当街杀人报与缉拿、刑部裁决未有判刑](huanhua-street-killing-arrest-order-xingbu-split-not-verdict-or-revenge.md) | 第七卷124章证据与表演边界 |
@@ -28,7 +34,7 @@
 | [血桃见死血怒激时河无灵回声、非活东皇本人](bloodpeach-time-river-haotian-hatred-unliving-echo-not-donghuang-revival.md) | 第七卷121章证据与表演边界 |
 | [东皇关联近断、未熟虚果及置桃者仍疑](bloodpeach-donghuang-association-nearly-certain-incomplete-fruit-still-question.md) | 第七卷121章证据与表演边界 |
 | [唤血忆失败、自炼左窍与最后青莲培余未出物](meng-haotian-memory-attempt-fails-blood-refinement-leftaperture-last-lotus-seed.md) | 第七卷121章证据与表演边界 |
-| [何九璃体血跨界联系、非九璃真到玉虚](hemu-jiuli-haotian-blood-interrealm-communication-not-physical-arrival.md) | 第七卷121章证据与表演边界 |
+| [何暮与九璃体血跨界联系、非九璃真到玉虚](hemu-jiuli-haotian-blood-interrealm-communication-not-physical-arrival.md) | 第七卷121章证据与表演边界 |
 | [何仅融合需长炼、无师遁人间待晋为掩饰未来](hemu-only-fusion-long-refinement-cover-humanrealm-emperor-protection-future.md) | 第七卷121章证据与表演边界 |
 | [诸果因影响请神联source明、孟末持昊天死血](meng-causal-influence-spirit-summoning-connection-confirmed-haotian-blood-held.md) | 第七卷120章证据与表演边界 |
 | [辉光北极真Legend到府仍受法限、枯骨龙鱼不能同瞬至](huiguang-beiji-legend-arrival-estate-rule-limits-kugu-longyu-not-ubiquitous.md) | 第七卷120章证据与表演边界 |

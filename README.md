@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第124章，1288 / 1410 个目录条目，约409.0万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第125章，1289 / 1410 个目录条目，约409.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第125章复核](books/yishizhizun/reviews/review-v07-0125.md)：严王大宗师未弃与何九法身明报、半年期到金榜正落非已接，41段、70句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0125.md)。
 - [第七卷第124章复核](books/yishizhizun/reviews/review-v07-0124.md)：顾大宗师神箓短地仙与依法、子悦改唐亲恩、Mu旧影及高开窍以下VR，54段、87句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0124.md)。
 - [第七卷第123章复核](books/yishizhizun/reviews/review-v07-0123.md)：张劝代累与未来封榜、唐明月药草商谈失兄内忆及顾唐家二舅英雄，57段、97句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0123.md)。
 - [第七卷第122章复核](books/yishizhizun/reviews/review-v07-0122.md)：新外景商享旧园、宋家主忆特权衰落哭唱与张劝科举书院，58段、85句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0122.md)。
