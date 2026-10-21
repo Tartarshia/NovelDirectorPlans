@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷115章
+# 角色阶段索引 · 截至第七卷116章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–115章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–116章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [姑射山人仅论坛管理员、单字多义需语境非高人身份已揭](gushe-forum-manager-unknown-identity-polysemous-glyph-replies-context-needed.md) | 第七卷116章证据与表演边界 |
+| [何魂绑心念多坛归纳、不晒全图求师排最后](hemu-soulbound-communicator-crowdsourcing-selfreliance-no-master-direct-answer.md) | 第七卷116章证据与表演边界 |
+| [Legend远视不全时全点、长辈取宝派子矛盾未解](hemu-legend-remoteview-not-omniscient-elders-estate-contradictions-unresolved.md) | 第七卷116章证据与表演边界 |
+| [茶到九璃延等何给译此地永为太古仙界、意义仍疑](jiuli-extends-tea-hemu-glyph-translation-eternal-ancient-heaven-not-meaning-solved.md) | 第七卷116章证据与表演边界 |
+| [一言法范围与永久规则、圆满traits不同正式彼岸](speech-law-scope-world-realrealm-heavens-nether-creationperfection-traits.md) | 第七卷116章证据与表演边界 |
+| [九头圆满由文法推、戒备试门只下令未执行](jiutou-rank-inferred-from-rule-writing-door-opening-order-not-executed.md) | 第七卷116章证据与表演边界 |
 | [九璃学稳敖傲识体、五方搜峰心腹嬷嬷留船管侍](jiuli-methodical-leadership-aoqin-capable-five-team-search-ship-matron-custody.md) | 第七卷115章证据与表演边界 |
 | [五德塔护换道德图推、非彼岸原器或本尊降](jiuli-fivevirtue-tower-to-moral-taiji-manifestation-not-original-artifact.md) | 第七卷115章证据与表演边界 |
 | [府峰外互查确衰毒尽、诸天血煞门阵识未触](estate-exterior-survey-corrosion-confirmed-bloodsha-door-array-not-triggered.md) | 第七卷115章证据与表演边界 |
