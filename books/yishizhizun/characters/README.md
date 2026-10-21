@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷116章
+# 角色阶段索引 · 截至第七卷117章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–116章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–117章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [五德乾坤扇未绝世天仙级、九璃实际引血煞](jiuli-fivevirtues-fan-celestial-not-peer-weapon-actual-bloodsha-trigger.md) | 第七卷117章证据与表演边界 |
+| [何借离仙五行剑实际破阵开门、傲者具能](hemu-lixian-fiveelements-sword-actual-doorbreak-team-capability.md) | 第七卷117章证据与表演边界 |
+| [八头八尾蛇本名未给、近传说判断与圣德退避](eighthead-eighttail-ancient-snake-unknown-name-nearlegend-saintvirtue-retreat.md) | 第七卷117章证据与表演边界 |
+| [圣德扩罩全队解蛇危、沿途验证无智不等全府安全](jiuli-saintvirtue-shared-cover-unintelligent-demons-observed-not-global-safety.md) | 第七卷117章证据与表演边界 |
+| [仿撑天峰两行字再网求译、回帖人未名](replica-heaven-support-mountain-two-glyph-lines-network-replies-unknown-authors.md) | 第七卷117章证据与表演边界 |
+| [哮天伪气使何独过山禁、未晋法身与师预见仍推](hemu-xiaotian-masked-aura-alone-crosses-mountain-gate-not-immortal-attainment.md) | 第七卷117章证据与表演边界 |
 | [姑射山人仅论坛管理员、单字多义需语境非高人身份已揭](gushe-forum-manager-unknown-identity-polysemous-glyph-replies-context-needed.md) | 第七卷116章证据与表演边界 |
 | [何魂绑心念多坛归纳、不晒全图求师排最后](hemu-soulbound-communicator-crowdsourcing-selfreliance-no-master-direct-answer.md) | 第七卷116章证据与表演边界 |
 | [Legend远视不全时全点、长辈取宝派子矛盾未解](hemu-legend-remoteview-not-omniscient-elders-estate-contradictions-unresolved.md) | 第七卷116章证据与表演边界 |
