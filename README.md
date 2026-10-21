@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第97章，1261 / 1410 个目录条目，约401.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第98章，1262 / 1410 个目录条目，约401.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第98章复核](books/yishizhizun/reviews/review-v07-0098.md)：交易取榜均九幽、青帝问使与人皇根问，51段、77句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0098.md)。
 - [第七卷第97章复核](books/yishizhizun/reviews/review-v07-0097.md)：高齐义难、广真敲钟与孟自路主位，49段、56句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0097.md)。
 - [第七卷第96章复核](books/yishizhizun/reviews/review-v07-0096.md)：犬侦返九灵主府图失、孟调青帝态广请议榜，49段、63句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0096.md)。
 - [第七卷第95章复核](books/yishizhizun/reviews/review-v07-0095.md)：孙正式入门选八九、五印升近道四剑部分融与犬受探府命，80段、100句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0095.md)。

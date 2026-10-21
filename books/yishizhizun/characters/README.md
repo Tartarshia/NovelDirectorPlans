@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷97章
+# 角色阶段索引 · 截至第七卷98章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–97章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–98章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [启溪赤徒传说顶峰、简琬婉琳同人近造化年貌不真龄](qixi-shanren-jian-wanlin-newlegend-appearance-rank-not-real-age.md) | 第七卷98章证据与表演边界 |
+| [孟以交易取榜维九幽均势、不削魔帝非已成交](meng-exchange-fengshen-list-preserve-demonemperor-nether-balance.md) | 第七卷98章证据与表演边界 |
+| [智慧净土与人皇手书拟换、赵恒实际榜主非已送](wenshu-remnant-wisdom-pureland-guangcheng-emperor-handbook-zhao-list-owner.md) | 第七卷98章证据与表演边界 |
+| [广受命兜率托金或银角问青帝、未已出使获允](qingdi-attitude-envoy-via-tusita-gold-or-silver-child-not-yet-visited.md) | 第七卷98章证据与表演边界 |
+| [各派回归与罗教首神使镇元、哪吒报告非本体现](factions-awaken-zhenyuan-chief-luojiao-envoy-nezha-report.md) | 第七卷98章证据与表演边界 |
+| [掌教威与广全力配合、拟亲问高览根道人道](meng-authority-guangcheng-cooperation-question-humanemperor-root-humanway.md) | 第七卷98章证据与表演边界 |
 | [高览义兄与齐正言旧交两难、未下杀令](meng-gaolan-qizhengyan-loyalty-friendship-dilemma-not-kill-order.md) | 第七卷97章证据与表演边界 |
 | [广成人皇窗口与借九幽混战方案、非已夺榜](guangcheng-humanemperor-window-nether-mixedbattle-strategy-not-executed.md) | 第七卷97章证据与表演边界 |
 | [齐旧青袍舍生与血穹苍话语、记忆非现场传音](qizhengyan-recalled-sacrifice-red-bloodfirmament-voice-not-current.md) | 第七卷97章证据与表演边界 |
