@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷113章
+# 角色阶段索引 · 截至第七卷114章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–113章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–114章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [九璃误解何无背景必忍、用教学配合非识破](jiuli-class-assumptions-hemu-calm-teamwork-video-plan-not-identity-revealed.md) | 第七卷114章证据与表演边界 |
+| [妖限通识旧三年辉光另给封网机、非实时连线](demon-restricted-communicator-three-year-old-huiguang-offline-curated-device.md) | 第七卷114章证据与表演边界 |
+| [妖自有通识符虚天地仍祈求、未已建成](demon-own-communicator-network-request-to-yaohuang-not-built-yet.md) | 第七卷114章证据与表演边界 |
+| [九璃播葬神旧直播何领队、录像非当前直播](jiuli-replays-hemu-old-zangshen-exploration-livestream-not-live-now.md) | 第七卷114章证据与表演边界 |
+| [师佩亦饰容避挂号识脸、何月落尚未暴露](hemu-jade-also-modifies-face-public-disciple-records-no-exposure.md) | 第七卷114章证据与表演边界 |
+| [叙称九凤九头虫遗府已到、腐门前握剑未入](jiufeng-jiutouchong-estate-source-arrival-confirmation-not-entered.md) | 第七卷114章证据与表演边界 |
 | [九头九凤九头虫为九璃讲史、非九灵古府主未核](jiutou-jiufeng-jiutouchong-jiuli-history-not-jiuling-estate-owner-unconfirmed.md) | 第七卷113章证据与表演边界 |
 | [长辈遣小辈避觊觎、孟布机缘仍何推](demon-elders-send-juniors-avoid-observers-meng-opportunity-plan-only-hemu-inference.md) | 第七卷113章证据与表演边界 |
 | [古府残禁大概妖王转述、非现场测已绝对安全](jiuli-estate-restrictions-around-demonking-report-not-safety-proven.md) | 第七卷113章证据与表演边界 |
