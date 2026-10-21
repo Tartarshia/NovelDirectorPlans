@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷111章
+# 角色阶段索引 · 截至第七卷112章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–111章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–112章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [何市价购犬气泥D装代求、掘土遮羞非免费](hemu-daqinggen-marketprice-dog-scent-soil-coverstory-not-free-gift.md) | 第七卷112章证据与表演边界 |
+| [龙凤玉佩改妖气半年、传说不留意可瞒非绝对](meng-dragon-phoenix-jade-masks-human-aura-sixmonths-unattentive-legend-limit.md) | 第七卷112章证据与表演边界 |
+| [何借离仙护星空十日登妖船、本身未人仙](hemu-lixian-protected-space-ten-days-demonship-not-humanimmortal.md) | 第七卷112章证据与表演边界 |
+| [九璃辉光小圣嫡女五德、典雅强邀看神兵气运](jiuli-phoenix-huiguang-daughter-strong-invite-luck-exploration.md) | 第七卷112章证据与表演边界 |
+| [敖秦古越金鳞家系、新妖等级对应不可由称帝君推境](aoqin-guyue-jinlin-family-claims-demon-new-rank-mapping.md) | 第七卷112章证据与表演边界 |
+| [何月落吞日cover、九头遗府仅疑非九灵死](hemu-yueluo-tunri-cover-jiutou-ancient-estate-hypothesis-not-jiuling.md) | 第七卷112章证据与表演边界 |
 | [兜率己道规则银角迎师兄、非金角同来](tusita-own-dao-realm-yinjiao-welcomes-meng-senior-title-not-jinjiao.md) | 第七卷111章证据与表演边界 |
 | [道德谁李聃孟自认而悟、未硬并三尸实体身份](daode-who-is-lidan-meng-selfanswer-realization-not-literal-identity-merge.md) | 第七卷111章证据与表演边界 |
 | [八九后篇杨留兜率孟真读收、非焚毁或已学满](bajiu-later-gold-pages-yang-left-tusita-meng-reads-keeps-not-destroys.md) | 第七卷111章证据与表演边界 |
