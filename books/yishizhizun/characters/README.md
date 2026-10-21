@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷105章
+# 角色阶段索引 · 截至第七卷106章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–105章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–106章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [镜见天地层次、画册密码是降维机理未实降六强](haotian-mirror-structure-downgrade-picture-codebook-mechanism-not-enemy-transformed.md) | 第七卷106章证据与表演边界 |
+| [四伪岸杀与活捉利益冲突、魔君七杀远避未死](four-pseudopeers-kill-vs-xuanming-livecapture-mojun-qisha-stay-out.md) | 第七卷106章证据与表演边界 |
+| [孟镜照己耗一次暂伪岸、未来十息只窥非真岸](meng-mirror-selfimage-consumed-temporary-pseudopeer-not-true-beyondshore.md) | 第七卷106章证据与表演边界 |
+| [孟斩过去痕再生、开天裂灾阴阳借掌真出九幽](meng-cut-past-trace-causal-rebirth-opening-split-and-yinyang-borrowed-escape.md) | 第七卷106章证据与表演边界 |
+| [新掌伤涌镜暂境退、实际返玉虚不四强全死](meng-new-palm-injury-mirror-power-fades-actual-yuxu-return-not-four-enemies-killed.md) | 第七卷106章证据与表演边界 |
+| [孟回宫闭目混沌与群低语、造化突破起未晋成](meng-yuxu-meditation-chaos-creation-breakthrough-begins-not-completed.md) | 第七卷106章证据与表演边界 |
 | [龙靴来者表面伏皇确认、彼岸威异常真因未明](fuhuang-dragonboot-presence-resolved-peer-might-wrongstate-underlying-unknown.md) | 第七卷105章证据与表演边界 |
 | [喝东皇太一名伏痛眼似九墓怪、关联非同体实证](taiyi-name-triggers-fuhuang-pain-nine-tomb-eye-similarity-not-identityproof.md) | 第七卷105章证据与表演边界 |
 | [青帝真现救全疗收榜、拟转高览尚未送到](qingdi-actual-rescue-fullheal-takes-list-promises-gaolan-not-yet-delivered.md) | 第七卷105章证据与表演边界 |
