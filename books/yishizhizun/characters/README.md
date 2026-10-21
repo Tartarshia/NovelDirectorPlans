@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷127章
+# 角色阶段索引 · 截至第七卷128章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–127章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–128章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [韩第三类星海实获部分仙权、太上补令部分回流](han-thirdclass-star-sea-authority-acquired-some-returned-not-all-lost.md) | 第七卷128章证据与表演边界 |
+| [道德太上白鹤赠二十四品神箓、宣声不强本尊](daode-crane-twentyfour-rank-talismans-announcement-voice-unassigned.md) | 第七卷128章证据与表演边界 |
+| [少玄紫薇羲娥雷尊神职造化、两名额高不自领](shaoxuan-xie-divinepost-creation-ziwei-thunder-two-slots-gao-no-selfgrant.md) | 第七卷128章证据与表演边界 |
+| [王实际雪山外瞳九陵、琴剑未名非已入陵](wang-siyuan-snowmountain-nine-tombs-qin-sword-names-unknown-not-entered.md) | 第七卷128章证据与表演边界 |
+| [Q实际穿封最上、M已灰殿按向门尚未开](qingdi-uppermost-entry-meng-greystone-hall-bronze-gate-not-open.md) | 第七卷128章证据与表演边界 |
+| [众造化灰殿广成旧战清下层说、具体角色仍未揭](creation-crowd-greystone-guangcheng-oldbattle-lowerlayers-claim-not-fulltruth.md) | 第七卷128章证据与表演边界 |
 | [青木明确青帝、玄冥黑天真逆时战改过去](qingdi-greenwood-confirmed-xuanming-heitian-actual-past-collisions.md) | 第七卷127章证据与表演边界 |
 | [悟空入幽魔猿区域伪彼岸、棒凝韩被二伪牵缠](wukong-nineyou-demonape-effective-pseudopeer-not-formal-peer.md) | 第七卷127章证据与表演边界 |
 | [韩正式传说主宰道体、神魔来朝为第二类异象](hanguang-formal-legend-zhuzai-daoti-godsdemons-attendance-second-class-omen.md) | 第七卷127章证据与表演边界 |
