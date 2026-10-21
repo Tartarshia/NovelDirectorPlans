@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷118章
+# 角色阶段索引 · 截至第七卷119章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–118章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–119章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孕丘侵心越剑护、九璃敖秦龙凤族音真解危](hemu-heartbeat-entrained-through-sword-cover-dragon-phoenix-sound-rescue.md) | 第七卷119章证据与表演边界 |
+| [四家早备祭坛最后降部分祖力、不本体齐到](four-family-altars-partial-elder-power-late-use-not-bodily-descent.md) | 第七卷119章证据与表演边界 |
+| [何退避防专注识气、收获承诺未兑现与权衡接受](hemu-backoff-disguise-attentive-legend-precaution-loot-promises-not-paid.md) | 第七卷119章证据与表演边界 |
+| [塔冰息骨焰斩仙金鳞破丘、显化非彼岸原宝](huiguang-tower-icebreath-boneflame-goldscale-shell-break-not-original-peer-artifacts.md) | 第七卷119章证据与表演边界 |
+| [古老血滴主人未明、融合中断分球未被取获](ancient-blood-drops-identity-unknown-gestation-interrupted-not-acquired.md) | 第七卷119章证据与表演边界 |
+| [辉光冰峰龙联系真断、切孟神光未直叙截因](huiguang-icepeak-dragon-contact-cut-meng-blackwhite-light-cause-unconfirmed.md) | 第七卷119章证据与表演边界 |
 | [八九哮天气改肉身内景、无灵规则验条件非何晋仙](hemu-bajiu-xiaotian-aura-body-interior-inert-rule-acceptance-not-attainment.md) | 第七卷118章证据与表演边界 |
 | [妖神残气半真说辞示威、众增信仍未知人族](hemu-false-demon-remnant-aura-story-trust-not-true-tiangou.md) | 第七卷118章证据与表演边界 |
 | [假吞日实袖里乾坤带众过、孟旧换术非本章交易](hemu-fake-swallowday-real-sleeve-cosmos-transports-team.md) | 第七卷118章证据与表演边界 |
