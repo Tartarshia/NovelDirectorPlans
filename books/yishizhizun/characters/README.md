@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷98章
+# 角色阶段索引 · 截至第七卷99章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–98章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–99章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [高览人道：文明智慧聚众秩序、守律可纳兼囊道野心](gaolan-humanway-order-civilization-all-intelligent-lawabiding-beings.md) | 第七卷99章证据与表演边界 |
+| [长乐实访皇兄称谓反差、孟问根道人道非全盘背书](meng-gao-emperorbrother-comic-correction-real-changle-visit.md) | 第七卷99章证据与表演边界 |
+| [金角实际往返青帝明确许可、非道德青帝本体新嘴](jinjiao-actual-envoy-return-qingdi-clear-permission-not-direct-voice.md) | 第七卷99章证据与表演边界 |
+| [青帝许可仍防短阻、魔佛怪伏皇风险未实发生](qingdi-permission-not-total-safety-mofo-tiandao-fuhuang-contingencies.md) | 第七卷99章证据与表演边界 |
+| [四路试探已遣：简弥勒犬妖启溪灵宝哪玄女、尚无回复](four-probing-envoys-jian-mile-dog-demons-qixi-lingbao-nezha-xuannv.md) | 第七卷99章证据与表演边界 |
+| [合纵扰目广文留宫掩护、孟拟变潜幽私交未行成](meng-probing-diplomacy-cover-private-nether-trade-not-yet-entered.md) | 第七卷99章证据与表演边界 |
 | [启溪赤徒传说顶峰、简琬婉琳同人近造化年貌不真龄](qixi-shanren-jian-wanlin-newlegend-appearance-rank-not-real-age.md) | 第七卷98章证据与表演边界 |
 | [孟以交易取榜维九幽均势、不削魔帝非已成交](meng-exchange-fengshen-list-preserve-demonemperor-nether-balance.md) | 第七卷98章证据与表演边界 |
 | [智慧净土与人皇手书拟换、赵恒实际榜主非已送](wenshu-remnant-wisdom-pureland-guangcheng-emperor-handbook-zhao-list-owner.md) | 第七卷98章证据与表演边界 |
