@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷132章
+# 角色阶段索引 · 截至第七卷133章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–132章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–133章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [广成造化顶峰三花未坠、旧十二仙凡化非当前](guangcheng-current-peak-resists-array-old-twelve-immortals-loss-not-current.md) | 第七卷133章证据与表演边界 |
+| [帝盖残驾增幅察伏、自在六字是符文非念诵](beidou-emperor-canopy-amplifies-perception-zizai-six-written-mantra-glyphs.md) | 第七卷133章证据与表演边界 |
+| [多宝天尊赤面黄须正式明名、潜伏猎黄雀](duobao-tianzun-confirmed-redface-hidden-hunter-not-only-meng-suspicion.md) | 第七卷133章证据与表演边界 |
+| [孟八九扮天帝叠残痕添生意、非彼岸复生](meng-bajiu-emperor-disguise-overlaps-residual-trace-not-peer-or-revival.md) | 第七卷133章证据与表演边界 |
+| [多宝自在误认帝活遁、三霄收斗撤阵非被斩](duobao-zizai-sanxiao-flee-illusion-jindou-withdrawn-array-collapses.md) | 第七卷133章证据与表演边界 |
+| [广成真脱困却被孟帝扮传音吓走、尚未会合](guangcheng-rescued-but-emperor-cover-call-spooks-ally-no-reunion.md) | 第七卷133章证据与表演边界 |
 | [孟真登北斗穿时障、金铁钟声醒神无说者](meng-boards-beidou-timebarriers-metal-bell-clears-mind-voice-unassigned.md) | 第七卷132章证据与表演边界 |
 | [流罗烛火灯塔指北斗路线、帝仅残痕非复活](liuluo-candle-beacon-guides-beidou-residual-emperor-not-revival.md) | 第七卷132章证据与表演边界 |
 | [北斗残界边缘回返或达巡起点、尚未抵达](beidou-route-broken-world-boundary-return-origin-destination-not-reached.md) | 第七卷132章证据与表演边界 |
