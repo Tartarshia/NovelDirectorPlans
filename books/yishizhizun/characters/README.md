@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷129章
+# 角色阶段索引 · 截至第七卷130章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–129章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–130章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [流罗半殿实际造化、熟帝威恢复快自述](liuluo-halfhall-actual-creation-lamp-familiar-emperor-aura-claim.md) | 第七卷130章证据与表演边界 |
+| [玄女真灵神躯分隔与应身延续、借柳漱玉说](xuannv-spirit-body-separation-manifestation-continuity-liushuyu-claim.md) | 第七卷130章证据与表演边界 |
+| [应身独立人生与传法止传说、孟问嵌套联系](xuannv-manifestations-independent-lives-legend-limit-nested-causal-link.md) | 第七卷130章证据与表演边界 |
+| [半殿旧候召非凌霄、旧紫薇过去身毁的证言](waiting-emperor-halfhall-not-lingxiao-oldziwei-death-liuluo-testimony.md) | 第七卷130章证据与表演边界 |
+| [孟疑天帝护玄女留后手与人皇坐化、未证布局](meng-emperor-preserved-xuannv-futureplan-humanemperor-death-hypothesis.md) | 第七卷130章证据与表演边界 |
+| [燃灯真到阶佛光阿难影、非魔佛完全脱封](randeng-arrives-ananda-images-causal-affinity-not-complete-mofo-release.md) | 第七卷130章证据与表演边界 |
 | [孟真开青铜门入最上、庆云抗虚无非新彼岸](meng-opens-bronze-gate-enters-uppermost-void-qingyun-actual-not-peer.md) | 第七卷129章证据与表演边界 |
 | [文殊五慧莲与广成三花、各家护体差异](wenshu-five-wisdom-lotuses-guangcheng-three-flowers-distinct-ways.md) | 第七卷129章证据与表演边界 |
 | [弥勒两舍利未复未来、自在佛年轻像不解旧俊僧](mile-two-relics-zizai-young-appearance-not-unknown-monk-resolved.md) | 第七卷129章证据与表演边界 |
