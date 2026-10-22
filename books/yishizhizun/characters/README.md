@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷141章
+# 角色阶段索引 · 截至第七卷142章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–141章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–142章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [舍钦止虚开派祖、墓中混乱吼者不等东皇全归](she-qin-zhixu-founder-tomb-voice-not-donghuang-complete-return.md) | 第七卷142章证据与表演边界 |
+| [王真正墓内九令洛书主持小禁、交接过程未源给](wang-inside-tomb-nine-tokens-luoshu-small-ban-actual-use.md) | 第七卷142章证据与表演边界 |
+| [王称真东皇提供隐史、舍钦险夺与灵宝剑阻是王叙述](wang-claims-true-donghuang-source-sheqin-near-possession-lingbao-sword.md) | 第七卷142章证据与表演边界 |
+| [孟道果物串闹天宫魔主雷迟到长链、非旧史全独证](meng-daofruit-object-monkey-rebellion-demonlord-thunder-late-hypothesis-chain.md) | 第七卷142章证据与表演边界 |
+| [大道树真震拿出引远清光、所感物尚未明](daotree-trembles-meng-takes-out-distant-clearlight-road-object-unknown.md) | 第七卷142章证据与表演边界 |
+| [文殊真改向灯塔、诸强感应不全到或已围攻](wenshu-turns-to-clearlight-lighthouse-other-powers-only-sense.md) | 第七卷142章证据与表演边界 |
 | [灵宝天尊同通天、140未名奎牛骑者141后证](lingbao-kuiniu-rider-tongtian-same-ancient-peer-history-traversal.md) | 第七卷141章证据与表演边界 |
 | [历史讲法回望与青萍归灵宝、非孟取剑](lingbao-history-sermon-cross-time-gaze-qingping-return-not-meng-loot.md) | 第七卷141章证据与表演边界 |
 | [灵宝历史插手灵山宣末劫尊、非已见完整战果](lingbao-lingshan-history-intervention-endepoch-i-am-supreme-not-full-battle-seen.md) | 第七卷141章证据与表演边界 |
