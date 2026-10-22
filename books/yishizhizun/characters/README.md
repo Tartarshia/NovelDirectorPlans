@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷145章
+# 角色阶段索引 · 截至第七卷146章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–145章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–146章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [王未传说提转承残意血、未实施未变东皇分身](wang-below-legend-donghuang-remnant-transfer-proposal-not-performed.md) | 第七卷146章证据与表演边界 |
+| [天道怪道尊所余与东皇部分、血桃猜依旧未告](tiandao-daozun-residue-donghuang-part-relation-bloodpeach-still-secret.md) | 第七卷146章证据与表演边界 |
+| [Q道果残余全末劫未尽超脱一家之见、非等级改写](qingdi-daofruit-residue-endepoch-completion-explicit-personal-hypothesis.md) | 第七卷146章证据与表演边界 |
+| [青帝八字预劫恐难护、箴意未解非现在已死](qingdi-eight-characters-no-way-ten-deaths-warning-uninterpreted.md) | 第七卷146章证据与表演边界 |
+| [青帝生机清风散双方阵逐回真实、非强攻赢阵](qingdi-clearing-wind-dissolves-both-arrays-expels-powers-realworld.md) | 第七卷146章证据与表演边界 |
+| [孟获叶树长九枝各九叶、赴长乐拟复冲和尚未复](meng-nine-branches-nine-leaves-qingdi-gift-changle-chonghe-revival-intent.md) | 第七卷146章证据与表演边界 |
 | [多宝完整阵图与广赤玉道四守者合力、未胜负终](duobao-complete-zhuxian-diagram-guangcheng-four-defenders-combined-pressure.md) | 第七卷145章证据与表演边界 |
 | [燃过去道身非圆满仅牵制、主身慢进上风非胜](randeng-pastdao-not-perfect-only-diversion-primary-slow-upperhand.md) | 第七卷145章证据与表演边界 |
 | [文殊先天智慧镜弹芒留痕、异孟庆云同化](wenshu-innate-wisdom-mirror-deflects-leaves-trace-not-meng-cloud-same.md) | 第七卷145章证据与表演边界 |
