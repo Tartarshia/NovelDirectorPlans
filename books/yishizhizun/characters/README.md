@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷135章
+# 角色阶段索引 · 截至第七卷136章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–135章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–136章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [疑汲神躯精华与孟拟炼造化剑、未得材料](meng-corpse-essence-extraction-suspicion-creation-sword-material-plan-not-forged.md) | 第七卷136章证据与表演边界 |
+| [本纪元首三足金乌死躯、太阳权部分赐羲非羲娥](first-threelegged-goldcrow-deadbody-sun-authority-part-given-xi-not-xie.md) | 第七卷136章证据与表演边界 |
+| [玄女眼映停乌赤帝剑斩尸、无头影再逃](liuluo-mirror-eyes-chidi-sword-goldcrow-body-headless-shadow-escapes.md) | 第七卷136章证据与表演边界 |
+| [流罗认刑天赤帝旧属枭首不死、非当前他自述](xingtian-identified-liuluo-chidi-subordinate-beheaded-survives-not-current-speech.md) | 第七卷136章证据与表演边界 |
+| [赤帝古强敌不服化剑、刑天乳目脐口旧史](chidi-ancient-rival-refused-surrender-became-sword-xingtian-history.md) | 第七卷136章证据与表演边界 |
+| [成汤鬼帝殷商三界野望未成、实际警退勿扰何物未明](chengtang-ghostemperor-shang-three-realms-ambition-actual-warning-target-unknown.md) | 第七卷136章证据与表演边界 |
 | [真穿半尺缝入牢自界、外封毁与巨大玉柱](heavenprison-actual-entry-larger-innerworld-outerseal-destroyed.md) | 第七卷135章证据与表演边界 |
 | [流罗述建庭开最高后帝证彼岸、别彼岸此前能入未知](emperor-peer-after-court-uppermost-open-liuluo-unknown-otherpeer-access.md) | 第七卷135章证据与表演边界 |
 | [玄女忠勇雷印象与孟知早叛落差、秘诱叛仍猜](liuluo-loyal-thundergod-impression-meng-knows-earlier-betrayal-not-suddenchange.md) | 第七卷135章证据与表演边界 |
