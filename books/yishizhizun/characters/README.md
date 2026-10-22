@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷137章
+# 角色阶段索引 · 截至第七卷138章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–137章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–138章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [刑天实体意斧开天伤掌瞬愈、非孟毫无伤或新晋](xing-tian-will-stoneaxe-opens-chaos-meng-palm-wound-healed-not-fullstrength.md) | 第七卷138章证据与表演边界 |
+| [同化刑天暗忆帝目融斧入盘古影、非真器获](meng-assimilates-xingtian-dark-memory-imperial-eyes-axe-pangu-image-not-artifact.md) | 第七卷138章证据与表演边界 |
+| [磨盘汲躯权道灵、轮返原体植忠败即自亡](heavenprison-grindmill-drains-body-authority-dao-spirit-loyalty-failure-selfdeath.md) | 第七卷138章证据与表演边界 |
+| [轮回印遗响推初帝手与阿难得此、未亲见旧交接](reincarnation-seal-residual-influence-emperor-firstholder-and-ananda-origin-inferences.md) | 第七卷138章证据与表演边界 |
+| [鬼皇天帝分身魔佛占、雷假叛复帝假说已推翻](ghostemperor-emperor-avatar-mofo-occupies-falsebetrayal-hypothesis-overturned.md) | 第七卷138章证据与表演边界 |
+| [燃实际追迹、阿难有限影笑说定位北斗未到场](randeng-actual-tracking-ananda-limited-projection-speaks-locates-beidou-not-arrived.md) | 第七卷138章证据与表演边界 |
 | [成汤鼎气累世阴德、源转世后不足盛时十分一](chengtang-cauldron-imperial-fortune-generations-yinde-source-less-tenth-strength.md) | 第七卷137章证据与表演边界 |
 | [孟虚大道无极一击还原鼎旗鬼躯、非新彼岸](meng-wuji-virtualdao-destroys-cauldron-flags-ghostbody-not-new-peer.md) | 第七卷137章证据与表演边界 |
 | [成汤真灵自行炸散未生擒、轮回异常待解](chengtang-truespirit-selfbursts-meng-capture-fails-reincarnation-anomaly.md) | 第七卷137章证据与表演边界 |
