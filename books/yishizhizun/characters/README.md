@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷139章
+# 角色阶段索引 · 截至第七卷140章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–139章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–140章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [镇元实际潜窥与刑汤混眼、忍袖擒未动](zhenyuan-hidden-watcher-part-xingtian-chengtang-near-capture-abandoned.md) | 第七卷140章证据与表演边界 |
+| [镇元复五成以上轮盘沉鬼气入罗酆黑狱、非已夺界](zhenyuan-recreates-over-half-mill-descends-ghostqi-luofeng-not-claims-domain.md) | 第七卷140章证据与表演边界 |
+| [完整死后世界亦末劫关键、非仅雏形需要](complete-afterlife-endepoch-key-not-only-daofruit-embryo-ananda-explanation.md) | 第七卷140章证据与表演边界 |
+| [燃晚到空牢阿难拟北斗下点先堵、未完成拦截](randeng-late-prison-arrival-ananda-beidou-nextstop-intercept-plan-not-done.md) | 第七卷140章证据与表演边界 |
+| [王解封需诵名兼知镇处、求入借九令未得](wang-tomb-name-plus-location-condition-nine-tokens-request-not-transferred.md) | 第七卷140章证据与表演边界 |
+| [北斗时河无未来支疑、奎牛祥光未名骑者歌](beidou-timeriver-no-futurebranch-kuiniu-rider-sings-unidentified.md) | 第七卷140章证据与表演边界 |
 | [无极真拆磨盘吸碎权完善道意、非新晋](meng-wuji-dismantles-grindmill-absorbs-residual-authority-dao-insight-no-rankjump.md) | 第七卷139章证据与表演边界 |
 | [大道树号纪元吸多余碎权长枝叶、非吞血桃](daotree-epoch-feeds-extra-authority-grows-branches-not-bloodpeach-eaten.md) | 第七卷139章证据与表演边界 |
 | [罗酆黑狱六层山玄冥伪彼岸意、刀剑因灯断联](luofeng-heiyu-sixlayer-mountain-xuanming-pseudopeer-will-contact-severed.md) | 第七卷139章证据与表演边界 |
