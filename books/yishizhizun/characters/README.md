@@ -1,11 +1,19 @@
-# 角色阶段索引 · 截至第七卷156章
+# 角色阶段索引 · 截至第七卷157章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–156章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–157章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [九灵真实退地府回扶桑、镇元受帝玺已烙掌权](jiuling-actual-leaves-surrenders-underworld-seal-zhenyuan-accepts-imprints.md) | 第七卷157章证据与表演边界 |
+| [镇元帝布鬼皇在罗酆同伪彼岸、连地府非全九幽独统](zhenyuan-luofeng-local-pseudopeer-links-fengdu-nether-not-true-peer.md) | 第七卷157章证据与表演边界 |
+| [真空地府已真实合并、无生老母归来天意变](vacuum-home-actual-merged-laomu-actual-returns-heavenwill-changed.md) | 第七卷157章证据与表演边界 |
+| [菩提树图古意与极乐青莲、金角识佛妖殿道人仍未名](bodhi-tree-ghostspirit-map-ancient-will-amituo-tusita-unnamed-daoist-yaohuang.md) | 第七卷157章证据与表演边界 |
+| [冲和已在兜率受银角讲、金角识外阿弥陀佛](chonghe-actual-tusita-yinjiao-teaches-jinjiao-recognizes-amituo.md) | 第七卷157章证据与表演边界 |
+| [阿难影称机会到燃灯不解、非Mofo本尊解封](ananda-projection-opportunity-claim-randeng-uncomprehending-not-released.md) | 第七卷157章证据与表演边界 |
+| [共炼玉碟已寸灰孟正式造化中游、顾只积累未明晋](meng-gu-actual-assimilate-jadedisc-meng-middle-creation-gu-only-reserves.md) | 第七卷157章证据与表演边界 |
+| [炼他道冲突根不稳待打磨、无极避免爆体并非已爆](meng-root-instability-dao-conflict-wuji-prevents-explosion-future-repair-needed.md) | 第七卷157章证据与表演边界 |
 | [孟虚开天幡实际开界、清浊未完成兼仙九星空](meng-actual-reopens-nearchaos-virtual-pangu-banner-incomplete-stars-no-neardao.md) | 第七卷156章证据与表演边界 |
 | [本界功德上帝道德童子岁月老祖等凶神非原器神本尊](innerworld-xuanhuang-gongde-daode-boy-suiyue-ancestor-local-demons-not-primordial-artifacts.md) | 第七卷156章证据与表演边界 |
 | [顾真显身先指控法碟越界避时逆、尚未吸待共享](gu-actual-finger-controls-law-jadedisc-exits-before-rewind-not-absorbed-share.md) | 第七卷156章证据与表演边界 |
