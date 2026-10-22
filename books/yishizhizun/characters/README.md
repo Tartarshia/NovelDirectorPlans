@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷144章
+# 角色阶段索引 · 截至第七卷145章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–144章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–145章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [多宝完整阵图与广赤玉道四守者合力、未胜负终](duobao-complete-zhuxian-diagram-guangcheng-four-defenders-combined-pressure.md) | 第七卷145章证据与表演边界 |
+| [燃过去道身非圆满仅牵制、主身慢进上风非胜](randeng-pastdao-not-perfect-only-diversion-primary-slow-upperhand.md) | 第七卷145章证据与表演边界 |
+| [文殊先天智慧镜弹芒留痕、异孟庆云同化](wenshu-innate-wisdom-mirror-deflects-leaves-trace-not-meng-cloud-same.md) | 第七卷145章证据与表演边界 |
+| [玄女握权印离战、罗使传音牛赞成未破阵](liuluo-authority-seal-leaves-battle-luojiao-envoy-transmission-proposal.md) | 第七卷145章证据与表演边界 |
+| [昊天植扶桑替陨计划未成、青帝非转生破局者未知](haotian-planted-fusang-substitute-death-plan-failed-qingdi-not-reincarnation.md) | 第七卷145章证据与表演边界 |
+| [青帝太古未回溯细史未知、东皇未必真死保留说法](qingdi-donghuang-may-not-truly-dead-ancient-history-knowledge-limited.md) | 第七卷145章证据与表演边界 |
 | [自在中断三世有佛四大皆空逃阵、金血心魔暂衰](zizai-aborts-three-times-buddha-escape-four-empty-blood-minddemons.md) | 第七卷144章证据与表演边界 |
 | [广成四造化诛仙护孟、有德天意乃其宣称](guangcheng-four-creation-zhuxian-array-cover-meng-virtue-claim-not-mandate.md) | 第七卷144章证据与表演边界 |
 | [三圆满主体燃双具身凑四路、阵未破果未获](three-perfect-powers-randeng-pastbody-four-entries-not-four-persons.md) | 第七卷144章证据与表演边界 |
