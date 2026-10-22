@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷143章
+# 角色阶段索引 · 截至第七卷144章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–143章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–144章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [自在中断三世有佛四大皆空逃阵、金血心魔暂衰](zizai-aborts-three-times-buddha-escape-four-empty-blood-minddemons.md) | 第七卷144章证据与表演边界 |
+| [广成四造化诛仙护孟、有德天意乃其宣称](guangcheng-four-creation-zhuxian-array-cover-meng-virtue-claim-not-mandate.md) | 第七卷144章证据与表演边界 |
+| [三圆满主体燃双具身凑四路、阵未破果未获](three-perfect-powers-randeng-pastbody-four-entries-not-four-persons.md) | 第七卷144章证据与表演边界 |
+| [文殊空智另途虚混沌无极约三霄、未已胜三](wenshu-virtual-chaos-emptiness-mirror-wisdom-challenges-sanxiao.md) | 第七卷144章证据与表演边界 |
+| [孟真到建木触吸失败、青帝解古老者留力护纪元](meng-reaches-jianmu-absorb-fails-qingdi-ancient-powers-protect-epoch.md) | 第七卷144章证据与表演边界 |
+| [青帝证上纪大道树成扶桑、种植者问未答](qingdi-prior-epoch-daotree-became-fusang-planter-question-unanswered.md) | 第七卷144章证据与表演边界 |
 | [清光认建木、枯灰巨树顶果仍问未摘](jianmu-core-clearlight-identified-decaying-tree-fruit-still-question.md) | 第七卷143章证据与表演边界 |
 | [孟玄女真离北斗自飞、鹏速更快实竞](meng-liuluo-actually-leave-beidou-cloud-flight-peng-faster.md) | 第七卷143章证据与表演边界 |
 | [绝刀元磁引鹏中和二气合力拳震牛、非杀获道](meng-jueblade-magnetism-neutralize-peng-yinyang-combined-punch-repels-bull.md) | 第七卷143章证据与表演边界 |

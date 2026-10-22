@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第143章，1307 / 1410 个目录条目，约414.0万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第144章，1308 / 1410 个目录条目，约414.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第144章复核](books/yishizhizun/reviews/review-v07-0144.md)：诛仙阵迫自在反噬四路入阵、青帝护建木与扶桑前身，59段、80句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0144.md)。
 - [第七卷第143章复核](books/yishizhizun/reviews/review-v07-0143.md)：建木竞速磁拖吞气震牛、自在短逆时与广成远援，65段、69句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0143.md)。
 - [第七卷第142章复核](books/yishizhizun/reviews/review-v07-0142.md)：孟旧史道果物推论与舍钦认名、树引清光文殊改向，62段、72句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0142.md)。
 - [第七卷第141章复核](books/yishizhizun/reviews/review-v07-0141.md)：灵宝逆史与元始道果叹语、断河返驾后三界合一推论，57段、74句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0141.md)。
