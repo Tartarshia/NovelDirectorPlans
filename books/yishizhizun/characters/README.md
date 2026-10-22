@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷154章
+# 角色阶段索引 · 截至第七卷155章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–154章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–155章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟顾真悟桃时道、残血钟近脱而停再引](meng-gu-bloodpeach-time-insight-bloodclock-near-break-stop-aura-contact.md) | 第七卷155章证据与表演边界 |
+| [同入磨兼除残灵访旧迹、清血醒刀仍计划](flesh-residual-spirit-removal-history-search-blade-awakening-only-plan.md) | 第七卷155章证据与表演边界 |
+| [顾可能恶投影推与Peer内界无近道上限评](gu-evil-projection-peer-world-no-neardao-max-creation-assessment.md) | 第七卷155章证据与表演边界 |
+| [孟真身再入刀撞血凝滞、庆云刀护阻一滴侵](meng-real-body-blade-entry-flesh-barrier-freeze-cloud-blade-prevent-infection.md) | 第七卷155章证据与表演边界 |
+| [模拟东皇桃气假果骗门、实际穿入残血内界](meng-mimics-donghuang-fake-fruit-peach-aura-actually-enters-flesh.md) | 第七卷155章证据与表演边界 |
+| [血界近混沌有方向潜气敌目未名、开天尚提议](flesh-nearchaos-directions-hidden-powers-two-hostile-eyes-reopen-world-only-proposal.md) | 第七卷155章证据与表演边界 |
 | [燃灯拒接引归制约前助阿难脱困、未放魔佛](randeng-refuses-free-ananda-before-jieyin-return-restraint-not-released.md) | 第七卷154章证据与表演边界 |
 | [阿难灭佛防真佛自辩与善恶道果论、燃灯尚未魔化](ananda-massacre-prevent-supremebuddha-selfaccount-good-evil-doctrine-not-endorsed.md) | 第七卷154章证据与表演边界 |
 | [王实际转吸残留近傀儡后成蜕变、未直名新境](wang-transfer-donghuang-residue-actual-crazy-wave-suppressed-completes-unnamed-transformation.md) | 第七卷154章证据与表演边界 |
