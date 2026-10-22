@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第153章，1317 / 1410 个目录条目，约416.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第154章，1318 / 1410 个目录条目，约416.9万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第154章复核](books/yishizhizun/reviews/review-v07-0154.md)：血仍制刀燃灯拒释魔、王已转残留蜕变，孟实收岛归玉虚一丝气试桃，53段、78句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0154.md)。
 - [第七卷第153章复核](books/yishizhizun/reviews/review-v07-0153.md)：吞血四形入刀、魔佛刀印彻底消除而血钟尚镇，雷东背叛仅孟推、净土阿难太一同步，67段、72句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0153.md)。
 - [第七卷第152章复核](books/yishizhizun/reviews/review-v07-0152.md)：本尊三化身分工、陆远丝被化与袁逃，青萍自行飞走残肉真解封而天意仅疑，33段、34句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0152.md)。
 - [第七卷第151章复核](books/yishizhizun/reviews/review-v07-0151.md)：陆压远讯移岛计划、变法部分命运刀与多形协同实际拔岛，60段、71句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0151.md)。

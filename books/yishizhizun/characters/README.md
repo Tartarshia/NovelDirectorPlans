@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷153章
+# 角色阶段索引 · 截至第七卷154章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–153章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–154章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [燃灯拒接引归制约前助阿难脱困、未放魔佛](randeng-refuses-free-ananda-before-jieyin-return-restraint-not-released.md) | 第七卷154章证据与表演边界 |
+| [阿难灭佛防真佛自辩与善恶道果论、燃灯尚未魔化](ananda-massacre-prevent-supremebuddha-selfaccount-good-evil-doctrine-not-endorsed.md) | 第七卷154章证据与表演边界 |
+| [王实际转吸残留近傀儡后成蜕变、未直名新境](wang-transfer-donghuang-residue-actual-crazy-wave-suppressed-completes-unnamed-transformation.md) | 第七卷154章证据与表演边界 |
+| [舍钦与斩血同源、王推先脱后镇而孟不知墓事](sheqin-source-severed-flesh-wang-deduces-release-resuppression-not-meng-knows.md) | 第七卷154章证据与表演边界 |
+| [孟实际袖收金鳌回玉虚、刀威仍旧换血枷锁](meng-actual-sleeve-jinao-return-yuxu-blade-power-unchanged-blood-restraint.md) | 第七卷154章证据与表演边界 |
+| [一丝残血气因果触桃显寿时部分果、树仅候防](bloodpeach-one-residue-aura-causalcontact-lifespan-time-partialfruit-tree-standby.md) | 第七卷154章证据与表演边界 |
 | [恢复窗元心刀真吞血、本尊三化身全入刀](meng-determined-interval-blade-ingests-flesh-all-four-enter-not-retreat.md) | 第七卷153章证据与表演边界 |
 | [刀内雷海钟鸣停孟、残血无需引主动攻魔印](jueblade-thundersea-donghuang-attacks-imprint-unprompted-meng-stasis.md) | 第七卷153章证据与表演边界 |
 | [雷神合作背叛东皇致怪乱是孟新推测](meng-thundergod-betrayed-donghuang-tiandao-theory-not-confirmed.md) | 第七卷153章证据与表演边界 |
