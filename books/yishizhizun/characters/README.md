@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷146章
+# 角色阶段索引 · 截至第七卷147章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–146章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–147章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [高览真抹榜释放冲和真灵、孟先收未成体](gao-removes-chonghe-list-name-releases-truespirit-meng-collects-before-body.md) | 第七卷147章证据与表演边界 |
+| [月光许可东方功德池真重塑冲和归来、非西方极乐](chonghe-actual-meritpool-resurrection-moonlight-permission-eastern-pureland.md) | 第七卷147章证据与表演边界 |
+| [冲和亡约三十年补当势、陆仍天仙突破是期](chonghe-thirty-years-meng-creation-gao-su-legend-luda-heaven-not-yet-legend.md) | 第七卷147章证据与表演边界 |
+| [城观神道记录官气通识、仍苦少乞而所愿更好](chonghe-city-humanway-recording-official-luck-communication-fulfills-wish.md) | 第七卷147章证据与表演边界 |
+| [冲和近乡怯未落纯阳、传承不绝重沉心道德](chonghe-chunyang-nearhome-not-landed-tradition-continues-student-choice.md) | 第七卷147章证据与表演边界 |
+| [金角代道德召冲和、实际接受随离未新晋](jinjiao-daode-summons-chonghe-tusita-actual-accepts-departs-not-rankgain.md) | 第七卷147章证据与表演边界 |
 | [王未传说提转承残意血、未实施未变东皇分身](wang-below-legend-donghuang-remnant-transfer-proposal-not-performed.md) | 第七卷146章证据与表演边界 |
 | [天道怪道尊所余与东皇部分、血桃猜依旧未告](tiandao-daozun-residue-donghuang-part-relation-bloodpeach-still-secret.md) | 第七卷146章证据与表演边界 |
 | [Q道果残余全末劫未尽超脱一家之见、非等级改写](qingdi-daofruit-residue-endepoch-completion-explicit-personal-hypothesis.md) | 第七卷146章证据与表演边界 |

@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第146章，1310 / 1410 个目录条目，约414.8万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第147章，1311 / 1410 个目录条目，约415.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第147章复核](books/yishizhizun/reviews/review-v07-0147.md)：冲和实际复活与城观所愿、接受金角代道德赴召，74段、128句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0147.md)。
 - [第七卷第146章复核](books/yishizhizun/reviews/review-v07-0146.md)：王未Legend转承提案与Q道果残余猜、八字赐叶逐强拟复冲和，58段、90句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0146.md)。
 - [第七卷第145章复核](books/yishizhizun/reviews/review-v07-0145.md)：四守者实名智慧镜实防、昊天扶桑败局与青帝非转生，44段、62句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0145.md)。
 - [第七卷第144章复核](books/yishizhizun/reviews/review-v07-0144.md)：诛仙阵迫自在反噬四路入阵、青帝护建木与扶桑前身，59段、80句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0144.md)。
