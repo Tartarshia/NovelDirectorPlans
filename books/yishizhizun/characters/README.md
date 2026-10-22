@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷152章
+# 角色阶段索引 · 截至第七卷153章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–152章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–153章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [恢复窗元心刀真吞血、本尊三化身全入刀](meng-determined-interval-blade-ingests-flesh-all-four-enter-not-retreat.md) | 第七卷153章证据与表演边界 |
+| [刀内雷海钟鸣停孟、残血无需引主动攻魔印](jueblade-thundersea-donghuang-attacks-imprint-unprompted-meng-stasis.md) | 第七卷153章证据与表演边界 |
+| [雷神合作背叛东皇致怪乱是孟新推测](meng-thundergod-betrayed-donghuang-tiandao-theory-not-confirmed.md) | 第七卷153章证据与表演边界 |
+| [绝刀内魔佛烙印终于彻底消除、非全阿难死亡](mofo-blade-imprint-completely-erased-not-full-ananda-death.md) | 第七卷153章证据与表演边界 |
+| [残血凝铜钟削弱镇压未碎、非原东皇钟新取](donghuang-flesh-bronzeclock-weakened-suppressed-not-shattered-originalbell.md) | 第七卷153章证据与表演边界 |
+| [净土阿难有限虚影授燃灯、刀印全清时低念太一](ananda-limited-pureland-projection-teaching-randeng-whispers-taiyi.md) | 第七卷153章证据与表演边界 |
 | [本尊庆云与苏孟剑清源拔真定佛三化身明确分工](meng-primary-wuji-sumeng-sword-qingyuan-bajiu-zhending-buddha-three-avatars.md) | 第七卷152章证据与表演边界 |
 | [陆一丝远力弃移岛转拟放残血、拔剑未成](luya-remote-sliver-abandons-island-move-attempts-release-flesh-not-completed.md) | 第七卷152章证据与表演边界 |
 | [真定施与佛光涅槃化陆一丝、不杀陆本尊未召师门](zhending-avatar-giving-buddhalight-nirvana-luya-sliver-not-primary-death.md) | 第七卷152章证据与表演边界 |
