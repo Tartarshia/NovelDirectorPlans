@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷138章
+# 角色阶段索引 · 截至第七卷139章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–138章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–139章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [无极真拆磨盘吸碎权完善道意、非新晋](meng-wuji-dismantles-grindmill-absorbs-residual-authority-dao-insight-no-rankjump.md) | 第七卷139章证据与表演边界 |
+| [大道树号纪元吸多余碎权长枝叶、非吞血桃](daotree-epoch-feeds-extra-authority-grows-branches-not-bloodpeach-eaten.md) | 第七卷139章证据与表演边界 |
+| [罗酆黑狱六层山玄冥伪彼岸意、刀剑因灯断联](luofeng-heiyu-sixlayer-mountain-xuanming-pseudopeer-will-contact-severed.md) | 第七卷139章证据与表演边界 |
+| [帝私有死界求道果雏形为猜、残灵转世未知](emperor-private-afterlife-daofruit-embryo-plan-liuluo-guess-reincarnated-spirit-unknown.md) | 第七卷139章证据与表演边界 |
+| [孟收仍封鬼躯赠征伐印、带定位隐患真离牢未登车](meng-collects-stillsealed-ghostavatar-gifts-war-authority-liuluo-leaves-prison.md) | 第七卷139章证据与表演边界 |
+| [王九古墓旁见现任雪山掌、所镇那位未名](wang-siyuan-nine-tombs-current-xueshan-head-meeting-prisoner-identity-unknown.md) | 第七卷139章证据与表演边界 |
 | [刑天实体意斧开天伤掌瞬愈、非孟毫无伤或新晋](xing-tian-will-stoneaxe-opens-chaos-meng-palm-wound-healed-not-fullstrength.md) | 第七卷138章证据与表演边界 |
 | [同化刑天暗忆帝目融斧入盘古影、非真器获](meng-assimilates-xingtian-dark-memory-imperial-eyes-axe-pangu-image-not-artifact.md) | 第七卷138章证据与表演边界 |
 | [磨盘汲躯权道灵、轮返原体植忠败即自亡](heavenprison-grindmill-drains-body-authority-dao-spirit-loyalty-failure-selfdeath.md) | 第七卷138章证据与表演边界 |
