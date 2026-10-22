@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷151章
+# 角色阶段索引 · 截至第七卷152章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–151章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–152章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [本尊庆云与苏孟剑清源拔真定佛三化身明确分工](meng-primary-wuji-sumeng-sword-qingyuan-bajiu-zhending-buddha-three-avatars.md) | 第七卷152章证据与表演边界 |
+| [陆一丝远力弃移岛转拟放残血、拔剑未成](luya-remote-sliver-abandons-island-move-attempts-release-flesh-not-completed.md) | 第七卷152章证据与表演边界 |
+| [真定施与佛光涅槃化陆一丝、不杀陆本尊未召师门](zhending-avatar-giving-buddhalight-nirvana-luya-sliver-not-primary-death.md) | 第七卷152章证据与表演边界 |
+| [袁半身崩溃代价真实远逃、孟重岛弃追](yuan-halfbody-collapse-actual-escape-meng-abandons-pursuit-island-priority.md) | 第七卷152章证据与表演边界 |
+| [岛全禁扯破拔出、袖收搬扶桑与青帝救仍计](jinao-fully-torn-bans-uprooted-sleeve-fusang-qingdi-rescue-only-plan.md) | 第七卷152章证据与表演边界 |
+| [青萍无外手自飞、东皇肉真解封而灵宝意志仅疑](qingping-self-flies-no-external-pull-flesh-unsealed-lingbao-intent-question.md) | 第七卷152章证据与表演边界 |
 | [袁真碎玉传陆远计单斗拖移岛、真混沌藏尚未成](yuan-jade-message-luya-remote-duel-delay-move-island-truechaos-plan-not-done.md) | 第七卷151章证据与表演边界 |
 | [刀棍真实平手多伤重生、袁毛分身守禁真实布](meng-yuan-real-blade-staff-draw-hair-guard-avatars-wounds-regenerate.md) | 第七卷151章证据与表演边界 |
 | [八九烛龙鹏凤混沌互克、同两人不新神兽真器](bajiu-transform-dragon-peng-phoenix-hundun-not-new-actors-real-treasures.md) | 第七卷151章证据与表演边界 |

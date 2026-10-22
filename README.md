@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第151章，1315 / 1410 个目录条目，约416.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第152章，1316 / 1410 个目录条目，约416.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第152章复核](books/yishizhizun/reviews/review-v07-0152.md)：本尊三化身分工、陆远丝被化与袁逃，青萍自行飞走残肉真解封而天意仅疑，33段、34句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0152.md)。
 - [第七卷第151章复核](books/yishizhizun/reviews/review-v07-0151.md)：陆压远讯移岛计划、变法部分命运刀与多形协同实际拔岛，60段、71句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0151.md)。
 - [第七卷第150章复核](books/yishizhizun/reviews/review-v07-0150.md)：东皇血桃因果验证与九印元始反幻、真到金鳌附近袁拳互毁再生，57段、70句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0150.md)。
 - [第七卷第149章复核](books/yishizhizun/reviews/review-v07-0149.md)：顾委选择避金皇预判与神兵内界筛选、金鳌活血清印尚方案，36段、60句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0149.md)。
