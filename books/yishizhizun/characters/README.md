@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷140章
+# 角色阶段索引 · 截至第七卷141章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–140章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–141章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [灵宝天尊同通天、140未名奎牛骑者141后证](lingbao-kuiniu-rider-tongtian-same-ancient-peer-history-traversal.md) | 第七卷141章证据与表演边界 |
+| [历史讲法回望与青萍归灵宝、非孟取剑](lingbao-history-sermon-cross-time-gaze-qingping-return-not-meng-loot.md) | 第七卷141章证据与表演边界 |
+| [灵宝历史插手灵山宣末劫尊、非已见完整战果](lingbao-lingshan-history-intervention-endepoch-i-am-supreme-not-full-battle-seen.md) | 第七卷141章证据与表演边界 |
+| [元始历史圆满庆云与道果难假外物、只云无面](yuanshi-heavenfall-history-complete-cloud-daofruit-externalthings-sigh.md) | 第七卷141章证据与表演边界 |
+| [近封神时河断灵宝消、孟玄女被动返北斗](timeriver-before-fengshen-broken-lingbao-vanishes-return-beidou.md) | 第七卷141章证据与表演边界 |
+| [三界合一复河追三清去向为推论、未合界或获道果物](three-world-union-restore-river-concealed-ancestors-destination-inference.md) | 第七卷141章证据与表演边界 |
 | [镇元实际潜窥与刑汤混眼、忍袖擒未动](zhenyuan-hidden-watcher-part-xingtian-chengtang-near-capture-abandoned.md) | 第七卷140章证据与表演边界 |
 | [镇元复五成以上轮盘沉鬼气入罗酆黑狱、非已夺界](zhenyuan-recreates-over-half-mill-descends-ghostqi-luofeng-not-claims-domain.md) | 第七卷140章证据与表演边界 |
 | [完整死后世界亦末劫关键、非仅雏形需要](complete-afterlife-endepoch-key-not-only-daofruit-embryo-ananda-explanation.md) | 第七卷140章证据与表演边界 |

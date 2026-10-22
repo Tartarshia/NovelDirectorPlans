@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第140章，1304 / 1410 个目录条目，约413.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第141章，1305 / 1410 个目录条目，约413.5万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第141章复核](books/yishizhizun/reviews/review-v07-0141.md)：灵宝逆史与元始道果叹语、断河返驾后三界合一推论，57段、74句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0141.md)。
 - [第七卷第140章复核](books/yishizhizun/reviews/review-v07-0140.md)：镇元藏窥复五成盘下幽、燃影谋堵王求九令与未名奎牛歌者，55段、72句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0140.md)。
 - [第七卷第139章复核](books/yishizhizun/reviews/review-v07-0139.md)：吸权拆磨盘喂树、收封鬼皇赠征伐印离牢与王墓旁会掌，65段、84句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0139.md)。
 - [第七卷第138章复核](books/yishizhizun/reviews/review-v07-0138.md)：刑天伤掌同化、磨盘植忠鬼皇遭占推翻假叛与阿难投影定位，58段、74句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0138.md)。
