@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷136章
+# 角色阶段索引 · 截至第七卷137章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–136章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–137章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [成汤鼎气累世阴德、源转世后不足盛时十分一](chengtang-cauldron-imperial-fortune-generations-yinde-source-less-tenth-strength.md) | 第七卷137章证据与表演边界 |
+| [孟虚大道无极一击还原鼎旗鬼躯、非新彼岸](meng-wuji-virtualdao-destroys-cauldron-flags-ghostbody-not-new-peer.md) | 第七卷137章证据与表演边界 |
+| [成汤真灵自行炸散未生擒、轮回异常待解](chengtang-truespirit-selfbursts-meng-capture-fails-reincarnation-anomaly.md) | 第七卷137章证据与表演边界 |
+| [后土先帝登岸牺身成轮回印、最初持有者未知](houtu-before-emperor-peer-self-sacrifice-reincarnation-seal-firstholder-unknown.md) | 第七卷137章证据与表演边界 |
+| [后土前阴土无轮回与转世三魂替一、玄女旧史](ancient-ghostlands-no-rebirth-before-houtu-three-soul-one-change-testimony.md) | 第七卷137章证据与表演边界 |
+| [孟末劫冒险恢复刀者锐意、最深双石门按向未开](meng-endepoch-courage-renewed-blade-resolve-deepest-two-stonedoors-not-open.md) | 第七卷137章证据与表演边界 |
 | [疑汲神躯精华与孟拟炼造化剑、未得材料](meng-corpse-essence-extraction-suspicion-creation-sword-material-plan-not-forged.md) | 第七卷136章证据与表演边界 |
 | [本纪元首三足金乌死躯、太阳权部分赐羲非羲娥](first-threelegged-goldcrow-deadbody-sun-authority-part-given-xi-not-xie.md) | 第七卷136章证据与表演边界 |
 | [玄女眼映停乌赤帝剑斩尸、无头影再逃](liuluo-mirror-eyes-chidi-sword-goldcrow-body-headless-shadow-escapes.md) | 第七卷136章证据与表演边界 |
