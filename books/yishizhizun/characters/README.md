@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷147章
+# 角色阶段索引 · 截至第七卷148章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–147章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–148章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [通识成就感与末劫预想、孟真返宫神识入左窍](meng-digitalworld-achievement-endepoch-melancholy-return-yuxu-leftaperture.md) | 第七卷148章证据与表演边界 |
+| [顾左窍听全报告慧黠调笑、闭关有成欲出尚未离](gu-leftaperture-intimate-tease-full-report-retreat-progress-exit-plan-not-done.md) | 第七卷148章证据与表演边界 |
+| [顾否韩真帝的反事实与三处线索、非归处已明](gu-emperor-return-hanguang-counterfactual-three-clues-not-known-destination.md) | 第七卷148章证据与表演边界 |
+| [天意知远与早归敌友推、太极杀孟只是举例](gu-peer-future-knowledge-earlyreturn-coalition-taijitu-attack-only-hypothesis.md) | 第七卷148章证据与表演边界 |
+| [青帝道德恩因果未偿前不害、非无条件全护](gu-peer-causal-favor-qingdi-daode-no-harm-before-repayment-conditional.md) | 第七卷148章证据与表演边界 |
+| [八字地府或真死两解未定、顾外出仍计划](eightwords-underworld-or-real-death-alternatives-gu-prepares-travel-not-left.md) | 第七卷148章证据与表演边界 |
 | [高览真抹榜释放冲和真灵、孟先收未成体](gao-removes-chonghe-list-name-releases-truespirit-meng-collects-before-body.md) | 第七卷147章证据与表演边界 |
 | [月光许可东方功德池真重塑冲和归来、非西方极乐](chonghe-actual-meritpool-resurrection-moonlight-permission-eastern-pureland.md) | 第七卷147章证据与表演边界 |
 | [冲和亡约三十年补当势、陆仍天仙突破是期](chonghe-thirty-years-meng-creation-gao-su-legend-luda-heaven-not-yet-legend.md) | 第七卷147章证据与表演边界 |
