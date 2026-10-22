@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷130章
+# 角色阶段索引 · 截至第七卷131章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–130章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–131章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [燃魔同盟孟判与双向因缘差、魔佛仍压灵山](randeng-mofo-alliance-sealed-senses-causal-gap-meng-confirmation.md) | 第七卷131章证据与表演边界 |
+| [玄女真选相助持古赤帝剑、铭名非台词](liuluo-chooses-aid-ancient-chidi-sword-written-name-not-live-call.md) | 第七卷131章证据与表演边界 |
+| [燃过去道门身持塔尺、孟老师意旨臆断扰心失败](randeng-past-dao-body-tower-ruler-meng-teacher-motive-bluff-fails.md) | 第七卷131章证据与表演边界 |
+| [燃实际六定海珠炼己六道、非全部二十四归手](randeng-six-actual-dinghai-beads-personal-sixpaths-not-all24.md) | 第七卷131章证据与表演边界 |
+| [孟化凡连带燃拉锯、魔佛轮回印加压未完成跌境](meng-causal-mortalization-rebound-mofo-seal-accelerates-not-complete-rankloss.md) | 第七卷131章证据与表演边界 |
+| [北斗孤巡逼燃退、玄女急传走与孟疑假未定](beidou-procession-no-dragons-driver-randeng-retreat-liuluo-urges-leave-truth-unknown.md) | 第七卷131章证据与表演边界 |
 | [流罗半殿实际造化、熟帝威恢复快自述](liuluo-halfhall-actual-creation-lamp-familiar-emperor-aura-claim.md) | 第七卷130章证据与表演边界 |
 | [玄女真灵神躯分隔与应身延续、借柳漱玉说](xuannv-spirit-body-separation-manifestation-continuity-liushuyu-claim.md) | 第七卷130章证据与表演边界 |
 | [应身独立人生与传法止传说、孟问嵌套联系](xuannv-manifestations-independent-lives-legend-limit-nested-causal-link.md) | 第七卷130章证据与表演边界 |
