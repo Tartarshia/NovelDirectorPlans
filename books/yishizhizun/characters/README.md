@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷149章
+# 角色阶段索引 · 截至第七卷150章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–149章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–150章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [东皇青萍残血与血桃部分道果因果验、非全体复归](donghuang-qingping-flesh-bloodpeach-partial-fruit-causal-verification-not-fullbody.md) | 第七卷150章证据与表演边界 |
+| [一剑诛仙诸果寻因果、桃气作油非吃桃](meng-solo-zhuxian-causal-lamp-peach-feeling-fuel-not-peach-consumed.md) | 第七卷150章证据与表演边界 |
+| [九印齐元始现为孟反幻声形、非元始本尊新来](meng-nine-seals-yuanshi-counterillusion-voice-not-real-peer-arrival.md) | 第七卷150章证据与表演边界 |
+| [金鳌河外近混沌真感定位、孟到附近未入取血](jinao-outside-timeriver-nearchaos-actual-located-meng-arrives-near-not-inside.md) | 第七卷150章证据与表演边界 |
+| [孟袁双拳真毁再生、八九能争未全胜](meng-yuanhong-real-fists-both-destroyed-regrown-bajiu-can-contend-not-victory.md) | 第七卷150章证据与表演边界 |
+| [袁认旧蝼蚁成长拟请陆压、尚未真正传召](yuanhong-recognizes-meng-growth-plans-consult-luya-not-yet-sent.md) | 第七卷150章证据与表演边界 |
 | [顾筛磨砺地九幽仙天近道受限、Peer内界候选未入](gu-training-options-nether-heaven-neardao-limits-peer-innerworlds-not-entered.md) | 第七卷149章证据与表演边界 |
 | [顾述金皇多方关系、哪位可信需观察未全断](jinhuang-gu-reported-peer-relationship-network-trust-needs-observation.md) | 第七卷149章证据与表演边界 |
 | [古人皇非高览、神兵内界筛选非实际借齐](ancient-humanemperor-not-gao-weapon-innerworld-inventory-not-current-borrow.md) | 第七卷149章证据与表演边界 |
