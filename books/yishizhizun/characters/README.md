@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷150章
+# 角色阶段索引 · 截至第七卷151章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–150章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–151章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [袁真碎玉传陆远计单斗拖移岛、真混沌藏尚未成](yuan-jade-message-luya-remote-duel-delay-move-island-truechaos-plan-not-done.md) | 第七卷151章证据与表演边界 |
+| [刀棍真实平手多伤重生、袁毛分身守禁真实布](meng-yuan-real-blade-staff-draw-hair-guard-avatars-wounds-regenerate.md) | 第七卷151章证据与表演边界 |
+| [八九烛龙鹏凤混沌互克、同两人不新神兽真器](bajiu-transform-dragon-peng-phoenix-hundun-not-new-actors-real-treasures.md) | 第七卷151章证据与表演边界 |
+| [不求来世造局部命运必然势、非彼岸占尽未来](meng-buqiu-laishi-partial-fate-inevitable-blade-not-peer-all-futures.md) | 第七卷151章证据与表演边界 |
+| [孟如来化身破毛禁、无极拦棍与先前八九拔岛分工](meng-tathagata-avatar-bans-break-wuji-block-bajiu-lift-form-roles.md) | 第七卷151章证据与表演边界 |
+| [金鳌实际拔出、目标岛非袁而血尚未取得](meng-actually-uproots-jinao-from-void-not-yuan-target-flesh-not-obtained.md) | 第七卷151章证据与表演边界 |
 | [东皇青萍残血与血桃部分道果因果验、非全体复归](donghuang-qingping-flesh-bloodpeach-partial-fruit-causal-verification-not-fullbody.md) | 第七卷150章证据与表演边界 |
 | [一剑诛仙诸果寻因果、桃气作油非吃桃](meng-solo-zhuxian-causal-lamp-peach-feeling-fuel-not-peach-consumed.md) | 第七卷150章证据与表演边界 |
 | [九印齐元始现为孟反幻声形、非元始本尊新来](meng-nine-seals-yuanshi-counterillusion-voice-not-real-peer-arrival.md) | 第七卷150章证据与表演边界 |
