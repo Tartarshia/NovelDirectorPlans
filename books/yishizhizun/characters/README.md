@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷148章
+# 角色阶段索引 · 截至第七卷149章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–148章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–149章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾筛磨砺地九幽仙天近道受限、Peer内界候选未入](gu-training-options-nether-heaven-neardao-limits-peer-innerworlds-not-entered.md) | 第七卷149章证据与表演边界 |
+| [顾述金皇多方关系、哪位可信需观察未全断](jinhuang-gu-reported-peer-relationship-network-trust-needs-observation.md) | 第七卷149章证据与表演边界 |
+| [古人皇非高览、神兵内界筛选非实际借齐](ancient-humanemperor-not-gao-weapon-innerworld-inventory-not-current-borrow.md) | 第七卷149章证据与表演边界 |
+| [顾主动委决避金皇预判、人皇剑仅备选](gu-delegates-choice-to-meng-avoid-jinhuang-prediction-sword-backup.md) | 第七卷149章证据与表演边界 |
+| [金鳌青萍镇活古皇血肉为目标、名未直述尚未取](jinao-qingping-sovereign-living-flesh-plan-name-unstated-not-obtained.md) | 第七卷149章证据与表演边界 |
+| [绝刀魔印仍在、借古血激桃清印全醒只是方案](jueblade-remnant-still-present-flesh-bloodpeach-full-awakening-only-plan.md) | 第七卷149章证据与表演边界 |
 | [通识成就感与末劫预想、孟真返宫神识入左窍](meng-digitalworld-achievement-endepoch-melancholy-return-yuxu-leftaperture.md) | 第七卷148章证据与表演边界 |
 | [顾左窍听全报告慧黠调笑、闭关有成欲出尚未离](gu-leftaperture-intimate-tease-full-report-retreat-progress-exit-plan-not-done.md) | 第七卷148章证据与表演边界 |
 | [顾否韩真帝的反事实与三处线索、非归处已明](gu-emperor-return-hanguang-counterfactual-three-clues-not-known-destination.md) | 第七卷148章证据与表演边界 |
