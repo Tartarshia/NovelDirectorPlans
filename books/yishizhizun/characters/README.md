@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷133章
+# 角色阶段索引 · 截至第七卷134章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–133章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–134章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [北斗真降残陆隔黑风压地裂、未证终点](beidou-lands-ruined-mainland-storm-canopy-ground-cracks-not-finalorigin-confirmed.md) | 第七卷134章证据与表演边界 |
+| [真天牢流罗未入、旧神囚禁万古寿尽论非现场全查](true-heavenprison-liuluo-never-entered-oldgods-captives-survival-argument.md) | 第七卷134章证据与表演边界 |
+| [雷初强于帝、帝七杀碑突破先天旧史证言](thundergod-initially-stronger-emperor-sevenkill-tablet-innate-limit-history.md) | 第七卷134章证据与表演边界 |
+| [流罗未眠绕雷封、太阳神君藏过去殿节点未知](liuluo-pre-sleep-bypassed-thunder-seal-solar-pasthall-timing-unknown.md) | 第七卷134章证据与表演边界 |
+| [玄女称寿星坠天战未死、非现在寿星复活](shouxing-not-dead-during-heavenfall-liuluo-testimony-not-revived-now.md) | 第七卷134章证据与表演边界 |
+| [孟疑寿星尸后来摆等拿血桃、布置者未定](meng-later-placed-shouxing-corpse-bloodpeach-for-him-unidentified-arranger-hypothesis.md) | 第七卷134章证据与表演边界 |
 | [广成造化顶峰三花未坠、旧十二仙凡化非当前](guangcheng-current-peak-resists-array-old-twelve-immortals-loss-not-current.md) | 第七卷133章证据与表演边界 |
 | [帝盖残驾增幅察伏、自在六字是符文非念诵](beidou-emperor-canopy-amplifies-perception-zizai-six-written-mantra-glyphs.md) | 第七卷133章证据与表演边界 |
 | [多宝天尊赤面黄须正式明名、潜伏猎黄雀](duobao-tianzun-confirmed-redface-hidden-hunter-not-only-meng-suspicion.md) | 第七卷133章证据与表演边界 |

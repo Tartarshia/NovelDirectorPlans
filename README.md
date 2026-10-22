@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第133章，1297 / 1410 个目录条目，约411.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第134章，1298 / 1410 个目录条目，约411.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第134章复核](books/yishizhizun/reviews/review-v07-0134.md)：真天牢旧雷帝史与绕封证言、寿星未战死引晚置尸猜，62段、105句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0134.md)。
 - [第七卷第133章复核](books/yishizhizun/reviews/review-v07-0133.md)：多宝正名、帝盖增感八九假帝退敌救广又吓广逃，53段、66句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0133.md)。
 - [第七卷第132章复核](books/yishizhizun/reviews/review-v07-0132.md)：北斗仅残痕灯引路线、孟实际登驾参岁月与三霄金斗黄河困广，40段、53句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0132.md)。
 - [第七卷第131章复核](books/yishizhizun/reviews/review-v07-0131.md)：玄女古赤帝剑、燃六珠化凡与魔佛印、北斗孤巡逼退燃真伪悬，74段、84句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0131.md)。
