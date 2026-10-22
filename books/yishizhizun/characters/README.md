@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷128章
+# 角色阶段索引 · 截至第七卷129章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–128章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–129章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟真开青铜门入最上、庆云抗虚无非新彼岸](meng-opens-bronze-gate-enters-uppermost-void-qingyun-actual-not-peer.md) | 第七卷129章证据与表演边界 |
+| [文殊五慧莲与广成三花、各家护体差异](wenshu-five-wisdom-lotuses-guangcheng-three-flowers-distinct-ways.md) | 第七卷129章证据与表演边界 |
+| [弥勒两舍利未复未来、自在佛年轻像不解旧俊僧](mile-two-relics-zizai-young-appearance-not-unknown-monk-resolved.md) | 第七卷129章证据与表演边界 |
+| [三霄复生勉强造化、疑多宝与未名新晋女修](sanxiao-bare-creation-suspected-duobao-unnamed-greenrobed-newcreation.md) | 第七卷129章证据与表演边界 |
+| [广成提醒燃镇敌意、玉虚联袂结阵](guangcheng-allied-formation-warning-randeng-zhenyuan-not-actual-attack.md) | 第七卷129章证据与表演边界 |
+| [天帝半碑旧建庭文字、残息时光散众非复活](tiandi-halfstele-written-foundation-history-residual-aura-scattering-not-rebirth.md) | 第七卷129章证据与表演边界 |
 | [韩第三类星海实获部分仙权、太上补令部分回流](han-thirdclass-star-sea-authority-acquired-some-returned-not-all-lost.md) | 第七卷128章证据与表演边界 |
 | [道德太上白鹤赠二十四品神箓、宣声不强本尊](daode-crane-twentyfour-rank-talismans-announcement-voice-unassigned.md) | 第七卷128章证据与表演边界 |
 | [少玄紫薇羲娥雷尊神职造化、两名额高不自领](shaoxuan-xie-divinepost-creation-ziwei-thunder-two-slots-gao-no-selfgrant.md) | 第七卷128章证据与表演边界 |
