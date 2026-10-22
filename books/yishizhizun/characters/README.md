@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷142章
+# 角色阶段索引 · 截至第七卷143章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–142章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–143章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [清光认建木、枯灰巨树顶果仍问未摘](jianmu-core-clearlight-identified-decaying-tree-fruit-still-question.md) | 第七卷143章证据与表演边界 |
+| [孟玄女真离北斗自飞、鹏速更快实竞](meng-liuluo-actually-leave-beidou-cloud-flight-peng-faster.md) | 第七卷143章证据与表演边界 |
+| [绝刀元磁引鹏中和二气合力拳震牛、非杀获道](meng-jueblade-magnetism-neutralize-peng-yinyang-combined-punch-repels-bull.md) | 第七卷143章证据与表演边界 |
+| [自在虚时大道短逆过去、孟无极撼裂未晋彼岸](zizai-virtual-time-dao-short-upstream-meng-wuji-cracks-not-peer.md) | 第七卷143章证据与表演边界 |
+| [广成青剑远声护、众剑未逐名胜负未决](guangcheng-distant-sword-yuxu-defense-many-blades-outcome-unresolved.md) | 第七卷143章证据与表演边界 |
+| [麻烦好本意引玉虚同门、非鲁莽无援或已全胜](meng-trouble-good-resonance-draws-yuxu-reinforcement-intent-revealed.md) | 第七卷143章证据与表演边界 |
 | [舍钦止虚开派祖、墓中混乱吼者不等东皇全归](she-qin-zhixu-founder-tomb-voice-not-donghuang-complete-return.md) | 第七卷142章证据与表演边界 |
 | [王真正墓内九令洛书主持小禁、交接过程未源给](wang-inside-tomb-nine-tokens-luoshu-small-ban-actual-use.md) | 第七卷142章证据与表演边界 |
 | [王称真东皇提供隐史、舍钦险夺与灵宝剑阻是王叙述](wang-claims-true-donghuang-source-sheqin-near-possession-lingbao-sword.md) | 第七卷142章证据与表演边界 |
