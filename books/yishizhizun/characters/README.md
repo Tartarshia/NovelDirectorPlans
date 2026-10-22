@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷131章
+# 角色阶段索引 · 截至第七卷132章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–131章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–132章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟真登北斗穿时障、金铁钟声醒神无说者](meng-boards-beidou-timebarriers-metal-bell-clears-mind-voice-unassigned.md) | 第七卷132章证据与表演边界 |
+| [流罗烛火灯塔指北斗路线、帝仅残痕非复活](liuluo-candle-beacon-guides-beidou-residual-emperor-not-revival.md) | 第七卷132章证据与表演边界 |
+| [北斗残界边缘回返或达巡起点、尚未抵达](beidou-route-broken-world-boundary-return-origin-destination-not-reached.md) | 第七卷132章证据与表演边界 |
+| [燃魔先退保命与旧雷背叛、尚未实际折返](randeng-mofo-retreat-prudence-thunderbetrayal-limited-projection-not-returned.md) | 第七卷132章证据与表演边界 |
+| [流罗清源封前曾来未深、孟车上参岁月未新晋](liuluo-visited-before-yang-seal-meng-reflects-time-not-new-attainment.md) | 第七卷132章证据与表演边界 |
+| [云琼碧三霄金斗黄河阵、广成苦撑孟未救](sanxiao-yellowriver-array-hunyuan-jindou-guangcheng-trapped-meng-not-rescued.md) | 第七卷132章证据与表演边界 |
 | [燃魔同盟孟判与双向因缘差、魔佛仍压灵山](randeng-mofo-alliance-sealed-senses-causal-gap-meng-confirmation.md) | 第七卷131章证据与表演边界 |
 | [玄女真选相助持古赤帝剑、铭名非台词](liuluo-chooses-aid-ancient-chidi-sword-written-name-not-live-call.md) | 第七卷131章证据与表演边界 |
 | [燃过去道门身持塔尺、孟老师意旨臆断扰心失败](randeng-past-dao-body-tower-ruler-meng-teacher-motive-bluff-fails.md) | 第七卷131章证据与表演边界 |
