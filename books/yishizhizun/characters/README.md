@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷155章
+# 角色阶段索引 · 截至第七卷156章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–155章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–156章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟虚开天幡实际开界、清浊未完成兼仙九星空](meng-actual-reopens-nearchaos-virtual-pangu-banner-incomplete-stars-no-neardao.md) | 第七卷156章证据与表演边界 |
+| [本界功德上帝道德童子岁月老祖等凶神非原器神本尊](innerworld-xuanhuang-gongde-daode-boy-suiyue-ancestor-local-demons-not-primordial-artifacts.md) | 第七卷156章证据与表演边界 |
+| [顾真显身先指控法碟越界避时逆、尚未吸待共享](gu-actual-finger-controls-law-jadedisc-exits-before-rewind-not-absorbed-share.md) | 第七卷156章证据与表演边界 |
+| [残灵本界时逆退诛仙阵未死、不能追回越界玉碟](residual-donghuang-spirit-local-time-rewind-zhuxian-reset-not-killed.md) | 第七卷156章证据与表演边界 |
+| [顾提共享同化碟掌界逐神吞道压灵、尚未实行](meng-gu-plan-jadedisc-assimilation-slay-local-gods-absorb-dao-not-done.md) | 第七卷156章证据与表演边界 |
+| [镇元鬼帝形罗酆机缘已得、按Q约索地府未交](zhenyuan-actual-ghostemperor-form-luofeng-progress-requests-underworld-handover.md) | 第七卷156章证据与表演边界 |
+| [Q地府承诺非为自身、并真空迎老母仍计划](qingdi-promise-jinhuang-underworld-vacuum-home-merge-welcome-only-plan.md) | 第七卷156章证据与表演边界 |
 | [孟顾真悟桃时道、残血钟近脱而停再引](meng-gu-bloodpeach-time-insight-bloodclock-near-break-stop-aura-contact.md) | 第七卷155章证据与表演边界 |
 | [同入磨兼除残灵访旧迹、清血醒刀仍计划](flesh-residual-spirit-removal-history-search-blade-awakening-only-plan.md) | 第七卷155章证据与表演边界 |
 | [顾可能恶投影推与Peer内界无近道上限评](gu-evil-projection-peer-world-no-neardao-max-creation-assessment.md) | 第七卷155章证据与表演边界 |

@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第155章，1319 / 1410 个目录条目，约417.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第156章，1320 / 1410 个目录条目，约417.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第156章复核](books/yishizhizun/reviews/review-v07-0156.md)：实际开界顾显身取碟越界避局部时逆、未吸待共享，镇元索地府尚未交，65段、80句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0156.md)。
 - [第七卷第155章复核](books/yishizhizun/reviews/review-v07-0155.md)：桃悟时道停血刺激、真身假果实际入残血界，开天仍顾提议，35段、53句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0155.md)。
 - [第七卷第154章复核](books/yishizhizun/reviews/review-v07-0154.md)：血仍制刀燃灯拒释魔、王已转残留蜕变，孟实收岛归玉虚一丝气试桃，53段、78句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0154.md)。
 - [第七卷第153章复核](books/yishizhizun/reviews/review-v07-0153.md)：吞血四形入刀、魔佛刀印彻底消除而血钟尚镇，雷东背叛仅孟推、净土阿难太一同步，67段、72句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0153.md)。
