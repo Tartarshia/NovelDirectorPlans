@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第170章，1334 / 1410 个目录条目，约421.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第171章，1335 / 1410 个目录条目，约421.5万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第171章复核](books/yishizhizun/reviews/review-v07-0171.md)：魔君复臂幽伪岸、孟四影两全醒神兵诛仙暂困三敌，杨突袭罗酆真目标断老母手未给结果；39段40单元；[状态账](books/yishizhizun/reviews/ledger-v07-0171.md)。
 - [第七卷第170章复核](books/yishizhizun/reviews/review-v07-0170.md)：幽始铭印完成仍仅转印，佛祖异变仅读者见、不死当今新增旧忆；自在认孟己肉青帝悟需盟友，59段81单元；[状态账](books/yishizhizun/reviews/ledger-v07-0170.md)。
 - [第七卷第169章复核](books/yishizhizun/reviews/review-v07-0169.md)：灯圈月光九灵护林到净土匣空，自在时取开肉包头；孟达幽诞生极限初真见元始只印，61段68句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0169.md)。
 - [第七卷第168章复核](books/yishizhizun/reviews/review-v07-0168.md)：大轮被未知葫芦收林续送未达、A释投石分步骤改暂不脱封，孟再逆神话候辨妖圣天杀战，48段74句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0168.md)。

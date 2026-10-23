@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷170章
+# 角色阶段索引 · 截至第七卷171章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–170章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–171章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [魔君失臂已修复回峰更进伪岸、幽史回溯未到开辟](mojun-arm-restored-pseudopeer-nineyou-retrace-not-origin.md) | 第七卷171章证据与表演边界 |
+| [魔君七杀自保援黑天、非投佛门或已经逐出九幽](mojun-qisha-help-heitian-selfpreservation-not-buddhist-allegiance.md) | 第七卷171章证据与表演边界 |
+| [杨血海从未来缝隙渗六皇阵、非杀过去弱魔君](yang-future-bloodsea-seeps-six-emperors-sword-array-not-past-weakness.md) | 第七卷171章证据与表演边界 |
+| [孟收冥海剑气但初剑被黑天弹碎、非毁冥海原剑](meng-absorbs-minghai-swordqi-heitian-shatters-first-chaos-sword.md) | 第七卷171章证据与表演边界 |
+| [四孟两完全苏醒彼岸级神兵立诛仙困三伪岸、非杀敌已成](meng-fourforms-zhuxian-two-fully-awake-peer-weapons-trap-three-not-kill.md) | 第七卷171章证据与表演边界 |
+| [黑天源明菩提三尸之一伪彼岸、非仅旁观疑问或真彼岸本体](heitian-explicit-bodhi-threecorpse-source-not-formal-peer.md) | 第七卷171章证据与表演边界 |
+| [杨真降罗酆攻真空家乡黄泉贯口、断老母之手为目标未给完成](yang-actual-luofeng-bloodsea-attacks-laomu-huangquan-link-not-severed-result.md) | 第七卷171章证据与表演边界 |
 | [孟九幽开辟铭印完成、意识只能转移非真岸同时性](meng-nineyou-origin-imprints-complete-consciousness-transfers-not-peer-simultaneity.md) | 第七卷170章证据与表演边界 |
 | [孟离场后佛祖烙印褪皮回首四十佛牙、读者所见机制未解](buddha-imprint-peels-after-meng-departure-forty-teeth-reader-only.md) | 第七卷170章证据与表演边界 |
 | [不死昔与幽缝孟对话当前新增记忆、普贤观音问名未解](undying-past-nineyou-meng-dialogue-current-added-memory-not-name-resolved.md) | 第七卷170章证据与表演边界 |
