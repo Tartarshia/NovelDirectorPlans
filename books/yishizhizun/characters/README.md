@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷169章
+# 角色阶段索引 · 截至第七卷170章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–169章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–170章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟九幽开辟铭印完成、意识只能转移非真岸同时性](meng-nineyou-origin-imprints-complete-consciousness-transfers-not-peer-simultaneity.md) | 第七卷170章证据与表演边界 |
+| [孟离场后佛祖烙印褪皮回首四十佛牙、读者所见机制未解](buddha-imprint-peels-after-meng-departure-forty-teeth-reader-only.md) | 第七卷170章证据与表演边界 |
+| [不死昔与幽缝孟对话当前新增记忆、普贤观音问名未解](undying-past-nineyou-meng-dialogue-current-added-memory-not-name-resolved.md) | 第七卷170章证据与表演边界 |
+| [不死报告菩提恰挡妖圣、污五德动机仍仿佛推断](undying-bodhi-blocked-yaosheng-lingshan-witness-motive-as-if-not-proof.md) | 第七卷170章证据与表演边界 |
+| [自在认孟同化东皇所得己肉、未真进极乐已自落非重创](zizai-recognizes-meng-own-assimilated-flesh-falls-before-pureland-no-severe-injury.md) | 第七卷170章证据与表演边界 |
+| [青帝领悟需要玉虚彼岸盟友、无本章正式应诺](qingdi-understands-yuxu-peer-ally-need-no-explicit-pledge.md) | 第七卷170章证据与表演边界 |
 | [神话老母目碰孟即收、妖圣天杀只无真灵史印](meng-laomu-mythic-gaze-clash-yaosheng-tiansha-only-imprints-no-true-spirit.md) | 第七卷169章证据与表演边界 |
 | [游子灯改林传向、未名白缺圈实套灯操者未名](youzi-lamp-reroutes-lin-white-gapped-ring-captures-lamp-controller-unnamed.md) | 第七卷169章证据与表演边界 |
 | [月光造化引传九灵现救、鬼袖强关联镇元但本章未名](moonlight-creation-guides-jiuling-current-roar-rescues-ghost-sleeve-user-not-named.md) | 第七卷169章证据与表演边界 |
