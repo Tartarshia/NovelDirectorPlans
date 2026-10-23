@@ -1,11 +1,21 @@
-# 角色阶段索引 · 截至第七卷163章
+# 角色阶段索引 · 截至第七卷164章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–163章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–164章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾择时干扰孙首赢一次再平手、非全战胜老母](gu-intermittent-absorption-sun-first-collision-win-then-draw-not-total-victory.md) | 第七卷164章证据与表演边界 |
+| [真武冲岸失败彻陨、Q收元阳尺双剑返派姚亲见](zhenwu-peer-attempt-fails-terminal-fall-qingdi-yuanyang-two-swords-yao.md) | 第七卷164章证据与表演边界 |
+| [L驾金蝉遗蜕触孙师父心魔、极大代价非老师复生](laomu-jinchan-remains-sun-mental-demon-not-revived-teacher-great-price.md) | 第七卷164章证据与表演边界 |
+| [顾杨拖刹杏黄旗真毁、九乱终于控爪驱老母](yang-xinghuang-banner-destroyed-gu-delay-jiuluan-full-claw-control-expels-laomu.md) | 第七卷164章证据与表演边界 |
+| [顾及时止吸未傀未爆、逆无生指真返血孟保己清醒](gu-reverses-wusheng-returns-absorbed-flesh-to-meng-remains-lucid-not-exploded.md) | 第七卷164章证据与表演边界 |
+| [传谕神使资深传说、胁亲友逼出幽孟被顾拉未出](chuanyu-envoy-senior-legend-hostage-threat-meng-not-leaves-nineyou.md) | 第七卷164章证据与表演边界 |
+| [Gao众生反噬拼月气断玺被接、人皇剑移幽录遗语](gao-actual-death-people-backlash-seal-taken-humanemperor-sword-recorded-bequest.md) | 第七卷164章证据与表演边界 |
+| [江芷微实际踏传说出战、老母月辉与剑同亡](jiang-zhiwei-actual-legend-attainment-laomu-moonlight-kills-with-sword.md) | 第七卷164章证据与表演边界 |
+| [阮玉书泪琴绝唱自毁真灵、非新传说或新增告白](ruan-yushu-final-qin-self-destroys-true-spirit-not-legend-or-new-speech.md) | 第七卷164章证据与表演边界 |
+| [玉虚真毁青帝因果清止境、顾收双器牵怪孟深幽](yuxu-palace-destroyed-qingdi-causality-cleared-stops-gu-takes-two-weapons-deeper.md) | 第七卷164章证据与表演边界 |
 | [阿难意志交流诱灵山解封、预测失利直承自利燃灯未行](ananda-will-exchange-selfinterest-lingshan-release-proposal-randeng-not-acted.md) | 第七卷163章证据与表演边界 |
 | [九乱已拿魔爪未掌控、魔君七杀击不中其过去想退](jiuluan-actual-takes-demonclaw-not-controlled-mojun-qisha-cannot-hit-past.md) | 第七卷163章证据与表演边界 |
 | [真武勾原点半虚果元阳尺逆流醒昔、未成彼岸](zhenwu-actual-origin-halfvirtual-fruit-yuanyang-ruler-wakes-past-not-peer-yet.md) | 第七卷163章证据与表演边界 |
