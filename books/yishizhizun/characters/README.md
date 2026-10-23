@@ -1,11 +1,19 @@
-# 角色阶段索引 · 截至第七卷165章
+# 角色阶段索引 · 截至第七卷166章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–165章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–166章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟真造星河陨晶玉匣入林怀、托扶桑途中未交](meng-creates-starriver-crystal-jadebox-lin-courier-fusang-not-delivered-yet.md) | 第七卷166章证据与表演边界 |
+| [林实际倒退诸景回海保物只忆黑山、先逃避新裂](lin-actual-reverses-modern-scenes-to-coast-remembers-meng-only-avoids-new-rift.md) | 第七卷166章证据与表演边界 |
+| [顾自身与血入人皇剑醒孟、漫长双修无极互补复常](gu-self-and-flesh-into-humanemperor-sword-wakes-meng-long-dualpractice-restores.md) | 第七卷166章证据与表演边界 |
+| [孟顾实征血内神魔后彻抹残灵、非156已杀](meng-gu-actual-innerworld-god-conquests-finally-erase-donghuang-residual-spirit.md) | 第七卷166章证据与表演边界 |
+| [孟造化顶峰九幽伪岸、顾十年前圆满非正式Peer](meng-creationpeak-nineyou-pseudopeer-gu-perfection-tenyears-not-real-peer.md) | 第七卷166章证据与表演边界 |
+| [孟今日蓄势重根基、弥勒可能冲岸与拒复舍利杨口述](meng-begins-peer-preparation-mile-opportunity-yang-reports-no-future-relic-restore.md) | 第七卷166章证据与表演边界 |
+| [杨自陈谨慎缺绝争、祖批下纪元机条件非当前Peer](yang-cautious-selfaccount-next-epoch-bid-condition-not-current-peer.md) | 第七卷166章证据与表演边界 |
+| [杨说孟兼Mofo他我与元始减空产物、道一印为始未全机制](yang-says-meng-mofo-other-self-and-yuanshi-reduction-product-dao1-start.md) | 第七卷166章证据与表演边界 |
 | [林素河七海道门支派弟子、坠裂醒现代街无重伤境界未名](lin-suhe-sevenseas-daoist-rift-fall-modern-street-survives-rank-unnamed.md) | 第七卷165章证据与表演边界 |
 | [白裙炊饼古琴少女未名、不可直接阮复生](modern-white-dress-food-guqin-girl-unidentified-not-confirmed-ruan-revival.md) | 第七卷165章证据与表演边界 |
 | [园林四老麻将仅五须常笑两口、真实身份未解](modern-garden-four-retired-mahjong-elders-two-voices-identities-unresolved.md) | 第七卷165章证据与表演边界 |
