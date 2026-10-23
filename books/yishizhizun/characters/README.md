@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷173章
+# 角色阶段索引 · 截至第七卷174章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–173章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–174章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟对光阴刀条件互助大愿、即撤心魔放掌门未待答](meng-timeblade-conditional-vow-releases-xuantian-host-no-answer.md) | 第七卷174章证据与表演边界 |
+| [七杀冥海剑彻醒、孟以魔佛吞幽风险游说未获诺](qisha-minghai-fullyawake-meng-recruits-via-mofo-nether-risk-no-pledge.md) | 第七卷174章证据与表演边界 |
+| [Gu待幽屏障断入他化梦请阿弥、童娘亲声未名](gu-actual-dream-source-jieyin-ferryman-amitabha-invited-via-nether.md) | 第七卷174章证据与表演边界 |
+| [阿弥明承能驱使伏皇、完整受控来由未详](amitabha-explicitly-admits-controls-fuhuang-not-origin-mechanism-revealed.md) | 第七卷174章证据与表演边界 |
+| [Gu提助孟换Mile回报、阿弥无答未结盟](gu-offers-meng-mile-mutual-help-amitabha-no-answer-or-alliance-yet.md) | 第七卷174章证据与表演边界 |
+| [Gu离梦后未名满月清冷女声质阿弥、身份与新约未明](after-gu-leaves-dream-fullmoon-cold-female-voice-unnamed-questions-amitabha.md) | 第七卷174章证据与表演边界 |
+| [阿弥称道德早成道果雏形末劫影响小、非当场新晋](amitabha-daode-proto-daofruit-speech-not-current-new-breakthrough.md) | 第七卷174章证据与表演边界 |
 | [妖皇人祖恩德不索债、孟念身存在依主人许可](yaohuang-human-ancestor-grace-not-debt-palace-permission-meng-thoughtbody.md) | 第七卷173章证据与表演边界 |
 | [孟陈孙受创杨不愿九灵一门两岸、候选比较非已晋](meng-candidate-argument-sun-damaged-yang-unwilling-jiuling-twopeers-onehouse.md) | 第七卷173章证据与表演边界 |
 | [妖皇看住魔佛本己意愿、非直接参战全力保孟成岸](yaohuang-watch-mofo-at-meng-peer-bid-limited-response-not-direct-war.md) | 第七卷173章证据与表演边界 |
