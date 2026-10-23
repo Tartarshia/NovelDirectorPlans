@@ -1,11 +1,19 @@
-# 角色阶段索引 · 截至第七卷162章
+# 角色阶段索引 · 截至第七卷163章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–162章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–163章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [阿难意志交流诱灵山解封、预测失利直承自利燃灯未行](ananda-will-exchange-selfinterest-lingshan-release-proposal-randeng-not-acted.md) | 第七卷163章证据与表演边界 |
+| [九乱已拿魔爪未掌控、魔君七杀击不中其过去想退](jiuluan-actual-takes-demonclaw-not-controlled-mojun-qisha-cannot-hit-past.md) | 第七卷163章证据与表演边界 |
+| [真武勾原点半虚果元阳尺逆流醒昔、未成彼岸](zhenwu-actual-origin-halfvirtual-fruit-yuanyang-ruler-wakes-past-not-peer-yet.md) | 第七卷163章证据与表演边界 |
+| [刀斧碎顶层孙甲毁肉生、护人近极限未死](sun-axe-blade-shatters-toplayer-armor-meat-regrows-protection-near-limit.md) | 第七卷163章证据与表演边界 |
+| [顾低语八字全死解是其推悟、忆夫舍命非孟新口](gu-ten-deaths-reading-actual-murmur-memory-meng-sacrifice-not-objective-fullsolution.md) | 第七卷163章证据与表演边界 |
+| [顾无生指桃气实际吸血与无极、眼红欲爆未爆](gu-wusheng-finger-peach-aura-actual-absorbs-flesh-wuji-not-exploded-yet.md) | 第七卷163章证据与表演边界 |
+| [顾强老母弱本章源明、月亏斧弱影响有限非全退境](gu-stronger-laomu-weaker-source-confirmed-moon-wanes-axe-slow-limited-effect.md) | 第七卷163章证据与表演边界 |
+| [怪孟点眉悲怒、顾劝相信实平静非背叛杀夫或复智](meng-monster-grief-gu-trust-reassurance-calms-not-actual-betrayal-or-full-reason.md) | 第七卷163章证据与表演边界 |
 | [杨八九变化血魔、真吞天杀遗蜕瞒敌原造化圆满](yang-blooddemon-bajiu-actual-consumed-tiansha-remains-original-creationperfect.md) | 第七卷162章证据与表演边界 |
 | [黑天被称古佛、旁观推菩提最秘三尸与替代时间](heitian-called-ancientbuddha-observers-infer-secret-bodhi-corpse-replacement-time.md) | 第七卷162章证据与表演边界 |
 | [顾感官被断靠逻辑预援、相公似死是内评不真死](gu-senses-cut-logical-sun-yang-aid-ten-death-key-meng-like-dead-not-dead.md) | 第七卷162章证据与表演边界 |
