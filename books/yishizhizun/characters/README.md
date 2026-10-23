@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷159章
+# 角色阶段索引 · 截至第七卷160章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–159章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–160章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟明确怪化失理、碟影树灯三护最后本性未灭](meng-monster-reason-lost-corelight-protected-disc-shadow-tree-lamp-not-dead.md) | 第七卷160章证据与表演边界 |
+| [王遥感未助、燃灯观玉虚发蛇本能袭被阿难警断](wang-senses-meng-randeng-causal-hair-serpents-ananda-warning-not-capture.md) | 第七卷160章证据与表演边界 |
+| [绝刀明确彻底苏醒、怪孟合刀仅令老母指短顿](jueblade-fully-awakened-monster-meng-first-strike-only-delays-laomu-finger.md) | 第七卷160章证据与表演边界 |
+| [顾明确传音收过往去九幽、怪孟刀云行非正式Peer](gu-telepathy-collect-pasts-borrow-blade-wuji-not-meng-peer-timepower.md) | 第七卷160章证据与表演边界 |
+| [两人真实过去蜷当前幽球、历史仅印非全史抹](meng-gu-pastselves-coil-current-sphere-history-imprints-not-erased.md) | 第七卷160章证据与表演边界 |
+| [九幽顶实际到达幽球崩、双昔入当地时河刀隔真实界](actual-nineyou-top-entry-pastselves-local-timeriver-blade-block-return.md) | 第七卷160章证据与表演边界 |
+| [孙悟空暗黑猿真实到场称奉老君等、借刀尚请求](sun-wukong-darkape-actual-arrives-laojun-wait-order-borrow-blade-only-request.md) | 第七卷160章证据与表演边界 |
 | [玉虚意识聚宫无师护、玉鼎赤精决护掌教](yuxu-mind-manifestations-meeting-absent-yuanshi-yuding-chijing-resolve.md) | 第七卷159章证据与表演边界 |
 | [道行燃花玉鼎真兵解赤精倾道、真实代价出剑](daoxing-dao-flowers-burn-yuding-body-dissolves-chijing-dao-into-sword.md) | 第七卷159章证据与表演边界 |
 | [广成崩三花四剑三圆满一近岸、非正式四Peer](guangcheng-flowers-collapse-four-swords-three-perfect-one-nearpeer-not-true-peer.md) | 第七卷159章证据与表演边界 |

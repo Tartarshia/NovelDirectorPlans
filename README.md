@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第159章，1323 / 1410 个目录条目，约418.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第160章，1324 / 1410 个目录条目，约418.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第160章复核](books/yishizhizun/reviews/review-v07-0160.md)：怪孟失理三护本性、顾传音真收双昔入九幽，绝刀明确彻醒孙实来借刀待交，50段、55句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0160.md)。
 - [第七卷第159章复核](books/yishizhizun/reviews/review-v07-0159.md)：四师燃道玉鼎兵解月华纳剑、文殊护哪吒，孟真引血入己桃给顾绝刀全释，55段、64句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0159.md)。
 - [第七卷第158章复核](books/yishizhizun/reviews/review-v07-0158.md)：老母光亏识顾活警玉虚、银角堵路报确认准提，顾未听讯提议未行、孟自救路未执行，55段、65句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0158.md)。
 - [第七卷第157章复核](books/yishizhizun/reviews/review-v07-0157.md)：地府真交权真空合老母归，玉碟共炼尽孟正式中游根不稳、顾未明晋，63段、72句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0157.md)。
