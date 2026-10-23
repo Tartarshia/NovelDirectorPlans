@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷161章
+# 角色阶段索引 · 截至第七卷162章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–161章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–162章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [杨八九变化血魔、真吞天杀遗蜕瞒敌原造化圆满](yang-blooddemon-bajiu-actual-consumed-tiansha-remains-original-creationperfect.md) | 第七卷162章证据与表演边界 |
+| [黑天被称古佛、旁观推菩提最秘三尸与替代时间](heitian-called-ancientbuddha-observers-infer-secret-bodhi-corpse-replacement-time.md) | 第七卷162章证据与表演边界 |
+| [顾感官被断靠逻辑预援、相公似死是内评不真死](gu-senses-cut-logical-sun-yang-aid-ten-death-key-meng-like-dead-not-dead.md) | 第七卷162章证据与表演边界 |
+| [孙杨弱昔早收幽仅留印、杏黄旗无极大人物遮蔽](sun-yang-pasts-only-realworld-imprints-xinghuang-banner-wuji-hidden-transfer.md) | 第七卷162章证据与表演边界 |
+| [孙八九无极佛道双相合一、实拔九幽慢侵非新Peer](sun-bajiu-wuji-victoriousbuddha-body-union-cleans-nineyou-slow-corrosion.md) | 第七卷162章证据与表演边界 |
+| [老母持彻醒天诛斧、九纹非台词顾无记忆未劈杀孙](laomu-actual-fullawake-tianzhu-axe-nine-inscriptions-gu-no-memory-not-kill.md) | 第七卷162章证据与表演边界 |
+| [玄水时命河异象斧缓老母叫真武、冲岸未交成功](zhenwu-blackwater-timefate-omen-laomu-axe-slows-peer-bid-not-success-yet.md) | 第七卷162章证据与表演边界 |
 | [孙实际接刀、顾认可制止怪孟本能不等复智](sun-actual-borrows-blade-gu-consents-monster-meng-restrained-not-reason-restored.md) | 第七卷161章证据与表演边界 |
 | [孙伪岸合全醒刀真挡老母掌、素色旗未夺未毁](sun-pseudopeer-awake-blade-blocks-laomu-palm-plain-cloud-banner-not-victory.md) | 第七卷161章证据与表演边界 |
 | [怪孟九幽加持与刀护双时免灰、非已击穿下一层](meng-gu-nineyou-boost-blade-protects-past-future-not-killed-by-aftershock.md) | 第七卷161章证据与表演边界 |
