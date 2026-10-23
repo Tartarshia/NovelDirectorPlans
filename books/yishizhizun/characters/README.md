@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷172章
+# 角色阶段索引 · 截至第七卷173章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–172章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–173章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [妖皇人祖恩德不索债、孟念身存在依主人许可](yaohuang-human-ancestor-grace-not-debt-palace-permission-meng-thoughtbody.md) | 第七卷173章证据与表演边界 |
+| [孟陈孙受创杨不愿九灵一门两岸、候选比较非已晋](meng-candidate-argument-sun-damaged-yang-unwilling-jiuling-twopeers-onehouse.md) | 第七卷173章证据与表演边界 |
+| [妖皇看住魔佛本己意愿、非直接参战全力保孟成岸](yaohuang-watch-mofo-at-meng-peer-bid-limited-response-not-direct-war.md) | 第七卷173章证据与表演边界 |
+| [青丘近圆满是孟评枪已醒彼岸级、太离现造化](qingqiu-near-perfection-meng-assessment-spear-peer-awake-taili-creation.md) | 第七卷173章证据与表演边界 |
+| [孟离后妖皇评后手可预、生机看Gu从元始秘辛未详](yaohuang-after-meng-left-foresees-hidden-plans-gu-yuanshi-secrets-report.md) | 第七卷173章证据与表演边界 |
+| [孟明确暂控未名当代玄天掌门发声问刀、刀封殿无答](meng-temporarily-controls-unnamed-xuantian-master-speaks-to-timeblade-no-answer.md) | 第七卷173章证据与表演边界 |
+| [孙只引孟求见、郑重谢礼不自在催入非代谈](sun-only-guides-meng-audience-respect-thanks-not-proxy-negotiator.md) | 第七卷173章证据与表演边界 |
 | [青帝真降青木牵老母满月、无新公开盟诺](qingdi-actual-wood-roots-contends-laomu-moon-no-spoken-alliance.md) | 第七卷172章证据与表演边界 |
 | [杨爆海实断幽内黄泉联系、镇元双宝退回未毁](yang-explodes-bloodsea-severs-nineyou-huangquan-zhenyuan-retreats-weapons-intact.md) | 第七卷172章证据与表演边界 |
 | [齐四金星百余年获孟杨庇、叙足以自证传说踏造化](qi-four-gold-stars-century-protection-legend-creation-source-summary.md) | 第七卷172章证据与表演边界 |

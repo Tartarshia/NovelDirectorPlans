@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第172章，1336 / 1410 个目录条目，约421.8万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第173章，1337 / 1410 个目录条目，约422.0万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第173章复核](books/yishizhizun/reviews/review-v07-0173.md)：妖皇看魔佛本己意愿为有限回应，孟离后谈Gu元始秘辛、暂控玄天掌门问刀无答，57段89单元；[状态账](books/yishizhizun/reviews/ledger-v07-0173.md)。
 - [第七卷第172章复核](books/yishizhizun/reviews/review-v07-0172.md)：Q牵L杨爆海实断幽内黄泉、三清耗近限孟收阵；紫心活记忆借Sun秘密化身见妖皇，陆已造化中游，62段67单元；[状态账](books/yishizhizun/reviews/ledger-v07-0172.md)。
 - [第七卷第171章复核](books/yishizhizun/reviews/review-v07-0171.md)：魔君复臂幽伪岸、孟四影两全醒神兵诛仙暂困三敌，杨突袭罗酆真目标断老母手未给结果；39段40单元；[状态账](books/yishizhizun/reviews/ledger-v07-0171.md)。
 - [第七卷第170章复核](books/yishizhizun/reviews/review-v07-0170.md)：幽始铭印完成仍仅转印，佛祖异变仅读者见、不死当今新增旧忆；自在认孟己肉青帝悟需盟友，59段81单元；[状态账](books/yishizhizun/reviews/ledger-v07-0170.md)。
