@@ -1,11 +1,19 @@
-# 角色阶段索引 · 截至第七卷171章
+# 角色阶段索引 · 截至第七卷172章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–171章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–172章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [青帝真降青木牵老母满月、无新公开盟诺](qingdi-actual-wood-roots-contends-laomu-moon-no-spoken-alliance.md) | 第七卷172章证据与表演边界 |
+| [杨爆海实断幽内黄泉联系、镇元双宝退回未毁](yang-explodes-bloodsea-severs-nineyou-huangquan-zhenyuan-retreats-weapons-intact.md) | 第七卷172章证据与表演边界 |
+| [齐四金星百余年获孟杨庇、叙足以自证传说踏造化](qi-four-gold-stars-century-protection-legend-creation-source-summary.md) | 第七卷172章证据与表演边界 |
+| [孟三清消耗近极限收诛仙、魔君冥海剑脱围非杀敌](meng-threepure-duration-limit-array-withdraws-mojun-sword-escape-no-kills.md) | 第七卷172章证据与表演边界 |
+| [孟紫心勾兜率反馈令他人记忆己影活化、非夺肉身](meng-purpleheart-tusita-feedback-memory-images-animate-not-body-possession.md) | 第七卷172章证据与表演边界 |
+| [陆大东海六十年前走通自路、如今造化中游追苏无名](luda-eastsea-selfpath-legend-sixtyyears-creation-middle-catches-suwuming.md) | 第七卷172章证据与表演边界 |
+| [东海未名老人忆亡周敬孟、记忆孟影紫化非本人被夺](eastsea-elder-unnamed-zhou-memory-meng-purple-eyes-not-elder-possessed.md) | 第七卷172章证据与表演边界 |
+| [孙真入妖皇殿斩念拉伸孟化身、秘密拜见未交谈盟诺](sun-enters-yaohuang-palace-severs-thought-meng-avatar-secret-audience.md) | 第七卷172章证据与表演边界 |
 | [魔君失臂已修复回峰更进伪岸、幽史回溯未到开辟](mojun-arm-restored-pseudopeer-nineyou-retrace-not-origin.md) | 第七卷171章证据与表演边界 |
 | [魔君七杀自保援黑天、非投佛门或已经逐出九幽](mojun-qisha-help-heitian-selfpreservation-not-buddhist-allegiance.md) | 第七卷171章证据与表演边界 |
 | [杨血海从未来缝隙渗六皇阵、非杀过去弱魔君](yang-future-bloodsea-seeps-six-emperors-sword-array-not-past-weakness.md) | 第七卷171章证据与表演边界 |
