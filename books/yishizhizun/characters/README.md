@@ -1,11 +1,19 @@
-# 角色阶段索引 · 截至第七卷179章
+# 角色阶段索引 · 截至第七卷180章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–179章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–180章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [伏皇实际救弥勒、Mile不知A控制与真佛压制](fuhuang-actual-rescues-mile-amitabha-control-exposure.md) | 第七卷180章证据与表演边界 |
+| [顾曝伏皇第二备、古佛仍压Q未反水只显局部效](gu-second-preparation-bodhi-no-defection-apparent-pressure.md) | 第七卷180章证据与表演边界 |
+| [孟未来已合过往出幽、L逼双旗未及回溯至67始奔](meng-future-merged-past-exits-nineyou-retrace-begins.md) | 第七卷180章证据与表演边界 |
+| [三旗分器持者各异、弥勒青莲护波金银受伤未死](three-flags-distinct-gold-silver-injured-not-dead.md) | 第七卷180章证据与表演边界 |
+| [魔佛灵山实质已脱困新证、仍受Y盯压非自由入真界](mofo-substantial-lingshan-emerged-yaohuang-containment.md) | 第七卷180章证据与表演边界 |
+| [顾第三备欲融天道牺牲未成、请将来复非已死](gu-third-preparation-bloodpeach-tiandao-fusion-interrupted.md) | 第七卷180章证据与表演边界 |
+| [王九仙坟抢投入天道渐同化、顾退出未王死终判](wang-nine-tombs-half-tiandao-sacrifice-assimilating.md) | 第七卷180章证据与表演边界 |
+| [天道涡拖金皇月入疯界、孟开始串旧我未岸成](tiandao-vortex-drags-moon-meng-starts-upstream.md) | 第七卷180章证据与表演边界 |
 | [孟庆云幡明确两半虚果、因果果无动静且未岸成](meng-two-half-fruits-cloud-banner-causal-fruit-unmoved.md) | 第七卷179章证据与表演边界 |
 | [孟斩时积累与未来玉虚碑共振、非当前末日或元始开天果定论](meng-future-stele-epoch-end-resonance-not-all-futures.md) | 第七卷179章证据与表演边界 |
 | [金毛手杨接双兵援孟、陆树刷剑与杏黄旗再现](yang-golden-hand-take-weapons-zhenyuan-intercept.md) | 第七卷179章证据与表演边界 |
