@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷164章
+# 角色阶段索引 · 截至第七卷165章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–164章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–165章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [林素河七海道门支派弟子、坠裂醒现代街无重伤境界未名](lin-suhe-sevenseas-daoist-rift-fall-modern-street-survives-rank-unnamed.md) | 第七卷165章证据与表演边界 |
+| [白裙炊饼古琴少女未名、不可直接阮复生](modern-white-dress-food-guqin-girl-unidentified-not-confirmed-ruan-revival.md) | 第七卷165章证据与表演边界 |
+| [园林四老麻将仅五须常笑两口、真实身份未解](modern-garden-four-retired-mahjong-elders-two-voices-identities-unresolved.md) | 第七卷165章证据与表演边界 |
+| [鹅黄练剑背影争冠目标、未名未Jiang复生确认](modern-yellow-sword-girl-championship-aspiration-unidentified-not-jiang-revival.md) | 第七卷165章证据与表演边界 |
+| [大周总裁被Lin据旧影认高览、非死亡逆转已证明](modern-dazhou-president-lin-recognizes-gao-face-not-death-reversal-proven.md) | 第七卷165章证据与表演边界 |
+| [跨外远传禁旧通识传闻、裂增百年末日是林推非精确纪年](realrealm-travel-ban-old-wanjie-rumor-rift-frequency-hundredyear-forecast-not-date.md) | 第七卷165章证据与表演边界 |
+| [现代场景模雾升视见黑山珠紫铃幽眼、主人机制未名](modern-scene-blurs-blackmountain-fivecolor-bead-purplebell-darkeyes-unidentified.md) | 第七卷165章证据与表演边界 |
 | [顾择时干扰孙首赢一次再平手、非全战胜老母](gu-intermittent-absorption-sun-first-collision-win-then-draw-not-total-victory.md) | 第七卷164章证据与表演边界 |
 | [真武冲岸失败彻陨、Q收元阳尺双剑返派姚亲见](zhenwu-peer-attempt-fails-terminal-fall-qingdi-yuanyang-two-swords-yao.md) | 第七卷164章证据与表演边界 |
 | [L驾金蝉遗蜕触孙师父心魔、极大代价非老师复生](laomu-jinchan-remains-sun-mental-demon-not-revived-teacher-great-price.md) | 第七卷164章证据与表演边界 |
