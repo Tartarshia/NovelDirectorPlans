@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷157章
+# 角色阶段索引 · 截至第七卷158章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–157章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–158章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [藏身挡不住过去抹、扶桑保命限制为推兜率实被报堵](meng-refuge-denials-past-erasure-fusang-lifeonly-tusita-blocked-not-actual-death.md) | 第七卷158章证据与表演边界 |
+| [人皇剑Han瑕疵尚需十几年醒、两剑只感应非全醒](humanemperor-sword-han-defect-tenplus-years-awakening-timeblade-response.md) | 第七卷158章证据与表演边界 |
+| [老母光亏迟2–3息识顾复活、实际远警玉虚](laomu-light-wanes-two-three-seconds-gu-resurrection-confirmed-warning-yuxu.md) | 第七卷158章证据与表演边界 |
+| [银角远报阿弥堵兜率菩提派准提妖殿、顾未听讯](silver-remote-warning-amituo-blocks-tusita-bodhi-sends-zhunti-identity-resolved.md) | 第七卷158章证据与表演边界 |
+| [顾未听银讯提自交未来复活、孟告暂盟推并未执行](gu-proposes-sacrifice-unheard-silver-meng-briefs-temporary-alliance-inference.md) | 第七卷158章证据与表演边界 |
+| [元灵互拦仍孟推、唯靠自身决路尚未实际实行](meng-yuanshi-lingbao-interception-theory-selfreliance-road-unexecuted.md) | 第七卷158章证据与表演边界 |
 | [九灵真实退地府回扶桑、镇元受帝玺已烙掌权](jiuling-actual-leaves-surrenders-underworld-seal-zhenyuan-accepts-imprints.md) | 第七卷157章证据与表演边界 |
 | [镇元帝布鬼皇在罗酆同伪彼岸、连地府非全九幽独统](zhenyuan-luofeng-local-pseudopeer-links-fengdu-nether-not-true-peer.md) | 第七卷157章证据与表演边界 |
 | [真空地府已真实合并、无生老母归来天意变](vacuum-home-actual-merged-laomu-actual-returns-heavenwill-changed.md) | 第七卷157章证据与表演边界 |
