@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷176章
+# 角色阶段索引 · 截至第七卷177章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–176章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–177章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [季兴末灾是梦、正式入门后证与本人外景明确](ji-xing-dream-sea-disaster-wakes-formal-entry-complete-outdoor-rank.md) | 第七卷177章证据与表演边界 |
+| [季兴实际无字碑后亲刻玉虚苏孟、晴海投普通木匣非七杀碑](ji-xing-blank-stele-writes-yuxu-sumeng-ordinary-woodbox-sinks-clear-sea.md) | 第七卷177章证据与表演边界 |
+| [九灵依过去守门消息取普通木匣实交青帝、非玉匣全送成](jiuling-past-gate-message-collects-ordinary-woodbox-actually-delivers-qingdi.md) | 第七卷177章证据与表演边界 |
+| [青帝空木匣入扶桑气似未成虚果又无、非已实体凝果](qingdi-empty-woodbox-fusang-breath-seems-unformed-fruit-not-solid-confirmed.md) | 第七卷177章证据与表演边界 |
+| [反复青绿玉匣无人送成、普通木匣另线实达须分](repeated-jadeboxes-none-arrive-faction-probes-distinct-ordinary-woodbox.md) | 第七卷177章证据与表演边界 |
+| [兜率送虚幻大道盘古幡非正品、开天果为孟疑](tusita-gives-illusory-pangu-banner-not-original-kaitianfruit-meng-question.md) | 第七卷177章证据与表演边界 |
+| [孟负双兵公开向幽外出发未等弥勒、尚未证岸完成](meng-openly-walks-toward-nineyou-exit-before-mile-bid-not-peer-attained.md) | 第七卷177章证据与表演边界 |
 | [孟多旧历史痕迹已植心魔路标、非仍全未实施](meng-actual-seeds-multiple-old-imprints-ren-ningxin-monster-waymarks.md) | 第七卷176章证据与表演边界 |
 | [冥海剑斩七杀过去影借剑归显代价、问未来非已占尽](minghai-sword-kills-qisha-past-shadows-returns-cost-future-question.md) | 第七卷176章证据与表演边界 |
 | [季兴归岛拜师受考、友伴推仙与本人实阶未名](ji-xing-island-return-disciple-test-companions-ranks-uncertain.md) | 第七卷176章证据与表演边界 |

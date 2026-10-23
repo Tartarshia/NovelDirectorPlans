@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第176章，1340 / 1410 个目录条目，约422.8万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第177章，1341 / 1410 个目录条目，约423.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第177章复核](books/yishizhizun/reviews/review-v07-0177.md)：木匣实交Q似果有无与玉匣全失败分线，兜率虚幻盘古幡后孟双兵公开向幽外，53段65单元；[状态账](books/yishizhizun/reviews/ledger-v07-0177.md)。
 - [第七卷第176章复核](books/yishizhizun/reviews/review-v07-0176.md)：多旧史痕实际种心魔路标、七杀剑代价；何暮天缺剑收季兴续玉虚传承，元皇像眼紫，73段90单元；[状态账](books/yishizhizun/reviews/ledger-v07-0176.md)。
 - [第七卷第175章复核](books/yishizhizun/reviews/review-v07-0175.md)：Gu旧说揭假拉A与知识边界、营势夯基；碑真来借心魔接中古任问剑节点紫眼，半果可试未凝，36段44单元；[状态账](books/yishizhizun/reviews/ledger-v07-0175.md)。
 - [第七卷第174章复核](books/yishizhizun/reviews/review-v07-0174.md)：刀愿撤控、七杀剑全醒未诺；Gu梦请阿弥明承能驱伏皇而援约无答，离后未名月声新谈，58段81单元；[状态账](books/yishizhizun/reviews/ledger-v07-0174.md)。
