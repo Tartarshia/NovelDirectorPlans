@@ -1,11 +1,19 @@
-# 角色阶段索引 · 截至第七卷180章
+# 角色阶段索引 · 截至第七卷181章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–180章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–181章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟双半果定位锐勇贯通旧我、将至诞生未岸成](meng-history-retrace-sharpness-two-fruits-not-peer.md) | 第七卷181章证据与表演边界 |
+| [旧玉虚掌教与王茶重历、孟新觉认友非现世复生](historic-yuxu-wang-retrace-new-awareness-not-revival.md) | 第七卷181章证据与表演边界 |
+| [旧高览醉结义居民层声、孟新拜非皇兄复生](historic-gao-oath-houseowner-new-bow-not-resurrection.md) | 第七卷181章证据与表演边界 |
+| [阮顾江与方阿七历史旧身、新孟回溯心声分层](historic-ruan-gu-jiang-zhenhui-retrace-same-actors.md) | 第七卷181章证据与表演边界 |
+| [佛罗造化蓄势与文殊部署推断、未全员已交战](creation-allies-prepare-not-launched-wenshu-projections.md) | 第七卷181章证据与表演边界 |
+| [三霄念孟馈赠复生恩允援、九曲阵仍待布](sanxiao-gratitude-resurrection-aid-agreed-array-not-yet.md) | 第七卷181章证据与表演边界 |
+| [魔佛如臂实控天道、巨手弃月反拍孟与L再指](mofo-controls-tiandao-actual-hand-turns-against-meng.md) | 第七卷181章证据与表演边界 |
+| [A自述自古控天道与早脱、王家绝刀往事未全独验](mofo-selfaccount-ancient-control-decades-emergence-not-backfill.md) | 第七卷181章证据与表演边界 |
 | [伏皇实际救弥勒、Mile不知A控制与真佛压制](fuhuang-actual-rescues-mile-amitabha-control-exposure.md) | 第七卷180章证据与表演边界 |
 | [顾曝伏皇第二备、古佛仍压Q未反水只显局部效](gu-second-preparation-bodhi-no-defection-apparent-pressure.md) | 第七卷180章证据与表演边界 |
 | [孟未来已合过往出幽、L逼双旗未及回溯至67始奔](meng-future-merged-past-exits-nineyou-retrace-begins.md) | 第七卷180章证据与表演边界 |
