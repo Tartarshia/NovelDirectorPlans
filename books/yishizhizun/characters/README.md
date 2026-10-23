@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷166章
+# 角色阶段索引 · 截至第七卷167章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–166章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–167章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [杨说元始借他彼岸之物减空、孙妖皇石孟魔佛他我](yuanshi-reduction-borrow-otherpeers-object-sun-yaohuang-stone-meng-mofo-self.md) | 第七卷167章证据与表演边界 |
+| [元始下落道德外恐一位知未名、元始灵宝不计必援](yuanshi-whereabouts-daode-one-other-knower-unidentified-lingbao-excluded-from-plan.md) | 第七卷167章证据与表演边界 |
+| [证岸须返真实、青帝妖皇态度与解Mofo风险是孟分析](meng-peer-bid-realworld-return-required-qingdi-yaohuang-hesitation-his-analysis.md) | 第七卷167章证据与表演边界 |
+| [杨提固后联黑天帮玄冥未来计、离去非已战](yang-proposes-after-consolidation-heitian-dialogue-help-xuanming-not-done.md) | 第七卷167章证据与表演边界 |
+| [孟真逆本世最初前见守门九灵、近古中古未定](meng-actual-retraces-before-ownlife-gatekeeping-jiuling-historical-date-unknown.md) | 第七卷167章证据与表演边界 |
+| [九乱控爪各层除伪岸已屈、非全诸Peer或敌皆死](jiuluan-claw-regime-otherlayers-gods-submit-except-pseudopeers-not-all-peer.md) | 第七卷167章证据与表演边界 |
+| [胖钵和尚未名拦林称匣佛缘、未认弥勒未送达](fat-bowl-monk-intercepts-lin-jadebox-unidentified-not-mile-or-delivery-proven.md) | 第七卷167章证据与表演边界 |
 | [孟真造星河陨晶玉匣入林怀、托扶桑途中未交](meng-creates-starriver-crystal-jadebox-lin-courier-fusang-not-delivered-yet.md) | 第七卷166章证据与表演边界 |
 | [林实际倒退诸景回海保物只忆黑山、先逃避新裂](lin-actual-reverses-modern-scenes-to-coast-remembers-meng-only-avoids-new-rift.md) | 第七卷166章证据与表演边界 |
 | [顾自身与血入人皇剑醒孟、漫长双修无极互补复常](gu-self-and-flesh-into-humanemperor-sword-wakes-meng-long-dualpractice-restores.md) | 第七卷166章证据与表演边界 |

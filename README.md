@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第166章，1330 / 1410 个目录条目，约420.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第167章，1331 / 1410 个目录条目，约420.5万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第167章复核](books/yishizhizun/reviews/review-v07-0167.md)：杨解元始借物减空与返真实限制，孟真溯过自始见历史九灵年代未明，林遭未名胖钵僧未交匣，41段59句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0167.md)。
 - [第七卷第166章复核](books/yishizhizun/reviews/review-v07-0166.md)：黑山解孟已复常顶峰幽伪岸Gu圆满，Lin保匣晶倒退托运未达、杨谈弥勒机会与减空双关系，49段68句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0166.md)。
 - [第七卷第165章复核](books/yishizhizun/reviews/review-v07-0165.md)：Lin坠裂醒现代陌生街遇未名似旧人，总裁识Gao后黑山珠铃幽眼未解，65段98句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0165.md)。
 - [第七卷第164章复核](books/yishizhizun/reviews/review-v07-0164.md)：真武彻陨九乱控爪暂退L，传谕胁亲友GaoJiangRuan亡玉虚毁，Q因果清止顾双器牵怪孟深幽，140段152句内单元；[状态账](books/yishizhizun/reviews/ledger-v07-0164.md)。
