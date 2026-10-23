@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷168章
+# 角色阶段索引 · 截至第七卷169章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–168章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–169章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [神话老母目碰孟即收、妖圣天杀只无真灵史印](meng-laomu-mythic-gaze-clash-yaosheng-tiansha-only-imprints-no-true-spirit.md) | 第七卷169章证据与表演边界 |
+| [游子灯改林传向、未名白缺圈实套灯操者未名](youzi-lamp-reroutes-lin-white-gapped-ring-captures-lamp-controller-unnamed.md) | 第七卷169章证据与表演边界 |
+| [月光造化引传九灵现救、鬼袖强关联镇元但本章未名](moonlight-creation-guides-jiuling-current-roar-rescues-ghost-sleeve-user-not-named.md) | 第七卷169章证据与表演边界 |
+| [本章佛字俊僧自在王佛时上游取匣、非旧107自动解](zizaiwang-time-upstream-takes-jadebox-handsome-fo-mark-monk-current-scene.md) | 第七卷169章证据与表演边界 |
+| [匣真实暗红肉扑包自在头、来源与佛死亡未明](jadebox-actual-darkred-livinglike-flesh-wraps-zizai-head-origin-death-unconfirmed.md) | 第七卷169章证据与表演边界 |
+| [林真到月光净土却空怀、时改忆匣失未完成交付](lin-arrives-moonlight-pureland-empty-box-retroactive-memory-not-delivered.md) | 第七卷169章证据与表演边界 |
+| [孟至九幽诞生极限四意志在、初真见元始只印非真人归](meng-nineyou-origin-limit-four-wills-first-direct-yuanshi-imprint-not-return.md) | 第七卷169章证据与表演边界 |
 | [大轮金刚同167未名胖钵僧、弥勒派来被收未死](dalun-jingang-fat-bowl-alias-mile-orders-captured-not-killed.md) | 第七卷168章证据与表演边界 |
 | [未名高空呼大轮紫金红葫芦收人、黄符文字非咒语](unseen-caller-purplegold-red-gourd-seals-dalun-yellow-talisman-not-spell.md) | 第七卷168章证据与表演边界 |
 | [玉匣掺东皇残渣孟伪岸炼遮燃灯窥、内容仍未知](jadebox-donghuang-residue-meng-pseudopeer-forged-blocks-randeng-view-contents-unknown.md) | 第七卷168章证据与表演边界 |
