@@ -1,11 +1,19 @@
-# 角色阶段索引 · 截至第七卷158章
+# 角色阶段索引 · 截至第七卷159章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–158章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–159章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [玉虚意识聚宫无师护、玉鼎赤精决护掌教](yuxu-mind-manifestations-meeting-absent-yuanshi-yuding-chijing-resolve.md) | 第七卷159章证据与表演边界 |
+| [道行燃花玉鼎真兵解赤精倾道、真实代价出剑](daoxing-dao-flowers-burn-yuding-body-dissolves-chijing-dao-into-sword.md) | 第七卷159章证据与表演边界 |
+| [广成崩三花四剑三圆满一近岸、非正式四Peer](guangcheng-flowers-collapse-four-swords-three-perfect-one-nearpeer-not-true-peer.md) | 第七卷159章证据与表演边界 |
+| [文殊受托留守锁护哪吒、四剑纳月末生死未全交代](wenshu-stays-protects-nezha-dunlong-pillar-fourlights-absorbed-fate-not-fully-shown.md) | 第七卷159章证据与表演边界 |
+| [老母满月包四剑无波、文殊视界光点消](laomu-moonlight-envelops-four-swords-vanish-from-wenshu-view.md) | 第七卷159章证据与表演边界 |
+| [孟真引全部桃气解除血镇、残血出刀实际入体](meng-actual-all-peach-aura-release-flesh-enters-body-not-peach-eaten.md) | 第七卷159章证据与表演边界 |
+| [顾真实接桃、孟若成怪求未来唤醒未已死或顾已Peer](gu-receives-actual-peach-meng-monster-wake-request-not-dead-or-peer-gu.md) | 第七卷159章证据与表演边界 |
+| [东皇血去绝刀已全解枷、雷河威贯古今](jueblade-flesh-leaves-all-restraints-removed-timeriver-thunder-beyondshore-power.md) | 第七卷159章证据与表演边界 |
 | [藏身挡不住过去抹、扶桑保命限制为推兜率实被报堵](meng-refuge-denials-past-erasure-fusang-lifeonly-tusita-blocked-not-actual-death.md) | 第七卷158章证据与表演边界 |
 | [人皇剑Han瑕疵尚需十几年醒、两剑只感应非全醒](humanemperor-sword-han-defect-tenplus-years-awakening-timeblade-response.md) | 第七卷158章证据与表演边界 |
 | [老母光亏迟2–3息识顾复活、实际远警玉虚](laomu-light-wanes-two-three-seconds-gu-resurrection-confirmed-warning-yuxu.md) | 第七卷158章证据与表演边界 |
