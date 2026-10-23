@@ -1,11 +1,19 @@
-# 角色阶段索引 · 截至第七卷181章
+# 角色阶段索引 · 截至第七卷182章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–181章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–182章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾曾试傀儡风险仍漏魔佛、不无准备且今失掌局](gu-tested-tiandao-control-still-missed-mofo-not-no-preparation.md) | 第七卷182章证据与表演边界 |
+| [孟开天果锐勇过出生两果近成、杏黄落幽非已永毁](meng-passes-birth-history-kaitian-fruit-xinghuang-falls.md) | 第七卷182章证据与表演边界 |
+| [L改指制天道生新未来、非顾牺牲削弱已成](laomu-changes-target-stops-tiandao-opens-new-futures.md) | 第七卷182章证据与表演边界 |
+| [A怒喊金母被Y困原地、R停与惊喜错判分声](mofo-jinmu-shout-yaohuang-confines-randeng-stops.md) | 第七卷182章证据与表演边界 |
+| [道德骑牛新至金桥无保留、反定A空使其不能脱](daode-bull-elder-full-effort-pins-amitabha-void.md) | 第七卷182章证据与表演边界 |
+| [金皇已雏果与诛仙阵图在手、封禁光阴刀非毁刀](jinhuang-protofruit-zhuxian-diagram-seals-timeblade.md) | 第七卷182章证据与表演边界 |
+| [韩灵宝指称与顾双道统推理、非强弱旧层直接抹去](han-lingbao-title-gu-dual-inheritance-marker-doubt.md) | 第七卷182章证据与表演边界 |
+| [L亲口称M减空产物、孟跨两纪混沌第一岸象](meng-laomu-reduction-product-claim-epoch-chaos-first-omen.md) | 第七卷182章证据与表演边界 |
 | [孟双半果定位锐勇贯通旧我、将至诞生未岸成](meng-history-retrace-sharpness-two-fruits-not-peer.md) | 第七卷181章证据与表演边界 |
 | [旧玉虚掌教与王茶重历、孟新觉认友非现世复生](historic-yuxu-wang-retrace-new-awareness-not-revival.md) | 第七卷181章证据与表演边界 |
 | [旧高览醉结义居民层声、孟新拜非皇兄复生](historic-gao-oath-houseowner-new-bow-not-resurrection.md) | 第七卷181章证据与表演边界 |
