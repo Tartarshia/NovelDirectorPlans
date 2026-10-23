@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷167章
+# 角色阶段索引 · 截至第七卷168章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–167章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–168章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [大轮金刚同167未名胖钵僧、弥勒派来被收未死](dalun-jingang-fat-bowl-alias-mile-orders-captured-not-killed.md) | 第七卷168章证据与表演边界 |
+| [未名高空呼大轮紫金红葫芦收人、黄符文字非咒语](unseen-caller-purplegold-red-gourd-seals-dalun-yellow-talisman-not-spell.md) | 第七卷168章证据与表演边界 |
+| [玉匣掺东皇残渣孟伪岸炼遮燃灯窥、内容仍未知](jadebox-donghuang-residue-meng-pseudopeer-forged-blocks-randeng-view-contents-unknown.md) | 第七卷168章证据与表演边界 |
+| [A释投石探界可送过去身半虚果、非当前匣内容确证](ananda-explains-stepwise-probing-pastbody-virtualfruit-courier-possible-not-done.md) | 第七卷168章证据与表演边界 |
+| [阿难改暂不脱留孟希望诱出、燃灯决心未行动](ananda-now-delays-release-leaves-meng-hope-exit-nineyou-randeng-resolve-not-action.md) | 第七卷168章证据与表演边界 |
+| [历史九灵收未详话孟再逆更古、未新当前守门](historical-jiuling-receives-unspecified-message-meng-retraces-further-not-current-guard.md) | 第七卷168章证据与表演边界 |
+| [孟大概识神话妖圣天杀战、凤五德显双方察未结果](meng-mythic-yaosheng-tiansha-battle-phoenix-fivevirtues-observe-not-loot-or-result.md) | 第七卷168章证据与表演边界 |
 | [杨说元始借他彼岸之物减空、孙妖皇石孟魔佛他我](yuanshi-reduction-borrow-otherpeers-object-sun-yaohuang-stone-meng-mofo-self.md) | 第七卷167章证据与表演边界 |
 | [元始下落道德外恐一位知未名、元始灵宝不计必援](yuanshi-whereabouts-daode-one-other-knower-unidentified-lingbao-excluded-from-plan.md) | 第七卷167章证据与表演边界 |
 | [证岸须返真实、青帝妖皇态度与解Mofo风险是孟分析](meng-peer-bid-realworld-return-required-qingdi-yaohuang-hesitation-his-analysis.md) | 第七卷167章证据与表演边界 |
