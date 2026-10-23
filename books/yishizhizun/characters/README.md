@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷174章
+# 角色阶段索引 · 截至第七卷175章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–174章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–175章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [Gu继金皇经验止出生、暗助者元始或灵宝仍未知](gu-goldenmother-memory-birth-cutoff-hidden-helper-yuanshi-or-lingbao-unknown.md) | 第七卷175章证据与表演边界 |
+| [Gu旧说拉拢阿弥是迷惑、大道之争下借再计夯基](gu-recalled-false-amitabha-alliance-dao-conflict-counter-ruse-preparation-window.md) | 第七卷175章证据与表演边界 |
+| [孟无极已可尝试半果但未凝、返真与另两印仍有缺](meng-wuji-ready-to-attempt-half-fruit-not-condensed-realrealm-gaps.md) | 第七卷175章证据与表演边界 |
+| [七杀碑实际送来孟解援意、非七杀全力参战口诺](qisha-tablet-actually-arrives-meng-interprets-help-not-blanket-war-pledge.md) | 第七卷175章证据与表演边界 |
+| [心魔借碑接中古任秋水旧问剑节点、孟眼实紫闪](meng-heartdemon-medieval-luocheng-ren-qiushui-old-imprint-purple-flash.md) | 第七卷175章证据与表演边界 |
+| [未名月女声答好梦散、所议条件仍未明](unnamed-dream-moon-female-yes-agreement-specific-terms-unrevealed.md) | 第七卷175章证据与表演边界 |
 | [孟对光阴刀条件互助大愿、即撤心魔放掌门未待答](meng-timeblade-conditional-vow-releases-xuantian-host-no-answer.md) | 第七卷174章证据与表演边界 |
 | [七杀冥海剑彻醒、孟以魔佛吞幽风险游说未获诺](qisha-minghai-fullyawake-meng-recruits-via-mofo-nether-risk-no-pledge.md) | 第七卷174章证据与表演边界 |
 | [Gu待幽屏障断入他化梦请阿弥、童娘亲声未名](gu-actual-dream-source-jieyin-ferryman-amitabha-invited-via-nether.md) | 第七卷174章证据与表演边界 |
