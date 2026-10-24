@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷25章目录条目
+# 角色阶段索引 · 截至第八卷26章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–25章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–26章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [旧青灯末法判断、毗卢概念与真佛自称恐怖](purplepalace-old-lamp-vairocana-concept-truebuddha-claims.md) | 第八卷26章证据与表演边界 |
+| [夫妻收宝抹迹无主婚贺、谭后入空府](meng-gu-zixiao-treasures-cleared-traces-erased.md) | 第八卷26章证据与表演边界 |
+| [谭珠裂护混沌真实入府搜空非仍计划](tan-cangtian-bulao-pearl-chaos-entry-no-treasure.md) | 第八卷26章证据与表演边界 |
+| [Gu真闭关四徒下长门、何暮婚后同行九璃](gu-seclusion-four-disciples-eastsea-he-after-wedding.md) | 第八卷26章证据与表演边界 |
+| [谭本人枕第二次、欲点旧水神尚未成](tan-second-pillow-cooldown-old-watergod-plan-not-done.md) | 第八卷26章证据与表演边界 |
+| [枕境未名留步实际声、谭惧逃未获救结局](pillow-ancient-stayfriend-caller-unidentified-tan-flees.md) | 第八卷26章证据与表演边界 |
 | [紫霄空印守神无谎、Gu道果论亦揣测](zixiao-empty-imprint-guard-sincere-gu-daofruit-speculation.md) | 第八卷25章证据与表演边界 |
 | [真定弱岸旧纪极乐问接引、同M返气](zhending-past-epochs-amitabha-jieyin-actual-inquiry.md) | 第八卷25章证据与表演边界 |
 | [接引述黄老遗蜕天怪残魂东皇、非Mofo另产物](huanglaojun-remains-monster-soul-donghuang-amitabha-account.md) | 第八卷25章证据与表演边界 |
