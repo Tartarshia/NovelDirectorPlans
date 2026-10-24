@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷21章目录条目
+# 角色阶段索引 · 截至第八卷22章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–21章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–22章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟桑实入地球穿越初旧史、非六卷归乡同日](meng-gu-actual-earth-past-arrival-not-current-date.md) | 第八卷22章证据与表演边界 |
+| [小桑快掌审美替孟理衣、宝筏内暂放阴影](gu-earth-clothing-affection-and-ark-temporary-ease.md) | 第八卷22章证据与表演边界 |
+| [母快语迎门拘谨、孟亲情留后天我](meng-mother-phone-family-postnatal-self-preserved.md) | 第八卷22章证据与表演边界 |
+| [秋千旧梦与偷拍青年PS不掉孟的局部结果](earth-swing-photos-youths-cannot-remove-meng.md) | 第八卷22章证据与表演边界 |
+| [Gu见母扮乖与年龄家世话术、非真实履历](gu-family-visit-cover-stories-not-biography.md) | 第八卷22章证据与表演边界 |
+| [旧史另城小奇惊醒喷嚏、独立自我未全知](earth-past-xiaoqi-othercity-sneeze-independent-self.md) | 第八卷22章证据与表演边界 |
 | [八戒同化彻死、改历史不能复活的新直证](bajie-assimilation-terminal-no-history-resurrection.md) | 第八卷21章证据与表演边界 |
 | [历史悟空本尊斗战两身求凶、阿难内讥](wukong-two-historical-bodies-temple-inquiry-ananda-private-irony.md) | 第八卷21章证据与表演边界 |
 | [两处求问受阻、怒吼与未名新水师首](wukong-tusita-silence-bodhi-refusal-howl-history-settles.md) | 第八卷21章证据与表演边界 |
