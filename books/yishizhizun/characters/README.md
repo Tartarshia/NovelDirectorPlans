@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷12章
+# 角色阶段索引 · 截至第八卷13章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–12章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–13章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [韩重入旧梦读典、守静空棺不解尸去](han-returns-dream-fragment-xuhe-history-shoujing-empty-coffin.md) | 第八卷13章证据与表演边界 |
+| [韩代魔佛面传伏皇身躯、刀变无答](han-timeblade-fuhuang-body-message-no-tiandi-answer.md) | 第八卷13章证据与表演边界 |
+| [观音同源劝渡心、教义谱系不演员同人](guanyin-white-lotus-doctrinal-lineage-persuasion-not-forced-conversion.md) | 第八卷13章证据与表演边界 |
+| [魔君入冥海核心似修行、旁观不阻未夺爪](mojun-enters-minghai-core-seems-cultivation-not-claw-recovered.md) | 第八卷13章证据与表演边界 |
+| [十年佛国扩大、弥勒两愿冲岸始未成](mile-ten-years-two-vows-peer-bid-start-not-success.md) | 第八卷13章证据与表演边界 |
+| [诸处目光看弥勒、尚无援阻结局](peer-gazes-watch-mile-bid-not-intervention-yet.md) | 第八卷13章证据与表演边界 |
 | [两佛系此次合力观音析局、不全外援已许](guanyin-two-buddhist-factions-frontier-comparison-not-alliance-forever.md) | 第八卷12章证据与表演边界 |
 | [罗教卷神使退地府、大战未战地盘暂未接](luojiao-withdraws-gods-underworld-no-battle-no-instant-occupation.md) | 第八卷12章证据与表演边界 |
 | [真佛解月满亏、几年弥勒冲岸是未来预判](truebuddha-monthfull-strategy-mile-future-not-already-peer.md) | 第八卷12章证据与表演边界 |
