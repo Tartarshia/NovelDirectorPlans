@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第八卷7章
+# 角色阶段索引 · 截至第八卷8章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–7章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–8章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [谭拒自在两场、水祖宿忆恢复不新晋](tan-rejects-zizai-waterancestor-memory-not-new-rank.md) | 第八卷8章证据与表演边界 |
+| [高仪式实成东海半岛、孟离持笏真撤](zhou-half-eastsea-ritual-complete-meng-departs.md) | 第八卷8章证据与表演边界 |
+| [谭水祖转世融合真武遗权、非真武转世](tan-waterancestor-reincarnation-zhenwu-authority-not-same-god.md) | 第八卷8章证据与表演边界 |
+| [自在识青帝珠却不知枕赠者、认知不同谭](zizai-qingdi-bead-pillow-giver-unknown-to-him.md) | 第八卷8章证据与表演边界 |
+| [夏实用恢复枕、自在借时道实际尾随逆流](xia-pillow-use-zizai-actually-follows-upstream.md) | 第八卷8章证据与表演边界 |
+| [广陵旧史孟抱顾尸悲啸、非现世顾再死](historical-guangling-gu-corpse-meng-howl-not-current-death.md) | 第八卷8章证据与表演边界 |
+| [自在类比顾凡胎与偷换布局推论未证](zizai-gu-mortalbody-reduction-theory-not-swap-proof.md) | 第八卷8章证据与表演边界 |
 | [孟真龙沉香辇实际降临、两果加灯转述分口](meng-actual-nine-dragon-incense-chariot-two-fruits-lamp.md) | 第八卷7章证据与表演边界 |
 | [谭辨借枕道人即孟、缘由仍问未被孟收徒](tan-recognizes-pillow-daoist-meng-motive-still-unknown.md) | 第八卷7章证据与表演边界 |
 | [持笏私明示威与代行任务、忌新元始不试](chihu-private-daixing-mission-intimidation-fears-new-yuanshi.md) | 第八卷7章证据与表演边界 |
