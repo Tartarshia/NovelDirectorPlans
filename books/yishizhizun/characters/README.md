@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷1章
+# 角色阶段索引 · 截至第八卷2章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–2章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [燃灯悔谨慎、A点放执非孟直接杀或已证岸](randeng-regret-amitabha-lets-go-causal-path-not-killed.md) | 第八卷2章证据与表演边界 |
+| [R涅槃旧金身转弱普通僧、斩因果留舍利非终死](randeng-nirvana-ordinary-monk-cut-causal-relic.md) | 第八卷2章证据与表演边界 |
+| [Mile带燃灯舍利求见、非己未来舍利新复原](mile-carries-randeng-causal-relic-not-own-future-restored.md) | 第八卷2章证据与表演边界 |
+| [根早获孟令装等禀、虚荣非真升仙](daqinggen-preordered-access-performs-wait-not-new-meng-speech.md) | 第八卷2章证据与表演边界 |
+| [M接受A解怨礼而称胁从、非终身全面盟约已立](meng-accepts-amitabha-reconciliation-relic-not-full-alliance.md) | 第八卷2章证据与表演边界 |
+| [因果舍利入树星线36井全光、未源明诸因果已全圆](causal-star-lines-all-thirtysix-wells-not-full-fruit-verdict.md) | 第八卷2章证据与表演边界 |
 | [改史后认知与体验分境界、36井24活跃澄数](rewritten-history-memory-legend-creation-peer-differences.md) | 第八卷1章证据与表演边界 |
 | [孟刀断途救我、L谋动机分析与本人愿斩分层](meng-laomu-knife-saves-self-motive-analysis-not-no-agency.md) | 第八卷1章证据与表演边界 |
 | [人皇剑实归Gao重立人道为愿、鞭尚待兜率取](gao-sword-return-humanway-proposal-whip-not-yet-retrieved.md) | 第八卷1章证据与表演边界 |
