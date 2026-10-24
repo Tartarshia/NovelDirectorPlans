@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷19章目录条目
+# 角色阶段索引 · 截至第八卷20章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–19章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–20章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [末兆岸只能缓、孟如意出处新直证](epoch-omens-peer-can-delay-not-prevent-meng-ruyi-confirmed.md) | 第八卷20章证据与表演边界 |
+| [Gao体袭天蓬留星尸、雷神借体推断层](gao-cuilan-body-attacks-tianpeng-thundergod-controller-inferred.md) | 第八卷20章证据与表演边界 |
+| [救援时猪误当孟古原祖、战兢叩拜](tianpeng-rescue-pass-recognizes-current-meng-as-ancient-yuanshi.md) | 第八卷20章证据与表演边界 |
+| [孟刀真定实抗Mofo怪物、无逐字台词](meng-blade-zhending-block-mofo-tiandao-no-verbatim-speech.md) | 第八卷20章证据与表演边界 |
+| [真佛前移灵山吞Pig抽后史、非全出生史抹](truebuddha-earlier-lingshan-devours-bajie-erases-later-shadows.md) | 第八卷20章证据与表演边界 |
+| [原雷袭死观测与更早吞噬改史分层、救未成](tianhe-observation-death-versus-rescue-fails-history-layers.md) | 第八卷20章证据与表演边界 |
 | [流罗实传帝旧商所求条件、Y只知未允](liuluo-delivers-tiandi-shang-offer-yaohuang-knows-no-acceptance.md) | 第八卷19章证据与表演边界 |
 | [魔佛公开入幽受欢迎不增境、诸强察](mofo-open-nineyou-arrival-welcome-not-personal-rank-increase.md) | 第八卷19章证据与表演边界 |
 | [玄冥目邀七杀剑应、余不动未实攻](xuanming-qisha-failed-coalition-others-still-no-attack.md) | 第八卷19章证据与表演边界 |
