@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷27章目录条目
+# 角色阶段索引 · 截至第八卷28章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–27章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–28章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [谭铃锏真敲昏申取榜、非申死亡/已归榜](tan-actual-bell-mace-knocks-shen-out-takes-list.md) | 第八卷28章证据与表演边界 |
+| [旧水祖误认后裔、谭转世传音非血亲](ancient-waterancestor-tan-reincarnation-not-blood-son.md) | 第八卷28章证据与表演边界 |
+| [古成汤圆满索申未得退、非后世转世恢复](chengtang-perfect-creation-leaves-not-given-shen-or-list.md) | 第八卷28章证据与表演边界 |
+| [谭三段传音转世求护、旧身未接受/归榜](tan-three-telepathic-claims-oldself-not-awakened.md) | 第八卷28章证据与表演边界 |
+| [天帝历史也是彼岸、帝殿真现无逐字口](tiandi-historical-and-current-peer-one-hall-appears.md) | 第八卷28章证据与表演边界 |
+| [当前扶桑孟青帝实对弈、幕后全控尚未证](current-meng-qingdi-fusang-chess-not-full-controller-proof.md) | 第八卷28章证据与表演边界 |
 | [留步申公豹气息称名后证、旧未知ID兼容](shen-gongbao-stayfriend-voice-resolved-by-aura-and-name.md) | 第八卷27章证据与表演边界 |
 | [谭转世知识不足忘Mile、非弥勒终死新判](tan-fashen-information-gap-forgets-mile-not-final-death.md) | 第八卷27章证据与表演边界 |
 | [谭猜赠枕道人欲榜报酬、无明令装傻](tan-infers-pillow-donor-wants-list-no-explicit-order.md) | 第八卷27章证据与表演边界 |
