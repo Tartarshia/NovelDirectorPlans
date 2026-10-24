@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷4章
+# 角色阶段索引 · 截至第八卷5章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–4章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–5章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [谭平祭天威压后信过去、历史优势非全知](tan-ping-ritual-awe-history-advantage-not-omniscience.md) | 第八卷5章证据与表演边界 |
+| [枕中半年青岩寻宫、谷三日不等洞外半年](tan-ping-halfyear-qingyan-miaoyan-time-outside-unknown.md) | 第八卷5章证据与表演边界 |
+| [太乙同青帝睁眼我明白、未明何事或枕仙身份](taiyi-qingdi-opens-eyes-understands-not-seadaoist-resolved.md) | 第八卷5章证据与表演边界 |
+| [回洞青珠实物而梦真未决、珠名功用未知](tan-ping-green-bead-after-dream-not-mechanism-proof.md) | 第八卷5章证据与表演边界 |
+| [谭主动邀友仙缘同享、不灭口为当下选择](tan-ping-shares-pillow-friends-not-silencing.md) | 第八卷5章证据与表演边界 |
+| [少女试枕无梦、枕微光恢复几日冷却为推测](yellow-pillow-girl-no-dream-recovering-days-hypothesis.md) | 第八卷5章证据与表演边界 |
 | [玄悲未传说敬地藏久死遗躯、幕后送者未知](xuanbei-dizang-dead-remains-vow-unknown-deliverer.md) | 第八卷4章证据与表演边界 |
 | [玄悲实得生死轮地藏舍利、净土实融未明晋境](xuanbei-wheel-relic-received-purelands-actually-merge.md) | 第八卷4章证据与表演边界 |
 | [孟无极藏部分未来、顾缺席不认海道人](meng-wuji-hides-some-futures-gu-absent-not-daoist-identity.md) | 第八卷4章证据与表演边界 |
