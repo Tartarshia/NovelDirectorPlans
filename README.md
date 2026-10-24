@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第七卷第182章，1346 / 1410 个目录条目，约424.7万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第七卷第183章，1347 / 1410 个目录条目，约425.0万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第七卷第183章复核](books/yishizhizun/reviews/review-v07-0183.md)：孟正式彼岸六象、L改史救友与对顾揭密，孟怒击月顾泪笑，75段77单元；[状态账](books/yishizhizun/reviews/ledger-v07-0183.md)。
 - [第七卷第182章复核](books/yishizhizun/reviews/review-v07-0182.md)：金皇雏果改指制怪封时刀、Gu旧强弱双证待解，孟跨纪首岸象，101段105单元；[状态账](books/yishizhizun/reviews/ledger-v07-0182.md)。
 - [第七卷第181章复核](books/yishizhizun/reviews/review-v07-0181.md)：孟历史逐醒将诞生未岸、三霄允援待阵与魔佛如臂控天道反攻，112段131单元；[状态账](books/yishizhizun/reviews/ledger-v07-0181.md)。
 - [第七卷第180章复核](books/yishizhizun/reviews/review-v07-0180.md)：伏皇实救第二备、魔佛实身受监与王替顾投入天道拖月，孟启回溯未岸，68段74单元；[状态账](books/yishizhizun/reviews/ledger-v07-0180.md)。

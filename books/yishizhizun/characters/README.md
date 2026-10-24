@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第七卷182章
+# 角色阶段索引 · 截至第七卷183章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–182章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–183章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟最后永恒之无真破、虚果成形出河尚有最后劫](meng-last-eternal-nothing-trial-creation-explosion.md) | 第七卷183章证据与表演边界 |
+| [孟六类岸象与大道树根双虚果、非已雏果或原祖救](meng-six-peer-omens-tree-between-virtual-fruits-not-proto.md) | 第七卷183章证据与表演边界 |
+| [L亲称顾隐助元始娘亲与种种皆己扮、每项古史未全独验](laomu-claims-gu-hidden-helper-mother-traces-impersonation.md) | 第七卷183章证据与表演边界 |
+| [L当下改史令旧死覆成被擒、救王与界死者归来](laomu-rewrites-past-restores-yuxu-friends-wang-world.md) | 第七卷183章证据与表演边界 |
+| [L强顾促己果与条件反转、冷酷博弈论非作者定命](laomu-product-conditional-reversal-cold-doctrine-not-endorsed.md) | 第七卷183章证据与表演边界 |
+| [孟source正式彼岸、当下爆喝袭L非永久不求超脱](meng-formal-peer-present-anger-halo-strike-laomu.md) | 第七卷183章证据与表演边界 |
+| [顾意义崩极寒到孟回应泪笑、未全创伤瞬愈](gu-existential-cold-crying-smile-after-meng-response.md) | 第七卷183章证据与表演边界 |
 | [顾曾试傀儡风险仍漏魔佛、不无准备且今失掌局](gu-tested-tiandao-control-still-missed-mofo-not-no-preparation.md) | 第七卷182章证据与表演边界 |
 | [孟开天果锐勇过出生两果近成、杏黄落幽非已永毁](meng-passes-birth-history-kaitian-fruit-xinghuang-falls.md) | 第七卷182章证据与表演边界 |
 | [L改指制天道生新未来、非顾牺牲削弱已成](laomu-changes-target-stops-tiandao-opens-new-futures.md) | 第七卷182章证据与表演边界 |
