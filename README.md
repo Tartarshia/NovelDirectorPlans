@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第2章，1350 / 1410 个目录条目，约425.8万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第3章，1351 / 1410 个目录条目，约426.0万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第3章复核](books/yishizhizun/reviews/review-v08-0003.md)：三印圆满、168年迟信与净土亡魂文字重联，69段85单元；[状态账](books/yishizhizun/reviews/ledger-v08-0003.md)。
 - [第八卷第2章复核](books/yishizhizun/reviews/review-v08-0002.md)：燃灯涅槃转僧、弥勒送因果舍利与孟接礼，60段71单元；[状态账](books/yishizhizun/reviews/ledger-v08-0002.md)。
 - [第八卷第1章复核](books/yishizhizun/reviews/review-v08-0001.md)：改史认知与刀救我、还剑亲友相见和顾携手长伴目标，58段73单元；[状态账](books/yishizhizun/reviews/ledger-v08-0001.md)。
 - [第七卷第184章复核](books/yishizhizun/reviews/review-v07-0184.md)：孟一刀偿恩受枷、魔佛实逃与玉虚认主新元始，53段57单元；[状态账](books/yishizhizun/reviews/ledger-v07-0184.md)。

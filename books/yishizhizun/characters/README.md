@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷2章
+# 角色阶段索引 · 截至第八卷3章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–2章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–3章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [道一灯三印圆满、弥勒悟初心未许绑顾成道](meng-three-seals-daoyi-lamp-perfect-not-proto.md) | 第八卷3章证据与表演边界 |
+| [杏黄旗实归杨、历史取球恢复通识网络](meng-returns-banner-yang-history-sphere-network-restored.md) | 第八卷3章证据与表演边界 |
+| [崔老与林颖稚168年迟信、徒孙代回十年前坐化](cui-elder-lin-yingzhi-168year-messages-tenyear-death.md) | 第八卷3章证据与表演边界 |
+| [另一群老者喃旧友、小六净土亡魂文字上线](surviving-forum-elder-xiaoliu-dead-pureland-text-online.md) | 第八卷3章证据与表演边界 |
+| [玄悲宽容鬼众偷玩通识符、非亡魂肉身复活](xuanbei-tolerates-ghost-network-play-not-resurrection.md) | 第八卷3章证据与表演边界 |
+| [地藏死寂残净土飞来、玄悲内识未融合晋境](dizang-damaged-residual-pureland-arrives-not-merged.md) | 第八卷3章证据与表演边界 |
 | [燃灯悔谨慎、A点放执非孟直接杀或已证岸](randeng-regret-amitabha-lets-go-causal-path-not-killed.md) | 第八卷2章证据与表演边界 |
 | [R涅槃旧金身转弱普通僧、斩因果留舍利非终死](randeng-nirvana-ordinary-monk-cut-causal-relic.md) | 第八卷2章证据与表演边界 |
 | [Mile带燃灯舍利求见、非己未来舍利新复原](mile-carries-randeng-causal-relic-not-own-future-restored.md) | 第八卷2章证据与表演边界 |
