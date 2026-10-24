@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷26章目录条目
+# 角色阶段索引 · 截至第八卷27章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–26章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–27章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [留步申公豹气息称名后证、旧未知ID兼容](shen-gongbao-stayfriend-voice-resolved-by-aura-and-name.md) | 第八卷27章证据与表演边界 |
+| [谭转世知识不足忘Mile、非弥勒终死新判](tan-fashen-information-gap-forgets-mile-not-final-death.md) | 第八卷27章证据与表演边界 |
+| [谭猜赠枕道人欲榜报酬、无明令装傻](tan-infers-pillow-donor-wants-list-no-explicit-order.md) | 第八卷27章证据与表演边界 |
+| [北海天门实进旧水界、成汤游说未结盟](tan-ancient-waterrealm-chengtang-lobbying-not-alliance.md) | 第八卷27章证据与表演边界 |
+| [申实持榜自述返岐夺、献成汤仍计划](shen-gongbao-holds-list-claims-qishan-raid-not-handoff.md) | 第八卷27章证据与表演边界 |
+| [谭惧诸目史改、要送榜未送非已被抹](tan-fears-history-change-plans-return-list-not-done.md) | 第八卷27章证据与表演边界 |
 | [旧青灯末法判断、毗卢概念与真佛自称恐怖](purplepalace-old-lamp-vairocana-concept-truebuddha-claims.md) | 第八卷26章证据与表演边界 |
 | [夫妻收宝抹迹无主婚贺、谭后入空府](meng-gu-zixiao-treasures-cleared-traces-erased.md) | 第八卷26章证据与表演边界 |
 | [谭珠裂护混沌真实入府搜空非仍计划](tan-cangtian-bulao-pearl-chaos-entry-no-treasure.md) | 第八卷26章证据与表演边界 |
