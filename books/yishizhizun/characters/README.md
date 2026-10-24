@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至第八卷8章
+# 角色阶段索引 · 截至第八卷9章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–8章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–9章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [过去孟统一时光等岸、自在猜尸各方动机仍未明](zizai-past-meng-peer-corpse-motives-uncertain.md) | 第八卷9章证据与表演边界 |
+| [所见旧尸火无极三方灰化、非全古史终局定](historical-gu-corpse-fire-void-threeway-ashes-observed.md) | 第八卷9章证据与表演边界 |
+| [另史赵谦静修莲卍、窗外白衣女未名](historical-zhaoqian-meditation-whitegirl-identity-unknown.md) | 第八卷9章证据与表演边界 |
+| [自在伤返A已知、所见受安排为佛疑](zizai-injured-amitabha-knows-arranged-witness-question.md) | 第八卷9章证据与表演边界 |
+| [夏醒掌白莲凋留种、名称来源威能未知](xia-white-lotus-seed-unexpected-origin-unknown.md) | 第八卷9章证据与表演边界 |
 | [谭拒自在两场、水祖宿忆恢复不新晋](tan-rejects-zizai-waterancestor-memory-not-new-rank.md) | 第八卷8章证据与表演边界 |
 | [高仪式实成东海半岛、孟离持笏真撤](zhou-half-eastsea-ritual-complete-meng-departs.md) | 第八卷8章证据与表演边界 |
 | [谭水祖转世融合真武遗权、非真武转世](tan-waterancestor-reincarnation-zhenwu-authority-not-same-god.md) | 第八卷8章证据与表演边界 |

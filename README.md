@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第8章，1356 / 1410 个目录条目，约427.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第9章，1357 / 1410 个目录条目，约427.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第9章复核](books/yishizhizun/reviews/review-v08-0009.md)：旧尸三方灰化与自在伤返、神都另史和夏莲种，43段53单元；[状态账](books/yishizhizun/reviews/ledger-v08-0009.md)。
 - [第八卷第8章复核](books/yishizhizun/reviews/review-v08-0008.md)：谭恢复水祖记忆仍拒佛、夏实逆时与顾遗躯待证推论，83段95单元；[状态账](books/yishizhizun/reviews/ledger-v08-0008.md)。
 - [第八卷第7章复核](books/yishizhizun/reviews/review-v08-0007.md)：孟实降谭识借枕者、高接打神鞭与自在招徒未答，70段75单元；[状态账](books/yishizhizun/reviews/ledger-v08-0007.md)。
 - [第八卷第6章复核](books/yishizhizun/reviews/review-v08-0006.md)：夏秀解名、明霞方地仙与两圆满来客，宣师将临尚未到，59段87单元；[状态账](books/yishizhizun/reviews/ledger-v08-0006.md)。
