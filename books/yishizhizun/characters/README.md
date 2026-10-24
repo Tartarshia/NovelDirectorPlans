@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第八卷14章
+# 角色阶段索引 · 截至第八卷15章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–14章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–15章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [L不恼冷网、新局超持未来需重识](laomu-cold-web-outcome-beyond-held-futures-reassesses-wuji-cause.md) | 第八卷15章证据与表演边界 |
+| [真佛唐身圆满彼岸境界新措词、愤恨焦点层](truebuddha-tang-body-perfects-peer-realm-focal-selfaccount.md) | 第八卷15章证据与表演边界 |
+| [天帝耐后入伏皇破A印、斧落化河遁](tiandi-last-moment-fuhuang-entry-breaks-amitabha-mark-escapes.md) | 第八卷15章证据与表演边界 |
+| [杨持旗犬盯魔君未知物意、闭目掩醒](yang-intercepts-mojun-unknown-object-intent-eyes-close.md) | 第八卷15章证据与表演边界 |
+| [Mile灵光池重结法身、失圆满与产品位](mile-pool-fashen-rebirth-loses-vows-relics-creation-perfection-product.md) | 第八卷15章证据与表演边界 |
+| [白莲圣母顾无独立意识身、尸气孕莲源明](gu-white-lotus-mother-corpse-breath-origin-no-own-consciousness.md) | 第八卷15章证据与表演边界 |
+| [夫妇防末劫炼幽、孟欲查天帝未访未回史](meng-gu-nineyou-apocalypse-tiandi-inquiry-future-plan.md) | 第八卷15章证据与表演边界 |
 | [A法报应三身旧已圆满、道德三化实牵制](amitabha-three-peer-bodies-full-support-daode-stalemate.md) | 第八卷14章证据与表演边界 |
 | [女娲人祖妖皇合双兵、古佛准提挡](nuwa-human-demon-map-two-weapons-bodhi-zhunti-block.md) | 第八卷14章证据与表演边界 |
 | [L困孟免Mofo机为护顾减空利益](laomu-zhuxian-confines-meng-protects-reduction-interest.md) | 第八卷14章证据与表演边界 |
