@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第22章，1370 / 1410 个目录条目，约431.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第23章，1371 / 1410 个目录条目，约431.5万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第23章复核](books/yishizhizun/reviews/review-v08-0023.md)：夫妻地球真领婚证、Gu本性反问、小奇免相亲与纪元界宝筏，70段107单元；[状态账](books/yishizhizun/reviews/ledger-v08-0023.md)。
 - [第八卷第22章复核](books/yishizhizun/reviews/review-v08-0022.md)：实入地球旧史见母、亲情留我与家世话术、独立小奇喷嚏，63段104单元；[状态账](books/yishizhizun/reviews/ledger-v08-0022.md)。
 - [第八卷第21章复核](books/yishizhizun/reviews/review-v08-0021.md)：八戒终死、悟空双身求凶与当前双史苦海、孟邀小桑溯出生宝筏，51段64单元；[状态账](books/yishizhizun/reviews/ledger-v08-0021.md)。
 - [第八卷第20章复核](books/yishizhizun/reviews/review-v08-0020.md)：天蓬旧死观测、借体推断与真佛更早吞噬改史救未成，56段65单元；[状态账](books/yishizhizun/reviews/ledger-v08-0020.md)。
