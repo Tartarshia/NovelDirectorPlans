@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷6章
+# 角色阶段索引 · 截至第八卷7章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–6章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–7章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟真龙沉香辇实际降临、两果加灯转述分口](meng-actual-nine-dragon-incense-chariot-two-fruits-lamp.md) | 第八卷7章证据与表演边界 |
+| [谭辨借枕道人即孟、缘由仍问未被孟收徒](tan-recognizes-pillow-daoist-meng-motive-still-unknown.md) | 第八卷7章证据与表演边界 |
+| [持笏私明示威与代行任务、忌新元始不试](chihu-private-daixing-mission-intimidation-fears-new-yuanshi.md) | 第八卷7章证据与表演边界 |
+| [高四色印东海大半、故土未复不敢贺](gao-changmen-fourcolor-seal-homeland-not-recovered.md) | 第八卷7章证据与表演边界 |
+| [孟打神鞭实交高、持笏靠榜多半为众推](meng-gives-whip-gao-actual-chihu-list-dependence-inference.md) | 第八卷7章证据与表演边界 |
+| [自在王佛实际邀谭修佛、尚未答应收徒](zizai-offers-tan-buddhist-discipleship-no-answer-yet.md) | 第八卷7章证据与表演边界 |
 | [粉袄夏秀同人解名、旧识云里金刚刘祖斌引宴](xia-xiu-named-pinkjacket-liu-zubin-old-acquaintance.md) | 第八卷6章证据与表演边界 |
 | [明霞方华吟当前地仙、刚强简练敬再立人道](fang-huayin-mingxia-earthimmortal-sixtyyear-fashen-report.md) | 第八卷6章证据与表演边界 |
 | [刘转闻死后回溯与众无感、不逐人生死全证](changmen-restored-history-ignorance-liu-hearsay-not-all-deaths-proven.md) | 第八卷6章证据与表演边界 |
