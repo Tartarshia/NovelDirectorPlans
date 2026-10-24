@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷18章目录条目
+# 角色阶段索引 · 截至第八卷19章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–18章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–19章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [流罗实传帝旧商所求条件、Y只知未允](liuluo-delivers-tiandi-shang-offer-yaohuang-knows-no-acceptance.md) | 第八卷19章证据与表演边界 |
+| [魔佛公开入幽受欢迎不增境、诸强察](mofo-open-nineyou-arrival-welcome-not-personal-rank-increase.md) | 第八卷19章证据与表演边界 |
+| [玄冥目邀七杀剑应、余不动未实攻](xuanming-qisha-failed-coalition-others-still-no-attack.md) | 第八卷19章证据与表演边界 |
+| [黑天门前一遍无词邪诵血逆卍、功能未解](mofo-heitian-door-untranscribed-chant-blood-inverse-mark-purpose-unknown.md) | 第八卷19章证据与表演边界 |
+| [九幽盛海塌真实死物、桥如意止清未明复生](nineyou-southsea-expansion-deaths-bridge-ruyi-stop-no-revival-stated.md) | 第八卷19章证据与表演边界 |
+| [魔佛峰静似笑内大势、不道德赞或炼成](mofo-quiet-peak-epoch-trend-inner-not-daode-endorsement.md) | 第八卷19章证据与表演边界 |
 | [飞虎明传说先挡后敬导何、非何新晋](feihu-legend-borderguard-softens-yuxu-name-guides-he.md) | 第八卷18章证据与表演边界 |
 | [HeJ私许后伪妖欺瞒断联因明、非亡妻](he-jiuli-betrothal-past-deception-revealed-break-contact-not-death.md) | 第八卷18章证据与表演边界 |
 | [书简实交Y披孟代提亲、非孟另声](meng-letter-marriage-proposal-delivered-yaohuang-discloses.md) | 第八卷18章证据与表演边界 |
