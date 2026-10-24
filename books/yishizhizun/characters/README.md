@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷28章目录条目
+# 角色阶段索引 · 截至第八卷29章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–28章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–29章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [天帝实归榜岐山留印、非仍Tan环或永久帝留](tiandi-actually-restores-list-qishan-leaves-imprint.md) | 第八卷29章证据与表演边界 |
+| [封神榜非彼岸三时唯一、历史迂回与限制](nonpeer-fengshen-list-not-unique-across-history.md) | 第八卷29章证据与表演边界 |
+| [孟亲述此次送谭试诸岸、非只私夺榜](meng-explicit-pillow-mission-probe-peer-intentions.md) | 第八卷29章证据与表演边界 |
+| [Q析金皇借申送帝、某默契与未来未知](jinhuang-sends-list-via-shen-tiandi-tacit-unknown-future.md) | 第八卷29章证据与表演边界 |
+| [孟警金皇示弱可能、旧躯伪迹推筏早知](meng-wary-jinhuang-retreat-earth-body-secret-inference.md) | 第八卷29章证据与表演边界 |
+| [西方旧封神秘未解、再演条件未执行](meng-qingdi-western-fengshen-secret-replay-not-executed.md) | 第八卷29章证据与表演边界 |
 | [谭铃锏真敲昏申取榜、非申死亡/已归榜](tan-actual-bell-mace-knocks-shen-out-takes-list.md) | 第八卷28章证据与表演边界 |
 | [旧水祖误认后裔、谭转世传音非血亲](ancient-waterancestor-tan-reincarnation-not-blood-son.md) | 第八卷28章证据与表演边界 |
 | [古成汤圆满索申未得退、非后世转世恢复](chengtang-perfect-creation-leaves-not-given-shen-or-list.md) | 第八卷28章证据与表演边界 |
