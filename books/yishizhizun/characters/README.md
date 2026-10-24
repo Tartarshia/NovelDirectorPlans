@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷20章目录条目
+# 角色阶段索引 · 截至第八卷21章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–20章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–21章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [八戒同化彻死、改历史不能复活的新直证](bajie-assimilation-terminal-no-history-resurrection.md) | 第八卷21章证据与表演边界 |
+| [历史悟空本尊斗战两身求凶、阿难内讥](wukong-two-historical-bodies-temple-inquiry-ananda-private-irony.md) | 第八卷21章证据与表演边界 |
+| [两处求问受阻、怒吼与未名新水师首](wukong-tusita-silence-bodhi-refusal-howl-history-settles.md) | 第八卷21章证据与表演边界 |
+| [当前悟空双史记忆、呆子低痛与孟苦海](wukong-current-two-history-memories-pain-not-peer-breakthrough.md) | 第八卷21章证据与表演边界 |
+| [孟反推灭口藏另一秘、原天蓬天仙语境](meng-pig-murder-secret-beyond-heavenfall-inferred.md) | 第八卷21章证据与表演边界 |
+| [孟邀小桑溯出生宝筏、造者未定尚未出发](meng-gu-birthplace-ark-retrospection-invitation-not-arrival.md) | 第八卷21章证据与表演边界 |
 | [末兆岸只能缓、孟如意出处新直证](epoch-omens-peer-can-delay-not-prevent-meng-ruyi-confirmed.md) | 第八卷20章证据与表演边界 |
 | [Gao体袭天蓬留星尸、雷神借体推断层](gao-cuilan-body-attacks-tianpeng-thundergod-controller-inferred.md) | 第八卷20章证据与表演边界 |
 | [救援时猪误当孟古原祖、战兢叩拜](tianpeng-rescue-pass-recognizes-current-meng-as-ancient-yuanshi.md) | 第八卷20章证据与表演边界 |
