@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第八卷9章
+# 角色阶段索引 · 截至第八卷10章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–9章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–10章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [谭留枕避岸局离岛、外景藏宝尚未取](tan-leaves-pillow-evades-peer-vortex-waterancestor-treasure-plan.md) | 第八卷10章证据与表演边界 |
+| [水祖记忆承黑帝道尊遗府讯、未开府得果](tan-inherits-zhenwu-message-daozun-dojo-not-opened.md) | 第八卷10章证据与表演边界 |
+| [魔佛侵中古魔心致新忆、庇史夺爪条件未兑](mofo-past-heart-invasion-mojun-new-memory-conditional-offer.md) | 第八卷10章证据与表演边界 |
+| [何暮敲钟全门响应、重开讲非旧只召大能](yuxu-bell-all-disciples-lecture-reopens-he-mu-strikes.md) | 第八卷10章证据与表演边界 |
+| [于齐法身阶段孙追齐报告、何落寞齐转题](yu-qi-fashen-sunwu-report-he-mu-lonely-topic-change.md) | 第八卷10章证据与表演边界 |
+| [天柱不死获请入、仍未解普贤观音真名](undying-arrives-yuxu-admitted-real-name-unresolved.md) | 第八卷10章证据与表演边界 |
+| [孟左托如意宣初一十五讲、未全门即晋](meng-yuxu-first-fifteenth-lecture-schedule-actual-announcement.md) | 第八卷10章证据与表演边界 |
 | [过去孟统一时光等岸、自在猜尸各方动机仍未明](zizai-past-meng-peer-corpse-motives-uncertain.md) | 第八卷9章证据与表演边界 |
 | [所见旧尸火无极三方灰化、非全古史终局定](historical-gu-corpse-fire-void-threeway-ashes-observed.md) | 第八卷9章证据与表演边界 |
 | [另史赵谦静修莲卍、窗外白衣女未名](historical-zhaoqian-meditation-whitegirl-identity-unknown.md) | 第八卷9章证据与表演边界 |
