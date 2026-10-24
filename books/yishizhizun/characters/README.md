@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷10章
+# 角色阶段索引 · 截至第八卷11章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–10章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–11章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [哪吒偏战由不解转沉悟、金灯非新晋](nezha-wuji-goldlamp-insight-not-new-rank.md) | 第八卷11章证据与表演边界 |
+| [不死真慈航观音sameactor、净死魔复白衣领旨](undying-cihang-guanyin-resolved-white-form-restored.md) | 第八卷11章证据与表演边界 |
+| [慈真早年已法身迎祖、水月本尊与应身分](cizhen-fashen-shuiyue-guanyin-primary-manifestation.md) | 第八卷11章证据与表演边界 |
+| [比丘尼观音受斋问自性、弥勒称佛非新岸](guanyin-nun-buddhaland-charity-inner-buddha-question.md) | 第八卷11章证据与表演边界 |
+| [商人观音问北面、掌柜仁谦转仇恨](guanyin-merchant-vacuum-innkeeper-kindness-hostility.md) | 第八卷11章证据与表演边界 |
+| [菩萨到边界和平尽为问、藏白佛未名未战](guanyin-border-arrivals-peace-question-whitebuddha-unknown.md) | 第八卷11章证据与表演边界 |
 | [谭留枕避岸局离岛、外景藏宝尚未取](tan-leaves-pillow-evades-peer-vortex-waterancestor-treasure-plan.md) | 第八卷10章证据与表演边界 |
 | [水祖记忆承黑帝道尊遗府讯、未开府得果](tan-inherits-zhenwu-message-daozun-dojo-not-opened.md) | 第八卷10章证据与表演边界 |
 | [魔佛侵中古魔心致新忆、庇史夺爪条件未兑](mofo-past-heart-invasion-mojun-new-memory-conditional-offer.md) | 第八卷10章证据与表演边界 |
