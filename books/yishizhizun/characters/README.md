@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷5章
+# 角色阶段索引 · 截至第八卷6章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–5章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–6章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [粉袄夏秀同人解名、旧识云里金刚刘祖斌引宴](xia-xiu-named-pinkjacket-liu-zubin-old-acquaintance.md) | 第八卷6章证据与表演边界 |
+| [明霞方华吟当前地仙、刚强简练敬再立人道](fang-huayin-mingxia-earthimmortal-sixtyyear-fashen-report.md) | 第八卷6章证据与表演边界 |
+| [刘转闻死后回溯与众无感、不逐人生死全证](changmen-restored-history-ignorance-liu-hearsay-not-all-deaths-proven.md) | 第八卷6章证据与表演边界 |
+| [世间自在王佛实来久圆满、未新彼岸或开战](zizaiwang-arrives-changmen-creationperfect-not-peer-attack.md) | 第八卷6章证据与表演边界 |
+| [持笏神使实来第二圆满30余年、来历仍未知](chihu-envoy-second-thirtyyear-creationperfect-origin-unknown.md) | 第八卷6章证据与表演边界 |
+| [方宣布孟将临请迎、孟尚未现身或新口](fang-announces-meng-coming-not-yet-arrived-or-new-voice.md) | 第八卷6章证据与表演边界 |
 | [谭平祭天威压后信过去、历史优势非全知](tan-ping-ritual-awe-history-advantage-not-omniscience.md) | 第八卷5章证据与表演边界 |
 | [枕中半年青岩寻宫、谷三日不等洞外半年](tan-ping-halfyear-qingyan-miaoyan-time-outside-unknown.md) | 第八卷5章证据与表演边界 |
 | [太乙同青帝睁眼我明白、未明何事或枕仙身份](taiyi-qingdi-opens-eyes-understands-not-seadaoist-resolved.md) | 第八卷5章证据与表演边界 |
