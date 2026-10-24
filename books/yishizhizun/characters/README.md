@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷183章
+# 角色阶段索引 · 截至第七卷184章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–183章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [准提忆未名凡生旧岸与魔主、非Gao魔君合并](zhunti-recalls-unnamed-mortal-peer-mozhu-not-gao-mojun.md) | 第七卷184章证据与表演边界 |
+| [孟因果债本纪无全果后纪未知、树或变未解枷](meng-fruit-path-debt-this-epoch-tree-possible-not-resolved.md) | 第七卷184章证据与表演边界 |
+| [孟开天果刀伤L指、金血化枷实债非掉境](meng-kaitian-fruit-blade-laomu-blood-karmic-shackles.md) | 第七卷184章证据与表演边界 |
+| [诛仙移时刀怪脱、魔佛借怪实破Y封隐逃](zhuxian-moves-timeblade-monster-mofobreaks-yaohuang-escapes.md) | 第七卷184章证据与表演边界 |
+| [孟停攻带顾与诸宝归玉虚、非树已愈恩债](meng-returns-yuxu-gu-weapons-stops-attack.md) | 第七卷184章证据与表演边界 |
+| [真宫认孟新主、昭自今元始同孟道号非原祖复来](yuxu-recognizes-meng-new-yuanshi-title-same-actor.md) | 第七卷184章证据与表演边界 |
 | [孟最后永恒之无真破、虚果成形出河尚有最后劫](meng-last-eternal-nothing-trial-creation-explosion.md) | 第七卷183章证据与表演边界 |
 | [孟六类岸象与大道树根双虚果、非已雏果或原祖救](meng-six-peer-omens-tree-between-virtual-fruits-not-proto.md) | 第七卷183章证据与表演边界 |
 | [L亲称顾隐助元始娘亲与种种皆己扮、每项古史未全独验](laomu-claims-gu-hidden-helper-mother-traces-impersonation.md) | 第七卷183章证据与表演边界 |
@@ -2914,3 +2920,8 @@
 
 
 [第六卷成长汇总](v06-growth-summary.md)：237章40阶段、正式传说与顾真正归来；[卷末复核](../reviews/volume-v06-review.md)。
+
+
+## 第七卷卷末成长汇总
+
+[全卷八段成长与主要角色](v07-growth-summary.md)，以各阶段既有记录综合；184章完整结构索引与未解见[卷末复核](../reviews/volume-v07-review.md)。
