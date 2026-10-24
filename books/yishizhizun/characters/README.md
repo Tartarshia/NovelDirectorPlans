@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷3章
+# 角色阶段索引 · 截至第八卷4章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–3章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–4章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [玄悲未传说敬地藏久死遗躯、幕后送者未知](xuanbei-dizang-dead-remains-vow-unknown-deliverer.md) | 第八卷4章证据与表演边界 |
+| [玄悲实得生死轮地藏舍利、净土实融未明晋境](xuanbei-wheel-relic-received-purelands-actually-merge.md) | 第八卷4章证据与表演边界 |
+| [孟无极藏部分未来、顾缺席不认海道人](meng-wuji-hides-some-futures-gu-absent-not-daoist-identity.md) | 第八卷4章证据与表演边界 |
+| [长门再立大周消息与东海求仙者、未中土统一](gaolan-changmen-zhou-news-eastsea-seekers-not-unification.md) | 第八卷4章证据与表演边界 |
+| [谭平苦傲求仙、自愿受未名道人黄粱枕](tan-ping-seeks-immortal-yellow-pillow-voluntary-choice.md) | 第八卷4章证据与表演边界 |
+| [黄粱铭文非口、异室祭天喝与回过去主观认定](yellow-pillow-inscription-sage-call-past-inference-unverified.md) | 第八卷4章证据与表演边界 |
 | [道一灯三印圆满、弥勒悟初心未许绑顾成道](meng-three-seals-daoyi-lamp-perfect-not-proto.md) | 第八卷3章证据与表演边界 |
 | [杏黄旗实归杨、历史取球恢复通识网络](meng-returns-banner-yang-history-sphere-network-restored.md) | 第八卷3章证据与表演边界 |
 | [崔老与林颖稚168年迟信、徒孙代回十年前坐化](cui-elder-lin-yingzhi-168year-messages-tenyear-death.md) | 第八卷3章证据与表演边界 |
