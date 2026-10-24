@@ -1,11 +1,18 @@
-# 角色阶段索引 · 截至第八卷15章
+# 角色阶段索引 · 截至第八卷16章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–15章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–16章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟实访兜率道德自释无为、双童疑](meng-actual-tusita-visit-daode-wuwei-twins-puzzled.md) | 第八卷16条目证据与表演边界 |
+| [真定承道德一果、苏孟清源二弱岸身待来](meng-zhending-inherits-daode-one-fruit-two-weakpeer-forms-future.md) | 第八卷16条目证据与表演边界 |
+| [孟真观旧坠天炼刀、岸意迹监非诸本尊新到](heavenfall-historical-observation-blade-peer-imprints-watchers.md) | 第八卷16条目证据与表演边界 |
+| [帝刀一直同一、灵光虚果器灵融合一次可分](tiandi-timeblade-one-essence-virtualfruit-spirit-single-separation.md) | 第八卷16条目证据与表演边界 |
+| [天帝自述建木泄杀讥讽、警末道争](tiandi-jianmu-thunderbetrayal-account-externalfruit-irony-warning.md) | 第八卷16条目证据与表演边界 |
+| [无伏皇恐韩体遭夺弱归只是孟反事实](han-body-alternative-tiandi-return-weakness-counterfactual.md) | 第八卷16条目证据与表演边界 |
+| [古修士见孟退出误幕后、留典非另新敌](ancient-yuhuang-witnesses-meng-fades-record-not-new-hidden-enemy.md) | 第八卷16条目证据与表演边界 |
 | [L不恼冷网、新局超持未来需重识](laomu-cold-web-outcome-beyond-held-futures-reassesses-wuji-cause.md) | 第八卷15章证据与表演边界 |
 | [真佛唐身圆满彼岸境界新措词、愤恨焦点层](truebuddha-tang-body-perfects-peer-realm-focal-selfaccount.md) | 第八卷15章证据与表演边界 |
 | [天帝耐后入伏皇破A印、斧落化河遁](tiandi-last-moment-fuhuang-entry-breaks-amitabha-mark-escapes.md) | 第八卷15章证据与表演边界 |
