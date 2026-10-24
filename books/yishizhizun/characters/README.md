@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷17章目录条目
+# 角色阶段索引 · 截至第八卷18章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–17章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–18章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [飞虎明传说先挡后敬导何、非何新晋](feihu-legend-borderguard-softens-yuxu-name-guides-he.md) | 第八卷18章证据与表演边界 |
+| [HeJ私许后伪妖欺瞒断联因明、非亡妻](he-jiuli-betrothal-past-deception-revealed-break-contact-not-death.md) | 第八卷18章证据与表演边界 |
+| [书简实交Y披孟代提亲、非孟另声](meng-letter-marriage-proposal-delivered-yaohuang-discloses.md) | 第八卷18章证据与表演边界 |
+| [何请勿强愿自主担师、九璃怨恨转](he-mu-respects-jiuli-choice-no-compulsion-will-answer-master.md) | 第八卷18章证据与表演边界 |
+| [妖皇问真意九璃冷语遮愿、羞喜未婚礼](jiuli-hidden-willingness-yaohuang-asks-consent-no-wedding-yet.md) | 第八卷18章证据与表演边界 |
+| [帝派流罗问Y减空迹未知、未已出发](tiandi-orders-liuluo-yaohuang-reduction-inquiry-not-executed.md) | 第八卷18章证据与表演边界 |
 | [原佛取建木果、当前留影真佛非超脱者归](buddha-takes-jianmu-fruit-truebuddha-left-image-not-transcendent-return.md) | 第八卷17章证据与表演边界 |
 | [旧蝉壳克削真佛使遁、非唐金身同物](meng-goldcicada-shell-suppresses-truebuddha-not-tang-goldbody.md) | 第八卷17章证据与表演边界 |
 | [夏瓣改资、谭首宝到大宗师非新法身](xia-three-petals-improve-aptitude-tan-first-cache-grandmaster.md) | 第八卷17章证据与表演边界 |
