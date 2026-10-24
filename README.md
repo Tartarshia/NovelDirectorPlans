@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第29章，1377 / 1410 个目录条目，约433.0万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第30章，1378 / 1410 个目录条目，约433.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第30章复核](books/yishizhizun/reviews/review-v08-0030.md)：枕实碎谭入周、何九婚礼、牛暂受制哪吒到门未杀，61段84单元；[状态账](books/yishizhizun/reviews/ledger-v08-0030.md)。
 - [第八卷第29章复核](books/yishizhizun/reviews/review-v08-0029.md)：帝归榜留印、孟亲述试探、L退示弱疑与再演未行，37段52单元；[状态账](books/yishizhizun/reviews/ledger-v08-0029.md)。
 - [第八卷第28章复核](books/yishizhizun/reviews/review-v08-0028.md)：谭真敲昏取榜、旧水神误认转世传音、古今同岸天帝与当前棋局，56段79单元；[状态账](books/yishizhizun/reviews/ledger-v08-0028.md)。
 - [第八卷第27章复核](books/yishizhizun/reviews/review-v08-0027.md)：申公豹身份后证、谭有限知识避局、申实示榜与归还未行，59段79单元；[状态账](books/yishizhizun/reviews/ledger-v08-0027.md)。

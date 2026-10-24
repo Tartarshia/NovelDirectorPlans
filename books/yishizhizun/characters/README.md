@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷29章目录条目
+# 角色阶段索引 · 截至第八卷30章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–29章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–30章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [黄粱实碎、谭因果清仅自判与自主感悟](yellow-pillow-actually-shatters-tan-karma-cleared-belief.md) | 第八卷30章证据与表演边界 |
+| [夏谭真择大周、三霄L恩多宝中立战将起](tan-xia-joins-zhou-sanxiao-war-imminent-not-begun.md) | 第八卷30章证据与表演边界 |
+| [何九璃婚礼实举、师仇牛自辩不N免责](he-jiuli-wedding-actually-held-nezha-niu-grudge.md) | 第八卷30章证据与表演边界 |
+| [韩脑内幻景给机会、未明杀令或肉身到](han-nezha-mental-vision-opportunity-no-explicit-killorder.md) | 第八卷30章证据与表演边界 |
+| [牛成年私岛饮茶合种短受制、未死未永久失阶](niu-huanxi-combined-water-seed-temporary-control.md) | 第八卷30章证据与表演边界 |
+| [欢喜自述旧侍帝旨、哪吒到门尚未杀招](huanxi-adult-guanyin-attendant-claimed-tiandi-order-nezha-door.md) | 第八卷30章证据与表演边界 |
 | [天帝实归榜岐山留印、非仍Tan环或永久帝留](tiandi-actually-restores-list-qishan-leaves-imprint.md) | 第八卷29章证据与表演边界 |
 | [封神榜非彼岸三时唯一、历史迂回与限制](nonpeer-fengshen-list-not-unique-across-history.md) | 第八卷29章证据与表演边界 |
 | [孟亲述此次送谭试诸岸、非只私夺榜](meng-explicit-pillow-mission-probe-peer-intentions.md) | 第八卷29章证据与表演边界 |
