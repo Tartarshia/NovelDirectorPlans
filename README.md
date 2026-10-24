@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第13章，1361 / 1410 个目录条目，约428.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第14章，1362 / 1410 个目录条目，约429.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第14章复核](books/yishizhizun/reviews/review-v08-0014.md)：药师因果转孟、限时真定身与顾白莲替位退关，125段132单元；[状态账](books/yishizhizun/reviews/ledger-v08-0014.md)。
 - [第八卷第13章复核](books/yishizhizun/reviews/review-v08-0013.md)：韩面传刀、观音白莲渡心与十年后弥勒冲岸发起，60段70单元；[状态账](books/yishizhizun/reviews/ledger-v08-0013.md)。
 - [第八卷第12章复核](books/yishizhizun/reviews/review-v08-0012.md)：罗教撤不战、金皇赠唐体尚未吞圆、极乐听法与韩寻片，47段59单元；[状态账](books/yishizhizun/reviews/ledger-v08-0012.md)。
 - [第八卷第11章复核](books/yishizhizun/reviews/review-v08-0011.md)：不死慈航观音解名、三具身体苦与边界来客未战，65段83单元；[状态账](books/yishizhizun/reviews/ledger-v08-0011.md)。

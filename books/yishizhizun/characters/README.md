@@ -1,11 +1,19 @@
-# 角色阶段索引 · 截至第八卷13章
+# 角色阶段索引 · 截至第八卷14章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–13章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–14章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [A法报应三身旧已圆满、道德三化实牵制](amitabha-three-peer-bodies-full-support-daode-stalemate.md) | 第八卷14章证据与表演边界 |
+| [女娲人祖妖皇合双兵、古佛准提挡](nuwa-human-demon-map-two-weapons-bodhi-zhunti-block.md) | 第八卷14章证据与表演边界 |
+| [L困孟免Mofo机为护顾减空利益](laomu-zhuxian-confines-meng-protects-reduction-interest.md) | 第八卷14章证据与表演边界 |
+| [药师全因果大愿转孟、太乙补史Q暂弱](qingdi-medicine-history-transferred-meng-vows-taiyi-bridge.md) | 第八卷14章证据与表演边界 |
+| [真定同孟限时弱岸身、略胜Mofo不M雏果](meng-zhending-rulai-temporary-weak-peer-avatar-not-protofruit.md) | 第八卷14章证据与表演边界 |
+| [真佛法身侵染、众佛内认融合唐佛](truebuddha-dharmakaya-contamination-buddhas-infer-tang-fusion.md) | 第八卷14章证据与表演边界 |
+| [Gu回史吸赵谦借夏莲神灵替当前Mile](gu-xia-lotus-history-zhaoqian-absorbed-deity-replaces-mile.md) | 第八卷14章证据与表演边界 |
+| [顾替位止斧利益谢母、积累不足退岸关](gu-deity-stops-laomu-axe-insufficient-accumulation-bid-withdrawn.md) | 第八卷14章证据与表演边界 |
 | [韩重入旧梦读典、守静空棺不解尸去](han-returns-dream-fragment-xuhe-history-shoujing-empty-coffin.md) | 第八卷13章证据与表演边界 |
 | [韩代魔佛面传伏皇身躯、刀变无答](han-timeblade-fuhuang-body-message-no-tiandi-answer.md) | 第八卷13章证据与表演边界 |
 | [观音同源劝渡心、教义谱系不演员同人](guanyin-white-lotus-doctrinal-lineage-persuasion-not-forced-conversion.md) | 第八卷13章证据与表演边界 |
