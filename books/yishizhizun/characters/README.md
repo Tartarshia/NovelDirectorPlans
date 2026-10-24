@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷24章目录条目
+# 角色阶段索引 · 截至第八卷25章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–24章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–25章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [紫霄空印守神无谎、Gu道果论亦揣测](zixiao-empty-imprint-guard-sincere-gu-daofruit-speculation.md) | 第八卷25章证据与表演边界 |
+| [真定弱岸旧纪极乐问接引、同M返气](zhending-past-epochs-amitabha-jieyin-actual-inquiry.md) | 第八卷25章证据与表演边界 |
+| [接引述黄老遗蜕天怪残魂东皇、非Mofo另产物](huanglaojun-remains-monster-soul-donghuang-amitabha-account.md) | 第八卷25章证据与表演边界 |
+| [黄老二苗真武孟与扶桑、下纪希望未成](huanglao-two-tree-seedlings-meng-fusang-epoch-hope.md) | 第八卷25章证据与表演边界 |
+| [紫霄回当前混沌、守神寿尽与龟蛇童未名](zixiao-current-chaos-guard-lifespan-child-unnamed.md) | 第八卷25章证据与表演边界 |
+| [谭平终于法身开另藏、探混沌遗府尚计划](tan-ping-fashen-actually-attained-next-cache-dojo-intent.md) | 第八卷25章证据与表演边界 |
 | [孟实力初等初雏、境界仍慢与真界回溯界](meng-power-initial-protofruit-parity-realm-slow-history-limit.md) | 第八卷24章证据与表演边界 |
 | [冰封纪末部分藏生、护力此时可寻源](earth-ice-epochs-preserved-life-power-source-visible.md) | 第八卷24章证据与表演边界 |
 | [紫霄未名近造化守神、未来死自推与先请](zixiao-ancient-gatekeeper-unnamed-future-death-inference.md) | 第八卷24章证据与表演边界 |
