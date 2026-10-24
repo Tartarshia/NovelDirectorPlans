@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷16章目录条目
+# 角色阶段索引 · 截至第八卷17章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–16章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–17章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [原佛取建木果、当前留影真佛非超脱者归](buddha-takes-jianmu-fruit-truebuddha-left-image-not-transcendent-return.md) | 第八卷17章证据与表演边界 |
+| [旧蝉壳克削真佛使遁、非唐金身同物](meng-goldcicada-shell-suppresses-truebuddha-not-tang-goldbody.md) | 第八卷17章证据与表演边界 |
+| [夏瓣改资、谭首宝到大宗师非新法身](xia-three-petals-improve-aptitude-tan-first-cache-grandmaster.md) | 第八卷17章证据与表演边界 |
+| [古画论坛文字猜古转世与唯一元始非实证](forum-heavenfall-picture-meng-reincarnation-unique-yuanshi-speculation.md) | 第八卷17章证据与表演边界 |
+| [大青根真门房、犬暂怕回未明缘](daqinggen-actual-gatekeeper-dog-afraid-return-cause-unknown.md) | 第八卷17章证据与表演边界 |
+| [何暮实受送妖殿书简令、恍惚未达](he-mu-ordered-letter-to-demon-sovereign-palace-not-delivered.md) | 第八卷17章证据与表演边界 |
 | [孟实访兜率道德自释无为、双童疑](meng-actual-tusita-visit-daode-wuwei-twins-puzzled.md) | 第八卷16条目证据与表演边界 |
 | [真定承道德一果、苏孟清源二弱岸身待来](meng-zhending-inherits-daode-one-fruit-two-weakpeer-forms-future.md) | 第八卷16条目证据与表演边界 |
 | [孟真观旧坠天炼刀、岸意迹监非诸本尊新到](heavenfall-historical-observation-blade-peer-imprints-watchers.md) | 第八卷16条目证据与表演边界 |
