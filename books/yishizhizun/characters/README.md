@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第七卷184章
+# 角色阶段索引 · 截至第八卷1章
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1章已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [改史后认知与体验分境界、36井24活跃澄数](rewritten-history-memory-legend-creation-peer-differences.md) | 第八卷1章证据与表演边界 |
+| [孟刀断途救我、L谋动机分析与本人愿斩分层](meng-laomu-knife-saves-self-motive-analysis-not-no-agency.md) | 第八卷1章证据与表演边界 |
+| [人皇剑实归Gao重立人道为愿、鞭尚待兜率取](gao-sword-return-humanway-proposal-whip-not-yet-retrieved.md) | 第八卷1章证据与表演边界 |
+| [江小和尚阮颔笑、玩笑拉近岸距指导灵光未即晋](jiang-ruan-littlemonk-joke-peer-distance-innerlight-advice.md) | 第八卷1章证据与表演边界 |
+| [顾泪与沉静未全愈、自斩愤语无真正执行](gu-identity-uncertainty-banter-selfcut-words-not-action.md) | 第八卷1章证据与表演边界 |
+| [孟请顾成岸携手长伴为目标、宫外好处详情未知](meng-asks-gu-peer-companionship-longtime-gift-unknown.md) | 第八卷1章证据与表演边界 |
 | [准提忆未名凡生旧岸与魔主、非Gao魔君合并](zhunti-recalls-unnamed-mortal-peer-mozhu-not-gao-mojun.md) | 第七卷184章证据与表演边界 |
 | [孟因果债本纪无全果后纪未知、树或变未解枷](meng-fruit-path-debt-this-epoch-tree-possible-not-resolved.md) | 第七卷184章证据与表演边界 |
 | [孟开天果刀伤L指、金血化枷实债非掉境](meng-kaitian-fruit-blade-laomu-blood-karmic-shackles.md) | 第七卷184章证据与表演边界 |
