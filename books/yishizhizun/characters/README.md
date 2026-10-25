@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷41章目录条目
+# 角色阶段索引 · 截至第八卷42章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–41章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–42章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟由先后显消推非直接Ling产品、排单纯融合](meng-not-direct-lingbao-product-not-simple-primo-fusion-inference.md) | 第八卷42章证据与表演边界 |
+| [道化三面须共同果为孟推测、未联合超脱实成](three-primo-as-dao-three-faces-joint-transcendence-hypothesis.md) | 第八卷42章证据与表演边界 |
+| [L期待自绝刀与若未刀快成反事实、不M当前古老](laomu-selfcut-knife-counterfactual-fast-proto-threeforms.md) | 第八卷42章证据与表演边界 |
+| [众岸未来阻己与L曝光第三形围杀只是预测](future-opposition-meng-thirdform-laomu-disclosure-trap-speculation.md) | 第八卷42章证据与表演边界 |
+| [合三界开根仅两古岸能、战力不能代正式境](only-daode-amida-open-precreation-time-root-combat-not-realm.md) | 第八卷42章证据与表演边界 |
+| [孟真到兜率门准备问、未Daode答允](meng-actually-arrives-tusita-gate-daode-consent-not-yet.md) | 第八卷42章证据与表演边界 |
 | [原始旧印照即消Ruyi真留、孟承坠前至今角色](yuanshi-imprint-disappears-ruyi-real-meng-takes-historic-role.md) | 第八卷41章证据与表演边界 |
 | [最古宇宙他我柱支减空、近果非已完整果](oldest-universe-projections-support-reduction-not-complete-daofruit.md) | 第八卷41章证据与表演边界 |
 | [战后碧游空却童三霄认孟老师、L产品只是疑](empty-postfengshen-lingbao-hall-attendant-sanxiao-call-meng-master.md) | 第八卷41章证据与表演边界 |
