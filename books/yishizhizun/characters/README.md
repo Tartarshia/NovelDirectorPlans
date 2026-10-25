@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷45章目录条目
+# 角色阶段索引 · 截至第八卷46章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–45章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–46章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [凤兮旧爱秘誓与弃族痛、私述不全独验](fengxi-private-love-secret-oath-revenge-history-not-all-independent-proof.md) | 第八卷46章证据与表演边界 |
+| [魔佛临死样旧史闪回、真挣扎仍未死](mofo-dying-memory-history-plots-and-remorse-not-current-reenactment.md) | 第八卷46章证据与表演边界 |
+| [终果补第三弱岸正式雏形仅条件、菩提真刷枪](ending-fruit-to-meng-third-weakform-proto-conditional-bodhi-inference.md) | 第八卷46章证据与表演边界 |
+| [天帝真自解伏皇躯虚果扛两尊、脱命未终验](tiandi-actually-self-dissolves-fuhuang-body-fruit-escape-fate-attempt.md) | 第八卷46章证据与表演边界 |
+| [Gu虚果成首天地混沌、末考未正式岸](gu-first-chaos-omen-virtualfruits-formed-final-trial-not-attained.md) | 第八卷46章证据与表演边界 |
+| [金皇真现六魂幡、六尾姓名全书字非念咒](laomu-actual-sixsouls-banner-six-written-names-not-chanted.md) | 第八卷46章证据与表演边界 |
 | [孟早知昊天示弱诱吞、截血四手真困魔佛](meng-knew-haotian-feigned-weakness-caught-blood-traps-swallowing.md) | 第八卷45章证据与表演边界 |
 | [菩提本欲三尸独立承因果、自述减空路未完整果](bodhi-intended-three-corpses-independence-reduction-selfaccount.md) | 第八卷45章证据与表演边界 |
 | [七杀退无可退实援仅落叶、众宝也暂未破树](qisha-refuses-last-retreat-strikes-fusang-one-leaf-not-dead.md) | 第八卷45章证据与表演边界 |
