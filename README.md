@@ -2,7 +2,7 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至番外第8篇，1406 / 1410 个目录条目，约441.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至番外第9篇，1407 / 1410 个目录条目，约441.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
@@ -10,6 +10,7 @@
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
 - [第八卷成长与导演综合](books/yishizhizun/characters/v08-growth-summary.md)、[卷末复核](books/yishizhizun/reviews/volume-v08-review.md)、[50条阶段索引](books/yishizhizun/reviews/volume-v08-stage-index.json)：正文49章+作者感言闭合，番外12条与早缺全书终审仍待。
+- [番外第9篇复核](books/yishizhizun/reviews/review-v09-0009.md)：地府观光罪执因果、杨明确成岸、玄悲两徒愿与迦叶笑未补复生，47段73单元；[状态账](books/yishizhizun/reviews/ledger-v09-0009.md)。
 - [番外第8篇复核](books/yishizhizun/reviews/review-v09-0008.md)：穆求真访杨童史、天帝疑阵非真身、依靠如果与虚果将凝未成，70段114单元；[状态账](books/yishizhizun/reviews/ledger-v09-0008.md)。
 - [番外第7篇复核](books/yishizhizun/reviews/review-v09-0007.md)：江造化访谈机会平等与道心自足、主持情愫问先后版本未定改者，40段52单元；[状态账](books/yishizhizun/reviews/ledger-v09-0007.md)。
 - [番外第6篇复核](books/yishizhizun/reviews/review-v09-0006.md)：灵儿自称与孟顾父母、新花猫友、护女条件威胁和顾旧孤独母爱，54段92单元；[状态账](books/yishizhizun/reviews/ledger-v09-0006.md)。
