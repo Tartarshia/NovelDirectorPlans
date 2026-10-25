@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷47章目录条目
+# 角色阶段索引 · 截至第八卷48章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–47章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–48章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [魔佛实际陨落、虚终果崩仅终意被孟同化](mofo-actually-dies-ending-fruit-disintegrates-meaning-assimilated.md) | 第八卷48章证据与表演边界 |
+| [孟第三弱岸实际成、本尊正式雏形到创世古老](meng-third-sumeng-weakpeer-formal-proto-ancient-actually-attained.md) | 第八卷48章证据与表演边界 |
+| [Gu正式登岸再吸L成雏形古老、同孟到创世](gu-formal-peer-then-proto-ancient-after-laomu-absorption.md) | 第八卷48章证据与表演边界 |
+| [L毁幡逃空指被吸可见陨落、Gu猜超脱未实证](laomu-banner-destroyed-observed-death-gu-transcendence-question.md) | 第八卷48章证据与表演边界 |
+| [佛祖真阻第二拜、受限果单次出手仅F推](buddha-blocks-second-bow-mofo-restricted-one-action-only-inference.md) | 第八卷48章证据与表演边界 |
+| [舟已融岛红流、T末影溃刀分离状不添永久终灭](ark-islands-redflow-actually-fused-tiandi-last-image-dissolves.md) | 第八卷48章证据与表演边界 |
 | [六魂幡真发动、孟半转咒莲种毁仍重伤](sixsouls-curse-actually-cast-meng-half-transfer-seed-destroyed.md) | 第八卷47章证据与表演边界 |
 | [F魔身真灵散本性微存、扶桑重损非全灭](mofo-body-spirit-collapse-naturelight-survives-fusang-drained.md) | 第八卷47章证据与表演边界 |
 | [舟真实入末黑助寻本性、民众赴舟意融未完](ark-actually-enters-mofo-darkvoid-meng-searching-not-finished.md) | 第八卷47章证据与表演边界 |
