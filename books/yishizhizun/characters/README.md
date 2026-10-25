@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷50章目录条目
+# 角色阶段索引 · 截至番外第1条目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–50章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1条已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [新纪R阮月宫厨赛、传说称非新彼岸](ruan-new-epoch-moonpalace-cooking-judge-legend-claim.md) | 番外1证据与表演边界 |
+| [钱允观赛投影、钱玄异写保疑不另强造人](qian-yun-livestream-viewer-qianxuan-source-name-variation.md) | 番外1证据与表演边界 |
+| [董书理至毒美汤实尝、败不等味差](dong-shuli-dangerous-soup-actually-tasted-not-winner.md) | 番外1证据与表演边界 |
+| [杜沅之求不得粥三十七年情、对象未名](du-yuanzhi-unattainable-porridge-unnamed-thirtyseven-year-love.md) | 番外1证据与表演边界 |
+| [杜真胜受酒真饮、敕封与新境未演](du-actually-wins-receives-drinks-laurel-wine-not-god-appointment.md) | 番外1证据与表演边界 |
+| [杜心诗放下非忘、阮杜情对象不强认孟](du-inner-moon-poem-release-not-forgetting-no-meng-romance-proof.md) | 番外1证据与表演边界 |
 | [作者尊重金皇人物完整性、废案不当另canon](author-postface-character-integrity-not-alternate-rage-ending.md) | 第八卷完本感言作者说明，非新剧情 |
 | [作者补猪佛祖古史、解释层不变当前角色嘴](author-postface-pig-buddha-history-clarifications-not-story-voices.md) | 第八卷完本感言作者说明，非新剧情 |
 | [作者认疏漏留人物空白、出版日程属历史](author-admits-continuity-gaps-leaves-fates-open-historical-schedules.md) | 第八卷完本感言作者说明，非新剧情 |
