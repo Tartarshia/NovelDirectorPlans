@@ -1,11 +1,14 @@
-# 角色阶段索引 · 截至第八卷49章目录条目
+# 角色阶段索引 · 截至第八卷50章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–49章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–50章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [作者尊重金皇人物完整性、废案不当另canon](author-postface-character-integrity-not-alternate-rage-ending.md) | 第八卷完本感言作者说明，非新剧情 |
+| [作者补猪佛祖古史、解释层不变当前角色嘴](author-postface-pig-buddha-history-clarifications-not-story-voices.md) | 第八卷完本感言作者说明，非新剧情 |
+| [作者认疏漏留人物空白、出版日程属历史](author-admits-continuity-gaps-leaves-fates-open-historical-schedules.md) | 第八卷完本感言作者说明，非新剧情 |
 | [L赌死争果最终败彻死、削弱道德反助三清](laomu-final-failure-true-death-weakened-daode-helped-primos.md) | 第八卷49章证据与表演边界 |
 | [三清实际共同完整超脱、原Yuan真见自报](three-primos-actual-full-fruit-yuanshi-first-genuine-meeting.md) | 第八卷49章证据与表演边界 |
 | [佛祖受限不完整不算超脱、约打落重来未源完成](buddha-restricted-incomplete-not-transcendent-demotion-agreement.md) | 第八卷49章证据与表演边界 |
@@ -3224,3 +3227,8 @@
 ## 第七卷卷末成长汇总
 
 [全卷八段成长与主要角色](v07-growth-summary.md)，以各阶段既有记录综合；184章完整结构索引与未解见[卷末复核](../reviews/volume-v07-review.md)。
+
+
+## 第八卷卷末成长汇总
+
+[八段成长与导演综合](v08-growth-summary.md)，49章正文与1感言；[卷末复核及索引](../reviews/volume-v08-review.md)保留旧阶段边界。番外与全书终审仍待。
