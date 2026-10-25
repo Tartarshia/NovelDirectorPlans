@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷38章目录条目
+# 角色阶段索引 · 截至第八卷39章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–38章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–39章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [西渊封真破民已迁、南海桥Ruyi离灾未全解](western-abyss-seal-breaks-civilians-evacuated-southsea-limit.md) | 第八卷39章证据与表演边界 |
+| [Yang清源妙道真君与M清源道君分、杨七杀真双守](yang-qisha-actually-guard-abyss-southsea-title-distinction.md) | 第八卷39章证据与表演边界 |
+| [末劫特殊筏地府终意才有望、非保证下一纪](final-epoch-ark-needs-underworld-ending-meaning-only-hope.md) | 第八卷39章证据与表演边界 |
+| [未完末日舟合玄悲土拟议、师允Gao许可未建](unfinished-ark-xuanbei-pureland-fusion-proposed-not-built.md) | 第八卷39章证据与表演边界 |
+| [Gao真允舟孟提复晏然交换、未复未交舟](gao-permits-ark-meng-offers-yanran-revival-not-done.md) | 第八卷39章证据与表演边界 |
+| [月光宝盒真拿出给Gao亲手机会、决定尚待](moonlight-box-shown-gao-own-rescue-choice-still-pending.md) | 第八卷39章证据与表演边界 |
 | [帝逼出剑斩旧史、七杀碑原帝暗记袭与剑抗](tiandi-forces-cut-qisha-past-tablet-old-owner-hidden-mark.md) | 第八卷38章证据与表演边界 |
 | [Mofo旧傀儡掌A实名再出、七杀自身无回史能](qisha-three-ancients-trap-amitabha-explicitly-confirmed.md) | 第八卷38章证据与表演边界 |
 | [孟当前岸意识旧宗师载体回应黑山旧问](meng-current-peer-in-old-grandmaster-body-answers-qisha-fate.md) | 第八卷38章证据与表演边界 |
