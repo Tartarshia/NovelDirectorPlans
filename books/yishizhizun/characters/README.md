@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷37章目录条目
+# 角色阶段索引 · 截至第八卷38章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–37章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–38章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [帝逼出剑斩旧史、七杀碑原帝暗记袭与剑抗](tiandi-forces-cut-qisha-past-tablet-old-owner-hidden-mark.md) | 第八卷38章证据与表演边界 |
+| [Mofo旧傀儡掌A实名再出、七杀自身无回史能](qisha-three-ancients-trap-amitabha-explicitly-confirmed.md) | 第八卷38章证据与表演边界 |
+| [孟当前岸意识旧宗师载体回应黑山旧问](meng-current-peer-in-old-grandmaster-body-answers-qisha-fate.md) | 第八卷38章证据与表演边界 |
+| [七杀真受玉虚客卿非傀儡、读德炼心约束](qisha-actually-accepts-yuxu-guest-not-puppet-read-daode.md) | 第八卷38章证据与表演边界 |
+| [孟袖真救七杀剑连过未、放出继续斩史读德](meng-sleeve-rescues-qisha-sword-past-future-returns-yuxu.md) | 第八卷38章证据与表演边界 |
+| [帝解停时兵属复权、Legend难苟活战场不复](tiandi-awakens-timefrozen-followers-restores-authority-limits.md) | 第八卷38章证据与表演边界 |
 | [孟实同化圣佛斩清源弱岸、第三苏孟尚未成](meng-actually-assimilates-holybody-qingyuan-weakpeer-form.md) | 第八卷37章证据与表演边界 |
 | [悟空数隐因真嫁清源、F气降古老缺线再建幽](wukong-hidden-karma-transferred-qingyuan-mofo-falls-short-ancient.md) | 第八卷37章证据与表演边界 |
 | [孟战力压失阵L而正式未雏、旧幽诸强实归宿](meng-combat-above-disarmed-laomu-formal-proto-not-reached.md) | 第八卷37章证据与表演边界 |

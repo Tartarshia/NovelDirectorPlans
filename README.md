@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第37章，1385 / 1410 个目录条目，约435.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第38章，1386 / 1410 个目录条目，约435.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第38章复核](books/yishizhizun/reviews/review-v08-0038.md)：旧黑山问新回应七杀实入客卿、全过未救与读德、帝解停时属众复权，56段64单元；[状态账](books/yishizhizun/reviews/ledger-v08-0038.md)。
 - [第八卷第37章复核](books/yishizhizun/reviews/review-v08-0037.md)：清源实成而正式未雏、F降重建幽、诸幽强归宿七杀逃掌又帝封，33段34单元；[状态账](books/yishizhizun/reviews/ledger-v08-0037.md)。
 - [第八卷第36章复核](books/yishizhizun/reviews/review-v08-0036.md)：炼幽实成新幽己部、玄冥原灵换他人、阵解分剑与圣佛躯入宫未炼，52段61单元；[状态账](books/yishizhizun/reviews/ledger-v08-0036.md)。
 - [第八卷第35章复核](books/yishizhizun/reviews/review-v08-0035.md)：三岸真入阵Mofo始炼幽、菩提堵孟准提围F、圣佛原元始躯取出未交，108段121单元；[状态账](books/yishizhizun/reviews/ledger-v08-0035.md)。
