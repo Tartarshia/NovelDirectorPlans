@@ -2,7 +2,7 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至番外第3篇，1401 / 1410 个目录条目，约439.9万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至番外第4篇，1402 / 1410 个目录条目，约440.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
@@ -10,6 +10,7 @@
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
 - [第八卷成长与导演综合](books/yishizhizun/characters/v08-growth-summary.md)、[卷末复核](books/yishizhizun/reviews/volume-v08-review.md)、[50条阶段索引](books/yishizhizun/reviews/volume-v08-stage-index.json)：正文49章+作者感言闭合，番外12条与早缺全书终审仍待。
+- [番外第4篇复核](books/yishizhizun/reviews/review-v09-0004.md)：陆大一家与少年陆之平、努力一心真实战限、初见叶玉颜笑未战后，75段114单元；[状态账](books/yishizhizun/reviews/ledger-v09-0004.md)。
 - [番外第3篇复核](books/yishizhizun/reviews/review-v09-0003.md)：现实玩家与游戏王区分、界面书字与系统一声、白衣客服候选及砸盘未解，54段91单元；[状态账](books/yishizhizun/reviews/ledger-v09-0003.md)。
 - [番外第2篇复核](books/yishizhizun/reviews/review-v09-0002.md)：青衫未名师童、嵌套邑城故事与机会平等潜锋条件，46段100单元；[状态账](books/yishizhizun/reviews/ledger-v09-0002.md)。
 - [番外第1篇复核](books/yishizhizun/reviews/review-v09-0001.md)：新纪阮月宫厨赛、杜求不得粥与月桂酒释怀、心诗内声及未名对象留白，38段45单元；[状态账](books/yishizhizun/reviews/ledger-v09-0001.md)。
