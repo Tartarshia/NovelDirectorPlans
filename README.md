@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第43章，1391 / 1410 个目录条目，约436.8万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第44章，1392 / 1410 个目录条目，约437.3万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第44章复核](books/yishizhizun/reviews/review-v08-0044.md)：顾凝果未岸、开根与两尊归来暂阻、三尸真反弟子被控、魔佛本昊天源明，108段112单元；[状态账](books/yishizhizun/reviews/ledger-v08-0044.md)。
 - [第八卷第43章复核](books/yishizhizun/reviews/review-v08-0043.md)：普通苏孟形早有第三弱岸未成、三十年时跳筏首炼仍缺物、顾合自身白莲迎冲岸契机未成功，49段59单元；[状态账](books/yishizhizun/reviews/ledger-v08-0043.md)。
 - [第八卷第42章复核](books/yishizhizun/reviews/review-v08-0042.md)：三清共同果仍推测、L自绝刀反事实与第三形围杀猜、两古岸开根孟到宫门未答，41段43单元；[状态账](books/yishizhizun/reviews/ledger-v08-0042.md)。
 - [第八卷第41章复核](books/yishizhizun/reviews/review-v08-0041.md)：原始印照即消孟承历史角色、碧游空认师、封神前Ling先见后消留声未解，56段65单元；[状态账](books/yishizhizun/reviews/ledger-v08-0041.md)。

@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷43章目录条目
+# 角色阶段索引 · 截至第八卷44章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–43章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–44章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [魔佛即昔昊天源明、雷池瞒活心魔沉沦](mofo-explicitly-former-haotian-survived-via-ancient-thunderpool.md) | 第八卷44章证据与表演边界 |
+| [何暮九璃血脉伏手被控真刺孟、非自愿叛](hemu-jiuli-bloodline-controlled-assault-not-voluntary-betrayal.md) | 第八卷44章证据与表演边界 |
+| [三尸真反困菩提、魔佛增执念内线](three-corpses-actually-rebel-mofo-increased-obsession.md) | 第八卷44章证据与表演边界 |
+| [道德真开时根遭阿弥陀阻、原尊欲归未返](daode-actual-precreation-root-opening-blocked-by-amida.md) | 第八卷44章证据与表演边界 |
+| [天帝枯建木附军死、妖皇图双器暂挡两尊](tiandi-withers-jianmu-yao-map-weapons-temporarily-block-primos.md) | 第八卷44章证据与表演边界 |
+| [青帝暗火萎扶桑真投魔佛、孟受刺未死](qingdi-darkfire-fusang-actually-joins-mofo-meng-not-killed.md) | 第八卷44章证据与表演边界 |
 | [道德转语时机会合未合、青诛仙图真到印净](daode-relayed-timing-unity-gifts-blue-zhuxian-map-imprints-cleared.md) | 第八卷43章证据与表演边界 |
 | [苏孟早有截天普通形、剑经调整仍非第三weakpeer](sumeng-existing-jietian-creation-form-not-third-weakpeer-yet.md) | 第八卷43章证据与表演边界 |
 | [四剑图全炼或吞天道怪物只是方案未成](full-four-swords-or-tiandao-monster-assimilation-only-options.md) | 第八卷43章证据与表演边界 |
