@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至番外第2条目录条目
+# 角色阶段索引 · 截至番外第3条目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–2条已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–3条已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [许云西玩家扮游戏王、非真实王换身](xu-yunxi-real-player-game-wangsiyuan-avatar-not-original-person.md) | 番外3证据与表演边界 |
+| [系统7一声其余规则背景书字不播报](vr-interface-written-background-rules-only-one-system-voice.md) | 番外3证据与表演边界 |
+| [游戏王侍女NPC仅推、诅咒与未知惨叫](game-wang-maid-npc-inference-curse-unknown-scream.md) | 番外3证据与表演边界 |
+| [白衣客服代号一线生机、王候选非实名](yixianshengji-white-customer-service-wang-candidate-not-named.md) | 番外3证据与表演边界 |
+| [砸盘示范又局内反问、未源真正破命成功](smashing-game-board-within-opponent-board-conditional-unresolved.md) | 番外3证据与表演边界 |
+| [大周天一阁现实内VR、非原正文全游戏](dazhou-tianyige-inworld-vr-game-not-mainstory-retcon.md) | 番外3证据与表演边界 |
 | [青衫讲述师父未名、齐正言候选不强确](qingshan-storytelling-teacher-unidentified-qi-candidate-not-named.md) | 番外2证据与表演边界 |
 | [小沙弥百问与通识梗、收留非强剃度](unnamed-child-novice-hundred-question-budget-not-forced-ordination.md) | 番外2证据与表演边界 |
 | [邑城取鬼影剑嵌套故事、当前师口非旧人新声](nested-qi-meng-yicheng-story-teacher-spoken-not-past-voices.md) | 番外2证据与表演边界 |
