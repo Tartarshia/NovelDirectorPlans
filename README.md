@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第48章，1396 / 1410 个目录条目，约438.5万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第49章，1397 / 1410 个目录条目，约438.9万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第49章复核](books/yishizhizun/reviews/review-v08-0049.md)：正文结局三清真完整果L终败佛祖受限、全活众登舟阴府扶桑融、刀开树撑下纪光，70段95单元；[状态账](books/yishizhizun/reviews/ledger-v08-0049.md)。感言番外与早缺全书终审仍待。
 - [第八卷第48章复核](books/yishizhizun/reviews/review-v08-0048.md)：魔佛真陨、孟第三弱岸与孟Gu正式古老、L毁幡空指被吸可见死及Gu疑超脱分层，66段68单元；[状态账](books/yishizhizun/reviews/ledger-v08-0048.md)。
 - [第八卷第47章复核](books/yishizhizun/reviews/review-v08-0047.md)：六魂幡半咒孟伤F本性存、舟入黑与凤兮果缺、顾第二象、佛祖金掌真刷未结局，63段68单元；[状态账](books/yishizhizun/reviews/ledger-v08-0047.md)。
 - [第八卷第46章复核](books/yishizhizun/reviews/review-v08-0046.md)：凤兮魔佛私史、终果补形条件菩提真刷枪、天帝自解顾首象、六魂幡全书字，44段51单元；[状态账](books/yishizhizun/reviews/ledger-v08-0046.md)。

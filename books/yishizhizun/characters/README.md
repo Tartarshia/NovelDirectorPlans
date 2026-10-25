@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷48章目录条目
+# 角色阶段索引 · 截至第八卷49章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–48章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–49章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [L赌死争果最终败彻死、削弱道德反助三清](laomu-final-failure-true-death-weakened-daode-helped-primos.md) | 第八卷49章证据与表演边界 |
+| [三清实际共同完整超脱、原Yuan真见自报](three-primos-actual-full-fruit-yuanshi-first-genuine-meeting.md) | 第八卷49章证据与表演边界 |
+| [佛祖受限不完整不算超脱、约打落重来未源完成](buddha-restricted-incomplete-not-transcendent-demotion-agreement.md) | 第八卷49章证据与表演边界 |
+| [全当前活众真入舟阴府扶桑融、舟伤累抗终](ark-all-current-living-boarded-underworld-fusang-actually-fused.md) | 第八卷49章证据与表演边界 |
+| [韩广舟内眼生机退复威严、控制者此处未名](han-majestic-eye-change-controller-unidentified-not-confirmed-tiandi.md) | 第八卷49章证据与表演边界 |
+| [孟拒真佛怪落无踪、刀开树撑下纪光与一线生机誓](meng-opens-next-epoch-daotree-supports-refuses-truebuddha-monster.md) | 第八卷49章证据与表演边界 |
 | [魔佛实际陨落、虚终果崩仅终意被孟同化](mofo-actually-dies-ending-fruit-disintegrates-meaning-assimilated.md) | 第八卷48章证据与表演边界 |
 | [孟第三弱岸实际成、本尊正式雏形到创世古老](meng-third-sumeng-weakpeer-formal-proto-ancient-actually-attained.md) | 第八卷48章证据与表演边界 |
 | [Gu正式登岸再吸L成雏形古老、同孟到创世](gu-formal-peer-then-proto-ancient-after-laomu-absorption.md) | 第八卷48章证据与表演边界 |
