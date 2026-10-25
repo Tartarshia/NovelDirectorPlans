@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷34章目录条目
+# 角色阶段索引 · 截至第八卷35章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–34章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–35章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [Daode三道人A三身Q帝真四门入、阵仍未破](daode-three-daoists-amitabha-three-bodies-qingdi-four-gates.md) | 第八卷35章证据与表演边界 |
+| [菩提堵孟帝牵妖皇、Mofo炼幽目的明未成](bodhi-blocks-meng-tiandi-blocks-yaohuang-mofo-purpose.md) | 第八卷35章证据与表演边界 |
+| [Mofo三临血肉身幽加伪岸、本尊降弱代价](mofo-three-temporary-flesh-bodies-pseudopeers-original-weaker.md) | 第八卷35章证据与表演边界 |
+| [真定准提真围F、观音月光尚未吞](zhending-zhunti-actually-attack-truebuddha-no-guanyin-death.md) | 第八卷35章证据与表演边界 |
+| [圣佛金身实出原元始佛躯、未交未炼](holy-buddha-body-original-yuanshi-shown-not-yet-transferred.md) | 第八卷35章证据与表演边界 |
+| [Mofo真入幽核开始炼、Qi卷众遁藏址未知](qi-withdraws-followers-mofo-refining-nineyou-started-not-done.md) | 第八卷35章证据与表演边界 |
 | [青丘真入九曲、妖枪化塔圣德水非另借实体塔](qingqiu-spear-merit-tower-holy-water-opens-yellowriver-mist.md) | 第八卷34章证据与表演边界 |
 | [老母本人亲镇三霄完整诛仙阵、非单丢剑图](laomu-personally-anchors-complete-zhuxian-array-sanxiao.md) | 第八卷34章证据与表演边界 |
 | [末日增诛仙需四岸合破、不阵总力等四岸](apocalypse-strengthens-zhuxian-four-peers-not-fourfold-power.md) | 第八卷34章证据与表演边界 |
