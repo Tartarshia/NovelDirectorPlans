@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷31章目录条目
+# 角色阶段索引 · 截至第八卷32章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–31章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–32章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟真定与无极硬抗帝、妖皇魔怪僵持非永久排名](meng-tiandi-current-parity-zhending-and-yaohuang-stalemate.md) | 第八卷32章证据与表演边界 |
+| [不死借绝刀暂占同源古观音、孽障非孟假扮](undying-blade-spirit-temporarily-occupies-past-guanyin.md) | 第八卷32章证据与表演边界 |
+| [欢喜旧史真烧尽道统消、他统部分收束顶替](huanxi-past-killed-lineage-erased-other-paths-converge.md) | 第八卷32章证据与表演边界 |
+| [帝付反噬伪过去救欢喜、当前活而未来境锁](tiandi-fabricates-huanxi-past-revival-cost-no-more-progress.md) | 第八卷32章证据与表演边界 |
+| [孟改旧访以道一交刀、收刀不死归轨点醒过去](meng-revisits-old-prints-lends-blade-returns-undying.md) | 第八卷32章证据与表演边界 |
+| [孟看旧假方丈韩、当前洪荒韩惊与真空清辉解](han-current-wilderness-fragment-startled-laomu-glow-relieves.md) | 第八卷32章证据与表演边界 |
 | [牛真被刺死原史、Yao前一日避杀当前活](niu-actually-killed-yaohuang-earlier-day-prevents-current-alive.md) | 第八卷31章证据与表演边界 |
 | [哪知无义仍报师恩、孟不罚而妖方不平](nezha-teacher-love-meng-no-punishment-yao-resentment.md) | 第八卷31章证据与表演边界 |
 | [妖皇识帝阳谋交孟处、牛死忆恐恨未消](yaohuang-recognizes-tiandi-open-trap-defers-to-meng.md) | 第八卷31章证据与表演边界 |
