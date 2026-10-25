@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷42章目录条目
+# 角色阶段索引 · 截至第八卷43章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–42章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–43章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [道德转语时机会合未合、青诛仙图真到印净](daode-relayed-timing-unity-gifts-blue-zhuxian-map-imprints-cleared.md) | 第八卷43章证据与表演边界 |
+| [苏孟早有截天普通形、剑经调整仍非第三weakpeer](sumeng-existing-jietian-creation-form-not-third-weakpeer-yet.md) | 第八卷43章证据与表演边界 |
+| [四剑图全炼或吞天道怪物只是方案未成](full-four-swords-or-tiandao-monster-assimilation-only-options.md) | 第八卷43章证据与表演边界 |
+| [三十余年真过双守灾增、F未知目交爆幽](over-thirty-years-real-skip-mofo-unknown-gaze-nineyou-eruption.md) | 第八卷43章证据与表演边界 |
+| [地藏土舟首炼真合仍未圆满、容量非全登舟](ark-first-refining-pureland-fused-still-incomplete-capacity-not-boarded.md) | 第八卷43章证据与表演边界 |
+| [Gu真合自身白莲迎冲岸契机、未已彼岸](gu-merges-own-whitelotus-avatar-peer-opportunity-not-attained.md) | 第八卷43章证据与表演边界 |
 | [孟由先后显消推非直接Ling产品、排单纯融合](meng-not-direct-lingbao-product-not-simple-primo-fusion-inference.md) | 第八卷42章证据与表演边界 |
 | [道化三面须共同果为孟推测、未联合超脱实成](three-primo-as-dao-three-faces-joint-transcendence-hypothesis.md) | 第八卷42章证据与表演边界 |
 | [L期待自绝刀与若未刀快成反事实、不M当前古老](laomu-selfcut-knife-counterfactual-fast-proto-threeforms.md) | 第八卷42章证据与表演边界 |
