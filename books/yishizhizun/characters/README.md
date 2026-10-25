@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷36章目录条目
+# 角色阶段索引 · 截至第八卷37章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–36章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–37章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟实同化圣佛斩清源弱岸、第三苏孟尚未成](meng-actually-assimilates-holybody-qingyuan-weakpeer-form.md) | 第八卷37章证据与表演边界 |
+| [悟空数隐因真嫁清源、F气降古老缺线再建幽](wukong-hidden-karma-transferred-qingyuan-mofo-falls-short-ancient.md) | 第八卷37章证据与表演边界 |
+| [孟战力压失阵L而正式未雏、旧幽诸强实归宿](meng-combat-above-disarmed-laomu-formal-proto-not-reached.md) | 第八卷37章证据与表演边界 |
+| [净土丈六佛实拦七杀劝降、A身份强推留据](qisha-intercepted-zhangliu-pureland-buddha-amida-inference.md) | 第八卷37章证据与表演边界 |
+| [七杀斩花真出掌欲混沌、凝河再封未脱险](qisha-sword-cuts-flower-escapes-palm-time-river-freezes.md) | 第八卷37章证据与表演边界 |
+| [天帝实宝座截七杀、问无路尚未降杀](tiandi-throne-questions-trapped-qisha-not-dead-or-submitted.md) | 第八卷37章证据与表演边界 |
 | [孟据线索重构悟空拒转世、未亲踏旧战](meng-reconstructs-lingshan-wukong-refuses-rebirth-not-full-witness.md) | 第八卷36章证据与表演边界 |
 | [玄冥原灵被seed汲换、菩提新尸综合后证](xuanming-bodhi-seed-original-light-replaced-new-corpse-inference.md) | 第八卷36章证据与表演边界 |
 | [三临血身真回收、诸强撤离旧幽被吞](mofo-reabsorbs-three-fleshforms-strong-ones-escape-old-nineyou.md) | 第八卷36章证据与表演边界 |
