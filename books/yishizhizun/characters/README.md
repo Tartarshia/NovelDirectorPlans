@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至番外第1条目录条目
+# 角色阶段索引 · 截至番外第2条目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1条已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–2条已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [青衫讲述师父未名、齐正言候选不强确](qingshan-storytelling-teacher-unidentified-qi-candidate-not-named.md) | 番外2证据与表演边界 |
+| [小沙弥百问与通识梗、收留非强剃度](unnamed-child-novice-hundred-question-budget-not-forced-ordination.md) | 番外2证据与表演边界 |
+| [邑城取鬼影剑嵌套故事、当前师口非旧人新声](nested-qi-meng-yicheng-story-teacher-spoken-not-past-voices.md) | 番外2证据与表演边界 |
+| [机会平等非绝对同等、潜锋再革仅条件](equal-opportunity-not-absolute-equality-sheathed-sword-conditional.md) | 番外2证据与表演边界 |
 | [新纪R阮月宫厨赛、传说称非新彼岸](ruan-new-epoch-moonpalace-cooking-judge-legend-claim.md) | 番外1证据与表演边界 |
 | [钱允观赛投影、钱玄异写保疑不另强造人](qian-yun-livestream-viewer-qianxuan-source-name-variation.md) | 番外1证据与表演边界 |
 | [董书理至毒美汤实尝、败不等味差](dong-shuli-dangerous-soup-actually-tasted-not-winner.md) | 番外1证据与表演边界 |

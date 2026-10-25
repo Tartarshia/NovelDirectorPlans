@@ -2,7 +2,7 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至番外第1篇，1399 / 1410 个目录条目，约439.4万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至番外第2篇，1400 / 1410 个目录条目，约439.6万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
@@ -10,6 +10,7 @@
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
 - [第八卷成长与导演综合](books/yishizhizun/characters/v08-growth-summary.md)、[卷末复核](books/yishizhizun/reviews/volume-v08-review.md)、[50条阶段索引](books/yishizhizun/reviews/volume-v08-stage-index.json)：正文49章+作者感言闭合，番外12条与早缺全书终审仍待。
+- [番外第2篇复核](books/yishizhizun/reviews/review-v09-0002.md)：青衫未名师童、嵌套邑城故事与机会平等潜锋条件，46段100单元；[状态账](books/yishizhizun/reviews/ledger-v09-0002.md)。
 - [番外第1篇复核](books/yishizhizun/reviews/review-v09-0001.md)：新纪阮月宫厨赛、杜求不得粥与月桂酒释怀、心诗内声及未名对象留白，38段45单元；[状态账](books/yishizhizun/reviews/ledger-v09-0001.md)。
 - [第八卷第50条作者感言复核](books/yishizhizun/reviews/review-v08-0050.md)：结尾人物取舍、猪与佛祖补释、古史顺序与作者承认疏漏，30段35单元全部书面作者归属；[状态账](books/yishizhizun/reviews/ledger-v08-0050.md)。番外12条与早缺全书终审待。
 - [第八卷第49章复核](books/yishizhizun/reviews/review-v08-0049.md)：正文结局三清真完整果L终败佛祖受限、全活众登舟阴府扶桑融、刀开树撑下纪光，70段95单元；[状态账](books/yishizhizun/reviews/ledger-v08-0049.md)。感言番外与早缺全书终审仍待。
