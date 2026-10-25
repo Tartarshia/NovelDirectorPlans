@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷44章目录条目
+# 角色阶段索引 · 截至第八卷45章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–44章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–45章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟早知昊天示弱诱吞、截血四手真困魔佛](meng-knew-haotian-feigned-weakness-caught-blood-traps-swallowing.md) | 第八卷45章证据与表演边界 |
+| [菩提本欲三尸独立承因果、自述减空路未完整果](bodhi-intended-three-corpses-independence-reduction-selfaccount.md) | 第八卷45章证据与表演边界 |
+| [七杀退无可退实援仅落叶、众宝也暂未破树](qisha-refuses-last-retreat-strikes-fusang-one-leaf-not-dead.md) | 第八卷45章证据与表演边界 |
+| [昊天埋三时雷池自述、青帝东皇故误导](mofo-haotian-buried-three-times-false-qingdi-donghuang-trails.md) | 第八卷45章证据与表演边界 |
+| [妖圣凤兮承妖皇印与三时、减空产物亲述](fengxi-yaosheng-current-yaohuang-reduction-product-selfaccount.md) | 第八卷45章证据与表演边界 |
+| [凤枪真刺魔佛图皇剑撤回、仍未终杀](phoenix-spear-actually-pierces-mofo-map-sword-withdrawn.md) | 第八卷45章证据与表演边界 |
 | [魔佛即昔昊天源明、雷池瞒活心魔沉沦](mofo-explicitly-former-haotian-survived-via-ancient-thunderpool.md) | 第八卷44章证据与表演边界 |
 | [何暮九璃血脉伏手被控真刺孟、非自愿叛](hemu-jiuli-bloodline-controlled-assault-not-voluntary-betrayal.md) | 第八卷44章证据与表演边界 |
 | [三尸真反困菩提、魔佛增执念内线](three-corpses-actually-rebel-mofo-increased-obsession.md) | 第八卷44章证据与表演边界 |
