@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至番外第7条目录条目
+# 角色阶段索引 · 截至番外第8条目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–7条已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–8条已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [杨童年洪水孤儿失部落、天帝疑阵非转世本体](yang-childhood-orphan-flood-death-search-tiandi-decoy.md) | 番外8证据与表演边界 |
+| [杨与真慧依靠差别、如果反事实虚果未成](yang-zhenhui-support-counterfactual-fruit-not-yet-formed.md) | 番外8证据与表演边界 |
+| [穆未传说修订元皇传、痴气求真与听如果](mu-yunle-biography-revision-prelegend-questions-and-listening.md) | 番外8证据与表演边界 |
+| [小黑犬候选哮天未明、童杨模狗吠非犬口](littleblack-dog-youngyang-imitation-not-confirmed-xiaotian.md) | 番外8证据与表演边界 |
 | [江造化访谈机会平等、纯剑真传筛选适变](jiang-creation-interview-opportunity-pure-sword-school-adaptation.md) | 番外7证据与表演边界 |
 | [江道心自足护道友、不恋情表白问未答](jiang-selfsufficient-dao-friends-not-romance-confession.md) | 番外7证据与表演边界 |
 | [主持姜瑜东家九娘、情愫问前后版本](host-jiangyu-qujiuniang-owner-and-past-question-two-versions.md) | 番外7证据与表演边界 |
