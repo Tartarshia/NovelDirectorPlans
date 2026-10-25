@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至番外第5条目录条目
+# 角色阶段索引 · 截至番外第6条目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–5条已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–6条已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [灵儿自称孟顾女、交新友非须绝情](linger-named-daughter-meng-gu-new-friends-no-emotion-fear.md) | 番外6证据与表演边界 |
+| [顾旧年被夺朋友与母金皇、今女交友自由](gu-childhood-denied-friends-mother-identity-and-daughter-freedom.md) | 番外6证据与表演边界 |
+| [未名稚女声花懒盆床、犬灌溉仍计划](young-flower-lazy-jadepot-irrigation-proposal-not-done.md) | 番外6证据与表演边界 |
+| [未名猫黑毛三花白布偶近指、变化因不明](young-cat-black-calico-white-appearance-identity-unresolved.md) | 番外6证据与表演边界 |
 | [大青根枝繁殖购物反噬、同记忆同欲望](daqinggen-selfpropagation-shopping-cost-memory-double.md) | 番外5证据与表演边界 |
 | [孟未名幼女亲缘问、宝光果不强证超脱](meng-unnamed-daughter-parent-questions-halo-fruit-not-transcendence.md) | 番外5证据与表演边界 |
 | [原根新根斗后两喊匿名、哮天犬闻不辨](daqinggen-two-fighters-identity-unresolved-dog-cannot-tell.md) | 番外5证据与表演边界 |
