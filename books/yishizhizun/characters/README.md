@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷40章目录条目
+# 角色阶段索引 · 截至第八卷41章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–40章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–41章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [原始旧印照即消Ruyi真留、孟承坠前至今角色](yuanshi-imprint-disappears-ruyi-real-meng-takes-historic-role.md) | 第八卷41章证据与表演边界 |
+| [最古宇宙他我柱支减空、近果非已完整果](oldest-universe-projections-support-reduction-not-complete-daofruit.md) | 第八卷41章证据与表演边界 |
+| [战后碧游空却童三霄认孟老师、L产品只是疑](empty-postfengshen-lingbao-hall-attendant-sanxiao-call-meng-master.md) | 第八卷41章证据与表演边界 |
+| [封神战前Ling真旧影对视未消、保先见阶段](prefengshen-lingbao-imprint-visible-before-yuanshi-replacement.md) | 第八卷41章证据与表演边界 |
+| [更旧元始印再消孟承封神角色、非原祖从不存在](meng-assumes-prefengshen-yuanshi-role-not-original-person-identity.md) | 第八卷41章证据与表演边界 |
+| [回看Ling影光消讲道声留、因果异常尚未解](lingbao-shape-light-disappear-after-yuanshi-substitution-voice-remains.md) | 第八卷41章证据与表演边界 |
 | [月盒联络M力量Gao真回旧日、日期非施咒](moonbox-actual-meng-communicator-gao-travels-date-not-spell.md) | 第八卷40章证据与表演边界 |
 | [晏然真截救假尸留旧Gao、非旧死原来全假](yanran-actually-rescued-before-fatalblow-fakecorpse-old-gao.md) | 第八卷40章证据与表演边界 |
 | [晏然历史玉虚灯前百载、当前真重逢](yanran-waits-historic-yuxu-centuries-current-reunion.md) | 第八卷40章证据与表演边界 |
