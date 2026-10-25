@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第35章，1383 / 1410 个目录条目，约434.8万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第36章，1384 / 1410 个目录条目，约435.1万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第36章复核](books/yishizhizun/reviews/review-v08-0036.md)：炼幽实成新幽己部、玄冥原灵换他人、阵解分剑与圣佛躯入宫未炼，52段61单元；[状态账](books/yishizhizun/reviews/ledger-v08-0036.md)。
 - [第八卷第35章复核](books/yishizhizun/reviews/review-v08-0035.md)：三岸真入阵Mofo始炼幽、菩提堵孟准提围F、圣佛原元始躯取出未交，108段121单元；[状态账](books/yishizhizun/reviews/ledger-v08-0035.md)。
 - [第八卷第34章复核](books/yishizhizun/reviews/review-v08-0034.md)：青丘枪化塔水遇L亲镇完整诛仙、能入非能破阳谋、两古岸将降，42段49单元；[状态账](books/yishizhizun/reviews/ledger-v08-0034.md)。
 - [第八卷第33章复核](books/yishizhizun/reviews/review-v08-0033.md)：孙武肉拳破火山、九曲早起青丘援周、Mofo私猜妖皇，旧孙武道误切更正，48段65单元；[状态账](books/yishizhizun/reviews/ledger-v08-0033.md)。
