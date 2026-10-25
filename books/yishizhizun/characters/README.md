@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷39章目录条目
+# 角色阶段索引 · 截至第八卷40章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–39章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–40章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [月盒联络M力量Gao真回旧日、日期非施咒](moonbox-actual-meng-communicator-gao-travels-date-not-spell.md) | 第八卷40章证据与表演边界 |
+| [晏然真截救假尸留旧Gao、非旧死原来全假](yanran-actually-rescued-before-fatalblow-fakecorpse-old-gao.md) | 第八卷40章证据与表演边界 |
+| [晏然历史玉虚灯前百载、当前真重逢](yanran-waits-historic-yuxu-centuries-current-reunion.md) | 第八卷40章证据与表演边界 |
+| [末日舟实入师土须弥、待契机尚未炼](doomsday-ark-actually-arrives-xuanbei-pureland-not-refined.md) | 第八卷40章证据与表演边界 |
+| [陆妻过世刹真接走丹延寿、假躯保陆修行今会](luda-wife-actually-rescued-medicine-substitute-preserves-path.md) | 第八卷40章证据与表演边界 |
+| [孟探原始印合时根尚拟、霸王转世待未定下纪](meng-plans-original-yuanshi-imprint-root-bawang-next-epoch.md) | 第八卷40章证据与表演边界 |
 | [西渊封真破民已迁、南海桥Ruyi离灾未全解](western-abyss-seal-breaks-civilians-evacuated-southsea-limit.md) | 第八卷39章证据与表演边界 |
 | [Yang清源妙道真君与M清源道君分、杨七杀真双守](yang-qisha-actually-guard-abyss-southsea-title-distinction.md) | 第八卷39章证据与表演边界 |
 | [末劫特殊筏地府终意才有望、非保证下一纪](final-epoch-ark-needs-underworld-ending-meaning-only-hope.md) | 第八卷39章证据与表演边界 |
