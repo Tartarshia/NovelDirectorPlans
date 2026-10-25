@@ -2,13 +2,14 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：精读至第八卷第46章，1394 / 1410 个目录条目，约437.9万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：精读至第八卷第47章，1395 / 1410 个目录条目，约438.2万字。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
+- [第八卷第47章复核](books/yishizhizun/reviews/review-v08-0047.md)：六魂幡半咒孟伤F本性存、舟入黑与凤兮果缺、顾第二象、佛祖金掌真刷未结局，63段68单元；[状态账](books/yishizhizun/reviews/ledger-v08-0047.md)。
 - [第八卷第46章复核](books/yishizhizun/reviews/review-v08-0046.md)：凤兮魔佛私史、终果补形条件菩提真刷枪、天帝自解顾首象、六魂幡全书字，44段51单元；[状态账](books/yishizhizun/reviews/ledger-v08-0046.md)。
 - [第八卷第45章复核](books/yishizhizun/reviews/review-v08-0045.md)：孟早知昊天示弱诱吞、菩提三尸独立减空自述、七杀实援未死、凤兮承妖皇产物枪刺魔佛，77段84单元；[状态账](books/yishizhizun/reviews/ledger-v08-0045.md)。
 - [第八卷第44章复核](books/yishizhizun/reviews/review-v08-0044.md)：顾凝果未岸、开根与两尊归来暂阻、三尸真反弟子被控、魔佛本昊天源明，108段112单元；[状态账](books/yishizhizun/reviews/ledger-v08-0044.md)。

@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷46章目录条目
+# 角色阶段索引 · 截至第八卷47章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–46章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–47章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [六魂幡真发动、孟半转咒莲种毁仍重伤](sixsouls-curse-actually-cast-meng-half-transfer-seed-destroyed.md) | 第八卷47章证据与表演边界 |
+| [F魔身真灵散本性微存、扶桑重损非全灭](mofo-body-spirit-collapse-naturelight-survives-fusang-drained.md) | 第八卷47章证据与表演边界 |
+| [舟真实入末黑助寻本性、民众赴舟意融未完](ark-actually-enters-mofo-darkvoid-meng-searching-not-finished.md) | 第八卷47章证据与表演边界 |
+| [凤兮古老气非正式雏形、原Yao不能亲动真假冲突](fengxi-fruit-deficient-next-epoch-condition-original-yao-cannot-act.md) | 第八卷47章证据与表演边界 |
+| [Gu第二照彻十方、非六象全成](gu-second-lightten-directions-omen-not-allomens-completed.md) | 第八卷47章证据与表演边界 |
+| [佛祖金掌真握自行离韩菩提树刷幡、无新逐字佛话](buddha-actual-palm-bodhi-tree-leaves-han-brushes-sixsouls-banner.md) | 第八卷47章证据与表演边界 |
 | [凤兮旧爱秘誓与弃族痛、私述不全独验](fengxi-private-love-secret-oath-revenge-history-not-all-independent-proof.md) | 第八卷46章证据与表演边界 |
 | [魔佛临死样旧史闪回、真挣扎仍未死](mofo-dying-memory-history-plots-and-remorse-not-current-reenactment.md) | 第八卷46章证据与表演边界 |
 | [终果补第三弱岸正式雏形仅条件、菩提真刷枪](ending-fruit-to-meng-third-weakform-proto-conditional-bodhi-inference.md) | 第八卷46章证据与表演边界 |
