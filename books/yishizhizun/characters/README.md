@@ -1,11 +1,17 @@
-# 角色阶段索引 · 截至第八卷32章目录条目
+# 角色阶段索引 · 截至第八卷33章目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–32章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷1–33章目录条目已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [谭夏已周先锋炎陵未克、练阵试岸非Gao已出](tan-xia-zhou-vanguard-yanling-array-training-failed-firstattack.md) | 第八卷33章证据与表演边界 |
+| [严金刚新实名问皇剑与评星火、不回并未名友](yan-jingang-named-companion-questions-sword-praises-bajiu.md) | 第八卷33章证据与表演边界 |
+| [炎陵实通幽、冰魄水只拟孙已肉拳崩山](yanling-volcano-nether-opening-tan-icewater-not-used.md) | 第八卷33章证据与表演边界 |
+| [孙武八九巨人拳崩山令封、旧孙武道误切更正](sun-wu-bajiu-giant-punch-seal-command-not-wukong.md) | 第八卷33章证据与表演边界 |
+| [九曲提前实起、孙内疑担保未证明](sanxiao-early-yellowriver-array-sun-uncertain-guarantee.md) | 第八卷33章证据与表演边界 |
+| [青丘奉令真援周、Mofo私猜妖皇动机](qingqiu-actual-yaohuang-order-aids-zhou-mofo-private-questions.md) | 第八卷33章证据与表演边界 |
 | [孟真定与无极硬抗帝、妖皇魔怪僵持非永久排名](meng-tiandi-current-parity-zhending-and-yaohuang-stalemate.md) | 第八卷32章证据与表演边界 |
 | [不死借绝刀暂占同源古观音、孽障非孟假扮](undying-blade-spirit-temporarily-occupies-past-guanyin.md) | 第八卷32章证据与表演边界 |
 | [欢喜旧史真烧尽道统消、他统部分收束顶替](huanxi-past-killed-lineage-erased-other-paths-converge.md) | 第八卷32章证据与表演边界 |
