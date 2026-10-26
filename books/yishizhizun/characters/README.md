@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第八章新同伴：戚夏、言无疆和齐正言](early-plaza-qixia-yanwujiang-qizhengyan-introductions.md) | 第8章历史归属回补 |
+| [第八章六道冷声与神功榜：宣告、文字和读者分层](early-sixpaths-unseenvoice-writtenmanual-not-purchase.md) | 第8章历史归属回补 |
+| [第八章怀疑与欲望：清景、江张和孟奇不同的反应](early-plaza-skepticism-sworddream-meng-genreknowledge.md) | 第8章历史归属回补 |
 | [第七章江芷微初见：带鞘救人、自信与平等](early-jiang-firstmeeting-sheathedrescue-equal-confidence.md) | 第7章历史归属回补 |
 | [第七章张远山与清景：调停及未出场的比武](early-zhang-qingjing-firstmeeting-spar-report-boundaries.md) | 第7章历史归属回补 |
 | [第七章杂役出路：室友的悲愤与无解亮光](early-roommate-exitdespair-unknown-chestglow.md) | 第7章历史归属回补 |

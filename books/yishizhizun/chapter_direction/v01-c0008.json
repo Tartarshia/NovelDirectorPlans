@@ -41,6 +41,2591 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
-  "full_book_review": "pending"
+  "line_level_attribution": "reviewed_with_open_questions",
+  "full_book_review": "pending",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0008",
+    "full_book_consistency": "pending"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0008:p0001",
+        "length": 50,
+        "sha256": "03ff87d134955c878e3a3886f893b722679394e1e79105913372c8608d21a648",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0001:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N M_NIGHTMARE_IDENTITY_EXPOSED_ABBOT_KILLS_IS_DREAM_NOT_ACTUAL_KONGWEN_ACTION_OR_MDEATH。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N M_NIGHTMARE_IDENTITY_EXPOSED_ABBOT_KILLS_IS_DREAM_NOT_ACTUAL_KONGWEN_ACTION_OR_MDEATH。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N M_NIGHTMARE_IDENTITY_EXPOSED_ABBOT_KILLS_IS_DREAM_NOT_ACTUAL_KONGWEN_ACTION_OR_MDEATH。"
+      },
+      {
+        "reference": "v01-c0008:p0002",
+        "length": 33,
+        "sha256": "62abb8dcc9a2a1d8f908e74683eff0109f16a6db5e451a17c52800309148ecda",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0002:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MNEVER_MET_ABBOT_CONFIRMS_DREAM_NOT_REAL_FLASHBACK。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N MNEVER_MET_ABBOT_CONFIRMS_DREAM_NOT_REAL_FLASHBACK。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MNEVER_MET_ABBOT_CONFIRMS_DREAM_NOT_REAL_FLASHBACK。"
+      },
+      {
+        "reference": "v01-c0008:p0003",
+        "length": 31,
+        "sha256": "dd742ef5dc4127a1156dbb765756fe1202b7d9123312d20ac303f8bb827fede3",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0003:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "initial_clear_female_voice_unidentified_v01",
+            "surface_identity": "unattributed_clear_female_voice_3_not_newconfirmed_person",
+            "text_context": "U ACTUAL_UNATTRIBUTED_CLEAR_FEMALE_VOICE_JIANG_CONTEXT_CANDIDATE_NOT_EXPLICIT_NAMED_NOT_FORCED_CANON_ID。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_unidentified_female_voice_not_forced_J_assignment",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "U ACTUAL_UNATTRIBUTED_CLEAR_FEMALE_VOICE_JIANG_CONTEXT_CANDIDATE_NOT_EXPLICIT_NAMED_NOT_FORCED_CANON_ID。",
+            "candidate_speakers": "jiang_zhiwei_context_candidate_NOT_EXPLICITLY_NAMED",
+            "embodiment": "unidentified_female_voice_no_separate_body_proven",
+            "delivery": "clear_female_voice_guarded_wherearewe",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0003:u002",
+            "start": 8,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "U ACTUAL_UNATTRIBUTED_CLEAR_FEMALE_VOICE_JIANG_CONTEXT_CANDIDATE_NOT_EXPLICIT_NAMED_NOT_FORCED_CANON_ID。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "U ACTUAL_UNATTRIBUTED_CLEAR_FEMALE_VOICE_JIANG_CONTEXT_CANDIDATE_NOT_EXPLICIT_NAMED_NOT_FORCED_CANON_ID。",
+            "focalizer": "initial_clear_female_voice_unidentified_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "U ACTUAL_UNATTRIBUTED_CLEAR_FEMALE_VOICE_JIANG_CONTEXT_CANDIDATE_NOT_EXPLICIT_NAMED_NOT_FORCED_CANON_ID。"
+      },
+      {
+        "reference": "v01-c0008:p0004",
+        "length": 41,
+        "sha256": "d8af8257eaff4eee1a20641bfaeee280bcda138281f92a8dd3fe504558271f02",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0004:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_modernadultmind_youngnovice_no_revealed89orYang_connection",
+            "text_context": "M prefix_PRIVATE_WHY_WOMAN_then_NSEES_NOT_ROOM。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "editorial_M_private_thought_or_89innervoice",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "M prefix_PRIVATE_WHY_WOMAN_then_NSEES_NOT_ROOM。",
+            "embodiment": "early_firststep_complete_youngchoremonk_NO_NEXTSTAGE_METHOD",
+            "delivery": "nightmarefear_confusion_then_genre_shock_private_89recognition",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0004:u002",
+            "start": 2,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_modernadultmind_youngnovice_no_revealed89orYang_connection",
+            "text_context": "M prefix_PRIVATE_WHY_WOMAN_then_NSEES_NOT_ROOM。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "editorial_M_private_thought_or_89innervoice",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "M prefix_PRIVATE_WHY_WOMAN_then_NSEES_NOT_ROOM。",
+            "embodiment": "early_firststep_complete_youngchoremonk_NO_NEXTSTAGE_METHOD",
+            "delivery": "nightmarefear_confusion_then_genre_shock_private_89recognition",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0004:u003",
+            "start": 12,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M prefix_PRIVATE_WHY_WOMAN_then_NSEES_NOT_ROOM。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "M prefix_PRIVATE_WHY_WOMAN_then_NSEES_NOT_ROOM。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M prefix_PRIVATE_WHY_WOMAN_then_NSEES_NOT_ROOM。"
+      },
+      {
+        "reference": "v01-c0008:p0005",
+        "length": 97,
+        "sha256": "bc8991e376a74059aac0a6009f9194f6797fd3cb7ed748edf39f4e78c5b3a524",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0005:u001",
+            "start": 0,
+            "end": 97,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ACTUAL_WHITE_STONE_PLAZA_BEAST_STATUES_NOT_LIVE_MYTH_BEAST_ACTORS，JZQpresent。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N ACTUAL_WHITE_STONE_PLAZA_BEAST_STATUES_NOT_LIVE_MYTH_BEAST_ACTORS，JZQpresent。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ACTUAL_WHITE_STONE_PLAZA_BEAST_STATUES_NOT_LIVE_MYTH_BEAST_ACTORS，JZQpresent。"
+      },
+      {
+        "reference": "v01-c0008:p0006",
+        "length": 79,
+        "sha256": "670684b82cf3e6440a9e0fcae2837db182bb125db8cabdae602acde89e271d9f",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0006:u001",
+            "start": 0,
+            "end": 79,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Muncertain_DREAM_HYPOTHESIS_NOT_NCONFIRMS_CONTINUED_DREAM。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Muncertain_DREAM_HYPOTHESIS_NOT_NCONFIRMS_CONTINUED_DREAM。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Muncertain_DREAM_HYPOTHESIS_NOT_NCONFIRMS_CONTINUED_DREAM。"
+      },
+      {
+        "reference": "v01-c0008:p0007",
+        "length": 53,
+        "sha256": "d885035c0355345b7b9b73a6895b286c9bb4158ec84e93415ae082e844d923a9",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0007:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Q actual_SHAOLIN_ACCUSATION_NOT_SOURCE_PROVES_SHAOLIN_PLOT。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_SHAOLIN_ACCUSATION_NOT_SOURCE_PROVES_SHAOLIN_PLOT。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0007:u002",
+            "start": 33,
+            "end": 43,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_SHAOLIN_ACCUSATION_NOT_SOURCE_PROVES_SHAOLIN_PLOT。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_SHAOLIN_ACCUSATION_NOT_SOURCE_PROVES_SHAOLIN_PLOT。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0007:u003",
+            "start": 43,
+            "end": 53,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_SHAOLIN_ACCUSATION_NOT_SOURCE_PROVES_SHAOLIN_PLOT。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_SHAOLIN_ACCUSATION_NOT_SOURCE_PROVES_SHAOLIN_PLOT。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Q actual_SHAOLIN_ACCUSATION_NOT_SOURCE_PROVES_SHAOLIN_PLOT。"
+      },
+      {
+        "reference": "v01-c0008:p0008",
+        "length": 22,
+        "sha256": "e6d0c69deb989a973cb9bcb30548c8ab1f4dae636cd4f8d69db2f2b5a0f8cbf2",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0008:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MGENUINE_CONFUSION_NOT_SECRET_MASTER_PLAYING。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N MGENUINE_CONFUSION_NOT_SECRET_MASTER_PLAYING。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MGENUINE_CONFUSION_NOT_SECRET_MASTER_PLAYING。"
+      },
+      {
+        "reference": "v01-c0008:p0009",
+        "length": 42,
+        "sha256": "986b394348e16bf4a84572e0350ac78d6f7660dcd463edec0ed4b4b9cfb87bfa",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0009:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_youngdisciple",
+            "text_context": "Z actual_PATIENT_CHECK_BEHIND_STATUES_not_claims_knows_everything。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Zhang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z actual_PATIENT_CHECK_BEHIND_STATUES_not_claims_knows_everything。",
+            "embodiment": "early_approx17or18_mature_youngdisciple",
+            "delivery": "steady_group_inquiry_then_serious_surprise_at_sampling_and_fullsecret_methods",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0009:u002",
+            "start": 30,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z actual_PATIENT_CHECK_BEHIND_STATUES_not_claims_knows_everything。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z actual_PATIENT_CHECK_BEHIND_STATUES_not_claims_knows_everything。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z actual_PATIENT_CHECK_BEHIND_STATUES_not_claims_knows_everything。"
+      },
+      {
+        "reference": "v01-c0008:p0010",
+        "length": 66,
+        "sha256": "91a261d50a1680c7bd45de174aacc2aed3d1dcc3d1a2b9b620ddd57054747919",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0010:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "J actual_DEFENDS_MLACKKNOWLEDGE_and_DOUBTS_TARGETVALUE_NOT_ALL_SHAOLIN_EXONERATED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_DEFENDS_MLACKKNOWLEDGE_and_DOUBTS_TARGETVALUE_NOT_ALL_SHAOLIN_EXONERATED。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0010:u002",
+            "start": 9,
+            "end": 43,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_Xijian_younggirl_not_future_peer_or_death",
+            "text_context": "J actual_DEFENDS_MLACKKNOWLEDGE_and_DOUBTS_TARGETVALUE_NOT_ALL_SHAOLIN_EXONERATED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Jiang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_DEFENDS_MLACKKNOWLEDGE_and_DOUBTS_TARGETVALUE_NOT_ALL_SHAOLIN_EXONERATED。",
+            "embodiment": "early_approx16or17_yellowdress_sword_atwaist",
+            "delivery": "clear_cautious_defends_M_then_low_intro_or_selfcomment_excited_swordlore",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0010:u003",
+            "start": 43,
+            "end": 66,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_Xijian_younggirl_not_future_peer_or_death",
+            "text_context": "J actual_DEFENDS_MLACKKNOWLEDGE_and_DOUBTS_TARGETVALUE_NOT_ALL_SHAOLIN_EXONERATED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Jiang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_DEFENDS_MLACKKNOWLEDGE_and_DOUBTS_TARGETVALUE_NOT_ALL_SHAOLIN_EXONERATED。",
+            "embodiment": "early_approx16or17_yellowdress_sword_atwaist",
+            "delivery": "clear_cautious_defends_M_then_low_intro_or_selfcomment_excited_swordlore",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "J actual_DEFENDS_MLACKKNOWLEDGE_and_DOUBTS_TARGETVALUE_NOT_ALL_SHAOLIN_EXONERATED。"
+      },
+      {
+        "reference": "v01-c0008:p0011",
+        "length": 102,
+        "sha256": "33d97ea9fd92cc95c7ffbca42422043fddd7ea3630c19c65431ca9009063d348",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0011:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Q actual_KONGWEN_DRAGONLUOHAN_POWER_REASONING_NOT_KONGWEN_LIVEVOICE_OR_TRANSPORTER_CONFIRMED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_KONGWEN_DRAGONLUOHAN_POWER_REASONING_NOT_KONGWEN_LIVEVOICE_OR_TRANSPORTER_CONFIRMED。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0011:u002",
+            "start": 11,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_KONGWEN_DRAGONLUOHAN_POWER_REASONING_NOT_KONGWEN_LIVEVOICE_OR_TRANSPORTER_CONFIRMED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_KONGWEN_DRAGONLUOHAN_POWER_REASONING_NOT_KONGWEN_LIVEVOICE_OR_TRANSPORTER_CONFIRMED。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0011:u003",
+            "start": 20,
+            "end": 81,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_KONGWEN_DRAGONLUOHAN_POWER_REASONING_NOT_KONGWEN_LIVEVOICE_OR_TRANSPORTER_CONFIRMED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_KONGWEN_DRAGONLUOHAN_POWER_REASONING_NOT_KONGWEN_LIVEVOICE_OR_TRANSPORTER_CONFIRMED。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0011:u004",
+            "start": 81,
+            "end": 102,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_KONGWEN_DRAGONLUOHAN_POWER_REASONING_NOT_KONGWEN_LIVEVOICE_OR_TRANSPORTER_CONFIRMED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_KONGWEN_DRAGONLUOHAN_POWER_REASONING_NOT_KONGWEN_LIVEVOICE_OR_TRANSPORTER_CONFIRMED。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Q actual_KONGWEN_DRAGONLUOHAN_POWER_REASONING_NOT_KONGWEN_LIVEVOICE_OR_TRANSPORTER_CONFIRMED。"
+      },
+      {
+        "reference": "v01-c0008:p0012",
+        "length": 56,
+        "sha256": "115245ff585fa182a35a853733ef049b836cfb1fb5f14e3f91de63ccc7c4bd07",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0012:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wujiang",
+            "surface_identity": "YanWujiang_言无疆_大江帮香主_NOT_YanWuwo",
+            "text_context": "Y actual_NOT_AT_SHAOLIN_SELFREPORT_approx30_BEARD_STRONGBODY_timidity。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_YanWujiang_selfreport_not_gambling_scene",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Y actual_NOT_AT_SHAOLIN_SELFREPORT_approx30_BEARD_STRONGBODY_timidity。",
+            "embodiment": "early_approx30_sturdy_bearded_man",
+            "delivery": "fearful_stammer_then_defensive_louder_with_thirdlady_support",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0012:u002",
+            "start": 11,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Y actual_NOT_AT_SHAOLIN_SELFREPORT_approx30_BEARD_STRONGBODY_timidity。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Y actual_NOT_AT_SHAOLIN_SELFREPORT_approx30_BEARD_STRONGBODY_timidity。",
+            "focalizer": "yan_wujiang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Y actual_NOT_AT_SHAOLIN_SELFREPORT_approx30_BEARD_STRONGBODY_timidity。"
+      },
+      {
+        "reference": "v01-c0008:p0013",
+        "length": 38,
+        "sha256": "50d241a5ca03c17b3bd96e4cd415e31c768c44de5204572a5aad0a015ba6b2f5",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0013:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_youngdisciple",
+            "text_context": "Z actual_CALLS_OTHERS_OUT_SELF_ZHENWU。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Zhang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z actual_CALLS_OTHERS_OUT_SELF_ZHENWU。",
+            "embodiment": "early_approx17or18_mature_youngdisciple",
+            "delivery": "steady_group_inquiry_then_serious_surprise_at_sampling_and_fullsecret_methods",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0013:u002",
+            "start": 5,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_youngdisciple",
+            "text_context": "Z actual_CALLS_OTHERS_OUT_SELF_ZHENWU。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Zhang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z actual_CALLS_OTHERS_OUT_SELF_ZHENWU。",
+            "embodiment": "early_approx17or18_mature_youngdisciple",
+            "delivery": "steady_group_inquiry_then_serious_surprise_at_sampling_and_fullsecret_methods",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0013:u003",
+            "start": 23,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z actual_CALLS_OTHERS_OUT_SELF_ZHENWU。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z actual_CALLS_OTHERS_OUT_SELF_ZHENWU。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z actual_CALLS_OTHERS_OUT_SELF_ZHENWU。"
+      },
+      {
+        "reference": "v01-c0008:p0014",
+        "length": 79,
+        "sha256": "42c0ece76c8f083ad4a3f1af9d6ab4bcc3267619ea94503e2d1e74b5d416455f",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0014:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_xia",
+            "surface_identity": "Qixia_大江帮副帮主戚元同幼女_三小姐",
+            "text_context": "A actual_CONTEXTUAL_SPEAKER_QIXIA_SELECTED_FROM_Z15_RESPONSE_TWO_EMERGE_NOT_BOTH_CHORUS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_Qixia_speech_and_Ylocation_report",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "A actual_CONTEXTUAL_SPEAKER_QIXIA_SELECTED_FROM_Z15_RESPONSE_TWO_EMERGE_NOT_BOTH_CHORUS。",
+            "embodiment": "early_tall_youngwoman_wheat_skin_white_handkerchief_hair",
+            "delivery": "guarded_direct_sleepwake_and_Yidentity_explanation",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0014:u002",
+            "start": 15,
+            "end": 79,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "A actual_CONTEXTUAL_SPEAKER_QIXIA_SELECTED_FROM_Z15_RESPONSE_TWO_EMERGE_NOT_BOTH_CHORUS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "A actual_CONTEXTUAL_SPEAKER_QIXIA_SELECTED_FROM_Z15_RESPONSE_TWO_EMERGE_NOT_BOTH_CHORUS。",
+            "focalizer": "qi_xia",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "A actual_CONTEXTUAL_SPEAKER_QIXIA_SELECTED_FROM_Z15_RESPONSE_TWO_EMERGE_NOT_BOTH_CHORUS。"
+      },
+      {
+        "reference": "v01-c0008:p0015",
+        "length": 44,
+        "sha256": "a10de72f700a74cfe7200881b4305dcb5f8b41f03104e43d64c3dccff6ff0e84",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0015:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z actual_NAMES_QIXIA_and_asks_sleepwake。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z actual_NAMES_QIXIA_and_asks_sleepwake。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0015:u002",
+            "start": 16,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_youngdisciple",
+            "text_context": "Z actual_NAMES_QIXIA_and_asks_sleepwake。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Zhang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z actual_NAMES_QIXIA_and_asks_sleepwake。",
+            "embodiment": "early_approx17or18_mature_youngdisciple",
+            "delivery": "steady_group_inquiry_then_serious_surprise_at_sampling_and_fullsecret_methods",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z actual_NAMES_QIXIA_and_asks_sleepwake。"
+      },
+      {
+        "reference": "v01-c0008:p0016",
+        "length": 46,
+        "sha256": "6076f3a0c877bbec61cc57d908b7094bd208078d09f8851f2e70835d384b2515",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0016:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "J actual_QIXIA_YOUNGEST_QIYUANTONG_DAUGHTER_REPORT_not_QIYUANTONG_PRESENT。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_QIXIA_YOUNGEST_QIYUANTONG_DAUGHTER_REPORT_not_QIYUANTONG_PRESENT。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0016:u002",
+            "start": 19,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_Xijian_younggirl_not_future_peer_or_death",
+            "text_context": "J actual_QIXIA_YOUNGEST_QIYUANTONG_DAUGHTER_REPORT_not_QIYUANTONG_PRESENT。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Jiang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_QIXIA_YOUNGEST_QIYUANTONG_DAUGHTER_REPORT_not_QIYUANTONG_PRESENT。",
+            "embodiment": "early_approx16or17_yellowdress_sword_atwaist",
+            "delivery": "clear_cautious_defends_M_then_low_intro_or_selfcomment_excited_swordlore",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "J actual_QIXIA_YOUNGEST_QIYUANTONG_DAUGHTER_REPORT_not_QIYUANTONG_PRESENT。"
+      },
+      {
+        "reference": "v01-c0008:p0017",
+        "length": 44,
+        "sha256": "3ff30fd6bbf219973de6c5549fd4323c415deef1d869897be4b0d9144bc176e0",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0017:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_modernadultmind_youngnovice_no_revealed89orYang_connection",
+            "text_context": "M actual_DONT_KNOWHER_then_Nmental_uncertainty。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_M_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "M actual_DONT_KNOWHER_then_Nmental_uncertainty。",
+            "embodiment": "early_firststep_complete_youngchoremonk_NO_NEXTSTAGE_METHOD",
+            "delivery": "nightmarefear_confusion_then_genre_shock_private_89recognition",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0017:u002",
+            "start": 8,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M actual_DONT_KNOWHER_then_Nmental_uncertainty。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "M actual_DONT_KNOWHER_then_Nmental_uncertainty。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_DONT_KNOWHER_then_Nmental_uncertainty。"
+      },
+      {
+        "reference": "v01-c0008:p0018",
+        "length": 115,
+        "sha256": "bb24879084a18734f748c334395532cec4c2af2e39456e6ce3ff1aadabf23689",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0018:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_xia",
+            "surface_identity": "Qixia_大江帮副帮主戚元同幼女_三小姐",
+            "text_context": "A TWO_QUOTES_ACTUAL_SLEEPWAKE_AND_YAN_ORIGIN_REPORT_PRESENTLOCATION_SHOULD_IS_HYPOTHESIS_NOT_LIVE_REMOTE_OBSERVATION。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_Qixia_speech_and_Ylocation_report",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "A TWO_QUOTES_ACTUAL_SLEEPWAKE_AND_YAN_ORIGIN_REPORT_PRESENTLOCATION_SHOULD_IS_HYPOTHESIS_NOT_LIVE_REMOTE_OBSERVATION。",
+            "embodiment": "early_tall_youngwoman_wheat_skin_white_handkerchief_hair",
+            "delivery": "guarded_direct_sleepwake_and_Yidentity_explanation",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0018:u002",
+            "start": 37,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "A TWO_QUOTES_ACTUAL_SLEEPWAKE_AND_YAN_ORIGIN_REPORT_PRESENTLOCATION_SHOULD_IS_HYPOTHESIS_NOT_LIVE_REMOTE_OBSERVATION。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "A TWO_QUOTES_ACTUAL_SLEEPWAKE_AND_YAN_ORIGIN_REPORT_PRESENTLOCATION_SHOULD_IS_HYPOTHESIS_NOT_LIVE_REMOTE_OBSERVATION。",
+            "focalizer": "qi_xia",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0018:u003",
+            "start": 54,
+            "end": 115,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_xia",
+            "surface_identity": "Qixia_大江帮副帮主戚元同幼女_三小姐",
+            "text_context": "A TWO_QUOTES_ACTUAL_SLEEPWAKE_AND_YAN_ORIGIN_REPORT_PRESENTLOCATION_SHOULD_IS_HYPOTHESIS_NOT_LIVE_REMOTE_OBSERVATION。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_Qixia_speech_and_Ylocation_report",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "A TWO_QUOTES_ACTUAL_SLEEPWAKE_AND_YAN_ORIGIN_REPORT_PRESENTLOCATION_SHOULD_IS_HYPOTHESIS_NOT_LIVE_REMOTE_OBSERVATION。",
+            "embodiment": "early_tall_youngwoman_wheat_skin_white_handkerchief_hair",
+            "delivery": "guarded_direct_sleepwake_and_Yidentity_explanation",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "A TWO_QUOTES_ACTUAL_SLEEPWAKE_AND_YAN_ORIGIN_REPORT_PRESENTLOCATION_SHOULD_IS_HYPOTHESIS_NOT_LIVE_REMOTE_OBSERVATION。"
+      },
+      {
+        "reference": "v01-c0008:p0019",
+        "length": 71,
+        "sha256": "0cc60ec3c2ce4a3fab3c5a7218822939e6cd1ebfdf420c2ad9b28f168df17bf8",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0019:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wujiang",
+            "surface_identity": "YanWujiang_言无疆_大江帮香主_NOT_YanWuwo",
+            "text_context": "Y actual_MAOLING_GAMBLING_AND_SINGING_SELFREPORT_NOT_SCENE_OF_WINNING_OR_PARTNERS_NEWACTORS，天字1号。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_YanWujiang_selfreport_not_gambling_scene",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Y actual_MAOLING_GAMBLING_AND_SINGING_SELFREPORT_NOT_SCENE_OF_WINNING_OR_PARTNERS_NEWACTORS，天字1号。",
+            "embodiment": "early_approx30_sturdy_bearded_man",
+            "delivery": "fearful_stammer_then_defensive_louder_with_thirdlady_support",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0019:u002",
+            "start": 5,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wujiang",
+            "surface_identity": "YanWujiang_言无疆_大江帮香主_NOT_YanWuwo",
+            "text_context": "Y actual_MAOLING_GAMBLING_AND_SINGING_SELFREPORT_NOT_SCENE_OF_WINNING_OR_PARTNERS_NEWACTORS，天字1号。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_YanWujiang_selfreport_not_gambling_scene",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Y actual_MAOLING_GAMBLING_AND_SINGING_SELFREPORT_NOT_SCENE_OF_WINNING_OR_PARTNERS_NEWACTORS，天字1号。",
+            "embodiment": "early_approx30_sturdy_bearded_man",
+            "delivery": "fearful_stammer_then_defensive_louder_with_thirdlady_support",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0019:u003",
+            "start": 59,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Y actual_MAOLING_GAMBLING_AND_SINGING_SELFREPORT_NOT_SCENE_OF_WINNING_OR_PARTNERS_NEWACTORS，天字1号。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Y actual_MAOLING_GAMBLING_AND_SINGING_SELFREPORT_NOT_SCENE_OF_WINNING_OR_PARTNERS_NEWACTORS，天字1号。",
+            "focalizer": "yan_wujiang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Y actual_MAOLING_GAMBLING_AND_SINGING_SELFREPORT_NOT_SCENE_OF_WINNING_OR_PARTNERS_NEWACTORS，天字1号。"
+      },
+      {
+        "reference": "v01-c0008:p0020",
+        "length": 81,
+        "sha256": "857d1411391b8b937f29fda464f3968e108ebecf5eb2f0e6c2c71de1abebf9ea",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0020:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "J actual_LOW_COMMENT_OR_SELFMURMUR_YANWUWO_COUSIN_NOT_YANWUWO_HERE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_LOW_COMMENT_OR_SELFMURMUR_YANWUWO_COUSIN_NOT_YANWUWO_HERE。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0020:u002",
+            "start": 27,
+            "end": 81,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_Xijian_younggirl_not_future_peer_or_death",
+            "text_context": "J actual_LOW_COMMENT_OR_SELFMURMUR_YANWUWO_COUSIN_NOT_YANWUWO_HERE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Jiang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_LOW_COMMENT_OR_SELFMURMUR_YANWUWO_COUSIN_NOT_YANWUWO_HERE。",
+            "embodiment": "early_approx16or17_yellowdress_sword_atwaist",
+            "delivery": "clear_cautious_defends_M_then_low_intro_or_selfcomment_excited_swordlore",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "J actual_LOW_COMMENT_OR_SELFMURMUR_YANWUWO_COUSIN_NOT_YANWUWO_HERE。"
+      },
+      {
+        "reference": "v01-c0008:p0021",
+        "length": 55,
+        "sha256": "fb8779d235a593301a10923f5c05b799c5fb0968df1106d7019d048495291f22",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0021:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Q actual_MORALACCUSATION_YLIAR_NOT_NALL_YWORDS_FALSE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_MORALACCUSATION_YLIAR_NOT_NALL_YWORDS_FALSE。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0021:u002",
+            "start": 24,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_MORALACCUSATION_YLIAR_NOT_NALL_YWORDS_FALSE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_MORALACCUSATION_YLIAR_NOT_NALL_YWORDS_FALSE。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Q actual_MORALACCUSATION_YLIAR_NOT_NALL_YWORDS_FALSE。"
+      },
+      {
+        "reference": "v01-c0008:p0022",
+        "length": 11,
+        "sha256": "008dddfe531d0941d3609653f7be7c1e0b17a0ff29439490a71409afdd63a4eb",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0022:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Qstubborn_keeps_theory_NOT_confirmed。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Qstubborn_keeps_theory_NOT_confirmed。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Qstubborn_keeps_theory_NOT_confirmed。"
+      },
+      {
+        "reference": "v01-c0008:p0023",
+        "length": 48,
+        "sha256": "36b1fdffc7426af753c64ec3422bbae7555afe34bd68b30d4aec21ba3db47583",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0023:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Y actual_DEFENSIVE_2100TAELS_CLAIM_NOT_PROVEN_MONEY_ALREADY_ONBODY，天子1号与19天字不一。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Y actual_DEFENSIVE_2100TAELS_CLAIM_NOT_PROVEN_MONEY_ALREADY_ONBODY，天子1号与19天字不一。",
+            "focalizer": "yan_wujiang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0023:u002",
+            "start": 12,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wujiang",
+            "surface_identity": "YanWujiang_言无疆_大江帮香主_NOT_YanWuwo",
+            "text_context": "Y actual_DEFENSIVE_2100TAELS_CLAIM_NOT_PROVEN_MONEY_ALREADY_ONBODY，天子1号与19天字不一。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_YanWujiang_selfreport_not_gambling_scene",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Y actual_DEFENSIVE_2100TAELS_CLAIM_NOT_PROVEN_MONEY_ALREADY_ONBODY，天子1号与19天字不一。",
+            "embodiment": "early_approx30_sturdy_bearded_man",
+            "delivery": "fearful_stammer_then_defensive_louder_with_thirdlady_support",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Y actual_DEFENSIVE_2100TAELS_CLAIM_NOT_PROVEN_MONEY_ALREADY_ONBODY，天子1号与19天字不一。"
+      },
+      {
+        "reference": "v01-c0008:p0024",
+        "length": 17,
+        "sha256": "17a45c0c95652a566c826cc94ea76a6bb0a10b8592fbdf3268e0e44a48a20395",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0024:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Ycalms_some_BECAUSE_QIXIA_PRESENT_not_bravealltime。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Ycalms_some_BECAUSE_QIXIA_PRESENT_not_bravealltime。",
+            "focalizer": "yan_wujiang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Ycalms_some_BECAUSE_QIXIA_PRESENT_not_bravealltime。"
+      },
+      {
+        "reference": "v01-c0008:p0025",
+        "length": 30,
+        "sha256": "a5091914ac8aa85f0cd7bd20752e71e4ed7d0702db27a792383b9ab8733922cb",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0025:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_youngdisciple",
+            "text_context": "Z actual_asks_UNKNOWN_ORDINARY_MAN_not_YANagain。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Zhang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z actual_asks_UNKNOWN_ORDINARY_MAN_not_YANagain。",
+            "embodiment": "early_approx17or18_mature_youngdisciple",
+            "delivery": "steady_group_inquiry_then_serious_surprise_at_sampling_and_fullsecret_methods",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0025:u002",
+            "start": 6,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z actual_asks_UNKNOWN_ORDINARY_MAN_not_YANagain。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z actual_asks_UNKNOWN_ORDINARY_MAN_not_YANagain。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z actual_asks_UNKNOWN_ORDINARY_MAN_not_YANagain。"
+      },
+      {
+        "reference": "v01-c0008:p0026",
+        "length": 49,
+        "sha256": "0d776c68a09a4042b8375e53558fdf8a8c2ad261522f33101626c607f620ff8f",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0026:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "J actual_MAY_RECOGNIZE_HUANHUA_RETINUE_question_not_full_QIsecret_known。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_MAY_RECOGNIZE_HUANHUA_RETINUE_question_not_full_QIsecret_known。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0026:u002",
+            "start": 20,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_Xijian_younggirl_not_future_peer_or_death",
+            "text_context": "J actual_MAY_RECOGNIZE_HUANHUA_RETINUE_question_not_full_QIsecret_known。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Jiang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_MAY_RECOGNIZE_HUANHUA_RETINUE_question_not_full_QIsecret_known。",
+            "embodiment": "early_approx16or17_yellowdress_sword_atwaist",
+            "delivery": "clear_cautious_defends_M_then_low_intro_or_selfcomment_excited_swordlore",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0026:u003",
+            "start": 33,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_Xijian_younggirl_not_future_peer_or_death",
+            "text_context": "J actual_MAY_RECOGNIZE_HUANHUA_RETINUE_question_not_full_QIsecret_known。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Jiang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_MAY_RECOGNIZE_HUANHUA_RETINUE_question_not_full_QIsecret_known。",
+            "embodiment": "early_approx16or17_yellowdress_sword_atwaist",
+            "delivery": "clear_cautious_defends_M_then_low_intro_or_selfcomment_excited_swordlore",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "J actual_MAY_RECOGNIZE_HUANHUA_RETINUE_question_not_full_QIsecret_known。"
+      },
+      {
+        "reference": "v01-c0008:p0027",
+        "length": 107,
+        "sha256": "49944e125a587e3bae5d9b2aabc77d4ff5b7f16ec925cd8b20ab4549c16da03b",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0027:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "T actual_SELFINTRO_QIZHENGYAN_HUANHUA_ORDINARY_DISCIPLE_APPROX20PLUS_IRONMASK_SIMILE_NOT_ACTUAL_MASK。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "T actual_SELFINTRO_QIZHENGYAN_HUANHUA_ORDINARY_DISCIPLE_APPROX20PLUS_IRONMASK_SIMILE_NOT_ACTUAL_MASK。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0027:u002",
+            "start": 66,
+            "end": 107,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_齐正言_Huanhua_ordinarydisciple",
+            "text_context": "T actual_SELFINTRO_QIZHENGYAN_HUANHUA_ORDINARY_DISCIPLE_APPROX20PLUS_IRONMASK_SIMILE_NOT_ACTUAL_MASK。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_QiZhengyan_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "T actual_SELFINTRO_QIZHENGYAN_HUANHUA_ORDINARY_DISCIPLE_APPROX20PLUS_IRONMASK_SIMILE_NOT_ACTUAL_MASK。",
+            "embodiment": "early_20plus_plain_youngman_blueclothes_smallhat_NOT_LITERAL_IRON_MASK",
+            "delivery": "grave_restrained_polite_formal_selfintro_not_hiddenfuture_identity_performed",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "T actual_SELFINTRO_QIZHENGYAN_HUANHUA_ORDINARY_DISCIPLE_APPROX20PLUS_IRONMASK_SIMILE_NOT_ACTUAL_MASK。"
+      },
+      {
+        "reference": "v01-c0008:p0028",
+        "length": 89,
+        "sha256": "2cc15febb448d46fa829bfbfc7c07d1d733ccd747485f32f9ef33ab023986982",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0028:u001",
+            "start": 0,
+            "end": 89,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ZFOCAL_PUZZLE_SELECTION_CRITERIA_UNKNOWN_NOT_Mthinks_QIsecret。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N ZFOCAL_PUZZLE_SELECTION_CRITERIA_UNKNOWN_NOT_Mthinks_QIsecret。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ZFOCAL_PUZZLE_SELECTION_CRITERIA_UNKNOWN_NOT_Mthinks_QIsecret。"
+      },
+      {
+        "reference": "v01-c0008:p0029",
+        "length": 56,
+        "sha256": "27f061ab9e4e4c034a953201cbd01d58358a936b3fe927ad876dda0caa7229ab",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0029:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "J actual_PREVIOUS_BELIEF_ONLY_VISITORS_SHATTERED_by_YCASE_not_every_selectionrule_known。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_PREVIOUS_BELIEF_ONLY_VISITORS_SHATTERED_by_YCASE_not_every_selectionrule_known。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0029:u002",
+            "start": 24,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_Xijian_younggirl_not_future_peer_or_death",
+            "text_context": "J actual_PREVIOUS_BELIEF_ONLY_VISITORS_SHATTERED_by_YCASE_not_every_selectionrule_known。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Jiang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_PREVIOUS_BELIEF_ONLY_VISITORS_SHATTERED_by_YCASE_not_every_selectionrule_known。",
+            "embodiment": "early_approx16or17_yellowdress_sword_atwaist",
+            "delivery": "clear_cautious_defends_M_then_low_intro_or_selfcomment_excited_swordlore",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "J actual_PREVIOUS_BELIEF_ONLY_VISITORS_SHATTERED_by_YCASE_not_every_selectionrule_known。"
+      },
+      {
+        "reference": "v01-c0008:p0030",
+        "length": 81,
+        "sha256": "c699b3ec0be3bcd97dd6ba1771f1d26b89682f4de17c87a01d493598b8e44dcc",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0030:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Q actual_KONGWEN_SKY3_CHONGHE_PUREYANG_REASONING_UNCONFIRMED_BOTH_OLDMASTERS_NOT_LIVEVOICE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_KONGWEN_SKY3_CHONGHE_PUREYANG_REASONING_UNCONFIRMED_BOTH_OLDMASTERS_NOT_LIVEVOICE。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0030:u002",
+            "start": 8,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_KONGWEN_SKY3_CHONGHE_PUREYANG_REASONING_UNCONFIRMED_BOTH_OLDMASTERS_NOT_LIVEVOICE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_KONGWEN_SKY3_CHONGHE_PUREYANG_REASONING_UNCONFIRMED_BOTH_OLDMASTERS_NOT_LIVEVOICE。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0030:u003",
+            "start": 44,
+            "end": 81,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_KONGWEN_SKY3_CHONGHE_PUREYANG_REASONING_UNCONFIRMED_BOTH_OLDMASTERS_NOT_LIVEVOICE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_KONGWEN_SKY3_CHONGHE_PUREYANG_REASONING_UNCONFIRMED_BOTH_OLDMASTERS_NOT_LIVEVOICE。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Q actual_KONGWEN_SKY3_CHONGHE_PUREYANG_REASONING_UNCONFIRMED_BOTH_OLDMASTERS_NOT_LIVEVOICE。"
+      },
+      {
+        "reference": "v01-c0008:p0031",
+        "length": 34,
+        "sha256": "de1da5fae6e547d588f6eee53d40bc50fb38f4a273f94efec3fccb819be582c5",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0031:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N QSTILL_POINTS_SHAOLIN_theory_not_NGUILT。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_unknown_plaza_roster_and_transport_accusations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N QSTILL_POINTS_SHAOLIN_theory_not_NGUILT。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N QSTILL_POINTS_SHAOLIN_theory_not_NGUILT。"
+      },
+      {
+        "reference": "v01-c0008:p0032",
+        "length": 2,
+        "sha256": "89cda4baec273fb34f5d00e383556a84b1f88d596f59c6b84b100f8a9346381e",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0032:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N BELL_SOUND_EFFECT_NOT_SIXDAO_SAYS_DANG。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N BELL_SOUND_EFFECT_NOT_SIXDAO_SAYS_DANG。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N BELL_SOUND_EFFECT_NOT_SIXDAO_SAYS_DANG。"
+      },
+      {
+        "reference": "v01-c0008:p0033",
+        "length": 26,
+        "sha256": "1e6b547beafbac9ff82e91f0d5a3c8e4efa3d025b3f07b0662ca07be68024c98",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0033:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N actual_bell_group_turn_tocenter。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N actual_bell_group_turn_tocenter。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N actual_bell_group_turn_tocenter。"
+      },
+      {
+        "reference": "v01-c0008:p0034",
+        "length": 11,
+        "sha256": "f4de89b7f2c01f78dac88fd4293cca10cc7271313e0b0424e5b62d5a8efb49f4",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0034:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_master",
+            "surface_identity": "selfnamed_SixPathsMaster_UNSEEN_TRUE_CONTROLLER_UNIDENTIFIED_NOT_KONGWEN_CONFIRMED",
+            "text_context": "S actual_WELCOME_DECLARATION_MACRO_COLD_UNSEENVOICE_TRUE_CONTROLLER_UNIDENTIFIED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "ACTUAL_SIXPATHS_DECLARATION_NOT_WRITTEN_UI",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "S actual_WELCOME_DECLARATION_MACRO_COLD_UNSEENVOICE_TRUE_CONTROLLER_UNIDENTIFIED。",
+            "embodiment": "audible_disembodied_voice_location_source_unknown_NO_VISUAL_BODY",
+            "delivery": "source_macro_grand_cold_voice_gender_unspecified",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "S actual_WELCOME_DECLARATION_MACRO_COLD_UNSEENVOICE_TRUE_CONTROLLER_UNIDENTIFIED。"
+      },
+      {
+        "reference": "v01-c0008:p0035",
+        "length": 27,
+        "sha256": "3efe4c1af9822638a96928f1e002773a06c5687777340e455a6e567fab7f7d07",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0035:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_master",
+            "surface_identity": "selfnamed_SixPathsMaster_UNSEEN_TRUE_CONTROLLER_UNIDENTIFIED_NOT_KONGWEN_CONFIRMED",
+            "text_context": "S actual_DANGER_AND_ANYTHING_REWARD_CLAIM_NOT_ALREADY_PROVEN_ALLITEMS_EXIST。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "ACTUAL_SIXPATHS_DECLARATION_NOT_WRITTEN_UI",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "S actual_DANGER_AND_ANYTHING_REWARD_CLAIM_NOT_ALREADY_PROVEN_ALLITEMS_EXIST。",
+            "embodiment": "audible_disembodied_voice_location_source_unknown_NO_VISUAL_BODY",
+            "delivery": "source_macro_grand_cold_voice_gender_unspecified",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "S actual_DANGER_AND_ANYTHING_REWARD_CLAIM_NOT_ALREADY_PROVEN_ALLITEMS_EXIST。"
+      },
+      {
+        "reference": "v01-c0008:p0036",
+        "length": 46,
+        "sha256": "7eeaadbe85f439907e94460f7acdc8508d916d5d1518bd82bea6bc203b8fd6a4",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0036:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Mseems_genre_familiar_NOT_Svoicesource_namedrealperson。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Mseems_genre_familiar_NOT_Svoicesource_namedrealperson。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Mseems_genre_familiar_NOT_Svoicesource_namedrealperson。"
+      },
+      {
+        "reference": "v01-c0008:p0037",
+        "length": 40,
+        "sha256": "1140af5eba7009c1608a10da569287a5ca1c65ef9333823a970fa1544da2069a",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0037:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_WHO_COMEOUT_then_NRUNS_EMPTYCENTER_NO_BATTLE_WITH_VISIBLE_MASTER。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_WHO_COMEOUT_then_NRUNS_EMPTYCENTER_NO_BATTLE_WITH_VISIBLE_MASTER。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0037:u002",
+            "start": 3,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_WHO_COMEOUT_then_NRUNS_EMPTYCENTER_NO_BATTLE_WITH_VISIBLE_MASTER。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_WHO_COMEOUT_then_NRUNS_EMPTYCENTER_NO_BATTLE_WITH_VISIBLE_MASTER。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0037:u003",
+            "start": 7,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Q actual_WHO_COMEOUT_then_NRUNS_EMPTYCENTER_NO_BATTLE_WITH_VISIBLE_MASTER。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_WHO_COMEOUT_then_NRUNS_EMPTYCENTER_NO_BATTLE_WITH_VISIBLE_MASTER。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Q actual_WHO_COMEOUT_then_NRUNS_EMPTYCENTER_NO_BATTLE_WITH_VISIBLE_MASTER。"
+      },
+      {
+        "reference": "v01-c0008:p0038",
+        "length": 26,
+        "sha256": "612e3bdcc07539f5691cbc60c1f906eab1dceda6fa41ceb2ea72c1d8acf5be39",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0038:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_master",
+            "surface_identity": "selfnamed_SixPathsMaster_UNSEEN_TRUE_CONTROLLER_UNIDENTIFIED_NOT_KONGWEN_CONFIRMED",
+            "text_context": "S actual_SELFNAME_SIXPATHSMASTER_not_GODTRUEIDENTITY_OR_KONGWENPROVEN。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "ACTUAL_SIXPATHS_DECLARATION_NOT_WRITTEN_UI",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "S actual_SELFNAME_SIXPATHSMASTER_not_GODTRUEIDENTITY_OR_KONGWENPROVEN。",
+            "embodiment": "audible_disembodied_voice_location_source_unknown_NO_VISUAL_BODY",
+            "delivery": "source_macro_grand_cold_voice_gender_unspecified",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0038:u002",
+            "start": 18,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "S actual_SELFNAME_SIXPATHSMASTER_not_GODTRUEIDENTITY_OR_KONGWENPROVEN。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "S actual_SELFNAME_SIXPATHSMASTER_not_GODTRUEIDENTITY_OR_KONGWENPROVEN。",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "S actual_SELFNAME_SIXPATHSMASTER_not_GODTRUEIDENTITY_OR_KONGWENPROVEN。"
+      },
+      {
+        "reference": "v01-c0008:p0039",
+        "length": 55,
+        "sha256": "0df4a48284ba93d98690c9201c974184c3b5fe1fe537d7de5f83759e5e8a6627",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0039:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N JZeyes_bright_VIOLETELECTRIC_SIMILE_NOT_BEAMATTACK_OR_NEW_RANK。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N JZeyes_bright_VIOLETELECTRIC_SIMILE_NOT_BEAMATTACK_OR_NEW_RANK。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N JZeyes_bright_VIOLETELECTRIC_SIMILE_NOT_BEAMATTACK_OR_NEW_RANK。"
+      },
+      {
+        "reference": "v01-c0008:p0040",
+        "length": 15,
+        "sha256": "20f5c9810c8c9c8ab9ac348bf1741232d412e68dab4b0572b169d98ed17b6ec6",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0040:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N JZEXCHANGELOOK_SHAKEHEAD_NOT_VERBATIM_WORDS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N JZEXCHANGELOOK_SHAKEHEAD_NOT_VERBATIM_WORDS。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N JZEXCHANGELOOK_SHAKEHEAD_NOT_VERBATIM_WORDS。"
+      },
+      {
+        "reference": "v01-c0008:p0041",
+        "length": 19,
+        "sha256": "55e0be2c023dfd5b386532cb7cf4ebc600326640b8aa1aa314deb347c8de7ef6",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0041:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Mheartsinks_SUFFIX_PRIVATE_NO_SOURCEFOUND_INFERENCE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Mheartsinks_SUFFIX_PRIVATE_NO_SOURCEFOUND_INFERENCE。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0041:u002",
+            "start": 6,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_modernadultmind_youngnovice_no_revealed89orYang_connection",
+            "text_context": "N Mheartsinks_SUFFIX_PRIVATE_NO_SOURCEFOUND_INFERENCE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "editorial_M_private_thought_or_89innervoice",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Mheartsinks_SUFFIX_PRIVATE_NO_SOURCEFOUND_INFERENCE。",
+            "embodiment": "early_firststep_complete_youngchoremonk_NO_NEXTSTAGE_METHOD",
+            "delivery": "nightmarefear_confusion_then_genre_shock_private_89recognition",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Mheartsinks_SUFFIX_PRIVATE_NO_SOURCEFOUND_INFERENCE。"
+      },
+      {
+        "reference": "v01-c0008:p0042",
+        "length": 34,
+        "sha256": "e1908f28802e558538a53d9c4ed05ebf49d04b5e2ea709102f8c7ffc48a5c9b1",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0042:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Q actual_asks_PURPOSE_HAND_ONHILT_NOT_BLADE_DRAWN_ATTACK。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_asks_PURPOSE_HAND_ONHILT_NOT_BLADE_DRAWN_ATTACK。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0042:u002",
+            "start": 21,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_asks_PURPOSE_HAND_ONHILT_NOT_BLADE_DRAWN_ATTACK。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_asks_PURPOSE_HAND_ONHILT_NOT_BLADE_DRAWN_ATTACK。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Q actual_asks_PURPOSE_HAND_ONHILT_NOT_BLADE_DRAWN_ATTACK。"
+      },
+      {
+        "reference": "v01-c0008:p0043",
+        "length": 112,
+        "sha256": "047e7a212a479dede466b4e9f53a85cc039d88033d9bbe79b07e5f1e212079dc",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0043:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "S actual_DECLARED_WORLDS_TASKS_GOODDEEDS_EXCHANGE_NOT_TASKCOMPLETED_OR_BENEFIT_ALREADY_BOUGHT。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "S actual_DECLARED_WORLDS_TASKS_GOODDEEDS_EXCHANGE_NOT_TASKCOMPLETED_OR_BENEFIT_ALREADY_BOUGHT。",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0043:u002",
+            "start": 10,
+            "end": 112,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_master",
+            "surface_identity": "selfnamed_SixPathsMaster_UNSEEN_TRUE_CONTROLLER_UNIDENTIFIED_NOT_KONGWEN_CONFIRMED",
+            "text_context": "S actual_DECLARED_WORLDS_TASKS_GOODDEEDS_EXCHANGE_NOT_TASKCOMPLETED_OR_BENEFIT_ALREADY_BOUGHT。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "ACTUAL_SIXPATHS_DECLARATION_NOT_WRITTEN_UI",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "S actual_DECLARED_WORLDS_TASKS_GOODDEEDS_EXCHANGE_NOT_TASKCOMPLETED_OR_BENEFIT_ALREADY_BOUGHT。",
+            "embodiment": "audible_disembodied_voice_location_source_unknown_NO_VISUAL_BODY",
+            "delivery": "source_macro_grand_cold_voice_gender_unspecified",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "S actual_DECLARED_WORLDS_TASKS_GOODDEEDS_EXCHANGE_NOT_TASKCOMPLETED_OR_BENEFIT_ALREADY_BOUGHT。"
+      },
+      {
+        "reference": "v01-c0008:p0044",
+        "length": 36,
+        "sha256": "24dfd073147846fcd1720ef854fbab5520128b3bc7bbbe1db41e115ac1902f63",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0044:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_master",
+            "surface_identity": "selfnamed_SixPathsMaster_UNSEEN_TRUE_CONTROLLER_UNIDENTIFIED_NOT_KONGWEN_CONFIRMED",
+            "text_context": "S actual_FUTURE_RETURN_AFTER_TASK_CLAIM_NOT_ALREADY_RETURNED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "ACTUAL_SIXPATHS_DECLARATION_NOT_WRITTEN_UI",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "S actual_FUTURE_RETURN_AFTER_TASK_CLAIM_NOT_ALREADY_RETURNED。",
+            "embodiment": "audible_disembodied_voice_location_source_unknown_NO_VISUAL_BODY",
+            "delivery": "source_macro_grand_cold_voice_gender_unspecified",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "S actual_FUTURE_RETURN_AFTER_TASK_CLAIM_NOT_ALREADY_RETURNED。"
+      },
+      {
+        "reference": "v01-c0008:p0045",
+        "length": 46,
+        "sha256": "a9274dc387a8bd33d9dd4f7e5ba69d0925d0ae77bbc4dbface83ab98e1dc3fa2",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0045:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N mouth_fish_SIMILE_SUFFIX_MPRIVATE_INFINITYGENRE_DISSONANCE_not_NPROVES_ALL_TEMPLATE_DETAILS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N mouth_fish_SIMILE_SUFFIX_MPRIVATE_INFINITYGENRE_DISSONANCE_not_NPROVES_ALL_TEMPLATE_DETAILS。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0045:u002",
+            "start": 17,
+            "end": 27,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_modernadultmind_youngnovice_no_revealed89orYang_connection",
+            "text_context": "N mouth_fish_SIMILE_SUFFIX_MPRIVATE_INFINITYGENRE_DISSONANCE_not_NPROVES_ALL_TEMPLATE_DETAILS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "editorial_M_private_thought_or_89innervoice",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N mouth_fish_SIMILE_SUFFIX_MPRIVATE_INFINITYGENRE_DISSONANCE_not_NPROVES_ALL_TEMPLATE_DETAILS。",
+            "embodiment": "early_firststep_complete_youngchoremonk_NO_NEXTSTAGE_METHOD",
+            "delivery": "nightmarefear_confusion_then_genre_shock_private_89recognition",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0045:u003",
+            "start": 27,
+            "end": 39,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_modernadultmind_youngnovice_no_revealed89orYang_connection",
+            "text_context": "N mouth_fish_SIMILE_SUFFIX_MPRIVATE_INFINITYGENRE_DISSONANCE_not_NPROVES_ALL_TEMPLATE_DETAILS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "editorial_M_private_thought_or_89innervoice",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N mouth_fish_SIMILE_SUFFIX_MPRIVATE_INFINITYGENRE_DISSONANCE_not_NPROVES_ALL_TEMPLATE_DETAILS。",
+            "embodiment": "early_firststep_complete_youngchoremonk_NO_NEXTSTAGE_METHOD",
+            "delivery": "nightmarefear_confusion_then_genre_shock_private_89recognition",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0045:u004",
+            "start": 39,
+            "end": 46,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_modernadultmind_youngnovice_no_revealed89orYang_connection",
+            "text_context": "N mouth_fish_SIMILE_SUFFIX_MPRIVATE_INFINITYGENRE_DISSONANCE_not_NPROVES_ALL_TEMPLATE_DETAILS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "editorial_M_private_thought_or_89innervoice",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N mouth_fish_SIMILE_SUFFIX_MPRIVATE_INFINITYGENRE_DISSONANCE_not_NPROVES_ALL_TEMPLATE_DETAILS。",
+            "embodiment": "early_firststep_complete_youngchoremonk_NO_NEXTSTAGE_METHOD",
+            "delivery": "nightmarefear_confusion_then_genre_shock_private_89recognition",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N mouth_fish_SIMILE_SUFFIX_MPRIVATE_INFINITYGENRE_DISSONANCE_not_NPROVES_ALL_TEMPLATE_DETAILS。"
+      },
+      {
+        "reference": "v01-c0008:p0046",
+        "length": 32,
+        "sha256": "46d3a2a60404be49fa66b6741410d84a94478611f3715f2b28fe6e180ed468fe",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0046:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q ONLY_FIRSTQUOTE_actual_SCORNFUL_QUESTION_SECOND神秘人_CONCEPT_N。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q ONLY_FIRSTQUOTE_actual_SCORNFUL_QUESTION_SECOND神秘人_CONCEPT_N。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0046:u002",
+            "start": 10,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Q ONLY_FIRSTQUOTE_actual_SCORNFUL_QUESTION_SECOND神秘人_CONCEPT_N。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q ONLY_FIRSTQUOTE_actual_SCORNFUL_QUESTION_SECOND神秘人_CONCEPT_N。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Q ONLY_FIRSTQUOTE_actual_SCORNFUL_QUESTION_SECOND神秘人_CONCEPT_N。"
+      },
+      {
+        "reference": "v01-c0008:p0047",
+        "length": 76,
+        "sha256": "dc75dd7dae1f2081e4fccc7a1943234d2b67415e3d3b140b2b590fc0bcffe067",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0047:u001",
+            "start": 0,
+            "end": 76,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Qfocal_sectknowledge_reason_for_skepticism_NOT_hisnew_dialogue。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_bell_and_unseen_actual_Sixvoice_declarations",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Qfocal_sectknowledge_reason_for_skepticism_NOT_hisnew_dialogue。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Qfocal_sectknowledge_reason_for_skepticism_NOT_hisnew_dialogue。"
+      },
+      {
+        "reference": "v01-c0008:p0048",
+        "length": 59,
+        "sha256": "a6fd48d71cdb3f3cb806c7af755b98c2a062b3976eaa306fb677287f339ffb93",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0048:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N SIXMASTER_SILENT_LIGHTSCREEN_APPEARS_TITLE_WRITTEN_NOT_BROADCAST。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_UI_appearance_or_written_list_NOT_SIXVOICE",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N SIXMASTER_SILENT_LIGHTSCREEN_APPEARS_TITLE_WRITTEN_NOT_BROADCAST。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N SIXMASTER_SILENT_LIGHTSCREEN_APPEARS_TITLE_WRITTEN_NOT_BROADCAST。"
+      },
+      {
+        "reference": "v01-c0008:p0049",
+        "length": 22,
+        "sha256": "f7137c53a0b73485e500b9dba59ea382b6770c0f36342ce2bebb721c79922784",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0049:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N WRITTEN_UI_RULAI_FULL_ONE_MILLION_SILENT_NOT_SIXVOICE_OR_MREAD_ALOUD。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "SILENT_WRITTEN_UI_MANUAL_LINE_NOT_CHARACTER_SPEECH",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N WRITTEN_UI_RULAI_FULL_ONE_MILLION_SILENT_NOT_SIXVOICE_OR_MREAD_ALOUD。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N WRITTEN_UI_RULAI_FULL_ONE_MILLION_SILENT_NOT_SIXVOICE_OR_MREAD_ALOUD。"
+      },
+      {
+        "reference": "v01-c0008:p0050",
+        "length": 77,
+        "sha256": "a6ab4fb7e8fa36c15d8d729d3cb7f3c35b9b073215e9df0fd500d47b0b9422b8",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0050:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "plaza_listeners_group_v01",
+            "surface_identity": "current_plaza_listeners_group_not_new_namedactor",
+            "text_context": "G QUOTED_PALM_REACTION_EDITORIAL_INNER_OR_FOCAL_NOT_CONFIRMED_AUDIBLE_CHORUS，Ngroupgasp。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "editorial_group_inner_or_focal_reaction",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "G QUOTED_PALM_REACTION_EDITORIAL_INNER_OR_FOCAL_NOT_CONFIRMED_AUDIBLE_CHORUS，Ngroupgasp。",
+            "embodiment": "early_plaza_mixed_group",
+            "delivery": "editorial_collective_focal_palm_awe_not_proven_audible_unison",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0050:u002",
+            "start": 8,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "G QUOTED_PALM_REACTION_EDITORIAL_INNER_OR_FOCAL_NOT_CONFIRMED_AUDIBLE_CHORUS，Ngroupgasp。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "G QUOTED_PALM_REACTION_EDITORIAL_INNER_OR_FOCAL_NOT_CONFIRMED_AUDIBLE_CHORUS，Ngroupgasp。",
+            "focalizer": "plaza_listeners_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0050:u003",
+            "start": 24,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "G QUOTED_PALM_REACTION_EDITORIAL_INNER_OR_FOCAL_NOT_CONFIRMED_AUDIBLE_CHORUS，Ngroupgasp。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "G QUOTED_PALM_REACTION_EDITORIAL_INNER_OR_FOCAL_NOT_CONFIRMED_AUDIBLE_CHORUS，Ngroupgasp。",
+            "focalizer": "plaza_listeners_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0050:u004",
+            "start": 62,
+            "end": 77,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "G QUOTED_PALM_REACTION_EDITORIAL_INNER_OR_FOCAL_NOT_CONFIRMED_AUDIBLE_CHORUS，Ngroupgasp。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "G QUOTED_PALM_REACTION_EDITORIAL_INNER_OR_FOCAL_NOT_CONFIRMED_AUDIBLE_CHORUS，Ngroupgasp。",
+            "focalizer": "plaza_listeners_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "G QUOTED_PALM_REACTION_EDITORIAL_INNER_OR_FOCAL_NOT_CONFIRMED_AUDIBLE_CHORUS，Ngroupgasp。"
+      },
+      {
+        "reference": "v01-c0008:p0051",
+        "length": 30,
+        "sha256": "6ae1e187041c0df32d5540a1220ecd98b943a1b75cc94d22a21dfe088dcc2334",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0051:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Mdesiregrows_forgets_genredissonance_NOT_TRANSACTION。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Mdesiregrows_forgets_genredissonance_NOT_TRANSACTION。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Mdesiregrows_forgets_genredissonance_NOT_TRANSACTION。"
+      },
+      {
+        "reference": "v01-c0008:p0052",
+        "length": 49,
+        "sha256": "21660b9c5ad6bfe6961d41895002e8d2aa726febcdc6bd20f8cd330080d0113e",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0052:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "J EXPLICIT_READS_SECOND_UI_LINE_ALOUD_JIETIAN_MISSING3_AND6_COST750000_ALL_JVOICE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J EXPLICIT_READS_SECOND_UI_LINE_ALOUD_JIETIAN_MISSING3_AND6_COST750000_ALL_JVOICE。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0052:u002",
+            "start": 20,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_Xijian_younggirl_not_future_peer_or_death",
+            "text_context": "J EXPLICIT_READS_SECOND_UI_LINE_ALOUD_JIETIAN_MISSING3_AND6_COST750000_ALL_JVOICE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "actual_Jiang_READS_WRITTEN_JIETIAN_LINE_ALOUD",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J EXPLICIT_READS_SECOND_UI_LINE_ALOUD_JIETIAN_MISSING3_AND6_COST750000_ALL_JVOICE。",
+            "embodiment": "early_approx16or17_yellowdress_sword_atwaist",
+            "delivery": "explicit_excited_reading_second_UI_line_not_anonymous_systemvoice",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "J EXPLICIT_READS_SECOND_UI_LINE_ALOUD_JIETIAN_MISSING3_AND6_COST750000_ALL_JVOICE。"
+      },
+      {
+        "reference": "v01-c0008:p0053",
+        "length": 45,
+        "sha256": "498bfc908d4d163996b11c5784f08934aed47ec3491db1c54baad4609ebf7861",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0053:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Zfists_clench_FAMILY_FOUNDATION_7THFORM_DAOMIEDAOSHENG_BACKGROUND_NOT_ZNEW_SPEECH。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Zfists_clench_FAMILY_FOUNDATION_7THFORM_DAOMIEDAOSHENG_BACKGROUND_NOT_ZNEW_SPEECH。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Zfists_clench_FAMILY_FOUNDATION_7THFORM_DAOMIEDAOSHENG_BACKGROUND_NOT_ZNEW_SPEECH。"
+      },
+      {
+        "reference": "v01-c0008:p0054",
+        "length": 34,
+        "sha256": "42390482aaf30edf97e197c7fd292c64ec30a4babda32b56a03e70020e81fcc8",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0054:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Q actual_MISSINGPARTS_SCOFF_NOT_SUI_speaks。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_MISSINGPARTS_SCOFF_NOT_SUI_speaks。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0054:u002",
+            "start": 15,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q actual_MISSINGPARTS_SCOFF_NOT_SUI_speaks。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q actual_MISSINGPARTS_SCOFF_NOT_SUI_speaks。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Q actual_MISSINGPARTS_SCOFF_NOT_SUI_speaks。"
+      },
+      {
+        "reference": "v01-c0008:p0055",
+        "length": 52,
+        "sha256": "9a97c54a3450d90e598dbaeb67843a792ff4926062779cfc03a58f9ee36e1fc9",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0055:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Qconfidence_scornweakens_missingpart_transparency_FEELS_CONVINCING_NOT_ALL_CONTENT_VERIFIED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Qconfidence_scornweakens_missingpart_transparency_FEELS_CONVINCING_NOT_ALL_CONTENT_VERIFIED。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Qconfidence_scornweakens_missingpart_transparency_FEELS_CONVINCING_NOT_ALL_CONTENT_VERIFIED。"
+      },
+      {
+        "reference": "v01-c0008:p0056",
+        "length": 59,
+        "sha256": "83296e9734c5656fd5931964357d89617f126d3929c9a66c0518d4998fcdbac1",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0056:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_Xijian_younggirl_not_future_peer_or_death",
+            "text_context": "J actual_LOW_LIPMOVING_YEARNS_ONLY_MISSING3AND6_NOT_LEARNS_OR_MASTERS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "actual_early_Jiang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_LOW_LIPMOVING_YEARNS_ONLY_MISSING3AND6_NOT_LEARNS_OR_MASTERS。",
+            "embodiment": "early_approx16or17_yellowdress_sword_atwaist",
+            "delivery": "clear_cautious_defends_M_then_low_intro_or_selfcomment_excited_swordlore",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0056:u002",
+            "start": 12,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "J actual_LOW_LIPMOVING_YEARNS_ONLY_MISSING3AND6_NOT_LEARNS_OR_MASTERS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "J actual_LOW_LIPMOVING_YEARNS_ONLY_MISSING3AND6_NOT_LEARNS_OR_MASTERS。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "J actual_LOW_LIPMOVING_YEARNS_ONLY_MISSING3AND6_NOT_LEARNS_OR_MASTERS。"
+      },
+      {
+        "reference": "v01-c0008:p0057",
+        "length": 100,
+        "sha256": "214f6821b7a68fd4350a88fd6803bd61f9ffad4578775fc11701cb6d976d8b1c",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0057:u001",
+            "start": 0,
+            "end": 100,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N XIJIAN_FOUNDER_HISTORY_AND_REPORTED3REGRETS_NOT_FOUNDER_LIVEVOICE_OR_JTHREE_TIMES_SAYS_REGRET。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N XIJIAN_FOUNDER_HISTORY_AND_REPORTED3REGRETS_NOT_FOUNDER_LIVEVOICE_OR_JTHREE_TIMES_SAYS_REGRET。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N XIJIAN_FOUNDER_HISTORY_AND_REPORTED3REGRETS_NOT_FOUNDER_LIVEVOICE_OR_JTHREE_TIMES_SAYS_REGRET。"
+      },
+      {
+        "reference": "v01-c0008:p0058",
+        "length": 53,
+        "sha256": "d2ce6e0e43c8a8d9b20c865571b997f58ae2d7be405d82e5c76df486ec7f94c9",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0058:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Mswallows_LOOKS_UI_THEN_WRITTEN89FULL_950000_NOT_MREAD_ALOUD_OR_MGETS_ART。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Mswallows_LOOKS_UI_THEN_WRITTEN89FULL_950000_NOT_MREAD_ALOUD_OR_MGETS_ART。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0058:u002",
+            "start": 30,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Mswallows_LOOKS_UI_THEN_WRITTEN89FULL_950000_NOT_MREAD_ALOUD_OR_MGETS_ART。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "SILENT_WRITTEN_UI_MANUAL_LINE_NOT_CHARACTER_SPEECH",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Mswallows_LOOKS_UI_THEN_WRITTEN89FULL_950000_NOT_MREAD_ALOUD_OR_MGETS_ART。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Mswallows_LOOKS_UI_THEN_WRITTEN89FULL_950000_NOT_MREAD_ALOUD_OR_MGETS_ART。"
+      },
+      {
+        "reference": "v01-c0008:p0059",
+        "length": 44,
+        "sha256": "c5f1983f8e68a3309482087b312bdf95ac2c8e2945fa7347d0faad153319577e",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0059:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "qing_jing",
+            "surface_identity": "Qingjing_Xuantian_youngDaoist_not_Zhenguan",
+            "text_context": "Q FIRSTQUOTE_actual_SELFTALK_SECOND_SIXNAME_NARRATION_NEVERHEARD89_NOT_M_OR_YANGIDENTITY_EXPOSED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "actual_early_Qingjing_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q FIRSTQUOTE_actual_SELFTALK_SECOND_SIXNAME_NARRATION_NEVERHEARD89_NOT_M_OR_YANGIDENTITY_EXPOSED。",
+            "embodiment": "early_youthful_doublebun_blackbrows_blade_hilt_atwaist",
+            "delivery": "angry_accusations_stubborn_skepticism_then_softening_scorn_and_89unknown_selftalk",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0059:u002",
+            "start": 17,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Q FIRSTQUOTE_actual_SELFTALK_SECOND_SIXNAME_NARRATION_NEVERHEARD89_NOT_M_OR_YANGIDENTITY_EXPOSED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Q FIRSTQUOTE_actual_SELFTALK_SECOND_SIXNAME_NARRATION_NEVERHEARD89_NOT_M_OR_YANGIDENTITY_EXPOSED。",
+            "focalizer": "qing_jing",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Q FIRSTQUOTE_actual_SELFTALK_SECOND_SIXNAME_NARRATION_NEVERHEARD89_NOT_M_OR_YANGIDENTITY_EXPOSED。"
+      },
+      {
+        "reference": "v01-c0008:p0060",
+        "length": 29,
+        "sha256": "3b664f69a369614b7e46a989c7725047920a61cb3285fcab9efce0196c9e9890",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0060:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N JZAetc_HEADSHAKE_NO_QUOTED_COLLECTIVE_NO。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N JZAetc_HEADSHAKE_NO_QUOTED_COLLECTIVE_NO。",
+            "focalizer": "plaza_listeners_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N JZAetc_HEADSHAKE_NO_QUOTED_COLLECTIVE_NO。"
+      },
+      {
+        "reference": "v01-c0008:p0061",
+        "length": 14,
+        "sha256": "39d8bb2c1c8c569ed2d34710c15d7df4c0a6ae6d30d650c1968cac5217f04cb4",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0061:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N EXPLICIT_MINNER_SHOUT_INTRO_NO_EXTERNALVOICE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N EXPLICIT_MINNER_SHOUT_INTRO_NO_EXTERNALVOICE。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N EXPLICIT_MINNER_SHOUT_INTRO_NO_EXTERNALVOICE。"
+      },
+      {
+        "reference": "v01-c0008:p0062",
+        "length": 12,
+        "sha256": "298d8dad530225592da21b5afb533e02d5d97b1c23b517f148137d37c648a948",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0062:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_modernadultmind_youngnovice_no_revealed89orYang_connection",
+            "text_context": "M QUOTED_EXPLICIT_PRIVATE_89SHOCK_NOT_ACTUAL_SHOUT_HEARD_BY_GROUP。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "editorial_M_private_thought_or_89innervoice",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "M QUOTED_EXPLICIT_PRIVATE_89SHOCK_NOT_ACTUAL_SHOUT_HEARD_BY_GROUP。",
+            "embodiment": "early_firststep_complete_youngchoremonk_NO_NEXTSTAGE_METHOD",
+            "delivery": "nightmarefear_confusion_then_genre_shock_private_89recognition",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0062:u002",
+            "start": 6,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_modernadultmind_youngnovice_no_revealed89orYang_connection",
+            "text_context": "M QUOTED_EXPLICIT_PRIVATE_89SHOCK_NOT_ACTUAL_SHOUT_HEARD_BY_GROUP。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "editorial_M_private_thought_or_89innervoice",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "M QUOTED_EXPLICIT_PRIVATE_89SHOCK_NOT_ACTUAL_SHOUT_HEARD_BY_GROUP。",
+            "embodiment": "early_firststep_complete_youngchoremonk_NO_NEXTSTAGE_METHOD",
+            "delivery": "nightmarefear_confusion_then_genre_shock_private_89recognition",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M QUOTED_EXPLICIT_PRIVATE_89SHOCK_NOT_ACTUAL_SHOUT_HEARD_BY_GROUP。"
+      },
+      {
+        "reference": "v01-c0008:p0063",
+        "length": 83,
+        "sha256": "c26f13ea2abcd7a33001a2eb310f1a4bdde13c1db8b562de0bfaddf85edfa731",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0063:u001",
+            "start": 0,
+            "end": 83,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N WRITTEN_MANUAL_LIST_AND_KNOWNLORE_NOT_ALL_LIVE_ACTORS_OR_GRANTED_METHODS。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_UI_appearance_or_written_list_NOT_SIXVOICE",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N WRITTEN_MANUAL_LIST_AND_KNOWNLORE_NOT_ALL_LIVE_ACTORS_OR_GRANTED_METHODS。",
+            "focalizer": "plaza_listeners_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N WRITTEN_MANUAL_LIST_AND_KNOWNLORE_NOT_ALL_LIVE_ACTORS_OR_GRANTED_METHODS。"
+      },
+      {
+        "reference": "v01-c0008:p0064",
+        "length": 38,
+        "sha256": "1bcdf06d2251bb83cfba3dc315040076b544dca23a1e4f28bc0dacb4a0c17178",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0064:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N WRITTEN_MISSING_TIANDI_MIDDLE_AND_RENHUANG_PAGE3_OTHERS_CLAIM_FULL_NOT_VERIFIED_ALLREAL。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_UI_appearance_or_written_list_NOT_SIXVOICE",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N WRITTEN_MISSING_TIANDI_MIDDLE_AND_RENHUANG_PAGE3_OTHERS_CLAIM_FULL_NOT_VERIFIED_ALLREAL。",
+            "focalizer": "plaza_listeners_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N WRITTEN_MISSING_TIANDI_MIDDLE_AND_RENHUANG_PAGE3_OTHERS_CLAIM_FULL_NOT_VERIFIED_ALLREAL。"
+      },
+      {
+        "reference": "v01-c0008:p0065",
+        "length": 34,
+        "sha256": "af28170ce53457e0eede3300293e4a1c0c8ac008e35db0b4481e656afcd61d66",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0065:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_youngdisciple",
+            "text_context": "Z QUOTED_EDITORIAL_LOW_COMMENT_AUDIBILITY_INFERRED_then_NJHANDHILT_NO_EXTRA_JLINE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "actual_early_Zhang_speech",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z QUOTED_EDITORIAL_LOW_COMMENT_AUDIBILITY_INFERRED_then_NJHANDHILT_NO_EXTRA_JLINE。",
+            "embodiment": "early_approx17or18_mature_youngdisciple",
+            "delivery": "editorial_low_fulltext_comment_audibility_inferred_not_certain",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0008:p0065:u002",
+            "start": 9,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z QUOTED_EDITORIAL_LOW_COMMENT_AUDIBILITY_INFERRED_then_NJHANDHILT_NO_EXTRA_JLINE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "Z QUOTED_EDITORIAL_LOW_COMMENT_AUDIBILITY_INFERRED_then_NJHANDHILT_NO_EXTRA_JLINE。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z QUOTED_EDITORIAL_LOW_COMMENT_AUDIBILITY_INFERRED_then_NJHANDHILT_NO_EXTRA_JLINE。"
+      },
+      {
+        "reference": "v01-c0008:p0066",
+        "length": 39,
+        "sha256": "1fe78620f9687d781cd2b61f5124c79e7b35305a10055683f24294d0b556d28d",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0066:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N SECTDISCIPLES_DISTURBED_SECRETEXPOSURE_NOT_MLOST_EXPLICIT_SECRETS_HERE。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N SECTDISCIPLES_DISTURBED_SECRETEXPOSURE_NOT_MLOST_EXPLICIT_SECRETS_HERE。",
+            "focalizer": "plaza_listeners_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N SECTDISCIPLES_DISTURBED_SECRETEXPOSURE_NOT_MLOST_EXPLICIT_SECRETS_HERE。"
+      },
+      {
+        "reference": "v01-c0008:p0067",
+        "length": 45,
+        "sha256": "c6395b06d4ca429c0da59b072652ee58db7b9f2a405da4fe410edd56f3e93bab",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0067:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N GENERALSECT_REACTION_NORM_NOT_EXECUTION_ALREADY_HAPPENED。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N GENERALSECT_REACTION_NORM_NOT_EXECUTION_ALREADY_HAPPENED。",
+            "focalizer": "plaza_listeners_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N GENERALSECT_REACTION_NORM_NOT_EXECUTION_ALREADY_HAPPENED。"
+      },
+      {
+        "reference": "v01-c0008:p0068",
+        "length": 62,
+        "sha256": "a7026138f9a71493445b8cec31dc08b80174d56c3937f296221addf1eca3206e",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0068:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N Mmodern_FAMILIAR_TIAN_YAO_HUNTIAN_SHENGMO_NAMES_PRIVATE_RECOGNITION_NOT_ALREADY_MASTERY。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N Mmodern_FAMILIAR_TIAN_YAO_HUNTIAN_SHENGMO_NAMES_PRIVATE_RECOGNITION_NOT_ALREADY_MASTERY。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N Mmodern_FAMILIAR_TIAN_YAO_HUNTIAN_SHENGMO_NAMES_PRIVATE_RECOGNITION_NOT_ALREADY_MASTERY。"
+      },
+      {
+        "reference": "v01-c0008:p0069",
+        "length": 57,
+        "sha256": "ffe94c97cf985c1075399801d78686c3e091d11fd02dd4100f353342a20e93fe",
+        "units": [
+          {
+            "unit_id": "v01-c0008:p0069:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N WRITTEN_PRICE_RANGE_YIJIN150000_RULAI_ANDOTHERS1M_NOT_PURCHASE_OR_GRANT。",
+            "world_context": "EARLY_v01c8_UNKNOWN_PLAZA_WAKE_MABBOTDEATH_ONLY_DREAM_QSHAOLIN_THEORY_UNCONFIRMED_QIXIA_YANWUJIANG_QIZHENGYAN_INTRO_UNSEEN_SIXVOICE_DECLARATIONS_NOT_WRITTEN_UI_JREADS7SWORDS_M89INNER_RECOGNITION_NO_PURCHASE_NO_TRUE_CONTROLLER_KNOWN",
+            "stage_context": "S03_backfill_WRITTEN_catalogue_distinct_from_Jreading_QZcomments_Minner89shock",
+            "channel": "narrated_UI_appearance_or_written_list_NOT_SIXVOICE",
+            "fact_status": "earlychapter_dream_distinct_from_actual_plaza_claims_and_declarations_unverified_controller_writtencatalogue_and_quoted_readers_no_purchase_or_rankadvance",
+            "knowledge_boundary": "N WRITTEN_PRICE_RANGE_YIJIN150000_RULAI_ANDOTHERS1M_NOT_PURCHASE_OR_GRANT。",
+            "focalizer": "plaza_listeners_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N WRITTEN_PRICE_RANGE_YIJIN150000_RULAI_ANDOTHERS1M_NOT_PURCHASE_OR_GRANT。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0008",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S03",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 31,
+        "label": "梦惊转陌生现实、同伴渐显与未经证实的指控",
+        "direction": "1/2方丈掌杀仅噩梦，孟醒颤与6是否仍梦的疑惑不配真实方丈出场。3未署名清脆女声留声位未知、江候选待核，不为图方便宣布唯一身份。清景怒吼追少林罪，张稳查雕像后，江护住孟但未知全案。戚夏14依据张15回应选单人招呼，不让两人合念；她的干练、言无疆强身怯态后借三小姐稍稳、齐正言沉凝礼貌依次展开，铁面具只比喻。19/23赌场名原天字/天子差异记疑，言自报赢银不补赌局唱曲场景。28张不解选人标准属于张视角，不一切都转孟内。"
+      },
+      {
+        "paragraph_start": 32,
+        "paragraph_end": 47,
+        "label": "钟声后无形冷声，人物各自判断而非立即信服",
+        "direction": "32钟响声效与34起宏大冰冷宣告分离；六道只声无身，性别与幕后人不预指定。清景37质问扑空42按柄追问不画真实对手，江张39专注目亮与40对视摇头不加电击或新感知台词。六道43规则44回归是未来承诺，不叙事已完成任务。41孟无源疑问、45画风错位无限流串想内响，46清景仅第一问出声、后神秘人概念N；保不同怀疑节奏。"
+      },
+      {
+        "paragraph_start": 48,
+        "paragraph_end": 69,
+        "label": "静默功法榜、读榜声与宗门警惕",
+        "direction": "48六道沉默，49神掌价格只光幕字，用停顿留众人反应而非六道播报整页；50神掌引语按群体内在惊异、不能强配齐声。52只有江明确激动念第二行截天缺三六、54清景先讥55渐信56江剑梦焕亮，57历史祖师叹息仍叙述。58八九价格字与孟看见动作分，59清景问不识只首引号，61/62孟内心狂喊不外喊。65张可低声评全本边界待核，江握剑与66秘传外泄警惕；末名录缺页价格皆陈列，不提前拿到手、兑换或给修为。"
+      }
+    ],
+    "knowledge_rule": "abbotkill is dream; transportcontroller and unnamed opening female voice remain unresolved; actual Six declarations, silent UI lines, Jiang reading and Meng inner 89recognition stay separate; no exchange completed"
+  },
+  "reading_batch": "reread-v01-0008"
 }
