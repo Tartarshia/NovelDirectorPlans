@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟江早期背负与有限协同](early-meng-jiang-carrying-trust-limited-coordination.md) | 第13章历史归属回补 |
+| [葛崇山援军与江芷微半真半假交涉](early-ge-aidparty-cover-story-real-su-name.md) | 第13章历史归属回补 |
+| [戚夏幸免口述、提示规则与清景断首](early-qixia-liu-report-prompt-rule-qingjing-head.md) | 第13章历史归属回补 |
 | [第十二章初战错位：新手迟缓、程永理智与江的口令](early-firstbattle-novice-latency-cheng-controlled-humanreason.md) | 第12章历史归属回补 |
 | [第十二章孟奇第一胜：弃刀换拳与恐惧释放](early-meng-releaseknife-luohan-fist-firstkill-exhaustion.md) | 第12章历史归属回补 |
 | [第十二章血字奖励：拯救的反义感与路线重估](early-bloodtext-sidequest-reward-jiang-concern-for-qixia.md) | 第12章历史归属回补 |
