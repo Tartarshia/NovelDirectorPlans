@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [反向双袭、谭麻身份与孟江协作限制](early-double-ambush-white-tan-grey-ma-injuries.md) | 第14章历史归属回补 |
+| [张远山口述清景之死与孟奇兔死狐悲](early-zhang-qingjing-report-meng-fellow-mortality.md) | 第14章历史归属回补 |
+| [麻良翰受制求死、撞剑与影字奖励](early-ma-capture-plea-fatal-collision-shadow-reward.md) | 第14章历史归属回补 |
 | [孟江早期背负与有限协同](early-meng-jiang-carrying-trust-limited-coordination.md) | 第13章历史归属回补 |
 | [葛崇山援军与江芷微半真半假交涉](early-ge-aidparty-cover-story-real-su-name.md) | 第13章历史归属回补 |
 | [戚夏幸免口述、提示规则与清景断首](early-qixia-liu-report-prompt-rule-qingjing-head.md) | 第13章历史归属回补 |
