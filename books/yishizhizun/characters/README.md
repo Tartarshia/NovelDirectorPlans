@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [公开陌生掩护、孟初闻戚死与知识缺口](early-public-stranger-cover-meng-learns-qixia-death.md) | 第21章历史归属回补 |
+| [杂役羡慕、隐秘点头与真言真慧](early-choremonk-envy-hidden-nods-zhenyan-hui-literal.md) | 第21章历史归属回补 |
+| [真慧专一与玄苦玄痴明日转院令](early-zhenhui-focus-xuanku-xuanchi-tomorrow-transfer.md) | 第21章历史归属回补 |
 | [戚夏求援、临终私想与父亲救援失败](early-qixia-disclosure-final-thoughts-father-failed-rescue.md) | 第20章历史归属回补 |
 | [仙迹神话既往遭遇与未定组织关系](early-xianji-shenhua-reports-aliases-unknown-identities.md) | 第20章历史归属回补 |
 | [张远山修正救援怀疑与未释传闻](early-zhang-revised-rescue-suspicion-unexplained-rumor.md) | 第20章历史归属回补 |
