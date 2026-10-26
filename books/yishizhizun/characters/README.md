@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [德光门前待准、半日期限与布局疑问](early-deguang-gatewait-no-taskreward.md) | 第32章历史归属回补 |
+| [魏无忌豪爽名望、假婚约与张公子地方传闻](early-weiwuji-local-zhang-age-reports-fiancee-cover.md) | 第32章历史归属回补 |
+| [张远山预备清茶与孟奇少年酒呛](early-zhang-teacare-meng-childbody-winecough.md) | 第32章历史归属回补 |
 | [雨战浅箭到深刀、齐正言驰援](early-meng-rainbattle-deepwound-qirescue.md) | 第31章历史归属回补 |
 | [小紫呼小桑与顾小桑警告仅名](early-xiaozi-xiaosang-dream-warning-not-identity-proof.md) | 第31章历史归属回补 |
 | [向辉形貌返回与面伤自述待证](early-returned-xianghui-facewound-selfreport-unverified.md) | 第31章历史归属回补 |
