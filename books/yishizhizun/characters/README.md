@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [知铁布衫后的败局与一步奇位再胜](early-zhenmiao-knownshirt-loss-onestep-counter.md) | 第26章历史归属回补 |
+| [真永借名玩笑与原文疑名严格区分](early-meng-borrowed-zhenyong-name-not-source-error.md) | 第26章历史归属回补 |
+| [月余输多胜少与后山外围任务待行](early-meng-month-training-upperhall-outer-guard.md) | 第26章历史归属回补 |
 | [少林心法已学与神行八步初摸](early-meng-shaolinmethod-shenxing-firsthint.md) | 第25章历史归属回补 |
 | [真量殿规欺弱与戒律院哥哥传闻](early-zhenliang-hallrule-brother-rumor.md) | 第25章历史归属回补 |
 | [原话回敬真量、实战胜出不等教化](early-meng-mirrored-challenge-not-bully-reform.md) | 第25章历史归属回补 |
