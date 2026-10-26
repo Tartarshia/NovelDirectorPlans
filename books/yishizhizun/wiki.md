@@ -4,6 +4,10 @@
 
 查阅入口：[按角色与分卷整理的阶段索引](characters/README.md)。连续增补保留为历史证据，当前状态以阶段卡及其证据时点为准。
 
+## 早期归属回补2：第二章《空门》
+
+实际剃度与暂时心静、三僧同室安排用意未知、双玉及童真饭点错拍；新增历史卡与细指导，归属待618、复读回执待18。[复核](reviews/review-backfill-v01-0002.md)。当前人物头不回退。
+
 ## 早期归属回补1：第一章《机心》
 
 79段新全文复读完成，119单元79注释；孟初醒机心、二玄声线与童名分院，原场界后证保。[回补复核](reviews/review-backfill-v01-0001.md)、[第一章历史卡](characters/early-meng-waking-adultmind-youngbody-name-ruse-fails.md)。这是回看首章而非新纪人物回退。

@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第二章剃度：仪式、暂静与还俗愿望](early-monastic-shaving-rules-youngbody-not-detachment.md) | 第二章历史归属回补 |
+| [第二章三僧与同室安排：姿态差异、动机未明](early-xuanxin-room-arrangement-xuanzang-motive-unresolved.md) | 第二章历史归属回补 |
+| [第二章室友与师弟：冷淡、沉默和认真误解](early-zhenguan-zhenying-dinner-zhenhui-literal-humour.md) | 第二章历史归属回补 |
 | [第一章孟奇：成人心智与幼身、机智应答失效](early-meng-waking-adultmind-youngbody-name-ruse-fails.md) | 首章历史归属回补 |
 | [第一章玄藏与玄苦：明确声线及询名制度](early-xuancang-xuanku-distinct-voices-not-omniscience.md) | 首章历史归属回补 |
 | [第一章方阿七／真慧与刘治／真德：坦诚和社交](early-fang-aqi-zhenhui-liuzhi-zhende-truth-status.md) | 首章历史归属回补 |
