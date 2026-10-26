@@ -41,6 +41,2601 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
-  "full_book_review": "pending"
+  "line_level_attribution": "reviewed_with_open_questions",
+  "full_book_review": "pending",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0020",
+    "full_book_consistency": "pending"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0020:p0001",
+        "length": 121,
+        "sha256": "bdd142411c68feaaacc2bde45bda51a9ad5c4f34f4c0bf1720bbabdf538316ea",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0001:u001",
+            "start": 0,
+            "end": 121,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ZREMEMBERS_QIXIA_TANGHUA_INTEREST_NO_NEW_Q_REPEATED_LINE_OR_ALREADY_NACTOR_KNOWS_HER_FULL_MOTIVE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N ZREMEMBERS_QIXIA_TANGHUA_INTEREST_NO_NEW_Q_REPEATED_LINE_OR_ALREADY_NACTOR_KNOWS_HER_FULL_MOTIVE。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ZREMEMBERS_QIXIA_TANGHUA_INTEREST_NO_NEW_Q_REPEATED_LINE_OR_ALREADY_NACTOR_KNOWS_HER_FULL_MOTIVE。"
+      },
+      {
+        "reference": "v01-c0020:p0002",
+        "length": 38,
+        "sha256": "d15e83fb34286d7250498bb4bf6008e0dd5bbdfafaae1363fb67fef387fd31e7",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0002:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z PRIVATE_SURPRISE_QDECIDED_BEFORE_HIM_NOT_ALREADY_JDECIDED_REVEAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PRIVATE_SURPRISE_QDECIDED_BEFORE_HIM_NOT_ALREADY_JDECIDED_REVEAL。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z PRIVATE_SURPRISE_QDECIDED_BEFORE_HIM_NOT_ALREADY_JDECIDED_REVEAL。"
+      },
+      {
+        "reference": "v01-c0020:p0003",
+        "length": 18,
+        "sha256": "524cbd58aa2a8fd0bd70cf605bfb8394e2d61489a66cd00138afcd6add774c26",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0003:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z PRIVATE_WAS_HAPPINESS_FAKE_QUESTION_NOT_NCONFIRMS_SHE_FAKED_ALL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PRIVATE_WAS_HAPPINESS_FAKE_QUESTION_NOT_NCONFIRMS_SHE_FAKED_ALL。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z PRIVATE_WAS_HAPPINESS_FAKE_QUESTION_NOT_NCONFIRMS_SHE_FAKED_ALL。"
+      },
+      {
+        "reference": "v01-c0020:p0004",
+        "length": 28,
+        "sha256": "beb6928467f877f27ccf49797cee1153be4cd0411205266be1342db184b3332a",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0004:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z PRIVATE_REVISES_MAYBE_REAL_JOY_BUT_ESCAPE_DECISION_STRONGER_NOT_QACTUAL_PUBLIC_EXPLANATION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PRIVATE_REVISES_MAYBE_REAL_JOY_BUT_ESCAPE_DECISION_STRONGER_NOT_QACTUAL_PUBLIC_EXPLANATION。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z PRIVATE_REVISES_MAYBE_REAL_JOY_BUT_ESCAPE_DECISION_STRONGER_NOT_QACTUAL_PUBLIC_EXPLANATION。"
+      },
+      {
+        "reference": "v01-c0020:p0005",
+        "length": 31,
+        "sha256": "324cf93e05ea22068d837bcf0e7d10c16bead9c4277bf120e9c96bf4f81a1d2d",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0005:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K actual_INVITES_QREPORT_NFOHAO_SUMMARIZED_NOT_EXTRA_EXACT_RECITATION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_INVITES_QREPORT_NFOHAO_SUMMARIZED_NOT_EXTRA_EXACT_RECITATION。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0005:u002",
+            "start": 23,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K actual_INVITES_QREPORT_NFOHAO_SUMMARIZED_NOT_EXTRA_EXACT_RECITATION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_INVITES_QREPORT_NFOHAO_SUMMARIZED_NOT_EXTRA_EXACT_RECITATION。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K actual_INVITES_QREPORT_NFOHAO_SUMMARIZED_NOT_EXTRA_EXACT_RECITATION。"
+      },
+      {
+        "reference": "v01-c0020:p0006",
+        "length": 36,
+        "sha256": "36a7474728521866ff2d34d2d71d8902d339ee85b16ca05fee9782cc6c45a06f",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0006:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D actual_ANGRY_CULPRIT_REQUEST_TO_Q_NOT_ALREADY_KNOWS_SIX。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_ANGRY_CULPRIT_REQUEST_TO_Q_NOT_ALREADY_KNOWS_SIX。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0006:u002",
+            "start": 8,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "D actual_ANGRY_CULPRIT_REQUEST_TO_Q_NOT_ALREADY_KNOWS_SIX。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_ANGRY_CULPRIT_REQUEST_TO_Q_NOT_ALREADY_KNOWS_SIX。",
+            "focalizer": "shou_zhuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "D actual_ANGRY_CULPRIT_REQUEST_TO_Q_NOT_ALREADY_KNOWS_SIX。"
+      },
+      {
+        "reference": "v01-c0020:p0007",
+        "length": 134,
+        "sha256": "3316cf3cea2c1fd050c0faf4c850a17b2fd71c5ede48ac3eae61a2fa86362d65",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0007:u001",
+            "start": 0,
+            "end": 134,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N QYUANTONG_FATHER_NAMED_ELDERS_PUZZLED_HOW_QNOTICE_NOT_ANY_CURRENT_SPEECH。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N QYUANTONG_FATHER_NAMED_ELDERS_PUZZLED_HOW_QNOTICE_NOT_ANY_CURRENT_SPEECH。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N QYUANTONG_FATHER_NAMED_ELDERS_PUZZLED_HOW_QNOTICE_NOT_ANY_CURRENT_SPEECH。"
+      },
+      {
+        "reference": "v01-c0020:p0008",
+        "length": 99,
+        "sha256": "1ac847b8341d1ca935a2a149de5cb4073f74fbe4b41d689474ea5b84cef029db",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0008:u001",
+            "start": 0,
+            "end": 99,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ZHIDES_GRIPS_SWORD_JHAND_ONSWORD_OBSERVED_NOT_ALREADYSTOPS_DEATH_OR_NEW_REVEAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N ZHIDES_GRIPS_SWORD_JHAND_ONSWORD_OBSERVED_NOT_ALREADYSTOPS_DEATH_OR_NEW_REVEAL。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ZHIDES_GRIPS_SWORD_JHAND_ONSWORD_OBSERVED_NOT_ALREADYSTOPS_DEATH_OR_NEW_REVEAL。"
+      },
+      {
+        "reference": "v01-c0020:p0009",
+        "length": 163,
+        "sha256": "4b19701f5d3e965c6a7d595aa196f5a68b59895444e372803123f69e9db75926",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0009:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "A SUFFIX_PRIVATE_HOPE_FASHEN_SAVE_EVEN_IF_ABBOT_MASTERMIND_HYPOTHESIS_FATHER_GODWEAPON_PROTECTION_NOT_ZTHOUGHT_OR_REAL_PLAN_CONFIRMED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "A SUFFIX_PRIVATE_HOPE_FASHEN_SAVE_EVEN_IF_ABBOT_MASTERMIND_HYPOTHESIS_FATHER_GODWEAPON_PROTECTION_NOT_ZTHOUGHT_OR_REAL_PLAN_CONFIRMED。",
+            "focalizer": "qi_xia",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0009:u002",
+            "start": 41,
+            "end": 163,
+            "kind": "inner_speech",
+            "speaker": "qi_xia",
+            "surface_identity": "QiXia_Dajiang_daughter_of_QiYuantong",
+            "text_context": "A SUFFIX_PRIVATE_HOPE_FASHEN_SAVE_EVEN_IF_ABBOT_MASTERMIND_HYPOTHESIS_FATHER_GODWEAPON_PROTECTION_NOT_ZTHOUGHT_OR_REAL_PLAN_CONFIRMED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Qixia_PRIVATE_HOPE_OR_FINAL_THOUGHT_NOT_ZHANG",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "A SUFFIX_PRIVATE_HOPE_FASHEN_SAVE_EVEN_IF_ABBOT_MASTERMIND_HYPOTHESIS_FATHER_GODWEAPON_PROTECTION_NOT_ZTHOUGHT_OR_REAL_PLAN_CONFIRMED。",
+            "embodiment": "alive_at_disclosure_then_body_attack_before_death16_NOT_RETURN_PORTAL",
+            "delivery": "private_rescue_expectation_fast_incomplete_report_then_final_bitterness_and_shock",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "A SUFFIX_PRIVATE_HOPE_FASHEN_SAVE_EVEN_IF_ABBOT_MASTERMIND_HYPOTHESIS_FATHER_GODWEAPON_PROTECTION_NOT_ZTHOUGHT_OR_REAL_PLAN_CONFIRMED。"
+      },
+      {
+        "reference": "v01-c0020:p0010",
+        "length": 43,
+        "sha256": "272ba6278fb637ddece6d2df443669f5bfbaf386d472373d60a97f37b5da2098",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0010:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_xia",
+            "surface_identity": "QiXia_Dajiang_daughter_of_QiYuantong",
+            "text_context": "A actual_INCOMPLETE_PUBLIC_REPORT_ENDS_AT_LIU_NO_EXPANDED_FULL_SIXNAME_OR_FULL_WORLDREVELATION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "actual_Qixia_INCOMPLETE_REPORT_STOPS_LIU",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "A actual_INCOMPLETE_PUBLIC_REPORT_ENDS_AT_LIU_NO_EXPANDED_FULL_SIXNAME_OR_FULL_WORLDREVELATION。",
+            "embodiment": "alive_at_disclosure_then_body_attack_before_death16_NOT_RETURN_PORTAL",
+            "delivery": "private_rescue_expectation_fast_incomplete_report_then_final_bitterness_and_shock",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0010:u002",
+            "start": 18,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "A actual_INCOMPLETE_PUBLIC_REPORT_ENDS_AT_LIU_NO_EXPANDED_FULL_SIXNAME_OR_FULL_WORLDREVELATION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "A actual_INCOMPLETE_PUBLIC_REPORT_ENDS_AT_LIU_NO_EXPANDED_FULL_SIXNAME_OR_FULL_WORLDREVELATION。",
+            "focalizer": "qi_xia",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "A actual_INCOMPLETE_PUBLIC_REPORT_ENDS_AT_LIU_NO_EXPANDED_FULL_SIXNAME_OR_FULL_WORLDREVELATION。"
+      },
+      {
+        "reference": "v01-c0020:p0011",
+        "length": 58,
+        "sha256": "239a01812c7bf6959215c03751fa7fb9d8b57f049e5c7704155bbcb312445a43",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0011:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N QHEARTVIOLENT_BLOODPRESSURE_AIRLESS_BODY_SYMPTOMS_NOT_NEW_DIALOGUE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N QHEARTVIOLENT_BLOODPRESSURE_AIRLESS_BODY_SYMPTOMS_NOT_NEW_DIALOGUE。",
+            "focalizer": "qi_xia",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N QHEARTVIOLENT_BLOODPRESSURE_AIRLESS_BODY_SYMPTOMS_NOT_NEW_DIALOGUE。"
+      },
+      {
+        "reference": "v01-c0020:p0012",
+        "length": 2,
+        "sha256": "f20bb67b0ed524103cea170f1554099e3d318a79e60fc55e09d14fa398c361c3",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0012:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N BANG_PERCEPTUAL_EVENT_NOT_SIX_PUNISHMENT_ANNOUNCEMENT。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N BANG_PERCEPTUAL_EVENT_NOT_SIX_PUNISHMENT_ANNOUNCEMENT。",
+            "focalizer": "qi_xia",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N BANG_PERCEPTUAL_EVENT_NOT_SIX_PUNISHMENT_ANNOUNCEMENT。"
+      },
+      {
+        "reference": "v01-c0020:p0013",
+        "length": 95,
+        "sha256": "a7b589d608fdbc519a6af786c1959f6bf23a7721a7be25d56274d396532b485b",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0013:u001",
+            "start": 0,
+            "end": 95,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N QFADING_PERCEPTION_BUDDHALIGHT_HAND_TRIES_SAVE_SWORD_VOIDTHREECUN_NOT_SUCCESS_OR_PRECISE_TRUE_CONTROLLER_SHOWN。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N QFADING_PERCEPTION_BUDDHALIGHT_HAND_TRIES_SAVE_SWORD_VOIDTHREECUN_NOT_SUCCESS_OR_PRECISE_TRUE_CONTROLLER_SHOWN。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N QFADING_PERCEPTION_BUDDHALIGHT_HAND_TRIES_SAVE_SWORD_VOIDTHREECUN_NOT_SUCCESS_OR_PRECISE_TRUE_CONTROLLER_SHOWN。"
+      },
+      {
+        "reference": "v01-c0020:p0014",
+        "length": 27,
+        "sha256": "09f242c0ad9e692435eced98c2f48874f345708ef73baa9193226ffb7d7a4e24",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0014:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "inner_speech",
+            "speaker": "qi_xia",
+            "surface_identity": "QiXia_Dajiang_daughter_of_QiYuantong",
+            "text_context": "A QUOTED_PRIVATE_FINAL_REALIZES_SIX_DARES_STRIKE_NOT_Z_OR_PUBLIC_SIXVOICE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Qixia_PRIVATE_HOPE_OR_FINAL_THOUGHT_NOT_ZHANG",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "A QUOTED_PRIVATE_FINAL_REALIZES_SIX_DARES_STRIKE_NOT_Z_OR_PUBLIC_SIXVOICE。",
+            "embodiment": "alive_at_disclosure_then_body_attack_before_death16_NOT_RETURN_PORTAL",
+            "delivery": "private_rescue_expectation_fast_incomplete_report_then_final_bitterness_and_shock",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "A QUOTED_PRIVATE_FINAL_REALIZES_SIX_DARES_STRIKE_NOT_Z_OR_PUBLIC_SIXVOICE。"
+      },
+      {
+        "reference": "v01-c0020:p0015",
+        "length": 12,
+        "sha256": "21c226048acaf7d6c2fb2c24689169b6c233911d735faa2d3e7a812296f39d93",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0015:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "qi_xia",
+            "surface_identity": "QiXia_Dajiang_daughter_of_QiYuantong",
+            "text_context": "A QUOTED_PRIVATE_FINAL_TOO_LATE_REGRET_NOT_ZTHOUGHT_OR_JAPOLOGY。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Qixia_PRIVATE_HOPE_OR_FINAL_THOUGHT_NOT_ZHANG",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "A QUOTED_PRIVATE_FINAL_TOO_LATE_REGRET_NOT_ZTHOUGHT_OR_JAPOLOGY。",
+            "embodiment": "alive_at_disclosure_then_body_attack_before_death16_NOT_RETURN_PORTAL",
+            "delivery": "private_rescue_expectation_fast_incomplete_report_then_final_bitterness_and_shock",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "A QUOTED_PRIVATE_FINAL_TOO_LATE_REGRET_NOT_ZTHOUGHT_OR_JAPOLOGY。"
+      },
+      {
+        "reference": "v01-c0020:p0016",
+        "length": 34,
+        "sha256": "c4108b0509ac38b42c3cb2c0dcd72dbc4f75f16e5873c9d522238d82c561da8e",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0016:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N QDIES_FALLS_BITTER_REGRET_SHOCK_NOT_EXIT_PORTAL_OR_SUCCESSFUL_HEAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N QDIES_FALLS_BITTER_REGRET_SHOCK_NOT_EXIT_PORTAL_OR_SUCCESSFUL_HEAL。",
+            "focalizer": "qi_xia",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N QDIES_FALLS_BITTER_REGRET_SHOCK_NOT_EXIT_PORTAL_OR_SUCCESSFUL_HEAL。"
+      },
+      {
+        "reference": "v01-c0020:p0017",
+        "length": 63,
+        "sha256": "bba054d113c21d52d6a084a142e4d7a40f95da6d7c6128b93216b4275933a143",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0017:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_yuantong",
+            "surface_identity": "QiYuantong_Qixia_father_Dajiang_elder",
+            "text_context": "F actual_DAUGHTER_CALL_THEN_NCATCH_QIPOUR_NO_RESPONSE_NOT_REVIVAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "actual_QiYuantong_call_or_revenge_vow",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "F actual_DAUGHTER_CALL_THEN_NCATCH_QIPOUR_NO_RESPONSE_NOT_REVIVAL。",
+            "embodiment": "whitehaired_fisherpoetlike_catches_daughter_Qi_no_response_then_searches_papers",
+            "delivery": "raw_grief_daughtercall_then_suppressed_fury_vow",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0017:u002",
+            "start": 5,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "F actual_DAUGHTER_CALL_THEN_NCATCH_QIPOUR_NO_RESPONSE_NOT_REVIVAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "F actual_DAUGHTER_CALL_THEN_NCATCH_QIPOUR_NO_RESPONSE_NOT_REVIVAL。",
+            "focalizer": "qi_yuantong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "F actual_DAUGHTER_CALL_THEN_NCATCH_QIPOUR_NO_RESPONSE_NOT_REVIVAL。"
+      },
+      {
+        "reference": "v01-c0020:p0018",
+        "length": 67,
+        "sha256": "7ba18bb3fded868e01de6057e27b24f63f3cd2b7bc30ba159a54f69788d1dc51",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0018:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N JSHOCK_SU_RETRACTS_SWORD_FOCUSED_GRAVE_NOT_SU_ALREADY_NAMES_KILLER。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N JSHOCK_SU_RETRACTS_SWORD_FOCUSED_GRAVE_NOT_SU_ALREADY_NAMES_KILLER。",
+            "focalizer": "su_wuming",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N JSHOCK_SU_RETRACTS_SWORD_FOCUSED_GRAVE_NOT_SU_ALREADY_NAMES_KILLER。"
+      },
+      {
+        "reference": "v01-c0020:p0019",
+        "length": 53,
+        "sha256": "6273eca93c8e1975d90f81245af5105e272e6f6a49ef3a707306be589e2e2f9d",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0019:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K actual_CLAIMS_LATE_SURPRISED_FACE_NOT_NCONFIRMS_FAKE_OR_TRUE_INNOCENCE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_CLAIMS_LATE_SURPRISED_FACE_NOT_NCONFIRMS_FAKE_OR_TRUE_INNOCENCE。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0019:u002",
+            "start": 14,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K actual_CLAIMS_LATE_SURPRISED_FACE_NOT_NCONFIRMS_FAKE_OR_TRUE_INNOCENCE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_CLAIMS_LATE_SURPRISED_FACE_NOT_NCONFIRMS_FAKE_OR_TRUE_INNOCENCE。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K actual_CLAIMS_LATE_SURPRISED_FACE_NOT_NCONFIRMS_FAKE_OR_TRUE_INNOCENCE。"
+      },
+      {
+        "reference": "v01-c0020:p0020",
+        "length": 74,
+        "sha256": "47cdbfa2d12fa0dcdb770a8a047f604cb8ea38e7b75e9a5c2bd9494e041db9e5",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0020:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z PREFIX_PRIVATE_OLD_HYPOTHESIS_ECHO_NFRAME_FEARS_RELIEF_GUILT_NOT_KONGWEN_LIVEADMISSION_FAKING。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PREFIX_PRIVATE_OLD_HYPOTHESIS_ECHO_NFRAME_FEARS_RELIEF_GUILT_NOT_KONGWEN_LIVEADMISSION_FAKING。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0020:u002",
+            "start": 13,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z PREFIX_PRIVATE_OLD_HYPOTHESIS_ECHO_NFRAME_FEARS_RELIEF_GUILT_NOT_KONGWEN_LIVEADMISSION_FAKING。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PREFIX_PRIVATE_OLD_HYPOTHESIS_ECHO_NFRAME_FEARS_RELIEF_GUILT_NOT_KONGWEN_LIVEADMISSION_FAKING。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0020:u003",
+            "start": 26,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z PREFIX_PRIVATE_OLD_HYPOTHESIS_ECHO_NFRAME_FEARS_RELIEF_GUILT_NOT_KONGWEN_LIVEADMISSION_FAKING。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PREFIX_PRIVATE_OLD_HYPOTHESIS_ECHO_NFRAME_FEARS_RELIEF_GUILT_NOT_KONGWEN_LIVEADMISSION_FAKING。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z PREFIX_PRIVATE_OLD_HYPOTHESIS_ECHO_NFRAME_FEARS_RELIEF_GUILT_NOT_KONGWEN_LIVEADMISSION_FAKING。"
+      },
+      {
+        "reference": "v01-c0020:p0021",
+        "length": 133,
+        "sha256": "c6984e40a6b0fd7b174e8fcbb2bf01656539c75b734a2aa872ec87130e748781",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0021:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z QUOTED_PRIVATE_REVISES_ABBOT_NOT_GOLDENBODY_MAYBE_REALLY_SURPRISED_NOT_NCONFIRMS_ALIBI。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z QUOTED_PRIVATE_REVISES_ABBOT_NOT_GOLDENBODY_MAYBE_REALLY_SURPRISED_NOT_NCONFIRMS_ALIBI。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0021:u002",
+            "start": 9,
+            "end": 80,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z QUOTED_PRIVATE_REVISES_ABBOT_NOT_GOLDENBODY_MAYBE_REALLY_SURPRISED_NOT_NCONFIRMS_ALIBI。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z QUOTED_PRIVATE_REVISES_ABBOT_NOT_GOLDENBODY_MAYBE_REALLY_SURPRISED_NOT_NCONFIRMS_ALIBI。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0021:u003",
+            "start": 80,
+            "end": 91,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z QUOTED_PRIVATE_REVISES_ABBOT_NOT_GOLDENBODY_MAYBE_REALLY_SURPRISED_NOT_NCONFIRMS_ALIBI。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z QUOTED_PRIVATE_REVISES_ABBOT_NOT_GOLDENBODY_MAYBE_REALLY_SURPRISED_NOT_NCONFIRMS_ALIBI。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0021:u004",
+            "start": 91,
+            "end": 133,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z QUOTED_PRIVATE_REVISES_ABBOT_NOT_GOLDENBODY_MAYBE_REALLY_SURPRISED_NOT_NCONFIRMS_ALIBI。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z QUOTED_PRIVATE_REVISES_ABBOT_NOT_GOLDENBODY_MAYBE_REALLY_SURPRISED_NOT_NCONFIRMS_ALIBI。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z QUOTED_PRIVATE_REVISES_ABBOT_NOT_GOLDENBODY_MAYBE_REALLY_SURPRISED_NOT_NCONFIRMS_ALIBI。"
+      },
+      {
+        "reference": "v01-c0020:p0022",
+        "length": 45,
+        "sha256": "1c735b7617ad8499135bd06a5220b2e3d1824210db65de1507f32230e9d221ee",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0022:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ZGRIEF_AT_LIFELESS_Q_BODY_NOT_REVIVED_OR_NEXT_VICTIM_ACTUAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Qixia_failed_disclosure_death_and_rescue_ambiguity",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N ZGRIEF_AT_LIFELESS_Q_BODY_NOT_REVIVED_OR_NEXT_VICTIM_ACTUAL。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ZGRIEF_AT_LIFELESS_Q_BODY_NOT_REVIVED_OR_NEXT_VICTIM_ACTUAL。"
+      },
+      {
+        "reference": "v01-c0020:p0023",
+        "length": 94,
+        "sha256": "233fa65d30956851eb72dce6bc0269b8b37f8f45681f5c3acfa823e774ff9441",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0023:u001",
+            "start": 0,
+            "end": 94,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N SHOUZHUO_FAILED_SAVE_ANGRY_LOOK_WASABOUT_ACCUSATION_THEN_CALMS_NO_QUOTED_ACCUSATION_OR_EXPLAINED_REASON。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N SHOUZHUO_FAILED_SAVE_ANGRY_LOOK_WASABOUT_ACCUSATION_THEN_CALMS_NO_QUOTED_ACCUSATION_OR_EXPLAINED_REASON。",
+            "focalizer": "shou_zhuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N SHOUZHUO_FAILED_SAVE_ANGRY_LOOK_WASABOUT_ACCUSATION_THEN_CALMS_NO_QUOTED_ACCUSATION_OR_EXPLAINED_REASON。"
+      },
+      {
+        "reference": "v01-c0020:p0024",
+        "length": 78,
+        "sha256": "b0dac835c8191a63751875dd8b2958ab6f4912e2437aa369f8dc5e90bbd527a3",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0024:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K BOTH_QUOTES_ACTUAL_SIMILAR_EVENTS_AND_IF_REMEMBERED_COULD_SAVE_CLAIM_NOT_NVERIFIED_COUNTERFACTUAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K BOTH_QUOTES_ACTUAL_SIMILAR_EVENTS_AND_IF_REMEMBERED_COULD_SAVE_CLAIM_NOT_NVERIFIED_COUNTERFACTUAL。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0024:u002",
+            "start": 29,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K BOTH_QUOTES_ACTUAL_SIMILAR_EVENTS_AND_IF_REMEMBERED_COULD_SAVE_CLAIM_NOT_NVERIFIED_COUNTERFACTUAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K BOTH_QUOTES_ACTUAL_SIMILAR_EVENTS_AND_IF_REMEMBERED_COULD_SAVE_CLAIM_NOT_NVERIFIED_COUNTERFACTUAL。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0024:u003",
+            "start": 36,
+            "end": 78,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K BOTH_QUOTES_ACTUAL_SIMILAR_EVENTS_AND_IF_REMEMBERED_COULD_SAVE_CLAIM_NOT_NVERIFIED_COUNTERFACTUAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K BOTH_QUOTES_ACTUAL_SIMILAR_EVENTS_AND_IF_REMEMBERED_COULD_SAVE_CLAIM_NOT_NVERIFIED_COUNTERFACTUAL。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K BOTH_QUOTES_ACTUAL_SIMILAR_EVENTS_AND_IF_REMEMBERED_COULD_SAVE_CLAIM_NOT_NVERIFIED_COUNTERFACTUAL。"
+      },
+      {
+        "reference": "v01-c0020:p0025",
+        "length": 68,
+        "sha256": "8beea74511418e64b8ef933e573138fd879d2d54f6026c40dd4924dd17f932dc",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0025:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z PREFIX_PRIVATE_SIMILAR_EVENTSQUESTION_THEN_NSTRESS_JLIKE_REACTION_NOT_PUBLIC_SAID。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PREFIX_PRIVATE_SIMILAR_EVENTSQUESTION_THEN_NSTRESS_JLIKE_REACTION_NOT_PUBLIC_SAID。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0025:u002",
+            "start": 8,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z PREFIX_PRIVATE_SIMILAR_EVENTSQUESTION_THEN_NSTRESS_JLIKE_REACTION_NOT_PUBLIC_SAID。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PREFIX_PRIVATE_SIMILAR_EVENTSQUESTION_THEN_NSTRESS_JLIKE_REACTION_NOT_PUBLIC_SAID。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z PREFIX_PRIVATE_SIMILAR_EVENTSQUESTION_THEN_NSTRESS_JLIKE_REACTION_NOT_PUBLIC_SAID。"
+      },
+      {
+        "reference": "v01-c0020:p0026",
+        "length": 21,
+        "sha256": "98b0adabfbb83f62e25706a9885c8de9f2df84c811dbed316efb8ef698b8bed2",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0026:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N OTHER_SIMILAR_SHOCK_HIDES_ZJ_NOT_ALL_ARE_WHEELPARTICIPANTS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N OTHER_SIMILAR_SHOCK_HIDES_ZJ_NOT_ALL_ARE_WHEELPARTICIPANTS。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N OTHER_SIMILAR_SHOCK_HIDES_ZJ_NOT_ALL_ARE_WHEELPARTICIPANTS。"
+      },
+      {
+        "reference": "v01-c0020:p0027",
+        "length": 34,
+        "sha256": "edcca9dd99daab462c3adf6f967ff6c0e2a1ddce29a7c96cf148b0b18e3fc641",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0027:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X actual_REQUEST_DETAILS_FFATHER_BLOODEYES_N_NOT_FQUESTION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_REQUEST_DETAILS_FFATHER_BLOODEYES_N_NOT_FQUESTION。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0027:u002",
+            "start": 7,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_REQUEST_DETAILS_FFATHER_BLOODEYES_N_NOT_FQUESTION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_REQUEST_DETAILS_FFATHER_BLOODEYES_N_NOT_FQUESTION。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_REQUEST_DETAILS_FFATHER_BLOODEYES_N_NOT_FQUESTION。"
+      },
+      {
+        "reference": "v01-c0020:p0028",
+        "length": 96,
+        "sha256": "cc2ddb856bfa9e0635eabb0a18e29b193b5087fe21f1ea023f350a58aeba11b4",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0028:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K actual_XIANJI_SECRETLEAK_DEATHS_REPORTED_POSSIBLE_CURSE_HYPOTHESIS_NOT_QFORMALMEMBER_OR_SIXIDENTITY_CONFIRMED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_XIANJI_SECRETLEAK_DEATHS_REPORTED_POSSIBLE_CURSE_HYPOTHESIS_NOT_QFORMALMEMBER_OR_SIXIDENTITY_CONFIRMED。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0028:u002",
+            "start": 7,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K actual_XIANJI_SECRETLEAK_DEATHS_REPORTED_POSSIBLE_CURSE_HYPOTHESIS_NOT_QFORMALMEMBER_OR_SIXIDENTITY_CONFIRMED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_XIANJI_SECRETLEAK_DEATHS_REPORTED_POSSIBLE_CURSE_HYPOTHESIS_NOT_QFORMALMEMBER_OR_SIXIDENTITY_CONFIRMED。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0028:u003",
+            "start": 28,
+            "end": 96,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K actual_XIANJI_SECRETLEAK_DEATHS_REPORTED_POSSIBLE_CURSE_HYPOTHESIS_NOT_QFORMALMEMBER_OR_SIXIDENTITY_CONFIRMED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_XIANJI_SECRETLEAK_DEATHS_REPORTED_POSSIBLE_CURSE_HYPOTHESIS_NOT_QFORMALMEMBER_OR_SIXIDENTITY_CONFIRMED。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K actual_XIANJI_SECRETLEAK_DEATHS_REPORTED_POSSIBLE_CURSE_HYPOTHESIS_NOT_QFORMALMEMBER_OR_SIXIDENTITY_CONFIRMED。"
+      },
+      {
+        "reference": "v01-c0020:p0029",
+        "length": 74,
+        "sha256": "e53751222c55b3ed4808e07d227b601f7ae591a24e7d74635dba78a9f7e8f5b6",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0029:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X BOTH_QUOTES_ACTUAL_PAST_DOUMU_FIGHT_NEARDEATH_NO_CURRENT_DOUMU_VOICE_OR_REALNAME。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X BOTH_QUOTES_ACTUAL_PAST_DOUMU_FIGHT_NEARDEATH_NO_CURRENT_DOUMU_VOICE_OR_REALNAME。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0029:u002",
+            "start": 6,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X BOTH_QUOTES_ACTUAL_PAST_DOUMU_FIGHT_NEARDEATH_NO_CURRENT_DOUMU_VOICE_OR_REALNAME。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X BOTH_QUOTES_ACTUAL_PAST_DOUMU_FIGHT_NEARDEATH_NO_CURRENT_DOUMU_VOICE_OR_REALNAME。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0029:u003",
+            "start": 36,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X BOTH_QUOTES_ACTUAL_PAST_DOUMU_FIGHT_NEARDEATH_NO_CURRENT_DOUMU_VOICE_OR_REALNAME。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X BOTH_QUOTES_ACTUAL_PAST_DOUMU_FIGHT_NEARDEATH_NO_CURRENT_DOUMU_VOICE_OR_REALNAME。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0029:u004",
+            "start": 47,
+            "end": 74,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X BOTH_QUOTES_ACTUAL_PAST_DOUMU_FIGHT_NEARDEATH_NO_CURRENT_DOUMU_VOICE_OR_REALNAME。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X BOTH_QUOTES_ACTUAL_PAST_DOUMU_FIGHT_NEARDEATH_NO_CURRENT_DOUMU_VOICE_OR_REALNAME。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X BOTH_QUOTES_ACTUAL_PAST_DOUMU_FIGHT_NEARDEATH_NO_CURRENT_DOUMU_VOICE_OR_REALNAME。"
+      },
+      {
+        "reference": "v01-c0020:p0030",
+        "length": 41,
+        "sha256": "b4b40810d39e93e9e0bd8af27c3556ffcb322f02ca95aecd56e7e5d6c324208b",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0030:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D actual_SURPRISED_ASK_DETAILS_NOT_XSELFREPORT。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_SURPRISED_ASK_DETAILS_NOT_XSELFREPORT。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0030:u002",
+            "start": 4,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D actual_SURPRISED_ASK_DETAILS_NOT_XSELFREPORT。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_SURPRISED_ASK_DETAILS_NOT_XSELFREPORT。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0030:u003",
+            "start": 12,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D actual_SURPRISED_ASK_DETAILS_NOT_XSELFREPORT。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_SURPRISED_ASK_DETAILS_NOT_XSELFREPORT。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0030:u004",
+            "start": 24,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "D actual_SURPRISED_ASK_DETAILS_NOT_XSELFREPORT。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_SURPRISED_ASK_DETAILS_NOT_XSELFREPORT。",
+            "focalizer": "shou_zhuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "D actual_SURPRISED_ASK_DETAILS_NOT_XSELFREPORT。"
+      },
+      {
+        "reference": "v01-c0020:p0031",
+        "length": 78,
+        "sha256": "2a75de232f6f8d2f7a08af06ebd89cb55b087e989a15fef3d9d2a620f45a30da",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0031:u001",
+            "start": 0,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N XZhenwu_ADMIN_HEAD_DI_RANK_UNSPECIFIED_SIMILAR_SHOUZHUO_NOT_SHOUJING_DI2。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N XZhenwu_ADMIN_HEAD_DI_RANK_UNSPECIFIED_SIMILAR_SHOUZHUO_NOT_SHOUJING_DI2。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N XZhenwu_ADMIN_HEAD_DI_RANK_UNSPECIFIED_SIMILAR_SHOUZHUO_NOT_SHOUJING_DI2。"
+      },
+      {
+        "reference": "v01-c0020:p0032",
+        "length": 89,
+        "sha256": "792b11b7836b3010b29529df309f7286c8b337ef8732f392c03b934e2797516e",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0032:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_KNOWN_FORMAL_XIANJI_LESS_THAN_OR_EQUAL20_MYTHALIASES_NO_REALNAMES_NOT_ALL_POSSIBLE_AUXMEMBERS_COUNT。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_KNOWN_FORMAL_XIANJI_LESS_THAN_OR_EQUAL20_MYTHALIASES_NO_REALNAMES_NOT_ALL_POSSIBLE_AUXMEMBERS_COUNT。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0032:u002",
+            "start": 69,
+            "end": 89,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_KNOWN_FORMAL_XIANJI_LESS_THAN_OR_EQUAL20_MYTHALIASES_NO_REALNAMES_NOT_ALL_POSSIBLE_AUXMEMBERS_COUNT。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_KNOWN_FORMAL_XIANJI_LESS_THAN_OR_EQUAL20_MYTHALIASES_NO_REALNAMES_NOT_ALL_POSSIBLE_AUXMEMBERS_COUNT。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_KNOWN_FORMAL_XIANJI_LESS_THAN_OR_EQUAL20_MYTHALIASES_NO_REALNAMES_NOT_ALL_POSSIBLE_AUXMEMBERS_COUNT。"
+      },
+      {
+        "reference": "v01-c0020:p0033",
+        "length": 94,
+        "sha256": "1418e968938bbd4aeea0bea83cb3f14ef47bde648e3eca35906c294363139cac",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0033:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_TENYEARSAGO_DOUMU_LIKELY_OUTERPEAK_REPORT_NOT_TODAY_EXACTRANK_PROOF。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_TENYEARSAGO_DOUMU_LIKELY_OUTERPEAK_REPORT_NOT_TODAY_EXACTRANK_PROOF。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0033:u002",
+            "start": 8,
+            "end": 94,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X actual_TENYEARSAGO_DOUMU_LIKELY_OUTERPEAK_REPORT_NOT_TODAY_EXACTRANK_PROOF。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_TENYEARSAGO_DOUMU_LIKELY_OUTERPEAK_REPORT_NOT_TODAY_EXACTRANK_PROOF。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_TENYEARSAGO_DOUMU_LIKELY_OUTERPEAK_REPORT_NOT_TODAY_EXACTRANK_PROOF。"
+      },
+      {
+        "reference": "v01-c0020:p0034",
+        "length": 131,
+        "sha256": "1c0d40a7d5fe6a660f8a27c442b911d75337466425bfbd7ce8e320cbddf59735",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0034:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0034:u002",
+            "start": 13,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0034:u003",
+            "start": 27,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0034:u004",
+            "start": 56,
+            "end": 78,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0034:u005",
+            "start": 78,
+            "end": 131,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。",
+            "focalizer": "shou_zhuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "D ONLY_FIRSTQUOTE_ACTUAL_SECOND_XIANJI_NAME_N_SUSPECTS_SECTPEOPLE_UNDER_ALIASES_ASKS_ART_PROVENANCE_NOT_CONFIRMED_ALL_TRAITORS。"
+      },
+      {
+        "reference": "v01-c0020:p0035",
+        "length": 15,
+        "sha256": "0a52f1c30235f65b6986e22c92da4dfd60c8aa441f67053283d5484585bd372a",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0035:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N DCONTINUES_SUSPECT_SHAOLIN_INSIDER_NOT_NCONFIRMS_IT。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N DCONTINUES_SUSPECT_SHAOLIN_INSIDER_NOT_NCONFIRMS_IT。",
+            "focalizer": "shou_zhuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N DCONTINUES_SUSPECT_SHAOLIN_INSIDER_NOT_NCONFIRMS_IT。"
+      },
+      {
+        "reference": "v01-c0020:p0036",
+        "length": 124,
+        "sha256": "b43db6922bc7843a1d6d4f9dba7b9357eca35666184273a70e7ec34d3e87e3b6",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0036:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_CANNOT_TRACE_REALNAME_ART_LOOKS_LIKE_STARDEITY_DESCENT_FORMULA_LOST_YEARS_REPORT_NO_NEW_MYTH_DEITY_ACTOR。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_CANNOT_TRACE_REALNAME_ART_LOOKS_LIKE_STARDEITY_DESCENT_FORMULA_LOST_YEARS_REPORT_NO_NEW_MYTH_DEITY_ACTOR。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0036:u002",
+            "start": 8,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X actual_CANNOT_TRACE_REALNAME_ART_LOOKS_LIKE_STARDEITY_DESCENT_FORMULA_LOST_YEARS_REPORT_NO_NEW_MYTH_DEITY_ACTOR。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_CANNOT_TRACE_REALNAME_ART_LOOKS_LIKE_STARDEITY_DESCENT_FORMULA_LOST_YEARS_REPORT_NO_NEW_MYTH_DEITY_ACTOR。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0036:u003",
+            "start": 51,
+            "end": 124,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X actual_CANNOT_TRACE_REALNAME_ART_LOOKS_LIKE_STARDEITY_DESCENT_FORMULA_LOST_YEARS_REPORT_NO_NEW_MYTH_DEITY_ACTOR。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_CANNOT_TRACE_REALNAME_ART_LOOKS_LIKE_STARDEITY_DESCENT_FORMULA_LOST_YEARS_REPORT_NO_NEW_MYTH_DEITY_ACTOR。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_CANNOT_TRACE_REALNAME_ART_LOOKS_LIKE_STARDEITY_DESCENT_FORMULA_LOST_YEARS_REPORT_NO_NEW_MYTH_DEITY_ACTOR。"
+      },
+      {
+        "reference": "v01-c0020:p0037",
+        "length": 95,
+        "sha256": "c213e142de953d9df048058b085d50397bc3b0df6ce5084fa72877e307f1c4f7",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0037:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z ONLY_FIRST_AND_THIRDQUOTE_PRIVATE_ARTMEMORY_AND_XIANJI_WHEEL_RELATIONQUESTION_SECOND_SIXNAME_N_PRICES500K_AND80K_NOT_NEW_UI_PURCHASE_OR_CONFIRMED_SAMEORG。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z ONLY_FIRST_AND_THIRDQUOTE_PRIVATE_ARTMEMORY_AND_XIANJI_WHEEL_RELATIONQUESTION_SECOND_SIXNAME_N_PRICES500K_AND80K_NOT_NEW_UI_PURCHASE_OR_CONFIRMED_SAMEORG。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0037:u002",
+            "start": 10,
+            "end": 20,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z ONLY_FIRST_AND_THIRDQUOTE_PRIVATE_ARTMEMORY_AND_XIANJI_WHEEL_RELATIONQUESTION_SECOND_SIXNAME_N_PRICES500K_AND80K_NOT_NEW_UI_PURCHASE_OR_CONFIRMED_SAMEORG。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z ONLY_FIRST_AND_THIRDQUOTE_PRIVATE_ARTMEMORY_AND_XIANJI_WHEEL_RELATIONQUESTION_SECOND_SIXNAME_N_PRICES500K_AND80K_NOT_NEW_UI_PURCHASE_OR_CONFIRMED_SAMEORG。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0037:u003",
+            "start": 20,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z ONLY_FIRST_AND_THIRDQUOTE_PRIVATE_ARTMEMORY_AND_XIANJI_WHEEL_RELATIONQUESTION_SECOND_SIXNAME_N_PRICES500K_AND80K_NOT_NEW_UI_PURCHASE_OR_CONFIRMED_SAMEORG。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z ONLY_FIRST_AND_THIRDQUOTE_PRIVATE_ARTMEMORY_AND_XIANJI_WHEEL_RELATIONQUESTION_SECOND_SIXNAME_N_PRICES500K_AND80K_NOT_NEW_UI_PURCHASE_OR_CONFIRMED_SAMEORG。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0037:u004",
+            "start": 71,
+            "end": 95,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z ONLY_FIRST_AND_THIRDQUOTE_PRIVATE_ARTMEMORY_AND_XIANJI_WHEEL_RELATIONQUESTION_SECOND_SIXNAME_N_PRICES500K_AND80K_NOT_NEW_UI_PURCHASE_OR_CONFIRMED_SAMEORG。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z ONLY_FIRST_AND_THIRDQUOTE_PRIVATE_ARTMEMORY_AND_XIANJI_WHEEL_RELATIONQUESTION_SECOND_SIXNAME_N_PRICES500K_AND80K_NOT_NEW_UI_PURCHASE_OR_CONFIRMED_SAMEORG。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z ONLY_FIRST_AND_THIRDQUOTE_PRIVATE_ARTMEMORY_AND_XIANJI_WHEEL_RELATIONQUESTION_SECOND_SIXNAME_N_PRICES500K_AND80K_NOT_NEW_UI_PURCHASE_OR_CONFIRMED_SAMEORG。"
+      },
+      {
+        "reference": "v01-c0020:p0038",
+        "length": 76,
+        "sha256": "0c2d2c869ff1167417585acffbdca8f9697ed034b06e8c6c107d3f0c146a0162",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0038:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "D actual_INTERNAL_EXPLOSION_EXTERNAL_FORCE_DIAGNOSIS_CURSEORTRACES_AND_PROPOSE_MUTUALCHECK_NOT_CHECK_ALREADY_PASSED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_INTERNAL_EXPLOSION_EXTERNAL_FORCE_DIAGNOSIS_CURSEORTRACES_AND_PROPOSE_MUTUALCHECK_NOT_CHECK_ALREADY_PASSED。",
+            "focalizer": "shou_zhuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0038:u002",
+            "start": 19,
+            "end": 76,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D actual_INTERNAL_EXPLOSION_EXTERNAL_FORCE_DIAGNOSIS_CURSEORTRACES_AND_PROPOSE_MUTUALCHECK_NOT_CHECK_ALREADY_PASSED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_INTERNAL_EXPLOSION_EXTERNAL_FORCE_DIAGNOSIS_CURSEORTRACES_AND_PROPOSE_MUTUALCHECK_NOT_CHECK_ALREADY_PASSED。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "D actual_INTERNAL_EXPLOSION_EXTERNAL_FORCE_DIAGNOSIS_CURSEORTRACES_AND_PROPOSE_MUTUALCHECK_NOT_CHECK_ALREADY_PASSED。"
+      },
+      {
+        "reference": "v01-c0020:p0039",
+        "length": 59,
+        "sha256": "882207343c6ae83b865d616975b16cee2d8ee14edf5338a399dac0ebdddd7363",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0039:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "U actual_DEEPLY_HIDDEN_NEED_SPECIFICMETHOD_NOT_CURRENT_DETECTED_MARK。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "U actual_DEEPLY_HIDDEN_NEED_SPECIFICMETHOD_NOT_CURRENT_DETECTED_MARK。",
+            "focalizer": "su_wuming",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0039:u002",
+            "start": 25,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "su_wuming",
+            "surface_identity": "SuWuming_Xijian_master_not_Dongwanggong_alias",
+            "text_context": "U actual_DEEPLY_HIDDEN_NEED_SPECIFICMETHOD_NOT_CURRENT_DETECTED_MARK。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_SuWuming_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "U actual_DEEPLY_HIDDEN_NEED_SPECIFICMETHOD_NOT_CURRENT_DETECTED_MARK。",
+            "embodiment": "same_younglook_heavyvoice_sword_rescue_then_grave_focus",
+            "delivery": "flat_sparse_direct_reports_no_selfaggrandizing_shout",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "U actual_DEEPLY_HIDDEN_NEED_SPECIFICMETHOD_NOT_CURRENT_DETECTED_MARK。"
+      },
+      {
+        "reference": "v01-c0020:p0040",
+        "length": 33,
+        "sha256": "c86cb816a80b3f894bb51ad098d84cf1719191dfd3323920d65aa332767cfc56",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0040:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D actual_GUESS_NOT_ACTION_NO_LONGER_YIELD_NOT_PROOF_SU_ALWAYS_WEAKER。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_GUESS_NOT_ACTION_NO_LONGER_YIELD_NOT_PROOF_SU_ALWAYS_WEAKER。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0040:u002",
+            "start": 15,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "D actual_GUESS_NOT_ACTION_NO_LONGER_YIELD_NOT_PROOF_SU_ALWAYS_WEAKER。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_GUESS_NOT_ACTION_NO_LONGER_YIELD_NOT_PROOF_SU_ALWAYS_WEAKER。",
+            "focalizer": "shou_zhuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "D actual_GUESS_NOT_ACTION_NO_LONGER_YIELD_NOT_PROOF_SU_ALWAYS_WEAKER。"
+      },
+      {
+        "reference": "v01-c0020:p0041",
+        "length": 102,
+        "sha256": "50a07dec0dd0c502e2114bfb175885392d0e6173f11859c3208f0995e46d4739",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0041:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K BOTH_QUOTES_ACTUAL_TAIYI_TRACES_NOTFOUND_WHEN_PREPARED_THEN_NSUMMARY_EVENTS_ASK_SU_EXPERIENCE_NOT_TAIYI_LIVEVOICE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K BOTH_QUOTES_ACTUAL_TAIYI_TRACES_NOTFOUND_WHEN_PREPARED_THEN_NSUMMARY_EVENTS_ASK_SU_EXPERIENCE_NOT_TAIYI_LIVEVOICE。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0041:u002",
+            "start": 57,
+            "end": 89,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K BOTH_QUOTES_ACTUAL_TAIYI_TRACES_NOTFOUND_WHEN_PREPARED_THEN_NSUMMARY_EVENTS_ASK_SU_EXPERIENCE_NOT_TAIYI_LIVEVOICE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K BOTH_QUOTES_ACTUAL_TAIYI_TRACES_NOTFOUND_WHEN_PREPARED_THEN_NSUMMARY_EVENTS_ASK_SU_EXPERIENCE_NOT_TAIYI_LIVEVOICE。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0041:u003",
+            "start": 89,
+            "end": 102,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K BOTH_QUOTES_ACTUAL_TAIYI_TRACES_NOTFOUND_WHEN_PREPARED_THEN_NSUMMARY_EVENTS_ASK_SU_EXPERIENCE_NOT_TAIYI_LIVEVOICE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K BOTH_QUOTES_ACTUAL_TAIYI_TRACES_NOTFOUND_WHEN_PREPARED_THEN_NSUMMARY_EVENTS_ASK_SU_EXPERIENCE_NOT_TAIYI_LIVEVOICE。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K BOTH_QUOTES_ACTUAL_TAIYI_TRACES_NOTFOUND_WHEN_PREPARED_THEN_NSUMMARY_EVENTS_ASK_SU_EXPERIENCE_NOT_TAIYI_LIVEVOICE。"
+      },
+      {
+        "reference": "v01-c0020:p0042",
+        "length": 56,
+        "sha256": "b6ff784e9a83efeeae4ca0862269cc4253ebfade41bf8009e7e41bd3c264182f",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0042:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "U actual_REPORT_SHENHUA_SIMILAR_BUT_XIANJI_ENEMY_MYTHALIASES_NOT_CURRENT_GODS_ALLIDENTIFIED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "U actual_REPORT_SHENHUA_SIMILAR_BUT_XIANJI_ENEMY_MYTHALIASES_NOT_CURRENT_GODS_ALLIDENTIFIED。",
+            "focalizer": "su_wuming",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0042:u002",
+            "start": 8,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "su_wuming",
+            "surface_identity": "SuWuming_Xijian_master_not_Dongwanggong_alias",
+            "text_context": "U actual_REPORT_SHENHUA_SIMILAR_BUT_XIANJI_ENEMY_MYTHALIASES_NOT_CURRENT_GODS_ALLIDENTIFIED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_SuWuming_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "U actual_REPORT_SHENHUA_SIMILAR_BUT_XIANJI_ENEMY_MYTHALIASES_NOT_CURRENT_GODS_ALLIDENTIFIED。",
+            "embodiment": "same_younglook_heavyvoice_sword_rescue_then_grave_focus",
+            "delivery": "flat_sparse_direct_reports_no_selfaggrandizing_shout",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "U actual_REPORT_SHENHUA_SIMILAR_BUT_XIANJI_ENEMY_MYTHALIASES_NOT_CURRENT_GODS_ALLIDENTIFIED。"
+      },
+      {
+        "reference": "v01-c0020:p0043",
+        "length": 37,
+        "sha256": "e0759c8258a1855c7ba5a5874c2b8549606c378d0b2e374b75d216b4d0a7a8e3",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0043:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K actual_ASK_SU_FINDINGS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_ASK_SU_FINDINGS。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0043:u002",
+            "start": 11,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K actual_ASK_SU_FINDINGS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_ASK_SU_FINDINGS。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K actual_ASK_SU_FINDINGS。"
+      },
+      {
+        "reference": "v01-c0020:p0044",
+        "length": 37,
+        "sha256": "59d706228746e7f854ab74fba6e3640c3851e95f45ef76ca53421f045e39bc84",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0044:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "U actual_DONGWANGGONG_ENCOUNTER_COULDNT_STOP_OWNHAND_IMPLIES_KILLED_NOT_TRUE_ANCIENT_DEITY_ID。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "U actual_DONGWANGGONG_ENCOUNTER_COULDNT_STOP_OWNHAND_IMPLIES_KILLED_NOT_TRUE_ANCIENT_DEITY_ID。",
+            "focalizer": "su_wuming",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0044:u002",
+            "start": 15,
+            "end": 37,
+            "kind": "spoken_dialogue",
+            "speaker": "su_wuming",
+            "surface_identity": "SuWuming_Xijian_master_not_Dongwanggong_alias",
+            "text_context": "U actual_DONGWANGGONG_ENCOUNTER_COULDNT_STOP_OWNHAND_IMPLIES_KILLED_NOT_TRUE_ANCIENT_DEITY_ID。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_SuWuming_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "U actual_DONGWANGGONG_ENCOUNTER_COULDNT_STOP_OWNHAND_IMPLIES_KILLED_NOT_TRUE_ANCIENT_DEITY_ID。",
+            "embodiment": "same_younglook_heavyvoice_sword_rescue_then_grave_focus",
+            "delivery": "flat_sparse_direct_reports_no_selfaggrandizing_shout",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "U actual_DONGWANGGONG_ENCOUNTER_COULDNT_STOP_OWNHAND_IMPLIES_KILLED_NOT_TRUE_ANCIENT_DEITY_ID。"
+      },
+      {
+        "reference": "v01-c0020:p0045",
+        "length": 26,
+        "sha256": "758d22ebe6a9a2bf5a3eb771210472af85124d52226f0389f63a32c23871d7f5",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0045:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "hall_youths_shared_focal_v01",
+            "surface_identity": "several_hall_youths_shared_focal_not_one_new_actor",
+            "text_context": "G PREFIX_SHARED_PRIVATE_YOUTHS_WRY_DEATH_INFERENCE_NFRAME_NOT_PUBLIC_GROUPQUESTION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "editorial_youths_shared_private_reaction",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "G PREFIX_SHARED_PRIVATE_YOUTHS_WRY_DEATH_INFERENCE_NFRAME_NOT_PUBLIC_GROUPQUESTION。",
+            "embodiment": "living_young_disciples_hearing_Sureport",
+            "delivery": "editorial_private_wry_inference_not_public_chorus",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0045:u002",
+            "start": 15,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "G PREFIX_SHARED_PRIVATE_YOUTHS_WRY_DEATH_INFERENCE_NFRAME_NOT_PUBLIC_GROUPQUESTION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "G PREFIX_SHARED_PRIVATE_YOUTHS_WRY_DEATH_INFERENCE_NFRAME_NOT_PUBLIC_GROUPQUESTION。",
+            "focalizer": "hall_youths_shared_focal_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "G PREFIX_SHARED_PRIVATE_YOUTHS_WRY_DEATH_INFERENCE_NFRAME_NOT_PUBLIC_GROUPQUESTION。"
+      },
+      {
+        "reference": "v01-c0020:p0046",
+        "length": 18,
+        "sha256": "481e201747bb70813497a9deb0b77cfa161f6bccca09dc900c22c8e8256666f3",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0046:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "su_wuming",
+            "surface_identity": "SuWuming_Xijian_master_not_Dongwanggong_alias",
+            "text_context": "U actual_REPORTED_CORPSE_SELFDESTRUCT_NOT_CURRENT_CORPSE_EXPLODES_IN_HALL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_SuWuming_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "U actual_REPORTED_CORPSE_SELFDESTRUCT_NOT_CURRENT_CORPSE_EXPLODES_IN_HALL。",
+            "embodiment": "same_younglook_heavyvoice_sword_rescue_then_grave_focus",
+            "delivery": "flat_sparse_direct_reports_no_selfaggrandizing_shout",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0046:u002",
+            "start": 10,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "U actual_REPORTED_CORPSE_SELFDESTRUCT_NOT_CURRENT_CORPSE_EXPLODES_IN_HALL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "U actual_REPORTED_CORPSE_SELFDESTRUCT_NOT_CURRENT_CORPSE_EXPLODES_IN_HALL。",
+            "focalizer": "su_wuming",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "U actual_REPORTED_CORPSE_SELFDESTRUCT_NOT_CURRENT_CORPSE_EXPLODES_IN_HALL。"
+      },
+      {
+        "reference": "v01-c0020:p0047",
+        "length": 50,
+        "sha256": "109362c2e5eae7603713ada28c5b4227ca958006169082b85c1e765c9c36ba0b",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0047:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K actual_REPORTED_TAIYI_BODY_RETAINED_TRUE_ID_IMPORTANT_WITHHELD_FOR_LATER_NOT_NAME_REVEALED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_REPORTED_TAIYI_BODY_RETAINED_TRUE_ID_IMPORTANT_WITHHELD_FOR_LATER_NOT_NAME_REVEALED。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0047:u002",
+            "start": 7,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K actual_REPORTED_TAIYI_BODY_RETAINED_TRUE_ID_IMPORTANT_WITHHELD_FOR_LATER_NOT_NAME_REVEALED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_REPORTED_TAIYI_BODY_RETAINED_TRUE_ID_IMPORTANT_WITHHELD_FOR_LATER_NOT_NAME_REVEALED。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K actual_REPORTED_TAIYI_BODY_RETAINED_TRUE_ID_IMPORTANT_WITHHELD_FOR_LATER_NOT_NAME_REVEALED。"
+      },
+      {
+        "reference": "v01-c0020:p0048",
+        "length": 19,
+        "sha256": "f64f4067f08063b48e93c974816cf9f56b9bd90068cc37971b7b898452f4fdd3",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0048:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N CROWD_TOO_MANY_FOR_DETAIL_NOT_ALL_SECRET_DISCUSSION_CONTENT_AVAILABLE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N CROWD_TOO_MANY_FOR_DETAIL_NOT_ALL_SECRET_DISCUSSION_CONTENT_AVAILABLE。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N CROWD_TOO_MANY_FOR_DETAIL_NOT_ALL_SECRET_DISCUSSION_CONTENT_AVAILABLE。"
+      },
+      {
+        "reference": "v01-c0020:p0049",
+        "length": 63,
+        "sha256": "9fe77bc8f8c889cc6d20d9367c7dc29e74b64fa1a4a90552cd1efe51c28bfa73",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0049:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D actual_PROPOSE_JOINT_INVESTIGATION_NOT_ALREADY_ORGS_DESTROYED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_PROPOSE_JOINT_INVESTIGATION_NOT_ALREADY_ORGS_DESTROYED。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0049:u002",
+            "start": 51,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "D actual_PROPOSE_JOINT_INVESTIGATION_NOT_ALREADY_ORGS_DESTROYED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D actual_PROPOSE_JOINT_INVESTIGATION_NOT_ALREADY_ORGS_DESTROYED。",
+            "focalizer": "shou_zhuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "D actual_PROPOSE_JOINT_INVESTIGATION_NOT_ALREADY_ORGS_DESTROYED。"
+      },
+      {
+        "reference": "v01-c0020:p0050",
+        "length": 34,
+        "sha256": "d76c59cdac19697b44be0d0e3c668cb23a7b00e97ebb9ff3f0df473317440c7f",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0050:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K actual_PROMISE_FUTURE_SHARE_AND_NSTAFF_BACK_NOT_ALREADY_ALLFINDINGS_SHARED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_PROMISE_FUTURE_SHARE_AND_NSTAFF_BACK_NOT_ALREADY_ALLFINDINGS_SHARED。",
+            "focalizer": "kong_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0050:u002",
+            "start": 16,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "kong_wen",
+            "surface_identity": "public_abbot_Kongwen_hidden_identity_not_revealed",
+            "text_context": "K actual_PROMISE_FUTURE_SHARE_AND_NSTAFF_BACK_NOT_ALREADY_ALLFINDINGS_SHARED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_public_Kongwen_report_claim_or_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "K actual_PROMISE_FUTURE_SHARE_AND_NSTAFF_BACK_NOT_ALREADY_ALLFINDINGS_SHARED。",
+            "embodiment": "same_public_abbot_Buddhalight_then_no_goldenbody_manifested_here",
+            "delivery": "calm_invitation_then_surprised_late_claim_sober_reports_and_future_share",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K actual_PROMISE_FUTURE_SHARE_AND_NSTAFF_BACK_NOT_ALREADY_ALLFINDINGS_SHARED。"
+      },
+      {
+        "reference": "v01-c0020:p0051",
+        "length": 48,
+        "sha256": "ab4c8c50358b02f91562687af55aff02b514f43af3aa9a9421ae301f4ab1f61b",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0051:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D BOTH_QUOTES_ACTUAL_AGREES_SHARE_THEN_ASK_F_SEARCH_QBELONGINGS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D BOTH_QUOTES_ACTUAL_AGREES_SHARE_THEN_ASK_F_SEARCH_QBELONGINGS。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0051:u002",
+            "start": 8,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "D BOTH_QUOTES_ACTUAL_AGREES_SHARE_THEN_ASK_F_SEARCH_QBELONGINGS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D BOTH_QUOTES_ACTUAL_AGREES_SHARE_THEN_ASK_F_SEARCH_QBELONGINGS。",
+            "focalizer": "shou_zhuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0051:u003",
+            "start": 27,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "shou_zhuo",
+            "surface_identity": "Shouzhuo_Xuantian_elder_not_Shoujing",
+            "text_context": "D BOTH_QUOTES_ACTUAL_AGREES_SHARE_THEN_ASK_F_SEARCH_QBELONGINGS。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Shouzhuo_public_speech",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "D BOTH_QUOTES_ACTUAL_AGREES_SHARE_THEN_ASK_F_SEARCH_QBELONGINGS。",
+            "embodiment": "same_angered_then_checks_diagnosis_and_inquiry_proposal",
+            "delivery": "forceful_questions_suspicion_and_clear_proposal",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "D BOTH_QUOTES_ACTUAL_AGREES_SHARE_THEN_ASK_F_SEARCH_QBELONGINGS。"
+      },
+      {
+        "reference": "v01-c0020:p0052",
+        "length": 79,
+        "sha256": "54fbacda6cf6e7190a02c82479243818589d668ffa942c82d423b5896dc54e54",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0052:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "F ONLY_SECONDQUOTE_ACTUAL_VOW_REVENGE_FIRST_TANGHUA_NFOUND_DRAWING_NOT_PROOF_SHE_REAL_ORGMEMBER。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "F ONLY_SECONDQUOTE_ACTUAL_VOW_REVENGE_FIRST_TANGHUA_NFOUND_DRAWING_NOT_PROOF_SHE_REAL_ORGMEMBER。",
+            "focalizer": "qi_yuantong",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0052:u002",
+            "start": 44,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_yuantong",
+            "surface_identity": "QiYuantong_Qixia_father_Dajiang_elder",
+            "text_context": "F ONLY_SECONDQUOTE_ACTUAL_VOW_REVENGE_FIRST_TANGHUA_NFOUND_DRAWING_NOT_PROOF_SHE_REAL_ORGMEMBER。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_QiYuantong_call_or_revenge_vow",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "F ONLY_SECONDQUOTE_ACTUAL_VOW_REVENGE_FIRST_TANGHUA_NFOUND_DRAWING_NOT_PROOF_SHE_REAL_ORGMEMBER。",
+            "embodiment": "whitehaired_fisherpoetlike_catches_daughter_Qi_no_response_then_searches_papers",
+            "delivery": "raw_grief_daughtercall_then_suppressed_fury_vow",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0052:u003",
+            "start": 59,
+            "end": 79,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_yuantong",
+            "surface_identity": "QiYuantong_Qixia_father_Dajiang_elder",
+            "text_context": "F ONLY_SECONDQUOTE_ACTUAL_VOW_REVENGE_FIRST_TANGHUA_NFOUND_DRAWING_NOT_PROOF_SHE_REAL_ORGMEMBER。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_QiYuantong_call_or_revenge_vow",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "F ONLY_SECONDQUOTE_ACTUAL_VOW_REVENGE_FIRST_TANGHUA_NFOUND_DRAWING_NOT_PROOF_SHE_REAL_ORGMEMBER。",
+            "embodiment": "whitehaired_fisherpoetlike_catches_daughter_Qi_no_response_then_searches_papers",
+            "delivery": "raw_grief_daughtercall_then_suppressed_fury_vow",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "F ONLY_SECONDQUOTE_ACTUAL_VOW_REVENGE_FIRST_TANGHUA_NFOUND_DRAWING_NOT_PROOF_SHE_REAL_ORGMEMBER。"
+      },
+      {
+        "reference": "v01-c0020:p0053",
+        "length": 60,
+        "sha256": "5ba4db92b77c9d13ccf1df6f9aee561872b785a9d76617d5400f615f4105c89f",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0053:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N F_LINKS_NEW_DARKWEAPON_TO_LOST_ARTS_MORE_SURE_ORGS_CAUSE_ONLY_HIS_INFERENCE_NOT_SIX_RELATION_SETTLED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N F_LINKS_NEW_DARKWEAPON_TO_LOST_ARTS_MORE_SURE_ORGS_CAUSE_ONLY_HIS_INFERENCE_NOT_SIX_RELATION_SETTLED。",
+            "focalizer": "qi_yuantong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N F_LINKS_NEW_DARKWEAPON_TO_LOST_ARTS_MORE_SURE_ORGS_CAUSE_ONLY_HIS_INFERENCE_NOT_SIX_RELATION_SETTLED。"
+      },
+      {
+        "reference": "v01-c0020:p0054",
+        "length": 40,
+        "sha256": "4433f99a1ff80a30b7d65f877e5aed28aa3708262205e5f16a38529d78a48811",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0054:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_NO_LEAK_INSTRUCTION_NOT_SIX_SUPERNATURAL_COMMAND。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_NO_LEAK_INSTRUCTION_NOT_SIX_SUPERNATURAL_COMMAND。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0054:u002",
+            "start": 16,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X actual_NO_LEAK_INSTRUCTION_NOT_SIX_SUPERNATURAL_COMMAND。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_NO_LEAK_INSTRUCTION_NOT_SIX_SUPERNATURAL_COMMAND。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_NO_LEAK_INSTRUCTION_NOT_SIX_SUPERNATURAL_COMMAND。"
+      },
+      {
+        "reference": "v01-c0020:p0055",
+        "length": 43,
+        "sha256": "3b6a002d66d3272d83c1475c2a1be1ea14b5863b335b9c88b43645ca2edca003",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0055:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ELITEYOUTHS_ALLOWED_KNOW_THIS_LIMITEDINFO_NOT_FULL_HIDDEN_DISCUSSION。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_Xianji_Shenhua_reports_and_joint_inquiry",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N ELITEYOUTHS_ALLOWED_KNOW_THIS_LIMITEDINFO_NOT_FULL_HIDDEN_DISCUSSION。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ELITEYOUTHS_ALLOWED_KNOW_THIS_LIMITEDINFO_NOT_FULL_HIDDEN_DISCUSSION。"
+      },
+      {
+        "reference": "v01-c0020:p0056",
+        "length": 28,
+        "sha256": "9467e515c8f85e4f3205eccd4a053263ec65e96ccf979cd191c2715ed2c36774",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0056:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z actual_REPLY_TO_SHIBO_NOTHERS_ASSENT_SUMMARIZED_NO_INVENTED_JLINE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "actual_Zhang_reply_or_low_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z actual_REPLY_TO_SHIBO_NOTHERS_ASSENT_SUMMARIZED_NO_INVENTED_JLINE。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0056:u002",
+            "start": 7,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z actual_REPLY_TO_SHIBO_NOTHERS_ASSENT_SUMMARIZED_NO_INVENTED_JLINE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z actual_REPLY_TO_SHIBO_NOTHERS_ASSENT_SUMMARIZED_NO_INVENTED_JLINE。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z actual_REPLY_TO_SHIBO_NOTHERS_ASSENT_SUMMARIZED_NO_INVENTED_JLINE。"
+      },
+      {
+        "reference": "v01-c0020:p0057",
+        "length": 46,
+        "sha256": "c78c2eeccb7a116bd1961637d9988a0aa92348e3ffa0e9d7176e982519687f92",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0057:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ELDERS_PRIVATE_DISCUSS_OFFSCENE_NO_CONTENT_GIVEN_then_RETURN_SOURCE_走向身客居疑衍身保。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N ELDERS_PRIVATE_DISCUSS_OFFSCENE_NO_CONTENT_GIVEN_then_RETURN_SOURCE_走向身客居疑衍身保。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ELDERS_PRIVATE_DISCUSS_OFFSCENE_NO_CONTENT_GIVEN_then_RETURN_SOURCE_走向身客居疑衍身保。"
+      },
+      {
+        "reference": "v01-c0020:p0058",
+        "length": 19,
+        "sha256": "be67f05253ea0de84175cd6c3bda142a16bc3922823db68adc817f69ad6931a8",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0058:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ZSTILL_WORRIED_NOT_NOW_REVEALED_ALL_TO_MASTER。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N ZSTILL_WORRIED_NOT_NOW_REVEALED_ALL_TO_MASTER。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ZSTILL_WORRIED_NOT_NOW_REVEALED_ALL_TO_MASTER。"
+      },
+      {
+        "reference": "v01-c0020:p0059",
+        "length": 20,
+        "sha256": "889f5ed49867647086ff9596bdecad6067b67f41216ae64682123db0a5eb67f9",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0059:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N XLIGHTSIGH_SUMMARY_NOT_NEW_QUOTED_AH。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N XLIGHTSIGH_SUMMARY_NOT_NEW_QUOTED_AH。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N XLIGHTSIGH_SUMMARY_NOT_NEW_QUOTED_AH。"
+      },
+      {
+        "reference": "v01-c0020:p0060",
+        "length": 72,
+        "sha256": "f5c6a7dfee9c5b77d7e1c5bbeae9dfcda7307dad83cad9a567cd1ec3793eae1b",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0060:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z actual_LOW_PRIVATE_QUESTION_ON_WALK_ABBOT_NO_FULLGOLDENBODY_NOT_FORMAL_PUBLIC_TRIAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z actual_LOW_PRIVATE_QUESTION_ON_WALK_ABBOT_NO_FULLGOLDENBODY_NOT_FORMAL_PUBLIC_TRIAL。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0060:u002",
+            "start": 33,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z actual_LOW_PRIVATE_QUESTION_ON_WALK_ABBOT_NO_FULLGOLDENBODY_NOT_FORMAL_PUBLIC_TRIAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "actual_Zhang_reply_or_low_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z actual_LOW_PRIVATE_QUESTION_ON_WALK_ABBOT_NO_FULLGOLDENBODY_NOT_FORMAL_PUBLIC_TRIAL。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0060:u003",
+            "start": 49,
+            "end": 72,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z actual_LOW_PRIVATE_QUESTION_ON_WALK_ABBOT_NO_FULLGOLDENBODY_NOT_FORMAL_PUBLIC_TRIAL。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "actual_Zhang_reply_or_low_question",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z actual_LOW_PRIVATE_QUESTION_ON_WALK_ABBOT_NO_FULLGOLDENBODY_NOT_FORMAL_PUBLIC_TRIAL。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z actual_LOW_PRIVATE_QUESTION_ON_WALK_ABBOT_NO_FULLGOLDENBODY_NOT_FORMAL_PUBLIC_TRIAL。"
+      },
+      {
+        "reference": "v01-c0020:p0061",
+        "length": 21,
+        "sha256": "f1f8003892117ece5a3862bd1d8c0964b6d15a2ff3a06077b178ee8a8ae7251b",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0061:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z PRIVATE_ATLEAST_NO_GOLDENBODY_AS_BOOKS_DESCRIBED_NOT_AUTHOR_VERIFIES_ALL_ABBOT_REALPOWER。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PRIVATE_ATLEAST_NO_GOLDENBODY_AS_BOOKS_DESCRIBED_NOT_AUTHOR_VERIFIES_ALL_ABBOT_REALPOWER。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z PRIVATE_ATLEAST_NO_GOLDENBODY_AS_BOOKS_DESCRIBED_NOT_AUTHOR_VERIFIES_ALL_ABBOT_REALPOWER。"
+      },
+      {
+        "reference": "v01-c0020:p0062",
+        "length": 26,
+        "sha256": "2e687fcb92579bcec5f6cd38917311d5209da723a99a379d5a134f72085d4a32",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0062:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_PRAISE_OBSERVATION_NOT_CONFIRM_SPECIFIC_SIXTRUEIDENTITY。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_PRAISE_OBSERVATION_NOT_CONFIRM_SPECIFIC_SIXTRUEIDENTITY。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0062:u002",
+            "start": 14,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X actual_PRAISE_OBSERVATION_NOT_CONFIRM_SPECIFIC_SIXTRUEIDENTITY。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_PRAISE_OBSERVATION_NOT_CONFIRM_SPECIFIC_SIXTRUEIDENTITY。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_PRAISE_OBSERVATION_NOT_CONFIRM_SPECIFIC_SIXTRUEIDENTITY。"
+      },
+      {
+        "reference": "v01-c0020:p0063",
+        "length": 28,
+        "sha256": "e38a3c79d7e386bb511bc93ab86c6a36846df4fecd4aae686cc3522363cd1d10",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0063:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_RUMOR_TRUE_WHICH_RUMOR_STILL_UNEXPLAINED_NO_NEW_DISCLOSED_CAUSE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_RUMOR_TRUE_WHICH_RUMOR_STILL_UNEXPLAINED_NO_NEW_DISCLOSED_CAUSE。",
+            "focalizer": "xuan_yuanzi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0063:u002",
+            "start": 20,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_yuanzi",
+            "surface_identity": "Xuanyuanzi_Zhenwu_adminhead_not_Xuantian_elder",
+            "text_context": "X actual_RUMOR_TRUE_WHICH_RUMOR_STILL_UNEXPLAINED_NO_NEW_DISCLOSED_CAUSE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "actual_Xuanyuanzi_report_or_low_departure_reply",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "X actual_RUMOR_TRUE_WHICH_RUMOR_STILL_UNEXPLAINED_NO_NEW_DISCLOSED_CAUSE。",
+            "embodiment": "same_hall_master_then_walks_with_Zhang",
+            "delivery": "measured_report_selfdeprecating_near_defeat_then_praise_and_unexplained_rumor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_RUMOR_TRUE_WHICH_RUMOR_STILL_UNEXPLAINED_NO_NEW_DISCLOSED_CAUSE。"
+      },
+      {
+        "reference": "v01-c0020:p0064",
+        "length": 44,
+        "sha256": "c5ca0ce271dd903d644acc97a961c61a91ecd9d9f14a0342ddb906e10c3d7fa1",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0064:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_Zhenwu_companion_NOT_MENG",
+            "text_context": "Z PREFIX_PRIVATE_HUH_EDITORIAL_INNER_CHOICE_NO_SAIDTAG_NFRAME_XDECLINES_EXPLAIN_HEADSHAKE_NOT_NEW_DIALOGUE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "editorial_Z_PRIVATE_thought_NOT_Qixia_final_thought",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PREFIX_PRIVATE_HUH_EDITORIAL_INNER_CHOICE_NO_SAIDTAG_NFRAME_XDECLINES_EXPLAIN_HEADSHAKE_NOT_NEW_DIALOGUE。",
+            "embodiment": "alive_in_hall_anxious_then_leaves_with_Xuanyuanzi",
+            "delivery": "private_surprise_and_riskfear_regret_grief_then_low_direct_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0020:p0064:u002",
+            "start": 2,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Z PREFIX_PRIVATE_HUH_EDITORIAL_INNER_CHOICE_NO_SAIDTAG_NFRAME_XDECLINES_EXPLAIN_HEADSHAKE_NOT_NEW_DIALOGUE。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "Z PREFIX_PRIVATE_HUH_EDITORIAL_INNER_CHOICE_NO_SAIDTAG_NFRAME_XDECLINES_EXPLAIN_HEADSHAKE_NOT_NEW_DIALOGUE。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Z PREFIX_PRIVATE_HUH_EDITORIAL_INNER_CHOICE_NO_SAIDTAG_NFRAME_XDECLINES_EXPLAIN_HEADSHAKE_NOT_NEW_DIALOGUE。"
+      },
+      {
+        "reference": "v01-c0020:p0065",
+        "length": 17,
+        "sha256": "03a7286289584a21f162eac97c4d65e875de06b9df4cb23ad29e988af46bb395",
+        "units": [
+          {
+            "unit_id": "v01-c0020:p0065:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N SNOW_NIGHT_TO_DAWN_NO_NEW_CHARACTER_SPEECH_OR_PRECISE_DAYS_ELAPSED。",
+            "world_context": "EARLY_v01c20_QIXIA_HOPES_AND_FINAL_THOUGHTS_NOT_Z_SIXWORD_REPORT_INTERRUPTED_DEATH_FATHER_FAILED_RESCUE_PUBLIC_KONGWEN_CLAIMS_XIANJI_SHENHUA_REPORTS_UNVERIFIED_RELATION_QDRAWING_FOUND_ZASKS_NO_GOLDENBODY_RUMOR_UNEXPLAINED",
+            "stage_context": "S06_departure_low_question_unexplained_rumor_dawn",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "current_death_and_speech_distinct_Q_and_Z_private_hypotheses_reported_org_encounters_curse_theory_unknown_trueidentities_and_unexplained_rumor",
+            "knowledge_boundary": "N SNOW_NIGHT_TO_DAWN_NO_NEW_CHARACTER_SPEECH_OR_PRECISE_DAYS_ELAPSED。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N SNOW_NIGHT_TO_DAWN_NO_NEW_CHARACTER_SPEECH_OR_PRECISE_DAYS_ELAPSED。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0020",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S06",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 22,
+        "label": "戚夏求援、短句中断与救援不及",
+        "direction": "1–4张惊异于戚先决断，先疑欢喜装假又否定，只保他的揣想，不替戚定虚伪。5方丈请讲、6守拙急问、7父亲戚元同在场，8张退向师伯握剑、江也按剑。9切戚的内在：她指望法身震慑、即使幕后是空闻也会护送、父亲请神兵保全，是本人希望不等张心声或真实担保。10实际报告只至六字即11身体骤变，12砰与13隐约佛手/身后三寸虚空剑光为体感/救援影像，不添六道广播；14/15最后两句归戚私想，16倒下、17父亲真气救而无反应、22失生气明确死亡。18苏收剑凝重、19方丈自称晚一步与表情不证明故意作假。20张复诵旧假设是内心回声，21又据未显金身修正为可能真猝不及防，两层都不作真相裁决，后怕自责与悲痛同时成立。证据v01-c0020:p0001–p0022。"
+      },
+      {
+        "paragraph_start": 23,
+        "paragraph_end": 55,
+        "label": "组织经历转述与悬而未决的关系",
+        "direction": "23守拙似要质疑后表情平复并未说出指控，24空闻称若记起类似案可救仍其解释，25张私问与众惊不混。28仙迹泄密死亡和可能诅咒为方丈报告推断，不认戚为正式成员；29/33玄元子讲十年前斗姆交手、应外景巅峰，不把回忆演成当前战斗或新增对手真声。32据所知正式成员不超二十、仙号隐真名只在第一引语，第二仙迹名旁白；34守拙推各派高手伪名亦只首引语，尾段仙迹名与内奸疑虑属叙述焦点。36失传绝学似相合、37张记价与问轮回关系为私想，不变已证同一组织。38互查提议未实行，39苏说须针对法、41方丈述太乙未见痕，42神话死敌、44/46东王公被苏失手杀与尸毁均是当场苏的既往叙述；45青年群私下会意不是公开齐问。47太乙尸留且真实身份留后说，48/57密谈不补内容。49联查与50/51共享承诺未等于已解决；52父亲找唐花图法发誓，53关系加深只是其推断，54约束门人保密不是六道惩罚命令，55青年仅有资格知现场有限信息。证据v01-c0020:p0023–p0055。"
+      },
+      {
+        "paragraph_start": 56,
+        "paragraph_end": 65,
+        "label": "离殿后提问与未释传闻",
+        "direction": "56张实际答是师伯，其余应承概述不补逐人台词，57话事人殿后私议不让年轻人或缺席孟齐偷听；离殿文字身客居疑衍身仅登记保字。58纠结、59玄元子轻叹作引，60张低声直接问为何未见金身全救，与先前仅内想的怀疑区分。61至少未见典籍所描金身仍其内在限定，不当作者证实力不足；62师伯赞观察、63只说传闻非虚，64张啊的疑问无发声词选内心留可听性问题、师伯摇头不解释。65细雪将明的静景结束，不补传闻具体内容、幕后真名或外界过去几天。证据v01-c0020:p0056–p0065。"
+      }
+    ],
+    "knowledge_rule": "戚的希望/临终想法与张的风险推演分开；六字中断不补全，组织经历是角色报告且关系未证，密谈内容及传闻不擅填，缺席者所知保持。"
+  },
+  "reading_batch": "reread-v01-0020"
 }

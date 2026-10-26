@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [戚夏求援、临终私想与父亲救援失败](early-qixia-disclosure-final-thoughts-father-failed-rescue.md) | 第20章历史归属回补 |
+| [仙迹神话既往遭遇与未定组织关系](early-xianji-shenhua-reports-aliases-unknown-identities.md) | 第20章历史归属回补 |
+| [张远山修正救援怀疑与未释传闻](early-zhang-revised-rescue-suspicion-unexplained-rumor.md) | 第20章历史归属回补 |
 | [禅房与宝殿分镜、现实死状和未知机制](early-hall-corpse-offscreen-meng-knowledge-boundary.md) | 第19章历史归属回补 |
 | [守拙空闻玄元子交涉与苏无名声貌反差](early-shouzhuo-kongwen-xuanyuanzi-su-voices.md) | 第19章历史归属回补 |
 | [张远山的稳重与冒险犹疑、戚夏报告开头](early-zhang-courage-private-hypotheses-qixia-opening.md) | 第19章历史归属回补 |
