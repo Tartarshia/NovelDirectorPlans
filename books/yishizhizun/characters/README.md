@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [雨战浅箭到深刀、齐正言驰援](early-meng-rainbattle-deepwound-qirescue.md) | 第31章历史归属回补 |
+| [小紫呼小桑与顾小桑警告仅名](early-xiaozi-xiaosang-dream-warning-not-identity-proof.md) | 第31章历史归属回补 |
+| [向辉形貌返回与面伤自述待证](early-returned-xianghui-facewound-selfreport-unverified.md) | 第31章历史归属回补 |
 | [铁布衫浅伤反击与胡琴逃脱](early-meng-ironshirt-shallowcuts-counterattack-huqin-escape.md) | 第30章历史归属回补 |
 | [马资银钱实际付玉、同骑兼戒心](early-meng-horsepayment-sharedride-caution-not-romance.md) | 第30章历史归属回补 |
 | [原则成长、极端未答与雨箭再袭](early-meng-growing-principle-unanswered-deathchoice-rainarrows.md) | 第30章历史归属回补 |
