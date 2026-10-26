@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [玄空收物、无人伤说辞与家传遮掩](early-xuankong-object-unharmed-claim-familycover.md) | 第23章历史归属回补 |
+| [真观受击、悲史与五年七年疑点](early-zhenguan-counterattack-tragedy-five-seven-years.md) | 第23章历史归属回补 |
+| [真妙初课与真德对练未执行](early-zhenmiao-firstclass-zhende-spar-order.md) | 第23章历史归属回补 |
 | [知客培养推荐与玄苦私见、孟奇反驳](early-guestmonk-recommendation-xuanku-private-suspicion.md) | 第22章历史归属回补 |
 | [杂役复杂恭贺、真永故事与韩广传闻](early-mixed-congratulation-zhenyong-story-han-rumor.md) | 第22章历史归属回补 |
 | [真观夜间掐颈与梦呓般杀语](early-zhenguan-night-strangle-dreamlike-threats.md) | 第22章历史归属回补 |
