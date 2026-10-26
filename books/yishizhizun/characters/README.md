@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇初识气势、真德真和两战](early-meng-peer-bouts-presence-zhende-zhenhe.md) | 第24章历史归属回补 |
+| [真妙自限之战与根基纠错仍正确](early-zhenmiao-limited-spar-ironshirt-not-fullrank-win.md) | 第24章历史归属回补 |
+| [真本破招自语与心法待传](early-zhenben-murmur-shaolin-lesson-pending.md) | 第24章历史归属回补 |
 | [玄空收物、无人伤说辞与家传遮掩](early-xuankong-object-unharmed-claim-familycover.md) | 第23章历史归属回补 |
 | [真观受击、悲史与五年七年疑点](early-zhenguan-counterattack-tragedy-five-seven-years.md) | 第23章历史归属回补 |
 | [真妙初课与真德对练未执行](early-zhenmiao-firstclass-zhende-spar-order.md) | 第23章历史归属回补 |
