@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第十一章首死确认、实用换刀与分路求生](early-confirmed-firstdeath-practical-knife-westparty-mechanisms.md) | 第11章历史归属回补 |
+| [第十一章江芷微：初杀坦白与玩笑带来的信任](early-jiang-firstkill-confession-chickenjoke-earned-trust.md) | 第11章历史归属回补 |
+| [第十一章程永骤变：揭示前正常、人伤未定与第一刀](early-cheng-normal-before-greeneyes-jiang-injury-meng-firstknife.md) | 第11章历史归属回补 |
 | [第十章假鬼、眼窍与戚夏：解除恐惧后仍是初次任务](early-railcaptive-eyeapertures-qixia-uneasy-interrogation.md) | 第10章历史归属回补 |
 | [第十章地图与分工：谨慎但并非全知](early-mapcheck-rankinference-eastwest-party-plan.md) | 第10章历史归属回补 |
 | [第十章言无疆致命倒下：旁观杀戮感被打断](early-first-fatal-companion-yan-wallstab-meng-horror.md) | 第10章历史归属回补 |
