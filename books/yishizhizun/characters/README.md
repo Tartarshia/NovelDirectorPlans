@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [埋玉佛未阻召唤、江赠刀与四窍确认](early-jade-buried-reunion-jiang-breakthrough-fourapertures.md) | 第28章历史归属回补 |
+| [仙迹神话此时告孟齐与早期寿元传闻](early-xianji-shenhua-newknowledge-lifespan-rumors.md) | 第28章历史归属回补 |
+| [向辉小紫初见、江私传音与送名单任务](early-xianghui-xiaozi-newcomers-private-transmission-mission.md) | 第28章历史归属回补 |
 | [后山密门与真观相貌不等本尊证明](early-meng-secretgate-zhenguan-face-not-identity-proof.md) | 第27章历史归属回补 |
 | [玄悲温和问报与七绝手传闻身世](early-xuanbei-gentle-response-reported-qijueshou-history.md) | 第27章历史归属回补 |
 | [三日面壁错选徒、动机私推与雪字轮回](early-xuankong-three-day-penalty-missedselection-snow-notice.md) | 第27章历史归属回补 |
