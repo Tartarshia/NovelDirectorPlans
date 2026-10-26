@@ -1,11 +1,16 @@
-# 角色阶段索引 · 截至番外第11条目录条目
+# 角色阶段索引 · 截至番外第12条目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–11条已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–12条已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [穆旧时追访孟顾、见闻想象银钗不确证定情](mu-past-inquiry-witnesses-silverpin-not-confirmed-token.md) | 番外12旧时点与作者层边界 |
+| [邵长歌忠心证词、不知情缘原因与保密留言](shao-changge-testimony-unknown-cause-withheld-message.md) | 番外12旧时点与作者层边界 |
+| [顾乳名桑园末树、枯干新枝不即刻复活机制](gu-name-mulberry-courtyard-newbranch-symbolism.md) | 番外12旧时点与作者层边界 |
+| [旧林希音李师叔与舟夫老妇、传闻见闻分层](historical-lin-xiyin-li-shishu-boatman-vendor-reports.md) | 番外12旧时点与作者层边界 |
+| [番外12作者时点目的与现实命名灵感、非人物声](author-extra12-time-boundary-purpose-name-inspiration.md) | 番外12旧时点与作者层边界 |
 | [顾旧史货郎自杀暗示未执行、雷篆来源未名](gu-past-merchant-death-suggestion-xiaozi-seal-source-unknown.md) | 番外11旧史证据与表演边界 |
 | [顾旧蓝剑尖诱外景、非天外奇石同物已证](gu-past-blue-swordtip-diversion-not-same-sky-stone.md) | 番外11旧史证据与表演边界 |
 | [单秀眉脱身七天女最终死、盾饵战术分时](shanxiumei-seven-maidens-seven-killed-escape-not-final.md) | 番外11旧史证据与表演边界 |
