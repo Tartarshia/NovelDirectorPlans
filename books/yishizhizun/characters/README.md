@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第六章空慧与罗汉拳：求证后学习的权限边界](early-konghui-library-access-common-luohanfist.md) | 第6章历史归属回补 |
+| [第六章真永与真慧：腹痛去向未明，奇遇并未发生](early-zhenyong-bellydeparture-zhenhui-story-nojump.md) | 第6章历史归属回补 |
+| [第六章孟奇：冬夜筑基完成与未消的出路焦虑](early-meng-winter-foundation-complete-shame-guesttask.md) | 第6章历史归属回补 |
 | [第五章孟奇：真气初现与识字后的暴露担忧](early-meng-firstqi-literacy-handwriting-exposurefear.md) | 第5章历史归属回补 |
 | [第五章真永与二玄：自来熟、误惊及岗位变化](early-zhenyong-brightsmile-xuanku-discipline-jobchange.md) | 第5章历史归属回补 |
 | [第五章自主修炼与讲旧乡故事：三个月后的真实进度](early-jade-independentqi-oldworldstory-three-month-librarytask.md) | 第5章历史归属回补 |
