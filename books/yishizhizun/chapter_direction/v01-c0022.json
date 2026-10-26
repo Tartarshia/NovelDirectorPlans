@@ -41,7 +41,2411 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0002"
+  "reading_batch": "batch-0002",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0022",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0022.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0022:p0001",
+        "length": 109,
+        "sha256": "ebb11421230619f0d56e1c2afd008368cb5a7addba97c4062e91dbd3a609ec1e",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0001:u001",
+            "start": 0,
+            "end": 109,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MNEW_TOMORROW_OPPORTUNITY_SHOCK_MORETHAN_JOY_NOT_ALREADY_WUSENG_ATTENDED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MNEW_TOMORROW_OPPORTUNITY_SHOCK_MORETHAN_JOY_NOT_ALREADY_WUSENG_ATTENDED。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MNEW_TOMORROW_OPPORTUNITY_SHOCK_MORETHAN_JOY_NOT_ALREADY_WUSENG_ATTENDED。"
+      },
+      {
+        "reference": "v01-c0022:p0002",
+        "length": 106,
+        "sha256": "63ec21d07b447e1989bd13b1c385ba770b02050eac5522d875fcf41b192d0df0",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0002:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "C actual_EXPLAINS_ZJ_RECOMMENDATION_ETIQUETTE_SELFCONTROL_FUTURE_GUESTMONK_INTENT_NOT_ACTUAL_MFLATTERY_PROOF。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "C actual_EXPLAINS_ZJ_RECOMMENDATION_ETIQUETTE_SELFCONTROL_FUTURE_GUESTMONK_INTENT_NOT_ACTUAL_MFLATTERY_PROOF。",
+            "focalizer": "xuan_chi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0002:u002",
+            "start": 24,
+            "end": 65,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_chi",
+            "surface_identity": "XuanChi_senior_messenger_not_XuanKu",
+            "text_context": "C actual_EXPLAINS_ZJ_RECOMMENDATION_ETIQUETTE_SELFCONTROL_FUTURE_GUESTMONK_INTENT_NOT_ACTUAL_MFLATTERY_PROOF。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_XuanChi_speech",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_goldskin_robust_gait_futureguestmonk_assignment",
+            "delivery": "explicit_THICK_DEEP_LOW_VOICE_explanation_and_selfcontrol_advice",
+            "knowledge_boundary": "C actual_EXPLAINS_ZJ_RECOMMENDATION_ETIQUETTE_SELFCONTROL_FUTURE_GUESTMONK_INTENT_NOT_ACTUAL_MFLATTERY_PROOF。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0002:u003",
+            "start": 65,
+            "end": 106,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_chi",
+            "surface_identity": "XuanChi_senior_messenger_not_XuanKu",
+            "text_context": "C actual_EXPLAINS_ZJ_RECOMMENDATION_ETIQUETTE_SELFCONTROL_FUTURE_GUESTMONK_INTENT_NOT_ACTUAL_MFLATTERY_PROOF。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_XuanChi_speech",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_goldskin_robust_gait_futureguestmonk_assignment",
+            "delivery": "explicit_THICK_DEEP_LOW_VOICE_explanation_and_selfcontrol_advice",
+            "knowledge_boundary": "C actual_EXPLAINS_ZJ_RECOMMENDATION_ETIQUETTE_SELFCONTROL_FUTURE_GUESTMONK_INTENT_NOT_ACTUAL_MFLATTERY_PROOF。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "C actual_EXPLAINS_ZJ_RECOMMENDATION_ETIQUETTE_SELFCONTROL_FUTURE_GUESTMONK_INTENT_NOT_ACTUAL_MFLATTERY_PROOF。"
+      },
+      {
+        "reference": "v01-c0022:p0003",
+        "length": 29,
+        "sha256": "5752e80e1e237f08d1529a4aca0827b35bfbf1aa8d34bd2be198ded4e261761c",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0003:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MARTIAL_SECT_GUEST_MONK_NEEDS_SKILL_NOT_M_ALREADY_APPOINTED_ZHIKE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MARTIAL_SECT_GUEST_MONK_NEEDS_SKILL_NOT_M_ALREADY_APPOINTED_ZHIKE。",
+            "focalizer": "xuan_chi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MARTIAL_SECT_GUEST_MONK_NEEDS_SKILL_NOT_M_ALREADY_APPOINTED_ZHIKE。"
+      },
+      {
+        "reference": "v01-c0022:p0004",
+        "length": 64,
+        "sha256": "87347f988db26fae7956f1b24b53a196078b4cb07da194564d2bfb5385760ccc",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0004:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_MODEST_CLARIFIES_SELFCONTROL_NTRUE_THANKS_ZJ_AND_JOY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_MODEST_CLARIFIES_SELFCONTROL_NTRUE_THANKS_ZJ_AND_JOY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0004:u002",
+            "start": 16,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M actual_MODEST_CLARIFIES_SELFCONTROL_NTRUE_THANKS_ZJ_AND_JOY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M actual_MODEST_CLARIFIES_SELFCONTROL_NTRUE_THANKS_ZJ_AND_JOY。",
+            "focalizer": "xuan_chi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_MODEST_CLARIFIES_SELFCONTROL_NTRUE_THANKS_ZJ_AND_JOY。"
+      },
+      {
+        "reference": "v01-c0022:p0005",
+        "length": 86,
+        "sha256": "a567a18b8ad31fff890a0c15712e7c46bf45f80b53dab62869e7bf29ae791d79",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0005:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_chi",
+            "surface_identity": "XuanChi_senior_messenger_not_XuanKu",
+            "text_context": "C actual_GUESTMONK_SELFCONTROL_SECTFACE_THEN_NHEROIC_WALK_NOT_REAL_NONMONK_OR_DEMON。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_XuanChi_speech",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_goldskin_robust_gait_futureguestmonk_assignment",
+            "delivery": "explicit_THICK_DEEP_LOW_VOICE_explanation_and_selfcontrol_advice",
+            "knowledge_boundary": "C actual_GUESTMONK_SELFCONTROL_SECTFACE_THEN_NHEROIC_WALK_NOT_REAL_NONMONK_OR_DEMON。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0005:u002",
+            "start": 34,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "C actual_GUESTMONK_SELFCONTROL_SECTFACE_THEN_NHEROIC_WALK_NOT_REAL_NONMONK_OR_DEMON。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "C actual_GUESTMONK_SELFCONTROL_SECTFACE_THEN_NHEROIC_WALK_NOT_REAL_NONMONK_OR_DEMON。",
+            "focalizer": "xuan_chi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "C actual_GUESTMONK_SELFCONTROL_SECTFACE_THEN_NHEROIC_WALK_NOT_REAL_NONMONK_OR_DEMON。"
+      },
+      {
+        "reference": "v01-c0022:p0006",
+        "length": 71,
+        "sha256": "1cbd0bf0a4824c46323b78555ed0b3cfb8c0f8115025cf48a877af976916c634",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0006:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K actual_ZEN_PATIENCE_TRAINING_HUI_BETTER_NOT_OMNISCIENT_M_HAS_EVIL_INTENT。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "K actual_ZEN_PATIENCE_TRAINING_HUI_BETTER_NOT_OMNISCIENT_M_HAS_EVIL_INTENT。",
+            "focalizer": "xuan_ku",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0006:u002",
+            "start": 17,
+            "end": 71,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_ku",
+            "surface_identity": "XuanKu_discipline_monk_private_flattery_suspicion_not_fact",
+            "text_context": "K actual_ZEN_PATIENCE_TRAINING_HUI_BETTER_NOT_OMNISCIENT_M_HAS_EVIL_INTENT。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_XuanKu_admonition_or_warning",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_senior_publicly_rebutted_leaves12",
+            "delivery": "cool_admonition_then_startled_you_cold_warning_private_stubborn_reasoning",
+            "knowledge_boundary": "K actual_ZEN_PATIENCE_TRAINING_HUI_BETTER_NOT_OMNISCIENT_M_HAS_EVIL_INTENT。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K actual_ZEN_PATIENCE_TRAINING_HUI_BETTER_NOT_OMNISCIENT_M_HAS_EVIL_INTENT。"
+      },
+      {
+        "reference": "v01-c0022:p0007",
+        "length": 53,
+        "sha256": "93a09fd15f2e20181e9d4f70580a11da0a00acca8ce5cbc8d810d14536de2722",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0007:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MHEARS_KSUSPICION_FLATTERY_ESCAPE_NOT_NOBJECTIVE_FACT_MBRIBED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MHEARS_KSUSPICION_FLATTERY_ESCAPE_NOT_NOBJECTIVE_FACT_MBRIBED。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MHEARS_KSUSPICION_FLATTERY_ESCAPE_NOT_NOBJECTIVE_FACT_MBRIBED。"
+      },
+      {
+        "reference": "v01-c0022:p0008",
+        "length": 71,
+        "sha256": "7373abbbee4e8417b3bc9fcb07fafbdadec7ff7435e45c6a3ae5c4f18df0879b",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0008:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M BOTH_SENTENCES_ACTUAL_COUNTER_UNWITNESSED_ASSUMPTION_AND_OBSESSION_HELL_NOT_REAL_KFALLS_HELL。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M BOTH_SENTENCES_ACTUAL_COUNTER_UNWITNESSED_ASSUMPTION_AND_OBSESSION_HELL_NOT_REAL_KFALLS_HELL。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0008:u002",
+            "start": 17,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M BOTH_SENTENCES_ACTUAL_COUNTER_UNWITNESSED_ASSUMPTION_AND_OBSESSION_HELL_NOT_REAL_KFALLS_HELL。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M BOTH_SENTENCES_ACTUAL_COUNTER_UNWITNESSED_ASSUMPTION_AND_OBSESSION_HELL_NOT_REAL_KFALLS_HELL。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0008:u003",
+            "start": 36,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M BOTH_SENTENCES_ACTUAL_COUNTER_UNWITNESSED_ASSUMPTION_AND_OBSESSION_HELL_NOT_REAL_KFALLS_HELL。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M BOTH_SENTENCES_ACTUAL_COUNTER_UNWITNESSED_ASSUMPTION_AND_OBSESSION_HELL_NOT_REAL_KFALLS_HELL。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M BOTH_SENTENCES_ACTUAL_COUNTER_UNWITNESSED_ASSUMPTION_AND_OBSESSION_HELL_NOT_REAL_KFALLS_HELL。"
+      },
+      {
+        "reference": "v01-c0022:p0009",
+        "length": 67,
+        "sha256": "e822f63747b2e7c2bceae7db7e19e2b0dbdef4510354ee90b3bac2ee463a93b3",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0009:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MHALFYEAR_LETTERS_SANSKRIT_SHORTCHANTS_NOT_YET_SUTRA_LEARNED_NOT_FULL_BUDDHIST_SCHOLAR。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MHALFYEAR_LETTERS_SANSKRIT_SHORTCHANTS_NOT_YET_SUTRA_LEARNED_NOT_FULL_BUDDHIST_SCHOLAR。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MHALFYEAR_LETTERS_SANSKRIT_SHORTCHANTS_NOT_YET_SUTRA_LEARNED_NOT_FULL_BUDDHIST_SCHOLAR。"
+      },
+      {
+        "reference": "v01-c0022:p0010",
+        "length": 27,
+        "sha256": "1d2b3ced8270bf1edb01d1beaa7ee12f6053cfff75e9e8e6d60583a7757a9fb2",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0010:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M actual_FOHAO_DELIBERATE_SOLEMN_POSTURE_NOT_NEW_BUDDHA_VOICE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M actual_FOHAO_DELIBERATE_SOLEMN_POSTURE_NOT_NEW_BUDDHA_VOICE。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0010:u002",
+            "start": 18,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_FOHAO_DELIBERATE_SOLEMN_POSTURE_NOT_NEW_BUDDHA_VOICE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_FOHAO_DELIBERATE_SOLEMN_POSTURE_NOT_NEW_BUDDHA_VOICE。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_FOHAO_DELIBERATE_SOLEMN_POSTURE_NOT_NEW_BUDDHA_VOICE。"
+      },
+      {
+        "reference": "v01-c0022:p0011",
+        "length": 40,
+        "sha256": "85ed610c04df0370367b545addbbbd75338ec2d093913077f351ff768d6fb28f",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0011:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_ku",
+            "surface_identity": "XuanKu_discipline_monk_private_flattery_suspicion_not_fact",
+            "text_context": "K actual_INCOMPLETE_YOU_EXCLAMATION_NCAUGHTOFFGUARD_NOT_MSTRIKES。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_XuanKu_admonition_or_warning",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_senior_publicly_rebutted_leaves12",
+            "delivery": "cool_admonition_then_startled_you_cold_warning_private_stubborn_reasoning",
+            "knowledge_boundary": "K actual_INCOMPLETE_YOU_EXCLAMATION_NCAUGHTOFFGUARD_NOT_MSTRIKES。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0011:u002",
+            "start": 4,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K actual_INCOMPLETE_YOU_EXCLAMATION_NCAUGHTOFFGUARD_NOT_MSTRIKES。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "K actual_INCOMPLETE_YOU_EXCLAMATION_NCAUGHTOFFGUARD_NOT_MSTRIKES。",
+            "focalizer": "xuan_ku",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K actual_INCOMPLETE_YOU_EXCLAMATION_NCAUGHTOFFGUARD_NOT_MSTRIKES。"
+      },
+      {
+        "reference": "v01-c0022:p0012",
+        "length": 84,
+        "sha256": "a739341d0cad0256dd25fb2c1930c4a7aac527305fcf1fc107b90513c3597a90",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0012:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_ku",
+            "surface_identity": "XuanKu_discipline_monk_private_flattery_suspicion_not_fact",
+            "text_context": "K QUOTED_ACTUAL_ZEN_WARNING_NFRAME_THEN_SUFFIX_PRIVATE_ACCUSATORY_REASONING_NOT_MSELFCONFESSION_OR_ALL_PUBLIC_LECTURE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_XuanKu_admonition_or_warning",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_senior_publicly_rebutted_leaves12",
+            "delivery": "cool_admonition_then_startled_you_cold_warning_private_stubborn_reasoning",
+            "knowledge_boundary": "K QUOTED_ACTUAL_ZEN_WARNING_NFRAME_THEN_SUFFIX_PRIVATE_ACCUSATORY_REASONING_NOT_MSELFCONFESSION_OR_ALL_PUBLIC_LECTURE。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0012:u002",
+            "start": 23,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "K QUOTED_ACTUAL_ZEN_WARNING_NFRAME_THEN_SUFFIX_PRIVATE_ACCUSATORY_REASONING_NOT_MSELFCONFESSION_OR_ALL_PUBLIC_LECTURE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "K QUOTED_ACTUAL_ZEN_WARNING_NFRAME_THEN_SUFFIX_PRIVATE_ACCUSATORY_REASONING_NOT_MSELFCONFESSION_OR_ALL_PUBLIC_LECTURE。",
+            "focalizer": "xuan_ku",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0012:u003",
+            "start": 34,
+            "end": 74,
+            "kind": "inner_speech",
+            "speaker": "xuan_ku",
+            "surface_identity": "XuanKu_discipline_monk_private_flattery_suspicion_not_fact",
+            "text_context": "K QUOTED_ACTUAL_ZEN_WARNING_NFRAME_THEN_SUFFIX_PRIVATE_ACCUSATORY_REASONING_NOT_MSELFCONFESSION_OR_ALL_PUBLIC_LECTURE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "editorial_XuanKu_PRIVATE_flattery_accusation_not_M",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_senior_publicly_rebutted_leaves12",
+            "delivery": "cool_admonition_then_startled_you_cold_warning_private_stubborn_reasoning",
+            "knowledge_boundary": "K QUOTED_ACTUAL_ZEN_WARNING_NFRAME_THEN_SUFFIX_PRIVATE_ACCUSATORY_REASONING_NOT_MSELFCONFESSION_OR_ALL_PUBLIC_LECTURE。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0012:u004",
+            "start": 74,
+            "end": 84,
+            "kind": "inner_speech",
+            "speaker": "xuan_ku",
+            "surface_identity": "XuanKu_discipline_monk_private_flattery_suspicion_not_fact",
+            "text_context": "K QUOTED_ACTUAL_ZEN_WARNING_NFRAME_THEN_SUFFIX_PRIVATE_ACCUSATORY_REASONING_NOT_MSELFCONFESSION_OR_ALL_PUBLIC_LECTURE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "editorial_XuanKu_PRIVATE_flattery_accusation_not_M",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_senior_publicly_rebutted_leaves12",
+            "delivery": "cool_admonition_then_startled_you_cold_warning_private_stubborn_reasoning",
+            "knowledge_boundary": "K QUOTED_ACTUAL_ZEN_WARNING_NFRAME_THEN_SUFFIX_PRIVATE_ACCUSATORY_REASONING_NOT_MSELFCONFESSION_OR_ALL_PUBLIC_LECTURE。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "K QUOTED_ACTUAL_ZEN_WARNING_NFRAME_THEN_SUFFIX_PRIVATE_ACCUSATORY_REASONING_NOT_MSELFCONFESSION_OR_ALL_PUBLIC_LECTURE。"
+      },
+      {
+        "reference": "v01-c0022:p0013",
+        "length": 55,
+        "sha256": "6d41fc57d09a8c82f4bb7a20a5c02994a9c549306a0a36c48d1e38fda4e94824",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0013:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M PREFIX_PRIVATE_SARCASTIC_KMAYFALL_DEMONPATH_NOT_NPROPHECY_OR_REAL_FALL_NFRAME_KLEFT_ALREADY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "editorial_M_private_sarcasm_reaction_or_dreamquestion",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M PREFIX_PRIVATE_SARCASTIC_KMAYFALL_DEMONPATH_NOT_NPROPHECY_OR_REAL_FALL_NFRAME_KLEFT_ALREADY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0013:u002",
+            "start": 21,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M PREFIX_PRIVATE_SARCASTIC_KMAYFALL_DEMONPATH_NOT_NPROPHECY_OR_REAL_FALL_NFRAME_KLEFT_ALREADY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M PREFIX_PRIVATE_SARCASTIC_KMAYFALL_DEMONPATH_NOT_NPROPHECY_OR_REAL_FALL_NFRAME_KLEFT_ALREADY。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M PREFIX_PRIVATE_SARCASTIC_KMAYFALL_DEMONPATH_NOT_NPROPHECY_OR_REAL_FALL_NFRAME_KLEFT_ALREADY。"
+      },
+      {
+        "reference": "v01-c0022:p0014",
+        "length": 35,
+        "sha256": "b3bd8bf95d774472dfcdcae572300ae834db43377177288477345ed7d84aff9d",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0014:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "H actual_DELAYED_REACTION_QUESTION_NOT_FAKING_CONFUSION。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "H actual_DELAYED_REACTION_QUESTION_NOT_FAKING_CONFUSION。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0014:u002",
+            "start": 21,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "ZhenHui_sincere_simple_child_not_fake_stupid",
+            "text_context": "H actual_DELAYED_REACTION_QUESTION_NOT_FAKING_CONFUSION。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_ZhenHui_reply",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_choreboy_tomorrow_transfer_not_Rulai_palm_acquired",
+            "delivery": "delayed_but_genuine_happy_dream_literal_question_sincere_focus_advice",
+            "knowledge_boundary": "H actual_DELAYED_REACTION_QUESTION_NOT_FAKING_CONFUSION。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "H actual_DELAYED_REACTION_QUESTION_NOT_FAKING_CONFUSION。"
+      },
+      {
+        "reference": "v01-c0022:p0015",
+        "length": 56,
+        "sha256": "ddcf628af60c56a68fd5bc0900874277caf77005dba253650a1d78a0509288ff",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0015:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M QUOTED_ACTUAL_REPLY_THEN_SUFFIX_PRIVATE_HUI_REACTION_SPEED_COMMENT_NLOOKINGFRAME。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M QUOTED_ACTUAL_REPLY_THEN_SUFFIX_PRIVATE_HUI_REACTION_SPEED_COMMENT_NLOOKINGFRAME。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0015:u002",
+            "start": 12,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M QUOTED_ACTUAL_REPLY_THEN_SUFFIX_PRIVATE_HUI_REACTION_SPEED_COMMENT_NLOOKINGFRAME。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M QUOTED_ACTUAL_REPLY_THEN_SUFFIX_PRIVATE_HUI_REACTION_SPEED_COMMENT_NLOOKINGFRAME。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0015:u003",
+            "start": 21,
+            "end": 56,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M QUOTED_ACTUAL_REPLY_THEN_SUFFIX_PRIVATE_HUI_REACTION_SPEED_COMMENT_NLOOKINGFRAME。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "editorial_M_private_sarcasm_reaction_or_dreamquestion",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M QUOTED_ACTUAL_REPLY_THEN_SUFFIX_PRIVATE_HUI_REACTION_SPEED_COMMENT_NLOOKINGFRAME。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M QUOTED_ACTUAL_REPLY_THEN_SUFFIX_PRIVATE_HUI_REACTION_SPEED_COMMENT_NLOOKINGFRAME。"
+      },
+      {
+        "reference": "v01-c0022:p0016",
+        "length": 30,
+        "sha256": "eaef5b8f07d196a66cc48a8f88fed897737b20de5c0f8976fd06ed737811b245",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0016:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "H actual_RULAI_PALM_DREAM_ONE_STEP_CLOSER_NOT_ALREADY_ACQUIRED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "H actual_RULAI_PALM_DREAM_ONE_STEP_CLOSER_NOT_ALREADY_ACQUIRED。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0016:u002",
+            "start": 14,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "ZhenHui_sincere_simple_child_not_fake_stupid",
+            "text_context": "H actual_RULAI_PALM_DREAM_ONE_STEP_CLOSER_NOT_ALREADY_ACQUIRED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_ZhenHui_reply",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_choreboy_tomorrow_transfer_not_Rulai_palm_acquired",
+            "delivery": "delayed_but_genuine_happy_dream_literal_question_sincere_focus_advice",
+            "knowledge_boundary": "H actual_RULAI_PALM_DREAM_ONE_STEP_CLOSER_NOT_ALREADY_ACQUIRED。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "H actual_RULAI_PALM_DREAM_ONE_STEP_CLOSER_NOT_ALREADY_ACQUIRED。"
+      },
+      {
+        "reference": "v01-c0022:p0017",
+        "length": 26,
+        "sha256": "339f7c14d0093c8ff9c1833e4289f202863242a131910f446c7d7f30ca4061d9",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0017:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MSPITS_SALIVA_PU_PHYSICAL_EVENT_NO_ADDED_SPOKENLAUGH。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MSPITS_SALIVA_PU_PHYSICAL_EVENT_NO_ADDED_SPOKENLAUGH。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MSPITS_SALIVA_PU_PHYSICAL_EVENT_NO_ADDED_SPOKENLAUGH。"
+      },
+      {
+        "reference": "v01-c0022:p0018",
+        "length": 90,
+        "sha256": "019b6c5ca9654a40667cf0863915c1baa0b5c64dae83d09f8a039b729b62c3ad",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0018:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M actual_FUTURE_QIGREAT_AND72ART_HOPE_REVISED_BY_Y25_NOT_ALREADY_LEARNED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M actual_FUTURE_QIGREAT_AND72ART_HOPE_REVISED_BY_Y25_NOT_ALREADY_LEARNED。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0018:u002",
+            "start": 22,
+            "end": 90,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_FUTURE_QIGREAT_AND72ART_HOPE_REVISED_BY_Y25_NOT_ALREADY_LEARNED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_FUTURE_QIGREAT_AND72ART_HOPE_REVISED_BY_Y25_NOT_ALREADY_LEARNED。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_FUTURE_QIGREAT_AND72ART_HOPE_REVISED_BY_Y25_NOT_ALREADY_LEARNED。"
+      },
+      {
+        "reference": "v01-c0022:p0019",
+        "length": 34,
+        "sha256": "1c854e2d15fab7faa32ae6f32d87e8f06f9aee3047d5120390b8e80b68d645c0",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0019:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "ZhenHui_sincere_simple_child_not_fake_stupid",
+            "text_context": "H actual_WHY_CHOOSE_THESE_QUERY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_ZhenHui_reply",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_choreboy_tomorrow_transfer_not_Rulai_palm_acquired",
+            "delivery": "delayed_but_genuine_happy_dream_literal_question_sincere_focus_advice",
+            "knowledge_boundary": "H actual_WHY_CHOOSE_THESE_QUERY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0019:u002",
+            "start": 7,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "H actual_WHY_CHOOSE_THESE_QUERY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "H actual_WHY_CHOOSE_THESE_QUERY。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "H actual_WHY_CHOOSE_THESE_QUERY。"
+      },
+      {
+        "reference": "v01-c0022:p0020",
+        "length": 29,
+        "sha256": "faf32371b45738b146cf646c8faa79b111425f0cc04bddafad162385555f740f",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0020:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M actual_PRETTY_ELEGANT_ART_PREF_AND_UNFINISHED_FUTURE_INTRO。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M actual_PRETTY_ELEGANT_ART_PREF_AND_UNFINISHED_FUTURE_INTRO。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0020:u002",
+            "start": 9,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_PRETTY_ELEGANT_ART_PREF_AND_UNFINISHED_FUTURE_INTRO。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_PRETTY_ELEGANT_ART_PREF_AND_UNFINISHED_FUTURE_INTRO。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0020:u003",
+            "start": 24,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_PRETTY_ELEGANT_ART_PREF_AND_UNFINISHED_FUTURE_INTRO。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_PRETTY_ELEGANT_ART_PREF_AND_UNFINISHED_FUTURE_INTRO。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_PRETTY_ELEGANT_ART_PREF_AND_UNFINISHED_FUTURE_INTRO。"
+      },
+      {
+        "reference": "v01-c0022:p0021",
+        "length": 49,
+        "sha256": "4be38d105416193f884dd5569d86234f5a750d36afbd23824da26ce50fd2b9c9",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0021:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MREWRITES_FANTASY_WHITE_SWORDHERO_INTO_MONKSTORY_NOT_ACTUAL_CURRENT_BODY_CHANGE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MREWRITES_FANTASY_WHITE_SWORDHERO_INTO_MONKSTORY_NOT_ACTUAL_CURRENT_BODY_CHANGE。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MREWRITES_FANTASY_WHITE_SWORDHERO_INTO_MONKSTORY_NOT_ACTUAL_CURRENT_BODY_CHANGE。"
+      },
+      {
+        "reference": "v01-c0022:p0022",
+        "length": 113,
+        "sha256": "8f150e1a31ba74030359bdd9d1f33b40d75e798a3062474bb932bd59d42c7f9e",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0022:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_STORYTELLING_WUHUA_MONK_FUTURE_VISION_NESTED_DONOR_QUOTE_MOWN_ROLEPLAY_NO_NEW_WUHUA_OR_DONOR_ACTOR。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_STORYTELLING_WUHUA_MONK_FUTURE_VISION_NESTED_DONOR_QUOTE_MOWN_ROLEPLAY_NO_NEW_WUHUA_OR_DONOR_ACTOR。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0022:u002",
+            "start": 22,
+            "end": 70,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_STORYTELLING_WUHUA_MONK_FUTURE_VISION_NESTED_DONOR_QUOTE_MOWN_ROLEPLAY_NO_NEW_WUHUA_OR_DONOR_ACTOR。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_STORYTELLING_WUHUA_MONK_FUTURE_VISION_NESTED_DONOR_QUOTE_MOWN_ROLEPLAY_NO_NEW_WUHUA_OR_DONOR_ACTOR。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0022:u003",
+            "start": 70,
+            "end": 78,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_STORYTELLING_WUHUA_MONK_FUTURE_VISION_NESTED_DONOR_QUOTE_MOWN_ROLEPLAY_NO_NEW_WUHUA_OR_DONOR_ACTOR。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_STORYTELLING_WUHUA_MONK_FUTURE_VISION_NESTED_DONOR_QUOTE_MOWN_ROLEPLAY_NO_NEW_WUHUA_OR_DONOR_ACTOR。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0022:u004",
+            "start": 78,
+            "end": 113,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_STORYTELLING_WUHUA_MONK_FUTURE_VISION_NESTED_DONOR_QUOTE_MOWN_ROLEPLAY_NO_NEW_WUHUA_OR_DONOR_ACTOR。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_STORYTELLING_WUHUA_MONK_FUTURE_VISION_NESTED_DONOR_QUOTE_MOWN_ROLEPLAY_NO_NEW_WUHUA_OR_DONOR_ACTOR。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_STORYTELLING_WUHUA_MONK_FUTURE_VISION_NESTED_DONOR_QUOTE_MOWN_ROLEPLAY_NO_NEW_WUHUA_OR_DONOR_ACTOR。"
+      },
+      {
+        "reference": "v01-c0022:p0023",
+        "length": 42,
+        "sha256": "295dc3f39f4ab04395c1cfdf55c9442cdaf7990d374a875ee8519a24740e7d62",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0023:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N IRONSHIRT_BLADE_CONCEPT_QUOTES_REDUCE_MEXCITEMENT_NOT_OUTLOUD_TITLES。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N IRONSHIRT_BLADE_CONCEPT_QUOTES_REDUCE_MEXCITEMENT_NOT_OUTLOUD_TITLES。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N IRONSHIRT_BLADE_CONCEPT_QUOTES_REDUCE_MEXCITEMENT_NOT_OUTLOUD_TITLES。"
+      },
+      {
+        "reference": "v01-c0022:p0024",
+        "length": 66,
+        "sha256": "ace0b70d33d347e83584aaf89ed483f8c8483db9fc1ec3d7ea1215f62f60d7ff",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0024:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M QUOTED_PRIVATE_OR_LOW_SELFREASSURE_EDITORIAL_INNER_CHOICE_AUDIBILITY_OPEN_NOT_TRUE_FUTURE_GUARANTEE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "editorial_M_private_selfreassurance_audibility_open",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M QUOTED_PRIVATE_OR_LOW_SELFREASSURE_EDITORIAL_INNER_CHOICE_AUDIBILITY_OPEN_NOT_TRUE_FUTURE_GUARANTEE。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0024:u002",
+            "start": 25,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M QUOTED_PRIVATE_OR_LOW_SELFREASSURE_EDITORIAL_INNER_CHOICE_AUDIBILITY_OPEN_NOT_TRUE_FUTURE_GUARANTEE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M QUOTED_PRIVATE_OR_LOW_SELFREASSURE_EDITORIAL_INNER_CHOICE_AUDIBILITY_OPEN_NOT_TRUE_FUTURE_GUARANTEE。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M QUOTED_PRIVATE_OR_LOW_SELFREASSURE_EDITORIAL_INNER_CHOICE_AUDIBILITY_OPEN_NOT_TRUE_FUTURE_GUARANTEE。"
+      },
+      {
+        "reference": "v01-c0022:p0025",
+        "length": 118,
+        "sha256": "d4e41d88ecab2279462f18a48955e52d9ad979ee9c4ef9c3b7c99eeecbaa0dd8",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0025:u001",
+            "start": 0,
+            "end": 118,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_yan",
+            "surface_identity": "ZhenYan_threeplus_year_choremonk_not_ZhenYong",
+            "text_context": "Y actual_CONGRATS_PLUS_REAL_RULE_QIGREAT_ONLY_SELECTED_APPRENTICES72_OTHERS_STAFF_ARRAY_NOT_ALL_AUTOMATICALLY_LEARN72。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_ZhenYan_caution",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_not_transferred_resource_limited_olderbrother",
+            "delivery": "forced_congrats_bittersweet_caution_genuine_rules_not_stereotype_villain",
+            "knowledge_boundary": "Y actual_CONGRATS_PLUS_REAL_RULE_QIGREAT_ONLY_SELECTED_APPRENTICES72_OTHERS_STAFF_ARRAY_NOT_ALL_AUTOMATICALLY_LEARN72。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Y actual_CONGRATS_PLUS_REAL_RULE_QIGREAT_ONLY_SELECTED_APPRENTICES72_OTHERS_STAFF_ARRAY_NOT_ALL_AUTOMATICALLY_LEARN72。"
+      },
+      {
+        "reference": "v01-c0022:p0026",
+        "length": 34,
+        "sha256": "0c07b2cf374b068a13c6feac67e9fe5e07d8e69805ee7f3462ea89f6c0bb94d7",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0026:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MFEELS_YFORCED_SMILE_ACID_EDGE_NOT_NYSECRET_EVIL_OR_ALL_BLESSINGS_FAKE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MFEELS_YFORCED_SMILE_ACID_EDGE_NOT_NYSECRET_EVIL_OR_ALL_BLESSINGS_FAKE。",
+            "focalizer": "zhen_yan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MFEELS_YFORCED_SMILE_ACID_EDGE_NOT_NYSECRET_EVIL_OR_ALL_BLESSINGS_FAKE。"
+      },
+      {
+        "reference": "v01-c0022:p0027",
+        "length": 78,
+        "sha256": "19faa2d927a66298416c0387c014aa662b6a549a022e30d076b08af354092b2a",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0027:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_THANKS_THEN_NEMPATHY_YTHREEPLUS_YEARS_CHORES_NOT_MTHREEYEARS。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_THANKS_THEN_NEMPATHY_YTHREEPLUS_YEARS_CHORES_NOT_MTHREEYEARS。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0027:u002",
+            "start": 9,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M actual_THANKS_THEN_NEMPATHY_YTHREEPLUS_YEARS_CHORES_NOT_MTHREEYEARS。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M actual_THANKS_THEN_NEMPATHY_YTHREEPLUS_YEARS_CHORES_NOT_MTHREEYEARS。",
+            "focalizer": "zhen_yan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_THANKS_THEN_NEMPATHY_YTHREEPLUS_YEARS_CHORES_NOT_MTHREEYEARS。"
+      },
+      {
+        "reference": "v01-c0022:p0028",
+        "length": 24,
+        "sha256": "4650097ca6469a9c67138fe2ec529f5a1eefaa4c865791eea6193871f5d61ec9",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0028:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N THREE_RETURN_HUISILLY_HAPPY_NOT_ALREADY_TRANSFERRED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N THREE_RETURN_HUISILLY_HAPPY_NOT_ALREADY_TRANSFERRED。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N THREE_RETURN_HUISILLY_HAPPY_NOT_ALREADY_TRANSFERRED。"
+      },
+      {
+        "reference": "v01-c0022:p0029",
+        "length": 34,
+        "sha256": "1d68fa3dca39688f0582e36d750c08deb623fdafc0cd642052c516cb99ac5bb7",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0029:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MSTOPS_BOAST_AT_RESOURCE_LIMITED_Y_ZHENYING_ETAL_NOT_EVERYONE_FUTURE_ATTACKER。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MSTOPS_BOAST_AT_RESOURCE_LIMITED_Y_ZHENYING_ETAL_NOT_EVERYONE_FUTURE_ATTACKER。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MSTOPS_BOAST_AT_RESOURCE_LIMITED_Y_ZHENYING_ETAL_NOT_EVERYONE_FUTURE_ATTACKER。"
+      },
+      {
+        "reference": "v01-c0022:p0030",
+        "length": 22,
+        "sha256": "c363e45b645e8d9db493620570d6fdad469ada5b8db6c6e62e128872830c21cf",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0030:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MREMINDER_HUI_KEEPQUIET_SUMMARY_NO_INVENTED_EXACT_LINE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_tomorrow_transfer_reason_and_reaction",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MREMINDER_HUI_KEEPQUIET_SUMMARY_NO_INVENTED_EXACT_LINE。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MREMINDER_HUI_KEEPQUIET_SUMMARY_NO_INVENTED_EXACT_LINE。"
+      },
+      {
+        "reference": "v01-c0022:p0031",
+        "length": 27,
+        "sha256": "05e4e1a7f914e1ba9e041c77c26e71dc10689b13b181718a5fd28a593fa6440a",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0031:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N DOOR_APPLAUSE_SOUND_NOT_LATER_CHOPSTICKS_OR_ALL_MONKS_CHEERING。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N DOOR_APPLAUSE_SOUND_NOT_LATER_CHOPSTICKS_OR_ALL_MONKS_CHEERING。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N DOOR_APPLAUSE_SOUND_NOT_LATER_CHOPSTICKS_OR_ALL_MONKS_CHEERING。"
+      },
+      {
+        "reference": "v01-c0022:p0032",
+        "length": 64,
+        "sha256": "f9ad10d389f564c91baeb912b81e79cfaeb3ebcb8734d1c19d6796eccfc1f7a4",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0032:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_CHEERY_PUBLIC_ANNOUNCE_TWO_PICKED_NOT_WUSENG_DAY_ALREADY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "X actual_CHEERY_PUBLIC_ANNOUNCE_TWO_PICKED_NOT_WUSENG_DAY_ALREADY。",
+            "focalizer": "xuan_xin",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0032:u002",
+            "start": 30,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_CHEERY_PUBLIC_ANNOUNCE_TWO_PICKED_NOT_WUSENG_DAY_ALREADY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_CHEERY_PUBLIC_ANNOUNCE_TWO_PICKED_NOT_WUSENG_DAY_ALREADY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0032:u003",
+            "start": 46,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_CHEERY_PUBLIC_ANNOUNCE_TWO_PICKED_NOT_WUSENG_DAY_ALREADY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_CHEERY_PUBLIC_ANNOUNCE_TWO_PICKED_NOT_WUSENG_DAY_ALREADY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_CHEERY_PUBLIC_ANNOUNCE_TWO_PICKED_NOT_WUSENG_DAY_ALREADY。"
+      },
+      {
+        "reference": "v01-c0022:p0033",
+        "length": 70,
+        "sha256": "44ad4d39e6fa8fd9d40ccbbcd54c10a6c2721de92f845d8862ea6d7a1f342108",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0033:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N CHOPSTICKS_DROP_SHOCK_STILLNESS_SIMILE_NOT_TIMEFREEZE_SPELL_OR_APPLAUSE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N CHOPSTICKS_DROP_SHOCK_STILLNESS_SIMILE_NOT_TIMEFREEZE_SPELL_OR_APPLAUSE。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N CHOPSTICKS_DROP_SHOCK_STILLNESS_SIMILE_NOT_TIMEFREEZE_SPELL_OR_APPLAUSE。"
+      },
+      {
+        "reference": "v01-c0022:p0034",
+        "length": 16,
+        "sha256": "d9c79c66aa68e05451abcdd3fc1eb8997dccb078f926094237710852caf7358c",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0034:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_ASK_MHUI_SAY_SOMETHING_SOURCE35_IDENTIFIES_X_NOT_UNNAMED_MONK。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_ASK_MHUI_SAY_SOMETHING_SOURCE35_IDENTIFIES_X_NOT_UNNAMED_MONK。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_ASK_MHUI_SAY_SOMETHING_SOURCE35_IDENTIFIES_X_NOT_UNNAMED_MONK。"
+      },
+      {
+        "reference": "v01-c0022:p0035",
+        "length": 63,
+        "sha256": "7f3b6584cb36c4dcbff042eb8cd9f166d1cf97fe9e0bc1aab304472583469b04",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0035:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N GROUPDARK_EYES_MUNEASE_NOT_CONFIRMED_ALL_MONKS_MURDERPLAN。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N GROUPDARK_EYES_MUNEASE_NOT_CONFIRMED_ALL_MONKS_MURDERPLAN。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N GROUPDARK_EYES_MUNEASE_NOT_CONFIRMED_ALL_MONKS_MURDERPLAN。"
+      },
+      {
+        "reference": "v01-c0022:p0036",
+        "length": 38,
+        "sha256": "f7d0720e876f8824d688bfdb3fd521616833b654b21883a7899fa912cf7d7572",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0036:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_CREDITS_XCLEANING_ASSIGNMENT_SOCIAL_REPLY_NOT_CONFESSION_GUESTBRIBE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_CREDITS_XCLEANING_ASSIGNMENT_SOCIAL_REPLY_NOT_CONFESSION_GUESTBRIBE。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0036:u002",
+            "start": 19,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M actual_CREDITS_XCLEANING_ASSIGNMENT_SOCIAL_REPLY_NOT_CONFESSION_GUESTBRIBE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M actual_CREDITS_XCLEANING_ASSIGNMENT_SOCIAL_REPLY_NOT_CONFESSION_GUESTBRIBE。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_CREDITS_XCLEANING_ASSIGNMENT_SOCIAL_REPLY_NOT_CONFESSION_GUESTBRIBE。"
+      },
+      {
+        "reference": "v01-c0022:p0037",
+        "length": 63,
+        "sha256": "7bd99ccb52cef87d00342674871ebb623129d4b097329855e39c105be02dccb1",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0037:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_PRAISE_M_INVITE_RETURN_STORIES_AND_ASK_GROUP_CONGRATULATE_NOT_NALL_VOICES_HAPPY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "X actual_PRAISE_M_INVITE_RETURN_STORIES_AND_ASK_GROUP_CONGRATULATE_NOT_NALL_VOICES_HAPPY。",
+            "focalizer": "xuan_xin",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0037:u002",
+            "start": 7,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_PRAISE_M_INVITE_RETURN_STORIES_AND_ASK_GROUP_CONGRATULATE_NOT_NALL_VOICES_HAPPY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_PRAISE_M_INVITE_RETURN_STORIES_AND_ASK_GROUP_CONGRATULATE_NOT_NALL_VOICES_HAPPY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0037:u003",
+            "start": 55,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_PRAISE_M_INVITE_RETURN_STORIES_AND_ASK_GROUP_CONGRATULATE_NOT_NALL_VOICES_HAPPY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_PRAISE_M_INVITE_RETURN_STORIES_AND_ASK_GROUP_CONGRATULATE_NOT_NALL_VOICES_HAPPY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_PRAISE_M_INVITE_RETURN_STORIES_AND_ASK_GROUP_CONGRATULATE_NOT_NALL_VOICES_HAPPY。"
+      },
+      {
+        "reference": "v01-c0022:p0038",
+        "length": 38,
+        "sha256": "87ffb24ab30677bea0313f09e0a28cc7582e8df50d84a775e12f23a583ffdb98",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0038:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "U actual_UNNAMED_FIRST_CONGRATULATION_FORCED_SMILE_NOT_FORCED_ZHENGUAN_IDENTITY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "U actual_UNNAMED_FIRST_CONGRATULATION_FORCED_SMILE_NOT_FORCED_ZHENGUAN_IDENTITY。",
+            "focalizer": "choremonk_response_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0038:u002",
+            "start": 20,
+            "end": 38,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_first_congratulating_choremonk_v01",
+            "surface_identity": "unnamed_first_congratulator_not_forced_ZhenGuan",
+            "text_context": "U actual_UNNAMED_FIRST_CONGRATULATION_FORCED_SMILE_NOT_FORCED_ZHENGUAN_IDENTITY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_first_anonymous_congratulation",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "one_choremonk_forcedsmile",
+            "delivery": "congratulation_smile_worse_than_cry",
+            "knowledge_boundary": "U actual_UNNAMED_FIRST_CONGRATULATION_FORCED_SMILE_NOT_FORCED_ZHENGUAN_IDENTITY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "U actual_UNNAMED_FIRST_CONGRATULATION_FORCED_SMILE_NOT_FORCED_ZHENGUAN_IDENTITY。"
+      },
+      {
+        "reference": "v01-c0022:p0039",
+        "length": 81,
+        "sha256": "6a6f35c5757df1d3ffdf1a8210deb9a8b8f9ccb081814f0a9f8d8df17c975eb4",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0039:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "choremonk_response_group_v01",
+            "surface_identity": "anonymous_choregroup_not_one_new_actor",
+            "text_context": "G actual_MULTI_VOICE_CONGRATS_DIFFERENT_SELF_PITY_BITTERNESS_ANGER_ENVY_NOT_SYNCHRONIZED_JOY_SOURCE_善堂疑膳堂保。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_group_congratulation_NOT_UNIFORM_JOY",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "mixed_feeling_monks_hear_transfer",
+            "delivery": "multiple_varied_bitter_envious_voices",
+            "knowledge_boundary": "G actual_MULTI_VOICE_CONGRATS_DIFFERENT_SELF_PITY_BITTERNESS_ANGER_ENVY_NOT_SYNCHRONIZED_JOY_SOURCE_善堂疑膳堂保。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0039:u002",
+            "start": 18,
+            "end": 81,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "G actual_MULTI_VOICE_CONGRATS_DIFFERENT_SELF_PITY_BITTERNESS_ANGER_ENVY_NOT_SYNCHRONIZED_JOY_SOURCE_善堂疑膳堂保。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "G actual_MULTI_VOICE_CONGRATS_DIFFERENT_SELF_PITY_BITTERNESS_ANGER_ENVY_NOT_SYNCHRONIZED_JOY_SOURCE_善堂疑膳堂保。",
+            "focalizer": "choremonk_response_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "G actual_MULTI_VOICE_CONGRATS_DIFFERENT_SELF_PITY_BITTERNESS_ANGER_ENVY_NOT_SYNCHRONIZED_JOY_SOURCE_善堂疑膳堂保。"
+      },
+      {
+        "reference": "v01-c0022:p0040",
+        "length": 37,
+        "sha256": "46347dc6894efa7ba18a17bb60bcd3302bc1fb194d861fd3b2e6a5f0951c9d48",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0040:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M actual_POLITE_BUDDHA_BLESSING_ENCOURAGEMENT_NOT_NCERTIFIES_DIVINE_CAUSE_OR_EVERYONE_TRANSFER。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M actual_POLITE_BUDDHA_BLESSING_ENCOURAGEMENT_NOT_NCERTIFIES_DIVINE_CAUSE_OR_EVERYONE_TRANSFER。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0040:u002",
+            "start": 8,
+            "end": 37,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_POLITE_BUDDHA_BLESSING_ENCOURAGEMENT_NOT_NCERTIFIES_DIVINE_CAUSE_OR_EVERYONE_TRANSFER。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_POLITE_BUDDHA_BLESSING_ENCOURAGEMENT_NOT_NCERTIFIES_DIVINE_CAUSE_OR_EVERYONE_TRANSFER。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_POLITE_BUDDHA_BLESSING_ENCOURAGEMENT_NOT_NCERTIFIES_DIVINE_CAUSE_OR_EVERYONE_TRANSFER。"
+      },
+      {
+        "reference": "v01-c0022:p0041",
+        "length": 42,
+        "sha256": "64cacc27588d7384ba925a7229a70db5c9a859724c4ab7c5c39cc950118f28e7",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0041:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "ZhenHui_sincere_simple_child_not_fake_stupid",
+            "text_context": "H actual_SINCERE_FOCUS_ADVICE_NOT_DELIVERED_MOCKERY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_ZhenHui_reply",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_choreboy_tomorrow_transfer_not_Rulai_palm_acquired",
+            "delivery": "delayed_but_genuine_happy_dream_literal_question_sincere_focus_advice",
+            "knowledge_boundary": "H actual_SINCERE_FOCUS_ADVICE_NOT_DELIVERED_MOCKERY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0041:u002",
+            "start": 33,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "H actual_SINCERE_FOCUS_ADVICE_NOT_DELIVERED_MOCKERY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "H actual_SINCERE_FOCUS_ADVICE_NOT_DELIVERED_MOCKERY。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "H actual_SINCERE_FOCUS_ADVICE_NOT_DELIVERED_MOCKERY。"
+      },
+      {
+        "reference": "v01-c0022:p0042",
+        "length": 74,
+        "sha256": "c6d9fbc83ed42cf7b634331c8495c14e422d833dac513f3299be15af7e48424e",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0042:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MTHINKS_METHOD_REAL_OTHERS_DONTBELIEVE_HUI_KNOWN_HONEST_NOT_NREQUIRES_ALL_IF_SWEEP_PROMOTED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MTHINKS_METHOD_REAL_OTHERS_DONTBELIEVE_HUI_KNOWN_HONEST_NOT_NREQUIRES_ALL_IF_SWEEP_PROMOTED。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MTHINKS_METHOD_REAL_OTHERS_DONTBELIEVE_HUI_KNOWN_HONEST_NOT_NREQUIRES_ALL_IF_SWEEP_PROMOTED。"
+      },
+      {
+        "reference": "v01-c0022:p0043",
+        "length": 65,
+        "sha256": "434ebeabc5058c4112c6f8ec1a88b2068bdfd97833ea6c5c09c876b7c6570bab",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0043:u001",
+            "start": 0,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MPRAYER_SUMMARY_NO_NEW_EXACT_FOHAO_then_NSTORYSESSION_START。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MPRAYER_SUMMARY_NO_NEW_EXACT_FOHAO_then_NSTORYSESSION_START。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MPRAYER_SUMMARY_NO_NEW_EXACT_FOHAO_then_NSTORYSESSION_START。"
+      },
+      {
+        "reference": "v01-c0022:p0044",
+        "length": 56,
+        "sha256": "7dd691132ea1076010c5dcb56bba1b0142725956f7666453a53a1f27798798d1",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0044:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_yong",
+            "surface_identity": "ZhenYong_Wuseng_visitor_not_ZhenYan_or_ZhenYing",
+            "text_context": "V actual_WUSENG_VISITOR_ZHENYONG_NOT_ZHENYAN_CHORE_OLDERBROTHER。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_ZhenYong_speech",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "existing_Wuseng_storylistener_not_transferring_with_M",
+            "delivery": "smiling_friendly_practical_peer_information_no_future_secret_voice",
+            "knowledge_boundary": "V actual_WUSENG_VISITOR_ZHENYONG_NOT_ZHENYAN_CHORE_OLDERBROTHER。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0044:u002",
+            "start": 40,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "V actual_WUSENG_VISITOR_ZHENYONG_NOT_ZHENYAN_CHORE_OLDERBROTHER。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "V actual_WUSENG_VISITOR_ZHENYONG_NOT_ZHENYAN_CHORE_OLDERBROTHER。",
+            "focalizer": "zhen_yong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "V actual_WUSENG_VISITOR_ZHENYONG_NOT_ZHENYAN_CHORE_OLDERBROTHER。"
+      },
+      {
+        "reference": "v01-c0022:p0045",
+        "length": 34,
+        "sha256": "9e11bd6d2351d93979242e939083c14cd2191ffd6fd89212ff5af7edcb3cf44b",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0045:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M actual_ASKS_VLOOKAFTER。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M actual_ASKS_VLOOKAFTER。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0045:u002",
+            "start": 18,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M actual_ASKS_VLOOKAFTER。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M actual_ASKS_VLOOKAFTER。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M actual_ASKS_VLOOKAFTER。"
+      },
+      {
+        "reference": "v01-c0022:p0046",
+        "length": 92,
+        "sha256": "e907e5dea12b7ca3a59397e0e16adfb0b5456e22a959145f5dfe6a57f270f819",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0046:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "V actual_REPORT_PEERS_LIKE_STORIES_AND_OWN_FACE_NOT_GUARANTEED_ALL_WILL_NEVER_TROUBLE_M。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "V actual_REPORT_PEERS_LIKE_STORIES_AND_OWN_FACE_NOT_GUARANTEED_ALL_WILL_NEVER_TROUBLE_M。",
+            "focalizer": "zhen_yong",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0046:u002",
+            "start": 5,
+            "end": 92,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_yong",
+            "surface_identity": "ZhenYong_Wuseng_visitor_not_ZhenYan_or_ZhenYing",
+            "text_context": "V actual_REPORT_PEERS_LIKE_STORIES_AND_OWN_FACE_NOT_GUARANTEED_ALL_WILL_NEVER_TROUBLE_M。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_ZhenYong_speech",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "existing_Wuseng_storylistener_not_transferring_with_M",
+            "delivery": "smiling_friendly_practical_peer_information_no_future_secret_voice",
+            "knowledge_boundary": "V actual_REPORT_PEERS_LIKE_STORIES_AND_OWN_FACE_NOT_GUARANTEED_ALL_WILL_NEVER_TROUBLE_M。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "V actual_REPORT_PEERS_LIKE_STORIES_AND_OWN_FACE_NOT_GUARANTEED_ALL_WILL_NEVER_TROUBLE_M。"
+      },
+      {
+        "reference": "v01-c0022:p0047",
+        "length": 36,
+        "sha256": "c676cbb30ea448e1b4889926c47cd4d166d989f81a03b354bed2ab1b7772841a",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0047:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M ONLY_FIRSTQUOTE_ACTUAL_SECOND_HUI_ACTUAL_NOT_BOTH_M_OR_V。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M ONLY_FIRSTQUOTE_ACTUAL_SECOND_HUI_ACTUAL_NOT_BOTH_M_OR_V。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0047:u002",
+            "start": 10,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M ONLY_FIRSTQUOTE_ACTUAL_SECOND_HUI_ACTUAL_NOT_BOTH_M_OR_V。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M ONLY_FIRSTQUOTE_ACTUAL_SECOND_HUI_ACTUAL_NOT_BOTH_M_OR_V。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0047:u003",
+            "start": 25,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "ZhenHui_sincere_simple_child_not_fake_stupid",
+            "text_context": "M ONLY_FIRSTQUOTE_ACTUAL_SECOND_HUI_ACTUAL_NOT_BOTH_M_OR_V。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_ZhenHui_reply",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_choreboy_tomorrow_transfer_not_Rulai_palm_acquired",
+            "delivery": "delayed_but_genuine_happy_dream_literal_question_sincere_focus_advice",
+            "knowledge_boundary": "M ONLY_FIRSTQUOTE_ACTUAL_SECOND_HUI_ACTUAL_NOT_BOTH_M_OR_V。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M ONLY_FIRSTQUOTE_ACTUAL_SECOND_HUI_ACTUAL_NOT_BOTH_M_OR_V。"
+      },
+      {
+        "reference": "v01-c0022:p0048",
+        "length": 98,
+        "sha256": "25c72abeedfd4ac801944dbf47a8419be8676d548d0fed403cc86eca878d4a0d",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0048:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_SECT_PRIDE_THREE_FASHEN_JIN_SHAOLIN_ONE_CLAIM_NOT_NEW_ABBOT_COMBAT。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "X actual_SECT_PRIDE_THREE_FASHEN_JIN_SHAOLIN_ONE_CLAIM_NOT_NEW_ABBOT_COMBAT。",
+            "focalizer": "xuan_xin",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0048:u002",
+            "start": 19,
+            "end": 98,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_SECT_PRIDE_THREE_FASHEN_JIN_SHAOLIN_ONE_CLAIM_NOT_NEW_ABBOT_COMBAT。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_SECT_PRIDE_THREE_FASHEN_JIN_SHAOLIN_ONE_CLAIM_NOT_NEW_ABBOT_COMBAT。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_SECT_PRIDE_THREE_FASHEN_JIN_SHAOLIN_ONE_CLAIM_NOT_NEW_ABBOT_COMBAT。"
+      },
+      {
+        "reference": "v01-c0022:p0049",
+        "length": 28,
+        "sha256": "76d796024db675de59d449f867a578a077b00896df242f4f6dbb83c14c660826",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0049:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_TOPIC_QUESTION_SAME_NARRATOR_X_NOT_NEW_UNKNOWN。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_TOPIC_QUESTION_SAME_NARRATOR_X_NOT_NEW_UNKNOWN。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_TOPIC_QUESTION_SAME_NARRATOR_X_NOT_NEW_UNKNOWN。"
+      },
+      {
+        "reference": "v01-c0022:p0050",
+        "length": 52,
+        "sha256": "e4f886c3d2f4a665f438532ed38146b7ff0a2b13d112239d5e85c5fd1f463110",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0050:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M PREFIX_PRIVATE_SECTPRIDE_CRITIQUE_NFRAME_THEN_ACTUAL_LOUD_REQUEST_STORY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "editorial_M_private_sarcasm_reaction_or_dreamquestion",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M PREFIX_PRIVATE_SECTPRIDE_CRITIQUE_NFRAME_THEN_ACTUAL_LOUD_REQUEST_STORY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0050:u002",
+            "start": 24,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M PREFIX_PRIVATE_SECTPRIDE_CRITIQUE_NFRAME_THEN_ACTUAL_LOUD_REQUEST_STORY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M PREFIX_PRIVATE_SECTPRIDE_CRITIQUE_NFRAME_THEN_ACTUAL_LOUD_REQUEST_STORY。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0050:u003",
+            "start": 36,
+            "end": 52,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M PREFIX_PRIVATE_SECTPRIDE_CRITIQUE_NFRAME_THEN_ACTUAL_LOUD_REQUEST_STORY。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_M_reply_Fohao_or_story_roleplay",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M PREFIX_PRIVATE_SECTPRIDE_CRITIQUE_NFRAME_THEN_ACTUAL_LOUD_REQUEST_STORY。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M PREFIX_PRIVATE_SECTPRIDE_CRITIQUE_NFRAME_THEN_ACTUAL_LOUD_REQUEST_STORY。"
+      },
+      {
+        "reference": "v01-c0022:p0051",
+        "length": 19,
+        "sha256": "4b02ab9b462583a5b24dabd910515061e3d324c61f0dc166c425e05985ab2a61",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0051:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "G EXACT_SUFFIX_BUZHI_ACTUAL_WEARY_GROUP_REPLY_NFRAME_NOT_INVENTED_COMPLETE_SENTENCE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "G EXACT_SUFFIX_BUZHI_ACTUAL_WEARY_GROUP_REPLY_NFRAME_NOT_INVENTED_COMPLETE_SENTENCE。",
+            "focalizer": "choremonk_response_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0051:u002",
+            "start": 16,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "choremonk_response_group_v01",
+            "surface_identity": "anonymous_choregroup_not_one_new_actor",
+            "text_context": "G EXACT_SUFFIX_BUZHI_ACTUAL_WEARY_GROUP_REPLY_NFRAME_NOT_INVENTED_COMPLETE_SENTENCE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_group_weary_buzhi_reply",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "mixed_feeling_monks_hear_transfer",
+            "delivery": "weary_group_response",
+            "knowledge_boundary": "G EXACT_SUFFIX_BUZHI_ACTUAL_WEARY_GROUP_REPLY_NFRAME_NOT_INVENTED_COMPLETE_SENTENCE。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0051:u003",
+            "start": 18,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "G EXACT_SUFFIX_BUZHI_ACTUAL_WEARY_GROUP_REPLY_NFRAME_NOT_INVENTED_COMPLETE_SENTENCE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "G EXACT_SUFFIX_BUZHI_ACTUAL_WEARY_GROUP_REPLY_NFRAME_NOT_INVENTED_COMPLETE_SENTENCE。",
+            "focalizer": "choremonk_response_group_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "G EXACT_SUFFIX_BUZHI_ACTUAL_WEARY_GROUP_REPLY_NFRAME_NOT_INVENTED_COMPLETE_SENTENCE。"
+      },
+      {
+        "reference": "v01-c0022:p0052",
+        "length": 133,
+        "sha256": "34378fd069896fe3f60a27f22092cef33d3bb6932e8b313aef3a6f48376e89cc",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0052:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "X actual_REPORTED_HANGUANG_MOSHI_ORIGIN_UNDER50_DEMONBODY_NOT_CURRENT_HAN_VOICE_OR_REALTIME_FIGHT。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "X actual_REPORTED_HANGUANG_MOSHI_ORIGIN_UNDER50_DEMONBODY_NOT_CURRENT_HAN_VOICE_OR_REALTIME_FIGHT。",
+            "focalizer": "xuan_xin",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0052:u002",
+            "start": 20,
+            "end": 69,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_REPORTED_HANGUANG_MOSHI_ORIGIN_UNDER50_DEMONBODY_NOT_CURRENT_HAN_VOICE_OR_REALTIME_FIGHT。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_REPORTED_HANGUANG_MOSHI_ORIGIN_UNDER50_DEMONBODY_NOT_CURRENT_HAN_VOICE_OR_REALTIME_FIGHT。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0052:u003",
+            "start": 69,
+            "end": 133,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_REPORTED_HANGUANG_MOSHI_ORIGIN_UNDER50_DEMONBODY_NOT_CURRENT_HAN_VOICE_OR_REALTIME_FIGHT。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_REPORTED_HANGUANG_MOSHI_ORIGIN_UNDER50_DEMONBODY_NOT_CURRENT_HAN_VOICE_OR_REALTIME_FIGHT。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_REPORTED_HANGUANG_MOSHI_ORIGIN_UNDER50_DEMONBODY_NOT_CURRENT_HAN_VOICE_OR_REALTIME_FIGHT。"
+      },
+      {
+        "reference": "v01-c0022:p0053",
+        "length": 62,
+        "sha256": "435b518a2822d7db25c4bc58f3b3f9ac3817dd261944c19b23b11ae788e1ddac",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0053:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_NINEYEAR_OLD_BATTLE_LAKE_RESULT_REPORTED_HAN_KILLED_OR_SUPPRESSED_RUMOR_NOT_CANON_DEATH_CONFIRMED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_NINEYEAR_OLD_BATTLE_LAKE_RESULT_REPORTED_HAN_KILLED_OR_SUPPRESSED_RUMOR_NOT_CANON_DEATH_CONFIRMED。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_NINEYEAR_OLD_BATTLE_LAKE_RESULT_REPORTED_HAN_KILLED_OR_SUPPRESSED_RUMOR_NOT_CANON_DEATH_CONFIRMED。"
+      },
+      {
+        "reference": "v01-c0022:p0054",
+        "length": 23,
+        "sha256": "a2ed466140b8cd555256268b7319bdc7fd1d5a316e5bf8e3db19986676293504",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0054:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_xin",
+            "surface_identity": "XuanXin_chore_supervisor_teller_not_Xuanku",
+            "text_context": "X actual_SHAOLIN_SUPERIORITY_BOAST_NOT_NALL_POWERCOMPARISONS_CERTIFIED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "actual_XuanXin_order_praise_or_reported_story",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "same_celebratory_supervisor_then_proud_storyteller",
+            "delivery": "broad_public_congratulation_then_cough_stops_chatter_sectpride_reported_lore",
+            "knowledge_boundary": "X actual_SHAOLIN_SUPERIORITY_BOAST_NOT_NALL_POWERCOMPARISONS_CERTIFIED。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "X actual_SHAOLIN_SUPERIORITY_BOAST_NOT_NALL_POWERCOMPARISONS_CERTIFIED。"
+      },
+      {
+        "reference": "v01-c0022:p0055",
+        "length": 38,
+        "sha256": "51aad7b55b5ea243aa33ce4f6cc0f1ec3f023cf484f51234ce2332a5bf5f788e",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0055:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N LISTENERS_EXCITED_WANT_HEROPOWER_NOT_ACTUAL_IMMEDIATE_REALM_BREAK。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N LISTENERS_EXCITED_WANT_HEROPOWER_NOT_ACTUAL_IMMEDIATE_REALM_BREAK。",
+            "focalizer": "xuan_xin",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N LISTENERS_EXCITED_WANT_HEROPOWER_NOT_ACTUAL_IMMEDIATE_REALM_BREAK。"
+      },
+      {
+        "reference": "v01-c0022:p0056",
+        "length": 22,
+        "sha256": "34b1089e27ca096efa129e1742579d62b2e91814631b8d577919f905a8e9b2e0",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0056:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "inner_speech",
+            "speaker": "meng_choregroup_aspiration_v01",
+            "surface_identity": "Meng_and_listening_choremonks_shared_focal_not_newperson",
+            "text_context": "P EDITORIAL_SHARED_ASPIRATION_NOT_PUBLIC_AUDIBLE_CHORUS_OR_ACTUAL_POWER_NOW。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_mixed_congratulations_and_reported_martial_rumor",
+            "channel": "editorial_listeners_shared_aspiration",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "living_listeners_not_already_mountainmoving_power",
+            "delivery": "editorial_shared_yearning_not_audible_chorus",
+            "knowledge_boundary": "P EDITORIAL_SHARED_ASPIRATION_NOT_PUBLIC_AUDIBLE_CHORUS_OR_ACTUAL_POWER_NOW。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "P EDITORIAL_SHARED_ASPIRATION_NOT_PUBLIC_AUDIBLE_CHORUS_OR_ACTUAL_POWER_NOW。"
+      },
+      {
+        "reference": "v01-c0022:p0057",
+        "length": 52,
+        "sha256": "940032acfdc05a69ff2ac9689a2da5b47a395eb8c5010c2aa6eb4e64b35d4361",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0057:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ZHENGUAN_ZHENYING_SLEEP_HUI_MEDITATES_THEN_SLEEPS_NOT_EXTRA_DIALOGUE_OR_PROOF_ALL_SLEEP_FAKE。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_sleep_to_actual_night_strangling",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N ZHENGUAN_ZHENYING_SLEEP_HUI_MEDITATES_THEN_SLEEPS_NOT_EXTRA_DIALOGUE_OR_PROOF_ALL_SLEEP_FAKE。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ZHENGUAN_ZHENYING_SLEEP_HUI_MEDITATES_THEN_SLEEPS_NOT_EXTRA_DIALOGUE_OR_PROOF_ALL_SLEEP_FAKE。"
+      },
+      {
+        "reference": "v01-c0022:p0058",
+        "length": 51,
+        "sha256": "4047c630c1971c0a8653bd40e164efd0471ccd4b0baa43d3e1a21cfecb12700f",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0058:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MIRONSHIRT_ONEPASS_EXCITED_INSOMNIA_THEN_SLEEP_NOT_ALREADY_NEW_ART_INSTALLED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_sleep_to_actual_night_strangling",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MIRONSHIRT_ONEPASS_EXCITED_INSOMNIA_THEN_SLEEP_NOT_ALREADY_NEW_ART_INSTALLED。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MIRONSHIRT_ONEPASS_EXCITED_INSOMNIA_THEN_SLEEP_NOT_ALREADY_NEW_ART_INSTALLED。"
+      },
+      {
+        "reference": "v01-c0022:p0059",
+        "length": 33,
+        "sha256": "0be595ec5d9eb177545ac46b0acf459858a90a98241213ae1c91f45e47d9bb68",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0059:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N MDREAMLIKE_PRESSURE_BREATH_DIFFICULT_REAL_STRANGLE_REVEALED61_NOT_OMNISCIENT_GHOST。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_sleep_to_actual_night_strangling",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N MDREAMLIKE_PRESSURE_BREATH_DIFFICULT_REAL_STRANGLE_REVEALED61_NOT_OMNISCIENT_GHOST。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N MDREAMLIKE_PRESSURE_BREATH_DIFFICULT_REAL_STRANGLE_REVEALED61_NOT_OMNISCIENT_GHOST。"
+      },
+      {
+        "reference": "v01-c0022:p0060",
+        "length": 37,
+        "sha256": "e98e3557a022f80312d67ab13d476754ecd559d38d8b1bb29ee84b4d1b19a49c",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0060:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_child_wheel_participant_hidden",
+            "text_context": "M QUOTED_DREAM_PRIVATE_GHOSTPRESS_QUESTION_NOT_NREAL_GHOST_OR_MOUTLOUD_CONFIRMED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_sleep_to_actual_night_strangling",
+            "channel": "editorial_M_private_sarcasm_reaction_or_dreamquestion",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "ironshirt_QI_SMALL_not_Wuseng_attended_yet_not_new72arts",
+            "delivery": "shocked_grateful_then_witty_rebuttal_private_tease_elegant_fantasy_social_tact_private_critique_then_sleep_alarm",
+            "knowledge_boundary": "M QUOTED_DREAM_PRIVATE_GHOSTPRESS_QUESTION_NOT_NREAL_GHOST_OR_MOUTLOUD_CONFIRMED。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0022:p0060:u002",
+            "start": 7,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "M QUOTED_DREAM_PRIVATE_GHOSTPRESS_QUESTION_NOT_NREAL_GHOST_OR_MOUTLOUD_CONFIRMED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_sleep_to_actual_night_strangling",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "M QUOTED_DREAM_PRIVATE_GHOSTPRESS_QUESTION_NOT_NREAL_GHOST_OR_MOUTLOUD_CONFIRMED。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "M QUOTED_DREAM_PRIVATE_GHOSTPRESS_QUESTION_NOT_NREAL_GHOST_OR_MOUTLOUD_CONFIRMED。"
+      },
+      {
+        "reference": "v01-c0022:p0061",
+        "length": 38,
+        "sha256": "bb0d9c5ea55815e5f0dd7f2503ac8238b8ef1dcef7146f74a9b457135d32259f",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0061:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "N ZHENGUAN_ACTUAL_HANDS_STRANGLE_AND_BODY_WEIGHT_VOICE_DREAMLIKE_NOT_DIAGNOSIS_SLEEPWALK_OR_POSSESSION。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_sleep_to_actual_night_strangling",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "knowledge_boundary": "N ZHENGUAN_ACTUAL_HANDS_STRANGLE_AND_BODY_WEIGHT_VOICE_DREAMLIKE_NOT_DIAGNOSIS_SLEEPWALK_OR_POSSESSION。",
+            "focalizer": "zhen_guan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "N ZHENGUAN_ACTUAL_HANDS_STRANGLE_AND_BODY_WEIGHT_VOICE_DREAMLIKE_NOT_DIAGNOSIS_SLEEPWALK_OR_POSSESSION。"
+      },
+      {
+        "reference": "v01-c0022:p0062",
+        "length": 10,
+        "sha256": "d13d756400a6f23e1e8c38b13b98b6048b1f19c05b68549954a377e588945589",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0062:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_guan",
+            "surface_identity": "ZhenGuan_same_chore_roommate_not_ZhenYong",
+            "text_context": "T actual_KILLTHREAT_REALROOM_NOT_M_DREAM_SELFVOICED。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_sleep_to_actual_night_strangling",
+            "channel": "actual_ZhenGuan_dreamlike_murder_threat",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "actual_hands_on_Mneck_body_weight_awake_state_not_diagnosed",
+            "delivery": "vicious_look_DREAMLIKE_MURMUR_THREATS_not_new_system_voice",
+            "knowledge_boundary": "T actual_KILLTHREAT_REALROOM_NOT_M_DREAM_SELFVOICED。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "T actual_KILLTHREAT_REALROOM_NOT_M_DREAM_SELFVOICED。"
+      },
+      {
+        "reference": "v01-c0022:p0063",
+        "length": 12,
+        "sha256": "bab312bcbff45e030fbf201b8f8f8afab8aa06e2b2527acac84e890718fdfb43",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0063:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_guan",
+            "surface_identity": "ZhenGuan_same_chore_roommate_not_ZhenYong",
+            "text_context": "T actual_YOU_STOLE_MY_TRANSFER_ACCUSATION_NOT_NREAL_ONE_SLOT_STOLEN。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_sleep_to_actual_night_strangling",
+            "channel": "actual_ZhenGuan_dreamlike_murder_threat",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "actual_hands_on_Mneck_body_weight_awake_state_not_diagnosed",
+            "delivery": "vicious_look_DREAMLIKE_MURMUR_THREATS_not_new_system_voice",
+            "knowledge_boundary": "T actual_YOU_STOLE_MY_TRANSFER_ACCUSATION_NOT_NREAL_ONE_SLOT_STOLEN。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "T actual_YOU_STOLE_MY_TRANSFER_ACCUSATION_NOT_NREAL_ONE_SLOT_STOLEN。"
+      },
+      {
+        "reference": "v01-c0022:p0064",
+        "length": 14,
+        "sha256": "431ee549d11f9166ffbb1084f3a8b32fb601782126aa4b3b0ae47708e026363a",
+        "units": [
+          {
+            "unit_id": "v01-c0022:p0064:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_guan",
+            "surface_identity": "ZhenGuan_same_chore_roommate_not_ZhenYong",
+            "text_context": "T actual_IF_ICANT_NONECAN_THREAT_NO_RESCUE_OR_MCOUNTERATTACK_YET。",
+            "world_context": "EARLY_v01c22_ZJ_RECOMMENDED_FUTURE_GUESTMONK_KSUSPECTS_FLATTERY_MREBUTS_PRIVATE_DEMONPATH_SARCASM_HUIDREAM_YBITTER_RULES_XPUBLIC_CELEBRATION_MIXED_CONGRATS_ZHENYONG_STORIES_HANGUANG_OLD_RUMOR_NIGHT_ZHENGUAN_STRANGLES_OUTCOME_UNKNOWN",
+            "stage_context": "S07_sleep_to_actual_night_strangling",
+            "channel": "actual_ZhenGuan_dreamlike_murder_threat",
+            "fact_status": "actual_recommendation_and_attack_distinct_character_flattery_suspicion_sarcasm_future_fantasy_mixed_feelings_and_Han_rumor",
+            "embodiment": "actual_hands_on_Mneck_body_weight_awake_state_not_diagnosed",
+            "delivery": "vicious_look_DREAMLIKE_MURMUR_THREATS_not_new_system_voice",
+            "knowledge_boundary": "T actual_IF_ICANT_NONECAN_THREAT_NO_RESCUE_OR_MCOUNTERATTACK_YET。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "T actual_IF_ICANT_NONECAN_THREAT_NO_RESCUE_OR_MCOUNTERATTACK_YET。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0022",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S07",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 30,
+        "label": "推荐缘由、玄苦偏见与少年愿景",
+        "direction": "1孟惊大于喜、2玄痴浑厚低沉说明张江赞礼节克制而荐，未来培养知客不是已当知客。4感激与喜悦真实、5玄痴豪雄步态不改僧人身份。6玄苦严劝、7孟听出攀附疑虑，8据理反讽与10特意庄严佛号有少年口舌快意，9尚未学经不演成佛理大家；11玄苦你字受噎，12只有首引语公开威胁，离去后攀附理由为玄苦内想，13孟堕魔讥语只心中并非将来定论。14–17真慧慢半拍且真心向往如来掌，噗为孟喷唾的动作声，18–24白衣僧舟/无花故事是孟实际讲的未来幻想，同一人模仿施主台词，不给无花或虚构施主配新人；24悄自安慰选内想留可听性问题。25真言祝贺酸涩但规则真实：蓄气成后仍要被师叔伯挑，非人人学72；27孟理解三年多杂役落差，不把真言抹成恶人，29/30收敛炫耀与提醒真慧为体谅。证据v01-c0022:p0001–p0030。"
+      },
+      {
+        "paragraph_start": 31,
+        "paragraph_end": 56,
+        "label": "强制祝贺、同门故事与韩广传闻",
+        "direction": "31门口掌声属玄心，33筷落与群僧僵硬是震惊而非全员拍手，32/34/37玄心热闹公布并催恭贺；38首个未名者不强认真观，39多声自怜苦涩愤恨痛苦羡嫉同在，不排成齐心喜悦。36孟把安排扫院功劳给玄心是应酬，40佛佑祝愿不当客观神力，41真慧专一建议诚实非挖苦，42不信者反应另层，43佛号只概述不补字。44/46真永来旁听，异于真言真应，讲武僧院爱故事是其见闻，不能保证以后无人为难；47第一句孟、第二句慧。48–54玄心以门派自豪讲旧事，50孟先私下质疑自大后高声请说，51群僧有气无力仅不知二字可听。52韩广魔师旧历与53九年前大战为玄心转述，杀或镇压明确传闻，不宣布韩广确死、也不插古战当场对话；54声威盖诸派是吹嘘，55/56听众热血与向往非已经具备移山蹈海。39善堂疑膳堂仅记源。证据v01-c0022:p0031–p0056。"
+      },
+      {
+        "paragraph_start": 57,
+        "paragraph_end": 64,
+        "label": "兴奋入睡到实际掐颈",
+        "direction": "57真观真应蒙头睡、慧打坐后睡，58孟练心法辗转才睡，羡慧少杂念不证明睡者全伪装。59厚土般压力是梦中感受，60鬼压床疑问为未完全醒时内想，随醒见脸，61明确现实真观双手掐颈与身体压住。62–64三句杀语全真观，以凶恶目光和如梦呓声音形成迫近威胁，不加六道提示、真实鬼物或被附体诊断；抢我机会是他的指控，并非事实中仅一个名额被孟偷走。此章不补反杀、救援、伤亡或招式解决，保明日尚未入院与当前险境。证据v01-c0022:p0057–p0064。"
+      }
+    ],
+    "knowledge_rule": "推荐缘由明确但攀附指控和堕魔讥语分属角色，群祝不同心，旧战转述保传闻；原batch-0002保持，新复读独存reviews。梦呓般仅声音描写，夜袭结果未给不提前补写。"
+  }
 }

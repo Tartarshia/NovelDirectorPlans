@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [知客培养推荐与玄苦私见、孟奇反驳](early-guestmonk-recommendation-xuanku-private-suspicion.md) | 第22章历史归属回补 |
+| [杂役复杂恭贺、真永故事与韩广传闻](early-mixed-congratulation-zhenyong-story-han-rumor.md) | 第22章历史归属回补 |
+| [真观夜间掐颈与梦呓般杀语](early-zhenguan-night-strangle-dreamlike-threats.md) | 第22章历史归属回补 |
 | [公开陌生掩护、孟初闻戚死与知识缺口](early-public-stranger-cover-meng-learns-qixia-death.md) | 第21章历史归属回补 |
 | [杂役羡慕、隐秘点头与真言真慧](early-choremonk-envy-hidden-nods-zhenyan-hui-literal.md) | 第21章历史归属回补 |
 | [真慧专一与玄苦玄痴明日转院令](early-zhenhui-focus-xuanku-xuanchi-tomorrow-transfer.md) | 第21章历史归属回补 |
