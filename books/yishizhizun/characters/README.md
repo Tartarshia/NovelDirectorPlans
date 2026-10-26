@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至番外第9条目录条目
+# 角色阶段索引 · 截至番外第10条目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–9条已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–10条已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟主动赠自愿奇遇、不刻意控未来](meng-chance-gifts-voluntary-not-planned-fates.md) | 番外10证据与表演边界 |
+| [沈诚金书选择数值化、举锁实效家祸未演](shencheng-qidian-choice-stats-tenyear-disaster-not-shown.md) | 番外10证据与表演边界 |
+| [任云飞手机晋江合集、具体能力未展示](renyunfei-jinjiang-phone-fortune-unrevealed-template.md) | 番外10证据与表演边界 |
+| [未名和尚好人好事与道人无的放矢、非强定孟](unnamed-diviners-gooddeeds-aimless-not-named-deities.md) | 番外10证据与表演边界 |
 | [阴土导览红巾安全、罪孽因果不全免](underworld-guide-tour-redkerchief-justice-causality-not-amnesty.md) | 番外9证据与表演边界 |
 | [四方招魂禁斗、牌名不发声两界网时窗](underworld-recruiters-competition-no-combat-local-network-window.md) | 番外9证据与表演边界 |
 | [玄悲新纪讲法、两新徒愿未正式收](xuanbei-new-epoch-teaching-two-disciple-wish-not-accepted.md) | 番外9证据与表演边界 |
