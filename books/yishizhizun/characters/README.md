@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第三章真言与真观：同是规则解释，态度不同](early-zhenyan-dinner-rule-help-zhenguan-mockery.md) | 第3章历史归属回补 |
+| [第三章玄心说书与真应低语：传说的叙述层级](early-xuanxin-reported-lore-zhenying-quiet-correction.md) | 第3章历史归属回补 |
+| [第三章孟奇与真慧：玩笑、信任、抱负和思乡](early-meng-zhenhui-sweeper-contentment-moon-homesickness.md) | 第3章历史归属回补 |
 | [第二章剃度：仪式、暂静与还俗愿望](early-monastic-shaving-rules-youngbody-not-detachment.md) | 第二章历史归属回补 |
 | [第二章三僧与同室安排：姿态差异、动机未明](early-xuanxin-room-arrangement-xuanzang-motive-unresolved.md) | 第二章历史归属回补 |
 | [第二章室友与师弟：冷淡、沉默和认真误解](early-zhenguan-zhenying-dinner-zhenhui-literal-humour.md) | 第二章历史归属回补 |
