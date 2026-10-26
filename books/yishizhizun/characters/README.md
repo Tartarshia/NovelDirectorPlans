@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [少林心法已学与神行八步初摸](early-meng-shaolinmethod-shenxing-firsthint.md) | 第25章历史归属回补 |
+| [真量殿规欺弱与戒律院哥哥传闻](early-zhenliang-hallrule-brother-rumor.md) | 第25章历史归属回补 |
+| [原话回敬真量、实战胜出不等教化](early-meng-mirrored-challenge-not-bully-reform.md) | 第25章历史归属回补 |
 | [孟奇初识气势、真德真和两战](early-meng-peer-bouts-presence-zhende-zhenhe.md) | 第24章历史归属回补 |
 | [真妙自限之战与根基纠错仍正确](early-zhenmiao-limited-spar-ironshirt-not-fullrank-win.md) | 第24章历史归属回补 |
 | [真本破招自语与心法待传](early-zhenben-murmur-shaolin-lesson-pending.md) | 第24章历史归属回补 |
