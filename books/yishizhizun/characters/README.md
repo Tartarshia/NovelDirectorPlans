@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [团队借款、江的传音体谅与公开论剑](early-team-loan-private-transmission-public-swordtalk.md) | 第17章历史归属回补 |
+| [开窍丹资源差距与自主成长](early-pill-resources-qi-ordinary-agency-limits.md) | 第17章历史归属回补 |
+| [兑换初案修订与戚夏杂学赠刀](early-exchange-plan-revision-qixia-memory-gift.md) | 第17章历史归属回补 |
 | [回归免费治疗、真实六道声与无声玉册](early-return-living-heal-six-voice-silent-catalogue.md) | 第16章历史归属回补 |
 | [孟奇早期境界常识与被读心忧虑](early-meng-limited-realms-mindread-fear.md) | 第16章历史归属回补 |
 | [借善功误会与白衣剑侠/黑铁刀客幻想](early-loan-misread-white-swordhero-blackiron-fantasy.md) | 第16章历史归属回补 |
