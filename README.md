@@ -10,6 +10,7 @@
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
 - [第八卷成长与导演综合](books/yishizhizun/characters/v08-growth-summary.md)、[卷末复核](books/yishizhizun/reviews/volume-v08-review.md)、[50条阶段索引](books/yishizhizun/reviews/volume-v08-stage-index.json)：正文49章+作者感言闭合，番外12条与早缺全书终审仍待。
+- [早期归属回补：第一章](books/yishizhizun/reviews/review-backfill-v01-0001.md)：新全文复读79段119单元；归属已791章、待619，可用回执待补19；原始缺失记录不补造。
 - [番外卷成长与导演综合](books/yishizhizun/characters/v09-growth-summary.md)：12篇78阶段草案；[卷末复核](books/yishizhizun/reviews/volume-v09-review.md)、[待办缺口](books/yishizhizun/reviews/full-book-review-backlog.json)。目录读毕，620归属与20回执及全书终审未完。
 - [番外第12篇复核](books/yishizhizun/reviews/review-v09-0012.md)：Mu旧时追访孟顾、邵有限证词与桑树新枝、作者层独立，224段305单元；[状态账](books/yishizhizun/reviews/ledger-v09-0012.md)。
 - [番外第11篇复核](books/yishizhizun/reviews/review-v09-0011.md)：顾千年前蜡丸诱外景、暗示未执行、盾饵七女终死非当前新行动，63段72单元；[状态账](books/yishizhizun/reviews/ledger-v09-0011.md)。

@@ -4,6 +4,10 @@
 
 查阅入口：[按角色与分卷整理的阶段索引](characters/README.md)。连续增补保留为历史证据，当前状态以阶段卡及其证据时点为准。
 
+## 早期归属回补1：第一章《机心》
+
+79段新全文复读完成，119单元79注释；孟初醒机心、二玄声线与童名分院，原场界后证保。[回补复核](reviews/review-backfill-v01-0001.md)、[第一章历史卡](characters/early-meng-waking-adultmind-youngbody-name-ruse-fails.md)。这是回看首章而非新纪人物回退。
+
 ## 番外卷末综合
 
 12篇精读草案闭合，[角色成长与导演综合](characters/v09-growth-summary.md)、[卷末复核](reviews/volume-v09-review.md)、[结构索引](reviews/volume-v09-stage-index.json)与[真实待办清单](reviews/full-book-review-backlog.json)。目录1410条读毕不等全书定稿完成。

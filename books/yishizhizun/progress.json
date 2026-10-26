@@ -2492,7 +2492,8 @@
     "batch-1068",
     "batch-1069",
     "batch-1070",
-    "batch-1071"
+    "batch-1071",
+    "reread-v01-0001"
   ],
   "wiki_status": "partial_through_v09_c0012",
   "completed_volume_summaries": [
@@ -2509,7 +2510,7 @@
   "full_book_review": "not_started",
   "audio_generation": "not_requested",
   "supplemental_review": {
-    "review_id": "review-v09-0012",
+    "review_id": "review-backfill-v01-0001",
     "semantic_review_chapters": [
       "v04-c0121",
       "v04-c0122",
@@ -3300,12 +3301,20 @@
       "v09-c0009",
       "v09-c0010",
       "v09-c0011",
-      "v09-c0012"
+      "v09-c0012",
+      "v01-c0001"
     ],
-    "line_attribution_chapters": 790,
-    "line_attribution_open_questions": 31994,
-    "earlier_entries_pending_attribution": 620,
+    "line_attribution_chapters": 791,
+    "line_attribution_open_questions": 32073,
+    "earlier_entries_pending_attribution": 619,
     "character_cards": "consolidated_from_existing_volume_summaries_and_recent_source_review",
-    "full_book_review": "not_completed"
-  }
+    "full_book_review": "not_completed",
+    "receipt_backfill_remaining": 19,
+    "backfill_completed_chapters": [
+      "v01-c0001"
+    ]
+  },
+  "completed_backfill_batches": [
+    "backfill-v01-0001"
+  ]
 }

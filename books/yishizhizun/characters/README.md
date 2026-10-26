@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第一章孟奇：成人心智与幼身、机智应答失效](early-meng-waking-adultmind-youngbody-name-ruse-fails.md) | 首章历史归属回补 |
+| [第一章玄藏与玄苦：明确声线及询名制度](early-xuancang-xuanku-distinct-voices-not-omniscience.md) | 首章历史归属回补 |
+| [第一章方阿七／真慧与刘治／真德：坦诚和社交](early-fang-aqi-zhenhui-liuzhi-zhende-truth-status.md) | 首章历史归属回补 |
 | [穆旧时追访孟顾、见闻想象银钗不确证定情](mu-past-inquiry-witnesses-silverpin-not-confirmed-token.md) | 番外12旧时点与作者层边界 |
 | [邵长歌忠心证词、不知情缘原因与保密留言](shao-changge-testimony-unknown-cause-withheld-message.md) | 番外12旧时点与作者层边界 |
 | [顾乳名桑园末树、枯干新枝不即刻复活机制](gu-name-mulberry-courtyard-newbranch-symbolism.md) | 番外12旧时点与作者层边界 |
