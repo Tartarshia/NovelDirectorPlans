@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [回归免费治疗、真实六道声与无声玉册](early-return-living-heal-six-voice-silent-catalogue.md) | 第16章历史归属回补 |
+| [孟奇早期境界常识与被读心忧虑](early-meng-limited-realms-mindread-fear.md) | 第16章历史归属回补 |
+| [借善功误会与白衣剑侠/黑铁刀客幻想](early-loan-misread-white-swordhero-blackiron-fantasy.md) | 第16章历史归属回补 |
 | [孟江信任承诺与毒发前扑](early-trust-pledge-poison-lunge-private-vow.md) | 第15章历史归属回补 |
 | [隐皇堡主自称帝王与毒兽花阵](early-fortress-lord-royal-claims-poisonbeasts-flowers.md) | 第15章历史归属回补 |
 | [江芷微决胜剑光与戚张辨招](early-jiang-decisive-sword-qixia-zhang-identification.md) | 第15章历史归属回补 |
