@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [后山密门与真观相貌不等本尊证明](early-meng-secretgate-zhenguan-face-not-identity-proof.md) | 第27章历史归属回补 |
+| [玄悲温和问报与七绝手传闻身世](early-xuanbei-gentle-response-reported-qijueshou-history.md) | 第27章历史归属回补 |
+| [三日面壁错选徒、动机私推与雪字轮回](early-xuankong-three-day-penalty-missedselection-snow-notice.md) | 第27章历史归属回补 |
 | [知铁布衫后的败局与一步奇位再胜](early-zhenmiao-knownshirt-loss-onestep-counter.md) | 第26章历史归属回补 |
 | [真永借名玩笑与原文疑名严格区分](early-meng-borrowed-zhenyong-name-not-source-error.md) | 第26章历史归属回补 |
 | [月余输多胜少与后山外围任务待行](early-meng-month-training-upperhall-outer-guard.md) | 第26章历史归属回补 |
