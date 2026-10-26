@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第十二章初战错位：新手迟缓、程永理智与江的口令](early-firstbattle-novice-latency-cheng-controlled-humanreason.md) | 第12章历史归属回补 |
+| [第十二章孟奇第一胜：弃刀换拳与恐惧释放](early-meng-releaseknife-luohan-fist-firstkill-exhaustion.md) | 第12章历史归属回补 |
+| [第十二章血字奖励：拯救的反义感与路线重估](early-bloodtext-sidequest-reward-jiang-concern-for-qixia.md) | 第12章历史归属回补 |
 | [第十一章首死确认、实用换刀与分路求生](early-confirmed-firstdeath-practical-knife-westparty-mechanisms.md) | 第11章历史归属回补 |
 | [第十一章江芷微：初杀坦白与玩笑带来的信任](early-jiang-firstkill-confession-chickenjoke-earned-trust.md) | 第11章历史归属回补 |
 | [第十一章程永骤变：揭示前正常、人伤未定与第一刀](early-cheng-normal-before-greeneyes-jiang-injury-meng-firstknife.md) | 第11章历史归属回补 |
