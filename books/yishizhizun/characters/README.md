@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第十章假鬼、眼窍与戚夏：解除恐惧后仍是初次任务](early-railcaptive-eyeapertures-qixia-uneasy-interrogation.md) | 第10章历史归属回补 |
+| [第十章地图与分工：谨慎但并非全知](early-mapcheck-rankinference-eastwest-party-plan.md) | 第10章历史归属回补 |
+| [第十章言无疆致命倒下：旁观杀戮感被打断](early-first-fatal-companion-yan-wallstab-meng-horror.md) | 第10章历史归属回补 |
 | [第九章目录、读者、六道规矩和地面任务文字](early-catalogue-readers-sixrules-groundfire-tasktext.md) | 第9章历史归属回补 |
 | [第九章首任务团队：不服仍同行、理念不同而不内讧](early-firstmission-group-fate-sword-defiance-no-infighting.md) | 第9章历史归属回补 |
 | [第九章孟奇：现实依附与可修正的推断](early-meng-rescuefirst-revisable-gameinference-shadowunknown.md) | 第9章历史归属回补 |
