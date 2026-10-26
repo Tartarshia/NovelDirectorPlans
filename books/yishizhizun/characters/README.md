@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第五章孟奇：真气初现与识字后的暴露担忧](early-meng-firstqi-literacy-handwriting-exposurefear.md) | 第5章历史归属回补 |
+| [第五章真永与二玄：自来熟、误惊及岗位变化](early-zhenyong-brightsmile-xuanku-discipline-jobchange.md) | 第5章历史归属回补 |
+| [第五章自主修炼与讲旧乡故事：三个月后的真实进度](early-jade-independentqi-oldworldstory-three-month-librarytask.md) | 第5章历史归属回补 |
 | [第四章孟奇幼身与挑水：惊喜有边界](early-meng-watercarry-strengthcause-posture-breath.md) | 第4章历史归属回补 |
 | [第四章玄心：食肉尴尬、对联和水月往事](early-xuanxin-chicken-couplet-shuiyue-report.md) | 第4章历史归属回补 |
 | [第四章玄恩授课与玉佛助静：启蒙的实际终点](early-xuanen-firststep-jadecalm-not-completion.md) | 第4章历史归属回补 |
