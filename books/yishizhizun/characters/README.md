@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第四章孟奇幼身与挑水：惊喜有边界](early-meng-watercarry-strengthcause-posture-breath.md) | 第4章历史归属回补 |
+| [第四章玄心：食肉尴尬、对联和水月往事](early-xuanxin-chicken-couplet-shuiyue-report.md) | 第4章历史归属回补 |
+| [第四章玄恩授课与玉佛助静：启蒙的实际终点](early-xuanen-firststep-jadecalm-not-completion.md) | 第4章历史归属回补 |
 | [第三章真言与真观：同是规则解释，态度不同](early-zhenyan-dinner-rule-help-zhenguan-mockery.md) | 第3章历史归属回补 |
 | [第三章玄心说书与真应低语：传说的叙述层级](early-xuanxin-reported-lore-zhenying-quiet-correction.md) | 第3章历史归属回补 |
 | [第三章孟奇与真慧：玩笑、信任、抱负和思乡](early-meng-zhenhui-sweeper-contentment-moon-homesickness.md) | 第3章历史归属回补 |
