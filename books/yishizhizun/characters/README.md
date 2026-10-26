@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第七章江芷微初见：带鞘救人、自信与平等](early-jiang-firstmeeting-sheathedrescue-equal-confidence.md) | 第7章历史归属回补 |
+| [第七章张远山与清景：调停及未出场的比武](early-zhang-qingjing-firstmeeting-spar-report-boundaries.md) | 第7章历史归属回补 |
+| [第七章杂役出路：室友的悲愤与无解亮光](early-roommate-exitdespair-unknown-chestglow.md) | 第7章历史归属回补 |
 | [第六章空慧与罗汉拳：求证后学习的权限边界](early-konghui-library-access-common-luohanfist.md) | 第6章历史归属回补 |
 | [第六章真永与真慧：腹痛去向未明，奇遇并未发生](early-zhenyong-bellydeparture-zhenhui-story-nojump.md) | 第6章历史归属回补 |
 | [第六章孟奇：冬夜筑基完成与未消的出路焦虑](early-meng-winter-foundation-complete-shame-guesttask.md) | 第6章历史归属回补 |
