@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第九章目录、读者、六道规矩和地面任务文字](early-catalogue-readers-sixrules-groundfire-tasktext.md) | 第9章历史归属回补 |
+| [第九章首任务团队：不服仍同行、理念不同而不内讧](early-firstmission-group-fate-sword-defiance-no-infighting.md) | 第9章历史归属回补 |
+| [第九章孟奇：现实依附与可修正的推断](early-meng-rescuefirst-revisable-gameinference-shadowunknown.md) | 第9章历史归属回补 |
 | [第八章新同伴：戚夏、言无疆和齐正言](early-plaza-qixia-yanwujiang-qizhengyan-introductions.md) | 第8章历史归属回补 |
 | [第八章六道冷声与神功榜：宣告、文字和读者分层](early-sixpaths-unseenvoice-writtenmanual-not-purchase.md) | 第8章历史归属回补 |
 | [第八章怀疑与欲望：清景、江张和孟奇不同的反应](early-plaza-skepticism-sworddream-meng-genreknowledge.md) | 第8章历史归属回补 |
