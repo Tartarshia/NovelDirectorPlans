@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [忆受助的有界善意与小紫跟行](early-meng-compassion-limits-xiaozi-sleeve-follow.md) | 第29章历史归属回补 |
+| [齐正言天生脸色、谨慎带路与新剑入门](early-qizhengyan-born-flatface-not-childhood-trauma.md) | 第29章历史归属回补 |
+| [茶棚多点围杀与伤势、结果未决](early-teastall-multiside-ambush-no-outcome.md) | 第29章历史归属回补 |
 | [埋玉佛未阻召唤、江赠刀与四窍确认](early-jade-buried-reunion-jiang-breakthrough-fourapertures.md) | 第28章历史归属回补 |
 | [仙迹神话此时告孟齐与早期寿元传闻](early-xianji-shenhua-newknowledge-lifespan-rumors.md) | 第28章历史归属回补 |
 | [向辉小紫初见、江私传音与送名单任务](early-xianghui-xiaozi-newcomers-private-transmission-mission.md) | 第28章历史归属回补 |
