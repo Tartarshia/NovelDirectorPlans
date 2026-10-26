@@ -1,11 +1,15 @@
-# 角色阶段索引 · 截至番外第10条目录条目
+# 角色阶段索引 · 截至番外第11条目录条目
 
-这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–10条已有补充正文语义与归属复核。未读真相不纳入表演。
+这是按角色整理的查阅入口，不替代带证据的历史 wiki。第一至三卷取自已完成卷总结，本轮未逐章重新复读；第四卷前120章为既有阶段记录，121–402章、第五卷全25章及第六卷1–237章、第七卷1–184章、第八卷全50条与番外第1–11条已有补充正文语义与归属复核。未读真相不纳入表演。
 
 稳定底色是导演建议，境界与知情按各阶段正文。不要因为同一角色换身份就另造永久人格，也不要因角色稳定便让多年成长都用同一语气。
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾旧史货郎自杀暗示未执行、雷篆来源未名](gu-past-merchant-death-suggestion-xiaozi-seal-source-unknown.md) | 番外11旧史证据与表演边界 |
+| [顾旧蓝剑尖诱外景、非天外奇石同物已证](gu-past-blue-swordtip-diversion-not-same-sky-stone.md) | 番外11旧史证据与表演边界 |
+| [单秀眉脱身七天女最终死、盾饵战术分时](shanxiumei-seven-maidens-seven-killed-escape-not-final.md) | 番外11旧史证据与表演边界 |
+| [顾旧未来可能信息优与受控自觉、相遇孟提纲](gu-past-future-information-limits-rain-meeting-meng.md) | 番外11旧史证据与表演边界 |
 | [孟主动赠自愿奇遇、不刻意控未来](meng-chance-gifts-voluntary-not-planned-fates.md) | 番外10证据与表演边界 |
 | [沈诚金书选择数值化、举锁实效家祸未演](shencheng-qidian-choice-stats-tenyear-disaster-not-shown.md) | 番外10证据与表演边界 |
 | [任云飞手机晋江合集、具体能力未展示](renyunfei-jinjiang-phone-fortune-unrevealed-template.md) | 番外10证据与表演边界 |
