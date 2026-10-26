@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [禅房与宝殿分镜、现实死状和未知机制](early-hall-corpse-offscreen-meng-knowledge-boundary.md) | 第19章历史归属回补 |
+| [守拙空闻玄元子交涉与苏无名声貌反差](early-shouzhuo-kongwen-xuanyuanzi-su-voices.md) | 第19章历史归属回补 |
+| [张远山的稳重与冒险犹疑、戚夏报告开头](early-zhang-courage-private-hypotheses-qixia-opening.md) | 第19章历史归属回补 |
 | [铁布衫完成、有限防护与两册交付](early-ironshirt-completed-test-weakpoints-books-delivered.md) | 第18章历史归属回补 |
 | [浣花诗剑、齐正言私见与云雾实购](early-huanhua-poetry-private-ancestor-view-yunwu-choice.md) | 第18章历史归属回补 |
 | [购药图法分层与回寺玉佛急钟](early-pill-and-tanghua-purchases-home-jade-bell.md) | 第18章历史归属回补 |
