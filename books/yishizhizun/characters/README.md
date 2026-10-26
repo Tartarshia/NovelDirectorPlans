@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [铁布衫完成、有限防护与两册交付](early-ironshirt-completed-test-weakpoints-books-delivered.md) | 第18章历史归属回补 |
+| [浣花诗剑、齐正言私见与云雾实购](early-huanhua-poetry-private-ancestor-view-yunwu-choice.md) | 第18章历史归属回补 |
+| [购药图法分层与回寺玉佛急钟](early-pill-and-tanghua-purchases-home-jade-bell.md) | 第18章历史归属回补 |
 | [团队借款、江的传音体谅与公开论剑](early-team-loan-private-transmission-public-swordtalk.md) | 第17章历史归属回补 |
 | [开窍丹资源差距与自主成长](early-pill-resources-qi-ordinary-agency-limits.md) | 第17章历史归属回补 |
 | [兑换初案修订与戚夏杂学赠刀](early-exchange-plan-revision-qixia-memory-gift.md) | 第17章历史归属回补 |
