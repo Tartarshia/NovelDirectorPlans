@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [铁布衫浅伤反击与胡琴逃脱](early-meng-ironshirt-shallowcuts-counterattack-huqin-escape.md) | 第30章历史归属回补 |
+| [马资银钱实际付玉、同骑兼戒心](early-meng-horsepayment-sharedride-caution-not-romance.md) | 第30章历史归属回补 |
+| [原则成长、极端未答与雨箭再袭](early-meng-growing-principle-unanswered-deathchoice-rainarrows.md) | 第30章历史归属回补 |
 | [忆受助的有界善意与小紫跟行](early-meng-compassion-limits-xiaozi-sleeve-follow.md) | 第29章历史归属回补 |
 | [齐正言天生脸色、谨慎带路与新剑入门](early-qizhengyan-born-flatface-not-childhood-trauma.md) | 第29章历史归属回补 |
 | [茶棚多点围杀与伤势、结果未决](early-teastall-multiside-ambush-no-outcome.md) | 第29章历史归属回补 |
