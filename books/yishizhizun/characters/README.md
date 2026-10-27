@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [心寂核实、烛火主线与长老劝舍身](early-xinji-entry-candle-tasks-elders-resistance.md) | 第33章历史归属回补 |
+| [假向辉百变书生揭示、替换时点为孟推](early-kuangchengwang-xianghui-disguise-revealed-timing-inferred.md) | 第33章历史归属回补 |
+| [柯碧君王晋后命名与未名拦截剑光](early-kebijun-wangjin-named-unknown-swordlight.md) | 第33章历史归属回补 |
 | [德光门前待准、半日期限与布局疑问](early-deguang-gatewait-no-taskreward.md) | 第32章历史归属回补 |
 | [魏无忌豪爽名望、假婚约与张公子地方传闻](early-weiwuji-local-zhang-age-reports-fiancee-cover.md) | 第32章历史归属回补 |
 | [张远山预备清茶与孟奇少年酒呛](early-zhang-teacare-meng-childbody-winecough.md) | 第32章历史归属回补 |
