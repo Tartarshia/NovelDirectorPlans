@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [残式分享、只报战力与保留杀手锏](early-remnant-sharing-capability-not-all-secrets.md) | 第41章历史归属回补 |
+| [朵循迹开门、孟关门失败与刀意虚势未击中](early-duo-tracks-gate-meng-bluff-not-hit.md) | 第41章历史归属回补 |
+| [顾小桑自名、近小紫面与周围教诵](early-gu-selfname-xiaozi-face-ambient-chant.md) | 第41章历史归属回补 |
 | [心寂舍身融光诵声与朵重残仍立](early-xinji-sacrifice-stupa-chant-duo-survives.md) | 第40章历史归属回补 |
 | [齐正言不同行的私下理由、张远山弱声调侃](early-qi-zhang-private-stay-not-test-greed.md) | 第40章历史归属回补 |
 | [阿难署名、断清净残式不能习练与禁门怖影](early-meng-ananda-remnant-inheritance-sealeddoor.md) | 第40章历史归属回补 |
