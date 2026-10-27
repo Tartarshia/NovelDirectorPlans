@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐正言兑换与反噬说破、救护保命非痊愈](early-qi-exchange-dart-recoil-bonesetting-medicine.md) | 第39章历史归属回补 |
+| [王晋尸体明证与空针筒补针估计](early-empty-needletube-wang-corpse-reload-guesses.md) | 第39章历史归属回补 |
+| [孟背江齐背张避敌、崖壁机关此时实开](early-meng-carries-jiang-qi-carries-zhang-real-rockgate.md) | 第39章历史归属回补 |
 | [孟奇横练破功、减力七成与口骂内静](early-meng-ironcloth-broken-calm-laststrike.md) | 第38章历史归属回补 |
 | [心寂口诵与左掌光声、朵左眼首次明确](early-xinji-mouth-leftpalm-chants-duo-leftblind.md) | 第38章历史归属回补 |
 | [汤顺重创江张、齐双镖合孟刀与来源疑问](early-tang-fatal-counter-qi-darts-origin-open.md) | 第38章历史归属回补 |

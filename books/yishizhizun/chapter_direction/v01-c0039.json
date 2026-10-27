@@ -41,7 +41,2291 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0002"
+  "reading_batch": "batch-0002",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0039",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0039.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0039:p0001",
+        "length": 14,
+        "sha256": "3d3aa82faae27589b442a982569c6a4bd38fb74236705a20468bf02df599877e",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0001:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "地污血蠕成大字可见无声，非血人开口或真实六道声音。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "silent_visible_blood_sidequest_credit_text_not_voice",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "delivery": "visible_bloodglyphs_no_Six_voice",
+            "embodiment": "text_not_human_actor",
+            "knowledge_boundary": "地污血蠕成大字可见无声，非血人开口或真实六道声音。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "地污血蠕成大字可见无声，非血人开口或真实六道声音。"
+      },
+      {
+        "reference": "v01-c0039:p0002",
+        "length": 64,
+        "sha256": "9093659d7d89da0d0c2f37858aee2c5e5e5d07b1e0cef9953398c5faf9742a19",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0002:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "支线杀汤已成奖励齐80孟50江张各20，血字无声，不主二完成或给死王功。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "silent_visible_blood_sidequest_credit_text_not_voice",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "delivery": "visible_bloodglyphs_no_Six_voice",
+            "embodiment": "text_not_human_actor",
+            "knowledge_boundary": "支线杀汤已成奖励齐80孟50江张各20，血字无声，不主二完成或给死王功。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "支线杀汤已成奖励齐80孟50江张各20，血字无声，不主二完成或给死王功。"
+      },
+      {
+        "reference": "v01-c0039:p0003",
+        "length": 48,
+        "sha256": "0ac7d1324743f1c520dec6afeba3ac823b12b163e3454f83584ea0b868a27b21",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0003:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "任务提示及汤尸确认死，孟仍持刀补戳防诈，未见尸真复活；刀已在手不补未写取刀时刻。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "任务提示及汤尸确认死，孟仍持刀补戳防诈，未见尸真复活；刀已在手不补未写取刀时刻。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "任务提示及汤尸确认死，孟仍持刀补戳防诈，未见尸真复活；刀已在手不补未写取刀时刻。"
+      },
+      {
+        "reference": "v01-c0039:p0004",
+        "length": 73,
+        "sha256": "ea75a65cda3d1e3df6cfba7d1265117990a95f44dc3b9b95ce7b070afea0bed3",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0004:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟两引语实际先评奖励主要实力对比再问江丹药；主要不等唯一标准，不能废前34贡献难度规则。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_M_care_question_or_tactical_plan",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟两引语实际先评奖励主要实力对比再问江丹药；主要不等唯一标准，不能废前34贡献难度规则。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0004:u002",
+            "start": 29,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟两引语实际先评奖励主要实力对比再问江丹药；主要不等唯一标准，不能废前34贡献难度规则。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟两引语实际先评奖励主要实力对比再问江丹药；主要不等唯一标准，不能废前34贡献难度规则。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0004:u003",
+            "start": 58,
+            "end": 73,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟两引语实际先评奖励主要实力对比再问江丹药；主要不等唯一标准，不能废前34贡献难度规则。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_M_care_question_or_tactical_plan",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟两引语实际先评奖励主要实力对比再问江丹药；主要不等唯一标准，不能废前34贡献难度规则。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟两引语实际先评奖励主要实力对比再问江丹药；主要不等唯一标准，不能废前34贡献难度规则。"
+      },
+      {
+        "reference": "v01-c0039:p0005",
+        "length": 111,
+        "sha256": "00558aac4e3c0896dc8f6ece27d9900495860210f0cff95442c1f4d56b84eb58",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0005:u001",
+            "start": 0,
+            "end": 111,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两次奖励强弱比较为当前说明，旧江张本力未伤与现伤弱分，不新虚构精确公式。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "两次奖励强弱比较为当前说明，旧江张本力未伤与现伤弱分，不新虚构精确公式。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两次奖励强弱比较为当前说明，旧江张本力未伤与现伤弱分，不新虚构精确公式。"
+      },
+      {
+        "reference": "v01-c0039:p0006",
+        "length": 21,
+        "sha256": "d0fbabd116c82f396d6f0ad15cfbfce8eaaa478c72ebc492ecbb36950c945b93",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0006:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江话难点头指腰，未逐字回答有或药名。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "江话难点头指腰，未逐字回答有或药名。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江话难点头指腰，未逐字回答有或药名。"
+      },
+      {
+        "reference": "v01-c0039:p0007",
+        "length": 52,
+        "sha256": "8328f2c664e7eefaff299c865ffa8dd76ab67bb8b5013079766911459132b885",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0007:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "羊脂白玉瓶一枚暗红丹实际，尚未给药名不能冒充张草木生生丸。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "羊脂白玉瓶一枚暗红丹实际，尚未给药名不能冒充张草木生生丸。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0007:u002",
+            "start": 15,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "羊脂白玉瓶一枚暗红丹实际，尚未给药名不能冒充张草木生生丸。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "羊脂白玉瓶一枚暗红丹实际，尚未给药名不能冒充张草木生生丸。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "羊脂白玉瓶一枚暗红丹实际，尚未给药名不能冒充张草木生生丸。"
+      },
+      {
+        "reference": "v01-c0039:p0008",
+        "length": 33,
+        "sha256": "58b5591d72c1461585ce4f85b80295a82d3081e8eba250198cd483a50501cf4f",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0008:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际喂江艰吞后坐调息，不立刻全好。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟实际喂江艰吞后坐调息，不立刻全好。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际喂江艰吞后坐调息，不立刻全好。"
+      },
+      {
+        "reference": "v01-c0039:p0009",
+        "length": 31,
+        "sha256": "9cd1e65a2ecab9fb34320995e5d7bd99f185e91203d9569430c37dd840b65057",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0009:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟向张问药只摘要无原话，不另添可听完整问句。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟向张问药只摘要无原话，不另添可听完整问句。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟向张问药只摘要无原话，不另添可听完整问句。"
+      },
+      {
+        "reference": "v01-c0039:p0010",
+        "length": 52,
+        "sha256": "2e7e85da21755a62f1c0cbd60a1f82e9f0f832c4d1691dce0cf00446fc9c0447",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0010:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张伤更重气弱不能动，仅胸口断续两字实际沙哑，非恢复长谈。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "张伤更重气弱不能动，仅胸口断续两字实际沙哑，非恢复长谈。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0010:u002",
+            "start": 44,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_same_injured_Taoist_not_WangJin",
+            "text_context": "张伤更重气弱不能动，仅胸口断续两字实际沙哑，非恢复长谈。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Zhang_short_medicine_words",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "weak_breath_motionless_then_saved_by_pill_and_bonesetting_carried_by_Qi",
+            "delivery": "hoarse_two_syllables_chest_then_minimal_namedpill_offer",
+            "knowledge_boundary": "张伤更重气弱不能动，仅胸口断续两字实际沙哑，非恢复长谈。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0010:u003",
+            "start": 48,
+            "end": 52,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_same_injured_Taoist_not_WangJin",
+            "text_context": "张伤更重气弱不能动，仅胸口断续两字实际沙哑，非恢复长谈。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Zhang_short_medicine_words",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "weak_breath_motionless_then_saved_by_pill_and_bonesetting_carried_by_Qi",
+            "delivery": "hoarse_two_syllables_chest_then_minimal_namedpill_offer",
+            "knowledge_boundary": "张伤更重气弱不能动，仅胸口断续两字实际沙哑，非恢复长谈。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张伤更重气弱不能动，仅胸口断续两字实际沙哑，非恢复长谈。"
+      },
+      {
+        "reference": "v01-c0039:p0011",
+        "length": 52,
+        "sha256": "d2355c4fc54e711adb82ea80d1ef6e3de5f88e444a80d37d6ad7126c195f0f54",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0011:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张胸白玉瓷瓶五六青碧丹实见，26才给名草木生生丸，不与江暗红丹同种。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "张胸白玉瓷瓶五六青碧丹实见，26才给名草木生生丸，不与江暗红丹同种。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张胸白玉瓷瓶五六青碧丹实见，26才给名草木生生丸，不与江暗红丹同种。"
+      },
+      {
+        "reference": "v01-c0039:p0012",
+        "length": 47,
+        "sha256": "ba380184e2bae28d25188bc6b93939fe9ecf9c53105427765430c6bb2f7d9dce",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0012:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐吃自药稍复精神踉跄来，孟给张喂药事实，非齐已痊愈。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐吃自药稍复精神踉跄来，孟给张喂药事实，非齐已痊愈。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐吃自药稍复精神踉跄来，孟给张喂药事实，非齐已痊愈。"
+      },
+      {
+        "reference": "v01-c0039:p0013",
+        "length": 95,
+        "sha256": "e5d8efaa60ca5fd542200d59472a3d007dae3aa69680b599d6ff4ca6e6ff00b2",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0013:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际若无镖杀奖励更高是反事实评估，手法熟练处理断肋扶五心坐真实，不孟忽成医师。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际若无镖杀奖励更高是反事实评估，手法熟练处理断肋扶五心坐真实，不孟忽成医师。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0013:u002",
+            "start": 28,
+            "end": 95,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐实际若无镖杀奖励更高是反事实评估，手法熟练处理断肋扶五心坐真实，不孟忽成医师。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐实际若无镖杀奖励更高是反事实评估，手法熟练处理断肋扶五心坐真实，不孟忽成医师。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际若无镖杀奖励更高是反事实评估，手法熟练处理断肋扶五心坐真实，不孟忽成医师。"
+      },
+      {
+        "reference": "v01-c0039:p0014",
+        "length": 34,
+        "sha256": "697736443c0e49bc740fc8c615090697001c6e9f5013c8f4cf28c131a4418fd1",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0014:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟羡慕初入门未学处理伤知识，是当期能力缺口。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟羡慕初入门未学处理伤知识，是当期能力缺口。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟羡慕初入门未学处理伤知识，是当期能力缺口。"
+      },
+      {
+        "reference": "v01-c0039:p0015",
+        "length": 55,
+        "sha256": "ee56d940ab14ccf6ab374c9efef8b24b599a554a0560b1ea6cbc5c9dd44c68b2",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0015:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐实际自顾多话猜孟不知镖，不能否定孟先前小说印象。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐实际自顾多话猜孟不知镖，不能否定孟先前小说印象。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0015:u002",
+            "start": 15,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际自顾多话猜孟不知镖，不能否定孟先前小说印象。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际自顾多话猜孟不知镖，不能否定孟先前小说印象。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际自顾多话猜孟不知镖，不能否定孟先前小说印象。"
+      },
+      {
+        "reference": "v01-c0039:p0016",
+        "length": 148,
+        "sha256": "d084958f012f6f93acb6000cb48ed61d0d7f8d69cb27b5946b976fd414826d2c",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0016:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际确认受戚提示卖长河落日等得150，天聪丸原计划因末窍未凝放弃，转130镖的动机后18；不齐当前已开窍或所有门派武功都卖的证明。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际确认受戚提示卖长河落日等得150，天聪丸原计划因末窍未凝放弃，转130镖的动机后18；不齐当前已开窍或所有门派武功都卖的证明。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0016:u002",
+            "start": 56,
+            "end": 148,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际确认受戚提示卖长河落日等得150，天聪丸原计划因末窍未凝放弃，转130镖的动机后18；不齐当前已开窍或所有门派武功都卖的证明。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际确认受戚提示卖长河落日等得150，天聪丸原计划因末窍未凝放弃，转130镖的动机后18；不齐当前已开窍或所有门派武功都卖的证明。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际确认受戚提示卖长河落日等得150，天聪丸原计划因末窍未凝放弃，转130镖的动机后18；不齐当前已开窍或所有门派武功都卖的证明。"
+      },
+      {
+        "reference": "v01-c0039:p0017",
+        "length": 86,
+        "sha256": "e19b285b87b626e95c0bb3e67b23803bebbc431a16fefb92a43fc6d168e67004",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0017:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际比较唐花太贵无暇学及悲酥200含解药未选，不能算他真买用过两者。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际比较唐花太贵无暇学及悲酥200含解药未选，不能算他真买用过两者。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际比较唐花太贵无暇学及悲酥200含解药未选，不能算他真买用过两者。"
+      },
+      {
+        "reference": "v01-c0039:p0018",
+        "length": 64,
+        "sha256": "4714cc34200d8ba90e184a13961c48e6bdd50c141c835f01c6724b019bf3654d",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0018:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际选子母镖130能杀开窍并问惊不惊，150收入和130支出分，不新自动归还消耗品。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际选子母镖130能杀开窍并问惊不惊，150收入和130支出分，不新自动归还消耗品。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际选子母镖130能杀开窍并问惊不惊，150收入和130支出分，不新自动归还消耗品。"
+      },
+      {
+        "reference": "v01-c0039:p0019",
+        "length": 39,
+        "sha256": "4a647a6e44828133cff6ad6b2c36fd99366c4fb876358dfd1a0109844e0a791e",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0019:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际惊的不是这个，不是质疑齐从未兑换。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟实际惊的不是这个，不是质疑齐从未兑换。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0019:u002",
+            "start": 22,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟实际惊的不是这个，不是质疑齐从未兑换。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_M_care_question_or_tactical_plan",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟实际惊的不是这个，不是质疑齐从未兑换。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际惊的不是这个，不是质疑齐从未兑换。"
+      },
+      {
+        "reference": "v01-c0039:p0020",
+        "length": 98,
+        "sha256": "6dab7c5be2ca896ca28be01dae1a06278c69f51538dd4b6f18ba7d1f2f27087a",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0020:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际说明通常开窍可用、蓄气大成特殊法以自身重创能发，解释此时反噬，不所有弱者无代价随便用。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际说明通常开窍可用、蓄气大成特殊法以自身重创能发，解释此时反噬，不所有弱者无代价随便用。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0020:u002",
+            "start": 3,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际说明通常开窍可用、蓄气大成特殊法以自身重创能发，解释此时反噬，不所有弱者无代价随便用。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际说明通常开窍可用、蓄气大成特殊法以自身重创能发，解释此时反噬，不所有弱者无代价随便用。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0020:u003",
+            "start": 9,
+            "end": 76,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际说明通常开窍可用、蓄气大成特殊法以自身重创能发，解释此时反噬，不所有弱者无代价随便用。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际说明通常开窍可用、蓄气大成特殊法以自身重创能发，解释此时反噬，不所有弱者无代价随便用。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0020:u004",
+            "start": 76,
+            "end": 98,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐实际说明通常开窍可用、蓄气大成特殊法以自身重创能发，解释此时反噬，不所有弱者无代价随便用。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐实际说明通常开窍可用、蓄气大成特殊法以自身重创能发，解释此时反噬，不所有弱者无代价随便用。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际说明通常开窍可用、蓄气大成特殊法以自身重创能发，解释此时反噬，不所有弱者无代价随便用。"
+      },
+      {
+        "reference": "v01-c0039:p0021",
+        "length": 38,
+        "sha256": "ca108b9cbc49124807deb14413b84bae639650d04743019d5f0ee906d821370d",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0021:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐没瞒反噬因伤显为叙述，不再补长口供或认定装伤。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐没瞒反噬因伤显为叙述，不再补长口供或认定装伤。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐没瞒反噬因伤显为叙述，不再补长口供或认定装伤。"
+      },
+      {
+        "reference": "v01-c0039:p0022",
+        "length": 51,
+        "sha256": "138700d9af57227d8ad104195d269af74e0e9f4c40490bf12ad8ff0b5f8074f2",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0022:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际笑逗重伤变唠叨，是接纳同伴性情变化，不诊断人格替换。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟实际笑逗重伤变唠叨，是接纳同伴性情变化，不诊断人格替换。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0022:u002",
+            "start": 9,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟实际笑逗重伤变唠叨，是接纳同伴性情变化，不诊断人格替换。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_M_care_question_or_tactical_plan",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟实际笑逗重伤变唠叨，是接纳同伴性情变化，不诊断人格替换。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际笑逗重伤变唠叨，是接纳同伴性情变化，不诊断人格替换。"
+      },
+      {
+        "reference": "v01-c0039:p0023",
+        "length": 19,
+        "sha256": "c4d0ee5d64b0ea56e6b3e3d863546d033aee0e55cba422b5a7b0e1eb549f936c",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0023:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟私早猜镖事自得，未公开截断嘲齐。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "editorial_M_private_guess_or_surprise",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟私早猜镖事自得，未公开截断嘲齐。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私早猜镖事自得，未公开截断嘲齐。"
+      },
+      {
+        "reference": "v01-c0039:p0024",
+        "length": 36,
+        "sha256": "ac96e06cdffbb5916df3c9063e5359ef126dc573745b2aad0523f8c366f6bad1",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0024:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐默转头坐恢复，不添被笑后恼怒反骂台词。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐默转头坐恢复，不添被笑后恼怒反骂台词。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐默转头坐恢复，不添被笑后恼怒反骂台词。"
+      },
+      {
+        "reference": "v01-c0039:p0025",
+        "length": 68,
+        "sha256": "8dc629423e5583c2dd632b0a3da77fce79d7150ff08cdd8cb4a62de04995ec48",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0025:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张呼吸清晰总算保命江脸光泽略复，非战力全复或旧伤消失。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "张呼吸清晰总算保命江脸光泽略复，非战力全复或旧伤消失。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张呼吸清晰总算保命江脸光泽略复，非战力全复或旧伤消失。"
+      },
+      {
+        "reference": "v01-c0039:p0026",
+        "length": 40,
+        "sha256": "fa19904d8299ddbb5e9709aee14786baf6f7dd9e0c5e430724c4998f330b7050",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0026:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际给青丹名草木生生丸并叫孟一粒，话短防牵伤。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "张实际给青丹名草木生生丸并叫孟一粒，话短防牵伤。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0026:u002",
+            "start": 26,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_same_injured_Taoist_not_WangJin",
+            "text_context": "张实际给青丹名草木生生丸并叫孟一粒，话短防牵伤。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "actual_Zhang_short_medicine_words",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "weak_breath_motionless_then_saved_by_pill_and_bonesetting_carried_by_Qi",
+            "delivery": "hoarse_two_syllables_chest_then_minimal_namedpill_offer",
+            "knowledge_boundary": "张实际给青丹名草木生生丸并叫孟一粒，话短防牵伤。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际给青丹名草木生生丸并叫孟一粒，话短防牵伤。"
+      },
+      {
+        "reference": "v01-c0039:p0027",
+        "length": 17,
+        "sha256": "aa839e76f548ba7b2a9993d7f6077f813289fa3e9a16e3a2b7d6266b3654629e",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0027:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言简意赅理由为伤势，不配张另说不许多问。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "言简意赅理由为伤势，不配张另说不许多问。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言简意赅理由为伤势，不配张另说不许多问。"
+      },
+      {
+        "reference": "v01-c0039:p0028",
+        "length": 57,
+        "sha256": "d9fc2b33ddfb9d526ef9da7d1043a28bb0cb657ef0c84fc7fc5da98aa78f36c0",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0028:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟吞青丹轻伤可治但不能恢复铁布衫，不使横练立刻返还或开窍。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟吞青丹轻伤可治但不能恢复铁布衫，不使横练立刻返还或开窍。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟吞青丹轻伤可治但不能恢复铁布衫，不使横练立刻返还或开窍。"
+      },
+      {
+        "reference": "v01-c0039:p0029",
+        "length": 18,
+        "sha256": "73b780d13083d8d934a34bf21ceeb743ba017a800ef8ee99b5582e3920fe25d1",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0029:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "清凉与内力运转体感，未新正式境界突破。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_silent_sidecredits_medicine_Qi_exchange_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "清凉与内力运转体感，未新正式境界突破。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "清凉与内力运转体感，未新正式境界突破。"
+      },
+      {
+        "reference": "v01-c0039:p0030",
+        "length": 43,
+        "sha256": "97555d49ac674990559f4a5937d061324745dd3f1fd465b560be3d533414a19d",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0030:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王晋尸体此章明证死，孟拾他附近黑筒，承37针袭与汤扔物，不王本人复活赠筒。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "王晋尸体此章明证死，孟拾他附近黑筒，承37针袭与汤扔物，不王本人复活赠筒。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王晋尸体此章明证死，孟拾他附近黑筒，承37针袭与汤扔物，不王本人复活赠筒。"
+      },
+      {
+        "reference": "v01-c0039:p0031",
+        "length": 56,
+        "sha256": "f1b72f02375f7181f4c614b7fcefdeef6c6999d89a32620dc122ebc12c4d8f03",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0031:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "整句喜叹选孟低自语可听性待录，唐花为其中比价暗器名，不另配角色或激活口令。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "editorial_actual_M_low_selfquery_audibility_open",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "整句喜叹选孟低自语可听性待录，唐花为其中比价暗器名，不另配角色或激活口令。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0031:u002",
+            "start": 11,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "整句喜叹选孟低自语可听性待录，唐花为其中比价暗器名，不另配角色或激活口令。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "editorial_actual_M_low_selfquery_audibility_open",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "整句喜叹选孟低自语可听性待录，唐花为其中比价暗器名，不另配角色或激活口令。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0031:u003",
+            "start": 23,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "整句喜叹选孟低自语可听性待录，唐花为其中比价暗器名，不另配角色或激活口令。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "整句喜叹选孟低自语可听性待录，唐花为其中比价暗器名，不另配角色或激活口令。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "整句喜叹选孟低自语可听性待录，唐花为其中比价暗器名，不另配角色或激活口令。"
+      },
+      {
+        "reference": "v01-c0039:p0032",
+        "length": 47,
+        "sha256": "c920efa76373fe393d97c034c5a3193c7ebab35be36258b948bf5d34efe20baf",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0032:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟私估针尽仍贵可兑换补齐，为想法未已经填装成功。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "editorial_M_private_guess_or_surprise",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟私估针尽仍贵可兑换补齐，为想法未已经填装成功。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私估针尽仍贵可兑换补齐，为想法未已经填装成功。"
+      },
+      {
+        "reference": "v01-c0039:p0033",
+        "length": 51,
+        "sha256": "d710bbba6e2f4b1d9f297ef796dbda4709899942eee8ce69f7097a6c9e5f46fe",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0033:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟私忆谱一次报废款400是所记标价，手中可两三次仅应该估，不源已验剩余次数。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "editorial_M_private_guess_or_surprise",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟私忆谱一次报废款400是所记标价，手中可两三次仅应该估，不源已验剩余次数。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私忆谱一次报废款400是所记标价，手中可两三次仅应该估，不源已验剩余次数。"
+      },
+      {
+        "reference": "v01-c0039:p0034",
+        "length": 29,
+        "sha256": "ebbe3e8bb22eb82bc43ea916fc334f4f4728d784d3e1007ffac7642132aec4b1",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0034:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "补针不超100为孟没细看后的猜，不确认报价或实际购买。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "补针不超100为孟没细看后的猜，不确认报价或实际购买。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "补针不超100为孟没细看后的猜，不确认报价或实际购买。"
+      },
+      {
+        "reference": "v01-c0039:p0035",
+        "length": 29,
+        "sha256": "62bfe6c5633da12702177de6bcb3e54717fd1cab58ddc263003da19f83409723",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0035:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "贫困发达引号是心境叙述，不真正财富入账或善功已兑换针筒。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "贫困发达引号是心境叙述，不真正财富入账或善功已兑换针筒。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "贫困发达引号是心境叙述，不真正财富入账或善功已兑换针筒。"
+      },
+      {
+        "reference": "v01-c0039:p0036",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0036:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "后山转殿省略，不添系统声。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "后山转殿省略，不添系统声。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "后山转殿省略，不添系统声。"
+      },
+      {
+        "reference": "v01-c0039:p0037",
+        "length": 42,
+        "sha256": "fa9117d07b8c5f89712499cdb27bf1172b2130cf73b6dd3edb5b1cec100b2665",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0037:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "大殿此时实际断垣火梁白烟，承前未揭战况现给毁坏，不倒写前38早已全塌。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "大殿此时实际断垣火梁白烟，承前未揭战况现给毁坏，不倒写前38早已全塌。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "大殿此时实际断垣火梁白烟，承前未揭战况现给毁坏，不倒写前38早已全塌。"
+      },
+      {
+        "reference": "v01-c0039:p0038",
+        "length": 18,
+        "sha256": "37369e51a8f38e82c72048c3eb41d9b773312115097f7d12312cc99769a49875",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0038:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鬼蜮是天色比喻非真鬼族降临。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "鬼蜮是天色比喻非真鬼族降临。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鬼蜮是天色比喻非真鬼族降临。"
+      },
+      {
+        "reference": "v01-c0039:p0039",
+        "length": 23,
+        "sha256": "fb5cdd72c67970eb5678d10a6998417b9e582b17be9209edff32959aa9d064bf",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0039:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "一追一逃至后山，42/43连身份心寂前朵后，不让孟直接看见全段。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "一追一逃至后山，42/43连身份心寂前朵后，不让孟直接看见全段。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "一追一逃至后山，42/43连身份心寂前朵后，不让孟直接看见全段。"
+      },
+      {
+        "reference": "v01-c0039:p0040",
+        "length": 27,
+        "sha256": "02e1127ef5a05d8bc5e8f1990f2b32e73241d6a7f3cf9e9c49c2b82371aac6dd",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0040:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前佝偻佛光散后飓风是逃追状态，未已杀死心寂。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "前佝偻佛光散后飓风是逃追状态，未已杀死心寂。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前佝偻佛光散后飓风是逃追状态，未已杀死心寂。"
+      },
+      {
+        "reference": "v01-c0039:p0041",
+        "length": 44,
+        "sha256": "93f147fa2fce2734a94c7ae1e2de2af16d5b652d4c20c5b6327d258a23a1f050",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0041:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "后山最高悬崖琉璃小塔实景，不当主世界塔真实同一个物件机制。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "后山最高悬崖琉璃小塔实景，不当主世界塔真实同一个物件机制。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "后山最高悬崖琉璃小塔实景，不当主世界塔真实同一个物件机制。"
+      },
+      {
+        "reference": "v01-c0039:p0042",
+        "length": 46,
+        "sha256": "26127ab42899e274898630e0f467551aa56288e8fc0ae66fcb8aa860a5f8ed7e",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0042:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "心寂逃到坐塔前微笑仍活，未胜过或已死。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "心寂逃到坐塔前微笑仍活，未胜过或已死。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂逃到坐塔前微笑仍活，未胜过或已死。"
+      },
+      {
+        "reference": "v01-c0039:p0043",
+        "length": 37,
+        "sha256": "ea2b248b2fec98e8cff678391b95af612d8b7aba6200e3fd833cc9ea696b5e17",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0043:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "duo_ercha",
+            "surface_identity": "Duoercha_same_leftblind_general",
+            "text_context": "朵实际嘲逃不掉，左胸衣裂黄金掌印实伤，不无损满状态。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "actual_Duoercha_taunt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "pursues_with_wind_leftchest_goldpalm_imprint_not_unharmed",
+            "delivery": "taunting_question_at_stupa_no_battle_result_yet",
+            "knowledge_boundary": "朵实际嘲逃不掉，左胸衣裂黄金掌印实伤，不无损满状态。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0043:u002",
+            "start": 12,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朵实际嘲逃不掉，左胸衣裂黄金掌印实伤，不无损满状态。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "朵实际嘲逃不掉，左胸衣裂黄金掌印实伤，不无损满状态。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵实际嘲逃不掉，左胸衣裂黄金掌印实伤，不无损满状态。"
+      },
+      {
+        "reference": "v01-c0039:p0044",
+        "length": 18,
+        "sha256": "9b26ec34c7aae668966e9ce22eaf8a05352c817e395b851ef127ce010ee0c552",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0044:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "心寂同处拳伤贯身严重事实，但未明断气，不擅写死亡。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "心寂同处拳伤贯身严重事实，但未明断气，不擅写死亡。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂同处拳伤贯身严重事实，但未明断气，不擅写死亡。"
+      },
+      {
+        "reference": "v01-c0039:p0045",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0045:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "塔前转回孟省略，切镜非信息传送。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_needletube_wealthhypothesis_and_reader_only_stupa_pursuit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "塔前转回孟省略，切镜非信息传送。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "塔前转回孟省略，切镜非信息传送。"
+      },
+      {
+        "reference": "v01-c0039:p0046",
+        "length": 57,
+        "sha256": "d2c6409c10794df62de6a726897068e4c1a7a3f53960271a3d7adbf99d8b5908",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0046:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟将针筒揣怀想拔王尸幽蓝毒针省功，证明针毒且王尸在，不已成功装填。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟将针筒揣怀想拔王尸幽蓝毒针省功，证明针毒且王尸在，不已成功装填。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟将针筒揣怀想拔王尸幽蓝毒针省功，证明针毒且王尸在，不已成功装填。"
+      },
+      {
+        "reference": "v01-c0039:p0047",
+        "length": 25,
+        "sha256": "9b7e579daaae43c07b84dbee952d42d68bfb80e9be0e6e621b9e63f6790d4816",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0047:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟处星空云遮实际，非立刻认敌全部定位。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟处星空云遮实际，非立刻认敌全部定位。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟处星空云遮实际，非立刻认敌全部定位。"
+      },
+      {
+        "reference": "v01-c0039:p0048",
+        "length": 15,
+        "sha256": "f2889d6f55ac6d3b014eece34ff6ba86c984c7a2223c5f71035f27fed8ada395",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0048:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "风云聚近实际异象，后孟据此推朵到。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "风云聚近实际异象，后孟据此推朵到。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "风云聚近实际异象，后孟据此推朵到。"
+      },
+      {
+        "reference": "v01-c0039:p0049",
+        "length": 40,
+        "sha256": "a6cd9604f067651673c44963f424bedbd259d007dc4f1bacf156ec1d3da1a9a5",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0049:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟引用疑敌来后山选低惊实际可听性待录，放下拔针回同伴是真行为不先发毒针。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "editorial_actual_M_low_selfquery_audibility_open",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟引用疑敌来后山选低惊实际可听性待录，放下拔针回同伴是真行为不先发毒针。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0049:u002",
+            "start": 10,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟引用疑敌来后山选低惊实际可听性待录，放下拔针回同伴是真行为不先发毒针。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟引用疑敌来后山选低惊实际可听性待录，放下拔针回同伴是真行为不先发毒针。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟引用疑敌来后山选低惊实际可听性待录，放下拔针回同伴是真行为不先发毒针。"
+      },
+      {
+        "reference": "v01-c0039:p0050",
+        "length": 71,
+        "sha256": "bbfff5a7c0c6fc400c1661013b379b2d687ba7efbbdc574bbcd01ec5aeca9d9e",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0050:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际应是追心寂与先躲建议，依据塔光推，读者知44重伤细节不能给孟全知。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟实际应是追心寂与先躲建议，依据塔光推，读者知44重伤细节不能给孟全知。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0050:u002",
+            "start": 29,
+            "end": 71,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟实际应是追心寂与先躲建议，依据塔光推，读者知44重伤细节不能给孟全知。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "actual_M_care_question_or_tactical_plan",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟实际应是追心寂与先躲建议，依据塔光推，读者知44重伤细节不能给孟全知。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际应是追心寂与先躲建议，依据塔光推，读者知44重伤细节不能给孟全知。"
+      },
+      {
+        "reference": "v01-c0039:p0051",
+        "length": 45,
+        "sha256": "321a7e5e9f2537a1903e5172c2da9bee2ea439677540f0a4b69c834ff0257519",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0051:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朵恨失左眼江及帮凶将顺杀是风险判断，不朵当前已说新杀令。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "朵恨失左眼江及帮凶将顺杀是风险判断，不朵当前已说新杀令。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵恨失左眼江及帮凶将顺杀是风险判断，不朵当前已说新杀令。"
+      },
+      {
+        "reference": "v01-c0039:p0052",
+        "length": 39,
+        "sha256": "e288578d96c7c55053b158d0951add717af1dda4be3ab4230453b0f9045d6046",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0052:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江张勉点头任孟做主，无逐字新回应。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "江张勉点头任孟做主，无逐字新回应。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江张勉点头任孟做主，无逐字新回应。"
+      },
+      {
+        "reference": "v01-c0039:p0053",
+        "length": 30,
+        "sha256": "002d96d196815958f8ab3b4889cbe8d781866cfa1a881b92e17a304250065178",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0053:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江张若断疗也无行动能力，实际需背行；不能改他们自行轻功逃。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "江张若断疗也无行动能力，实际需背行；不能改他们自行轻功逃。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江张若断疗也无行动能力，实际需背行；不能改他们自行轻功逃。"
+      },
+      {
+        "reference": "v01-c0039:p0054",
+        "length": 47,
+        "sha256": "ba9be8f5d33f78621461d4ea4fa3fa4bcd9e515fd1b293a2aed698f4c7d08e5a",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0054:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐主要反噬尚基本体力，脸红断疗实际问躲哪，不全复可战。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐主要反噬尚基本体力，脸红断疗实际问躲哪，不全复可战。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0054:u002",
+            "start": 40,
+            "end": 47,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐主要反噬尚基本体力，脸红断疗实际问躲哪，不全复可战。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐主要反噬尚基本体力，脸红断疗实际问躲哪，不全复可战。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐主要反噬尚基本体力，脸红断疗实际问躲哪，不全复可战。"
+      },
+      {
+        "reference": "v01-c0039:p0055",
+        "length": 29,
+        "sha256": "4f7fa93f9972cd4a11b7c6242e7f078a00e6c6ae68e306a1d9fda48275bb1771",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0055:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际指熟悉右林暂避，不已向众保证知道机关。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟实际指熟悉右林暂避，不已向众保证知道机关。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0055:u002",
+            "start": 21,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟实际指熟悉右林暂避，不已向众保证知道机关。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "actual_M_care_question_or_tactical_plan",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟实际指熟悉右林暂避，不已向众保证知道机关。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际指熟悉右林暂避，不已向众保证知道机关。"
+      },
+      {
+        "reference": "v01-c0039:p0056",
+        "length": 36,
+        "sha256": "9c05453ef7061eba31aae01e1a55b9c3c8e9b66001e37ed22ad1d99bae77f94a",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0056:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐实际指出林木不足挡朵感官，是合理疑问仍合作非独逃。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐实际指出林木不足挡朵感官，是合理疑问仍合作非独逃。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0056:u002",
+            "start": 28,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐实际指出林木不足挡朵感官，是合理疑问仍合作非独逃。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐实际指出林木不足挡朵感官，是合理疑问仍合作非独逃。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际指出林木不足挡朵感官，是合理疑问仍合作非独逃。"
+      },
+      {
+        "reference": "v01-c0039:p0057",
+        "length": 58,
+        "sha256": "d9be84d7ccef52f1b6a288d8d34520ef8943c8b787a5417a3996b8733b2a546c",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0057:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际推少林沦陷主线成只需片刻返回，是预期并非系统已宣布末刻或可离实际范围。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟实际推少林沦陷主线成只需片刻返回，是预期并非系统已宣布末刻或可离实际范围。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0057:u002",
+            "start": 7,
+            "end": 58,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟实际推少林沦陷主线成只需片刻返回，是预期并非系统已宣布末刻或可离实际范围。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "actual_M_care_question_or_tactical_plan",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟实际推少林沦陷主线成只需片刻返回，是预期并非系统已宣布末刻或可离实际范围。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际推少林沦陷主线成只需片刻返回，是预期并非系统已宣布末刻或可离实际范围。"
+      },
+      {
+        "reference": "v01-c0039:p0058",
+        "length": 52,
+        "sha256": "a9ef32fd4245f91212a4bb227de7c9f663e963089df863395d55bab52b0a0c03",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0058:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟暗器知识少不能重填，未装回毒针，能力局限不可省掉。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟暗器知识少不能重填，未装回毒针，能力局限不可省掉。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟暗器知识少不能重填，未装回毒针，能力局限不可省掉。"
+      },
+      {
+        "reference": "v01-c0039:p0059",
+        "length": 25,
+        "sha256": "8570318c3f928c1a827820ba8d60b452dec02cf97ba7de89c4c117068b35d40f",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0059:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旧针毒性减难威胁朵，不新测试毒杀成功或炼毒升级。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "旧针毒性减难威胁朵，不新测试毒杀成功或炼毒升级。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旧针毒性减难威胁朵，不新测试毒杀成功或炼毒升级。"
+      },
+      {
+        "reference": "v01-c0039:p0060",
+        "length": 52,
+        "sha256": "ae16b6fd874b41e0a691bf67bab9a686b50a62ea7146ca7c81d50d1c3160614b",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0060:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐信真定但少林和尚引号是称谓N，齐背张孟背江实入右林，无王同行。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐信真定但少林和尚引号是称谓N，齐背张孟背江实入右林，无王同行。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐信真定但少林和尚引号是称谓N，齐背张孟背江实入右林，无王同行。"
+      },
+      {
+        "reference": "v01-c0039:p0061",
+        "length": 45,
+        "sha256": "e178bfd3df2fed56b1d9391c78b0af1f53e47353b7f70d5098e8ef264a76123d",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0061:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟忽见熟位赤石真在而愣，先见石未即证机关已开。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟忽见熟位赤石真在而愣，先见石未即证机关已开。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟忽见熟位赤石真在而愣，先见石未即证机关已开。"
+      },
+      {
+        "reference": "v01-c0039:p0062",
+        "length": 7,
+        "sha256": "087bbf8ded237c127a74ae29e9a14e188b59a488f5755e513dccf6e74ae1b034",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0062:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟私疑真有石头，不是新引路人开口。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "editorial_M_private_guess_or_surprise",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟私疑真有石头，不是新引路人开口。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私疑真有石头，不是新引路人开口。"
+      },
+      {
+        "reference": "v01-c0039:p0063",
+        "length": 9,
+        "sha256": "c4f05ecdd8882bc855461fdf503c507c36f0c2faf21bb89a9f68891e88b8152f",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0063:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "孟私猜密道尚未证，待70/71才触开。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "editorial_M_private_guess_or_surprise",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "孟私猜密道尚未证，待70/71才触开。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私猜密道尚未证，待70/71才触开。"
+      },
+      {
+        "reference": "v01-c0039:p0064",
+        "length": 16,
+        "sha256": "364089b8f693a2e6ecec089ed5070483a98edc903b15c69f44f3a741c9723b84",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0064:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟情绪起伏叙述，非已获两世界完整解释。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟情绪起伏叙述，非已获两世界完整解释。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟情绪起伏叙述，非已获两世界完整解释。"
+      },
+      {
+        "reference": "v01-c0039:p0065",
+        "length": 3,
+        "sha256": "c0f53a24cd9a01d99bf83a86d7637bb6abdcd2abae3cfde818a4af67bb5b9544",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0065:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "轰隆为雷声环境音，不六道奖罚广播。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "audible_thunder_not_character_voice",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "delivery": "thunder_impact",
+            "embodiment": "weather_sound_not_actor",
+            "knowledge_boundary": "轰隆为雷声环境音，不六道奖罚广播。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "轰隆为雷声环境音，不六道奖罚广播。"
+      },
+      {
+        "reference": "v01-c0039:p0066",
+        "length": 15,
+        "sha256": "04dcfe45de616a90f339166f585b845be2f814e2a276f21779e80d3336e0d7e2",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0066:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "闪电雷雨实来，不给别处战果结算。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "闪电雷雨实来，不给别处战果结算。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "闪电雷雨实来，不给别处战果结算。"
+      },
+      {
+        "reference": "v01-c0039:p0067",
+        "length": 66,
+        "sha256": "b82a58bd3cabe738e9cdc06e9be9e66b54805408092da5dddc92de77b6608b2d",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0067:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "首引语孟朵名低语可听性待录，后想密道躲搜及无妖低危为假说，非已确定道内安全。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "editorial_actual_M_low_selfquery_audibility_open",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "首引语孟朵名低语可听性待录，后想密道躲搜及无妖低危为假说，非已确定道内安全。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0067:u002",
+            "start": 7,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首引语孟朵名低语可听性待录，后想密道躲搜及无妖低危为假说，非已确定道内安全。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "首引语孟朵名低语可听性待录，后想密道躲搜及无妖低危为假说，非已确定道内安全。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首引语孟朵名低语可听性待录，后想密道躲搜及无妖低危为假说，非已确定道内安全。"
+      },
+      {
+        "reference": "v01-c0039:p0068",
+        "length": 51,
+        "sha256": "278261dd042741bb9f5c8bbf97c6cfcd5d75b02425bad11715653d0e76c848d8",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0068:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐两引语实际问此处并叹暗毒准备少，是伤后多话延续，不已兑换第二套。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐两引语实际问此处并叹暗毒准备少，是伤后多话延续，不已兑换第二套。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0068:u002",
+            "start": 8,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐两引语实际问此处并叹暗毒准备少，是伤后多话延续，不已兑换第二套。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐两引语实际问此处并叹暗毒准备少，是伤后多话延续，不已兑换第二套。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0068:u003",
+            "start": 16,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_not_yet_opened_aperture_finalpoint_unfinished",
+            "text_context": "齐两引语实际问此处并叹暗毒准备少，是伤后多话延续，不已兑换第二套。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "actual_Qi_explains_darts_or_practical_doubt",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "medicine_staggers_bonesets_Zhang_recoil_major_wound_but_carries_him",
+            "delivery": "unexpectedly_talkative_reveals_exchange_and_recoil_then_practical_forest_question_and_regret",
+            "knowledge_boundary": "齐两引语实际问此处并叹暗毒准备少，是伤后多话延续，不已兑换第二套。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐两引语实际问此处并叹暗毒准备少，是伤后多话延续，不已兑换第二套。"
+      },
+      {
+        "reference": "v01-c0039:p0069",
+        "length": 48,
+        "sha256": "40275054ba041ccd2ca11fabc1e42a496cb13450a021178c95676b7ea9fabd89",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0069:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟背江学旧真观动作摸石后，真观仅回忆对象无现场话。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟背江学旧真观动作摸石后，真观仅回忆对象无现场话。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟背江学旧真观动作摸石后，真观仅回忆对象无现场话。"
+      },
+      {
+        "reference": "v01-c0039:p0070",
+        "length": 21,
+        "sha256": "7b01ef28ed9e31fb0b18e02aa76a666f50f41c159800ea382048e49ea4e3097f",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0070:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "前真有机关私惊，后实际摸到可动凸起，此时证机关，不旧37就已证。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "editorial_M_private_guess_or_surprise",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "前真有机关私惊，后实际摸到可动凸起，此时证机关，不旧37就已证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0070:u002",
+            "start": 6,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前真有机关私惊，后实际摸到可动凸起，此时证机关，不旧37就已证。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "前真有机关私惊，后实际摸到可动凸起，此时证机关，不旧37就已证。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前真有机关私惊，后实际摸到可动凸起，此时证机关，不旧37就已证。"
+      },
+      {
+        "reference": "v01-c0039:p0071",
+        "length": 33,
+        "sha256": "964500c7db5a3ac00244d96ceb5d0b08e71e45e423f6f83dde4007a1a306f3da",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0071:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟扳后崖壁真实开入口与扎声，未进道深处或知道尽头、机关原理。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "孟扳后崖壁真实开入口与扎声，未进道深处或知道尽头、机关原理。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟扳后崖壁真实开入口与扎声，未进道深处或知道尽头、机关原理。"
+      },
+      {
+        "reference": "v01-c0039:p0072",
+        "length": 17,
+        "sha256": "434706baf8200c2a9632e9aff82b2da08f02d3139e72d52a6d8e6227b953ec90",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0072:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_Ironcloth_still_broken",
+            "text_context": "前还真有私震后惊涛内心，不真正洪水或正式突破。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "editorial_M_private_guess_or_surprise",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "embodiment": "lightwound_takes_greenpill_no_Ironcloth_restore_carries_Jiang_and_opens_rockgate",
+            "delivery": "practical_care_then_teases_Qi_short_wealthjoy_yields_to_danger_decisive_carry_and_private_shock",
+            "knowledge_boundary": "前还真有私震后惊涛内心，不真正洪水或正式突破。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0039:p0072:u002",
+            "start": 5,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前还真有私震后惊涛内心，不真正洪水或正式突破。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "前还真有私震后惊涛内心，不真正洪水或正式突破。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前还真有私震后惊涛内心，不真正洪水或正式突破。"
+      },
+      {
+        "reference": "v01-c0039:p0073",
+        "length": 47,
+        "sha256": "1fdce4ec4c2982d57bf4a6e1c9add1938ffb519ad4fd35c2ce8a53d9041b7080",
+        "units": [
+          {
+            "unit_id": "v01-c0039:p0073:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐不明把孟当已打听密道只是其误解，实际孟借旧世界记忆，不旧本地问询已发生。",
+            "world_context": "EARLY_v01c39_silent_blood_sidecredits_Q80M50JZ20_care_Qi_confirms_150exchange_130dart_recoil_no_aperture_pill_green_vs_red_Wang_corpse_Mneedle_tube_reload_price_guesses_Xinji_throughchest_pursued_McarriesJ_QcarriesZ_real_rockgate_opens_no_worldexplanation",
+            "stage_context": "S09_threatnear_carry_hide_actual_rockgate_opens",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_actions_rewardtext_and_Qi_report_distinguished_from_Mreload_prices_tasktiming_and_passage_safety_hypotheses",
+            "knowledge_boundary": "齐不明把孟当已打听密道只是其误解，实际孟借旧世界记忆，不旧本地问询已发生。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐不明把孟当已打听密道只是其误解，实际孟借旧世界记忆，不旧本地问询已发生。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0039",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S09",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 29,
+        "label": "无声血字分功、伤者救护与齐正言说破镖源",
+        "direction": "1/2污血组成字无声，杀汤支线齐80孟50江张各20，不主二完成；3汤尸和持刀补戳防诈不真尸变，不补孟何时取回弃刀。4孟两实语先评奖励主要强弱再问江药，5比较不废难度贡献规则；6江只点腰7/8暗红丹喂服艰吞坐，9问张药摘要不添整句10张只有沙哑胸口两字，11青碧丹瓶26才名草木生生丸。12齐自药稍复踉跄13实熟练断肋处置扶张五心坐，14孟羡慕但不会医。15–18齐突然多话说明戚姑娘启发卖长河落日等得150、末窍未凝故天聪不选，唐花贵悲酥200限制多未选，最终镖130；不变全本派功法全部卖的确认，戚不现场发言。20/21开窍常用或蓄气大成特殊法重创反噬，19/22孟逗的是齐唠叨23私说早猜不再公开补刀24齐默转头。25张保命江略复光泽非全好，26/27张短言给药28孟吞青丹不能修回横练29只内力体感。表演建议：张断字呼吸受限，齐越解释越话多但边治伤边喘，孟玩笑不耽救护，稳定音色不变成另一个人。证据v01-c0039:p0001–p0029。"
+      },
+      {
+        "paragraph_start": 30,
+        "paragraph_end": 44,
+        "label": "空针筒之喜、补针估价与塔前真实伤势",
+        "direction": "30王晋尸体此时明确，孟拾先前汤抛的黑筒31低喜叹选可听性待录，32/33私估补针可值钱、所记一次报废款400与手中应该两三次分，34补针不超100明确猜测。35贫困发达是心境不是实际卖得功；不能演立刻装填又发针。36切殿残墙燃梁雨烟37/38实毁坏与鬼蜮比喻，39/40心寂逃朵追由42/43确认，不把这全段送孟耳目。41塔最高崖42心寂坐前微笑仍活43敌嘲逃不掉左胸金掌印44心寂胸拳贯体，是此刻读者见的严重伤果，不以贯穿先宣已死或擅补遗言。表演建议：孟财喜短暂轻快衬困窘，随即转追逃与破殿余烬，朵仍冷压、心寂微笑淡定而肉身重创。45省略桥段仍覆盖。证据v01-c0039:p0030–p0045。"
+      },
+      {
+        "paragraph_start": 46,
+        "paragraph_end": 73,
+        "label": "舍针抢时、背伤者入林与机关实开",
+        "direction": "46孟揣筒打算拔王尸幽蓝毒针省功未做成47/48云风逼近49惊问低声待录即放下回众，50塔光推应追心寂先躲，仅推测不知贯胸细节。52江张点头任孟主53不能自行走，54齐反噬仍基本力断疗问去处55孟指熟右林56齐质疑感官阻挡但未离队57孟主线将成很快回是其预期，不系统已发末刻也不许可逃出少林范围。58不会暗器重装59毒已减都限制反击，不临时复用针筒。60齐背张、孟背江实际进林，61见熟赤石62/63私疑，65雷66雨环境，67孟低唤朵选可听性待录后想道安全因无妖仍假说68齐唠叨暗毒不足。69背江照旧真观动作摸石后70真实可动凸起71扳后崖入口真开72私震，73齐误以为孟已本地打听，不能补先前问路纪录；结尾尚未入道深处，不解世界同构、出口或妖魔存否。表演建议：孟从小财迷迅速转临时决断，齐提出合理疑问仍背人配合，走动体力与重伤者被背状态持续；开门声微弱，留惊讶而不抢后文解释。证据v01-c0039:p0046–p0073。"
+      }
+    ],
+    "knowledge_rule": "血字分功无声；齐卖长河落日等150买镖130及反噬此时确认，不等全卖/开窍。丹药保命不复横练，针筒余次补针价格仍猜不会重装；王尸明证，心寂贯胸未明死，实际开门不解释世界、道安全与出口。"
+  }
 }
