@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [回归真实治疗声、横练复与评价摇签](early-return-healing-ironcloth-restored-evaluation-voice.md) | 第43章历史归属回补 |
+| [摇签三瓶灵芝丸、收益旧余与未还债](early-lottery-lingzhi-prize-accounts-not-loan-repayment.md) | 第43章历史归属回补 |
+| [共同商议非强制、剑修待办与圣灵兴趣](early-voluntary-exchange-swordrepair-shengling-interest.md) | 第43章历史归属回补 |
 | [无生指延死、顾挑拨说辞与挥袖终结](early-gu-wushengfinger-delayeddeath-threats-claims.md) | 第42章历史归属回补 |
 | [部分刀意争时、顾感知稚声与无声切磋](early-meng-partial-intent-gu-childvoice-closedmechanisms.md) | 第42章历史归属回补 |
 | [罗教转世传闻、当期榜单与灰墙结算](early-luojiao-rebirth-rumor-ranks-greywall-settlement.md) | 第42章历史归属回补 |
