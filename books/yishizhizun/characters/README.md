@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇横练破功、减力七成与口骂内静](early-meng-ironcloth-broken-calm-laststrike.md) | 第38章历史归属回补 |
+| [心寂口诵与左掌光声、朵左眼首次明确](early-xinji-mouth-leftpalm-chants-duo-leftblind.md) | 第38章历史归属回补 |
+| [汤顺重创江张、齐双镖合孟刀与来源疑问](early-tang-fatal-counter-qi-darts-origin-open.md) | 第38章历史归属回补 |
 | [孟奇义胆表演与心寂后山回护](early-meng-righteous-performance-xinji-protective-backmountain.md) | 第37章历史归属回补 |
 | [江张战力详报与后山重合未证密道](early-jiang-zhang-injury-reports-geography-not-secretpassage.md) | 第37章历史归属回补 |
 | [王晋拷问私欲未行、针袭与汤顺礼貌杀意](early-wang-lootplan-needlefall-tangshun-courtesy.md) | 第37章历史归属回补 |
