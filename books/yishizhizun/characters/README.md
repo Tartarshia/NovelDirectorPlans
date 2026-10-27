@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江取剑理、偿还20与白虹修复领谱](early-jiang-swordprinciples-repayment-repair-and-manuals.md) | 第44章历史归属回补 |
+| [张重修已成蓄气、发现偏差与持丸待开耳](early-zhang-completedstage-retraining-not-premature-boost.md) | 第44章历史归属回补 |
+| [密道来源此刻共享、游戏私想与孟三项选择](early-team-gate-sharing-and-meng-three-exchange-choices.md) | 第44章历史归属回补 |
 | [回归真实治疗声、横练复与评价摇签](early-return-healing-ironcloth-restored-evaluation-voice.md) | 第43章历史归属回补 |
 | [摇签三瓶灵芝丸、收益旧余与未还债](early-lottery-lingzhi-prize-accounts-not-loan-repayment.md) | 第43章历史归属回补 |
 | [共同商议非强制、剑修待办与圣灵兴趣](early-voluntary-exchange-swordrepair-shengling-interest.md) | 第43章历史归属回补 |
