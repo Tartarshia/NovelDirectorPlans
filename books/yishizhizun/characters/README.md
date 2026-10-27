@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [刀式完整记忆、针器余两次与知行距离](early-meng-complete-blade-memory-reload-delivery-not-mastery.md) | 第45章历史归属回补 |
+| [陆大一心剑、叶夫人身后事与苏的论剑心愿转述](early-luda-yefuren-and-suwuming-reported-not-present.md) | 第45章历史归属回补 |
+| [血刀80实借30、齐板脸关心与未来售法计划](early-xuedao-actual-loans-qi-dryhumor-and-future-sectplan.md) | 第45章历史归属回补 |
 | [江取剑理、偿还20与白虹修复领谱](early-jiang-swordprinciples-repayment-repair-and-manuals.md) | 第44章历史归属回补 |
 | [张重修已成蓄气、发现偏差与持丸待开耳](early-zhang-completedstage-retraining-not-premature-boost.md) | 第44章历史归属回补 |
 | [密道来源此刻共享、游戏私想与孟三项选择](early-team-gate-sharing-and-meng-three-exchange-choices.md) | 第44章历史归属回补 |
