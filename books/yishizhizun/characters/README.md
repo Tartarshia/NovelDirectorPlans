@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [心寂隐伤、心禅具名与秘密转移](early-xinji-xinchan-hidden-injury-secret-evacuation.md) | 第35章历史归属回补 |
+| [朵儿察步行威压、半步外景与少年战力边界](early-duoercha-halfstep-weather-pressure-team-limits.md) | 第35章历史归属回补 |
+| [魏无忌攻守门僧、破门与泥地倒计时](early-wei-deguang-gatebreach-silent-deadline.md) | 第35章历史归属回补 |
 | [江剑追击、邝承望擒杀与支线分功](early-jiang-swordlight-kuang-capture-execution-sidecredits.md) | 第34章历史归属回补 |
 | [未名白眉老僧请众离寺、守寺变通与泄密假说](early-unnamed-whitebrow-expulsion-main2-workarounds-hearing-hypothesis.md) | 第34章历史归属回补 |
 | [林别雪干缩尸身与小紫称小桑来临](early-linbiexue-driedbody-xiaosang-claim-unproved.md) | 第34章历史归属回补 |

@@ -41,7 +41,2779 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0002"
+  "reading_batch": "batch-0002",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0035",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0035.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0035:p0001",
+        "length": 10,
+        "sha256": "06c87e66887d7dff86b82d2acf9644945c864fc286d9d4c42af27815b44e0ced",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0001:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "寺内转场，孟等已离去；以下密议不属于主角当下知识。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "寺内转场，孟等已离去；以下密议不属于主角当下知识。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "寺内转场，孟等已离去；以下密议不属于主角当下知识。"
+      },
+      {
+        "reference": "v01-c0035:p0002",
+        "length": 32,
+        "sha256": "182aebd7887fdfce162820d1025bb474e4a05fcf85a5688193e589f43106e703",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0002:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_whitebrow_shaolin_elder_v01",
+            "surface_identity": "same_prior_unnamed_whitebrow_now_named_XinChan_not_XuanKu",
+            "text_context": "此前未名白眉问伤势，本章11/20才明确心禅；保旧实体ID并加后认身份，源到疑待不改。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinChan_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "local_whitebrow_elder_in_council_no_true_motive_certified",
+            "delivery": "concerned_sigh_for_lineage_then_firm_leaksecurity",
+            "resolved_person_id": "xin_chan",
+            "knowledge_boundary": "此前未名白眉问伤势，本章11/20才明确心禅；保旧实体ID并加后认身份，源到疑待不改。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0002:u002",
+            "start": 11,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "此前未名白眉问伤势，本章11/20才明确心禅；保旧实体ID并加后认身份，源到疑待不改。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "此前未名白眉问伤势，本章11/20才明确心禅；保旧实体ID并加后认身份，源到疑待不改。",
+            "focalizer": "unnamed_whitebrow_shaolin_elder_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "此前未名白眉问伤势，本章11/20才明确心禅；保旧实体ID并加后认身份，源到疑待不改。"
+      },
+      {
+        "reference": "v01-c0035:p0003",
+        "length": 38,
+        "sha256": "b09343ac35194195982f47e695edbb32093c39f46475abc88705e682fce1b4cb",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0003:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "心寂离客后真吐血、潮红染袈裟，不能因上一章能独行判伤轻或把此血当攻击。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "心寂离客后真吐血、潮红染袈裟，不能因上一章能独行判伤轻或把此血当攻击。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂离客后真吐血、潮红染袈裟，不能因上一章能独行判伤轻或把此血当攻击。"
+      },
+      {
+        "reference": "v01-c0035:p0004",
+        "length": 5,
+        "sha256": "488e725f5dc70906c40656b8218ac19206ad928b58cae637a29dd036fee4d605",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0004:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_abbot_crying_monk_v01c35",
+            "surface_identity": "unnamed_monk_addresses_abbot_no_exact_person_match",
+            "text_context": "实际惊呼方丈，未名单独称谓角色；不能直接认证是心禅或特定首座。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_unnamed_abbot_alarm",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "council_alarm_not_Kconfirmed",
+            "delivery": "startled_short_abbot_cry",
+            "knowledge_boundary": "实际惊呼方丈，未名单独称谓角色；不能直接认证是心禅或特定首座。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际惊呼方丈，未名单独称谓角色；不能直接认证是心禅或特定首座。"
+      },
+      {
+        "reference": "v01-c0035:p0005",
+        "length": 5,
+        "sha256": "4e2ffa3a492c99bfe6cf57b073a0a962ec05c6936902ba203e23473ff341b8d9",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0005:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_shifu_crying_disciple_v01c35",
+            "surface_identity": "unnamed_disciple_addresses_shifu_not_Kconfirmed",
+            "text_context": "实际惊呼师父，与4称谓分开，不凭称谓就合16跪弟子。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_unnamed_shifu_alarm",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "council_alarm_distinct_addressing_role",
+            "delivery": "startled_short_shifu_cry",
+            "knowledge_boundary": "实际惊呼师父，与4称谓分开，不凭称谓就合16跪弟子。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际惊呼师父，与4称谓分开，不凭称谓就合16跪弟子。"
+      },
+      {
+        "reference": "v01-c0035:p0006",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0006:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略众呼，保叙述停顿不为每点号新增人声。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "省略众呼，保叙述停顿不为每点号新增人声。",
+            "focalizer": "inn_onlookers_unidentified_v01c35",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略众呼，保叙述停顿不为每点号新增人声。"
+      },
+      {
+        "reference": "v01-c0035:p0007",
+        "length": 41,
+        "sha256": "ec1fe1b3b8d821bb75f93a6c29f3715c869d9efb582ccbef483ef0cac8ea4c47",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0007:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "众僧此时明白之前强压伤势，孟等不在场；不倒灌上一章当时知识。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "众僧此时明白之前强压伤势，孟等不在场；不倒灌上一章当时知识。",
+            "focalizer": "inn_onlookers_unidentified_v01c35",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "众僧此时明白之前强压伤势，孟等不在场；不倒灌上一章当时知识。"
+      },
+      {
+        "reference": "v01-c0035:p0008",
+        "length": 38,
+        "sha256": "61d6ac88acbcff99a24c69750f9331ceeb09fb1f99fab858fd915e75b8c72e9f",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0008:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "心寂缓气后实际安抚暂时无碍并承功力不足五成，不等痊愈或满五成。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "心寂缓气后实际安抚暂时无碍并承功力不足五成，不等痊愈或满五成。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0008:u002",
+            "start": 13,
+            "end": 38,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "心寂缓气后实际安抚暂时无碍并承功力不足五成，不等痊愈或满五成。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "心寂缓气后实际安抚暂时无碍并承功力不足五成，不等痊愈或满五成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂缓气后实际安抚暂时无碍并承功力不足五成，不等痊愈或满五成。"
+      },
+      {
+        "reference": "v01-c0035:p0009",
+        "length": 111,
+        "sha256": "6ee9123567f7e8d644e61507725151db6737a48298e582c2ba3558e5184e7086",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0009:u001",
+            "start": 0,
+            "end": 111,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "本寺另两初先天及众僧绝望比较是场内背景，不强给两人姓名或演都已战死。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "本寺另两初先天及众僧绝望比较是场内背景，不强给两人姓名或演都已战死。",
+            "focalizer": "inn_onlookers_unidentified_v01c35",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "本寺另两初先天及众僧绝望比较是场内背景，不强给两人姓名或演都已战死。"
+      },
+      {
+        "reference": "v01-c0035:p0010",
+        "length": 33,
+        "sha256": "7d3d16885960ce16564c2033d226feaecd62d767ad6638145e4b38b74033e7f9",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0010:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "白眉实际长叹保香火，后具名心禅；此建议不先认证叛敌。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "白眉实际长叹保香火，后具名心禅；此建议不先认证叛敌。",
+            "focalizer": "unnamed_whitebrow_shaolin_elder_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0010:u002",
+            "start": 9,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_whitebrow_shaolin_elder_v01",
+            "surface_identity": "same_prior_unnamed_whitebrow_now_named_XinChan_not_XuanKu",
+            "text_context": "白眉实际长叹保香火，后具名心禅；此建议不先认证叛敌。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinChan_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "local_whitebrow_elder_in_council_no_true_motive_certified",
+            "delivery": "concerned_sigh_for_lineage_then_firm_leaksecurity",
+            "resolved_person_id": "xin_chan",
+            "knowledge_boundary": "白眉实际长叹保香火，后具名心禅；此建议不先认证叛敌。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "白眉实际长叹保香火，后具名心禅；此建议不先认证叛敌。"
+      },
+      {
+        "reference": "v01-c0035:p0011",
+        "length": 109,
+        "sha256": "33e7c54c036600fa870944e5a2ba2184029071093afd9fee32827a6ca97fa854",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0011:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "心寂实际称心禅师弟，首次名实链接；国师狼主和铁狼三百是其说明，非这些人现场开口。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "心寂实际称心禅师弟，首次名实链接；国师狼主和铁狼三百是其说明，非这些人现场开口。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0011:u002",
+            "start": 17,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "心寂实际称心禅师弟，首次名实链接；国师狼主和铁狼三百是其说明，非这些人现场开口。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "心寂实际称心禅师弟，首次名实链接；国师狼主和铁狼三百是其说明，非这些人现场开口。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0011:u003",
+            "start": 38,
+            "end": 109,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "心寂实际称心禅师弟，首次名实链接；国师狼主和铁狼三百是其说明，非这些人现场开口。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "心寂实际称心禅师弟，首次名实链接；国师狼主和铁狼三百是其说明，非这些人现场开口。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂实际称心禅师弟，首次名实链接；国师狼主和铁狼三百是其说明，非这些人现场开口。"
+      },
+      {
+        "reference": "v01-c0035:p0012",
+        "length": 49,
+        "sha256": "47a35ea59e83a274bb5a4b51bdb0619e7f881ca19ca988e7a8552c9d07b46692",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0012:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "心寂实际玉石俱焚也难挡片刻的判断，不是既成寺毁或自身已死。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "心寂实际玉石俱焚也难挡片刻的判断，不是既成寺毁或自身已死。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂实际玉石俱焚也难挡片刻的判断，不是既成寺毁或自身已死。"
+      },
+      {
+        "reference": "v01-c0035:p0013",
+        "length": 91,
+        "sha256": "85828f1af203d4e6d437bd332fd6adbe00e787ba7a310e01d6d0b5f8ac56bf53",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0013:u001",
+            "start": 0,
+            "end": 91,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "心寂实际愿舍身拖敌换逃生传承，是计划与对追杀的判断，不已执行成功。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "心寂实际愿舍身拖敌换逃生传承，是计划与对追杀的判断，不已执行成功。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂实际愿舍身拖敌换逃生传承，是计划与对追杀的判断，不已执行成功。"
+      },
+      {
+        "reference": "v01-c0035:p0014",
+        "length": 41,
+        "sha256": "ab9abda4ad58bc67ed97b14a81f4e3c945526d2f16edfcba1c6d5282c8d4194b",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0014:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "铁狼兵秘训、无痛无畏带据说边界，不添真实僵尸身份或全灭结局。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "铁狼兵秘训、无痛无畏带据说边界，不添真实僵尸身份或全灭结局。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "铁狼兵秘训、无痛无畏带据说边界，不添真实僵尸身份或全灭结局。"
+      },
+      {
+        "reference": "v01-c0035:p0015",
+        "length": 136,
+        "sha256": "a40b8e3cce68236f94bae75221b5a27c8f1cf1eb47cda75f6b80d2d084c871a3",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0015:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "僧众对朵儿察追杀目的与方丈死后松懈为预判，不全知敌人已发命令。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "僧众对朵儿察追杀目的与方丈死后松懈为预判，不全知敌人已发命令。",
+            "focalizer": "unnamed_whitebrow_shaolin_elder_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0015:u002",
+            "start": 46,
+            "end": 136,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "僧众对朵儿察追杀目的与方丈死后松懈为预判，不全知敌人已发命令。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "僧众对朵儿察追杀目的与方丈死后松懈为预判，不全知敌人已发命令。",
+            "focalizer": "unnamed_whitebrow_shaolin_elder_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "僧众对朵儿察追杀目的与方丈死后松懈为预判，不全知敌人已发命令。"
+      },
+      {
+        "reference": "v01-c0035:p0016",
+        "length": 35,
+        "sha256": "909ef32b49dc8dc82b9a7a807e9dbeabced00c6c44ea9b378db4c2d3334c9fe8",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0016:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_xinji_kneeling_disciple_v01",
+            "surface_identity": "unnamed_Xinji_middleaged_disciple_not_prior_monk_forced_same",
+            "text_context": "未名中年弟子跪求同留，实际含悲，不强合前章中年僧或5惊呼者。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_unnamed_kneeling_disciple",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "kneels_sorrowful_then_stands_arguing_urgent_evacuation",
+            "delivery": "grieved_resolve_to_stay_then_urgent_nearby_enemy_inference",
+            "knowledge_boundary": "未名中年弟子跪求同留，实际含悲，不强合前章中年僧或5惊呼者。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0016:u002",
+            "start": 16,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未名中年弟子跪求同留，实际含悲，不强合前章中年僧或5惊呼者。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "未名中年弟子跪求同留，实际含悲，不强合前章中年僧或5惊呼者。",
+            "focalizer": "unnamed_xinji_kneeling_disciple_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未名中年弟子跪求同留，实际含悲，不强合前章中年僧或5惊呼者。"
+      },
+      {
+        "reference": "v01-c0035:p0017",
+        "length": 15,
+        "sha256": "bc89198b38947982f5f19745e0d17716fbaa82d6556951a27f0ef49fcfadcfd4",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0017:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "心寂实际叹劝执着，不接受弟子同留的批准。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "心寂实际叹劝执着，不接受弟子同留的批准。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0017:u002",
+            "start": 6,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "心寂实际叹劝执着，不接受弟子同留的批准。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "心寂实际叹劝执着，不接受弟子同留的批准。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂实际叹劝执着，不接受弟子同留的批准。"
+      },
+      {
+        "reference": "v01-c0035:p0018",
+        "length": 85,
+        "sha256": "526ab20ea0c618f641add2ff25b27adaffa80585b657039cde0aeb8b57aad9e9",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0018:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未答应弟子，实际命秘密收拾候深夜、普通弟子留条自下；方丈独知密道此时确有，孟仍未知，源求肯保字。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "未答应弟子，实际命秘密收拾候深夜、普通弟子留条自下；方丈独知密道此时确有，孟仍未知，源求肯保字。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0018:u002",
+            "start": 20,
+            "end": 57,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "未答应弟子，实际命秘密收拾候深夜、普通弟子留条自下；方丈独知密道此时确有，孟仍未知，源求肯保字。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "未答应弟子，实际命秘密收拾候深夜、普通弟子留条自下；方丈独知密道此时确有，孟仍未知，源求肯保字。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0018:u003",
+            "start": 57,
+            "end": 85,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "未答应弟子，实际命秘密收拾候深夜、普通弟子留条自下；方丈独知密道此时确有，孟仍未知，源求肯保字。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "未答应弟子，实际命秘密收拾候深夜、普通弟子留条自下；方丈独知密道此时确有，孟仍未知，源求肯保字。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未答应弟子，实际命秘密收拾候深夜、普通弟子留条自下；方丈独知密道此时确有，孟仍未知，源求肯保字。"
+      },
+      {
+        "reference": "v01-c0035:p0019",
+        "length": 35,
+        "sha256": "ed498225433fa1d6aa5e8898f25de6490f2225eed111a7b619c75b2063d51ffd",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0019:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_milelike_shaolin_monk_v01",
+            "surface_identity": "unnamed_smiling_Milelike_monk_not_Maitreya_or_XinChan",
+            "text_context": "另一弥勒样笑脸僧实际问是否告山下，不是弥勒佛真人或心禅。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_milelike_monk_question",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "different_council_monk_asks_helpers_notice",
+            "delivery": "gentle_question_no_secret_revelation_to_M",
+            "knowledge_boundary": "另一弥勒样笑脸僧实际问是否告山下，不是弥勒佛真人或心禅。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0019:u002",
+            "start": 9,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_milelike_shaolin_monk_v01",
+            "surface_identity": "unnamed_smiling_Milelike_monk_not_Maitreya_or_XinChan",
+            "text_context": "另一弥勒样笑脸僧实际问是否告山下，不是弥勒佛真人或心禅。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_milelike_monk_question",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "different_council_monk_asks_helpers_notice",
+            "delivery": "gentle_question_no_secret_revelation_to_M",
+            "knowledge_boundary": "另一弥勒样笑脸僧实际问是否告山下，不是弥勒佛真人或心禅。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0019:u003",
+            "start": 17,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "另一弥勒样笑脸僧实际问是否告山下，不是弥勒佛真人或心禅。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "另一弥勒样笑脸僧实际问是否告山下，不是弥勒佛真人或心禅。",
+            "focalizer": "unnamed_milelike_shaolin_monk_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "另一弥勒样笑脸僧实际问是否告山下，不是弥勒佛真人或心禅。"
+      },
+      {
+        "reference": "v01-c0035:p0020",
+        "length": 64,
+        "sha256": "ab0998906900594020be777e797f6f418279fc2d45978f9128a1d96aa1f98932",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0020:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "白眉明确名心禅，实际担心泄密而拒告；藏奸数量是怀疑不是证明魏奸细。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "白眉明确名心禅，实际担心泄密而拒告；藏奸数量是怀疑不是证明魏奸细。",
+            "focalizer": "unnamed_whitebrow_shaolin_elder_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0020:u002",
+            "start": 11,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_whitebrow_shaolin_elder_v01",
+            "surface_identity": "same_prior_unnamed_whitebrow_now_named_XinChan_not_XuanKu",
+            "text_context": "白眉明确名心禅，实际担心泄密而拒告；藏奸数量是怀疑不是证明魏奸细。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinChan_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "local_whitebrow_elder_in_council_no_true_motive_certified",
+            "delivery": "concerned_sigh_for_lineage_then_firm_leaksecurity",
+            "resolved_person_id": "xin_chan",
+            "knowledge_boundary": "白眉明确名心禅，实际担心泄密而拒告；藏奸数量是怀疑不是证明魏奸细。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0020:u003",
+            "start": 17,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_whitebrow_shaolin_elder_v01",
+            "surface_identity": "same_prior_unnamed_whitebrow_now_named_XinChan_not_XuanKu",
+            "text_context": "白眉明确名心禅，实际担心泄密而拒告；藏奸数量是怀疑不是证明魏奸细。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinChan_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "local_whitebrow_elder_in_council_no_true_motive_certified",
+            "delivery": "concerned_sigh_for_lineage_then_firm_leaksecurity",
+            "resolved_person_id": "xin_chan",
+            "knowledge_boundary": "白眉明确名心禅，实际担心泄密而拒告；藏奸数量是怀疑不是证明魏奸细。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "白眉明确名心禅，实际担心泄密而拒告；藏奸数量是怀疑不是证明魏奸细。"
+      },
+      {
+        "reference": "v01-c0035:p0021",
+        "length": 33,
+        "sha256": "1952273b1c3d87f574128e4923ba0de22445d01add31deb041929659bb851208",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0021:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "心寂实际等普通弟子下山自知，不愿漏讯；确有不主动通知而非已遣人告孟。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "心寂实际等普通弟子下山自知，不愿漏讯；确有不主动通知而非已遣人告孟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0021:u002",
+            "start": 19,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "心寂实际等普通弟子下山自知，不愿漏讯；确有不主动通知而非已遣人告孟。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "心寂实际等普通弟子下山自知，不愿漏讯；确有不主动通知而非已遣人告孟。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂实际等普通弟子下山自知，不愿漏讯；确有不主动通知而非已遣人告孟。"
+      },
+      {
+        "reference": "v01-c0035:p0022",
+        "length": 91,
+        "sha256": "5615bb25a15fbf0157f4a2b9db2a37e626ac064d7cc07c073763b7896b3de571",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0022:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_xinji_kneeling_disciple_v01",
+            "surface_identity": "unnamed_Xinji_middleaged_disciple_not_prior_monk_forced_same",
+            "text_context": "跪弟子此时起身两引语实际，猜敌已近并建议提前撤，料山下会散不等已散。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_unnamed_kneeling_disciple",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "kneels_sorrowful_then_stands_arguing_urgent_evacuation",
+            "delivery": "grieved_resolve_to_stay_then_urgent_nearby_enemy_inference",
+            "knowledge_boundary": "跪弟子此时起身两引语实际，猜敌已近并建议提前撤，料山下会散不等已散。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0022:u002",
+            "start": 42,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "跪弟子此时起身两引语实际，猜敌已近并建议提前撤，料山下会散不等已散。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "跪弟子此时起身两引语实际，猜敌已近并建议提前撤，料山下会散不等已散。",
+            "focalizer": "unnamed_xinji_kneeling_disciple_v01",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0022:u003",
+            "start": 54,
+            "end": 91,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_xinji_kneeling_disciple_v01",
+            "surface_identity": "unnamed_Xinji_middleaged_disciple_not_prior_monk_forced_same",
+            "text_context": "跪弟子此时起身两引语实际，猜敌已近并建议提前撤，料山下会散不等已散。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_unnamed_kneeling_disciple",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "kneels_sorrowful_then_stands_arguing_urgent_evacuation",
+            "delivery": "grieved_resolve_to_stay_then_urgent_nearby_enemy_inference",
+            "knowledge_boundary": "跪弟子此时起身两引语实际，猜敌已近并建议提前撤，料山下会散不等已散。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "跪弟子此时起身两引语实际，猜敌已近并建议提前撤，料山下会散不等已散。"
+      },
+      {
+        "reference": "v01-c0035:p0023",
+        "length": 17,
+        "sha256": "798b52ff435615198638d02591e24fb1c54fb6a8029a749c3f63deed329e0f73",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0023:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "心寂实际认可，表明撤离无需固等深夜；未见已搬完传承或密道出口。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "心寂实际认可，表明撤离无需固等深夜；未见已搬完传承或密道出口。",
+            "focalizer": "xin_ji",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0023:u002",
+            "start": 10,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "xin_ji",
+            "surface_identity": "local_abbot_XinJi_not_XinChan",
+            "text_context": "心寂实际认可，表明撤离无需固等深夜；未见已搬完传承或密道出口。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "actual_XinJi_private_council",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "coughs_blood_less_than_half_power_kept_from_departed_helpers",
+            "delivery": "breath_recovery_calm_reassurance_weary_sacrifice_and_secret_evacuation_orders",
+            "knowledge_boundary": "心寂实际认可，表明撤离无需固等深夜；未见已搬完传承或密道出口。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心寂实际认可，表明撤离无需固等深夜；未见已搬完传承或密道出口。"
+      },
+      {
+        "reference": "v01-c0035:p0024",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0024:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "寺内至山脚省略桥段，原场界间隙保留且本段仍覆盖。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_private_council_hidden_from_helpers",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "寺内至山脚省略桥段，原场界间隙保留且本段仍覆盖。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "寺内至山脚省略桥段，原场界间隙保留且本段仍覆盖。"
+      },
+      {
+        "reference": "v01-c0035:p0025",
+        "length": 5,
+        "sha256": "b40c24b0b688048c64b38a5dd3c4ad5c60e95a213e3f458663f4194c2f0fc9ca",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0025:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "客栈转场回主角处，无寺内对话自动传给孟。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "客栈转场回主角处，无寺内对话自动传给孟。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "客栈转场回主角处，无寺内对话自动传给孟。"
+      },
+      {
+        "reference": "v01-c0035:p0026",
+        "length": 49,
+        "sha256": "e6f2145af95a89e031503bd02a4ff2f878283094ee3e482b34ae8c8bd4bb0f19",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0026:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "xiao_zi",
+            "surface_identity": "selfnamed_XiaoZi_not_Gu_identity_confirmed",
+            "text_context": "小紫实际梦呓般再称小桑来了，魏等起鸡皮；清醒恐惧声不是顾本人发声或确定在场。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_XiaoZi_frightened_claim",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "awake_dreamlike_murmur_then_near_breakdown_crying",
+            "delivery": "dreamlike_presence_claim_to_crying_claim_Gu_wants_kill_me",
+            "knowledge_boundary": "小紫实际梦呓般再称小桑来了，魏等起鸡皮；清醒恐惧声不是顾本人发声或确定在场。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0026:u002",
+            "start": 11,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "小紫实际梦呓般再称小桑来了，魏等起鸡皮；清醒恐惧声不是顾本人发声或确定在场。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "小紫实际梦呓般再称小桑来了，魏等起鸡皮；清醒恐惧声不是顾本人发声或确定在场。",
+            "focalizer": "inn_onlookers_unidentified_v01c35",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "小紫实际梦呓般再称小桑来了，魏等起鸡皮；清醒恐惧声不是顾本人发声或确定在场。"
+      },
+      {
+        "reference": "v01-c0035:p0027",
+        "length": 14,
+        "sha256": "38fae608d25c682b32029974e44e4ac27d1b4c569684d9a036ed5f6962031ad2",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0027:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "inn_onlookers_unidentified_v01c35",
+            "surface_identity": "unidentified_inn_onlookers_not_M_who_already_heard_Guname",
+            "text_context": "紧承旁观者的谁是小桑恐惧疑问，选择群体私想，可听性待录；不默认孟已有的全名知识消失。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_onlookers_private_question_audibility_open",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "onlookers_chilled_at_XiaoZi_claim",
+            "delivery": "private_who_is_Xiaosang_fright_question_recording_review",
+            "knowledge_boundary": "紧承旁观者的谁是小桑恐惧疑问，选择群体私想，可听性待录；不默认孟已有的全名知识消失。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0027:u002",
+            "start": 6,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "inn_onlookers_unidentified_v01c35",
+            "surface_identity": "unidentified_inn_onlookers_not_M_who_already_heard_Guname",
+            "text_context": "紧承旁观者的谁是小桑恐惧疑问，选择群体私想，可听性待录；不默认孟已有的全名知识消失。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_onlookers_private_question_audibility_open",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "onlookers_chilled_at_XiaoZi_claim",
+            "delivery": "private_who_is_Xiaosang_fright_question_recording_review",
+            "knowledge_boundary": "紧承旁观者的谁是小桑恐惧疑问，选择群体私想，可听性待录；不默认孟已有的全名知识消失。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "紧承旁观者的谁是小桑恐惧疑问，选择群体私想，可听性待录；不默认孟已有的全名知识消失。"
+      },
+      {
+        "reference": "v01-c0035:p0028",
+        "length": 32,
+        "sha256": "870c8cd14118181aa0797c5e0a80606da0ba691187d6e86ed76f991b9b2ed4b5",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0028:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江张明确异口同声，可重合双声；同一引用不误作两人轮流完整复述，顾仍未出场。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "江张明确异口同声，可重合双声；同一引用不误作两人轮流完整复述，顾仍未出场。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0028:u002",
+            "start": 23,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei_and_zhang_yuanshan_unison",
+            "surface_identity": "two_actual_speakers_JiangZhiwei_and_ZhangYuanshan",
+            "text_context": "江张明确异口同声，可重合双声；同一引用不误作两人轮流完整复述，顾仍未出场。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_Jiang_Zhang_unison",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "shared_simultaneous_line_not_new_permanent_character",
+            "delivery": "two_overlapping_surprised_Gu_identity_questions",
+            "knowledge_boundary": "江张明确异口同声，可重合双声；同一引用不误作两人轮流完整复述，顾仍未出场。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0028:u003",
+            "start": 27,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei_and_zhang_yuanshan_unison",
+            "surface_identity": "two_actual_speakers_JiangZhiwei_and_ZhangYuanshan",
+            "text_context": "江张明确异口同声，可重合双声；同一引用不误作两人轮流完整复述，顾仍未出场。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_Jiang_Zhang_unison",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "shared_simultaneous_line_not_new_permanent_character",
+            "delivery": "two_overlapping_surprised_Gu_identity_questions",
+            "knowledge_boundary": "江张明确异口同声，可重合双声；同一引用不误作两人轮流完整复述，顾仍未出场。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江张明确异口同声，可重合双声；同一引用不误作两人轮流完整复述，顾仍未出场。"
+      },
+      {
+        "reference": "v01-c0035:p0029",
+        "length": 53,
+        "sha256": "13349486875dce50d9a723d0e94949bffe9ec5428b655adec469523c4df5a913",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0029:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "前她谁私想，后孟已听过名但不知其来历的叙述；不是此前从未听过顾全名。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_M_private_question_or_irony",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "前她谁私想，后孟已听过名但不知其来历的叙述；不是此前从未听过顾全名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0029:u002",
+            "start": 5,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前她谁私想，后孟已听过名但不知其来历的叙述；不是此前从未听过顾全名。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "前她谁私想，后孟已听过名但不知其来历的叙述；不是此前从未听过顾全名。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0029:u003",
+            "start": 33,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前她谁私想，后孟已听过名但不知其来历的叙述；不是此前从未听过顾全名。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "前她谁私想，后孟已听过名但不知其来历的叙述；不是此前从未听过顾全名。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前她谁私想，后孟已听过名但不知其来历的叙述；不是此前从未听过顾全名。"
+      },
+      {
+        "reference": "v01-c0035:p0030",
+        "length": 33,
+        "sha256": "905b31e79cd3ee0748e278e4784dea563b32d186eda2016a7815997f6559c14b",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0030:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "xiao_zi",
+            "surface_identity": "selfnamed_XiaoZi_not_Gu_identity_confirmed",
+            "text_context": "小紫实际哭称顾来杀己，角色恐惧说法不等作者证实杀意或凶手。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_XiaoZi_frightened_claim",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "awake_dreamlike_murmur_then_near_breakdown_crying",
+            "delivery": "dreamlike_presence_claim_to_crying_claim_Gu_wants_kill_me",
+            "knowledge_boundary": "小紫实际哭称顾来杀己，角色恐惧说法不等作者证实杀意或凶手。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0030:u002",
+            "start": 22,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "小紫实际哭称顾来杀己，角色恐惧说法不等作者证实杀意或凶手。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "小紫实际哭称顾来杀己，角色恐惧说法不等作者证实杀意或凶手。",
+            "focalizer": "xiao_zi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "小紫实际哭称顾来杀己，角色恐惧说法不等作者证实杀意或凶手。"
+      },
+      {
+        "reference": "v01-c0035:p0031",
+        "length": 47,
+        "sha256": "0522d0ceaa8a0e069b047829ed5ba7e2aba92d7ea81cf33cf7b645f73caa0086",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0031:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟框架暗猜后是其私问主世界成名人物，不代表已获江张完整介绍。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "孟框架暗猜后是其私问主世界成名人物，不代表已获江张完整介绍。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0031:u002",
+            "start": 24,
+            "end": 37,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟框架暗猜后是其私问主世界成名人物，不代表已获江张完整介绍。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_M_private_question_or_irony",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟框架暗猜后是其私问主世界成名人物，不代表已获江张完整介绍。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0031:u003",
+            "start": 37,
+            "end": 47,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟框架暗猜后是其私问主世界成名人物，不代表已获江张完整介绍。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_M_private_question_or_irony",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟框架暗猜后是其私问主世界成名人物，不代表已获江张完整介绍。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟框架暗猜后是其私问主世界成名人物，不代表已获江张完整介绍。"
+      },
+      {
+        "reference": "v01-c0035:p0032",
+        "length": 17,
+        "sha256": "433c97813c491b72c7ea8339c7790648bf39d3f58c1e6dbbc0a237bb0366cd04",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0032:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟私问本次只数人，不是六道新广播或名册最终保证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_M_private_question_or_irony",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟私问本次只数人，不是六道新广播或名册最终保证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私问本次只数人，不是六道新广播或名册最终保证。"
+      },
+      {
+        "reference": "v01-c0035:p0033",
+        "length": 12,
+        "sha256": "fd36d73eeb138f1b2a8b915d856a00f347cabba7e4de0feacf89aaa2b07ea580",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0033:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟私猜敌对阵营轮回者，尚未证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_M_private_question_or_irony",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟私猜敌对阵营轮回者，尚未证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私猜敌对阵营轮回者，尚未证。"
+      },
+      {
+        "reference": "v01-c0035:p0034",
+        "length": 17,
+        "sha256": "536d8a3b7749bc94bf50a9a75cd82dedc4b79d581e0660674fb8eac71360a3c0",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0034:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟私否定猜测因无提示，不凭无提示证明无其他轮回者。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_M_private_question_or_irony",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟私否定猜测因无提示，不凭无提示证明无其他轮回者。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私否定猜测因无提示，不凭无提示证明无其他轮回者。"
+      },
+      {
+        "reference": "v01-c0035:p0035",
+        "length": 48,
+        "sha256": "e09f986c0b69815757a1825711976e87c3ca1a6d7546b7e9f366accec6d6bc08",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0035:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江拟传音解释但被角声打断，实际说明尚未送达孟；不能补顾背景独白或传音全句。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "江拟传音解释但被角声打断，实际说明尚未送达孟；不能补顾背景独白或传音全句。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江拟传音解释但被角声打断，实际说明尚未送达孟；不能补顾背景独白或传音全句。"
+      },
+      {
+        "reference": "v01-c0035:p0036",
+        "length": 2,
+        "sha256": "3440b47e5646e843590cd1cebb4808eadf786c999d41f2026a096e30fee8d05c",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0036:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "呜是实际号角声、叙述音效通道，不是人哭或新增角色对白。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "audible_horn_sound_not_character_voice",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "delivery": "long_mournful_horn_then_hoofbeats",
+            "embodiment": "environmental_horn_not_human_vocalization",
+            "knowledge_boundary": "呜是实际号角声、叙述音效通道，不是人哭或新增角色对白。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "呜是实际号角声、叙述音效通道，不是人哭或新增角色对白。"
+      },
+      {
+        "reference": "v01-c0035:p0037",
+        "length": 38,
+        "sha256": "46900491731ce147264521518cc1c22fe84860af186fbb2c47a8b9ea0935960d",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0037:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "角声接马蹄由远而近环境声，不添尚未交手的人伤亡。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "角声接马蹄由远而近环境声，不添尚未交手的人伤亡。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "角声接马蹄由远而近环境声，不添尚未交手的人伤亡。"
+      },
+      {
+        "reference": "v01-c0035:p0038",
+        "length": 52,
+        "sha256": "e3345502bfc81173bdb6eff3c8426d7e03f45afc611d65fb9790689288dfb36e",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0038:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "wei_wuji",
+            "surface_identity": "WeiWuji_local_hero_not_confirmed_spy",
+            "text_context": "魏实际喊铁狼兵两次兼手颤，因联大将军而惊；此刻非从容奸细接应认证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_WeiWuji_alarm_plea_anger",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "trembles_pales_then_redanger_later_actual_headstrike_without_new_line",
+            "delivery": "alarm_loud_retreat_call_panicked_gateplea_then_indignant_accusation",
+            "knowledge_boundary": "魏实际喊铁狼兵两次兼手颤，因联大将军而惊；此刻非从容奸细接应认证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0038:u002",
+            "start": 5,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "wei_wuji",
+            "surface_identity": "WeiWuji_local_hero_not_confirmed_spy",
+            "text_context": "魏实际喊铁狼兵两次兼手颤，因联大将军而惊；此刻非从容奸细接应认证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_WeiWuji_alarm_plea_anger",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "trembles_pales_then_redanger_later_actual_headstrike_without_new_line",
+            "delivery": "alarm_loud_retreat_call_panicked_gateplea_then_indignant_accusation",
+            "knowledge_boundary": "魏实际喊铁狼兵两次兼手颤，因联大将军而惊；此刻非从容奸细接应认证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0038:u003",
+            "start": 10,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "魏实际喊铁狼兵两次兼手颤，因联大将军而惊；此刻非从容奸细接应认证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "魏实际喊铁狼兵两次兼手颤，因联大将军而惊；此刻非从容奸细接应认证。",
+            "focalizer": "wei_wuji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "魏实际喊铁狼兵两次兼手颤，因联大将军而惊；此刻非从容奸细接应认证。"
+      },
+      {
+        "reference": "v01-c0035:p0039",
+        "length": 37,
+        "sha256": "9eacf21d6bd219f6932f34bab4b7be481b0e53eba61190df8758f11a7d0b2bc5",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0039:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "魏朗声号召退寺依关防守，是实际求入而非寺方已经开门。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "魏朗声号召退寺依关防守，是实际求入而非寺方已经开门。",
+            "focalizer": "wei_wuji",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0039:u002",
+            "start": 6,
+            "end": 37,
+            "kind": "spoken_dialogue",
+            "speaker": "wei_wuji",
+            "surface_identity": "WeiWuji_local_hero_not_confirmed_spy",
+            "text_context": "魏朗声号召退寺依关防守，是实际求入而非寺方已经开门。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_WeiWuji_alarm_plea_anger",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "trembles_pales_then_redanger_later_actual_headstrike_without_new_line",
+            "delivery": "alarm_loud_retreat_call_panicked_gateplea_then_indignant_accusation",
+            "knowledge_boundary": "魏朗声号召退寺依关防守，是实际求入而非寺方已经开门。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "魏朗声号召退寺依关防守，是实际求入而非寺方已经开门。"
+      },
+      {
+        "reference": "v01-c0035:p0040",
+        "length": 20,
+        "sha256": "6249ff295ab689dd5298c82eef67151642d8396320c06f80533b12a4330522ed",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0040:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "魏自认地势开阔挡不住为其畏惧焦点叙述，不另添原文未给引语。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "魏自认地势开阔挡不住为其畏惧焦点叙述，不另添原文未给引语。",
+            "focalizer": "wei_wuji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "魏自认地势开阔挡不住为其畏惧焦点叙述，不另添原文未给引语。"
+      },
+      {
+        "reference": "v01-c0035:p0041",
+        "length": 10,
+        "sha256": "23f3cab381ff51bff752f52cb25656581babd8f52968f15bf44ce7ba30d59919",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0041:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_helper_supporting_wei_v01c35",
+            "surface_identity": "unidentified_helper_supporting_Wei_not_named_team_member",
+            "text_context": "未名侠客实际赞魏，和42另个呼入门声音分开，不指江或张。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_unnamed_helper_support",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "gate_seeking_crowd_individual_unknown",
+            "delivery": "alarmed_agreement",
+            "knowledge_boundary": "未名侠客实际赞魏，和42另个呼入门声音分开，不指江或张。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未名侠客实际赞魏，和42另个呼入门声音分开，不指江或张。"
+      },
+      {
+        "reference": "v01-c0035:p0042",
+        "length": 9,
+        "sha256": "640f4ec7dc8758a0a5bfebeefffdf3e75ae693eaf07ea5fceaddb4aa421904ea",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0042:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_helper_urging_gate_v01c35",
+            "surface_identity": "unidentified_helper_urging_gate_not_same_individual_as_prior_confirmed",
+            "text_context": "未名侠客实际促去山门，不是德光同意开门。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_unnamed_helper_urge",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "gate_seeking_crowd_individual_unknown",
+            "delivery": "urgent_to_gate",
+            "knowledge_boundary": "未名侠客实际促去山门，不是德光同意开门。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未名侠客实际促去山门，不是德光同意开门。"
+      },
+      {
+        "reference": "v01-c0035:p0043",
+        "length": 50,
+        "sha256": "b3a701239b508ebde91525269544a50a6a28b2fb4e4d0ea9303012e9d4f11c10",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0043:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "侠客实涌门，恐惧有据但未破门直到68。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "侠客实涌门，恐惧有据但未破门直到68。",
+            "focalizer": "inn_onlookers_unidentified_v01c35",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "侠客实涌门，恐惧有据但未破门直到68。"
+      },
+      {
+        "reference": "v01-c0035:p0044",
+        "length": 62,
+        "sha256": "ffd7953e7ea37705197a465e59028a1af9bb770558aea260a43399ee7a22f2dd",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0044:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟江等仍客栈窗前远看黑甲铁骑，只有眼露；不要提前搬到门内。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "孟江等仍客栈窗前远看黑甲铁骑，只有眼露；不要提前搬到门内。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟江等仍客栈窗前远看黑甲铁骑，只有眼露；不要提前搬到门内。"
+      },
+      {
+        "reference": "v01-c0035:p0045",
+        "length": 55,
+        "sha256": "f2d4a6095b0821f70f5df0a6d62af608219a63bf41bd80d2273537a355cf0f65",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0045:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "duo_ercha",
+            "surface_identity": "Duoercha_general_voice_recognized_samechapter_not_Guerduo",
+            "text_context": "远处威严浑厚冰铁命令，此后46识朵儿察、50续声和51现身可归同人；劝降不等真赦免已验证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_Duoercha_distant_order_or_contempt",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "walking_tall_scarface_copper_man_weapon_halfstep_exterior_assessed",
+            "delivery": "majestic_deep_iron_cold_distant_carry_then_contempt_and_flat_massacre_order",
+            "knowledge_boundary": "远处威严浑厚冰铁命令，此后46识朵儿察、50续声和51现身可归同人；劝降不等真赦免已验证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0045:u002",
+            "start": 7,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "远处威严浑厚冰铁命令，此后46识朵儿察、50续声和51现身可归同人；劝降不等真赦免已验证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "远处威严浑厚冰铁命令，此后46识朵儿察、50续声和51现身可归同人；劝降不等真赦免已验证。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "远处威严浑厚冰铁命令，此后46识朵儿察、50续声和51现身可归同人；劝降不等真赦免已验证。"
+      },
+      {
+        "reference": "v01-c0035:p0046",
+        "length": 60,
+        "sha256": "f43b0b1de6bc50214c55b25992d7555036a6d25f44fc792f6943cdebe49c6ea2",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0046:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "wei_wuji",
+            "surface_identity": "WeiWuji_local_hero_not_confirmed_spy",
+            "text_context": "魏失声认朵儿察，转慌催德光开门，两引语均魏实际，不是朵儿察自报名。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_WeiWuji_alarm_plea_anger",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "trembles_pales_then_redanger_later_actual_headstrike_without_new_line",
+            "delivery": "alarm_loud_retreat_call_panicked_gateplea_then_indignant_accusation",
+            "knowledge_boundary": "魏失声认朵儿察，转慌催德光开门，两引语均魏实际，不是朵儿察自报名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0046:u002",
+            "start": 13,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "魏失声认朵儿察，转慌催德光开门，两引语均魏实际，不是朵儿察自报名。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "魏失声认朵儿察，转慌催德光开门，两引语均魏实际，不是朵儿察自报名。",
+            "focalizer": "wei_wuji",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0046:u003",
+            "start": 45,
+            "end": 60,
+            "kind": "spoken_dialogue",
+            "speaker": "wei_wuji",
+            "surface_identity": "WeiWuji_local_hero_not_confirmed_spy",
+            "text_context": "魏失声认朵儿察，转慌催德光开门，两引语均魏实际，不是朵儿察自报名。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_WeiWuji_alarm_plea_anger",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "trembles_pales_then_redanger_later_actual_headstrike_without_new_line",
+            "delivery": "alarm_loud_retreat_call_panicked_gateplea_then_indignant_accusation",
+            "knowledge_boundary": "魏失声认朵儿察，转慌催德光开门，两引语均魏实际，不是朵儿察自报名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "魏失声认朵儿察，转慌催德光开门，两引语均魏实际，不是朵儿察自报名。"
+      },
+      {
+        "reference": "v01-c0035:p0047",
+        "length": 29,
+        "sha256": "e9806faf945790dc9530c38df853702c490772261f9e3ce5854667708b89a287",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0047:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "德光同样恐惧但奉方丈令拒开，是实际回应，非无恐高傲嘲讽。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "德光同样恐惧但奉方丈令拒开，是实际回应，非无恐高傲嘲讽。",
+            "focalizer": "de_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0047:u002",
+            "start": 9,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "de_guang",
+            "surface_identity": "DeGuang_same_gate_monk_not_XinJi",
+            "text_context": "德光同样恐惧但奉方丈令拒开，是实际回应，非无恐高傲嘲讽。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_DeGuang_gate_refusal_or_interrupted_address",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "pale_refuses_without_order_then_thunder_paralysis_Wei_headstrike",
+            "delivery": "fearful_disciplined_refusal_then_Weishi_cut_off",
+            "knowledge_boundary": "德光同样恐惧但奉方丈令拒开，是实际回应，非无恐高傲嘲讽。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "德光同样恐惧但奉方丈令拒开，是实际回应，非无恐高傲嘲讽。"
+      },
+      {
+        "reference": "v01-c0035:p0048",
+        "length": 48,
+        "sha256": "43d67fd29b0ac64ed32a367a216d64883232d441b10c5ed7a3f5e3087e2c23e5",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0048:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "wei_wuji",
+            "surface_identity": "WeiWuji_local_hero_not_confirmed_spy",
+            "text_context": "魏实际怒斥忘恩，与恐惧转怒连贯；原于无睹搭配存疑不修源。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_WeiWuji_alarm_plea_anger",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "trembles_pales_then_redanger_later_actual_headstrike_without_new_line",
+            "delivery": "alarm_loud_retreat_call_panicked_gateplea_then_indignant_accusation",
+            "knowledge_boundary": "魏实际怒斥忘恩，与恐惧转怒连贯；原于无睹搭配存疑不修源。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0048:u002",
+            "start": 11,
+            "end": 37,
+            "kind": "spoken_dialogue",
+            "speaker": "wei_wuji",
+            "surface_identity": "WeiWuji_local_hero_not_confirmed_spy",
+            "text_context": "魏实际怒斥忘恩，与恐惧转怒连贯；原于无睹搭配存疑不修源。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_WeiWuji_alarm_plea_anger",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "trembles_pales_then_redanger_later_actual_headstrike_without_new_line",
+            "delivery": "alarm_loud_retreat_call_panicked_gateplea_then_indignant_accusation",
+            "knowledge_boundary": "魏实际怒斥忘恩，与恐惧转怒连贯；原于无睹搭配存疑不修源。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0048:u003",
+            "start": 37,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "魏实际怒斥忘恩，与恐惧转怒连贯；原于无睹搭配存疑不修源。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "魏实际怒斥忘恩，与恐惧转怒连贯；原于无睹搭配存疑不修源。",
+            "focalizer": "wei_wuji",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "魏实际怒斥忘恩，与恐惧转怒连贯；原于无睹搭配存疑不修源。"
+      },
+      {
+        "reference": "v01-c0035:p0049",
+        "length": 16,
+        "sha256": "7bef37950caf3cf53a538eac392ad8628a020285e927d7504baf000897d04aac",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0049:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "侠士鼓噪摘要，不增全体逐字同骂。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "侠士鼓噪摘要，不增全体逐字同骂。",
+            "focalizer": "inn_onlookers_unidentified_v01c35",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "侠士鼓噪摘要，不增全体逐字同骂。"
+      },
+      {
+        "reference": "v01-c0035:p0050",
+        "length": 41,
+        "sha256": "f3fe83bc70791f3017ce6f559e75cd4c8516339706aecf53db21158c85b213a3",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0050:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "duo_ercha",
+            "surface_identity": "Duoercha_general_voice_recognized_samechapter_not_Guerduo",
+            "text_context": "朵儿察实际轻蔑评价，其族群贬语为人物敌意不作者立场，雷声是声势比喻。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_Duoercha_distant_order_or_contempt",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "walking_tall_scarface_copper_man_weapon_halfstep_exterior_assessed",
+            "delivery": "majestic_deep_iron_cold_distant_carry_then_contempt_and_flat_massacre_order",
+            "knowledge_boundary": "朵儿察实际轻蔑评价，其族群贬语为人物敌意不作者立场，雷声是声势比喻。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0050:u002",
+            "start": 24,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朵儿察实际轻蔑评价，其族群贬语为人物敌意不作者立场，雷声是声势比喻。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "朵儿察实际轻蔑评价，其族群贬语为人物敌意不作者立场，雷声是声势比喻。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵儿察实际轻蔑评价，其族群贬语为人物敌意不作者立场，雷声是声势比喻。"
+      },
+      {
+        "reference": "v01-c0035:p0051",
+        "length": 39,
+        "sha256": "ca4b096953c58e30bb66109bea855bd3fc66ae491d0b2f096152774259c74f98",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0051:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朵儿察本人实际现身骑队前、步行提独脚铜人，魁梧高于骑兵，不画自己骑马。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "朵儿察本人实际现身骑队前、步行提独脚铜人，魁梧高于骑兵，不画自己骑马。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵儿察本人实际现身骑队前、步行提独脚铜人，魁梧高于骑兵，不画自己骑马。"
+      },
+      {
+        "reference": "v01-c0035:p0052",
+        "length": 26,
+        "sha256": "9a3ebff724d7b8720bbb6da31c2b45bca7e9b4b37e2bf6ff3317d60ecf06dd54",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0052:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实迈步近越距离，缩地成寸描述不强定某本名神通已证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "实迈步近越距离，缩地成寸描述不强定某本名神通已证。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实迈步近越距离，缩地成寸描述不强定某本名神通已证。"
+      },
+      {
+        "reference": "v01-c0035:p0053",
+        "length": 31,
+        "sha256": "fecc84e9ce26c3543b8c2e660b49ecdd239c6241a47969880f38a910ac59f665",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0053:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "靠近时实际风起乌云暗雷，江后据象评半步，不先完整外景等级。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "靠近时实际风起乌云暗雷，江后据象评半步，不先完整外景等级。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "靠近时实际风起乌云暗雷，江后据象评半步，不先完整外景等级。"
+      },
+      {
+        "reference": "v01-c0035:p0054",
+        "length": 32,
+        "sha256": "638a4f6f5b266592280efc35d07f52c99daa88e72d19d0f3ab662caa6bd9b26c",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0054:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟闻尸山血海、恐惧精神压力，不是客栈真堆尸山或真实恶鬼出现。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "孟闻尸山血海、恐惧精神压力，不是客栈真堆尸山或真实恶鬼出现。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟闻尸山血海、恐惧精神压力，不是客栈真堆尸山或真实恶鬼出现。"
+      },
+      {
+        "reference": "v01-c0035:p0055",
+        "length": 62,
+        "sha256": "08701f549ed8fb3e6ac402bebf52d53ca545f9e617c7cb7c36ba7135045db6bc",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0055:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_eyes_open_not_WangJin",
+            "text_context": "张实际重复半步外景并弹剑声龙鸣惊醒孟齐，幻象消失非消灭真实尸鬼。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_Zhang_rank_or_counterfactual",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "draws_sword_finger_flick_awakes_MQ_not_attacks_Duoercha",
+            "delivery": "grave_repeated_rank_then_reluctant_conditional_chance",
+            "knowledge_boundary": "张实际重复半步外景并弹剑声龙鸣惊醒孟齐，幻象消失非消灭真实尸鬼。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0055:u002",
+            "start": 12,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际重复半步外景并弹剑声龙鸣惊醒孟齐，幻象消失非消灭真实尸鬼。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "张实际重复半步外景并弹剑声龙鸣惊醒孟齐，幻象消失非消灭真实尸鬼。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际重复半步外景并弹剑声龙鸣惊醒孟齐，幻象消失非消灭真实尸鬼。"
+      },
+      {
+        "reference": "v01-c0035:p0056",
+        "length": 82,
+        "sha256": "d9f3cebd86299a0d48438579671d5de8af421e2534c3a576fa73fd667bb9fe80",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0056:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际跃跃欲试兼判断九窍触外天、自认绝招怕不奈何，不已挥剑或无惧可稳赢。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "江实际跃跃欲试兼判断九窍触外天、自认绝招怕不奈何，不已挥剑或无惧可稳赢。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0056:u002",
+            "start": 14,
+            "end": 82,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_four_apertures_eyes_ears_not_new_breakthrough",
+            "text_context": "江实际跃跃欲试兼判断九窍触外天、自认绝招怕不奈何，不已挥剑或无惧可稳赢。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_Jiang_rank_explanation",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "sworduser_eager_to_try_but_acknowledges_Duoercha_limit_no_attack_yet",
+            "delivery": "serious_at_Guname_then_eager_technical_explanation_with_respect_for_gap",
+            "knowledge_boundary": "江实际跃跃欲试兼判断九窍触外天、自认绝招怕不奈何，不已挥剑或无惧可稳赢。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际跃跃欲试兼判断九窍触外天、自认绝招怕不奈何，不已挥剑或无惧可稳赢。"
+      },
+      {
+        "reference": "v01-c0035:p0057",
+        "length": 23,
+        "sha256": "893bc4be031a44be7610bb10d7418d8686201675ec5905b882e1e5d37aa8418a",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0057:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟实际下意识问半步，知识缺口此时，不能用后期本尊学识抹平。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_M_query_or_plan",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟实际下意识问半步，知识缺口此时，不能用后期本尊学识抹平。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0057:u002",
+            "start": 7,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际下意识问半步，知识缺口此时，不能用后期本尊学识抹平。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "孟实际下意识问半步，知识缺口此时，不能用后期本尊学识抹平。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际下意识问半步，知识缺口此时，不能用后期本尊学识抹平。"
+      },
+      {
+        "reference": "v01-c0035:p0058",
+        "length": 87,
+        "sha256": "085a3dec5aacec208ce849f930d4fca4c556e030acd741c8c6e4f8b59ea4a8bb",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0058:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际解释外景交汇与威能，朵仅初改天象差半步；毁峰灭城为等级说明非当前已毁城。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "江实际解释外景交汇与威能，朵仅初改天象差半步；毁峰灭城为等级说明非当前已毁城。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0058:u002",
+            "start": 8,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_four_apertures_eyes_ears_not_new_breakthrough",
+            "text_context": "江实际解释外景交汇与威能，朵仅初改天象差半步；毁峰灭城为等级说明非当前已毁城。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_Jiang_rank_explanation",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "sworduser_eager_to_try_but_acknowledges_Duoercha_limit_no_attack_yet",
+            "delivery": "serious_at_Guname_then_eager_technical_explanation_with_respect_for_gap",
+            "knowledge_boundary": "江实际解释外景交汇与威能，朵仅初改天象差半步；毁峰灭城为等级说明非当前已毁城。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0058:u003",
+            "start": 36,
+            "end": 87,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_four_apertures_eyes_ears_not_new_breakthrough",
+            "text_context": "江实际解释外景交汇与威能，朵仅初改天象差半步；毁峰灭城为等级说明非当前已毁城。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "actual_Jiang_rank_explanation",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "sworduser_eager_to_try_but_acknowledges_Duoercha_limit_no_attack_yet",
+            "delivery": "serious_at_Guname_then_eager_technical_explanation_with_respect_for_gap",
+            "knowledge_boundary": "江实际解释外景交汇与威能，朵仅初改天象差半步；毁峰灭城为等级说明非当前已毁城。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际解释外景交汇与威能，朵仅初改天象差半步；毁峰灭城为等级说明非当前已毁城。"
+      },
+      {
+        "reference": "v01-c0035:p0059",
+        "length": 88,
+        "sha256": "2ee32412d4e9d89241069def806ef6ecb9c7600c58e4bf3e0de0040b6b73a466",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0059:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟两引语实际惊强敌，间为比较隐皇堡和眼前异象叙述；不配旧堡主新声，低声可听性待录。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_actual_M_enemyfear_audibility_open",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟两引语实际惊强敌，间为比较隐皇堡和眼前异象叙述；不配旧堡主新声，低声可听性待录。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0059:u002",
+            "start": 12,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟两引语实际惊强敌，间为比较隐皇堡和眼前异象叙述；不配旧堡主新声，低声可听性待录。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "孟两引语实际惊强敌，间为比较隐皇堡和眼前异象叙述；不配旧堡主新声，低声可听性待录。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0059:u003",
+            "start": 68,
+            "end": 88,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟两引语实际惊强敌，间为比较隐皇堡和眼前异象叙述；不配旧堡主新声，低声可听性待录。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "editorial_actual_M_enemyfear_audibility_open",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟两引语实际惊强敌，间为比较隐皇堡和眼前异象叙述；不配旧堡主新声，低声可听性待录。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟两引语实际惊强敌，间为比较隐皇堡和眼前异象叙述；不配旧堡主新声，低声可听性待录。"
+      },
+      {
+        "reference": "v01-c0035:p0060",
+        "length": 100,
+        "sha256": "b9844ea6b5acc09d07a20fb49fbdb81f5a1320e924265c704f2af3b73f8409f9",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0060:u001",
+            "start": 0,
+            "end": 100,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江四窍眼耳各二为当期状态；绝招斩七八伤九是孟估计，不给未发生击杀及本人必胜保证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_inn_Guclaim_army_arrival_gate_refusal_rank_explanation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "江四窍眼耳各二为当期状态；绝招斩七八伤九是孟估计，不给未发生击杀及本人必胜保证。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江四窍眼耳各二为当期状态；绝招斩七八伤九是孟估计，不给未发生击杀及本人必胜保证。"
+      },
+      {
+        "reference": "v01-c0035:p0061",
+        "length": 40,
+        "sha256": "e6157a1ef844b6059ef86feca4c6dcd8dcb895849d8262ac052364c102b22467",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0061:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_eyes_open_not_WangJin",
+            "text_context": "张实际若心寂安好配江或有机，反事实机会判断；他尚未听寺内不足五成密议。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "actual_Zhang_rank_or_counterfactual",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "draws_sword_finger_flick_awakes_MQ_not_attacks_Duoercha",
+            "delivery": "grave_repeated_rank_then_reluctant_conditional_chance",
+            "knowledge_boundary": "张实际若心寂安好配江或有机，反事实机会判断；他尚未听寺内不足五成密议。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0061:u002",
+            "start": 32,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际若心寂安好配江或有机，反事实机会判断；他尚未听寺内不足五成密议。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "张实际若心寂安好配江或有机，反事实机会判断；他尚未听寺内不足五成密议。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际若心寂安好配江或有机，反事实机会判断；他尚未听寺内不足五成密议。"
+      },
+      {
+        "reference": "v01-c0035:p0062",
+        "length": 55,
+        "sha256": "1120d7608e466c488ced58b860e023ccac4c676002a1cded07b7e02fe6997d5c",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0062:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张仅开眼窍、境差至多几招的叙述评估，不当他已被朵儿察击伤或没有绝招。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "张仅开眼窍、境差至多几招的叙述评估，不当他已被朵儿察击伤或没有绝招。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张仅开眼窍、境差至多几招的叙述评估，不当他已被朵儿察击伤或没有绝招。"
+      },
+      {
+        "reference": "v01-c0035:p0063",
+        "length": 41,
+        "sha256": "4155f5bea402eb7565f7265706c377591999fb4467d24dfd2dd8c8f94129aece",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0063:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际回任务只是守到末刻，提出避免正面战；未系统确认可绕过所有交战。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "孟实际回任务只是守到末刻，提出避免正面战；未系统确认可绕过所有交战。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0063:u002",
+            "start": 7,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟实际回任务只是守到末刻，提出避免正面战；未系统确认可绕过所有交战。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "actual_M_query_or_plan",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟实际回任务只是守到末刻，提出避免正面战；未系统确认可绕过所有交战。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际回任务只是守到末刻，提出避免正面战；未系统确认可绕过所有交战。"
+      },
+      {
+        "reference": "v01-c0035:p0064",
+        "length": 2,
+        "sha256": "f89d2382521a449f325bb555bd1dea48cc7ee22314598c0c4aa1187cf0260990",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0064:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "轰是实际巨雷环境音，不是新演员暴喝。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "audible_thunder_not_character_voice",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "delivery": "giant_thunder_impacts",
+            "embodiment": "weather_sound_not_human_shout",
+            "knowledge_boundary": "轰是实际巨雷环境音，不是新演员暴喝。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "轰是实际巨雷环境音，不是新演员暴喝。"
+      },
+      {
+        "reference": "v01-c0035:p0065",
+        "length": 26,
+        "sha256": "672958c3d98df1dfe2cdf24761b4bee395f6bae363ac7dc8e8702680d845327a",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0065:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "尸海恶鬼似更清晰是精神影响，非本章真实鬼军身份认证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "尸海恶鬼似更清晰是精神影响，非本章真实鬼军身份认证。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "尸海恶鬼似更清晰是精神影响，非本章真实鬼军身份认证。"
+      },
+      {
+        "reference": "v01-c0035:p0066",
+        "length": 63,
+        "sha256": "11f7d1e62a148e51c7ed0e1b10a9427a5532de92ab8f6b798711f67f6b88909c",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0066:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "侠客受压崩溃，有人逃有人实际喊杀僧，匿名失控者群声不提前独归魏。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "侠客受压崩溃，有人逃有人实际喊杀僧，匿名失控者群声不提前独归魏。",
+            "focalizer": "inn_onlookers_unidentified_v01c35",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0066:u002",
+            "start": 46,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "unnamed_panicked_helpers_v01c35",
+            "surface_identity": "unidentified_panicked_helpers_not_all_confirmed_spies_or_Wei_alone",
+            "text_context": "侠客受压崩溃，有人逃有人实际喊杀僧，匿名失控者群声不提前独归魏。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "actual_panicked_helpers_attackcall",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "some_escape_some_urge_attack_under_spiritual_pressure",
+            "delivery": "fright_breaks_to_angry_kill_in_call",
+            "knowledge_boundary": "侠客受压崩溃，有人逃有人实际喊杀僧，匿名失控者群声不提前独归魏。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "侠客受压崩溃，有人逃有人实际喊杀僧，匿名失控者群声不提前独归魏。"
+      },
+      {
+        "reference": "v01-c0035:p0067",
+        "length": 3,
+        "sha256": "c0f53a24cd9a01d99bf83a86d7637bb6abdcd2abae3cfde818a4af67bb5b9544",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0067:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "轰隆实雷声环境音，不额外系统失败播报。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "audible_thunder_not_character_voice",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "delivery": "giant_thunder_impacts",
+            "embodiment": "weather_sound_not_human_shout",
+            "knowledge_boundary": "轰隆实雷声环境音，不额外系统失败播报。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "轰隆实雷声环境音，不额外系统失败播报。"
+      },
+      {
+        "reference": "v01-c0035:p0068",
+        "length": 69,
+        "sha256": "1bcc12586043b080e5ecbc200c5253e7da7956a8ab7dd51472e5d42bed7a54d9",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0068:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "德光等似麻痹无力挡众、山门实际被群侠冲破，为魔前驱是行为作用不等全是内奸。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "德光等似麻痹无力挡众、山门实际被群侠冲破，为魔前驱是行为作用不等全是内奸。",
+            "focalizer": "de_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "德光等似麻痹无力挡众、山门实际被群侠冲破，为魔前驱是行为作用不等全是内奸。"
+      },
+      {
+        "reference": "v01-c0035:p0069",
+        "length": 31,
+        "sha256": "b43d1915490e7459a51e36cabe185a561e627d30bef1f76cccdeb7ffd2b41065",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0069:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "de_guang",
+            "surface_identity": "DeGuang_same_gate_monk_not_XinJi",
+            "text_context": "德光实际魏施残句被魏劈头截断，魏无实际新对白；攻击明述，源本段未独立宣告德光死亡。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "actual_DeGuang_gate_refusal_or_interrupted_address",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "pale_refuses_without_order_then_thunder_paralysis_Wei_headstrike",
+            "delivery": "fearful_disciplined_refusal_then_Weishi_cut_off",
+            "knowledge_boundary": "德光实际魏施残句被魏劈头截断，魏无实际新对白；攻击明述，源本段未独立宣告德光死亡。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0069:u002",
+            "start": 6,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "德光实际魏施残句被魏劈头截断，魏无实际新对白；攻击明述，源本段未独立宣告德光死亡。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "德光实际魏施残句被魏劈头截断，魏无实际新对白；攻击明述，源本段未独立宣告德光死亡。",
+            "focalizer": "de_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "德光实际魏施残句被魏劈头截断，魏无实际新对白；攻击明述，源本段未独立宣告德光死亡。"
+      },
+      {
+        "reference": "v01-c0035:p0070",
+        "length": 18,
+        "sha256": "15626e89e7ee16b08fc9c139ba8aadba91d6bd93b29455d986a7fd1fd6c44b52",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0070:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "大雨实落与地血水，不能单凭血水列所有守僧死名单。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "大雨实落与地血水，不能单凭血水列所有守僧死名单。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "大雨实落与地血水，不能单凭血水列所有守僧死名单。"
+      },
+      {
+        "reference": "v01-c0035:p0071",
+        "length": 60,
+        "sha256": "aacd02382a3e2c3374a9521bb42a197c9af505df0eb78d74fa7fce49432dfe31",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0071:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朵儿察实际冷平命五十屠此其余上山，命令不等客栈已全屠，位置门前转看客栈。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "朵儿察实际冷平命五十屠此其余上山，命令不等客栈已全屠，位置门前转看客栈。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0071:u002",
+            "start": 40,
+            "end": 60,
+            "kind": "spoken_dialogue",
+            "speaker": "duo_ercha",
+            "surface_identity": "Duoercha_general_voice_recognized_samechapter_not_Guerduo",
+            "text_context": "朵儿察实际冷平命五十屠此其余上山，命令不等客栈已全屠，位置门前转看客栈。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "actual_Duoercha_distant_order_or_contempt",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "walking_tall_scarface_copper_man_weapon_halfstep_exterior_assessed",
+            "delivery": "majestic_deep_iron_cold_distant_carry_then_contempt_and_flat_massacre_order",
+            "knowledge_boundary": "朵儿察实际冷平命五十屠此其余上山，命令不等客栈已全屠，位置门前转看客栈。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵儿察实际冷平命五十屠此其余上山，命令不等客栈已全屠，位置门前转看客栈。"
+      },
+      {
+        "reference": "v01-c0035:p0072",
+        "length": 25,
+        "sha256": "318714c9df9320d59135c22a53f7781f12bfd0d70c29d0bd195351b101b66d33",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0072:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "本人伤疤面容难辨，无易容真脸或旧名新证。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "本人伤疤面容难辨，无易容真脸或旧名新证。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "本人伤疤面容难辨，无易容真脸或旧名新证。"
+      },
+      {
+        "reference": "v01-c0035:p0073",
+        "length": 43,
+        "sha256": "be58999b23742e76de1e922e9fb1fc3828857ad0a3e28fd1fc7bcbb6c9a484b2",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0073:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "五十分队实分赴两侧、赤红眼，未立即判变种魔体或屠净全部。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "五十分队实分赴两侧、赤红眼，未立即判变种魔体或屠净全部。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0073:u002",
+            "start": 16,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "五十分队实分赴两侧、赤红眼，未立即判变种魔体或屠净全部。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "五十分队实分赴两侧、赤红眼，未立即判变种魔体或屠净全部。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "五十分队实分赴两侧、赤红眼，未立即判变种魔体或屠净全部。"
+      },
+      {
+        "reference": "v01-c0035:p0074",
+        "length": 37,
+        "sha256": "cf454b980fafd4e40732d289fc6894b7bd329476b139664c6cde0a5c8c630750",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0074:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "泥地可见一盏茶入门否则主二败的文字无声，不是六道实际嗓音或已失败。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "silent_visible_muddy_ground_deadline_text_not_voice",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "delivery": "visible_mudglyphs_no_Six_voice",
+            "embodiment": "one_cuptea_deadline_text_not_actor_body",
+            "knowledge_boundary": "泥地可见一盏茶入门否则主二败的文字无声，不是六道实际嗓音或已失败。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0074:u002",
+            "start": 21,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "泥地可见一盏茶入门否则主二败的文字无声，不是六道实际嗓音或已失败。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "silent_visible_muddy_ground_deadline_text_not_voice",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "delivery": "visible_mudglyphs_no_Six_voice",
+            "embodiment": "one_cuptea_deadline_text_not_actor_body",
+            "knowledge_boundary": "泥地可见一盏茶入门否则主二败的文字无声，不是六道实际嗓音或已失败。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "泥地可见一盏茶入门否则主二败的文字无声，不是六道实际嗓音或已失败。"
+      },
+      {
+        "reference": "v01-c0035:p0075",
+        "length": 44,
+        "sha256": "ed00cab810ea7c11f778a7b77e9daa7a5ba5e47ae979df9800a226207f646205",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0075:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟只有首引语跟入寺实际咬牙，后六道名号为叙述指提示，不添系统对白。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "actual_M_query_or_plan",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟只有首引语跟入寺实际咬牙，后六道名号为叙述指提示，不添系统对白。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0035:p0075:u002",
+            "start": 20,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟只有首引语跟入寺实际咬牙，后六道名号为叙述指提示，不添系统对白。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "knowledge_boundary": "孟只有首引语跟入寺实际咬牙，后六道名号为叙述指提示，不添系统对白。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟只有首引语跟入寺实际咬牙，后六道名号为叙述指提示，不添系统对白。"
+      },
+      {
+        "reference": "v01-c0035:p0076",
+        "length": 35,
+        "sha256": "ecc6252387bc2c96b0c4a701d744ed6ad0bbdea6c4ebe2576ad48de5cd971291",
+        "units": [
+          {
+            "unit_id": "v01-c0035:p0076:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_childmonk_not_future_exterior_master",
+            "text_context": "孟私下反讽义薄云天概念，不高喊侠义誓或真正自愿认可尾随。",
+            "world_context": "EARLY_v01c35_private_council_hidden_injury_secret_evacuation_unknown_to_M_XinChan_named_XiaoZi_claim_Gu_unverified_Duoercha_arrival_halfstep_rank_weather_pressure_gatebreach_Wei_headstrike_muddy_silent_deadline",
+            "stage_context": "S09_gatebreach_Wei_attack_massacre_order_silent_deadline",
+            "channel": "editorial_M_private_question_or_irony",
+            "fact_status": "manual_source_fact_character_report_or_hypothesis_distinguished_in_knowledge_boundary_not_future_reveal",
+            "embodiment": "frightened_spirit_awakened_by_Z_still_at_inn_window_before_following",
+            "delivery": "curious_Gu_identity_then_enemyfear_practical_task_reasoning_and_clenched_teeth",
+            "knowledge_boundary": "孟私下反讽义薄云天概念，不高喊侠义誓或真正自愿认可尾随。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私下反讽义薄云天概念，不高喊侠义誓或真正自愿认可尾随。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0035",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S09",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 23,
+        "label": "寺内隐伤、心禅具名与秘密撤离",
+        "direction": "场景先切大雄宝殿，孟等已走；观众可知而主角不知。2白眉关切3心寂吐血，7点明先前强压伤，8自述不足五成不能演痊愈。4/5方丈和师父两惊呼按未名角色处理，不强合已知首座或16跪者，6群呼省略用停顿。10白眉长叹，11/20明确其名心禅，沿旧白眉实体，绝非主世界玄苦。心寂11说明敌势，12/13预估牺牲可争逃生非实际成功，14铁狼兵秘训无痛等带据说，15敌目标推测留判断。16中年弟子跪求同守17未准，18命历代方丈独知密道转秘籍舍利、先候深夜且普通弟子只留条下山；19弥勒样僧问告外援不等弥勒佛发言，20心禅拒告21心寂也防漏，22弟子起身推敌近催提前23认可。未展示所有人已撤或密道出口。表演建议：心寂吐血后先缓气，安抚压虚弱，谈传承与舍身沉静；心禅从关切长叹到严控消息，不提前加叛敌暗示。原场界后的24省略仍有归属覆盖。证据v01-c0035:p0001–p0024。"
+      },
+      {
+        "paragraph_start": 25,
+        "paragraph_end": 60,
+        "label": "顾名未解、兵至拒门与半步威压",
+        "direction": "回山脚客栈，26小紫梦呓般语30哭称顾来杀己均为角色说法；27选择旁观者私疑，可听性待录，28江张惊问必须双人重合，29孟已听全名却不知来历，31–34私猜主界成名或敌队不能变系统答案。35江正要传音就被角声打断，不补尚未讲出的顾背景；36是角声，37马蹄近。魏38手颤39朗喊退寺40畏开阔地，41/42匿名响应不全塞主角声，43奔门44主角仍在客栈窗。45冰铁远声由46辨名与50/51接合朵儿察，46魏从煞白求门47德光同恐拒令48魏涨红怒骂，49群噪不杜撰齐喊长词。朵50轻蔑不大吼，51步行独脚铜人高于骑兵52逼近53风乌云雷；54尸海味与55幻象属于精神影响，张弹剑唤醒孟齐非击真鬼。56江跃跃欲试但承剑出无我恐难奏效，58解释半步和真外景区别，毁峰灭城只是等级说明；57孟下意识问，59惊惧两实际引语可听性待录，60江四窍眼耳各二属当期，斩七八伤九是孟估，不证明已打赢。表演建议：小紫崩溃与江张慎重都压住解谜；朵保持威严深厚冰冷的稳定音色，用距离变化和环境声承压，孟的少年知识缺口与恐惧保留。证据v01-c0035:p0025–p0060。"
+      },
+      {
+        "paragraph_start": 61,
+        "paragraph_end": 76,
+        "label": "冲门反噬、屠戮命令与限时跟入",
+        "direction": "61张若心寂安好配江或可杀只是条件机会，不知寺内不足五成确数；62张仅眼窍受境差限制非已伤，63孟尝试按守寺任务避免正面战。64/67雷声独立环境音，65尸鬼似清晰仍精神感，66受压侠客部分逃部分喊杀僧，不把群体失控一概判内奸。68守门僧似麻痹，侠众真破门；69德光魏施残句由魏狰狞劈头动作截断，不添魏回话或单凭70血水列全体死者。71朵门前转看客栈平淡命五十清剿其余上山，72疤脸不是易容新证，73五十实际分队还不等已屠净。74泥地无声文字设一盏茶入门期限，主二尚未宣告已失败；75孟只有首引语咬牙跟入，叙述中的六道名称不变台词；76义薄云天是私下反讽不是英雄宣誓。表演建议：用破门残句、雨落血水与冷命令连成失控后果，留孟受限选择的恼怒；结束在被迫追随的行动起点，不提前兑现入寺或功罚。证据v01-c0035:p0061–p0076。"
+      }
+    ],
+    "knowledge_rule": "寺内伤势与秘密撤离只读者/僧众知，心禅此章具名不回写旧章。小紫顾说未证、江介绍被打断，朵半步非完整外景；精神尸海不实体，魏实攻德光但奸细身份未证。泥地限时为无声文字，新复读不改主回执。"
+  }
 }
