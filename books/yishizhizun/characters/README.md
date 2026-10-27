@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇震盔应变、左肩浅伤与四人实入山](early-meng-backblade-vibration-leftshoulder-four-entry.md) | 第36章历史归属回补 |
+| [心寂珠像实际齐诵与无声落叶提示](early-xinji-beadimages-audible-chant-silent-leaves.md) | 第36章历史归属回补 |
+| [江张两剑伤眼肋、裂剑重伤与朵暂退](early-two-swords-eye-rib-injuries-duoercha-retreat.md) | 第36章历史归属回补 |
 | [心寂隐伤、心禅具名与秘密转移](early-xinji-xinchan-hidden-injury-secret-evacuation.md) | 第35章历史归属回补 |
 | [朵儿察步行威压、半步外景与少年战力边界](early-duoercha-halfstep-weather-pressure-team-limits.md) | 第35章历史归属回补 |
 | [魏无忌攻守门僧、破门与泥地倒计时](early-wei-deguang-gatebreach-silent-deadline.md) | 第35章历史归属回补 |
