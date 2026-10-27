@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐浑天前二天晶、资源门槛与新未来的希望](early-qi-huntian-two-crystals-not-thirdlayer-and-hope.md) | 第46章历史归属回补 |
+| [正式退派与三个下山办法、玄藏之忧仍是孟所想](early-formal-sectexit-three-outing-routes-and-meng-concern.md) | 第46章历史归属回补 |
+| [江末座与身份未解、存针回寺和未名召唤](early-jiang-lowrank-identity-questions-storedneedle-return-summons.md) | 第46章历史归属回补 |
 | [刀式完整记忆、针器余两次与知行距离](early-meng-complete-blade-memory-reload-delivery-not-mastery.md) | 第45章历史归属回补 |
 | [陆大一心剑、叶夫人身后事与苏的论剑心愿转述](early-luda-yefuren-and-suwuming-reported-not-present.md) | 第45章历史归属回补 |
 | [血刀80实借30、齐板脸关心与未来售法计划](early-xuedao-actual-loans-qi-dryhumor-and-future-sectplan.md) | 第45章历史归属回补 |

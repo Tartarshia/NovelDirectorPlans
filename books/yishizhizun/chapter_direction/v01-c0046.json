@@ -61,7 +61,2236 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0003"
+  "reading_batch": "batch-0003",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0046",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0046.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0046:p0001",
+        "length": 28,
+        "sha256": "9b997b8f62c8d43e0087a778d7486dc0b7261958c2d9d86af8ae179bea015c07",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0001:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐实际愿早换根本功法，45尚未知具体目标此刻开始说明，不已经直达法身。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "齐实际愿早换根本功法，45尚未知具体目标此刻开始说明，不已经直达法身。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0001:u002",
+            "start": 15,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐实际愿早换根本功法，45尚未知具体目标此刻开始说明，不已经直达法身。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Qi_Huntian_plan_resourcebarrier_and_risk",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐实际愿早换根本功法，45尚未知具体目标此刻开始说明，不已经直达法身。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际愿早换根本功法，45尚未知具体目标此刻开始说明，不已经直达法身。"
+      },
+      {
+        "reference": "v01-c0046:p0002",
+        "length": 41,
+        "sha256": "680b9631edb41e807c29f51e06952b0d8f981ff5b4f6c92c19f969d3a3f4ffed",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0002:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual直问是否不满本门剑法，直指要害是比喻不挥剑攻击同伴。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual直问是否不满本门剑法，直指要害是比喻不挥剑攻击同伴。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0002:u002",
+            "start": 23,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual直问是否不满本门剑法，直指要害是比喻不挥剑攻击同伴。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual直问是否不满本门剑法，直指要害是比喻不挥剑攻击同伴。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual直问是否不满本门剑法，直指要害是比喻不挥剑攻击同伴。"
+      },
+      {
+        "reference": "v01-c0046:p0003",
+        "length": 137,
+        "sha256": "e44fe4dc3ced40705f0eaf87c5a0ef1117ecadc07c419d49ab6b244ab8ba4f3c",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0003:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐actual述普通资质资源门槛欲趁早换法，外景后转修难是他理由，不已外景或真的获仙授剑。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "齐actual述普通资质资源门槛欲趁早换法，外景后转修难是他理由，不已外景或真的获仙授剑。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0003:u002",
+            "start": 16,
+            "end": 137,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐actual述普通资质资源门槛欲趁早换法，外景后转修难是他理由，不已外景或真的获仙授剑。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Qi_Huntian_plan_resourcebarrier_and_risk",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐actual述普通资质资源门槛欲趁早换法，外景后转修难是他理由，不已外景或真的获仙授剑。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐actual述普通资质资源门槛欲趁早换法，外景后转修难是他理由，不已外景或真的获仙授剑。"
+      },
+      {
+        "reference": "v01-c0046:p0004",
+        "length": 84,
+        "sha256": "8cb3db7dabeb2e0316e6aaad0aac1caf3061b94b7c9fcafdeaff52f1f0da0ca8",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0004:u001",
+            "start": 0,
+            "end": 84,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "长河到开窍、落霞秋水铺外景为层次说明，不齐现在全学并突破。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "长河到开窍、落霞秋水铺外景为层次说明，不齐现在全学并突破。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "长河到开窍、落霞秋水铺外景为层次说明，不齐现在全学并突破。"
+      },
+      {
+        "reference": "v01-c0046:p0005",
+        "length": 139,
+        "sha256": "40ffbdf39d532e9be459f6c59dc18d722a45f74f805cd37fc327278cf1e3f473",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0005:u001",
+            "start": 0,
+            "end": 139,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "宗门天才优先真意与晚转修难一般叙述，恐怕/极少保限定，不人人绝无突破可能。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "宗门天才优先真意与晚转修难一般叙述，恐怕/极少保限定，不人人绝无突破可能。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "宗门天才优先真意与晚转修难一般叙述，恐怕/极少保限定，不人人绝无突破可能。"
+      },
+      {
+        "reference": "v01-c0046:p0006",
+        "length": 51,
+        "sha256": "2bf062515f2b3d5d10ebe50a44e5bdc43ef324ae1f3c2adcc46a7e90379971d1",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0006:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_prior_retraining_no_newrank_or_new_earopening",
+            "text_context": "张actual认长久换法可行并问目标，不强管他宗或已替齐选。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Zhang_advice_regret_crystal_praise_and_hypotheses",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "plan_estimated30_not_new_finalledger_regret_former_advice_not_actual_sect_exit",
+            "delivery": "thoughtful_support_then_soft_regret_admiration_and_unverified_method_guess",
+            "knowledge_boundary": "张actual认长久换法可行并问目标，不强管他宗或已替齐选。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0006:u002",
+            "start": 21,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张actual认长久换法可行并问目标，不强管他宗或已替齐选。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "张actual认长久换法可行并问目标，不强管他宗或已替齐选。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0006:u003",
+            "start": 42,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_prior_retraining_no_newrank_or_new_earopening",
+            "text_context": "张actual认长久换法可行并问目标，不强管他宗或已替齐选。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Zhang_advice_regret_crystal_praise_and_hypotheses",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "plan_estimated30_not_new_finalledger_regret_former_advice_not_actual_sect_exit",
+            "delivery": "thoughtful_support_then_soft_regret_admiration_and_unverified_method_guess",
+            "knowledge_boundary": "张actual认长久换法可行并问目标，不强管他宗或已替齐选。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张actual认长久换法可行并问目标，不强管他宗或已替齐选。"
+      },
+      {
+        "reference": "v01-c0046:p0007",
+        "length": 125,
+        "sha256": "668cf706e28c08756dfd5e22cc6b4d37ca46328080d2f66785d894e99b0b50c3",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0007:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐actual忐忑激动介绍10层分2/3/3/2和早天人感应优点，不本人已天人感应外景。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "齐actual忐忑激动介绍10层分2/3/3/2和早天人感应优点，不本人已天人感应外景。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0007:u002",
+            "start": 26,
+            "end": 125,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐actual忐忑激动介绍10层分2/3/3/2和早天人感应优点，不本人已天人感应外景。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Qi_Huntian_plan_resourcebarrier_and_risk",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐actual忐忑激动介绍10层分2/3/3/2和早天人感应优点，不本人已天人感应外景。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐actual忐忑激动介绍10层分2/3/3/2和早天人感应优点，不本人已天人感应外景。"
+      },
+      {
+        "reference": "v01-c0046:p0008",
+        "length": 25,
+        "sha256": "a5edb12e1ae2014e1267c51b446eb33ca1d1746d499ee240ce481886d6c2b5f9",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0008:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "既换当换强法选择齐内念或自由焦叙待录，无新实际喊话声锚。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "editorial_Qi_freefocal_choice_audibility_open",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "既换当换强法选择齐内念或自由焦叙待录，无新实际喊话声锚。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "既换当换强法选择齐内念或自由焦叙待录，无新实际喊话声锚。"
+      },
+      {
+        "reference": "v01-c0046:p0009",
+        "length": 67,
+        "sha256": "84900b7cfebaca61cc0d394420f017188e9f2f55383ca15037dfee215063defa",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0009:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江两段actual据谱剑法潜力认出浑天宝鉴，未她也新买全法或知孟漫画来历。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江两段actual据谱剑法潜力认出浑天宝鉴，未她也新买全法或知孟漫画来历。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0009:u002",
+            "start": 33,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江两段actual据谱剑法潜力认出浑天宝鉴，未她也新买全法或知孟漫画来历。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江两段actual据谱剑法潜力认出浑天宝鉴，未她也新买全法或知孟漫画来历。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0009:u003",
+            "start": 55,
+            "end": 67,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江两段actual据谱剑法潜力认出浑天宝鉴，未她也新买全法或知孟漫画来历。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江两段actual据谱剑法潜力认出浑天宝鉴，未她也新买全法或知孟漫画来历。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江两段actual据谱剑法潜力认出浑天宝鉴，未她也新买全法或知孟漫画来历。"
+      },
+      {
+        "reference": "v01-c0046:p0010",
+        "length": 38,
+        "sha256": "195e26daea7e9c6612274677960c38a3f0dc3d2054dc658ff3d63f1474936db1",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0010:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟差点喷口水且真咳两声为N，后actual问确认，非真喷同伴或喘病。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟差点喷口水且真咳两声为N，后actual问确认，非真喷同伴或喘病。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0010:u002",
+            "start": 22,
+            "end": 38,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟差点喷口水且真咳两声为N，后actual问确认，非真喷同伴或喘病。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟差点喷口水且真咳两声为N，后actual问确认，非真喷同伴或喘病。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟差点喷口水且真咳两声为N，后actual问确认，非真喷同伴或喘病。"
+      },
+      {
+        "reference": "v01-c0046:p0011",
+        "length": 63,
+        "sha256": "dc695543782261b090bde554d212173a33e294aeb782a24dcba5e34c469a71ff",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0011:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "误入歧途含引号仍孟私念想换宝鉴、暂续横练，不实际骂齐或已换根基。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "editorial_M_private_routewish_modernmemory_or_inference",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "误入歧途含引号仍孟私念想换宝鉴、暂续横练，不实际骂齐或已换根基。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0011:u002",
+            "start": 30,
+            "end": 63,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "误入歧途含引号仍孟私念想换宝鉴、暂续横练，不实际骂齐或已换根基。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "editorial_M_private_routewish_modernmemory_or_inference",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "误入歧途含引号仍孟私念想换宝鉴、暂续横练，不实际骂齐或已换根基。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "误入歧途含引号仍孟私念想换宝鉴、暂续横练，不实际骂齐或已换根基。"
+      },
+      {
+        "reference": "v01-c0046:p0012",
+        "length": 43,
+        "sha256": "395dabc21daa0aa63472098eea5abaef3ccb522b737546e9b814446d1b9ea4f9",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0012:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "天子传奇女娲创武背景承孟前生所知，未女娲本尊现场声或本界机制由众证全。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "天子传奇女娲创武背景承孟前生所知，未女娲本尊现场声或本界机制由众证全。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "天子传奇女娲创武背景承孟前生所知，未女娲本尊现场声或本界机制由众证全。"
+      },
+      {
+        "reference": "v01-c0046:p0013",
+        "length": 90,
+        "sha256": "8ed592353baee210289d40d720ee88b41bc231240ea7ecec5b4ce42c31fd0a0b",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0013:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐actual前两层白云40玫霞80蓄气、第三土昆仑200开窍为谱价，未已买第三层。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Qi_Huntian_plan_resourcebarrier_and_risk",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐actual前两层白云40玫霞80蓄气、第三土昆仑200开窍为谱价，未已买第三层。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0013:u002",
+            "start": 14,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐actual前两层白云40玫霞80蓄气、第三土昆仑200开窍为谱价，未已买第三层。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "齐actual前两层白云40玫霞80蓄气、第三土昆仑200开窍为谱价，未已买第三层。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0013:u003",
+            "start": 24,
+            "end": 90,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐actual前两层白云40玫霞80蓄气、第三土昆仑200开窍为谱价，未已买第三层。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Qi_Huntian_plan_resourcebarrier_and_risk",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐actual前两层白云40玫霞80蓄气、第三土昆仑200开窍为谱价，未已买第三层。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐actual前两层白云40玫霞80蓄气、第三土昆仑200开窍为谱价，未已买第三层。"
+      },
+      {
+        "reference": "v01-c0046:p0014",
+        "length": 87,
+        "sha256": "fc6095dffc548648b8268bca78fc71f3570e312e72a7d6938a662ed3e13c8d19",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0014:u001",
+            "start": 0,
+            "end": 87,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐actual先丹药前两层、将来学落霞卖再兑第三，是分期计划不当前全买全学。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Qi_Huntian_plan_resourcebarrier_and_risk",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐actual先丹药前两层、将来学落霞卖再兑第三，是分期计划不当前全买全学。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐actual先丹药前两层、将来学落霞卖再兑第三，是分期计划不当前全买全学。"
+      },
+      {
+        "reference": "v01-c0046:p0015",
+        "length": 83,
+        "sha256": "f7efa3f371c38a398b1aae8b6f0144a8db51f4fcaa680c315e11f9be85a1b813",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0015:u001",
+            "start": 0,
+            "end": 83,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "落霞秋水谱380卖190、若两人分教各95为规则说明假设，未实际教孟或售成。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "落霞秋水谱380卖190、若两人分教各95为规则说明假设，未实际教孟或售成。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "落霞秋水谱380卖190、若两人分教各95为规则说明假设，未实际教孟或售成。"
+      },
+      {
+        "reference": "v01-c0046:p0016",
+        "length": 34,
+        "sha256": "850992bc3dc65f3e90588350f8ce74719452d40cca0bee1487a24952c424db18",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0016:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_prior_retraining_no_newrank_or_new_earopening",
+            "text_context": "张actual说最后余30为所述计划估算，句无单独交代丹价与结算节点，不伪造当前最终账。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Zhang_advice_regret_crystal_praise_and_hypotheses",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "plan_estimated30_not_new_finalledger_regret_former_advice_not_actual_sect_exit",
+            "delivery": "thoughtful_support_then_soft_regret_admiration_and_unverified_method_guess",
+            "knowledge_boundary": "张actual说最后余30为所述计划估算，句无单独交代丹价与结算节点，不伪造当前最终账。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0016:u002",
+            "start": 24,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张actual说最后余30为所述计划估算，句无单独交代丹价与结算节点，不伪造当前最终账。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "张actual说最后余30为所述计划估算，句无单独交代丹价与结算节点，不伪造当前最终账。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张actual说最后余30为所述计划估算，句无单独交代丹价与结算节点，不伪造当前最终账。"
+      },
+      {
+        "reference": "v01-c0046:p0017",
+        "length": 66,
+        "sha256": "7ae15d1a4a0ab0c3574378eb185f188c91a7669473a43b1d65c8d5fc66c44e55",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0017:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐actual因孟有针放心日后第三层，35实际仅前两层；不得按此一句先记土昆仑已得。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "齐actual因孟有针放心日后第三层，35实际仅前两层；不得按此一句先记土昆仑已得。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0017:u002",
+            "start": 8,
+            "end": 66,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐actual因孟有针放心日后第三层，35实际仅前两层；不得按此一句先记土昆仑已得。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Qi_Huntian_plan_resourcebarrier_and_risk",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐actual因孟有针放心日后第三层，35实际仅前两层；不得按此一句先记土昆仑已得。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐actual因孟有针放心日后第三层，35实际仅前两层；不得按此一句先记土昆仑已得。"
+      },
+      {
+        "reference": "v01-c0046:p0018",
+        "length": 47,
+        "sha256": "b2d493339a1a76a9e1f97098feb9979ce4f583f92c2a02c1f3be61f6654216d0",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0018:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟actual问别派功法暴露风险，自己也担忧，不已告发齐。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟actual问别派功法暴露风险，自己也担忧，不已告发齐。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0018:u002",
+            "start": 21,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual问别派功法暴露风险，自己也担忧，不已告发齐。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟actual问别派功法暴露风险，自己也担忧，不已告发齐。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual问别派功法暴露风险，自己也担忧，不已告发齐。"
+      },
+      {
+        "reference": "v01-c0046:p0019",
+        "length": 135,
+        "sha256": "7d52032d84eaa3ec9eba806882df1262dc0a8e337af49e27492bed81b14f6500",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0019:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐actual黯淡承险和开窍后外出少切磋设想，未现已申请成功或保证永远不露。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "齐actual黯淡承险和开窍后外出少切磋设想，未现已申请成功或保证永远不露。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0019:u002",
+            "start": 11,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐actual黯淡承险和开窍后外出少切磋设想，未现已申请成功或保证永远不露。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Qi_Huntian_plan_resourcebarrier_and_risk",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐actual黯淡承险和开窍后外出少切磋设想，未现已申请成功或保证永远不露。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0019:u003",
+            "start": 32,
+            "end": 135,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐actual黯淡承险和开窍后外出少切磋设想，未现已申请成功或保证永远不露。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "actual_Qi_Huntian_plan_resourcebarrier_and_risk",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐actual黯淡承险和开窍后外出少切磋设想，未现已申请成功或保证永远不露。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐actual黯淡承险和开窍后外出少切磋设想，未现已申请成功或保证永远不露。"
+      },
+      {
+        "reference": "v01-c0046:p0020",
+        "length": 47,
+        "sha256": "9a24bd1d2692c7ef08449b45149f5593a54fb643cb622a0abd091faf1736512b",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0020:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "兼用本门剑招运气掩内功跟脚为说明，落霞决源字存疑，不本章已和同门实战验证。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_Huntian_resource_and_concealment_plan",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "兼用本门剑招运气掩内功跟脚为说明，落霞决源字存疑，不本章已和同门实战验证。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "兼用本门剑招运气掩内功跟脚为说明，落霞决源字存疑，不本章已和同门实战验证。"
+      },
+      {
+        "reference": "v01-c0046:p0021",
+        "length": 72,
+        "sha256": "1b8d4d5e223b7d2ccc7fc6d8e0ddd06de637d8e1275e455714e466d0189342d3",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0021:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "前孟actual想离寺，最好学金钟金刚后为暗暗加的私念，未已学功退寺。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "前孟actual想离寺，最好学金钟金刚后为暗暗加的私念，未已学功退寺。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0021:u002",
+            "start": 42,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前孟actual想离寺，最好学金钟金刚后为暗暗加的私念，未已学功退寺。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "前孟actual想离寺，最好学金钟金刚后为暗暗加的私念，未已学功退寺。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0021:u003",
+            "start": 54,
+            "end": 72,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "前孟actual想离寺，最好学金钟金刚后为暗暗加的私念，未已学功退寺。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "editorial_M_private_routewish_modernmemory_or_inference",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "前孟actual想离寺，最好学金钟金刚后为暗暗加的私念，未已学功退寺。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前孟actual想离寺，最好学金钟金刚后为暗暗加的私念，未已学功退寺。"
+      },
+      {
+        "reference": "v01-c0046:p0022",
+        "length": 20,
+        "sha256": "2ddab5e54f7435541fee0c077d2004ba0cf9811bf165ab7484fa849988f52346",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0022:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "更难离寺是孟自觉，不少林已新正式拒绝所有请求。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "更难离寺是孟自觉，不少林已新正式拒绝所有请求。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "更难离寺是孟自觉，不少林已新正式拒绝所有请求。"
+      },
+      {
+        "reference": "v01-c0046:p0023",
+        "length": 26,
+        "sha256": "7adba074de8068ee6f90df4f537db330b436e4a77c50c41999f55191244e6f80",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0023:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual笑问戒律，后25/27–30澄清正式退与出行，不嘲弄孟生死。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual笑问戒律，后25/27–30澄清正式退与出行，不嘲弄孟生死。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0023:u002",
+            "start": 10,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual笑问戒律，后25/27–30澄清正式退与出行，不嘲弄孟生死。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual笑问戒律，后25/27–30澄清正式退与出行，不嘲弄孟生死。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0023:u003",
+            "start": 16,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual笑问戒律，后25/27–30澄清正式退与出行，不嘲弄孟生死。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual笑问戒律，后25/27–30澄清正式退与出行，不嘲弄孟生死。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual笑问戒律，后25/27–30澄清正式退与出行，不嘲弄孟生死。"
+      },
+      {
+        "reference": "v01-c0046:p0024",
+        "length": 58,
+        "sha256": "6a2f0f5ad77348fdecbe8bbb2e42a564b1f040199c193935aac6abb6728515ab",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0024:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟actual说最重废武逐出、后不敢用为叙述，非他已经违戒被废。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟actual说最重废武逐出、后不敢用为叙述，非他已经违戒被废。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0024:u002",
+            "start": 46,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual说最重废武逐出、后不敢用为叙述，非他已经违戒被废。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟actual说最重废武逐出、后不敢用为叙述，非他已经违戒被废。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual说最重废武逐出、后不敢用为叙述，非他已经违戒被废。"
+      },
+      {
+        "reference": "v01-c0046:p0025",
+        "length": 31,
+        "sha256": "e917863482738eabef216d007a193f64d44cea243bd0d6aa12e6ea8701257c6b",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0025:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual不可能离开在27/28限定正式退寺，不能断取说永远无下山办法。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual不可能离开在27/28限定正式退寺，不能断取说永远无下山办法。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0025:u002",
+            "start": 7,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual不可能离开在27/28限定正式退寺，不能断取说永远无下山办法。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual不可能离开在27/28限定正式退寺，不能断取说永远无下山办法。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual不可能离开在27/28限定正式退寺，不能断取说永远无下山办法。"
+      },
+      {
+        "reference": "v01-c0046:p0026",
+        "length": 9,
+        "sha256": "8d4ff10c775a83540e19185d1fe4df6e5e3b29cfa968475dcb5b424180566036",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0026:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟actual啊惊短问，非领悟新境或真实惨叫。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟actual啊惊短问，非领悟新境或真实惨叫。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0026:u002",
+            "start": 4,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual啊惊短问，非领悟新境或真实惨叫。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟actual啊惊短问，非领悟新境或真实惨叫。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual啊惊短问，非领悟新境或真实惨叫。"
+      },
+      {
+        "reference": "v01-c0046:p0027",
+        "length": 85,
+        "sha256": "b6543acf7619179ca9a49f55f72a415531ff07f0b00b400e6d490c4c2423c576",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0027:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual严肃正式退派需废武逐出，后续可下山路径另论，不此刻已废孟武功。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual严肃正式退派需废武逐出，后续可下山路径另论，不此刻已废孟武功。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0027:u002",
+            "start": 9,
+            "end": 85,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual严肃正式退派需废武逐出，后续可下山路径另论，不此刻已废孟武功。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual严肃正式退派需废武逐出，后续可下山路径另论，不此刻已废孟武功。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual严肃正式退派需废武逐出，后续可下山路径另论，不此刻已废孟武功。"
+      },
+      {
+        "reference": "v01-c0046:p0028",
+        "length": 110,
+        "sha256": "392c0f314b115458583fd188f454cad534ff86dec922ca161415b42dc5f2d2b7",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0028:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual第一随高僧出事找逃机但蓄气大成才可能、有看管，未当下获批或实际逃。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual第一随高僧出事找逃机但蓄气大成才可能、有看管，未当下获批或实际逃。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0028:u002",
+            "start": 13,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual第一随高僧出事找逃机但蓄气大成才可能、有看管，未当下获批或实际逃。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual第一随高僧出事找逃机但蓄气大成才可能、有看管，未当下获批或实际逃。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0028:u003",
+            "start": 48,
+            "end": 110,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual第一随高僧出事找逃机但蓄气大成才可能、有看管，未当下获批或实际逃。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual第一随高僧出事找逃机但蓄气大成才可能、有看管，未当下获批或实际逃。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual第一随高僧出事找逃机但蓄气大成才可能、有看管，未当下获批或实际逃。"
+      },
+      {
+        "reference": "v01-c0046:p0029",
+        "length": 141,
+        "sha256": "daafb79b60bb42a92fdfe88e91101b5282b214e13327a70b25f099d433bed1cd",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0029:u001",
+            "start": 0,
+            "end": 141,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual第二开窍闯铜人巷后单独出行可失踪假死，自己把握不到六成仅估，未真闯或假死。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual第二开窍闯铜人巷后单独出行可失踪假死，自己把握不到六成仅估，未真闯或假死。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual第二开窍闯铜人巷后单独出行可失踪假死，自己把握不到六成仅估，未真闯或假死。"
+      },
+      {
+        "reference": "v01-c0046:p0030",
+        "length": 34,
+        "sha256": "b59e049df3cadb684414db4a151bf76aaedc9785a0719395bf8205ae3ad57e7b",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0030:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual第三贡献后转俗家归家方案，未孟已转俗家或永久离宗。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual第三贡献后转俗家归家方案，未孟已转俗家或永久离宗。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual第三贡献后转俗家归家方案，未孟已转俗家或永久离宗。"
+      },
+      {
+        "reference": "v01-c0046:p0031",
+        "length": 94,
+        "sha256": "724f7df4597113760e325cf742c96bb667b303d9c4681856e110b88eb24f5522",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0031:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "短时间各路难、玄藏会否同意为孟私疑，前皱眉N，归家标签不是新actual台词。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "短时间各路难、玄藏会否同意为孟私疑，前皱眉N，归家标签不是新actual台词。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0031:u002",
+            "start": 20,
+            "end": 94,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "短时间各路难、玄藏会否同意为孟私疑，前皱眉N，归家标签不是新actual台词。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "editorial_M_private_routewish_modernmemory_or_inference",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "短时间各路难、玄藏会否同意为孟私疑，前皱眉N，归家标签不是新actual台词。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "短时间各路难、玄藏会否同意为孟私疑，前皱眉N，归家标签不是新actual台词。"
+      },
+      {
+        "reference": "v01-c0046:p0032",
+        "length": 46,
+        "sha256": "496e05abdf1eec74b6104fb25e6f67a70449ac8ba4b55f11b3e5068e28f45cde",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0032:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张actual后悔先前让转院、若仍杂役期满可出是反事实，不孟现身份已退回杂役。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "张actual后悔先前让转院、若仍杂役期满可出是反事实，不孟现身份已退回杂役。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0032:u002",
+            "start": 16,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_prior_retraining_no_newrank_or_new_earopening",
+            "text_context": "张actual后悔先前让转院、若仍杂役期满可出是反事实，不孟现身份已退回杂役。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_Zhang_advice_regret_crystal_praise_and_hypotheses",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "plan_estimated30_not_new_finalledger_regret_former_advice_not_actual_sect_exit",
+            "delivery": "thoughtful_support_then_soft_regret_admiration_and_unverified_method_guess",
+            "knowledge_boundary": "张actual后悔先前让转院、若仍杂役期满可出是反事实，不孟现身份已退回杂役。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张actual后悔先前让转院、若仍杂役期满可出是反事实，不孟现身份已退回杂役。"
+      },
+      {
+        "reference": "v01-c0046:p0033",
+        "length": 39,
+        "sha256": "6a6c887933ff7c781061dbf435b5242efac1ee9eae8526014b6141c8c4daca07",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0033:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟actual不怪同伴，后玄藏不让是孟确信判断，非玄藏现场命令或已新拦出门。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟actual不怪同伴，后玄藏不让是孟确信判断，非玄藏现场命令或已新拦出门。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0033:u002",
+            "start": 17,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual不怪同伴，后玄藏不让是孟确信判断，非玄藏现场命令或已新拦出门。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟actual不怪同伴，后玄藏不让是孟确信判断，非玄藏现场命令或已新拦出门。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual不怪同伴，后玄藏不让是孟确信判断，非玄藏现场命令或已新拦出门。"
+      },
+      {
+        "reference": "v01-c0046:p0034",
+        "length": 33,
+        "sha256": "f90c8d532866bcbec8dfb55972f66fcad82ba8e58f1debe6447e82a704ba5116",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0034:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟私下先藏走一步学七十二决心，不已全得七十二或转宗手续完成。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_formal_sectexit_vs_practical_outing_routes",
+            "channel": "editorial_M_private_routewish_modernmemory_or_inference",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟私下先藏走一步学七十二决心，不已全得七十二或转宗手续完成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私下先藏走一步学七十二决心，不已全得七十二或转宗手续完成。"
+      },
+      {
+        "reference": "v01-c0046:p0035",
+        "length": 78,
+        "sha256": "1d5c9bb14d8bf8057f3ed38452d1ae0081a86009d9c54ac8f53ae562c090de0f",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0035:u001",
+            "start": 0,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐实际兑天聪1灵芝1瓶及宝鉴前两层两天晶，非土昆仑到手或已服丸开窍练成。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_actual_two_crystals_and_private_hope",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "齐实际兑天聪1灵芝1瓶及宝鉴前两层两天晶，非土昆仑到手或已服丸开窍练成。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际兑天聪1灵芝1瓶及宝鉴前两层两天晶，非土昆仑到手或已服丸开窍练成。"
+      },
+      {
+        "reference": "v01-c0046:p0036",
+        "length": 59,
+        "sha256": "264803ac66c25551cc3027424ef6672adb16d2cd6e86649aae56e89d5ac20490",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0036:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "前是否原本天晶孟内疑，后独一无二与不大方是其推由，未证晶石就是赝品或可毁真意。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_actual_two_crystals_and_private_hope",
+            "channel": "editorial_M_private_routewish_modernmemory_or_inference",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "前是否原本天晶孟内疑，后独一无二与不大方是其推由，未证晶石就是赝品或可毁真意。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0036:u002",
+            "start": 12,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前是否原本天晶孟内疑，后独一无二与不大方是其推由，未证晶石就是赝品或可毁真意。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_actual_two_crystals_and_private_hope",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "前是否原本天晶孟内疑，后独一无二与不大方是其推由，未证晶石就是赝品或可毁真意。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前是否原本天晶孟内疑，后独一无二与不大方是其推由，未证晶石就是赝品或可毁真意。"
+      },
+      {
+        "reference": "v01-c0046:p0037",
+        "length": 34,
+        "sha256": "3cfc07a0535bc96ed8ba8b53e7c312880fe3a8dcb917da45cb93054b7d4c3f77",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0037:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_prior_retraining_no_newrank_or_new_earopening",
+            "text_context": "张actual赞晶石承真意直指法身，只说功法前景非齐本人已法身。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_actual_two_crystals_and_private_hope",
+            "channel": "actual_Zhang_advice_regret_crystal_praise_and_hypotheses",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "plan_estimated30_not_new_finalledger_regret_former_advice_not_actual_sect_exit",
+            "delivery": "thoughtful_support_then_soft_regret_admiration_and_unverified_method_guess",
+            "knowledge_boundary": "张actual赞晶石承真意直指法身，只说功法前景非齐本人已法身。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0037:u002",
+            "start": 11,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_prior_retraining_no_newrank_or_new_earopening",
+            "text_context": "张actual赞晶石承真意直指法身，只说功法前景非齐本人已法身。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_actual_two_crystals_and_private_hope",
+            "channel": "actual_Zhang_advice_regret_crystal_praise_and_hypotheses",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "plan_estimated30_not_new_finalledger_regret_former_advice_not_actual_sect_exit",
+            "delivery": "thoughtful_support_then_soft_regret_admiration_and_unverified_method_guess",
+            "knowledge_boundary": "张actual赞晶石承真意直指法身，只说功法前景非齐本人已法身。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0037:u003",
+            "start": 25,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张actual赞晶石承真意直指法身，只说功法前景非齐本人已法身。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_actual_two_crystals_and_private_hope",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "张actual赞晶石承真意直指法身，只说功法前景非齐本人已法身。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张actual赞晶石承真意直指法身，只说功法前景非齐本人已法身。"
+      },
+      {
+        "reference": "v01-c0046:p0038",
+        "length": 39,
+        "sha256": "82a2c2cbf8e32fb5fbb4177d3c7896cc9983f7b67b658f62cb81cbae6c2a8e20",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0038:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "盗版搞笑想法为孟私猜叙述，非六道自认复刻或伙伴都知道盗版术语。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_actual_two_crystals_and_private_hope",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "盗版搞笑想法为孟私猜叙述，非六道自认复刻或伙伴都知道盗版术语。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "盗版搞笑想法为孟私猜叙述，非六道自认复刻或伙伴都知道盗版术语。"
+      },
+      {
+        "reference": "v01-c0046:p0039",
+        "length": 38,
+        "sha256": "81b7c8621880329f5829556ee6df1cd459f3b8e52aa367164723cf3c08714692",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0039:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐深呼吸微颤N后今日迎新未来私念，克制下真期待，不正式已新晋开窍或无情木讷。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_actual_two_crystals_and_private_hope",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "齐深呼吸微颤N后今日迎新未来私念，克制下真期待，不正式已新晋开窍或无情木讷。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0039:u002",
+            "start": 24,
+            "end": 38,
+            "kind": "inner_speech",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_ordinary_disciple_not_yet_open_apertures",
+            "text_context": "齐深呼吸微颤N后今日迎新未来私念，克制下真期待，不正式已新晋开窍或无情木讷。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Qi_actual_two_crystals_and_private_hope",
+            "channel": "editorial_Qi_private_greatpath_hope_or_focalthought",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "actual_Tiancong_one_Lingzhi_one_bottle_two_crystals_firsttwo_Huntian_layers_only_not_third",
+            "delivery": "candid_ordinary_resource_constraint_tentative_excited_then_dim_risk_admission_and_trembling_hope",
+            "knowledge_boundary": "齐深呼吸微颤N后今日迎新未来私念，克制下真期待，不正式已新晋开窍或无情木讷。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐深呼吸微颤N后今日迎新未来私念，克制下真期待，不正式已新晋开窍或无情木讷。"
+      },
+      {
+        "reference": "v01-c0046:p0040",
+        "length": 39,
+        "sha256": "4c304ca9d743fddefa3fc65bd6ed884ed97bf0d72df2e85fba69c741d43da9f4",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0040:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual问江人榜，是先前没问出口现在才问，不此前已经人人谈过末位。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟actual问江人榜，是先前没问出口现在才问，不此前已经人人谈过末位。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0040:u002",
+            "start": 23,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟actual问江人榜，是先前没问出口现在才问，不此前已经人人谈过末位。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟actual问江人榜，是先前没问出口现在才问，不此前已经人人谈过末位。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual问江人榜，是先前没问出口现在才问，不此前已经人人谈过末位。"
+      },
+      {
+        "reference": "v01-c0046:p0041",
+        "length": 50,
+        "sha256": "039cad76ec8201724639d2b1811fa608066f826dbdd89c1af95db0501c2eb8bd",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0041:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual未正式下山、先前论武和已开四窍后叨末座，不本章才新开四窍或明确精确名次。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual未正式下山、先前论武和已开四窍后叨末座，不本章才新开四窍或明确精确名次。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0041:u002",
+            "start": 9,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual未正式下山、先前论武和已开四窍后叨末座，不本章才新开四窍或明确精确名次。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual未正式下山、先前论武和已开四窍后叨末座，不本章才新开四窍或明确精确名次。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual未正式下山、先前论武和已开四窍后叨末座，不本章才新开四窍或明确精确名次。"
+      },
+      {
+        "reference": "v01-c0046:p0042",
+        "length": 55,
+        "sha256": "678a202e44a3a3e89c9404e8f84e9a44ecf0c21aa2f09bd8d784be0e90adf12a",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0042:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual所料不差小紫顾同人仍推断，旧起初无武的观察疑问未解，不倒改早期全知顾身份。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual所料不差小紫顾同人仍推断，旧起初无武的观察疑问未解，不倒改早期全知顾身份。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0042:u002",
+            "start": 11,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual所料不差小紫顾同人仍推断，旧起初无武的观察疑问未解，不倒改早期全知顾身份。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual所料不差小紫顾同人仍推断，旧起初无武的观察疑问未解，不倒改早期全知顾身份。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual所料不差小紫顾同人仍推断，旧起初无武的观察疑问未解，不倒改早期全知顾身份。"
+      },
+      {
+        "reference": "v01-c0046:p0043",
+        "length": 22,
+        "sha256": "86edf376856351053d4d055f22c5db53def29e872d28ba0c6654d2cf13b8a610",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0043:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟actual精神分裂一体双魂试探问，非作者确认世界机理或医学诊断。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟actual精神分裂一体双魂试探问，非作者确认世界机理或医学诊断。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0043:u002",
+            "start": 8,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟actual精神分裂一体双魂试探问，非作者确认世界机理或医学诊断。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟actual精神分裂一体双魂试探问，非作者确认世界机理或医学诊断。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0043:u003",
+            "start": 16,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual精神分裂一体双魂试探问，非作者确认世界机理或医学诊断。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟actual精神分裂一体双魂试探问，非作者确认世界机理或医学诊断。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual精神分裂一体双魂试探问，非作者确认世界机理或医学诊断。"
+      },
+      {
+        "reference": "v01-c0046:p0044",
+        "length": 44,
+        "sha256": "2afdb1c5b552fc8e8282c06a513f82db37528118705597b3ed141408e6de32a6",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0044:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual不知道且肉身武基疑问，观察自信不独立揭双魂机制。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual不知道且肉身武基疑问，观察自信不独立揭双魂机制。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0044:u002",
+            "start": 9,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual不知道且肉身武基疑问，观察自信不独立揭双魂机制。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual不知道且肉身武基疑问，观察自信不独立揭双魂机制。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual不知道且肉身武基疑问，观察自信不独立揭双魂机制。"
+      },
+      {
+        "reference": "v01-c0046:p0045",
+        "length": 13,
+        "sha256": "13ef2c2d250870592b4606bdd6fd956d8878a8c88a1fbcfb4994cfe0a9933404",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0045:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江为失察懊恼的叙述，不新增她怒骂小紫台词。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江为失察懊恼的叙述，不新增她怒骂小紫台词。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江为失察懊恼的叙述，不新增她怒骂小紫台词。"
+      },
+      {
+        "reference": "v01-c0046:p0046",
+        "length": 40,
+        "sha256": "38de6065ab5b6f5e2ffc69e3fa3fcb70cd7591d4e8e7b2b0ff6a709a8d62d871",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0046:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_prior_retraining_no_newrank_or_new_earopening",
+            "text_context": "张actual也许无生老母经神功为猜，不已验证顾具体所用术法。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_Zhang_advice_regret_crystal_praise_and_hypotheses",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "plan_estimated30_not_new_finalledger_regret_former_advice_not_actual_sect_exit",
+            "delivery": "thoughtful_support_then_soft_regret_admiration_and_unverified_method_guess",
+            "knowledge_boundary": "张actual也许无生老母经神功为猜，不已验证顾具体所用术法。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0046:u002",
+            "start": 33,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张actual也许无生老母经神功为猜，不已验证顾具体所用术法。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "张actual也许无生老母经神功为猜，不已验证顾具体所用术法。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张actual也许无生老母经神功为猜，不已验证顾具体所用术法。"
+      },
+      {
+        "reference": "v01-c0046:p0047",
+        "length": 33,
+        "sha256": "2dab0e617942d6c058b0370f52f350079abd4e210bda453d3cde6323aee84345",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0047:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual也许自己出了岔子也只是可能，鼓腮少女情绪不新事实解释。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual也许自己出了岔子也只是可能，鼓腮少女情绪不新事实解释。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0047:u002",
+            "start": 10,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual也许自己出了岔子也只是可能，鼓腮少女情绪不新事实解释。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual也许自己出了岔子也只是可能，鼓腮少女情绪不新事实解释。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual也许自己出了岔子也只是可能，鼓腮少女情绪不新事实解释。"
+      },
+      {
+        "reference": "v01-c0046:p0048",
+        "length": 49,
+        "sha256": "7d44d4411c5c4a567170cd24735c9f0f3ee4c6b08487537ffcede76150bd48af",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0048:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_prior_retraining_no_newrank_or_new_earopening",
+            "text_context": "张actual将来必黑榜为预测，不顾已经在黑榜或必然下一章排名跃升。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_Zhang_advice_regret_crystal_praise_and_hypotheses",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "plan_estimated30_not_new_finalledger_regret_former_advice_not_actual_sect_exit",
+            "delivery": "thoughtful_support_then_soft_regret_admiration_and_unverified_method_guess",
+            "knowledge_boundary": "张actual将来必黑榜为预测，不顾已经在黑榜或必然下一章排名跃升。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0048:u002",
+            "start": 40,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张actual将来必黑榜为预测，不顾已经在黑榜或必然下一章排名跃升。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "张actual将来必黑榜为预测，不顾已经在黑榜或必然下一章排名跃升。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张actual将来必黑榜为预测，不顾已经在黑榜或必然下一章排名跃升。"
+      },
+      {
+        "reference": "v01-c0046:p0049",
+        "length": 19,
+        "sha256": "fa0014a6dbbd26c9189020e2be65bbd074c0cd344ad242f4efb6a92306e90bfc",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0049:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_modernbackground_unshared",
+            "text_context": "孟actual问黑榜，土包子是自觉叙述，不别人实际辱骂。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_M_questions_departure_wish_and_identity_hypothesis",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "no_newrank_no_formaldeparture_stores_needle_in_personal_room_returns_Shaolin",
+            "delivery": "surprised_Huntian_then_worried_departure_candid_reassurance_and_puzzled_questions",
+            "knowledge_boundary": "孟actual问黑榜，土包子是自觉叙述，不别人实际辱骂。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0049:u002",
+            "start": 5,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual问黑榜，土包子是自觉叙述，不别人实际辱骂。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟actual问黑榜，土包子是自觉叙述，不别人实际辱骂。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual问黑榜，土包子是自觉叙述，不别人实际辱骂。"
+      },
+      {
+        "reference": "v01-c0046:p0050",
+        "length": 67,
+        "sha256": "715a7b9a92253b38ffbdbc0b8358e5f83a9ed7df25eb01fd17771d4e422a9401",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0050:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江actual黑榜邪道前100与外景以下避让说明，不当前已经遇榜上新敌或列全名。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "江actual黑榜邪道前100与外景以下避让说明，不当前已经遇榜上新敌或列全名。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0050:u002",
+            "start": 8,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual黑榜邪道前100与外景以下避让说明，不当前已经遇榜上新敌或列全名。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual黑榜邪道前100与外景以下避让说明，不当前已经遇榜上新敌或列全名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0050:u003",
+            "start": 33,
+            "end": 67,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_fourapertures_already_not_newbreakthrough",
+            "text_context": "江actual黑榜邪道前100与外景以下避让说明，不当前已经遇榜上新敌或列全名。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_Jiang_sectroutes_ranking_and_identity_questions",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "Huntian_recognition_from_catalogue_own_rank_low_end_Xiaozi_Gu_identity_inference_not_resolved_mechanism",
+            "delivery": "bright_swordinterest_then_serious_formaldeparture_explanation_later_annoyed_young_pouting_and_cautious_hypotheses",
+            "knowledge_boundary": "江actual黑榜邪道前100与外景以下避让说明，不当前已经遇榜上新敌或列全名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江actual黑榜邪道前100与外景以下避让说明，不当前已经遇榜上新敌或列全名。"
+      },
+      {
+        "reference": "v01-c0046:p0051",
+        "length": 19,
+        "sha256": "64df6ef01e089b60e301e2394d4772304b6a3af60aa3e19258bbd1deec71c709",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0051:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "宏大冰冷声是六道明确声框，52实际有声不无声玉册。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "宏大冰冷声是六道明确声框，52实际有声不无声玉册。",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "宏大冰冷声是六道明确声框，52实际有声不无声玉册。"
+      },
+      {
+        "reference": "v01-c0046:p0052",
+        "length": 20,
+        "sha256": "27653649f69b50bceee701a6a64d859153a7bcc251ad1a1bbb7242f20969f5eb",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0052:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_master",
+            "surface_identity": "SixPaths_master_true_identity_unrevealed",
+            "text_context": "六道actual存物归自身世界命令，回归实景要55，不现在已经孟到菩提得奖。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "actual_Six_grand_cold_return_instruction",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "commands_store_items_then_return_not_new_taskreward",
+            "delivery": "grand_cold_brief_instruction",
+            "knowledge_boundary": "六道actual存物归自身世界命令，回归实景要55，不现在已经孟到菩提得奖。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道actual存物归自身世界命令，回归实景要55，不现在已经孟到菩提得奖。"
+      },
+      {
+        "reference": "v01-c0046:p0053",
+        "length": 25,
+        "sha256": "ff0ef1f9868ecfb2c9ac4300f87fcf55168e975c25b2f77d295ffe6953eab6aa",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0053:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际留暴雨针于自房间不带少林，房间概念引号N无新房间人格。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_Jiang_rank_identity_hypotheses_and_return_preparation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟实际留暴雨针于自房间不带少林，房间概念引号N无新房间人格。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际留暴雨针于自房间不带少林，房间概念引号N无新房间人格。"
+      },
+      {
+        "reference": "v01-c0046:p0054",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0054:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略转场N，无新人物台词。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_actual_Shaolin_return_unnamed_Bodhi_summons",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "省略转场N，无新人物台词。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略转场N，无新人物台词。"
+      },
+      {
+        "reference": "v01-c0046:p0055",
+        "length": 40,
+        "sha256": "5f187f0c031d9ccd803f51066a8c6ba78d15f62a625afc141c8d2c011b54696f",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0055:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实际回寺孟见真慧调息白气，真慧无话、未显示知道他轮回事，不凭白气新定开窍。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_actual_Shaolin_return_unnamed_Bodhi_summons",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "实际回寺孟见真慧调息白气，真慧无话、未显示知道他轮回事，不凭白气新定开窍。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际回寺孟见真慧调息白气，真慧无话、未显示知道他轮回事，不凭白气新定开窍。"
+      },
+      {
+        "reference": "v01-c0046:p0056",
+        "length": 22,
+        "sha256": "9fc89232cf90623cde1b7848bad9e620f320c315ff35021b271d6610c48058e9",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0056:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟回想琢磨第一式，未本段已经能随时实战断清净。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_actual_Shaolin_return_unnamed_Bodhi_summons",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "孟回想琢磨第一式，未本段已经能随时实战断清净。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟回想琢磨第一式，未本段已经能随时实战断清净。"
+      },
+      {
+        "reference": "v01-c0046:p0057",
+        "length": 40,
+        "sha256": "472e19289ac03c40989cc981e158d2fb7e6bfb7604c8798b789d65348723edfc",
+        "units": [
+          {
+            "unit_id": "v01-c0046:p0057:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未名拍门者actual大喊无思请二人去菩提，报首座邀请不是无思本人说，不定熟悉僧人真名或已领奖。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_actual_Shaolin_return_unnamed_Bodhi_summons",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "knowledge_boundary": "未名拍门者actual大喊无思请二人去菩提，报首座邀请不是无思本人说，不定熟悉僧人真名或已领奖。",
+            "focalizer": "shaolin_unnamed_bodhi_summons_caller",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0046:p0057:u002",
+            "start": 16,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "shaolin_unnamed_bodhi_summons_caller",
+            "surface_identity": "unnamed_Shaolin_doorcaller_not_Wusi_self_or_named_known_monk",
+            "text_context": "未名拍门者actual大喊无思请二人去菩提，报首座邀请不是无思本人说，不定熟悉僧人真名或已领奖。",
+            "world_context": "EARLY_v01c46_Qi_Huntian_tenlayers_plan_actual_two_crystals_Tiancong1_Lingzhi1bottle_not_third_or_opening_Meng_formal_sectexit_vs_three_outing_routes_not_departed_crystal_copy_only_Mguess_J_lowend_rank_GuXiaozi_hypotheses_not_mechanismconfirmed_blacklist100_Six_voice_store_needle_stays_room_return_Shaolin_unnamed_door_summons",
+            "stage_context": "S11_actual_Shaolin_return_unnamed_Bodhi_summons",
+            "channel": "actual_unidentified_doorcaller_reports_Wusi_summons",
+            "fact_status": "manual_actual_firsttwo_crystals_items_return_and_summons_vs_future_thirdlayer_outing_opening_and_identity_crystalcopy_hypotheses",
+            "embodiment": "knocks_door_calls_Zhending_Zhenhui_to_Bodhi_no_arrival_yet",
+            "delivery": "loud_clear_summons_not_grand_Six_voice",
+            "knowledge_boundary": "未名拍门者actual大喊无思请二人去菩提，报首座邀请不是无思本人说，不定熟悉僧人真名或已领奖。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未名拍门者actual大喊无思请二人去菩提，报首座邀请不是无思本人说，不定熟悉僧人真名或已领奖。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0046",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S11",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 20,
+        "label": "普通弟子的资源限制、换根基与分期兑换",
+        "direction": "1/3齐坦言早换根法，是对普通资质和宗门资源门槛的回应；4/5背景保恐怕和极少，不所有晚转修必败。6张认真认可7齐抿嘴忐忑激动，10层按蓄气2开窍3外景3法身2介绍仅方法前景不本人新境，8前景远大选齐内念/自由焦叙可听待录。9江由谱中强剑认出浑天，10孟差点喷口水实际咳后问确认11/12现代武学旧知及想换为私有，不把女娲本尊置场。13前两层40/80、第三200是谱价，14先丹与前二、学后售落霞再第三为计划，15谱380售190或教两人各95是假设不已经教卖。16张余30为计划估算，不另造丹价和当前结算账；17第三层措辞须与14未来/35仅前二对照，不能记已得。18问露馅风险19齐黯淡承认冒险，20剑路掩内功是设想未同门实测。表演建议：齐克制并非无情，资源焦虑、期待、风险承认有转折；江识剑法兴奋，孟漫画联想不分享给全队。证据v01-c0046:p0001–p0020。"
+      },
+      {
+        "paragraph_start": 21,
+        "paragraph_end": 34,
+        "label": "退派与下山不同、孟奇私忧和张远山歉意",
+        "direction": "21孟说想离少林，暗加学金钟或金刚后才离是私念，22自觉更难不现实已经退学。23/25江轻笑后27严肃、28明确只正式退出才废武开革，不抠25断成永无外出。28随高僧出事找逃机需蓄气大成且难脱看守；29开窍闯铜人巷后可独行再失踪假死，江自估不足六成未实闯，众目不能突然大灌体；30立功转俗家归家是第三方案，均未执行。31孟皱眉后私疑玄藏是否准，32张反事实若杂役期满能出而后悔推荐转院33孟不怪，玄藏不让只是孟所信未玄藏现场宣布。34私心先藏、抓学七十二，不已经全学到或已经转俗家。表演建议：江从笑到认真说明现实代价，孟失望又清醒，张轻叹有歉意但孟安抚，不演同伴互相埋怨。证据v01-c0046:p0021–p0034。"
+      },
+      {
+        "paragraph_start": 35,
+        "paragraph_end": 39,
+        "label": "两天晶与实际丹药、齐正言新前途的激动",
+        "direction": "35齐实际换天聪丸1、灵芝丸1瓶和含白云烟/玫霞荡的两天晶，第三土昆仑仍无，未服丸开窍或练成全十层。36原本天晶是否唯一和38盗版说为孟怀疑/搞笑念头，不作者已证复制品，也不齐江张知道孟现代概念。37张赞承真意直指法身说功法不是齐本人法身。39齐深呼吸微颤是实际肢体，今日新未来私念，不新增公开豪言。表演建议：外表克制仍能听见呼吸变深与希望，避免给齐永久固定无起伏腔；孟的笑想不盖掉齐珍视机缘的分量。证据v01-c0046:p0035–p0039。"
+      },
+      {
+        "paragraph_start": 40,
+        "paragraph_end": 53,
+        "label": "人榜末座、身份未解与实际存针准备归返",
+        "direction": "40孟现在问江人榜，41江说未正式下山、此前论武和四窍后居末座，不本章新开窍或精确报某一名。42江所料不差小紫顾同人是推断，为什么起初无武仍不解；43孟精神分裂/一体双魂试探问不是医学诊断或世界机制证实，44江不知道45懊恼47鼓腮仍保少女感。46张或神功、47江或之前岔子皆猜，48将来黑榜预测不是已在黑榜。49问黑榜50江只前100及不足外景避让说明，未新遇全部邪道。51/52六道宏大冰冷真声通知存物归返，53孟实际把暴雨针留在自己房间，未带回主世界，不提前下章手里有针。表演建议：江疑惑懊恼不削其观察自信，张猜测不全知解谜，六道及时截断讨论。证据v01-c0046:p0040–p0053。"
+      },
+      {
+        "paragraph_start": 55,
+        "paragraph_end": 57,
+        "label": "真回少林、琢磨刀式与未名门外召唤",
+        "direction": "54省略承转55实际黑亮回寺孟见真慧调息白气，真慧无对白、未显示知道轮回，不把白气作新开窍证明。56孟回想第一式仍未实战任意用。57拍门者大声请真定真慧去菩提，按未名同门报无思首座邀请处理，不配给无思本人或熟悉具名僧；邀请发生、到院和奖励领取尚未。表演建议：广场宏大冷声转寺房清静，门外普通响亮传话另声位，与六道区分；孟此刻只是被请，不先表演拿到金钟罩或离寺。证据v01-c0046:p0054–p0057。"
+      }
+    ],
+    "knowledge_rule": "齐目标新揭但只实兑前二天晶药物未开窍，第三/学售法未来。退寺正式废武与三下山方案分，不当已执行；玄藏阻拦是孟判断。小紫顾同人、双魂神功岔子都在猜，天晶盗版仅孟私疑。孟实际存针再回寺、未名门外传无思请非本人。"
+  }
 }
