@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江剑追击、邝承望擒杀与支线分功](early-jiang-swordlight-kuang-capture-execution-sidecredits.md) | 第34章历史归属回补 |
+| [未名白眉老僧请众离寺、守寺变通与泄密假说](early-unnamed-whitebrow-expulsion-main2-workarounds-hearing-hypothesis.md) | 第34章历史归属回补 |
+| [林别雪干缩尸身与小紫称小桑来临](early-linbiexue-driedbody-xiaosang-claim-unproved.md) | 第34章历史归属回补 |
 | [心寂核实、烛火主线与长老劝舍身](early-xinji-entry-candle-tasks-elders-resistance.md) | 第33章历史归属回补 |
 | [假向辉百变书生揭示、替换时点为孟推](early-kuangchengwang-xianghui-disguise-revealed-timing-inferred.md) | 第33章历史归属回补 |
 | [柯碧君王晋后命名与未名拦截剑光](early-kebijun-wangjin-named-unknown-swordlight.md) | 第33章历史归属回补 |
