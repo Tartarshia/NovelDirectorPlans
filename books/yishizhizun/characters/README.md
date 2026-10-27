@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [无生指延死、顾挑拨说辞与挥袖终结](early-gu-wushengfinger-delayeddeath-threats-claims.md) | 第42章历史归属回补 |
+| [部分刀意争时、顾感知稚声与无声切磋](early-meng-partial-intent-gu-childvoice-closedmechanisms.md) | 第42章历史归属回补 |
+| [罗教转世传闻、当期榜单与灰墙结算](early-luojiao-rebirth-rumor-ranks-greywall-settlement.md) | 第42章历史归属回补 |
 | [残式分享、只报战力与保留杀手锏](early-remnant-sharing-capability-not-all-secrets.md) | 第41章历史归属回补 |
 | [朵循迹开门、孟关门失败与刀意虚势未击中](early-duo-tracks-gate-meng-bluff-not-hit.md) | 第41章历史归属回补 |
 | [顾小桑自名、近小紫面与周围教诵](early-gu-selfname-xiaozi-face-ambient-chant.md) | 第41章历史归属回补 |

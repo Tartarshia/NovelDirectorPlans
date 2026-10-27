@@ -61,7 +61,2849 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0003"
+  "reading_batch": "batch-0003",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0042",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0042.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0042:p0001",
+        "length": 12,
+        "sha256": "0f9ca9cac34d79a8d1dcdd4ca558ca9d32903ff0bb451c28907463f9785fb468",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0001:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang_invoked_ethereal_chant_v01",
+            "surface_identity": "continuing_Gu_invoked_ambient_voice_not_goddess_body",
+            "text_context": "承上周围飘渺声有声教诵，非顾嘴里这句或无声标语，非老母真身。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "actual_invoked_surrounding_ethereal_chant",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "external_floating_chorus_from_priorchapter_not_Gu_mouth_p7",
+            "delivery": "ethereal_repeated_phrase",
+            "knowledge_boundary": "承上周围飘渺声有声教诵，非顾嘴里这句或无声标语，非老母真身。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "承上周围飘渺声有声教诵，非顾嘴里这句或无声标语，非老母真身。"
+      },
+      {
+        "reference": "v01-c0042:p0002",
+        "length": 39,
+        "sha256": "4db1a98e1d0fd7249ca133bac842a7c6c698b59dbf6e3ba872b0829f7f97cda0",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0002:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "耳音与轻指使朵有魂出感，是感觉非源已确魂永离；芊芊疑纤纤保字。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "耳音与轻指使朵有魂出感，是感觉非源已确魂永离；芊芊疑纤纤保字。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "耳音与轻指使朵有魂出感，是感觉非源已确魂永离；芊芊疑纤纤保字。"
+      },
+      {
+        "reference": "v01-c0042:p0003",
+        "length": 81,
+        "sha256": "2bbc9e69578f178952b6f3a5bae0c3439645a5e82126ba36ae2101746b208b5f",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0003:u001",
+            "start": 0,
+            "end": 81,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朵心知抵抗欲避但空气沉缩被引，涌引号为动作N，未真自愿投教。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "朵心知抵抗欲避但空气沉缩被引，涌引号为动作N，未真自愿投教。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵心知抵抗欲避但空气沉缩被引，涌引号为动作N，未真自愿投教。"
+      },
+      {
+        "reference": "v01-c0042:p0004",
+        "length": 55,
+        "sha256": "b6a016c93fc18c8809940df2686527fa00337fe13373b31e38f795805e73e170",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0004:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟等只见敌似失魂主动迎指，是外部观感不同朵仍想躲的内视角。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟等只见敌似失魂主动迎指，是外部观感不同朵仍想躲的内视角。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟等只见敌似失魂主动迎指，是外部观感不同朵仍想躲的内视角。"
+      },
+      {
+        "reference": "v01-c0042:p0005",
+        "length": 24,
+        "sha256": "20e04e51408930fc466b28e3ca7385c5d344de9a3495dabed728f600c0ece404",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0005:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "孟引用疑妖术选实际惊语可听性待录，不确定此招全机制。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "editorial_actual_M_sorcery_question_audibility_open",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "孟引用疑妖术选实际惊语可听性待录，不确定此招全机制。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0005:u002",
+            "start": 9,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟引用疑妖术选实际惊语可听性待录，不确定此招全机制。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟引用疑妖术选实际惊语可听性待录，不确定此招全机制。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟引用疑妖术选实际惊语可听性待录，不确定此招全机制。"
+      },
+      {
+        "reference": "v01-c0042:p0006",
+        "length": 32,
+        "sha256": "601bdf1b74b24ec26a05bc80f59d37a67f54b0176772d3f09803c6bfbe8e0872",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0006:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾指拂眉后自己开口，清脆空灵锚7不同1环境声。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾指拂眉后自己开口，清脆空灵锚7不同1环境声。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾指拂眉后自己开口，清脆空灵锚7不同1环境声。"
+      },
+      {
+        "reference": "v01-c0042:p0007",
+        "length": 12,
+        "sha256": "0f9ca9cac34d79a8d1dcdd4ca558ca9d32903ff0bb451c28907463f9785fb468",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0007:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾本人庄严实际念句，非环境教诵全包或老母新演员。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "actual_Gu_mouth_clear_airy_chant_not_ambient",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾本人庄严实际念句，非环境教诵全包或老母新演员。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾本人庄严实际念句，非环境教诵全包或老母新演员。"
+      },
+      {
+        "reference": "v01-c0042:p0008",
+        "length": 34,
+        "sha256": "b3a07a1f95121c3eb9fa6b3738f5a42be46fde89997e286c355720d374fb682b",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0008:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朵安宁喜笑低声跟随锚9，转感非突然伤好。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "朵安宁喜笑低声跟随锚9，转感非突然伤好。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵安宁喜笑低声跟随锚9，转感非突然伤好。"
+      },
+      {
+        "reference": "v01-c0042:p0009",
+        "length": 12,
+        "sha256": "0f9ca9cac34d79a8d1dcdd4ca558ca9d32903ff0bb451c28907463f9785fb468",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0009:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "duo_ercha",
+            "surface_identity": "Duoercha_same_maimed_general_dying_then_sleeve_killed",
+            "text_context": "朵实际低声复诵，不顾代说也不旁观者齐唱。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "actual_Duo_soft_joyful_followchant",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "resists_but_drawn_to_finger_neckdown_drains_collapses_softchant_death_only_p64",
+            "delivery": "soft_peaceful_joy_chant_fades_not_screaming",
+            "knowledge_boundary": "朵实际低声复诵，不顾代说也不旁观者齐唱。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵实际低声复诵，不顾代说也不旁观者齐唱。"
+      },
+      {
+        "reference": "v01-c0042:p0010",
+        "length": 56,
+        "sha256": "f282764f0649d1cd785a7d869a1cb0f1968f9a28d9acea52577d881231c758ea",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0010:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朵颈下先胀再缩血光汇眉入顾二指实异象，与旧林尸相似仅线索不证其凶手。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "朵颈下先胀再缩血光汇眉入顾二指实异象，与旧林尸相似仅线索不证其凶手。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵颈下先胀再缩血光汇眉入顾二指实异象，与旧林尸相似仅线索不证其凶手。"
+      },
+      {
+        "reference": "v01-c0042:p0011",
+        "length": 22,
+        "sha256": "edf461869fc0e33eb7c2ab6100396112fcf9352f7440abee19c757a285937118",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0011:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾脸更光洁为吸取后的外观，不推全套神功层次或新正式突破。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾脸更光洁为吸取后的外观，不推全套神功层次或新正式突破。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾脸更光洁为吸取后的外观，不推全套神功层次或新正式突破。"
+      },
+      {
+        "reference": "v01-c0042:p0012",
+        "length": 43,
+        "sha256": "9e23322fdf19bab933f23f056e6fdbfa563ac5acb442723b9e8681d8ac6d21a3",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0012:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "duo_ercha",
+            "surface_identity": "Duoercha_same_maimed_general_dying_then_sleeve_killed",
+            "text_context": "朵倒地喜乐实际低诵渐弱，此时未最终死，14明有等待64才被杀。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "actual_Duo_soft_joyful_followchant",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "resists_but_drawn_to_finger_neckdown_drains_collapses_softchant_death_only_p64",
+            "delivery": "soft_peaceful_joy_chant_fades_not_screaming",
+            "knowledge_boundary": "朵倒地喜乐实际低诵渐弱，此时未最终死，14明有等待64才被杀。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0012:u002",
+            "start": 13,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朵倒地喜乐实际低诵渐弱，此时未最终死，14明有等待64才被杀。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "朵倒地喜乐实际低诵渐弱，此时未最终死，14明有等待64才被杀。",
+            "focalizer": "duo_ercha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朵倒地喜乐实际低诵渐弱，此时未最终死，14明有等待64才被杀。"
+      },
+      {
+        "reference": "v01-c0042:p0013",
+        "length": 42,
+        "sha256": "cf386dcba93f90453e7a734dc58fd8cbec45e67014fb215b2809e17378eefed8",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0013:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾收右手转看众人更精神实际，未全体回归结算。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_Wushengfinger_Duo_dying_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾收右手转看众人更精神实际，未全体回归结算。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾收右手转看众人更精神实际，未全体回归结算。"
+      },
+      {
+        "reference": "v01-c0042:p0014",
+        "length": 106,
+        "sha256": "639d20cbfab0dc710da8323d2daf95f3c45878f82838e6af6df8fdf1f05b1f14",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0014:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾两实语称上次岔子善功耗、够杀一人及无生指需稍等，是她说辞非确精确余额或杀队友规则全表。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾两实语称上次岔子善功耗、够杀一人及无生指需稍等，是她说辞非确精确余额或杀队友规则全表。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0014:u002",
+            "start": 27,
+            "end": 43,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾两实语称上次岔子善功耗、够杀一人及无生指需稍等，是她说辞非确精确余额或杀队友规则全表。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾两实语称上次岔子善功耗、够杀一人及无生指需稍等，是她说辞非确精确余额或杀队友规则全表。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0014:u003",
+            "start": 43,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾两实语称上次岔子善功耗、够杀一人及无生指需稍等，是她说辞非确精确余额或杀队友规则全表。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾两实语称上次岔子善功耗、够杀一人及无生指需稍等，是她说辞非确精确余额或杀队友规则全表。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0014:u004",
+            "start": 63,
+            "end": 106,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾两实语称上次岔子善功耗、够杀一人及无生指需稍等，是她说辞非确精确余额或杀队友规则全表。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾两实语称上次岔子善功耗、够杀一人及无生指需稍等，是她说辞非确精确余额或杀队友规则全表。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾两实语称上次岔子善功耗、够杀一人及无生指需稍等，是她说辞非确精确余额或杀队友规则全表。"
+      },
+      {
+        "reference": "v01-c0042:p0015",
+        "length": 104,
+        "sha256": "f2fbfb847a679cdc8d4f0498605e17e2913e37c3e0ca99d20cf7855ad98a6ff7",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0015:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际称用某物被当新人丢来及逼选一人；道具未名原因未全明，不能补时空替换机制。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际称用某物被当新人丢来及逼选一人；道具未名原因未全明，不能补时空替换机制。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0015:u002",
+            "start": 20,
+            "end": 60,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际称用某物被当新人丢来及逼选一人；道具未名原因未全明，不能补时空替换机制。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际称用某物被当新人丢来及逼选一人；道具未名原因未全明，不能补时空替换机制。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0015:u003",
+            "start": 60,
+            "end": 65,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际称用某物被当新人丢来及逼选一人；道具未名原因未全明，不能补时空替换机制。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际称用某物被当新人丢来及逼选一人；道具未名原因未全明，不能补时空替换机制。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0015:u004",
+            "start": 65,
+            "end": 104,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际称用某物被当新人丢来及逼选一人；道具未名原因未全明，不能补时空替换机制。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际称用某物被当新人丢来及逼选一人；道具未名原因未全明，不能补时空替换机制。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际称用某物被当新人丢来及逼选一人；道具未名原因未全明，不能补时空替换机制。"
+      },
+      {
+        "reference": "v01-c0042:p0016",
+        "length": 55,
+        "sha256": "f5eddbf789c74d5554648c7f67551eac77f7f09ac79e1836c07d5d5a52745f37",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0016:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "她为难姿态与好色者可能反事实，不现场男角已自愿献命。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "她为难姿态与好色者可能反事实，不现场男角已自愿献命。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "她为难姿态与好色者可能反事实，不现场男角已自愿献命。"
+      },
+      {
+        "reference": "v01-c0042:p0017",
+        "length": 60,
+        "sha256": "e6d2a8f1fc4e6b19080835dc3c3efe56a5146f314e85eaa82037ae84f9a662d5",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0017:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "众清醒没中挑拨守口，实际团结不添互选牺牲台词。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "众清醒没中挑拨守口，实际团结不添互选牺牲台词。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "众清醒没中挑拨守口，实际团结不添互选牺牲台词。"
+      },
+      {
+        "reference": "v01-c0042:p0018",
+        "length": 64,
+        "sha256": "f8aa636de02f8e1f57dbaba3b3be8f066822a3464877efddc1846b7f61f5d6e1",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0018:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际轻贱浣花普通弟子是挑拨侮辱，不作者认可齐无价值。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际轻贱浣花普通弟子是挑拨侮辱，不作者认可齐无价值。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0018:u002",
+            "start": 13,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际轻贱浣花普通弟子是挑拨侮辱，不作者认可齐无价值。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际轻贱浣花普通弟子是挑拨侮辱，不作者认可齐无价值。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0018:u003",
+            "start": 22,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际轻贱浣花普通弟子是挑拨侮辱，不作者认可齐无价值。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际轻贱浣花普通弟子是挑拨侮辱，不作者认可齐无价值。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际轻贱浣花普通弟子是挑拨侮辱，不作者认可齐无价值。"
+      },
+      {
+        "reference": "v01-c0042:p0019",
+        "length": 48,
+        "sha256": "f9efd34fc0a1e54f4a2a51daa96c801996fd286348d8eb8617b0ca6ae13d37d5",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0019:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐知挑拨仍不甘，末凭什么私问，不实际背叛队友或开骂。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "齐知挑拨仍不甘，末凭什么私问，不实际背叛队友或开骂。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0019:u002",
+            "start": 37,
+            "end": 48,
+            "kind": "inner_speech",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_same_recoil_wounded_not_betrayer",
+            "text_context": "齐知挑拨仍不甘，末凭什么私问，不实际背叛队友或开骂。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "editorial_Qi_private_hurt_pride",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "insulted_not_turned_traitor_holds_sword_guards_closedgate",
+            "delivery": "hurt_pride_private_then_short_question_and_practical_worry",
+            "knowledge_boundary": "齐知挑拨仍不甘，末凭什么私问，不实际背叛队友或开骂。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐知挑拨仍不甘，末凭什么私问，不实际背叛队友或开骂。"
+      },
+      {
+        "reference": "v01-c0042:p0020",
+        "length": 64,
+        "sha256": "10a9a4d25f35fdb99a7b93cc05c5fc59f02eb1dc972c3f070f9ea1e5101d24ea",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0020:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际张氏三柱、伪手法挑内讧计划说辞，未已伪造杀人或内讧发生。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际张氏三柱、伪手法挑内讧计划说辞，未已伪造杀人或内讧发生。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0020:u002",
+            "start": 16,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际张氏三柱、伪手法挑内讧计划说辞，未已伪造杀人或内讧发生。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际张氏三柱、伪手法挑内讧计划说辞，未已伪造杀人或内讧发生。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际张氏三柱、伪手法挑内讧计划说辞，未已伪造杀人或内讧发生。"
+      },
+      {
+        "reference": "v01-c0042:p0021",
+        "length": 31,
+        "sha256": "f61ccd94f4a90e2a3ef9630713b34685a5b77af4703a7933927a1955f3736133",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0021:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际稳言长辈非鲁莽，既回击又26拖时间，非真判敌已不会杀。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "张实际稳言长辈非鲁莽，既回击又26拖时间，非真判敌已不会杀。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0021:u002",
+            "start": 13,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际稳言长辈非鲁莽，既回击又26拖时间，非真判敌已不会杀。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际稳言长辈非鲁莽，既回击又26拖时间，非真判敌已不会杀。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际稳言长辈非鲁莽，既回击又26拖时间，非真判敌已不会杀。"
+      },
+      {
+        "reference": "v01-c0042:p0022",
+        "length": 61,
+        "sha256": "fc69b4b4f4c64822e15d10ebc1a652d673574ea9d069ea66574ce1d76af1ad1c",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0022:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际快活认可未算到未兑真武秘诀，嫁祸难是其说法，不暴露她全部底牌。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际快活认可未算到未兑真武秘诀，嫁祸难是其说法，不暴露她全部底牌。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0022:u002",
+            "start": 5,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际快活认可未算到未兑真武秘诀，嫁祸难是其说法，不暴露她全部底牌。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际快活认可未算到未兑真武秘诀，嫁祸难是其说法，不暴露她全部底牌。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0022:u003",
+            "start": 18,
+            "end": 61,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际快活认可未算到未兑真武秘诀，嫁祸难是其说法，不暴露她全部底牌。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际快活认可未算到未兑真武秘诀，嫁祸难是其说法，不暴露她全部底牌。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际快活认可未算到未兑真武秘诀，嫁祸难是其说法，不暴露她全部底牌。"
+      },
+      {
+        "reference": "v01-c0042:p0023",
+        "length": 126,
+        "sha256": "1646c28e4a8d8f2b06cb7b332a0f946d1e8d4874181a6f86838103f59f701b7e",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0023:u001",
+            "start": 0,
+            "end": 126,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际讽张同门更强真意未悟，旧功法失悟后58部分作者再证，但同门绝对高低不能全由敌语定。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际讽张同门更强真意未悟，旧功法失悟后58部分作者再证，但同门绝对高低不能全由敌语定。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际讽张同门更强真意未悟，旧功法失悟后58部分作者再证，但同门绝对高低不能全由敌语定。"
+      },
+      {
+        "reference": "v01-c0042:p0024",
+        "length": 18,
+        "sha256": "98a77e051e45be83ffaa8feeb1062cd3e9d9fbb2bb9b77f5317ef8d279155745",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0024:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾笑下挑拨讽刺源明，不用自己旁白替她合理化。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾笑下挑拨讽刺源明，不用自己旁白替她合理化。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾笑下挑拨讽刺源明，不用自己旁白替她合理化。"
+      },
+      {
+        "reference": "v01-c0042:p0025",
+        "length": 48,
+        "sha256": "591ab1848a3fc761c0474760cf369743f27f45e8b577f6f7e74ee300abfd1943",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0025:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际勤补拙温和笑辩，非无伤随便战敌。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "张实际勤补拙温和笑辩，非无伤随便战敌。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0025:u002",
+            "start": 8,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际勤补拙温和笑辩，非无伤随便战敌。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际勤补拙温和笑辩，非无伤随便战敌。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0025:u003",
+            "start": 30,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际勤补拙温和笑辩，非无伤随便战敌。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际勤补拙温和笑辩，非无伤随便战敌。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际勤补拙温和笑辩，非无伤随便战敌。"
+      },
+      {
+        "reference": "v01-c0042:p0026",
+        "length": 45,
+        "sha256": "f13f57e557b67217fd3c982f4710ee31a067dce9775461f509126cd47c3dc52e",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0026:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张为拖朵死而周旋是明确动机，尚未等到死；不全部道理只空口假装。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "张为拖朵死而周旋是明确动机，尚未等到死；不全部道理只空口假装。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张为拖朵死而周旋是明确动机，尚未等到死；不全部道理只空口假装。"
+      },
+      {
+        "reference": "v01-c0042:p0027",
+        "length": 41,
+        "sha256": "43a2c2730801e89534b96cc739c174784eac09538cb7680a356f56fd07b5867a",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0027:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际有点想杀，怔与咬唇实态不旁观真读她所有动机。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际有点想杀，怔与咬唇实态不旁观真读她所有动机。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0027:u002",
+            "start": 23,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际有点想杀，怔与咬唇实态不旁观真读她所有动机。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际有点想杀，怔与咬唇实态不旁观真读她所有动机。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际有点想杀，怔与咬唇实态不旁观真读她所有动机。"
+      },
+      {
+        "reference": "v01-c0042:p0028",
+        "length": 102,
+        "sha256": "a58fd5af3b8cb7057a87a924e888c5e7d36ba5c2fc7e9190e773c1acef7babda",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0028:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第一强迫引号是表演N，仅第二对江整句实际，传闻未来剑神只是传闻和威胁未成。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "第一强迫引号是表演N，仅第二对江整句实际，传闻未来剑神只是传闻和威胁未成。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0028:u002",
+            "start": 19,
+            "end": 102,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "第一强迫引号是表演N，仅第二对江整句实际，传闻未来剑神只是传闻和威胁未成。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "第一强迫引号是表演N，仅第二对江整句实际，传闻未来剑神只是传闻和威胁未成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第一强迫引号是表演N，仅第二对江整句实际，传闻未来剑神只是传闻和威胁未成。"
+      },
+      {
+        "reference": "v01-c0042:p0029",
+        "length": 36,
+        "sha256": "a90fb6ebb80116327e6388c03b4e3864b10262717f7d420c6cfb1689d5fbad19",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0029:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际淡然以掌剑威慑，未真再次施剑出无我或伤愈。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "江实际淡然以掌剑威慑，未真再次施剑出无我或伤愈。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0029:u002",
+            "start": 16,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_still_injured_fourapertures_not_healed",
+            "text_context": "江实际淡然以掌剑威慑，未真再次施剑出无我或伤愈。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Jiang_calm_deterrence_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "calm_sword_threat_no_new_attack_silent_mouth_challenge_then_proud_rank_lore",
+            "delivery": "unruffled_trial_deterrence_then_knowing_smile_and_teacher_pride",
+            "knowledge_boundary": "江实际淡然以掌剑威慑，未真再次施剑出无我或伤愈。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际淡然以掌剑威慑，未真再次施剑出无我或伤愈。"
+      },
+      {
+        "reference": "v01-c0042:p0030",
+        "length": 85,
+        "sha256": "b8cf49b7f5b80752b0b158b5633d64db7a5bc7567c0aecda9f36ae12a6cf635d",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0030:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际问能否一搏、是否天魔解体，是疑问不能记江已兑换搏命法。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际问能否一搏、是否天魔解体，是疑问不能记江已兑换搏命法。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0030:u002",
+            "start": 29,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际问能否一搏、是否天魔解体，是疑问不能记江已兑换搏命法。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际问能否一搏、是否天魔解体，是疑问不能记江已兑换搏命法。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0030:u003",
+            "start": 40,
+            "end": 52,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际问能否一搏、是否天魔解体，是疑问不能记江已兑换搏命法。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际问能否一搏、是否天魔解体，是疑问不能记江已兑换搏命法。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0030:u004",
+            "start": 52,
+            "end": 85,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际问能否一搏、是否天魔解体，是疑问不能记江已兑换搏命法。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际问能否一搏、是否天魔解体，是疑问不能记江已兑换搏命法。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际问能否一搏、是否天魔解体，是疑问不能记江已兑换搏命法。"
+      },
+      {
+        "reference": "v01-c0042:p0031",
+        "length": 14,
+        "sha256": "ba0ad457d13bcaeba8e83ee5436325bf2a06c76dae48e9c4967fbf91dad6dbab",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0031:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明顾把疑惑坦问，非她确定江毫无底牌或全知伤势。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "源明顾把疑惑坦问，非她确定江毫无底牌或全知伤势。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明顾把疑惑坦问，非她确定江毫无底牌或全知伤势。"
+      },
+      {
+        "reference": "v01-c0042:p0032",
+        "length": 38,
+        "sha256": "945ec86090d8e65b405a266e3a71cd6c1d983dcc8864c86232a8feffc2f65728",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0032:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_still_injured_fourapertures_not_healed",
+            "text_context": "江实际试试淡笑，重伤白脸还在，不给已出剑胜负。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Jiang_calm_deterrence_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "calm_sword_threat_no_new_attack_silent_mouth_challenge_then_proud_rank_lore",
+            "delivery": "unruffled_trial_deterrence_then_knowing_smile_and_teacher_pride",
+            "knowledge_boundary": "江实际试试淡笑，重伤白脸还在，不给已出剑胜负。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0032:u002",
+            "start": 9,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际试试淡笑，重伤白脸还在，不给已出剑胜负。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "江实际试试淡笑，重伤白脸还在，不给已出剑胜负。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际试试淡笑，重伤白脸还在，不给已出剑胜负。"
+      },
+      {
+        "reference": "v01-c0042:p0033",
+        "length": 34,
+        "sha256": "bdb7684b54acba042aa54323bc80117b6dece98f6edf38b7bbec3e831b6ea72a",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0033:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际大师称谓与最想杀孟，非正式宗教尊位确认。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际大师称谓与最想杀孟，非正式宗教尊位确认。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0033:u002",
+            "start": 17,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际大师称谓与最想杀孟，非正式宗教尊位确认。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际大师称谓与最想杀孟，非正式宗教尊位确认。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际大师称谓与最想杀孟，非正式宗教尊位确认。"
+      },
+      {
+        "reference": "v01-c0042:p0034",
+        "length": 41,
+        "sha256": "c104a01e30491367db0affae0434ed1272a1e4ad7fc09153ddc3218430cdbd16",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0034:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "孟实际啊莫名，自己比齐还弱是其当期判断非全书永定排行。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_M_surprise_plan_or_identity_question",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "孟实际啊莫名，自己比齐还弱是其当期判断非全书永定排行。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0034:u002",
+            "start": 4,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际啊莫名，自己比齐还弱是其当期判断非全书永定排行。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟实际啊莫名，自己比齐还弱是其当期判断非全书永定排行。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际啊莫名，自己比齐还弱是其当期判断非全书永定排行。"
+      },
+      {
+        "reference": "v01-c0042:p0035",
+        "length": 28,
+        "sha256": "ef9914f90a174e0ad12e94cda4dd023c57b605ff7f13ec1d69a08b7c64646a17",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0035:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际小紫似对孟好感为杀理由，是其说法不小紫亲口恋爱确认。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际小紫似对孟好感为杀理由，是其说法不小紫亲口恋爱确认。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0035:u002",
+            "start": 13,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际小紫似对孟好感为杀理由，是其说法不小紫亲口恋爱确认。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际小紫似对孟好感为杀理由，是其说法不小紫亲口恋爱确认。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际小紫似对孟好感为杀理由，是其说法不小紫亲口恋爱确认。"
+      },
+      {
+        "reference": "v01-c0042:p0036",
+        "length": 26,
+        "sha256": "ae878f21a9aa568529efabdb8f7ed380595781344933d12783a02dc043803f81",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0036:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "孟实际问理由并拖时间，不当场认同杀人伦理。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_M_surprise_plan_or_identity_question",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "孟实际问理由并拖时间，不当场认同杀人伦理。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0036:u002",
+            "start": 9,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际问理由并拖时间，不当场认同杀人伦理。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟实际问理由并拖时间，不当场认同杀人伦理。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际问理由并拖时间，不当场认同杀人伦理。"
+      },
+      {
+        "reference": "v01-c0042:p0037",
+        "length": 41,
+        "sha256": "17fd70d785b80dc76ef67776713c31bf197793799543e240f0596852cbe1b339",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0037:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际欲毁小紫所爱是其威胁自述，不能当双人身份原因已解释。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际欲毁小紫所爱是其威胁自述，不能当双人身份原因已解释。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0037:u002",
+            "start": 14,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际欲毁小紫所爱是其威胁自述，不能当双人身份原因已解释。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际欲毁小紫所爱是其威胁自述，不能当双人身份原因已解释。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际欲毁小紫所爱是其威胁自述，不能当双人身份原因已解释。"
+      },
+      {
+        "reference": "v01-c0042:p0038",
+        "length": 14,
+        "sha256": "201e677296a86c27fbb5822fb19df1ecf5e179af4016eaa91cbff7895e618132",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0038:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "前变态是孟私骂唯一念头，不公开喊新整段秽语。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "editorial_M_private_reaction",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "前变态是孟私骂唯一念头，不公开喊新整段秽语。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0038:u002",
+            "start": 3,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前变态是孟私骂唯一念头，不公开喊新整段秽语。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "前变态是孟私骂唯一念头，不公开喊新整段秽语。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前变态是孟私骂唯一念头，不公开喊新整段秽语。"
+      },
+      {
+        "reference": "v01-c0042:p0039",
+        "length": 35,
+        "sha256": "fbd61a4f4c77a64e4a9252e388a7861560434756560f60d1417b7243fa0152a0",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0039:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾实际安息佛号、丢枝合十，非孟真被杀或佛祖显圣。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "actual_Gu_clear_airy_or_smiling_threat",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾实际安息佛号、丢枝合十，非孟真被杀或佛祖显圣。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0039:u002",
+            "start": 19,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实际安息佛号、丢枝合十，非孟真被杀或佛祖显圣。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_party_division_threats_delaying",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实际安息佛号、丢枝合十，非孟真被杀或佛祖显圣。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际安息佛号、丢枝合十，非孟真被杀或佛祖显圣。"
+      },
+      {
+        "reference": "v01-c0042:p0040",
+        "length": 47,
+        "sha256": "6698655994ddad556ac9f6e776a5590e0dddfe952abf1e2d0ba8d114d9c5e70d",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0040:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟聚神内静举刀是部分刀意准备，非气海升级或完整断清净成招。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟聚神内静举刀是部分刀意准备，非气海升级或完整断清净成招。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟聚神内静举刀是部分刀意准备，非气海升级或完整断清净成招。"
+      },
+      {
+        "reference": "v01-c0042:p0041",
+        "length": 28,
+        "sha256": "fc46a819c0b69b1d9fac3197062036856ec2e87f11c6efb09274538b618804c9",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0041:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾微笑轻近是危险接近，未已经接触杀死孟。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾微笑轻近是危险接近，未已经接触杀死孟。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾微笑轻近是危险接近，未已经接触杀死孟。"
+      },
+      {
+        "reference": "v01-c0042:p0042",
+        "length": 46,
+        "sha256": "aafc4060028d5ae5ac68ef601d0a943a08c03fd6a93c2cb1b142add77287d2f7",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0042:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "声音消失清净由顾感知内视角给，不周围人物被全部抹除。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "声音消失清净由顾感知内视角给，不周围人物被全部抹除。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "声音消失清净由顾感知内视角给，不周围人物被全部抹除。"
+      },
+      {
+        "reference": "v01-c0042:p0043",
+        "length": 29,
+        "sha256": "7908634c72f7d789961062e6f8d8e50d2428d822b17a8cfb510e836ae20e23e1",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0043:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾笑僵看到刀扬光闪虚幻裂声，是刀意对她影响不真刀斩裂世界。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾笑僵看到刀扬光闪虚幻裂声，是刀意对她影响不真刀斩裂世界。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾笑僵看到刀扬光闪虚幻裂声，是刀意对她影响不真刀斩裂世界。"
+      },
+      {
+        "reference": "v01-c0042:p0044",
+        "length": 60,
+        "sha256": "e0c617a01f8e58884cb3d41d5373c15e139e9463867ef0c2b85bec3c6f55c30d",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0044:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "娘亲稚声只在顾耳感知及记忆牵动，不添现场儿童或确认孩子身份、真实往事细节。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "Gu_perceived_child_calls_not_present_child_actor",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "delivery": "subjective_tender_child_mother_calls_with_memory",
+            "embodiment": "Gu_internal_perception_no_confirmed_child_body_or_identity",
+            "knowledge_boundary": "娘亲稚声只在顾耳感知及记忆牵动，不添现场儿童或确认孩子身份、真实往事细节。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "娘亲稚声只在顾耳感知及记忆牵动，不添现场儿童或确认孩子身份、真实往事细节。"
+      },
+      {
+        "reference": "v01-c0042:p0045",
+        "length": 21,
+        "sha256": "6a9c7ed50dd3d3ea5a507246f58fd101b340f4dc34670289f2ead031b93f5546",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0045:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾实退摆脱刀意，这次确争时，不代表完整刀法击伤她。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾实退摆脱刀意，这次确争时，不代表完整刀法击伤她。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实退摆脱刀意，这次确争时，不代表完整刀法击伤她。"
+      },
+      {
+        "reference": "v01-c0042:p0046",
+        "length": 17,
+        "sha256": "685ecbd0f86ee3c5a64bcb05866a62cc5ca7cbf4a7910f0fddb4d8f14d7f326c",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0046:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "GuXiaosang_near_XiaoZi_face_claims_distinct_cause_not_revealed",
+            "text_context": "顾私惊孟何时会高明刀，不她公开向众问或孟旧功所有信息已泄。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "editorial_Gu_private_surprise",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "absorbs_bloodlight_torments_party_partial_knifeintent_retreat_weakchildvoice_perceived_only_then_final_sleeve_kills_Duo",
+            "delivery": "clear_belllike_airy_chant_smiling_difficult_choice_casual_cruelty_then_startle_and_clever_smile",
+            "knowledge_boundary": "顾私惊孟何时会高明刀，不她公开向众问或孟旧功所有信息已泄。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾私惊孟何时会高明刀，不她公开向众问或孟旧功所有信息已泄。"
+      },
+      {
+        "reference": "v01-c0042:p0047",
+        "length": 36,
+        "sha256": "ec411b710799f135001153e943193296a6919f0e0d1256f5f29d53fb5c9f2cf6",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0047:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟耗尽腿软仍扑机，非全力充沛二次连续神招。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟耗尽腿软仍扑机，非全力充沛二次连续神招。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟耗尽腿软仍扑机，非全力充沛二次连续神招。"
+      },
+      {
+        "reference": "v01-c0042:p0048",
+        "length": 29,
+        "sha256": "409304f1a0ac1f32b01b102476cfbadf80946761fabd20c6ccc69b1904185abc",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0048:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟赶对方回神前掷刀合口实际，戒刀不是仍留手中。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟赶对方回神前掷刀合口实际，戒刀不是仍留手中。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟赶对方回神前掷刀合口实际，戒刀不是仍留手中。"
+      },
+      {
+        "reference": "v01-c0042:p0049",
+        "length": 47,
+        "sha256": "55eabc96264f6bc32141826f751805ac7b627c1b790f0f5c88526d3b2814bfa6",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0049:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "刀击外凸起、孟内拳毁机实际，54仍担外机未彻底毁，不能写绝对永久无入口。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "刀击外凸起、孟内拳毁机实际，54仍担外机未彻底毁，不能写绝对永久无入口。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0049:u002",
+            "start": 2,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "刀击外凸起、孟内拳毁机实际，54仍担外机未彻底毁，不能写绝对永久无入口。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "刀击外凸起、孟内拳毁机实际，54仍担外机未彻底毁，不能写绝对永久无入口。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "刀击外凸起、孟内拳毁机实际，54仍担外机未彻底毁，不能写绝对永久无入口。"
+      },
+      {
+        "reference": "v01-c0042:p0050",
+        "length": 15,
+        "sha256": "df4a75446399cb0b6b0fef8ae19d5ab66d90aed2dd7a3147bf3b015a1e00b8b7",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0050:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_same_recoil_wounded_not_betrayer",
+            "text_context": "齐实际愕问毁机做什么，不反对同伴信任崩溃。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "actual_Qi_doorquestion",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "insulted_not_turned_traitor_holds_sword_guards_closedgate",
+            "delivery": "hurt_pride_private_then_short_question_and_practical_worry",
+            "knowledge_boundary": "齐实际愕问毁机做什么，不反对同伴信任崩溃。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0050:u002",
+            "start": 7,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐实际愕问毁机做什么，不反对同伴信任崩溃。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "齐实际愕问毁机做什么，不反对同伴信任崩溃。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际愕问毁机做什么，不反对同伴信任崩溃。"
+      },
+      {
+        "reference": "v01-c0042:p0051",
+        "length": 40,
+        "sha256": "f43a92fa64ea02f8758b157ed48e9813cc60f1bdeb5e35f87c53cd30484336c1",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0051:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "孟实际出不去也不让顾进是计划信念，身软靠壁仍耗竭，非全部机关永久验证。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "actual_M_surprise_plan_or_identity_question",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "孟实际出不去也不让顾进是计划信念，身软靠壁仍耗竭，非全部机关永久验证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0051:u002",
+            "start": 20,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际出不去也不让顾进是计划信念，身软靠壁仍耗竭，非全部机关永久验证。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟实际出不去也不让顾进是计划信念，身软靠壁仍耗竭，非全部机关永久验证。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际出不去也不让顾进是计划信念，身软靠壁仍耗竭，非全部机关永久验证。"
+      },
+      {
+        "reference": "v01-c0042:p0052",
+        "length": 37,
+        "sha256": "96fb1641a93273bfcf762acada6a300ba7759d2067e9245a730478d578fbcb27",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0052:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际待朵死可回归认可困此为策略，不现在已任务结算。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "江实际待朵死可回归认可困此为策略，不现在已任务结算。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0052:u002",
+            "start": 8,
+            "end": 37,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_still_injured_fourapertures_not_healed",
+            "text_context": "江实际待朵死可回归认可困此为策略，不现在已任务结算。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "actual_Jiang_calm_deterrence_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "calm_sword_threat_no_new_attack_silent_mouth_challenge_then_proud_rank_lore",
+            "delivery": "unruffled_trial_deterrence_then_knowing_smile_and_teacher_pride",
+            "knowledge_boundary": "江实际待朵死可回归认可困此为策略，不现在已任务结算。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际待朵死可回归认可困此为策略，不现在已任务结算。"
+      },
+      {
+        "reference": "v01-c0042:p0053",
+        "length": 20,
+        "sha256": "63f334c28bc281eb8a7caef34b29bbc94541c926d2b0854458951d8121cd8539",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0053:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际微笑认可，伤还在不忽起身战斗。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际微笑认可，伤还在不忽起身战斗。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0053:u002",
+            "start": 9,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际微笑认可，伤还在不忽起身战斗。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "张实际微笑认可，伤还在不忽起身战斗。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际微笑认可，伤还在不忽起身战斗。"
+      },
+      {
+        "reference": "v01-c0042:p0054",
+        "length": 31,
+        "sha256": "716e3fa7962051268fd06772833f0fc924fbad979785314d37d36555c17a9274",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0054:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐持剑守口忧外机不彻底毁是合理戒备，未证顾正在穿墙或机关真复完。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "齐持剑守口忧外机不彻底毁是合理戒备，未证顾正在穿墙或机关真复完。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐持剑守口忧外机不彻底毁是合理戒备，未证顾正在穿墙或机关真复完。"
+      },
+      {
+        "reference": "v01-c0042:p0055",
+        "length": 31,
+        "sha256": "972fd098e40c49c14e8a1d3f4fe84be76c4db3b9c790d00d57465f566961f177",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0055:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际认部分断清净刀意，非恭喜全式补完。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "江实际认部分断清净刀意，非恭喜全式补完。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0055:u002",
+            "start": 11,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_still_injured_fourapertures_not_healed",
+            "text_context": "江实际认部分断清净刀意，非恭喜全式补完。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "actual_Jiang_calm_deterrence_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "calm_sword_threat_no_new_attack_silent_mouth_challenge_then_proud_rank_lore",
+            "delivery": "unruffled_trial_deterrence_then_knowing_smile_and_teacher_pride",
+            "knowledge_boundary": "江实际认部分断清净刀意，非恭喜全式补完。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际认部分断清净刀意，非恭喜全式补完。"
+      },
+      {
+        "reference": "v01-c0042:p0056",
+        "length": 39,
+        "sha256": "9e63edab33afc67619e3eaa0b29bb41f75cd5cf724a78111ea38ab649bbf96b1",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0056:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明只虚张声势部分刀意吓退顾得闭门时间，不完整刀招造成斩伤。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "源明只虚张声势部分刀意吓退顾得闭门时间，不完整刀招造成斩伤。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明只虚张声势部分刀意吓退顾得闭门时间，不完整刀招造成斩伤。"
+      },
+      {
+        "reference": "v01-c0042:p0057",
+        "length": 47,
+        "sha256": "415f2cc502306e6db766083c7207ec439eb79cfff9f822a6abc177aadb22a788",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0057:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "孟实际前段完整准备心法可勃刀意，略复体力，不铁布衫复功或余式补齐。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "actual_M_surprise_plan_or_identity_question",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "孟实际前段完整准备心法可勃刀意，略复体力，不铁布衫复功或余式补齐。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0057:u002",
+            "start": 36,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际前段完整准备心法可勃刀意，略复体力，不铁布衫复功或余式补齐。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟实际前段完整准备心法可勃刀意，略复体力，不铁布衫复功或余式补齐。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际前段完整准备心法可勃刀意，略复体力，不铁布衫复功或余式补齐。"
+      },
+      {
+        "reference": "v01-c0042:p0058",
+        "length": 91,
+        "sha256": "aaba0b893352fdb9e2b5c3564ecd2b7e76d00554374c9dc6a67da66da64d40e5",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0058:u001",
+            "start": 0,
+            "end": 91,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐不懂此层、张两真意入门未悟改按前辈复写本是源补明，不等天赋永久无望。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "齐不懂此层、张两真意入门未悟改按前辈复写本是源补明，不等天赋永久无望。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐不懂此层、张两真意入门未悟改按前辈复写本是源补明，不等天赋永久无望。"
+      },
+      {
+        "reference": "v01-c0042:p0059",
+        "length": 38,
+        "sha256": "afa31a3adab8e5062dbdf24e8adbb85b55db716496ba5a76d68b74ee49fa8a41",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0059:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江趁他人不察仅口型，锚61无声意会不可公开喊。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "江趁他人不察仅口型，锚61无声意会不可公开喊。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江趁他人不察仅口型，锚61无声意会不可公开喊。"
+      },
+      {
+        "reference": "v01-c0042:p0060",
+        "length": 22,
+        "sha256": "d5e9d9ab9073a9112a83eecb5a05ae5b857c354833a8e0f47a57457eb008a92c",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0060:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟联手经验理解口型，不超能力读心或他人也听到。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟联手经验理解口型，不超能力读心或他人也听到。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟联手经验理解口型，不超能力读心或他人也听到。"
+      },
+      {
+        "reference": "v01-c0042:p0061",
+        "length": 5,
+        "sha256": "899fdc9dee9069151e359933eb26debbdadd0cee153665e87ba445f77e2dbae3",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0061:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "切磋仅孟理解江无声口型，kind narration不spoken，不当她当场高喊约战。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_partial_intent_forces_Gu_back_break_mechanisms",
+            "channel": "silent_Jiang_lips_Meng_understands_not_spoken",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "delivery": "silent_lipshape_not_public_shout",
+            "embodiment": "Jiang_mouthshape_interpreted_by_Meng",
+            "knowledge_boundary": "切磋仅孟理解江无声口型，kind narration不spoken，不当她当场高喊约战。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "切磋仅孟理解江无声口型，kind narration不spoken，不当她当场高喊约战。"
+      },
+      {
+        "reference": "v01-c0042:p0062",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0062:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "洞内切门外省略，无说者新口。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_external_Gu_finalkill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "洞内切门外省略，无说者新口。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "洞内切门外省略，无说者新口。"
+      },
+      {
+        "reference": "v01-c0042:p0063",
+        "length": 29,
+        "sha256": "10683571b7636fef625c15c01e93dd9958cc79b3b322e0be66e714083f6abf9b",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0063:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾看闭口后慧黠笑，不解释她是否故意放人或从头全知。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_external_Gu_finalkill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾看闭口后慧黠笑，不解释她是否故意放人或从头全知。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾看闭口后慧黠笑，不解释她是否故意放人或从头全知。"
+      },
+      {
+        "reference": "v01-c0042:p0064",
+        "length": 37,
+        "sha256": "97f88151e5825a66b55fb5c2f4879094a4a43c1268442b2c7a5c95f7e676d299",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0064:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顾经过朵挥袖使永闭眼此时最终杀死，与12延死阶段分，不先在指中判已死。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_external_Gu_finalkill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "顾经过朵挥袖使永闭眼此时最终杀死，与12延死阶段分，不先在指中判已死。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾经过朵挥袖使永闭眼此时最终杀死，与12延死阶段分，不先在指中判已死。"
+      },
+      {
+        "reference": "v01-c0042:p0065",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0065:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "门外切洞内省略，孟未亲见顾挥袖。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_external_Gu_finalkill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "门外切洞内省略，孟未亲见顾挥袖。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "门外切洞内省略，孟未亲见顾挥袖。"
+      },
+      {
+        "reference": "v01-c0042:p0066",
+        "length": 35,
+        "sha256": "2befdf6ea2002aec4756a68e2b4fa17e1c9a12ecf51e16cf04d3a9ec1b199ea0",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0066:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "孟实际问顾身份，先前只闻名与脸不等背景全知。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_M_surprise_plan_or_identity_question",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "孟实际问顾身份，先前只闻名与脸不等背景全知。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0066:u002",
+            "start": 10,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际问顾身份，先前只闻名与脸不等背景全知。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟实际问顾身份，先前只闻名与脸不等背景全知。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际问顾身份，先前只闻名与脸不等背景全知。"
+      },
+      {
+        "reference": "v01-c0042:p0067",
+        "length": 19,
+        "sha256": "aa43131a975e155893b59fa202191da65118e3f333a7f9aa49350289c65c5a19",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0067:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际问知邪魔九道，不真九派全人齐现。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "张实际问知邪魔九道，不真九派全人齐现。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0067:u002",
+            "start": 8,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际问知邪魔九道，不真九派全人齐现。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际问知邪魔九道，不真九派全人齐现。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际问知邪魔九道，不真九派全人齐现。"
+      },
+      {
+        "reference": "v01-c0042:p0068",
+        "length": 13,
+        "sha256": "5b0cfedae8332748b1a033a67a256d994c11e044da149cc13fd0a56a824e46b2",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0068:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "孟实际知道与玄心旧说N，玄心不现场发话。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_M_surprise_plan_or_identity_question",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "孟实际知道与玄心旧说N，玄心不现场发话。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0068:u002",
+            "start": 5,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际知道与玄心旧说N，玄心不现场发话。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟实际知道与玄心旧说N，玄心不现场发话。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际知道与玄心旧说N，玄心不现场发话。"
+      },
+      {
+        "reference": "v01-c0042:p0069",
+        "length": 94,
+        "sha256": "9490f50ac22f4d67b080c06a44189e7c5cc55c6dc371b09ed9219ccb467d053e",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0069:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际介绍罗教圣女信仰，转世为罗教放风未认证真相，老母神话非实体到场。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "张实际介绍罗教圣女信仰，转世为罗教放风未认证真相，老母神话非实体到场。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0069:u002",
+            "start": 8,
+            "end": 94,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际介绍罗教圣女信仰，转世为罗教放风未认证真相，老母神话非实体到场。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际介绍罗教圣女信仰，转世为罗教放风未认证真相，老母神话非实体到场。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际介绍罗教圣女信仰，转世为罗教放风未认证真相，老母神话非实体到场。"
+      },
+      {
+        "reference": "v01-c0042:p0070",
+        "length": 52,
+        "sha256": "ffbcc17ff7224d78a90c0358ebaf83f95ec1562ee44e691b5add0d165295f8ce",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0070:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_still_injured_fourapertures_not_healed",
+            "text_context": "江实际报告顾出手三次越阶八窍人榜四，历史当期情报不写全书永久榜位。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_Jiang_calm_deterrence_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "calm_sword_threat_no_new_attack_silent_mouth_challenge_then_proud_rank_lore",
+            "delivery": "unruffled_trial_deterrence_then_knowing_smile_and_teacher_pride",
+            "knowledge_boundary": "江实际报告顾出手三次越阶八窍人榜四，历史当期情报不写全书永久榜位。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0070:u002",
+            "start": 43,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际报告顾出手三次越阶八窍人榜四，历史当期情报不写全书永久榜位。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "江实际报告顾出手三次越阶八窍人榜四，历史当期情报不写全书永久榜位。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际报告顾出手三次越阶八窍人榜四，历史当期情报不写全书永久榜位。"
+      },
+      {
+        "reference": "v01-c0042:p0071",
+        "length": 33,
+        "sha256": "f396c68f32eac758d002a0c5c8ebdb69640f022bba72320cd168feed248ec7ba",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0071:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "孟实际问人地天榜，知识缺口非装不懂已有全知。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_M_surprise_plan_or_identity_question",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "孟实际问人地天榜，知识缺口非装不懂已有全知。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0071:u002",
+            "start": 7,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_Ironcloth_broken_childmonk_partial_intent_not_complete_move",
+            "text_context": "孟实际问人地天榜，知识缺口非装不懂已有全知。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_M_surprise_plan_or_identity_question",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "uses_partial_intent_exhausts_self_throws_blade_fist_breaks_inner_mechanism_sits_weak",
+            "delivery": "confused_delay_then_focus_to_urgent_dooraction_and_knowledge_questions",
+            "knowledge_boundary": "孟实际问人地天榜，知识缺口非装不懂已有全知。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0071:u003",
+            "start": 18,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际问人地天榜，知识缺口非装不懂已有全知。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "孟实际问人地天榜，知识缺口非装不懂已有全知。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际问人地天榜，知识缺口非装不懂已有全知。"
+      },
+      {
+        "reference": "v01-c0042:p0072",
+        "length": 68,
+        "sha256": "538550d0c86795dc444184f723c765e72dad2a10858b6e196f877f6db975e3a0",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0072:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际榜由大晋皇室六扇总部及挑竞争目的之说，是当期认知介绍不新皇室演员。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "张实际榜由大晋皇室六扇总部及挑竞争目的之说，是当期认知介绍不新皇室演员。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0072:u002",
+            "start": 7,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际榜由大晋皇室六扇总部及挑竞争目的之说，是当期认知介绍不新皇室演员。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际榜由大晋皇室六扇总部及挑竞争目的之说，是当期认知介绍不新皇室演员。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际榜由大晋皇室六扇总部及挑竞争目的之说，是当期认知介绍不新皇室演员。"
+      },
+      {
+        "reference": "v01-c0042:p0073",
+        "length": 91,
+        "sha256": "6bd1ddfe163c2e184f69ff99264f67a5be86a3e5a79a3864a00cc42842fed0af",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0073:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际名欲与榜作用说明，泛论非作者绝对所有人皆好名、不是已经全江湖互杀。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际名欲与榜作用说明，泛论非作者绝对所有人皆好名、不是已经全江湖互杀。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0073:u002",
+            "start": 71,
+            "end": 91,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际名欲与榜作用说明，泛论非作者绝对所有人皆好名、不是已经全江湖互杀。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际名欲与榜作用说明，泛论非作者绝对所有人皆好名、不是已经全江湖互杀。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际名欲与榜作用说明，泛论非作者绝对所有人皆好名、不是已经全江湖互杀。"
+      },
+      {
+        "reference": "v01-c0042:p0074",
+        "length": 122,
+        "sha256": "92640d608911e9b8cfddae0fb056a1974133e220dce62c5a93d654fc8376b420",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0074:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际天榜法身当前10主界方丈第三、地榜200多七重以上师父第一，当期榜况；方丈非已舍身心寂，不已把主角带回主界。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "江实际天榜法身当前10主界方丈第三、地榜200多七重以上师父第一，当期榜况；方丈非已舍身心寂，不已把主角带回主界。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0074:u002",
+            "start": 7,
+            "end": 122,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_still_injured_fourapertures_not_healed",
+            "text_context": "江实际天榜法身当前10主界方丈第三、地榜200多七重以上师父第一，当期榜况；方丈非已舍身心寂，不已把主角带回主界。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_Jiang_calm_deterrence_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "calm_sword_threat_no_new_attack_silent_mouth_challenge_then_proud_rank_lore",
+            "delivery": "unruffled_trial_deterrence_then_knowing_smile_and_teacher_pride",
+            "knowledge_boundary": "江实际天榜法身当前10主界方丈第三、地榜200多七重以上师父第一，当期榜况；方丈非已舍身心寂，不已把主角带回主界。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际天榜法身当前10主界方丈第三、地榜200多七重以上师父第一，当期榜况；方丈非已舍身心寂，不已把主角带回主界。"
+      },
+      {
+        "reference": "v01-c0042:p0075",
+        "length": 12,
+        "sha256": "71cc4659ee2799572427f540d7ee10ec82cd9b04a332dc3b1da0d0c4dd8c819b",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0075:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江提师父自豪实际，不师父真人现声。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "江提师父自豪实际，不师父真人现声。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江提师父自豪实际，不师父真人现声。"
+      },
+      {
+        "reference": "v01-c0042:p0076",
+        "length": 66,
+        "sha256": "b17c461d2e27f2c8a1b3eaddf3f761b88d31327a5b8b921f281c65b39321cbc4",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0076:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际人榜年轻50九窍未必靠前，不正式把榜等同纯境界排行。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际人榜年轻50九窍未必靠前，不正式把榜等同纯境界排行。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0076:u002",
+            "start": 45,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "ZhangYuanshan_still_injured_no_false_trueintent_mastery",
+            "text_context": "张实际人榜年轻50九窍未必靠前，不正式把榜等同纯境界排行。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "actual_Zhang_stable_delay_or_lore",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "embodiment": "verbal_delay_later_reports_sect_rank_lore_no_new_combat",
+            "delivery": "steady_polite_rebuttal_warm_selfacceptance_then_grave_Religion_lore",
+            "knowledge_boundary": "张实际人榜年轻50九窍未必靠前，不正式把榜等同纯境界排行。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0042:p0076:u003",
+            "start": 59,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际人榜年轻50九窍未必靠前，不正式把榜等同纯境界排行。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "knowledge_boundary": "张实际人榜年轻50九窍未必靠前，不正式把榜等同纯境界排行。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际人榜年轻50九窍未必靠前，不正式把榜等同纯境界排行。"
+      },
+      {
+        "reference": "v01-c0042:p0077",
+        "length": 29,
+        "sha256": "25a9c16bb6516b2061d0c43c9428c9fda5e25c65b9ea47a04440784cc20e05f7",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0077:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟想问江人榜尚未开口就灰字现，不补他实际完整问题。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "silent_visible_greywall_tasktext_not_voice",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "delivery": "visible_wallglyphs_no_Six_voice",
+            "embodiment": "wall_text_not_actor_body",
+            "knowledge_boundary": "孟想问江人榜尚未开口就灰字现，不补他实际完整问题。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟想问江人榜尚未开口就灰字现，不补他实际完整问题。"
+      },
+      {
+        "reference": "v01-c0042:p0078",
+        "length": 49,
+        "sha256": "d270cb472dbb50e6f3bcdff7325adb14793526ee068dcd590c8013e1396fd2da",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0078:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "墙灰字无声：朵死支二顾200江100张50，未给孟齐此支功也不死人王领奖。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "silent_visible_greywall_tasktext_not_voice",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "delivery": "visible_wallglyphs_no_Six_voice",
+            "embodiment": "wall_text_not_actor_body",
+            "knowledge_boundary": "墙灰字无声：朵死支二顾200江100张50，未给孟齐此支功也不死人王领奖。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "墙灰字无声：朵死支二顾200江100张50，未给孟齐此支功也不死人王领奖。"
+      },
+      {
+        "reference": "v01-c0042:p0079",
+        "length": 31,
+        "sha256": "d81c802bc2d70b0120fe361e0b51090aebfbb6a700c0af8c5f98d85c710c448d",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0079:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "墙灰字无声：朵死少林陷主二提前成合格者各100，非全NPC或重复旧主一奖励。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "silent_visible_greywall_tasktext_not_voice",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "delivery": "visible_wallglyphs_no_Six_voice",
+            "embodiment": "wall_text_not_actor_body",
+            "knowledge_boundary": "墙灰字无声：朵死少林陷主二提前成合格者各100，非全NPC或重复旧主一奖励。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "墙灰字无声：朵死少林陷主二提前成合格者各100，非全NPC或重复旧主一奖励。"
+      },
+      {
+        "reference": "v01-c0042:p0080",
+        "length": 7,
+        "sha256": "2a79d527b83fbb05d39fcc84bb7226844e5ca12bd9b30fcc3758c9db43c0ebf7",
+        "units": [
+          {
+            "unit_id": "v01-c0042:p0080:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "即刻回归仍墙面无声文字，尚未此章详写回归治疗过程，不六道演员发声。",
+            "world_context": "EARLY_v01c42_Gu_finger_Duo_delayed_death_final_sleevekill_party_refuses_division_Gu_claims_item_newbie_and_Xiaozi_motive_unproved_Mpartial_intent_makes_Gu_perceive_childvoice_retreat_closedgate_silent_Jlipchallenge_Religion_rebirth_rumor_historical_ranks_silent_wall_success_return",
+            "stage_context": "S10_sect_ranks_lore_silent_wall_taskend",
+            "channel": "silent_visible_greywall_tasktext_not_voice",
+            "fact_status": "manual_actual_effects_words_and_final_rewardtext_vs_Gu_motive_claims_Luojiao_rebirth_rumor_subjective_childvoice_and_partial_intent_not_complete_skill",
+            "delivery": "visible_wallglyphs_no_Six_voice",
+            "embodiment": "wall_text_not_actor_body",
+            "knowledge_boundary": "即刻回归仍墙面无声文字，尚未此章详写回归治疗过程，不六道演员发声。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "即刻回归仍墙面无声文字，尚未此章详写回归治疗过程，不六道演员发声。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0042",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S10",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 13,
+        "label": "无生指的被引感知、喜乐低诵与延迟死亡",
+        "direction": "1承周围有声教诵，2/3朵内部知危险想避却被重空气引近；4主角只见似失魂迎指，不能把观感当敌真自愿皈依。5孟疑妖术选低惊可听性待录6/7顾本人庄严清脆空灵念句与1环境声分，8/9朵安宁喜笑低声跟随。10颈下胀缩干瘪、血光汇眉入二指11顾容光更好12朵喜乐渐弱软倒仍未最终死，14说明需等64才被挥袖终结。与林尸伤状相似仅作线索，不直补凶手。表演建议：朵抵抗到喜乐转变由感知与声音细弱呈现，顾不嘶吼；恐怖来自笑与衰败身体并置，别添死前惨叫。证据v01-c0042:p0001–p0013。"
+      },
+      {
+        "paragraph_start": 14,
+        "paragraph_end": 39,
+        "label": "挑杀挑拨、同伴稳住与杀孟理由说辞",
+        "direction": "14/15顾善功够杀一人与某物使她作新人是自述，数额和道具机制未揭；柳眉为难逼众选人16好色者献命仅反事实17全队没中挑拨。18侮辱齐无价值不作者评价19齐私不甘仍不叛，20顾讲张氏三柱欲伪手法内讧是未行计划21张稳反驳22/23顾快活认未兑真武法再讽同门强、真意未悟，24源明挑拨25/26张勤补拙也拖到敌死，不情绪崩溃。27顾似欲杀转28强迫姿态为N仅后传闻江剑神整句实语，29江淡然以剑威慑30顾疑是否又可剑出无我/天魔解体不能记江已兑换，31坦问32江只答试试重伤不变。33顾最想杀孟34孟啊35小紫似好感37毁她所爱均顾杀人说辞，不小紫恋情或双人机制确认。36孟拖延38变态私骂39顾合十佛号不真杀成。表演建议：顾为难快活坦问等表情自然切换，齐受辱忍住、张稳而温和、江淡而有压，孟嘴上周旋内声另分。证据v01-c0042:p0014–p0039。"
+      },
+      {
+        "paragraph_start": 40,
+        "paragraph_end": 61,
+        "label": "部分刀意真争时、毁机脱险与无声切磋",
+        "direction": "40孟深吸静神举刀41顾轻近42–44顾视角清净被破，耳畔娘亲稚声只其感知回忆，不插现场孩子或解释真实往事。45顾后退摆脱是部分刀意实际效果46她私疑，不完整刀法斩伤。47孟腿软耗尽仍扑机48掷戒刀关口49刀击外凸起内拳毁机，51出不去顾进不来是孟策略，54齐仍持剑担外机未彻毁留不确定，不写永久封死。50齐问52江等敌死可回53张认同；55/56江看破是虚势部分刀意57孟前段心法可发而略复体，未补后半、铁布衫仍破。58齐不明层次张两真意入门未悟按前辈复写本是源补明，非天赋永久定论。59江暗口型60孟懂61切磋无声，不公开喊。表演建议：刀意冲击用顾感官错位表现，孟关门动作急耗力，安全后仍虚弱；江的眼神和口型保亲近战友感，不盖过入口风险。证据v01-c0042:p0040–p0061。"
+      },
+      {
+        "paragraph_start": 63,
+        "paragraph_end": 64,
+        "label": "门外慧黠微笑与挥袖终结朵儿察",
+        "direction": "62转门外省略覆盖，顾怔后慧黠笑，不能解释是否全程故放众。64经过朵挥袖让其永闭眼，此刻才最终死亡；主角洞内未亲见，不提前配系统死亡声或让朵再喊。65转洞内省略覆盖。表演建议：动作短、态度轻，留顾危险与动机未明。证据v01-c0042:p0062–p0065。"
+      },
+      {
+        "paragraph_start": 66,
+        "paragraph_end": 80,
+        "label": "罗教身份传闻、当期榜单与无声结算",
+        "direction": "66孟问身份67张邪魔九道68孟知玄心旧闻无玄心当前嘴，69张报罗教圣女信仰与转世说明确罗教放风不认证真身。70江报三次越阶八窍人榜四为当期情报，71孟真知识空缺72/73张介绍大晋榜原六扇总部与争名目的；泛论人物口不全书绝对道德。74天榜当前十主界方丈第三非心寂，地榜二百多七重以上师父第一、75江自豪；76人榜年轻五十九窍未必前，不榜等境界。77孟想问江入榜未出口就灰字，78支二顾200江100张50不添孟齐或死人，79少林陷主二提前成合格者各100，80即刻回归全墙面无声；本章还没细写空间治疗不能将伤势提前恢复。表演建议：危险暂隔后的介绍保持张郑重清楚、江提师自豪，孟新手发问自然；结尾用可见字与反应，不凭引号加六道播音。证据v01-c0042:p0066–p0080。"
+      }
+    ],
+    "knowledge_rule": "无生指先延死64袖杀才终，灰字结算无声。顾关于道具/杀人善功/小紫动机为说法，转世仅罗教传闻。孟部分刀意真实争时不完整式，娘亲声顾感知、切磋仅口型，榜为历史当期，林凶手仍未证。"
+  }
 }
