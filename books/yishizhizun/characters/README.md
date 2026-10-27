@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [心寂舍身融光诵声与朵重残仍立](early-xinji-sacrifice-stupa-chant-duo-survives.md) | 第40章历史归属回补 |
+| [齐正言不同行的私下理由、张远山弱声调侃](early-qi-zhang-private-stay-not-test-greed.md) | 第40章历史归属回补 |
+| [阿难署名、断清净残式不能习练与禁门怖影](early-meng-ananda-remnant-inheritance-sealeddoor.md) | 第40章历史归属回补 |
 | [齐正言兑换与反噬说破、救护保命非痊愈](early-qi-exchange-dart-recoil-bonesetting-medicine.md) | 第39章历史归属回补 |
 | [王晋尸体明证与空针筒补针估计](early-empty-needletube-wang-corpse-reload-guesses.md) | 第39章历史归属回补 |
 | [孟背江齐背张避敌、崖壁机关此时实开](early-meng-carries-jiang-qi-carries-zhang-real-rockgate.md) | 第39章历史归属回补 |
