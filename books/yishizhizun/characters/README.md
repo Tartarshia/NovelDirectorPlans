@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [崔栩花园会面、尤同光与穆山的公开身份](early-Cui-You-Mu-garden-introductions-inquiry.md) | 第66章历史归属回补 |
+| [几招无刀意拆化的试刀效果与身法暴露风险](early-Meng-few-derived-nonintent-moves-trial-exposure-limit.md) | 第66章历史归属回补 |
+| [洛青七日约战与孟奇六日取佛信、两个未来期限](early-Luo-sevenday-duel-Meng-sixday-written-Buddha-notice.md) | 第66章历史归属回补 |
 | [曹兄与街谈中的申猴杀金、传闻不是真死因](early-Cao-public-monkeykiller-rumor-not-shadowtruth.md) | 第65章历史归属回补 |
 | [吴成南北通东家、资料试探与佛珠未成交](early-WuCheng-records-bead-probe-no-sale.md) | 第65章历史归属回补 |
 | [预演惊申猴与不杀张夫妇、身份风险和任务边界](early-Meng-rehearsed-ape-surprise-couple-nonmurder-taskrisk.md) | 第65章历史归属回补 |
