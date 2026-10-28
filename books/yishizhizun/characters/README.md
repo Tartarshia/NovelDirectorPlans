@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [疑崔与四图假说、原图抄本实体及监视预判边界](early-Meng-private-Cui-fourmaps-hypotheses-original-copy-boundary.md) | 第71章历史归属回补 |
+| [邬再遭击晕后确认死、祝明远带路而凶手未明](early-Wu-secondknockout-later-death-Zhu-escort-unknown-killer.md) | 第71章历史归属回补 |
+| [卯兔女兔面伪沙哑、封穴未封哑与人质未交](early-MaoTu-female-hoarse-rabbit-capture-no-mutehole-no-delivery.md) | 第71章历史归属回补 |
 | [五刀蒲团规则胜、受限视线与遥关门只是幻想](early-Meng-fiveblade-cushion-rule-limitedview-no-remotedoor.md) | 第70章历史归属回补 |
 | [真定声名的用途、四英助挡与孟奇爱装的自知](early-Zhending-reputation-four-helpers-showoff-not-newrank.md) | 第70章历史归属回补 |
 | [秋蝉接单通知、法号取信与首篇定金已付](early-Qiuchan-acceptance-publicname-misbelief-firstpart-deposit-future.md) | 第70章历史归属回补 |
