@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [寒噪第三关实成、火鹄短答与塞耳诱近未成](early-coldnoise-third-completion-huhu-voice-and-failed-bait.md) | 第51章历史归属回补 |
+| [师父学阿难、慧丹田新开与师徒亲情观](early-teacher-ananda-practice-hui-dantian-and-familyview.md) | 第51章历史归属回补 |
+| [第四冷热心障与刀意内悟、实显大成之像待核圆满](early-fourth-icefire-mindpressure-intent-greatattainment-sign.md) | 第51章历史归属回补 |
 | [首日五时辰热练、沙哑护持与补养后夜刀](early-meng-firstday-heatendurance-teacher-care-and-evening-blade.md) | 第50章历史归属回补 |
 | [13日第一、29日第二丹田完与持牌第三开练](early-jinzhong-day13-first-day29-second-token-third-inprogress.md) | 第50章历史归属回补 |
 | [垂翼子初声、自称族谱与看准周天的机警](early-chuiyizi-firstvoice-claims-chatter-and-alert-retreat.md) | 第50章历史归属回补 |
