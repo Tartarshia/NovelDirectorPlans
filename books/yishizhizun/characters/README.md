@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [蒙面般若掌意、断清净实战与效能非境界](early-masked-prajna-palm-Duanqingjing-mutualwounds-not-Meng-rank.md) | 第56章历史归属回补 |
+| [无得与未名执事、搜身查路及未核经册](early-Wude-unnamed-deacon-bodysearch-route-no-recovered-book.md) | 第56章历史归属回补 |
+| [真常自尽遗书仅报告、师父沉静与孟疑问](early-Zhenchang-suicide-letter-report-teacher-silence-Meng-doubt.md) | 第56章历史归属回补 |
 | [真永隐书疑兵突袭、被擒后的暗伤供述](early-zhenyong-secretbooks-feint-capture-injuryclaim.md) | 第55章历史归属回补 |
 | [真慧专注与实战失衡、掉包点穴和公开喊人](early-zhenhui-rat-nearfall-packetloss-seals-publicshout.md) | 第55章历史归属回补 |
 | [孟真实贪欲与松懈代价、未名掌击尚无死讯](early-meng-yijin-greed-relief-shadow-strike-not-deathconfirmed.md) | 第55章历史归属回补 |
