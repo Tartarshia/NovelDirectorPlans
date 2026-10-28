@@ -10,6 +10,7 @@
 
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
 - [第八卷成长与导演综合](books/yishizhizun/characters/v08-growth-summary.md)、[卷末复核](books/yishizhizun/reviews/volume-v08-review.md)、[50条阶段索引](books/yishizhizun/reviews/volume-v08-stage-index.json)：正文49章+作者感言闭合，番外12条与早缺全书终审仍待。
+- [早期归属回补：第62章](books/yishizhizun/reviews/review-backfill-v01-0062.md)：新全文复读69段118单元；归属已852章、待558，可用复读回执待0。
 - [早期归属回补：第61章](books/yishizhizun/reviews/review-backfill-v01-0061.md)：新全文复读64段103单元；归属已851章、待559，可用复读回执待0。
 - [早期归属回补：第60章](books/yishizhizun/reviews/review-backfill-v01-0060.md)：新全文复读77段145单元；归属已850章、待560，可用复读回执待0。
 - [早期归属回补：第59章](books/yishizhizun/reviews/review-backfill-v01-0059.md)：新全文复读61段108单元；归属已849章、待561，可用复读回执待0。
