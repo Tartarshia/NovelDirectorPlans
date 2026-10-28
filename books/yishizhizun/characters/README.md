@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [尤同光私人灭口揭示、混真诈供与地牢情报边界](early-You-private-correspondent-murder-not-Meng-heard-confession.md) | 第73章历史归属回补 |
+| [半日前谈判、实交抄图及董府井藏佛约定](early-halfday-flashback-map-copy-You-theft-Donggarden-well-plan.md) | 第73章历史归属回补 |
+| [实际请帖与白袍出尘、少年好面子仍在](early-Meng-actual-invitation-white-robe-four-follow-not-arrived.md) | 第73章历史归属回补 |
 | [孟卯点穴对攻、膻中罩门与无效封穴的后揭](early-Meng-Mao-acupoint-goldbell-tanzhong-no-interrogation.md) | 第72章历史归属回补 |
 | [洛青剑压与刀意、七八相神围攻而结局未给](early-Luo-sword-sense-bladeintent-not-fullstrike-Zishu-ambush.md) | 第72章历史归属回补 |
 | [翌夜围观、二十人守佛失窃及现场未名念信者](early-Youhall-twenty-guards-statue-missing-note-reader-unknown.md) | 第72章历史归属回补 |
