@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟卯点穴对攻、膻中罩门与无效封穴的后揭](early-Meng-Mao-acupoint-goldbell-tanzhong-no-interrogation.md) | 第72章历史归属回补 |
+| [洛青剑压与刀意、七八相神围攻而结局未给](early-Luo-sword-sense-bladeintent-not-fullstrike-Zishu-ambush.md) | 第72章历史归属回补 |
+| [翌夜围观、二十人守佛失窃及现场未名念信者](early-Youhall-twenty-guards-statue-missing-note-reader-unknown.md) | 第72章历史归属回补 |
 | [疑崔与四图假说、原图抄本实体及监视预判边界](early-Meng-private-Cui-fourmaps-hypotheses-original-copy-boundary.md) | 第71章历史归属回补 |
 | [邬再遭击晕后确认死、祝明远带路而凶手未明](early-Wu-secondknockout-later-death-Zhu-escort-unknown-killer.md) | 第71章历史归属回补 |
 | [卯兔女兔面伪沙哑、封穴未封哑与人质未交](early-MaoTu-female-hoarse-rabbit-capture-no-mutehole-no-delivery.md) | 第71章历史归属回补 |
