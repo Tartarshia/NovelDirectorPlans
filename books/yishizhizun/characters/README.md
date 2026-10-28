@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [寒使老迈声、未全本感应与误信申猴杀金](early-HanEnvoy-oldvoice-detection-partialart-and-fear.md) | 第67章历史归属回补 |
+| [虚影的替代机制、四图与尊段同失供词](early-Han-alternative-spiritcache-fourmaps-jointmissing-unverified.md) | 第67章历史归属回补 |
+| [非核心第一篇到手未修、返院仅寒使明确死亡](early-Han-firstpart-obtained-no-practice-death-only-confirmed.md) | 第67章历史归属回补 |
 | [崔栩花园会面、尤同光与穆山的公开身份](early-Cui-You-Mu-garden-introductions-inquiry.md) | 第66章历史归属回补 |
 | [几招无刀意拆化的试刀效果与身法暴露风险](early-Meng-few-derived-nonintent-moves-trial-exposure-limit.md) | 第66章历史归属回补 |
 | [洛青七日约战与孟奇六日取佛信、两个未来期限](early-Luo-sevenday-duel-Meng-sixday-written-Buddha-notice.md) | 第66章历史归属回补 |
