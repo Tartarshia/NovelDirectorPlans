@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [崔切磋不敌与伯仲谎、孟第一式阶段成长](early-CuiJinxiu-spar-falseparity-Meng-firstintent-growth.md) | 第60章历史归属回补 |
+| [何伯今有称呼、内外天地才轻变与微语](early-Hebo-title-innerouterworld-murmur-no-rank.md) | 第60章历史归属回补 |
+| [真实朵儿察经历的包装、引图与未名男子](early-true-Duoercha-wrapping-map-guidance-unnamed-foreheadman.md) | 第60章历史归属回补 |
 | [段右五指缺可见、旧敌与两秘藏仅自述](early-Duan-rightfivefingers-oldfoe-hypothesis-twocaches.md) | 第59章历史归属回补 |
 | [假从容真焦虑的成交、资料包不是报酬](early-Meng-commission-accepted-promises-not-delivered-packet.md) | 第59章历史归属回补 |
 | [死申猴沉江与假逃讯、崔锦绣邀战老人未名](early-Shenhou-sunk-falseescape-CuiJinxiu-invites-elder-unnamed.md) | 第59章历史归属回补 |
