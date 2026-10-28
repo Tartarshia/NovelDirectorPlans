@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [首日五时辰热练、沙哑护持与补养后夜刀](early-meng-firstday-heatendurance-teacher-care-and-evening-blade.md) | 第50章历史归属回补 |
+| [13日第一、29日第二丹田完与持牌第三开练](early-jinzhong-day13-first-day29-second-token-third-inprogress.md) | 第50章历史归属回补 |
+| [垂翼子初声、自称族谱与看准周天的机警](early-chuiyizi-firstvoice-claims-chatter-and-alert-retreat.md) | 第50章历史归属回补 |
 | [慧从抄本推先有收徒意、饭菜玩笑与兄弟体谅](early-hui-precopied-manual-inference-foodtease-and-brothercare.md) | 第49章历史归属回补 |
 | [真永泛酸礼貌送别、真常过巷转述不等强江](early-zhenyong-sour-farewell-zhenchang-pass-report-not-superiority.md) | 第49章历史归属回补 |
 | [丹田重凝进行中、未识佛号与火鹄牢外第一关练始](early-jinzhong-recondensing-inprogress-tower-huhu-celloutside.md) | 第49章历史归属回补 |

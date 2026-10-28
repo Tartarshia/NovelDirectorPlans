@@ -51,7 +51,2518 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0004"
+  "reading_batch": "batch-0004",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0050",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0050.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0050:p0001",
+        "length": 74,
+        "sha256": "0ffe119927aea3520c0e762e32db30eedbfdc348ad5b479600d43b66ccb25f27",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0001:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "火鹄牢外高温散气非真火焚身，汗热真实不是身体燃尽。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "火鹄牢外高温散气非真火焚身，汗热真实不是身体燃尽。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "火鹄牢外高温散气非真火焚身，汗热真实不是身体燃尽。"
+      },
+      {
+        "reference": "v01-c0050:p0002",
+        "length": 70,
+        "sha256": "84d77c55312c4593ee0ef65587e91a83b5ee38f3facbbf4e4024e21fccbed51a",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0002:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟靠铁布底勉维第一关，烫伤失水为无底反事实风险，不已经全皮烧毁。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟靠铁布底勉维第一关，烫伤失水为无底反事实风险，不已经全皮烧毁。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟靠铁布底勉维第一关，烫伤失水为无底反事实风险，不已经全皮烧毁。"
+      },
+      {
+        "reference": "v01-c0050:p0003",
+        "length": 14,
+        "sha256": "28cb4282e582b83039236c634f4c8b87d5580bb7484b1bcbff5ee51dfefd57bd",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0003:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "桑拿对比孟私想，未告师父现代洗浴知识。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "桑拿对比孟私想，未告师父现代洗浴知识。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "桑拿对比孟私想，未告师父现代洗浴知识。"
+      },
+      {
+        "reference": "v01-c0050:p0004",
+        "length": 53,
+        "sha256": "54e9dae098f5baae648fec309d4ed178f013d83cd403edde119904d415cd656a",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0004:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "肌肉似溶解重组为感受比喻，不断肉重生新躯或新功已完成。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "肌肉似溶解重组为感受比喻，不断肉重生新躯或新功已完成。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "肌肉似溶解重组为感受比喻，不断肉重生新躯或新功已完成。"
+      },
+      {
+        "reference": "v01-c0050:p0005",
+        "length": 12,
+        "sha256": "890eed398e19150cd1171d0a81a8eb8d7ba4aaab647f82ad389aa798645dd6f8",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0005:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "丹田重新开始凝练此时进行，45第二十九日才明确完成。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "丹田重新开始凝练此时进行，45第二十九日才明确完成。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "丹田重新开始凝练此时进行，45第二十九日才明确完成。"
+      },
+      {
+        "reference": "v01-c0050:p0006",
+        "length": 76,
+        "sha256": "78cfffbc66a965ceaab18d09a770865e216ef1d774ca91e9384849672e08b72e",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0006:u001",
+            "start": 0,
+            "end": 76,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "眼部淬炼第一关只睁10呼吸，不开双眼窍或10时辰不闭。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "眼部淬炼第一关只睁10呼吸，不开双眼窍或10时辰不闭。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "眼部淬炼第一关只睁10呼吸，不开双眼窍或10时辰不闭。"
+      },
+      {
+        "reference": "v01-c0050:p0007",
+        "length": 54,
+        "sha256": "7293c9580b9a3fea7b09aac8aba29d2c0fb47a6eaa115719fa074ae2fb6c5585",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0007:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟望火鹄想它后退为愿望，非实际对鸟发令或已掌御兽。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟望火鹄想它后退为愿望，非实际对鸟发令或已掌御兽。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟望火鹄想它后退为愿望，非实际对鸟发令或已掌御兽。"
+      },
+      {
+        "reference": "v01-c0050:p0008",
+        "length": 44,
+        "sha256": "f7f86ca0e1d2574d7bdf00abe6b62d890ba4bfd82aab6de310395e7c8570f4b3",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0008:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "火鹄向外近1步热更甚实际，仿佛感目保推，未出笼攻击孟。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "火鹄向外近1步热更甚实际，仿佛感目保推，未出笼攻击孟。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "火鹄向外近1步热更甚实际，仿佛感目保推，未出笼攻击孟。"
+      },
+      {
+        "reference": "v01-c0050:p0009",
+        "length": 32,
+        "sha256": "82e437c9f359472e37bccee8aa1b7a72a75c9ae5b980a26b16a3c92f43c82d0e",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0009:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "这死鸟孟暗骂私念，不公开喊或小黑垂翼子此时开口。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "这死鸟孟暗骂私念，不公开喊或小黑垂翼子此时开口。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0009:u002",
+            "start": 4,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "这死鸟孟暗骂私念，不公开喊或小黑垂翼子此时开口。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "这死鸟孟暗骂私念，不公开喊或小黑垂翼子此时开口。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "这死鸟孟暗骂私念，不公开喊或小黑垂翼子此时开口。"
+      },
+      {
+        "reference": "v01-c0050:p0010",
+        "length": 60,
+        "sha256": "c08bd4be5c7f79e60f731e9e3f6d307b197b257cbc6cfab70211b21f3d7f71bc",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0010:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "十呼吸后真闭眼沉修，不此段已过十三天。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "十呼吸后真闭眼沉修，不此段已过十三天。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "十呼吸后真闭眼沉修，不此段已过十三天。"
+      },
+      {
+        "reference": "v01-c0050:p0011",
+        "length": 38,
+        "sha256": "8bc3da152b8ebd80533c46ed80b8056368e18052c1bf21597117cecf4253ec57",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0011:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "佛号真实声传孟耳，句未明发声者候选玄悲待核，不默认与49未识声源或守塔长老同一。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "佛号真实声传孟耳，句未明发声者候选玄悲待核，不默认与49未识声源或守塔长老同一。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0011:u002",
+            "start": 7,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_firstday_buddhist_invocation_unidentified",
+            "surface_identity": "firstday_prayer_speaker_not_explicit_candidate_Xuanbei_not_confirmed_same_v01c49_unknownvoice",
+            "text_context": "佛号真实声传孟耳，句未明发声者候选玄悲待核，不默认与49未识声源或守塔长老同一。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "actual_firstday_prayer_voice_unidentified",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "audible_Amitabha_between_QIcycles_then_Meng_sees_teacher",
+            "delivery": "brief_buddhist_invocation_no_extra_words",
+            "knowledge_boundary": "佛号真实声传孟耳，句未明发声者候选玄悲待核，不默认与49未识声源或守塔长老同一。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0011:u003",
+            "start": 13,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "佛号真实声传孟耳，句未明发声者候选玄悲待核，不默认与49未识声源或守塔长老同一。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "佛号真实声传孟耳，句未明发声者候选玄悲待核，不默认与49未识声源或守塔长老同一。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "佛号真实声传孟耳，句未明发声者候选玄悲待核，不默认与49未识声源或守塔长老同一。"
+      },
+      {
+        "reference": "v01-c0050:p0012",
+        "length": 23,
+        "sha256": "1b4b03e7599e8b00dca1e23a0ff59f6c1fdedfd4226fb5c6e17c7da6c2d940f6",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0012:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "孟actual睁眼见玄悲叫师父，不等11明言一定师父所发。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "actual_M_hoarse_firstday_questions_and_later_training_replies",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "孟actual睁眼见玄悲叫师父，不等11明言一定师父所发。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0012:u002",
+            "start": 5,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual睁眼见玄悲叫师父，不等11明言一定师父所发。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟actual睁眼见玄悲叫师父，不等11明言一定师父所发。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual睁眼见玄悲叫师父，不等11明言一定师父所发。"
+      },
+      {
+        "reference": "v01-c0050:p0013",
+        "length": 39,
+        "sha256": "9a643af20bd015c9e1def00f01a3cf36729a1022d181ebe66190b9d565fe9c2f",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0013:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual一天练完赞撑，16明五个时辰，不24小时不眠不饮已成全关。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲actual一天练完赞撑，16明五个时辰，不24小时不眠不饮已成全关。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0013:u002",
+            "start": 7,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲actual一天练完赞撑，16明五个时辰，不24小时不眠不饮已成全关。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲actual一天练完赞撑，16明五个时辰，不24小时不眠不饮已成全关。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0013:u003",
+            "start": 22,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲actual一天练完赞撑，16明五个时辰，不24小时不眠不饮已成全关。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲actual一天练完赞撑，16明五个时辰，不24小时不眠不饮已成全关。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual一天练完赞撑，16明五个时辰，不24小时不眠不饮已成全关。"
+      },
+      {
+        "reference": "v01-c0050:p0014",
+        "length": 31,
+        "sha256": "75079297c04125ad53324fffbedb48b522a7c0cca5511da1d00f86effe89d1ec",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0014:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "首一天问孟actual且声沙哑，后自己竟然撑一天内惊，不把沙哑永久作稳定本嗓。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "actual_M_hoarse_firstday_questions_and_later_training_replies",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "首一天问孟actual且声沙哑，后自己竟然撑一天内惊，不把沙哑永久作稳定本嗓。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0014:u002",
+            "start": 5,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首一天问孟actual且声沙哑，后自己竟然撑一天内惊，不把沙哑永久作稳定本嗓。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "首一天问孟actual且声沙哑，后自己竟然撑一天内惊，不把沙哑永久作稳定本嗓。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0014:u003",
+            "start": 22,
+            "end": 31,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "首一天问孟actual且声沙哑，后自己竟然撑一天内惊，不把沙哑永久作稳定本嗓。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "首一天问孟actual且声沙哑，后自己竟然撑一天内惊，不把沙哑永久作稳定本嗓。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首一天问孟actual且声沙哑，后自己竟然撑一天内惊，不把沙哑永久作稳定本嗓。"
+      },
+      {
+        "reference": "v01-c0050:p0015",
+        "length": 45,
+        "sha256": "7260ad748da1cdb33c79c7fee841dbc6019c6d2b4a06542b89e8f26331c8b18f",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0015:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟结束调息站起痛软，尚未跌地重伤。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟结束调息站起痛软，尚未跌地重伤。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟结束调息站起痛软，尚未跌地重伤。"
+      },
+      {
+        "reference": "v01-c0050:p0016",
+        "length": 64,
+        "sha256": "14b590dca3c41c03de84c12da063d1aa4328421a253c733c16aac2898820c990",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0016:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual预估2时辰实5赞毅力，外表跳脱不代表内无自制，不新境界判定。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲actual预估2时辰实5赞毅力，外表跳脱不代表内无自制，不新境界判定。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0016:u002",
+            "start": 16,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲actual预估2时辰实5赞毅力，外表跳脱不代表内无自制，不新境界判定。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲actual预估2时辰实5赞毅力，外表跳脱不代表内无自制，不新境界判定。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual预估2时辰实5赞毅力，外表跳脱不代表内无自制，不新境界判定。"
+      },
+      {
+        "reference": "v01-c0050:p0017",
+        "length": 65,
+        "sha256": "13897e9169dd2913a67df9c8235b7d77ef04571839bf95130fa0dff6af710837",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0017:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "孟首苦中作乐私辩，后迈步将倒未真摔，18师父托住。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "孟首苦中作乐私辩，后迈步将倒未真摔，18师父托住。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0017:u002",
+            "start": 26,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟首苦中作乐私辩，后迈步将倒未真摔，18师父托住。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟首苦中作乐私辩，后迈步将倒未真摔，18师父托住。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟首苦中作乐私辩，后迈步将倒未真摔，18师父托住。"
+      },
+      {
+        "reference": "v01-c0050:p0018",
+        "length": 43,
+        "sha256": "8d057663fc093e9746663872aca5e0f6ee9142c94998c81ae0cd0c66337831cf",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0018:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲袖风实际托住带离热范围，非孟自行飞行或身躯摔碎。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲袖风实际托住带离热范围，非孟自行飞行或身躯摔碎。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲袖风实际托住带离热范围，非孟自行飞行或身躯摔碎。"
+      },
+      {
+        "reference": "v01-c0050:p0019",
+        "length": 26,
+        "sha256": "8db497e2d26b8c108228337cd9c51e1e20674d0abf82b09d8f7f373452e1620d",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0019:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源孟秋疑孟奇保字不新角色，凉后清醒活过来是感受非复活术。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "源孟秋疑孟奇保字不新角色，凉后清醒活过来是感受非复活术。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源孟秋疑孟奇保字不新角色，凉后清醒活过来是感受非复活术。"
+      },
+      {
+        "reference": "v01-c0050:p0020",
+        "length": 80,
+        "sha256": "fd35073b520e73ad2cb8bc22381c28b886189bab808b535e9a49bf0e3c67769f",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0020:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲两actual限5时辰免伤、半月第1与3月前三为预计，未本日已经练成3关。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲两actual限5时辰免伤、半月第1与3月前三为预计，未本日已经练成3关。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0020:u002",
+            "start": 27,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲两actual限5时辰免伤、半月第1与3月前三为预计，未本日已经练成3关。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲两actual限5时辰免伤、半月第1与3月前三为预计，未本日已经练成3关。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0020:u003",
+            "start": 42,
+            "end": 80,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲两actual限5时辰免伤、半月第1与3月前三为预计，未本日已经练成3关。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲两actual限5时辰免伤、半月第1与3月前三为预计，未本日已经练成3关。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲两actual限5时辰免伤、半月第1与3月前三为预计，未本日已经练成3关。"
+      },
+      {
+        "reference": "v01-c0050:p0021",
+        "length": 85,
+        "sha256": "7608f98200e7ca924c72ba11e44531bb164590cc2403e83aa7df4893f91d91aa",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0021:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "首三个月私叹后任务不知何时与1月风险N为孟盘算，不已发布下次必1月任务。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "首三个月私叹后任务不知何时与1月风险N为孟盘算，不已发布下次必1月任务。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0021:u002",
+            "start": 6,
+            "end": 85,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首三个月私叹后任务不知何时与1月风险N为孟盘算，不已发布下次必1月任务。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "首三个月私叹后任务不知何时与1月风险N为孟盘算，不已发布下次必1月任务。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首三个月私叹后任务不知何时与1月风险N为孟盘算，不已发布下次必1月任务。"
+      },
+      {
+        "reference": "v01-c0050:p0022",
+        "length": 11,
+        "sha256": "bce88ffa29904dbefc3f501f68a7e2ad0fca420df8bd327680d8c354268121f3",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0022:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "暴雨针保命孟私念，针仍此前留轮回房，不私自加带回寺或当前手持。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "暴雨针保命孟私念，针仍此前留轮回房，不私自加带回寺或当前手持。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "暴雨针保命孟私念，针仍此前留轮回房，不私自加带回寺或当前手持。"
+      },
+      {
+        "reference": "v01-c0050:p0023",
+        "length": 86,
+        "sha256": "096b457c6adbdf775b946d9a27dd3a68d8c49d49f4d18ccefe285b3e0f66b1f4",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0023:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "正常1年前三、有底6/7月、此3月为当时比较估计，不本章时间已经过去3月。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_firstday_heatendurance_and_recovery_limits_forecast",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "正常1年前三、有底6/7月、此3月为当时比较估计，不本章时间已经过去3月。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "正常1年前三、有底6/7月、此3月为当时比较估计，不本章时间已经过去3月。"
+      },
+      {
+        "reference": "v01-c0050:p0024",
+        "length": 53,
+        "sha256": "5c0d946fbdc9b65e54d730eb815c34691c2d995b61402f77c270c4518a6c1033",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0024:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实回玄悲小院喝2瓢水缓缺，瓢容量未定不换算两升。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "实回玄悲小院喝2瓢水缓缺，瓢容量未定不换算两升。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实回玄悲小院喝2瓢水缓缺，瓢容量未定不换算两升。"
+      },
+      {
+        "reference": "v01-c0050:p0025",
+        "length": 33,
+        "sha256": "f6a7602b6101c0eee2c1615d03491fbc1562f6ba31c1aefb36e5caffcedec395",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0025:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧微笑专坐几分禅意N，无话不已拈花圆满或法身。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "慧微笑专坐几分禅意N，无话不已拈花圆满或法身。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧微笑专坐几分禅意N，无话不已拈花圆满或法身。"
+      },
+      {
+        "reference": "v01-c0050:p0026",
+        "length": 53,
+        "sha256": "a944ffdd8491469e37a6faec30eae3b13dc9849dfbda6740b5b0a8133b93576a",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0026:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "前慧适合疑孟内，后实际服灵芝补气丸调息，未明颗数不计全三瓶吃完。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "前慧适合疑孟内，后实际服灵芝补气丸调息，未明颗数不计全三瓶吃完。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0026:u002",
+            "start": 16,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前慧适合疑孟内，后实际服灵芝补气丸调息，未明颗数不计全三瓶吃完。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "前慧适合疑孟内，后实际服灵芝补气丸调息，未明颗数不计全三瓶吃完。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前慧适合疑孟内，后实际服灵芝补气丸调息，未明颗数不计全三瓶吃完。"
+      },
+      {
+        "reference": "v01-c0050:p0027",
+        "length": 38,
+        "sha256": "be14e6dbac92f5f5f4791c65e164be6910e41d328d0ff3724871d4282014fe26",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0027:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "战斗力引号为食量夸张N，不正式武力榜跃升。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "战斗力引号为食量夸张N，不正式武力榜跃升。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "战斗力引号为食量夸张N，不正式武力榜跃升。"
+      },
+      {
+        "reference": "v01-c0050:p0028",
+        "length": 102,
+        "sha256": "6e7b28ec770849974dcb2a5671401f75fff758b529d1806da51b4909a5d43706",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0028:u001",
+            "start": 0,
+            "end": 102,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "困乏想躺尸非真死亡，通铺苦修N；恐怖连小院疑恐怕保字。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "困乏想躺尸非真死亡，通铺苦修N；恐怖连小院疑恐怕保字。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "困乏想躺尸非真死亡，通铺苦修N；恐怖连小院疑恐怕保字。"
+      },
+      {
+        "reference": "v01-c0050:p0029",
+        "length": 48,
+        "sha256": "10abab2de73d49558c1db22388077053b745075db2ea03749866bbc404eb0f45",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0029:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_sincere_prevoicechange_disciple",
+            "text_context": "慧actual乐于继续打坐无抗拒，不新保证他所有功已掌握。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "actual_Zhenhui_eager_meditation_departure",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "eager_continued_meditation_not_Nianhua_mastered",
+            "delivery": "bright_unforced_eager_short_announcement",
+            "knowledge_boundary": "慧actual乐于继续打坐无抗拒，不新保证他所有功已掌握。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0029:u002",
+            "start": 13,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧actual乐于继续打坐无抗拒，不新保证他所有功已掌握。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "慧actual乐于继续打坐无抗拒，不新保证他所有功已掌握。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧actual乐于继续打坐无抗拒，不新保证他所有功已掌握。"
+      },
+      {
+        "reference": "v01-c0050:p0030",
+        "length": 43,
+        "sha256": "35c4d1234495ff8142620436562ad123168a4d41f1443c1f73941b5ac90f5538",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0030:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟虽累真在师父院找戒刀练血刀，非目前仍只有空谱未练。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟虽累真在师父院找戒刀练血刀，非目前仍只有空谱未练。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟虽累真在师父院找戒刀练血刀，非目前仍只有空谱未练。"
+      },
+      {
+        "reference": "v01-c0050:p0031",
+        "length": 23,
+        "sha256": "1b7168cd1706005830e5fe24ccf8d9c690bab54b6d6393a8307402b4d3dd3cc0",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0031:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "孟任务时间不定故不能懈怠内念，不六道新任务广播。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "孟任务时间不定故不能懈怠内念，不六道新任务广播。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0031:u002",
+            "start": 6,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "孟任务时间不定故不能懈怠内念，不六道新任务广播。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "孟任务时间不定故不能懈怠内念，不六道新任务广播。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟任务时间不定故不能懈怠内念，不六道新任务广播。"
+      },
+      {
+        "reference": "v01-c0050:p0032",
+        "length": 87,
+        "sha256": "2dbc8ca72fa70443ce8cd8eb9453d475cf587f5505ce31c0d7c9351d7f23aa32",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0032:u001",
+            "start": 0,
+            "end": 87,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "血刀步角与神行百变互促N，不两功当前已圆满；相得映彰源疑益不改。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "血刀步角与神行百变互促N，不两功当前已圆满；相得映彰源疑益不改。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "血刀步角与神行百变互促N，不两功当前已圆满；相得映彰源疑益不改。"
+      },
+      {
+        "reference": "v01-c0050:p0033",
+        "length": 32,
+        "sha256": "2e6988336068fe454af7f9c53233c0ed20b128e1861fcd14d29a0a8d262e7e3a",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0033:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟练数趟真实停喘，未练刀击败新敌或主动拜师切磋。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟练数趟真实停喘，未练刀击败新敌或主动拜师切磋。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟练数趟真实停喘，未练刀击败新敌或主动拜师切磋。"
+      },
+      {
+        "reference": "v01-c0050:p0034",
+        "length": 27,
+        "sha256": "9ca3ed4120e2b981d965ce3bbff71501211f4c1d144c19b801a7efa82d50b6e2",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0034:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲在门口不知站多久，不孟已知其全天24小时偷看所有秘密。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲在门口不知站多久，不孟已知其全天24小时偷看所有秘密。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲在门口不知站多久，不孟已知其全天24小时偷看所有秘密。"
+      },
+      {
+        "reference": "v01-c0050:p0035",
+        "length": 14,
+        "sha256": "46ce8544641d1c0a764d2565fa351f3587fb4212f692ff14b7379b4247dafe0c",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0035:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "孟actual师父合十，不当前大声吹嘘全部刀招来历。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "actual_M_hoarse_firstday_questions_and_later_training_replies",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "firstday_Jinzhong1_inprogress_heatfatigue_actual_recovery_and_bladedrill_no_firstpass_done",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "孟actual师父合十，不当前大声吹嘘全部刀招来历。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0035:u002",
+            "start": 5,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual师父合十，不当前大声吹嘘全部刀招来历。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟actual师父合十，不当前大声吹嘘全部刀招来历。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual师父合十，不当前大声吹嘘全部刀招来历。"
+      },
+      {
+        "reference": "v01-c0050:p0036",
+        "length": 22,
+        "sha256": "1f70b9aa3b3f01a410eca29aaba4f96cb8e69e8fd3c96378a8675d37ca57c7a3",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0036:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual简短很好满意，不新授第三关或刀道认证无敌。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲actual简短很好满意，不新授第三关或刀道认证无敌。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0036:u002",
+            "start": 17,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲actual简短很好满意，不新授第三关或刀道认证无敌。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲actual简短很好满意，不新授第三关或刀道认证无敌。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual简短很好满意，不新授第三关或刀道认证无敌。"
+      },
+      {
+        "reference": "v01-c0050:p0037",
+        "length": 15,
+        "sha256": "20eb7a5c8775133869d2c3e52604c27c5c74b58e9979101b1f8c675a408da0e1",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0037:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲真实转身入房，无另句未引台词。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲真实转身入房，无另句未引台词。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲真实转身入房，无另句未引台词。"
+      },
+      {
+        "reference": "v01-c0050:p0038",
+        "length": 23,
+        "sha256": "954e8f90e95e241386a1d83f85de0bceac44b57378743e555229249d771da58a",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0038:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟暗得意调息后继续练，未新实际对师弟炫耀。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟暗得意调息后继续练，未新实际对师弟炫耀。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟暗得意调息后继续练，未新实际对师弟炫耀。"
+      },
+      {
+        "reference": "v01-c0050:p0039",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0039:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略时日蒙太奇N，无新口。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_actual_recovery_nutrition_evening_bladedrill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "省略时日蒙太奇N，无新口。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略时日蒙太奇N，无新口。"
+      },
+      {
+        "reference": "v01-c0050:p0040",
+        "length": 68,
+        "sha256": "4d21bfd865c05bf4a97f6d3582d25067ff47442e26e4847eadadd7c1f85d8cb3",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0040:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明第13天金钟第一关成，非此刻丹田重凝也完或第三成。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "源明第13天金钟第一关成，非此刻丹田重凝也完或第三成。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明第13天金钟第一关成，非此刻丹田重凝也完或第三成。"
+      },
+      {
+        "reference": "v01-c0050:p0041",
+        "length": 29,
+        "sha256": "f3891eb99ed61fe869a6d1a702ce48dae81a049109137ecde8d96eca0ca73bf0",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0041:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "这日坐热牢汗少金黄由45落到第29天，不能把下一段第二关完成记到13日。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "这日坐热牢汗少金黄由45落到第29天，不能把下一段第二关完成记到13日。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "这日坐热牢汗少金黄由45落到第29天，不能把下一段第二关完成记到13日。"
+      },
+      {
+        "reference": "v01-c0050:p0042",
+        "length": 46,
+        "sha256": "87d68172bc76ee58849c4bb9f3c2a97577d549f84440cd239e4bbff5aa2ae823",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0042:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "身体热耐受好转N，不永久免疫所有寒热毒伤。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "身体热耐受好转N，不永久免疫所有寒热毒伤。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "身体热耐受好转N，不永久免疫所有寒热毒伤。"
+      },
+      {
+        "reference": "v01-c0050:p0043",
+        "length": 24,
+        "sha256": "823f3bd9217fd89019430d2990683a8aac0d7ff9d398ab452413f96eae144f48",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0043:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "丹田金黄似轻声为功行感受/声效，不新增佛号或丹田人格说话。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "丹田金黄似轻声为功行感受/声效，不新增佛号或丹田人格说话。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "丹田金黄似轻声为功行感受/声效，不新增佛号或丹田人格说话。"
+      },
+      {
+        "reference": "v01-c0050:p0044",
+        "length": 26,
+        "sha256": "283c458b90ec52230166909e851d62addaecd6201a0a6fafc36778c3c55c1e5e",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0044:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金黄褪孟满足动颈，非突然法身金刚肉体永放金光。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "金黄褪孟满足动颈，非突然法身金刚肉体永放金光。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金黄褪孟满足动颈，非突然法身金刚肉体永放金光。"
+      },
+      {
+        "reference": "v01-c0050:p0045",
+        "length": 24,
+        "sha256": "016c45746308e4c381368b884e571ed95fc237923701316eb59d6b81c00c80dd",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0045:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "明确第29天第二关成且丹田重凝完，不等蓄气大成/开窍或第三关也完。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "明确第29天第二关成且丹田重凝完，不等蓄气大成/开窍或第三关也完。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0045:u002",
+            "start": 15,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "明确第29天第二关成且丹田重凝完，不等蓄气大成/开窍或第三关也完。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "明确第29天第二关成且丹田重凝完，不等蓄气大成/开窍或第三关也完。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "明确第29天第二关成且丹田重凝完，不等蓄气大成/开窍或第三关也完。"
+      },
+      {
+        "reference": "v01-c0050:p0046",
+        "length": 39,
+        "sha256": "ca1e991329642a68fa18341fb615e013682fec76ee4167463ea936d524154fbc",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0046:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual明日第三关，仿佛一直守后55孟述一月陪练，不新轮回开场。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲actual明日第三关，仿佛一直守后55孟述一月陪练，不新轮回开场。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0046:u002",
+            "start": 23,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲actual明日第三关，仿佛一直守后55孟述一月陪练，不新轮回开场。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲actual明日第三关，仿佛一直守后55孟述一月陪练，不新轮回开场。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual明日第三关，仿佛一直守后55孟述一月陪练，不新轮回开场。"
+      },
+      {
+        "reference": "v01-c0050:p0047",
+        "length": 26,
+        "sha256": "724f0c9acf8151355a5ae7fee0bb9701db114d570d63354f8ca8d299692ae131",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0047:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "孟actual问第三地点，尚未开始冷练。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "actual_M_hoarse_firstday_questions_and_later_training_replies",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "day29_Jinzhong2_and_Dantian_done_thirdtomorrow_not_openapertures",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "孟actual问第三地点，尚未开始冷练。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0047:u002",
+            "start": 14,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual问第三地点，尚未开始冷练。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟actual问第三地点，尚未开始冷练。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual问第三地点，尚未开始冷练。"
+      },
+      {
+        "reference": "v01-c0050:p0048",
+        "length": 36,
+        "sha256": "a0d94db765aa66b50e00c3a1f457ff4185936738b1b60bae8c00792953c2bbf9",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0048:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "每次脱力减缓不再易倒是进步，不从此不需要休息。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "每次脱力减缓不再易倒是进步，不从此不需要休息。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "每次脱力减缓不再易倒是进步，不从此不需要休息。"
+      },
+      {
+        "reference": "v01-c0050:p0049",
+        "length": 18,
+        "sha256": "bb3dc2d3501912a90969ebead1615018e34e30e87ffa493e058c0aa68658fb9d",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0049:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲actual指前牢外，未让孟直接入笼战妖。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲actual指前牢外，未让孟直接入笼战妖。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0049:u002",
+            "start": 10,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual指前牢外，未让孟直接入笼战妖。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲actual指前牢外，未让孟直接入笼战妖。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual指前牢外，未让孟直接入笼战妖。"
+      },
+      {
+        "reference": "v01-c0050:p0050",
+        "length": 40,
+        "sha256": "6376791560acff7e5951d9533d518841b33545845d1d3a7547f28b1193cadd79",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0050:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "冷牢正是先前注意处，52/53明寒龟与火鹄邻墙，不将寒冰归火鹄吐冰。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "冷牢正是先前注意处，52/53明寒龟与火鹄邻墙，不将寒冰归火鹄吐冰。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "冷牢正是先前注意处，52/53明寒龟与火鹄邻墙，不将寒冰归火鹄吐冰。"
+      },
+      {
+        "reference": "v01-c0050:p0051",
+        "length": 14,
+        "sha256": "bb7bfe0c1d555f5dbc6c7d027e50fcd3da68711e0e19410d786d1a0237b76ff7",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0051:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "热到冷孟内疑，概念引号不是两句实际低喊。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "day29_Jinzhong2_and_Dantian_done_thirdtomorrow_not_openapertures",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "热到冷孟内疑，概念引号不是两句实际低喊。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "热到冷孟内疑，概念引号不是两句实际低喊。"
+      },
+      {
+        "reference": "v01-c0050:p0052",
+        "length": 38,
+        "sha256": "2e218f771592260bb8c86777cdb02bbceed24a2ae05e314f046ac57ac4e2227d",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0052:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual名寒龟散冰助第三关，不玄武真武本尊或本章已第三成。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲actual名寒龟散冰助第三关，不玄武真武本尊或本章已第三成。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0052:u002",
+            "start": 7,
+            "end": 38,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲actual名寒龟散冰助第三关，不玄武真武本尊或本章已第三成。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲actual名寒龟散冰助第三关，不玄武真武本尊或本章已第三成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual名寒龟散冰助第三关，不玄武真武本尊或本章已第三成。"
+      },
+      {
+        "reference": "v01-c0050:p0053",
+        "length": 62,
+        "sha256": "c4b941b4457ede54f7a3bdb339cc117a5ec79b47de35a562f8ca657ee6905508",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0053:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "只有首是师父孟actual，后龟雪与火鹄邻墙N，未两个妖同时开口。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "actual_M_hoarse_firstday_questions_and_later_training_replies",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "day29_Jinzhong2_and_Dantian_done_thirdtomorrow_not_openapertures",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "只有首是师父孟actual，后龟雪与火鹄邻墙N，未两个妖同时开口。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0053:u002",
+            "start": 7,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "只有首是师父孟actual，后龟雪与火鹄邻墙N，未两个妖同时开口。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "只有首是师父孟actual，后龟雪与火鹄邻墙N，未两个妖同时开口。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "只有首是师父孟actual，后龟雪与火鹄邻墙N，未两个妖同时开口。"
+      },
+      {
+        "reference": "v01-c0050:p0054",
+        "length": 53,
+        "sha256": "f47f6d4d6c6ab1b2de0b602f85b8175f7ea93b9287ed06d6caceec87f6861a4d",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0054:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual回小院实给令牌以后自行修至第三再报，不所有禁地授权全开。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "玄悲actual回小院实给令牌以后自行修至第三再报，不所有禁地授权全开。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0054:u002",
+            "start": 16,
+            "end": 53,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_patient_teacher_not_Six_or_demonvoice",
+            "text_context": "玄悲actual回小院实给令牌以后自行修至第三再报，不所有禁地授权全开。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "actual_Xuanbei_praise_effort_limit_and_nextstage_instruction",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "supports_overheated_Meng_attends_month_training_then_gives_token_no_newrank",
+            "delivery": "gentle_approving_resolve_not_surface_flippancy_limits_overstrain_plain_practical_instruction",
+            "knowledge_boundary": "玄悲actual回小院实给令牌以后自行修至第三再报，不所有禁地授权全开。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual回小院实给令牌以后自行修至第三再报，不所有禁地授权全开。"
+      },
+      {
+        "reference": "v01-c0050:p0055",
+        "length": 70,
+        "sha256": "b4afab40667e9a7527152297ae926b0ab34726b582650c3c65156f96b5686378",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0055:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟点头称是为摘要没逐字口，一月师父旁守回述不24小时从未做别事。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟点头称是为摘要没逐字口，一月师父旁守回述不24小时从未做别事。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟点头称是为摘要没逐字口，一月师父旁守回述不24小时从未做别事。"
+      },
+      {
+        "reference": "v01-c0050:p0056",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0056:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略翌日转场N，无新口。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_day13_first_day29_second_Dantian_done_token_and_thirdtomorrow",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "省略翌日转场N，无新口。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略翌日转场N，无新口。"
+      },
+      {
+        "reference": "v01-c0050:p0057",
+        "length": 34,
+        "sha256": "9dc67b72e71b4958faa7eb3615fffdb8883f98cd1c5b59b9dafd447d429944f9",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0057:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "次日真持令牌顺入塔镇妖第一层寒龟处，未无令牌强闯或已经三关通。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "次日真持令牌顺入塔镇妖第一层寒龟处，未无令牌强闯或已经三关通。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "次日真持令牌顺入塔镇妖第一层寒龟处，未无令牌强闯或已经三关通。"
+      },
+      {
+        "reference": "v01-c0050:p0058",
+        "length": 46,
+        "sha256": "741141566e768f41da642a00e8931fdc23eb6b8f96c327daa31f41a416b2ecd8",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0058:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "寒意如冻骨髓是感觉，不骨髓真的冻坏或孟已死。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "寒意如冻骨髓是感觉，不骨髓真的冻坏或孟已死。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "寒意如冻骨髓是感觉，不骨髓真的冻坏或孟已死。"
+      },
+      {
+        "reference": "v01-c0050:p0059",
+        "length": 31,
+        "sha256": "891114237d491d0caa8ecab5a902d508199754301ddc2f1df7e7ab796e343920",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0059:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟赤上身发抖盘坐运第三心法，第三仅初练不成。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟赤上身发抖盘坐运第三心法，第三仅初练不成。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟赤上身发抖盘坐运第三心法，第三仅初练不成。"
+      },
+      {
+        "reference": "v01-c0050:p0060",
+        "length": 36,
+        "sha256": "1b4f435e853d51387761baf2217188e558a60811ad360ee27fc6f6243057fcf8",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0060:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "不再看龟恳请后退的引号N，未真的开口求龟或它答应。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "不再看龟恳请后退的引号N，未真的开口求龟或它答应。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "不再看龟恳请后退的引号N，未真的开口求龟或它答应。"
+      },
+      {
+        "reference": "v01-c0050:p0061",
+        "length": 35,
+        "sha256": "c7345170558cf08ac8813e7a9d7ac437205c2696d4ecad8c835341b347373d26",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0061:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "冷加重觉得心法白练为感受，62因龟靠近不功法真正全失效。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "冷加重觉得心法白练为感受，62因龟靠近不功法真正全失效。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "冷加重觉得心法白练为感受，62因龟靠近不功法真正全失效。"
+      },
+      {
+        "reference": "v01-c0050:p0062",
+        "length": 30,
+        "sha256": "50c1b4a993162218e92e9bbd4d5330217e7af0d7b394a88dbdadf5cd08c7d78d",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0062:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "寒龟实际悄到栏边仍无话，不孟御它向前或已破笼逃。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "寒龟实际悄到栏边仍无话，不孟御它向前或已破笼逃。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "寒龟实际悄到栏边仍无话，不孟御它向前或已破笼逃。"
+      },
+      {
+        "reference": "v01-c0050:p0063",
+        "length": 20,
+        "sha256": "895fd092501c35739261a1cf3fead2ceee797fd237231a28465b8a7ce3081ab6",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0063:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "这该死妖怪孟暗骂内念，不已公开骂/砸龟。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "nextday_Jinzhong3_cold_inprogress_no_completed_third_no_release",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "这该死妖怪孟暗骂内念，不已公开骂/砸龟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0063:u002",
+            "start": 7,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "这该死妖怪孟暗骂内念，不已公开骂/砸龟。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "这该死妖怪孟暗骂内念，不已公开骂/砸龟。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "这该死妖怪孟暗骂内念，不已公开骂/砸龟。"
+      },
+      {
+        "reference": "v01-c0050:p0064",
+        "length": 68,
+        "sha256": "9c834e4e3b809c5ab0a7933260640cd9fdd32b434352bba6c5f6509c43cd54b7",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0064:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "对面聒噪声后65–67同黑鱼嘴鸟、67自名垂翼；淹城被关几十年是鸟说不过口吻非作者减罪。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "对面聒噪声后65–67同黑鱼嘴鸟、67自名垂翼；淹城被关几十年是鸟说不过口吻非作者减罪。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0064:u002",
+            "start": 25,
+            "end": 57,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "对面聒噪声后65–67同黑鱼嘴鸟、67自名垂翼；淹城被关几十年是鸟说不过口吻非作者减罪。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "对面聒噪声后65–67同黑鱼嘴鸟、67自名垂翼；淹城被关几十年是鸟说不过口吻非作者减罪。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0064:u003",
+            "start": 57,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "对面聒噪声后65–67同黑鱼嘴鸟、67自名垂翼；淹城被关几十年是鸟说不过口吻非作者减罪。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "对面聒噪声后65–67同黑鱼嘴鸟、67自名垂翼；淹城被关几十年是鸟说不过口吻非作者减罪。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "对面聒噪声后65–67同黑鱼嘴鸟、67自名垂翼；淹城被关几十年是鸟说不过口吻非作者减罪。"
+      },
+      {
+        "reference": "v01-c0050:p0065",
+        "length": 32,
+        "sha256": "257b92541255442b9708d5da8a4a8167a45baff44e97629bd3f0576f84a16983",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0065:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟淬眼看鸟实际，不同时眼窍已正式开启。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟淬眼看鸟实际，不同时眼窍已正式开启。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟淬眼看鸟实际，不同时眼窍已正式开启。"
+      },
+      {
+        "reference": "v01-c0050:p0066",
+        "length": 46,
+        "sha256": "1b1c78c1e2f2f98fe4950605259b7d8d7880b6fa65273c9811e9d121d79363a2",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0066:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑圆短翼鱼嘴丑鸟与红火鹄不同，未已验其鲲鹏血统真伪。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "黑圆短翼鱼嘴丑鸟与红火鹄不同，未已验其鲲鹏血统真伪。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑圆短翼鱼嘴丑鸟与红火鹄不同，未已验其鲲鹏血统真伪。"
+      },
+      {
+        "reference": "v01-c0050:p0067",
+        "length": 90,
+        "sha256": "c19652dbfcdc3e2d178c6ac535b7646f83b650b0178921cf41bbc3fc8af89e83",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0067:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "鸟两actual自道号垂翼子和鲲鹏后裔属自称，稳定未名ID加resolved同演员，不作者已独证族谱。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟两actual自道号垂翼子和鲲鹏后裔属自称，稳定未名ID加resolved同演员，不作者已独证族谱。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0067:u002",
+            "start": 6,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "鸟两actual自道号垂翼子和鲲鹏后裔属自称，稳定未名ID加resolved同演员，不作者已独证族谱。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟两actual自道号垂翼子和鲲鹏后裔属自称，稳定未名ID加resolved同演员，不作者已独证族谱。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0067:u003",
+            "start": 35,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟两actual自道号垂翼子和鲲鹏后裔属自称，稳定未名ID加resolved同演员，不作者已独证族谱。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "鸟两actual自道号垂翼子和鲲鹏后裔属自称，稳定未名ID加resolved同演员，不作者已独证族谱。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0067:u004",
+            "start": 45,
+            "end": 90,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "鸟两actual自道号垂翼子和鲲鹏后裔属自称，稳定未名ID加resolved同演员，不作者已独证族谱。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟两actual自道号垂翼子和鲲鹏后裔属自称，稳定未名ID加resolved同演员，不作者已独证族谱。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟两actual自道号垂翼子和鲲鹏后裔属自称，稳定未名ID加resolved同演员，不作者已独证族谱。"
+      },
+      {
+        "reference": "v01-c0050:p0068",
+        "length": 20,
+        "sha256": "b72db86b1a72a38ecfd83485cddc96dc4004072685d7917c81e0714b7c840191",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0068:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际不理闭眼继续练，未应允释放或说出反驳话。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟实际不理闭眼继续练，未应允释放或说出反驳话。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际不理闭眼继续练，未应允释放或说出反驳话。"
+      },
+      {
+        "reference": "v01-c0050:p0069",
+        "length": 82,
+        "sha256": "653e940daa1243733aff0fae9e4cf3ab2a32c1a8fab6dd032ced407ae2ddc8c7",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0069:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "仅首引语鸟actual寒螭冻死嘲笑，后垂翼子名N，未孟真去寒螭处冻死。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "仅首引语鸟actual寒螭冻死嘲笑，后垂翼子名N，未孟真去寒螭处冻死。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0069:u002",
+            "start": 21,
+            "end": 54,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "仅首引语鸟actual寒螭冻死嘲笑，后垂翼子名N，未孟真去寒螭处冻死。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "仅首引语鸟actual寒螭冻死嘲笑，后垂翼子名N，未孟真去寒螭处冻死。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0069:u003",
+            "start": 54,
+            "end": 82,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仅首引语鸟actual寒螭冻死嘲笑，后垂翼子名N，未孟真去寒螭处冻死。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "仅首引语鸟actual寒螭冻死嘲笑，后垂翼子名N，未孟真去寒螭处冻死。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仅首引语鸟actual寒螭冻死嘲笑，后垂翼子名N，未孟真去寒螭处冻死。"
+      },
+      {
+        "reference": "v01-c0050:p0070",
+        "length": 47,
+        "sha256": "316d62c768afafb8163f3b87fdd019803f8035c755941d03ac685af500665f7e",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0070:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "鸟actual挑姿势品味聒噪，足一时辰非1小时或已过3个月。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual挑姿势品味聒噪，足一时辰非1小时或已过3个月。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0070:u002",
+            "start": 26,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟actual挑姿势品味聒噪，足一时辰非1小时或已过3个月。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "鸟actual挑姿势品味聒噪，足一时辰非1小时或已过3个月。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟actual挑姿势品味聒噪，足一时辰非1小时或已过3个月。"
+      },
+      {
+        "reference": "v01-c0050:p0071",
+        "length": 39,
+        "sha256": "e7e13589561ea9242dfdefe074996638aa2a1ad7f7801c4d74b9ac614ffd1c7b",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0071:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "鸟actual以好处诱放，孟未同意未开牢，不当真的结成授艺交易。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual以好处诱放，孟未同意未开牢，不当真的结成授艺交易。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟actual以好处诱放，孟未同意未开牢，不当真的结成授艺交易。"
+      },
+      {
+        "reference": "v01-c0050:p0072",
+        "length": 56,
+        "sha256": "6c2abacd40d959f8a5e620bffe05535865f29fc414ad033c8d21f2a2f53cefca",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0072:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前孟躁想塞嘴N后太吵问清净私念，未此刻中断周天跳打鸟。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "前孟躁想塞嘴N后太吵问清净私念，未此刻中断周天跳打鸟。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0072:u002",
+            "start": 34,
+            "end": 44,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "前孟躁想塞嘴N后太吵问清净私念，未此刻中断周天跳打鸟。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "nextday_Jinzhong3_cold_inprogress_no_completed_third_no_release",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "前孟躁想塞嘴N后太吵问清净私念，未此刻中断周天跳打鸟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0072:u003",
+            "start": 44,
+            "end": 56,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_wheel_secret_unshared_not_source_MengQiu_newperson",
+            "text_context": "前孟躁想塞嘴N后太吵问清净私念，未此刻中断周天跳打鸟。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "editorial_M_private_effort_complaint_planning_and_irritation",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "nextday_Jinzhong3_cold_inprogress_no_completed_third_no_release",
+            "delivery": "firstday_spoken_hoarse_fatigued_then_later_clearer_reply_coldstrain_private_irritation_not_permanent_timbre",
+            "knowledge_boundary": "前孟躁想塞嘴N后太吵问清净私念，未此刻中断周天跳打鸟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前孟躁想塞嘴N后太吵问清净私念，未此刻中断周天跳打鸟。"
+      },
+      {
+        "reference": "v01-c0050:p0073",
+        "length": 70,
+        "sha256": "9093957f7aecc44ca1afcf5a7d512f937509bc7d88dbeba91303ee9b6ec96466",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0073:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "鸟actual爷爷祖传故事吹嘘，3个月说不完是N夸张未真过去3个月。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual爷爷祖传故事吹嘘，3个月说不完是N夸张未真过去3个月。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0073:u002",
+            "start": 35,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟actual爷爷祖传故事吹嘘，3个月说不完是N夸张未真过去3个月。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "鸟actual爷爷祖传故事吹嘘，3个月说不完是N夸张未真过去3个月。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟actual爷爷祖传故事吹嘘，3个月说不完是N夸张未真过去3个月。"
+      },
+      {
+        "reference": "v01-c0050:p0074",
+        "length": 85,
+        "sha256": "0c1c838f39a29af6981a8e80f672a50c91a8259f64141b31f98445034652cd28",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0074:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟先结束周天才起欲塞，鸟即回飞牢深actual最后引语；前垂翼子名N，未堵成功或入笼。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "knowledge_boundary": "孟先结束周天才起欲塞，鸟即回飞牢深actual最后引语；前垂翼子名N，未堵成功或入笼。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0050:p0074:u002",
+            "start": 63,
+            "end": 85,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "孟先结束周天才起欲塞，鸟即回飞牢深actual最后引语；前垂翼子名N，未堵成功或入笼。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "孟先结束周天才起欲塞，鸟即回飞牢深actual最后引语；前垂翼子名N，未堵成功或入笼。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟先结束周天才起欲塞，鸟即回飞牢深actual最后引语；前垂翼子名N，未堵成功或入笼。"
+      },
+      {
+        "reference": "v01-c0050:p0075",
+        "length": 15,
+        "sha256": "b991daebce69c15375b54eaf7b705a22bf0d9fcd7945851c8fda9d3279053e1a",
+        "units": [
+          {
+            "unit_id": "v01-c0050:p0075:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "round_black_shortwing_fishmouth_bird_selfnames_Chuiyizi_not_red_HuHu",
+            "text_context": "同鸟actual得意哈哈强听，不新妖物接话或孟真被心控。",
+            "world_context": "EARLY_v01c50_firstday_five_shichen_heatendurance_hoarse_not24hours_teacher_support_limit_water_Lingzhi_actual_bladedrill_Hui_eager_day13_firstpass_day29_secondpass_Dantian_complete_nextday_third_cold_only_begin_token_selfvisit_adjacent_Hangui_not_HuHu_ice_bird_selfnamed_Chuiyizi_claims_Kunpeng_and_cityflood_no_verified_genealogy_no_release_or_mouthplug_success",
+            "stage_context": "S13_nextday_third_inprogress_Hangui_approach_Chuiyizi_noisy_claims",
+            "channel": "actual_noisy_bird_selfnamed_Chuiyizi",
+            "fact_status": "manual_actual_training_dates_first_two_completed_third_only_start_vs_firstday_forecasts_bird_genealogy_citystory_claims_no_release",
+            "embodiment": "in_opposite_cell_claims_Kunpeng_descendant_and_turtle_city_story_unverified_retreats_before_mouthplug_no_release",
+            "delivery": "noisy_fast_chatty_selfimportant_mockery_lures_release_ancestral_boasting_then_watchful_triumphant_laugh",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "同鸟actual得意哈哈强听，不新妖物接话或孟真被心控。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "同鸟actual得意哈哈强听，不新妖物接话或孟真被心控。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0050",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S13",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 23,
+        "label": "首日五时辰、沙哑耗竭与师父限制强撑",
+        "direction": "1/2火鹄牢外只是散气高温非真火，铁布底撑住烫伤反事实，4肌肉似重组为感受5丹田才再凝。3桑拿私想、6十呼吸睁眼淬炼非开眼窍，7想鸟退8鸟反近一步实际未出笼，9死鸟内骂10闭眼沉修。11佛号实声但说者未明，候选玄悲待核不合并49未知声或守塔人；12孟见师父叫、13一天由16明确五时辰而非24小时。14首问actual声沙哑、后自己竟然内惊，17苦中作乐内辩后将倒18袖风托不真摔，19孟秋保源疑指孟奇不另角。20师父赞毅力同时限5时辰免伤、预计半月第一/三月前三，21孟忧下次何时、22针保命仅私想仍存轮回房，23正常慢与加速比较未三个月真过去。表演建议：孟外跳脱内认真、热弱嗓哑只是首日暂态；玄悲关照托扶并制止过撑，不一味逼极限，无新烧伤惨叫或开窍特效。证据v01-c0050:p0001–p0023。"
+      },
+      {
+        "paragraph_start": 24,
+        "paragraph_end": 38,
+        "label": "实际补水服药进食、疲惫中继续练血刀",
+        "direction": "24实到玄悲小院喝两瓢不量化升数，25慧安坐几分禅意未拈花大成；26首孟疑慧适合私念、后真服灵芝丸调息未明颗数不清空三瓶。27食量战斗力比喻28想躺尸非死，独属院仍通铺苦修，恐怖疑恐怕保源。29慧愿继续坐自然兴致30孟仍找戒刀练血刀31任务不知何时内励，不六道新广播。32血刀步角与神行百变互促非两法已圆满，映彰源疑益；33数趟停喘34师父门边不知何时到35孟行礼36玄悲简短很好37入房38孟暗喜又继续练。表演建议：先恢复资源再逼自己练，疲惫和不懈并存；慧专一不抗拒与孟受任务压力不同，师父简短肯定给真实支撑，不给他编暗中知全部轮回来源。证据v01-c0050:p0024–p0038。"
+      },
+      {
+        "paragraph_start": 40,
+        "paragraph_end": 55,
+        "label": "第13天第一关、第29天第二关与令牌自主",
+        "direction": "39转时日蒙太奇，40明第13天第一关成；41–45随后另一日落到第29天，金黄轻响褪是功行声效不是人物声，45第二关成且丹田重新凝练完毕。严分第一关成13日与丹田完29日，不升蓄气大成/开窍，不第三也成。46师父赞、明日第三47问地点49指前牢外，50/52/53此前冷牢现明寒龟与火鹄邻墙，冰寒不可混作火鹄吐冰。51热冷私疑53仅首回应孟话、后龟相N。54回院真实给令牌准以后自行修至第三再报55孟摘要称是不加逐字对白，一月师父每次旁守不指24小时无其他事。表演建议：日数落点清楚、身体耐受变好而非瞬间全无劳累；从师父护送转自主是训练关系推进，不获得所有禁地随意探秘权。证据v01-c0050:p0040–p0055。"
+      },
+      {
+        "paragraph_start": 57,
+        "paragraph_end": 75,
+        "label": "第三关冷练初始、垂翼子聒噪自夸而机警",
+        "direction": "56转翌日57持牌顺入镇妖第一层寒龟处，58刺骨比喻59赤上身抖运第三60没看龟恳退不是actual求61冷增62龟已靠栏，龟仍无声，63孟内骂。64对面聒噪声65/66黑圆短翼鱼嘴鸟67自名垂翼子，稳定未名ID加resolved同口；鲲鹏后裔、龟淹城关几十年皆它说，轻描淡写不过是它的价值口吻非作者减罪。68孟闭眼不理69寒螭冻死笑不真转去寒螭，后垂翼名N；70姿势品味聒噪足一时辰不是1小时71诱放给好处未成交，73祖爷故事未新祖先口、三月说不完为夸张不时间推进。72孟躁欲塞嘴先内念74结束周天才起，鸟立退牢深再actual嘲75哈哈，未塞成功未出笼未释放。表演建议：鸟自命高傲却主动没完，嘴碎与警觉同时有，69没修炼自觉指不体谅不是看不懂功行；孟烦怒仍先完周天，不加现成反击台词或第三关完成。证据v01-c0050:p0057–p0075。"
+      }
+    ],
+    "knowledge_rule": "首日五时辰非24小时、沙哑是暂态。13日第一关、29日第二及丹田完，翌日第三只练始。血刀夜练药水食真实；令牌准练非全禁地解除。垂翼同鸟自称鲲鹏、龟淹城为其说，诱放未成、完周天才起且塞嘴失败，三月话夸张不跳时。"
+  }
 }
