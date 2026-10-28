@@ -51,7 +51,2275 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0006"
+  "reading_batch": "batch-0006",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0061",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0061.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0061:p0001",
+        "length": 48,
+        "sha256": "8539fd731e38548be2153840caceae7ecb1616fc502c042292aec977569f7976",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0001:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金安成天香楼踱出源明，承60未名额瘤目标现在给名，不回写60已揭名。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "金安成天香楼踱出源明，承60未名额瘤目标现在给名，不回写60已揭名。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金安成天香楼踱出源明，承60未名额瘤目标现在给名，不回写60已揭名。"
+      },
+      {
+        "reference": "v01-c0061:p0002",
+        "length": 21,
+        "sha256": "ca382068250ffb07aad8b1346073696ed6ab0faf60aa087f8645e94c8c628096",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0002:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "自己地盘成功为金内满足，不孟已拥有酒楼。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_Ancheng_pride_anger_vindictiveness_and_status_doubt",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "自己地盘成功为金内满足，不孟已拥有酒楼。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "自己地盘成功为金内满足，不孟已拥有酒楼。"
+      },
+      {
+        "reference": "v01-c0061:p0003",
+        "length": 19,
+        "sha256": "f74dcd3d51a279e25ed43438836eead162376e0c4243d133a47011474c56de11",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0003:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "一手脚打拼为金内自豪，不客观褒扬其发迹全正当。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_Ancheng_pride_anger_vindictiveness_and_status_doubt",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "一手脚打拼为金内自豪，不客观褒扬其发迹全正当。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "一手脚打拼为金内自豪，不客观褒扬其发迹全正当。"
+      },
+      {
+        "reference": "v01-c0061:p0004",
+        "length": 85,
+        "sha256": "dc5a24961aca80752cd1a083b2ca9159338c4959e1e48b8facd57c003c3ffb99",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0004:u001",
+            "start": 0,
+            "end": 85,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金富手旧凶名阎罗追命手，19却追魂手同章异文保字同人，不造两金或新绰号人物。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "金富手旧凶名阎罗追命手，19却追魂手同章异文保字同人，不造两金或新绰号人物。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金富手旧凶名阎罗追命手，19却追魂手同章异文保字同人，不造两金或新绰号人物。"
+      },
+      {
+        "reference": "v01-c0061:p0005",
+        "length": 42,
+        "sha256": "ceba72171345f5ab378ef431cf5975aad01826e0f99d8fcd04304a5cc6d11847",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0005:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金视角重述孟出现，与60末为同一开场不硬演连续喊两次。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "金视角重述孟出现，与60末为同一开场不硬演连续喊两次。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金视角重述孟出现，与60末为同一开场不硬演连续喊两次。"
+      },
+      {
+        "reference": "v01-c0061:p0006",
+        "length": 21,
+        "sha256": "fdf3be44c2c391c6cffa70f5c17a976350921ada6cbb18eb6d600b45d8e8adce",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0006:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_public_Zhending_not_wearing_ape_mask_yet_outfit_to_acquire",
+            "text_context": "孟actual印堂发黑为承60同句视角重述，非新增预言已验证。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "actual_M_Zhending_probe_courteous_farewell_and_outfit_quip",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "recognizes_Jin_from_Duan_records_uses_prediction_of_vindictiveness_to_reverse_tail_does_not_hear_postdeparture_marriage_or_framer_intent",
+            "delivery": "playful_fortune_probe_calm_courtesy_then_private_satisfaction_outfit_frustration_light_quip_not_knowing_rescue",
+            "knowledge_boundary": "孟actual印堂发黑为承60同句视角重述，非新增预言已验证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual印堂发黑为承60同句视角重述，非新增预言已验证。"
+      },
+      {
+        "reference": "v01-c0061:p0007",
+        "length": 55,
+        "sha256": "e757f5f2bebda2291d95a5a3e0cf55ba4b1d0d4dcda9a1e2056f03c5ab18cc64",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0007:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前金内怒框叙N，什么时候和尚到乱葬岗为其内想，不当众给孟口头供罪。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "前金内怒框叙N，什么时候和尚到乱葬岗为其内想，不当众给孟口头供罪。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0007:u002",
+            "start": 21,
+            "end": 34,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "前金内怒框叙N，什么时候和尚到乱葬岗为其内想，不当众给孟口头供罪。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_Ancheng_pride_anger_vindictiveness_and_status_doubt",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "前金内怒框叙N，什么时候和尚到乱葬岗为其内想，不当众给孟口头供罪。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0007:u003",
+            "start": 34,
+            "end": 55,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "前金内怒框叙N，什么时候和尚到乱葬岗为其内想，不当众给孟口头供罪。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_Ancheng_pride_anger_vindictiveness_and_status_doubt",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "前金内怒框叙N，什么时候和尚到乱葬岗为其内想，不当众给孟口头供罪。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前金内怒框叙N，什么时候和尚到乱葬岗为其内想，不当众给孟口头供罪。"
+      },
+      {
+        "reference": "v01-c0061:p0008",
+        "length": 68,
+        "sha256": "52eec72cf98f1721ea8a8da1ade9713eed229c516877b2fe94926d9bb85c43b3",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0008:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "金actual皮笑肉不笑问印堂制止护卫，想亲教训是意图未已打中孟。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "actual_Jin_Ancheng_false_smile_to_power_then_cold_order",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "金actual皮笑肉不笑问印堂制止护卫，想亲教训是意图未已打中孟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0008:u002",
+            "start": 20,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金actual皮笑肉不笑问印堂制止护卫，想亲教训是意图未已打中孟。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "金actual皮笑肉不笑问印堂制止护卫，想亲教训是意图未已打中孟。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金actual皮笑肉不笑问印堂制止护卫，想亲教训是意图未已打中孟。"
+      },
+      {
+        "reference": "v01-c0061:p0009",
+        "length": 47,
+        "sha256": "edfeca9b73f1dbf57c0fd1871de2ad87e16cf7eb3dcc773594f673d36e961d23",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0009:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金见后方四人中两得罪不起源明，未逐一点第二人身份，不借此提前揭何伯真相。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "金见后方四人中两得罪不起源明，未逐一点第二人身份，不借此提前揭何伯真相。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金见后方四人中两得罪不起源明，未逐一点第二人身份，不借此提前揭何伯真相。"
+      },
+      {
+        "reference": "v01-c0061:p0010",
+        "length": 10,
+        "sha256": "1503024e8db3bcac9753b57c56d403f7731f1f7af5ae634a3b11bb8f4b947756",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0010:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "和尚什么身份为金内疑，不实际问完又已知道轮回。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_Ancheng_pride_anger_vindictiveness_and_status_doubt",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "和尚什么身份为金内疑，不实际问完又已知道轮回。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "和尚什么身份为金内疑，不实际问完又已知道轮回。"
+      },
+      {
+        "reference": "v01-c0061:p0011",
+        "length": 39,
+        "sha256": "68bc05f60e535b329607d44893e09bb061e82a47b065f8e941556b58a118ae3f",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0011:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual天机话术似笑试探，不实际会算命或已告金其死期。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "孟actual天机话术似笑试探，不实际会算命或已告金其死期。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0011:u002",
+            "start": 9,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_public_Zhending_not_wearing_ape_mask_yet_outfit_to_acquire",
+            "text_context": "孟actual天机话术似笑试探，不实际会算命或已告金其死期。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "actual_M_Zhending_probe_courteous_farewell_and_outfit_quip",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "recognizes_Jin_from_Duan_records_uses_prediction_of_vindictiveness_to_reverse_tail_does_not_hear_postdeparture_marriage_or_framer_intent",
+            "delivery": "playful_fortune_probe_calm_courtesy_then_private_satisfaction_outfit_frustration_light_quip_not_knowing_rescue",
+            "knowledge_boundary": "孟actual天机话术似笑试探，不实际会算命或已告金其死期。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual天机话术似笑试探，不实际会算命或已告金其死期。"
+      },
+      {
+        "reference": "v01-c0061:p0012",
+        "length": 47,
+        "sha256": "385ecc78e8c9a5f2a0a43a3a9c03b1debea5214c06acfee0f0cfbb5d28cadc79",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0012:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "前娘骂为金内声，后大小姐欢迎actual堆笑，两副脸同人不另人配。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_Ancheng_pride_anger_vindictiveness_and_status_doubt",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "前娘骂为金内声，后大小姐欢迎actual堆笑，两副脸同人不另人配。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0012:u002",
+            "start": 14,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前娘骂为金内声，后大小姐欢迎actual堆笑，两副脸同人不另人配。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "前娘骂为金内声，后大小姐欢迎actual堆笑，两副脸同人不另人配。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0012:u003",
+            "start": 31,
+            "end": 47,
+            "kind": "spoken_dialogue",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "前娘骂为金内声，后大小姐欢迎actual堆笑，两副脸同人不另人配。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "actual_Jin_Ancheng_false_smile_to_power_then_cold_order",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "前娘骂为金内声，后大小姐欢迎actual堆笑，两副脸同人不另人配。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前娘骂为金内声，后大小姐欢迎actual堆笑，两副脸同人不另人配。"
+      },
+      {
+        "reference": "v01-c0061:p0013",
+        "length": 45,
+        "sha256": "1e056d912c01fbb67ab02b1f4f1d3f1cfdfc547f831cd30dd0a3473ed3de7b39",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0013:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔actual路过笑因理解画风玩笑，不已知孟调查金之意。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔actual路过笑因理解画风玩笑，不已知孟调查金之意。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0013:u002",
+            "start": 14,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "崔actual路过笑因理解画风玩笑，不已知孟调查金之意。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "崔actual路过笑因理解画风玩笑，不已知孟调查金之意。",
+            "focalizer": "cui_jinxiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "崔actual路过笑因理解画风玩笑，不已知孟调查金之意。"
+      },
+      {
+        "reference": "v01-c0061:p0014",
+        "length": 23,
+        "sha256": "c7823148be033fc1ae4861cc8a4885a6327797ca96802cadc03be7a879826f1e",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0014:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟回崔众身边实际，不此时立刻离开四人。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "孟回崔众身边实际，不此时立刻离开四人。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟回崔众身边实际，不此时立刻离开四人。"
+      },
+      {
+        "reference": "v01-c0061:p0015",
+        "length": 109,
+        "sha256": "91e2f2afb728d158c719fb304dc74f881908be16d3959f4e050babc5c879fcb3",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0015:u001",
+            "start": 0,
+            "end": 109,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金楼主幕后街主、段明诚宴崔锦华费正青后未返院为资料线索，非三人已证绑架同谋。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "金楼主幕后街主、段明诚宴崔锦华费正青后未返院为资料线索，非三人已证绑架同谋。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金楼主幕后街主、段明诚宴崔锦华费正青后未返院为资料线索，非三人已证绑架同谋。"
+      },
+      {
+        "reference": "v01-c0061:p0016",
+        "length": 50,
+        "sha256": "7a726c6cf829998b961c569d9c4f905737e84f7238f0a873c76b1dfbdbd6d70e",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0016:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "段给详细资料使孟60已认其相貌上前吓唬，读者姓名61今明，不神通天眼识凶。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "段给详细资料使孟60已认其相貌上前吓唬，读者姓名61今明，不神通天眼识凶。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "段给详细资料使孟60已认其相貌上前吓唬，读者姓名61今明，不神通天眼识凶。"
+      },
+      {
+        "reference": "v01-c0061:p0017",
+        "length": 68,
+        "sha256": "702300f37a016b240f7272d98449cfc4ce81625264961310fd757a65d4582247",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0017:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金actual人转街后寒令查僧关系，未孟明确全听此私令或已绑孟。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "金actual人转街后寒令查僧关系，未孟明确全听此私令或已绑孟。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0017:u002",
+            "start": 36,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "金actual人转街后寒令查僧关系，未孟明确全听此私令或已绑孟。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "actual_Jin_Ancheng_false_smile_to_power_then_cold_order",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "金actual人转街后寒令查僧关系，未孟明确全听此私令或已绑孟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金actual人转街后寒令查僧关系，未孟明确全听此私令或已绑孟。"
+      },
+      {
+        "reference": "v01-c0061:p0018",
+        "length": 18,
+        "sha256": "f26e6563959221374e92307fa3c22c1e3912b5ac07d30f0c07de2bde8cc1a824",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0018:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "普通关系休怪狠是金未出口内念，非已判无关系开杀。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_Ancheng_pride_anger_vindictiveness_and_status_doubt",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "普通关系休怪狠是金未出口内念，非已判无关系开杀。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "普通关系休怪狠是金未出口内念，非已判无关系开杀。"
+      },
+      {
+        "reference": "v01-c0061:p0019",
+        "length": 30,
+        "sha256": "38df82d4c2299b9444c3d5099e94c4e175a6e575a30485f5ba362577225d8afe",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0019:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "追魂手自豪内念、与4追命手同章写法冲突保字，异文不能据此另造角色。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_Ancheng_pride_anger_vindictiveness_and_status_doubt",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "追魂手自豪内念、与4追命手同章写法冲突保字，异文不能据此另造角色。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "追魂手自豪内念、与4追命手同章写法冲突保字，异文不能据此另造角色。"
+      },
+      {
+        "reference": "v01-c0061:p0020",
+        "length": 24,
+        "sha256": "d765eac0c6e965a5dbd36b71533b7abc45b9bf759aefc26122eeb3e168d02dcf",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0020:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金不羞反豪源明性格，不旁白鼓励报复。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "金不羞反豪源明性格，不旁白鼓励报复。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金不羞反豪源明性格，不旁白鼓励报复。"
+      },
+      {
+        "reference": "v01-c0061:p0021",
+        "length": 116,
+        "sha256": "22f92a666c1262898e7a317ca46d45062d2042355cd9e2fb90c3c63e055a22e7",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0021:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "jin_ancheng_guards_unspecified_spokesman",
+            "surface_identity": "two_Jin_guards_exact_acknowledging_individual_unspecified",
+            "text_context": "是楼主护卫actual具体个体未分，两人出意在预等城主府看孟住宿，不直接跟崔小姐报复她。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "actual_Jin_guard_unspecified_acknowledgment",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "plan_wait_near_mansion_for_Meng_lodging_relation_clue_later_lose_him_return_to_Jin",
+            "delivery": "brief_obedient_acknowledgment_not_named_guard_or_forced_unison",
+            "knowledge_boundary": "是楼主护卫actual具体个体未分，两人出意在预等城主府看孟住宿，不直接跟崔小姐报复她。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0021:u002",
+            "start": 7,
+            "end": 116,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "是楼主护卫actual具体个体未分，两人出意在预等城主府看孟住宿，不直接跟崔小姐报复她。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "是楼主护卫actual具体个体未分，两人出意在预等城主府看孟住宿，不直接跟崔小姐报复她。",
+            "focalizer": "jin_ancheng_guards_unspecified_spokesman",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "是楼主护卫actual具体个体未分，两人出意在预等城主府看孟住宿，不直接跟崔小姐报复她。"
+      },
+      {
+        "reference": "v01-c0061:p0022",
+        "length": 57,
+        "sha256": "0a6d84b87001f61064fb91d03412093ba218f4fa9c19fb1ed0e25c2fbec705ad",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0022:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金脑回荡旧印堂话而惴惴N，不孟此刻隔空又喊一次。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "金脑回荡旧印堂话而惴惴N，不孟此刻隔空又喊一次。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金脑回荡旧印堂话而惴惴N，不孟此刻隔空又喊一次。"
+      },
+      {
+        "reference": "v01-c0061:p0023",
+        "length": 13,
+        "sha256": "cd5d74121de5b36f5831d1d4096da492c7008fe7bda6039d4f355a3d07cf1774",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0023:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "灾祸问金内/低念可听待录，不真的已被预言锁定灾。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_superstition_selfdebate_audibility_open",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "灾祸问金内/低念可听待录，不真的已被预言锁定灾。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灾祸问金内/低念可听待录，不真的已被预言锁定灾。"
+      },
+      {
+        "reference": "v01-c0061:p0024",
+        "length": 26,
+        "sha256": "1446ceb75b6d345339c02033e4d7b59263a6ed42e1dd7486b7537ad27af08538",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0024:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "和尚骗子金自我劝内/低念待录，不真实独证孟身份全真或金不迷信。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_superstition_selfdebate_audibility_open",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "和尚骗子金自我劝内/低念待录，不真实独证孟身份全真或金不迷信。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0024:u002",
+            "start": 16,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "和尚骗子金自我劝内/低念待录，不真实独证孟身份全真或金不迷信。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_superstition_selfdebate_audibility_open",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "和尚骗子金自我劝内/低念待录，不真实独证孟身份全真或金不迷信。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "和尚骗子金自我劝内/低念待录，不真实独证孟身份全真或金不迷信。"
+      },
+      {
+        "reference": "v01-c0061:p0025",
+        "length": 25,
+        "sha256": "3b1947d22e3ad7b55a878eba5b9cbd3db95b823313e30948363316d9d58635e7",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0025:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "jin_ancheng",
+            "surface_identity": "JinAncheng_Tianxiang_owner_foreheadgrowth_target_named_now_titles_Zhuiming_vs_Zhuihun_source_conflict",
+            "text_context": "仙安观求符金内想/低念待录，未已经去观买符。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "editorial_Jin_superstition_selfdebate_audibility_open",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "proud_gangboss_stops_guards_changes_face_on_seeing_status_orders_two_scouts_then_superstitious_worry",
+            "delivery": "selfsatisfied_inner_pride_angry_false_smile_then_fawning_greeting_cold_order_private_fear_of_omen",
+            "knowledge_boundary": "仙安观求符金内想/低念待录，未已经去观买符。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仙安观求符金内想/低念待录，未已经去观买符。"
+      },
+      {
+        "reference": "v01-c0061:p0026",
+        "length": 86,
+        "sha256": "30120a9de0a14880cfbb586cdff836ddaa1b6fe2a0aa3407b224edc91a347a32",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0026:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑道经历与运气求安是金信怪力的解释，不本章已新杀人。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "黑道经历与运气求安是金信怪力的解释，不本章已新杀人。",
+            "focalizer": "jin_ancheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑道经历与运气求安是金信怪力的解释，不本章已新杀人。"
+      },
+      {
+        "reference": "v01-c0061:p0027",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0027:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略切至孟同行N。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Jin_two_faces_guard_order_and_superstitious_doubt",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "省略切至孟同行N。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略切至孟同行N。"
+      },
+      {
+        "reference": "v01-c0061:p0028",
+        "length": 42,
+        "sha256": "3b87ea68a7fe2ae27c9fd99b67ffa67d67f6e8de8c56403bd0fe129e945287ee",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0028:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_public_Zhending_not_wearing_ape_mask_yet_outfit_to_acquire",
+            "text_context": "孟actual向四位辞别，目的已达仅当前探人一步，不主线找子已完成。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_M_Zhending_probe_courteous_farewell_and_outfit_quip",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "recognizes_Jin_from_Duan_records_uses_prediction_of_vindictiveness_to_reverse_tail_does_not_hear_postdeparture_marriage_or_framer_intent",
+            "delivery": "playful_fortune_probe_calm_courtesy_then_private_satisfaction_outfit_frustration_light_quip_not_knowing_rescue",
+            "knowledge_boundary": "孟actual向四位辞别，目的已达仅当前探人一步，不主线找子已完成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0028:u002",
+            "start": 29,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual向四位辞别，目的已达仅当前探人一步，不主线找子已完成。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "孟actual向四位辞别，目的已达仅当前探人一步，不主线找子已完成。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual向四位辞别，目的已达仅当前探人一步，不主线找子已完成。"
+      },
+      {
+        "reference": "v01-c0061:p0029",
+        "length": 34,
+        "sha256": "74615d71256c11990b2441ac7fbe32dd24656e775a84a700429e476c23536cd2",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0029:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "崔actual失望想邀府细问仙事，未已留孟过夜。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "崔actual失望想邀府细问仙事，未已留孟过夜。",
+            "focalizer": "cui_jinxiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0029:u002",
+            "start": 10,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔actual失望想邀府细问仙事，未已留孟过夜。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔actual失望想邀府细问仙事，未已留孟过夜。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "崔actual失望想邀府细问仙事，未已留孟过夜。"
+      },
+      {
+        "reference": "v01-c0061:p0030",
+        "length": 39,
+        "sha256": "7d75c627b9f6f86b5165608809a11b4fa4103d45d6f2d38731b909ca10eb46e4",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0030:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何伯咳嗽无逐字N后规矩actual，不对孟已下逐客杀令或真实身份揭。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "何伯咳嗽无逐字N后规矩actual，不对孟已下逐客杀令或真实身份揭。",
+            "focalizer": "tianding_whitehaired_elder",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0030:u002",
+            "start": 15,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "tianding_whitehaired_elder",
+            "surface_identity": "same_whitehair_elder_called_Hebo_not_fullname_revealed",
+            "text_context": "何伯咳嗽无逐字N后规矩actual，不对孟已下逐客杀令或真实身份揭。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Hebo_house_rules_reminder",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "cough_then_house_rules_reminder_silent_during_girl_talk",
+            "delivery": "discreet_groundward_gaze_matter_of_fact_rule_not_threat",
+            "resolved_person_id": "he_bo",
+            "knowledge_boundary": "何伯咳嗽无逐字N后规矩actual，不对孟已下逐客杀令或真实身份揭。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何伯咳嗽无逐字N后规矩actual，不对孟已下逐客杀令或真实身份揭。"
+      },
+      {
+        "reference": "v01-c0061:p0031",
+        "length": 14,
+        "sha256": "25f73efb2617e1262eb316516b64c73a7c661e45dc4d44f6e3fb72d00c1079d6",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0031:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何提醒府规源明，不独证嫌孟恶意或私谋。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "何提醒府规源明，不独证嫌孟恶意或私谋。",
+            "focalizer": "tianding_whitehaired_elder",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何提醒府规源明，不独证嫌孟恶意或私谋。"
+      },
+      {
+        "reference": "v01-c0061:p0032",
+        "length": 78,
+        "sha256": "0208f5a32c29b5cb319ffc7ddf1f168dcae583bdc5da75074600d0ed669f6727",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0032:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual缘再会求斋饭，前N不太热情避疑是真算，不纯无求高僧已证。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "孟actual缘再会求斋饭，前N不太热情避疑是真算，不纯无求高僧已证。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0032:u002",
+            "start": 51,
+            "end": 78,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_public_Zhending_not_wearing_ape_mask_yet_outfit_to_acquire",
+            "text_context": "孟actual缘再会求斋饭，前N不太热情避疑是真算，不纯无求高僧已证。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_M_Zhending_probe_courteous_farewell_and_outfit_quip",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "recognizes_Jin_from_Duan_records_uses_prediction_of_vindictiveness_to_reverse_tail_does_not_hear_postdeparture_marriage_or_framer_intent",
+            "delivery": "playful_fortune_probe_calm_courtesy_then_private_satisfaction_outfit_frustration_light_quip_not_knowing_rescue",
+            "knowledge_boundary": "孟actual缘再会求斋饭，前N不太热情避疑是真算，不纯无求高僧已证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual缘再会求斋饭，前N不太热情避疑是真算，不纯无求高僧已证。"
+      },
+      {
+        "reference": "v01-c0061:p0033",
+        "length": 28,
+        "sha256": "6f1bc5f2b54dddc5871cee80a463313e1c47d8d49041537943d32d40eab54b39",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0033:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_public_Zhending_not_wearing_ape_mask_yet_outfit_to_acquire",
+            "text_context": "以后查崔锦华段失踪关联为孟内打算，不已问到婚事和两父失和。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "editorial_M_private_future_inquiry_and_reverse_tail_plan",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "recognizes_Jin_from_Duan_records_uses_prediction_of_vindictiveness_to_reverse_tail_does_not_hear_postdeparture_marriage_or_framer_intent",
+            "delivery": "playful_fortune_probe_calm_courtesy_then_private_satisfaction_outfit_frustration_light_quip_not_knowing_rescue",
+            "knowledge_boundary": "以后查崔锦华段失踪关联为孟内打算，不已问到婚事和两父失和。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "以后查崔锦华段失踪关联为孟内打算，不已问到婚事和两父失和。"
+      },
+      {
+        "reference": "v01-c0061:p0034",
+        "length": 26,
+        "sha256": "61529bef349a6ff3667ded41f459614a8f8df98b8d48ff9a011e6a3501f4bd08",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0034:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟此刻实际拐走，35–53余人谈话孟未在场不得共享信息。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "孟此刻实际拐走，35–53余人谈话孟未在场不得共享信息。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟此刻实际拐走，35–53余人谈话孟未在场不得共享信息。"
+      },
+      {
+        "reference": "v01-c0061:p0035",
+        "length": 59,
+        "sha256": "e64f2a09106b21887b01646ec1dd70f8dba105ea781bf2eb42a7d81187dc2403",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0035:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "崔actual高僧范评价为她所见误读孟避疑算盘，不作者全知无欲定论。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "崔actual高僧范评价为她所见误读孟避疑算盘，不作者全知无欲定论。",
+            "focalizer": "cui_jinxiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0035:u002",
+            "start": 15,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔actual高僧范评价为她所见误读孟避疑算盘，不作者全知无欲定论。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔actual高僧范评价为她所见误读孟避疑算盘，不作者全知无欲定论。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "崔actual高僧范评价为她所见误读孟避疑算盘，不作者全知无欲定论。"
+      },
+      {
+        "reference": "v01-c0061:p0036",
+        "length": 77,
+        "sha256": "fb558966c4586d75a224eb855b3eecdd299bf4ba36869e568f4bfc0f381278aa",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0036:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "riverboat_hairbun_swordswoman",
+            "surface_identity": "same_LiXinyu_Zhang_spouse_no_Meng_impostureknowledge",
+            "text_context": "李actual劝不信故事与担孟谜，未全认其恶人或知道其轮回。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Li_worried_advice_marriage_teasing_and_rumor",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "warns_about_stories_teases_marriage_reports_rumor_privately_suspects_Cui_feelings_then_shocked_by_disappearance",
+            "delivery": "gentle_concern_relief_playful_tease_polite_adjustment_surprise_and_private_skepticism",
+            "resolved_person_id": "li_xinyu",
+            "knowledge_boundary": "李actual劝不信故事与担孟谜，未全认其恶人或知道其轮回。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0036:u002",
+            "start": 48,
+            "end": 77,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "李actual劝不信故事与担孟谜，未全认其恶人或知道其轮回。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "李actual劝不信故事与担孟谜，未全认其恶人或知道其轮回。",
+            "focalizer": "riverboat_hairbun_swordswoman",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "李actual劝不信故事与担孟谜，未全认其恶人或知道其轮回。"
+      },
+      {
+        "reference": "v01-c0061:p0037",
+        "length": 41,
+        "sha256": "fed96880780ebfa3e4102fa659c3ea7bf68887cb6eaa109cface3ade87294f8d",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0037:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "崔actual声称亲眼才信，不能将前章兴奋写成已全信仙界。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "崔actual声称亲眼才信，不能将前章兴奋写成已全信仙界。",
+            "focalizer": "cui_jinxiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0037:u002",
+            "start": 6,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔actual声称亲眼才信，不能将前章兴奋写成已全信仙界。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔actual声称亲眼才信，不能将前章兴奋写成已全信仙界。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0037:u003",
+            "start": 16,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔actual声称亲眼才信，不能将前章兴奋写成已全信仙界。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔actual声称亲眼才信，不能将前章兴奋写成已全信仙界。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "崔actual声称亲眼才信，不能将前章兴奋写成已全信仙界。"
+      },
+      {
+        "reference": "v01-c0061:p0038",
+        "length": 58,
+        "sha256": "e766452ad43fa84d3a8529060e8ca944ac7aa0047534be937cf21783312f3afe",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0038:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "riverboat_hairbun_swordswoman",
+            "surface_identity": "same_LiXinyu_Zhang_spouse_no_Meng_impostureknowledge",
+            "text_context": "李两actual松气转婚事逗趣，不圣旨定婚已成。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Li_worried_advice_marriage_teasing_and_rumor",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "warns_about_stories_teases_marriage_reports_rumor_privately_suspects_Cui_feelings_then_shocked_by_disappearance",
+            "delivery": "gentle_concern_relief_playful_tease_polite_adjustment_surprise_and_private_skepticism",
+            "resolved_person_id": "li_xinyu",
+            "knowledge_boundary": "李两actual松气转婚事逗趣，不圣旨定婚已成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0038:u002",
+            "start": 12,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "李两actual松气转婚事逗趣，不圣旨定婚已成。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "李两actual松气转婚事逗趣，不圣旨定婚已成。",
+            "focalizer": "riverboat_hairbun_swordswoman",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0038:u003",
+            "start": 28,
+            "end": 58,
+            "kind": "spoken_dialogue",
+            "speaker": "riverboat_hairbun_swordswoman",
+            "surface_identity": "same_LiXinyu_Zhang_spouse_no_Meng_impostureknowledge",
+            "text_context": "李两actual松气转婚事逗趣，不圣旨定婚已成。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Li_worried_advice_marriage_teasing_and_rumor",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "warns_about_stories_teases_marriage_reports_rumor_privately_suspects_Cui_feelings_then_shocked_by_disappearance",
+            "delivery": "gentle_concern_relief_playful_tease_polite_adjustment_surprise_and_private_skepticism",
+            "resolved_person_id": "li_xinyu",
+            "knowledge_boundary": "李两actual松气转婚事逗趣，不圣旨定婚已成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "李两actual松气转婚事逗趣，不圣旨定婚已成。"
+      },
+      {
+        "reference": "v01-c0061:p0039",
+        "length": 74,
+        "sha256": "4303b54731d7f5534bacd7420c8314a9602910afb42379252b54493c521d3f39",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0039:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔两actual夫婿条件和自挑、羞恼源明，不据符合条件就证她爱孟。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔两actual夫婿条件和自挑、羞恼源明，不据符合条件就证她爱孟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0039:u002",
+            "start": 6,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔两actual夫婿条件和自挑、羞恼源明，不据符合条件就证她爱孟。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔两actual夫婿条件和自挑、羞恼源明，不据符合条件就证她爱孟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0039:u003",
+            "start": 28,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "崔两actual夫婿条件和自挑、羞恼源明，不据符合条件就证她爱孟。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "崔两actual夫婿条件和自挑、羞恼源明，不据符合条件就证她爱孟。",
+            "focalizer": "cui_jinxiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0039:u004",
+            "start": 64,
+            "end": 74,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔两actual夫婿条件和自挑、羞恼源明，不据符合条件就证她爱孟。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔两actual夫婿条件和自挑、羞恼源明，不据符合条件就证她爱孟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "崔两actual夫婿条件和自挑、羞恼源明，不据符合条件就证她爱孟。"
+      },
+      {
+        "reference": "v01-c0061:p0040",
+        "length": 60,
+        "sha256": "90145299026ef4cfe1d520352ac9ab8b414268b91f99f34e0463f2c7c2a5d615",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0040:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "riverboat_hairbun_swordswoman",
+            "surface_identity": "same_LiXinyu_Zhang_spouse_no_Meng_impostureknowledge",
+            "text_context": "李actual掌珠附和、因身份止玩笑是框叙，不她已给婚事作主。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Li_worried_advice_marriage_teasing_and_rumor",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "warns_about_stories_teases_marriage_reports_rumor_privately_suspects_Cui_feelings_then_shocked_by_disappearance",
+            "delivery": "gentle_concern_relief_playful_tease_polite_adjustment_surprise_and_private_skepticism",
+            "resolved_person_id": "li_xinyu",
+            "knowledge_boundary": "李actual掌珠附和、因身份止玩笑是框叙，不她已给婚事作主。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0040:u002",
+            "start": 30,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "李actual掌珠附和、因身份止玩笑是框叙，不她已给婚事作主。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "李actual掌珠附和、因身份止玩笑是框叙，不她已给婚事作主。",
+            "focalizer": "riverboat_hairbun_swordswoman",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "李actual掌珠附和、因身份止玩笑是框叙，不她已给婚事作主。"
+      },
+      {
+        "reference": "v01-c0061:p0041",
+        "length": 33,
+        "sha256": "6e49c93618ff22dbf3caba68ba860dd12cd315c8c67bb17103de4fbe08e1a57a",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0041:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "崔actual爹之前有定亲打算，不已完婚或契约已正式定。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "崔actual爹之前有定亲打算，不已完婚或契约已正式定。",
+            "focalizer": "cui_jinxiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0041:u002",
+            "start": 15,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔actual爹之前有定亲打算，不已完婚或契约已正式定。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔actual爹之前有定亲打算，不已完婚或契约已正式定。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "崔actual爹之前有定亲打算，不已完婚或契约已正式定。"
+      },
+      {
+        "reference": "v01-c0061:p0042",
+        "length": 54,
+        "sha256": "ed20c2ff338c993dfef20e722ab1523c36d6498026db6ebf3cb7b08c4dc22cd2",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0042:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "riverboat_hairbun_swordswoman",
+            "surface_identity": "same_LiXinyu_Zhang_spouse_no_Meng_impostureknowledge",
+            "text_context": "李actual询谁家，张何沉默前行不把此口配给二男。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Li_worried_advice_marriage_teasing_and_rumor",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "warns_about_stories_teases_marriage_reports_rumor_privately_suspects_Cui_feelings_then_shocked_by_disappearance",
+            "delivery": "gentle_concern_relief_playful_tease_polite_adjustment_surprise_and_private_skepticism",
+            "resolved_person_id": "li_xinyu",
+            "knowledge_boundary": "李actual询谁家，张何沉默前行不把此口配给二男。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0042:u002",
+            "start": 17,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "李actual询谁家，张何沉默前行不把此口配给二男。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "李actual询谁家，张何沉默前行不把此口配给二男。",
+            "focalizer": "riverboat_hairbun_swordswoman",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "李actual询谁家，张何沉默前行不把此口配给二男。"
+      },
+      {
+        "reference": "v01-c0061:p0043",
+        "length": 16,
+        "sha256": "b5420696cfdaaaeb278b2ae662f27bfe9eff7c723b5a2f2ba7dea36230f77fac",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0043:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "崔actual段家哥哥，联系段明诚但未本人现身或出声。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "崔actual段家哥哥，联系段明诚但未本人现身或出声。",
+            "focalizer": "cui_jinxiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0043:u002",
+            "start": 8,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔actual段家哥哥，联系段明诚但未本人现身或出声。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔actual段家哥哥，联系段明诚但未本人现身或出声。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "崔actual段家哥哥，联系段明诚但未本人现身或出声。"
+      },
+      {
+        "reference": "v01-c0061:p0044",
+        "length": 64,
+        "sha256": "780f2ce4927fc249492bfa4f40559aa4fdc0de54461d2ee5f2ec1253b3236044",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0044:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "riverboat_hairbun_swordswoman",
+            "surface_identity": "same_LiXinyu_Zhang_spouse_no_Meng_impostureknowledge",
+            "text_context": "李两actual惊闲隐子和传闻纨绔武普通，皆其得闻不独证真实武功底细。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Li_worried_advice_marriage_teasing_and_rumor",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "warns_about_stories_teases_marriage_reports_rumor_privately_suspects_Cui_feelings_then_shocked_by_disappearance",
+            "delivery": "gentle_concern_relief_playful_tease_polite_adjustment_surprise_and_private_skepticism",
+            "resolved_person_id": "li_xinyu",
+            "knowledge_boundary": "李两actual惊闲隐子和传闻纨绔武普通，皆其得闻不独证真实武功底细。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0044:u002",
+            "start": 11,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "李两actual惊闲隐子和传闻纨绔武普通，皆其得闻不独证真实武功底细。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "李两actual惊闲隐子和传闻纨绔武普通，皆其得闻不独证真实武功底细。",
+            "focalizer": "riverboat_hairbun_swordswoman",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0044:u003",
+            "start": 25,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "riverboat_hairbun_swordswoman",
+            "surface_identity": "same_LiXinyu_Zhang_spouse_no_Meng_impostureknowledge",
+            "text_context": "李两actual惊闲隐子和传闻纨绔武普通，皆其得闻不独证真实武功底细。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Li_worried_advice_marriage_teasing_and_rumor",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "warns_about_stories_teases_marriage_reports_rumor_privately_suspects_Cui_feelings_then_shocked_by_disappearance",
+            "delivery": "gentle_concern_relief_playful_tease_polite_adjustment_surprise_and_private_skepticism",
+            "resolved_person_id": "li_xinyu",
+            "knowledge_boundary": "李两actual惊闲隐子和传闻纨绔武普通，皆其得闻不独证真实武功底细。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "李两actual惊闲隐子和传闻纨绔武普通，皆其得闻不独证真实武功底细。"
+      },
+      {
+        "reference": "v01-c0061:p0045",
+        "length": 77,
+        "sha256": "22fd1c19a5447982140ddd0fcfccf07bbb6b65ea033fe979d1afde4acd174ad8",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0045:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "崔actual自称见段出手与兄相当、纨绔有深意为其观察和猜，非孟已经听到或真实动机已核。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "崔actual自称见段出手与兄相当、纨绔有深意为其观察和猜，非孟已经听到或真实动机已核。",
+            "focalizer": "cui_jinxiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0045:u002",
+            "start": 15,
+            "end": 77,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔actual自称见段出手与兄相当、纨绔有深意为其观察和猜，非孟已经听到或真实动机已核。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔actual自称见段出手与兄相当、纨绔有深意为其观察和猜，非孟已经听到或真实动机已核。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "崔actual自称见段出手与兄相当、纨绔有深意为其观察和猜，非孟已经听到或真实动机已核。"
+      },
+      {
+        "reference": "v01-c0061:p0046",
+        "length": 43,
+        "sha256": "0a1969fe321cba21cb2f5516a27cf5dd0344ca5a1d5760ac4ba59aacfe73ae6e",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0046:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "李动作N后情思寄段是其未出口内猜，不已证崔恋情或公开嘲弄。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "李动作N后情思寄段是其未出口内猜，不已证崔恋情或公开嘲弄。",
+            "focalizer": "riverboat_hairbun_swordswoman",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0046:u002",
+            "start": 18,
+            "end": 43,
+            "kind": "inner_speech",
+            "speaker": "riverboat_hairbun_swordswoman",
+            "surface_identity": "same_LiXinyu_Zhang_spouse_no_Meng_impostureknowledge",
+            "text_context": "李动作N后情思寄段是其未出口内猜，不已证崔恋情或公开嘲弄。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "editorial_Li_private_romantic_bias_hypothesis",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "warns_about_stories_teases_marriage_reports_rumor_privately_suspects_Cui_feelings_then_shocked_by_disappearance",
+            "delivery": "gentle_concern_relief_playful_tease_polite_adjustment_surprise_and_private_skepticism",
+            "resolved_person_id": "li_xinyu",
+            "knowledge_boundary": "李动作N后情思寄段是其未出口内猜，不已证崔恋情或公开嘲弄。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "李动作N后情思寄段是其未出口内猜，不已证崔恋情或公开嘲弄。"
+      },
+      {
+        "reference": "v01-c0061:p0047",
+        "length": 47,
+        "sha256": "274af531d378d11c87b8aa0a2cd0f8a07d648e93d5354c53ff36672877b611ac",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0047:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张actual相信崔武评感叹，不他亲见段完整底牌。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "张actual相信崔武评感叹，不他亲见段完整底牌。",
+            "focalizer": "zhang_zongxian",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0047:u002",
+            "start": 19,
+            "end": 47,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_zongxian",
+            "surface_identity": "ZhangZongxian_hears_marriage_conversation_after_Meng_leaves",
+            "text_context": "张actual相信崔武评感叹，不他亲见段完整底牌。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Zhang_interest_in_Duan_strength_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "silent_on_girl_talk_until_martial_strength_interest_believes_Cui_report_not_direct_witness",
+            "delivery": "interested_sincere_strength_comment_not_omniscient_rankproof",
+            "knowledge_boundary": "张actual相信崔武评感叹，不他亲见段完整底牌。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张actual相信崔武评感叹，不他亲见段完整底牌。"
+      },
+      {
+        "reference": "v01-c0061:p0048",
+        "length": 53,
+        "sha256": "1ea1a70970a58db43e76f44183e6d52305f1ed4aa7216389a49fa925ff36c18e",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0048:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "锦华年轻代最有望开藏为声誉背景，不已经开藏成宗师。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "锦华年轻代最有望开藏为声誉背景，不已经开藏成宗师。",
+            "focalizer": "zhang_zongxian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "锦华年轻代最有望开藏为声誉背景，不已经开藏成宗师。"
+      },
+      {
+        "reference": "v01-c0061:p0049",
+        "length": 42,
+        "sha256": "eed438ab460df152bb018d77a9d4a1c25ae4b42a718da7afa56044920ce39ce2",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0049:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张信崔理由N，不崔所有判断从此绝不会错。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "张信崔理由N，不崔所有判断从此绝不会错。",
+            "focalizer": "zhang_zongxian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张信崔理由N，不崔所有判断从此绝不会错。"
+      },
+      {
+        "reference": "v01-c0061:p0050",
+        "length": 50,
+        "sha256": "ea5bc103db4463bad94347927edc88794bd5b7aae302e13a9e8c9d07cfdf9070",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0050:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "riverboat_hairbun_swordswoman",
+            "surface_identity": "same_LiXinyu_Zhang_spouse_no_Meng_impostureknowledge",
+            "text_context": "李actual良配问不满为顺话，未强行替崔许婚。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Li_worried_advice_marriage_teasing_and_rumor",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "warns_about_stories_teases_marriage_reports_rumor_privately_suspects_Cui_feelings_then_shocked_by_disappearance",
+            "delivery": "gentle_concern_relief_playful_tease_polite_adjustment_surprise_and_private_skepticism",
+            "resolved_person_id": "li_xinyu",
+            "knowledge_boundary": "李actual良配问不满为顺话，未强行替崔许婚。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0050:u002",
+            "start": 40,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "李actual良配问不满为顺话，未强行替崔许婚。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "李actual良配问不满为顺话，未强行替崔许婚。",
+            "focalizer": "riverboat_hairbun_swordswoman",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "李actual良配问不满为顺话，未强行替崔许婚。"
+      },
+      {
+        "reference": "v01-c0061:p0051",
+        "length": 56,
+        "sha256": "95ce2a68f0fa7cf8e574bf774a2336d2e675f7865a87fee3b085c4d1bda48872",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0051:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "崔actual低头捏裙失踪无踪并段伯父亲闹翻为她转述，孟已走未知这一支线。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "崔actual低头捏裙失踪无踪并段伯父亲闹翻为她转述，孟已走未知这一支线。",
+            "focalizer": "cui_jinxiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0051:u002",
+            "start": 26,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "cui_jinxiu",
+            "surface_identity": "CuiJinxiu_citylord_daughter_Meng_absent_from_late_private_conversation",
+            "text_context": "崔actual低头捏裙失踪无踪并段伯父亲闹翻为她转述，孟已走未知这一支线。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_Cui_farewell_admiration_skepticism_and_marriage_report",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "disappointed_Meng_leaves_then_claims_eyeproof_standard_shy_marriage_choice_reports_Duan_skill_missing_and_fathers_quarrel",
+            "delivery": "disappointed_then_admiring_confident_not_gullible_teasing_blush_then_complex_distant_sadness",
+            "knowledge_boundary": "崔actual低头捏裙失踪无踪并段伯父亲闹翻为她转述，孟已走未知这一支线。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "崔actual低头捏裙失踪无踪并段伯父亲闹翻为她转述，孟已走未知这一支线。"
+      },
+      {
+        "reference": "v01-c0061:p0052",
+        "length": 53,
+        "sha256": "642965050b2e6f3c7eb53e0d8b81e9fbc9d8d1d21908d35748a4ea66b994e93b",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0052:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_li_couple_unspecified_spokesperson",
+            "surface_identity": "Zhang_and_Li_both_shocked_exact_speaking_individual_unspecified_Meng_absent",
+            "text_context": "仅首引语张李共同惊反应实际、具体谁发未分不自动齐声，后闲隐先生词N，孟已知失踪不配此声；后儿身份惊N。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "actual_pair_unspecified_shocked_Duan_disappearance_question",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "only_now_learn_missing_son_had_hidden_their_own_trail_for_map",
+            "delivery": "startled_question_one_primary_voice_editorial_choice_pending_not_fixed_chorus",
+            "knowledge_boundary": "仅首引语张李共同惊反应实际、具体谁发未分不自动齐声，后闲隐先生词N，孟已知失踪不配此声；后儿身份惊N。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0052:u002",
+            "start": 13,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仅首引语张李共同惊反应实际、具体谁发未分不自动齐声，后闲隐先生词N，孟已知失踪不配此声；后儿身份惊N。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "仅首引语张李共同惊反应实际、具体谁发未分不自动齐声，后闲隐先生词N，孟已知失踪不配此声；后儿身份惊N。",
+            "focalizer": "zhang_li_couple_unspecified_spokesperson",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仅首引语张李共同惊反应实际、具体谁发未分不自动齐声，后闲隐先生词N，孟已知失踪不配此声；后儿身份惊N。"
+      },
+      {
+        "reference": "v01-c0061:p0053",
+        "length": 25,
+        "sha256": "08c9e18255f7f5611a6fb135421f9a33569df0dfd39b612d0b68ea9b5563c0ed",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0053:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "夫妇隐藏宝图故不知大事源明，非之前故意对孟装不知失踪。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "夫妇隐藏宝图故不知大事源明，非之前故意对孟装不知失踪。",
+            "focalizer": "zhang_li_couple_unspecified_spokesperson",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "夫妇隐藏宝图故不知大事源明，非之前故意对孟装不知失踪。"
+      },
+      {
+        "reference": "v01-c0061:p0054",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0054:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略切至孟N。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_leaves_then_private_marriage_and_missing_son_reports",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "省略切至孟N。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略切至孟N。"
+      },
+      {
+        "reference": "v01-c0061:p0055",
+        "length": 39,
+        "sha256": "bea56813ced88e474ac4153186a4025c9ae49548f7d23c1ccb4fc0330b8e9b7b",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0055:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟屋顶看失僧护卫回金宅实跟出住址，不跟踪成功还已审金。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_reverse_tail_finds_house_needs_outfit_contact_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "孟屋顶看失僧护卫回金宅实跟出住址，不跟踪成功还已审金。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟屋顶看失僧护卫回金宅实跟出住址，不跟踪成功还已审金。"
+      },
+      {
+        "reference": "v01-c0061:p0056",
+        "length": 80,
+        "sha256": "4abb83b74db9de5575ffce5c55798ec01cd151de3a49279db31e2fd4bc6175ff",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0056:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_public_Zhending_not_wearing_ape_mask_yet_outfit_to_acquire",
+            "text_context": "仅首引语孟内想着、后能屈能伸睚眦必报八字资料引述N，不孟公开念或从金内心读来。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_reverse_tail_finds_house_needs_outfit_contact_unknown",
+            "channel": "editorial_M_private_future_inquiry_and_reverse_tail_plan",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "recognizes_Jin_from_Duan_records_uses_prediction_of_vindictiveness_to_reverse_tail_does_not_hear_postdeparture_marriage_or_framer_intent",
+            "delivery": "playful_fortune_probe_calm_courtesy_then_private_satisfaction_outfit_frustration_light_quip_not_knowing_rescue",
+            "knowledge_boundary": "仅首引语孟内想着、后能屈能伸睚眦必报八字资料引述N，不孟公开念或从金内心读来。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0056:u002",
+            "start": 37,
+            "end": 80,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仅首引语孟内想着、后能屈能伸睚眦必报八字资料引述N，不孟公开念或从金内心读来。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_reverse_tail_finds_house_needs_outfit_contact_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "仅首引语孟内想着、后能屈能伸睚眦必报八字资料引述N，不孟公开念或从金内心读来。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仅首引语孟内想着、后能屈能伸睚眦必报八字资料引述N，不孟公开念或从金内心读来。"
+      },
+      {
+        "reference": "v01-c0061:p0057",
+        "length": 94,
+        "sha256": "cc95cd98bf9fd51f3db9f8e3933aa9e0c91cd0a7db4d59bda5a7c21533838a89",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0057:u001",
+            "start": 0,
+            "end": 94,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟没夜衣不知相神联络法/地点为当前真缺，欲诱其他相神只是计划、未已混入成功。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_reverse_tail_finds_house_needs_outfit_contact_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "孟没夜衣不知相神联络法/地点为当前真缺，欲诱其他相神只是计划、未已混入成功。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟没夜衣不知相神联络法/地点为当前真缺，欲诱其他相神只是计划、未已混入成功。"
+      },
+      {
+        "reference": "v01-c0061:p0058",
+        "length": 57,
+        "sha256": "5aac6f2cca156b8d29dcdc3140d20dfcf895b92061a37e7fd8dcad242e958a1b",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0058:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_public_Zhending_not_wearing_ape_mask_yet_outfit_to_acquire",
+            "text_context": "借夜衣孟内/低念待录后看屋顶陌生夜行人，非原申猴复活或已知其密谋。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_reverse_tail_finds_house_needs_outfit_contact_unknown",
+            "channel": "editorial_M_outfit_question_audibility_open",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "recognizes_Jin_from_Duan_records_uses_prediction_of_vindictiveness_to_reverse_tail_does_not_hear_postdeparture_marriage_or_framer_intent",
+            "delivery": "playful_fortune_probe_calm_courtesy_then_private_satisfaction_outfit_frustration_light_quip_not_knowing_rescue",
+            "knowledge_boundary": "借夜衣孟内/低念待录后看屋顶陌生夜行人，非原申猴复活或已知其密谋。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0058:u002",
+            "start": 12,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "借夜衣孟内/低念待录后看屋顶陌生夜行人，非原申猴复活或已知其密谋。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_reverse_tail_finds_house_needs_outfit_contact_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "借夜衣孟内/低念待录后看屋顶陌生夜行人，非原申猴复活或已知其密谋。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "借夜衣孟内/低念待录后看屋顶陌生夜行人，非原申猴复活或已知其密谋。"
+      },
+      {
+        "reference": "v01-c0061:p0059",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0059:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略改看黑衣人N。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_Meng_reverse_tail_finds_house_needs_outfit_contact_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "省略改看黑衣人N。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略改看黑衣人N。"
+      },
+      {
+        "reference": "v01-c0061:p0060",
+        "length": 60,
+        "sha256": "e668de0b0c1e9d5745c5f2f746d64eb4c35e585bd84b757d8129087237fa2512",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0060:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陌生黑衣想栽赃灭口掩镖物丢为读者焦点，孟64明确不知，不等金护卫或任务幕后已证。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_unknown_framer_plan_Meng_unaware_knockout_for_outfit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "陌生黑衣想栽赃灭口掩镖物丢为读者焦点，孟64明确不知，不等金护卫或任务幕后已证。",
+            "focalizer": "tianding_unknown_nightclothed_framer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陌生黑衣想栽赃灭口掩镖物丢为读者焦点，孟64明确不知，不等金护卫或任务幕后已证。"
+      },
+      {
+        "reference": "v01-c0061:p0061",
+        "length": 47,
+        "sha256": "f19e82ed974a0042b603b8c8d943ddddd9794675663d48ca00259abf8bce7e4a",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0061:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "inner_speech",
+            "speaker": "tianding_unknown_nightclothed_framer",
+            "surface_identity": "new_unnamed_nightclothes_framer_not_Jin_guard_or_dead_Shenhou_or_mainworld_killer",
+            "text_context": "黑衣安心死与照顾孤寡引语选内/低念待录，无公开喊或受害者对话锚，杀人栽赃仍未完成。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_unknown_framer_plan_Meng_unaware_knockout_for_outfit",
+            "channel": "editorial_unknown_framer_murder_intention_audibility_open",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "plans_framing_and_murder_for_lost_cargo_Meng_unaware_hit_with_bladeback_unconscious_not_killed",
+            "delivery": "secret_heat_malicious_intent_then_shocked_unconscious_no_actual_confession_to_Meng",
+            "knowledge_boundary": "黑衣安心死与照顾孤寡引语选内/低念待录，无公开喊或受害者对话锚，杀人栽赃仍未完成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0061:u002",
+            "start": 27,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑衣安心死与照顾孤寡引语选内/低念待录，无公开喊或受害者对话锚，杀人栽赃仍未完成。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_unknown_framer_plan_Meng_unaware_knockout_for_outfit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "黑衣安心死与照顾孤寡引语选内/低念待录，无公开喊或受害者对话锚，杀人栽赃仍未完成。",
+            "focalizer": "tianding_unknown_nightclothed_framer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑衣安心死与照顾孤寡引语选内/低念待录，无公开喊或受害者对话锚，杀人栽赃仍未完成。"
+      },
+      {
+        "reference": "v01-c0061:p0062",
+        "length": 42,
+        "sha256": "4afb138db048bf18f032f0030449077bf0a6ac1ee5a065763315d37befb031e2",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0062:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑衣脑后痛实际晕不是已死，64刀背锚袭者孟不别个杀手。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_unknown_framer_plan_Meng_unaware_knockout_for_outfit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "黑衣脑后痛实际晕不是已死，64刀背锚袭者孟不别个杀手。",
+            "focalizer": "tianding_unknown_nightclothed_framer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑衣脑后痛实际晕不是已死，64刀背锚袭者孟不别个杀手。"
+      },
+      {
+        "reference": "v01-c0061:p0063",
+        "length": 61,
+        "sha256": "f1ca0105757fe9c12bbd668cb900e4b17302bf217296bf72887e863ecabf7396",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0063:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_after_outfit_taken_no_confirmed_mask_redonning",
+            "text_context": "孟actual送衣真情是随口调侃昏者，实际整理取来的夜衣不双方同意借衣，也未明已戴申猴面具。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_unknown_framer_plan_Meng_unaware_knockout_for_outfit",
+            "channel": "actual_M_Zhending_probe_courteous_farewell_and_outfit_quip",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "embodiment": "same_Meng_nightclothes_now_obtained_by_bladeback_knockout_no_mask_redonning_stated",
+            "delivery": "playful_fortune_probe_calm_courtesy_then_private_satisfaction_outfit_frustration_light_quip_not_knowing_rescue",
+            "knowledge_boundary": "孟actual送衣真情是随口调侃昏者，实际整理取来的夜衣不双方同意借衣，也未明已戴申猴面具。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0061:p0063:u002",
+            "start": 29,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual送衣真情是随口调侃昏者，实际整理取来的夜衣不双方同意借衣，也未明已戴申猴面具。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_unknown_framer_plan_Meng_unaware_knockout_for_outfit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "孟actual送衣真情是随口调侃昏者，实际整理取来的夜衣不双方同意借衣，也未明已戴申猴面具。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual送衣真情是随口调侃昏者，实际整理取来的夜衣不双方同意借衣，也未明已戴申猴面具。"
+      },
+      {
+        "reference": "v01-c0061:p0064",
+        "length": 32,
+        "sha256": "5dd1cdf4df03cbc5589fc2e7eb713671e5d123fb08e8043983fa159d3e6eb234",
+        "units": [
+          {
+            "unit_id": "v01-c0061:p0064:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明确孟不知对方干什么、只刀背打晕取衣，不美化成知情除恶或已审清案。",
+            "world_context": "EARLY_v01c61_JinAncheng_named_Tianxiang_gangboss_titles_Zhuiming_Zhuihun_sameperson_conflict_same_opening_reprise_not_double_shout_Jin_status_faces_vindictive_guard_order_superstitious_inner_Duan_records_last_meet_CuiJinhua_FeiZhengqing_not_kidnapproof_Meng_leaves_before_marriage_Duan_skill_fathersquarrel_heard_only_by_others_Li_feelings_guess_not_truth_Meng_reverse_tails_guards_house_outfit_unknown_organization_contact_framer_murder_plan_reader_only_Meng_doesnotknow_bladeback_knockout_clothes_taken_no_interrogation_or_task_completion",
+            "stage_context": "S15_unknown_framer_plan_Meng_unaware_knockout_for_outfit",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_Jin_identity_statusreaction_guard_plan_and_reverse_tail_actual_vs_private_pride_superstition_records_clues_reports_strength_and_marriage_Li_romance_hypothesis_Meng_absent_framer_intent_not_Meng_known_actual_knockout_not_kill",
+            "knowledge_boundary": "源明确孟不知对方干什么、只刀背打晕取衣，不美化成知情除恶或已审清案。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明确孟不知对方干什么、只刀背打晕取衣，不美化成知情除恶或已审清案。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0061",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S15",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 26,
+        "label": "金安成今具名、畏权与报复迷信的两副脸",
+        "direction": "1源明天香楼金安成，2/3地盘成功私豪4富手凶名阎罗追命手，不编杀戮过去具体场。5/6换金视角重述60末印堂句为同一开场，拼接不让孟连续喊两次。7前怒N后和尚算命/乱葬岗内想8皮笑肉不笑问、停护卫欲亲教训，9见四人中两惹不起未给两姓名，10身份内疑11孟天机话术。12前娘骂金内、后欢迎大小姐实际堆笑，13崔笑理解画风14孟回四人旁。15/16段资料展开金楼主街后老大、段明诚宴崔锦华/费正青后不返院，系线索不已证绑架合谋，详细资料使孟前章认相吓人非算命。17人转街后金寒令查僧关系18/19狠心睚眦内豪、追魂手与4追命异文保字同人。21护卫答是具体谁未定，两人打算预去府观察住不住，不敢直接针对崔；22旧话脑回荡23–25灾祸/骗子/求符是金内或低念待录，未真求符；26求安背景解释。表演建议：金先富态自得、被戏弄怒、认权贵立变笑、离人后寒狠，最后又被话扰而自劝，外凶内忌并存不单脸反派。证据v01-c0061:p0001–p0026。"
+      },
+      {
+        "paragraph_start": 28,
+        "paragraph_end": 53,
+        "label": "辞别后才有婚事私谈、观点不可合并为孟知识",
+        "direction": "27省略后28孟佛号辞四人、目的已达是当前探人不是主线完成29崔失望邀府30何咳无逐字N后晚夜生客规矩31只是提醒府规。32孟避过热疑心真动机，口缘再会讨饭33内盘算查锦华失踪关联34实际拐走。从35–53孟缺席，婚事与父亲闹翻绝不并入他当下知识。35崔高僧范评价是误读动机36李担谜劝仙话37崔称亲眼才信，未天真已全信。38李两口转婚逗39崔夫婿条件后羞恼自挑，不据条件适孟就定她爱孟。40顺身份收玩笑41曾定亲打算非已婚42李问张何默43段家哥44李传闻纨绔武普通、45崔自称看出手与哥哥旗鼓相当并疑纨绔有深意：观察/猜不同，46李情思寄段是其内猜不是恋情事实。47张信崔武评48锦华最有望开藏非已成宗师49其信理由，50顺话良配51崔捏裙飘语失踪与段父崔父闹翻为转述52张李惊问只首actual个体未分、后闲隐词N，53隐图不知大事非故装。表演建议：崔先失望赞僧后婚事羞恼到复杂怅然，李由担心到逗再谨慎附和，张只武学话题才插话，何不抢女孩对话，孟另线不遥听。证据v01-c0061:p0028–p0053。"
+      },
+      {
+        "paragraph_start": 55,
+        "paragraph_end": 58,
+        "label": "资料知彼反跟住址、衣物联络法仍缺",
+        "direction": "54省略转55孟屋顶笑看失去自己踪迹的护卫回金宅，从而摸地址，不直接已拷问金或知道其全部案情。56只有首孟想着引语是内声、后八字能屈能伸睚眦必报是段资料引述N，不他读金内心。57欲打探拷问又冒申猴、没有夜衣也不知相神联络法地点，诱别人来只是笨办法计划，未副线已混入或完成。58借衣内/低念可听待录后见对屋顶陌生夜衣人潜行，未知道其目的或组织，原猴已死不要认回。表演建议：孟得意的是预料性格反跟踪有效，随后衣物短缺的苦恼落实行动，不用全知侦探语气，眼亮只为衣服机会。证据v01-c0061:p0055–p0058。"
+      },
+      {
+        "paragraph_start": 60,
+        "paragraph_end": 64,
+        "label": "读者知栽赃图谋、孟只打晕取衣",
+        "direction": "59省略改黑衣视角60其想栽赃嫁祸杀人灭口掩镖失是读者内焦点，孟64源明确不知其在干什么；不把此人等同金护卫、原猴或主世界蒙面凶手。61你安心死孤寡照顾选其内/低念待录，无受害者现场问答或实际杀人成。62脑后痛转不了头黑晕，64才锚孟以刀背打晕没杀，不别个刺客已灭口。63孟随口送衣真情调侃昏者，实际整理取到夜衣、未明再次戴申猴面具，非对方同意借或主动来送；不补审案供词。表演建议：黑衣自得毒意与突然晕倒形成读者反差，孟轻快取衣却并非知情行侠，结尾保偶然阻断与知识差，不替他加正义宣言。证据v01-c0061:p0060–p0064。"
+      }
+    ],
+    "knowledge_rule": "金安成今具名绰号追命/追魂异文同人；资料识人与反尾非占卜/读心。孟34走后婚事段武力父闹翻均未知，李情思推和崔隐意猜不事实。陌生黑衣谋杀只读者知，孟不知刀背取衣未杀，已取得衣未明重戴面具，联络不知任务未完。"
+  }
 }

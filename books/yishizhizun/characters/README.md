@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [金安成两副脸、追命追魂异文与迷信](early-JinAncheng-twofaces-titlevariant-superstition-guards.md) | 第61章历史归属回补 |
+| [孟缺席的婚事私谈、段武力的不同说法](early-Cui-Duan-marriage-strength-reports-Meng-absent.md) | 第61章历史归属回补 |
+| [反跟取衣、黑衣图谋是读者专知](early-Meng-reversetail-outfit-unknown-framer-reader-only.md) | 第61章历史归属回补 |
 | [崔切磋不敌与伯仲谎、孟第一式阶段成长](early-CuiJinxiu-spar-falseparity-Meng-firstintent-growth.md) | 第60章历史归属回补 |
 | [何伯今有称呼、内外天地才轻变与微语](early-Hebo-title-innerouterworld-murmur-no-rank.md) | 第60章历史归属回补 |
 | [真实朵儿察经历的包装、引图与未名男子](early-true-Duoercha-wrapping-map-guidance-unnamed-foreheadman.md) | 第60章历史归属回补 |
