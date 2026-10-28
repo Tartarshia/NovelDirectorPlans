@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [段右五指缺可见、旧敌与两秘藏仅自述](early-Duan-rightfivefingers-oldfoe-hypothesis-twocaches.md) | 第59章历史归属回补 |
+| [假从容真焦虑的成交、资料包不是报酬](early-Meng-commission-accepted-promises-not-delivered-packet.md) | 第59章历史归属回补 |
+| [死申猴沉江与假逃讯、崔锦绣邀战老人未名](early-Shenhou-sunk-falseescape-CuiJinxiu-invites-elder-unnamed.md) | 第59章历史归属回补 |
 | [张李今报姓名、七宗师与秘藏未知边界](early-Zhang-Li-sevenmasters-secretcaches-unknownrank.md) | 第58章历史归属回补 |
 | [原图与抄本交接、孟底线和小算盘](early-Meng-treasure-original-copy-gift-smallcalculation.md) | 第58章历史归属回补 |
 | [原申猴已死、孟冒面具与段请托的血字任务](early-original-Shenhou-dead-Meng-mask-Duan-visualtasks.md) | 第58章历史归属回补 |
