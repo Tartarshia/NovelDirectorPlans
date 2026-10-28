@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [尤同光资料与费正青的信佩疑点](early-YouTongguang-records-letters-pendant-Fee-suspicion-open.md) | 第64章历史归属回补 |
+| [未知剑影、多处真伤与未发针下金安成死亡](early-shadow-sword-wounds-unfired-needle-Jin-death.md) | 第64章历史归属回补 |
+| [邬丰羽晨醒今具名、旧栽赃者活着的读者线](early-WuFengyu-named-dawn-survives-framer-reader-only.md) | 第64章历史归属回补 |
 | [首次跟踪、地道伏局与经验差距](early-Meng-firsttracking-tunnel-trap-experience-shortfall.md) | 第63章历史归属回补 |
 | [费正青的粗豪异尖声、恐惧与盘问习惯](early-Fei-actual-voice-shocked-captive-probes-originalShenhou-error.md) | 第63章历史归属回补 |
 | [分开问供计划、龙槐叶与段知情未核](early-Fei-leaf-temple-search-Duan-knew-unverified.md) | 第63章历史归属回补 |
