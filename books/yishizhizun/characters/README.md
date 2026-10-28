@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [五刀蒲团规则胜、受限视线与遥关门只是幻想](early-Meng-fiveblade-cushion-rule-limitedview-no-remotedoor.md) | 第70章历史归属回补 |
+| [真定声名的用途、四英助挡与孟奇爱装的自知](early-Zhending-reputation-four-helpers-showoff-not-newrank.md) | 第70章历史归属回补 |
+| [秋蝉接单通知、法号取信与首篇定金已付](early-Qiuchan-acceptance-publicname-misbelief-firstpart-deposit-future.md) | 第70章历史归属回补 |
 | [曹的外委托暗号、手指威慑与未定的假报酬委托](early-Qiuchan-channel-fingers-threat-false-artreward-pending.md) | 第69章历史归属回补 |
 | [江南四英结义映射、误判与真定报名衔接疑](early-JiangnanFour-sworn-swordyouth-prejudice-name-continuity.md) | 第69章历史归属回补 |
 | [穆恒天的礼简与无少主纠称、替父请战未打](early-MuHengtian-no-younglord-title-fatherhonor-challenge-unfought.md) | 第69章历史归属回补 |
