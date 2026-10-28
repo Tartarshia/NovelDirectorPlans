@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [真永隐书疑兵突袭、被擒后的暗伤供述](early-zhenyong-secretbooks-feint-capture-injuryclaim.md) | 第55章历史归属回补 |
+| [真慧专注与实战失衡、掉包点穴和公开喊人](early-zhenhui-rat-nearfall-packetloss-seals-publicshout.md) | 第55章历史归属回补 |
+| [孟真实贪欲与松懈代价、未名掌击尚无死讯](early-meng-yijin-greed-relief-shadow-strike-not-deathconfirmed.md) | 第55章历史归属回补 |
 | [玄悲失手掉刀、九真一假与有限认识](early-xuanbei-droppedblade-meng-nine-truth-cover-and-rule.md) | 第54章历史归属回补 |
 | [七月蓄气大成六穴、师弟未大成与身体成长](early-sevenmonth-QIgreat-sixeyepoints-Hui-notgreat-no-voicebreak.md) | 第54章历史归属回补 |
 | [慧诉问法、明早报师计划与亲探未名灰袍](early-Hui-Yong-artquestions-morningreport-curiosity-grayrobe.md) | 第54章历史归属回补 |
