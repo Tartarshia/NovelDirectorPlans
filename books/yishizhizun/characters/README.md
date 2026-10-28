@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [玄悲失手掉刀、九真一假与有限认识](early-xuanbei-droppedblade-meng-nine-truth-cover-and-rule.md) | 第54章历史归属回补 |
+| [七月蓄气大成六穴、师弟未大成与身体成长](early-sevenmonth-QIgreat-sixeyepoints-Hui-notgreat-no-voicebreak.md) | 第54章历史归属回补 |
+| [慧诉问法、明早报师计划与亲探未名灰袍](early-Hui-Yong-artquestions-morningreport-curiosity-grayrobe.md) | 第54章历史归属回补 |
 | [浩儿眼力误判、父纠正与清羽三伯关系](early-cui-haoor-misjudgment-father-correction-and-uncle-not-father.md) | 第53章历史归属回补 |
 | [孟迟来识认妖惧、春日放松与后山权限](early-meng-demonfear-hypothesis-spring-and-limited-access.md) | 第53章历史归属回补 |
 | [真永未证腹急说辞、玄悲温和错猜与突破报告](early-zhenyong-unverified-toilet-excuse-xuanbei-gentle-misread.md) | 第53章历史归属回补 |

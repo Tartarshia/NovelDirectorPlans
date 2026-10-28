@@ -61,7 +61,2494 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0004"
+  "reading_batch": "batch-0004",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0054",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0054.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0054:p0001",
+        "length": 28,
+        "sha256": "45120d0d7e001c832bba54f3626b7704171f2cf24ed73e3cb579350677871d23",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0001:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_teacher_knows_report_not_hidden_blade_origin",
+            "text_context": "玄悲实际震惊问什么，不先前宽慰时就知道第四；失声非斥徒说谎。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_Xuanbei_shock_then_proud_but_disciplinary_caution",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "drops_thrown_blade_in_genuine_shock_then_accepts_experience_and_orders_quiet_consolidation",
+            "delivery": "shocked_exclamation_regains_control_surprised_question_warm_pleased_praise_then_solemn_rule_gentle_reassurance",
+            "knowledge_boundary": "玄悲实际震惊问什么，不先前宽慰时就知道第四；失声非斥徒说谎。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0001:u002",
+            "start": 5,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲实际震惊问什么，不先前宽慰时就知道第四；失声非斥徒说谎。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "玄悲实际震惊问什么，不先前宽慰时就知道第四；失声非斥徒说谎。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲实际震惊问什么，不先前宽慰时就知道第四；失声非斥徒说谎。"
+      },
+      {
+        "reference": "v01-c0054:p0002",
+        "length": 3,
+        "sha256": "69807867ecb544b5308ad4be9341d3c8b39204e456b2e329db60234289acf3fd",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0002:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "哐当为戒刀撞架落地声效N，非人物台词或有人兵袭。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "audible_blade_rack_collision_not_spoken_words",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "哐当为戒刀撞架落地声效N，非人物台词或有人兵袭。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "哐当为戒刀撞架落地声效N，非人物台词或有人兵袭。"
+      },
+      {
+        "reference": "v01-c0054:p0003",
+        "length": 67,
+        "sha256": "b3d4748bf1049397fc177654178f1e6d33ec175fc75e426d7f8559484bee1264",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0003:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原欲扔刀上架手抖砸架弹落实际失常，非师父故意摔刀发怒；外景强者源明。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "原欲扔刀上架手抖砸架弹落实际失常，非师父故意摔刀发怒；外景强者源明。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原欲扔刀上架手抖砸架弹落实际失常，非师父故意摔刀发怒；外景强者源明。"
+      },
+      {
+        "reference": "v01-c0054:p0004",
+        "length": 49,
+        "sha256": "63714f8cbb733623f9c683cd310d534b7f52567b1add1d25af4e40070176a10a",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0004:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际运第四暗金重复报告，非这刻才第四突破或已开眼窍。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟实际运第四暗金重复报告，非这刻才第四突破或已开眼窍。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0004:u002",
+            "start": 33,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟实际运第四暗金重复报告，非这刻才第四突破或已开眼窍。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟实际运第四暗金重复报告，非这刻才第四突破或已开眼窍。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际运第四暗金重复报告，非这刻才第四突破或已开眼窍。"
+      },
+      {
+        "reference": "v01-c0054:p0005",
+        "length": 24,
+        "sha256": "00a6b567ca01cfc40525df5f099c894b163dcfd4c4d99bab9d81a484fc179099",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0005:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_teacher_knows_report_not_hidden_blade_origin",
+            "text_context": "玄悲收失态后实际问遭遇，惊疑仍在非完全镇定或逼问轮回。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_Xuanbei_shock_then_proud_but_disciplinary_caution",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "drops_thrown_blade_in_genuine_shock_then_accepts_experience_and_orders_quiet_consolidation",
+            "delivery": "shocked_exclamation_regains_control_surprised_question_warm_pleased_praise_then_solemn_rule_gentle_reassurance",
+            "knowledge_boundary": "玄悲收失态后实际问遭遇，惊疑仍在非完全镇定或逼问轮回。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0005:u002",
+            "start": 9,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲收失态后实际问遭遇，惊疑仍在非完全镇定或逼问轮回。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "玄悲收失态后实际问遭遇，惊疑仍在非完全镇定或逼问轮回。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲收失态后实际问遭遇，惊疑仍在非完全镇定或逼问轮回。"
+      },
+      {
+        "reference": "v01-c0054:p0006",
+        "length": 42,
+        "sha256": "b69c28c443460bb3d432a51211f8af688d7f485e318988a159642b728b742207",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0006:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "昨日第三今日第四为师父惊讶所据，也由前章实证；不十个月时间跳已此时发生。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "昨日第三今日第四为师父惊讶所据，也由前章实证；不十个月时间跳已此时发生。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "昨日第三今日第四为师父惊讶所据，也由前章实证；不十个月时间跳已此时发生。"
+      },
+      {
+        "reference": "v01-c0054:p0007",
+        "length": 55,
+        "sha256": "12ff788e265b24dc55b74693b60520a4fcb09feb2df67f7aa41bfe0cac737ab1",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0007:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际闷声说观师父刀感韵味，是预备说辞；刀意来源遮掩，不能全当真实初学来源。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟实际闷声说观师父刀感韵味，是预备说辞；刀意来源遮掩，不能全当真实初学来源。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0007:u002",
+            "start": 23,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟实际闷声说观师父刀感韵味，是预备说辞；刀意来源遮掩，不能全当真实初学来源。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟实际闷声说观师父刀感韵味，是预备说辞；刀意来源遮掩，不能全当真实初学来源。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际闷声说观师父刀感韵味，是预备说辞；刀意来源遮掩，不能全当真实初学来源。"
+      },
+      {
+        "reference": "v01-c0054:p0008",
+        "length": 114,
+        "sha256": "4ef3dc1f628f7e1c7970e5050d510d8ac73912f2e4bc3d66ea0c461d985a74a6",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0008:u001",
+            "start": 0,
+            "end": 114,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟实际讲冷热鸟噪三重折磨和领会，10明感受体悟真；不全谎也不公开轮回传承。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟实际讲冷热鸟噪三重折磨和领会，10明感受体悟真；不全谎也不公开轮回传承。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际讲冷热鸟噪三重折磨和领会，10明感受体悟真；不全谎也不公开轮回传承。"
+      },
+      {
+        "reference": "v01-c0054:p0009",
+        "length": 23,
+        "sha256": "2b963c20eff415b8f050f5768a3b77e6d89803020e8603de8c94e746cfd30ee7",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0009:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟实际后来稀里糊涂练成第四，略结巴为说辞表现不作者判全无体悟。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟实际后来稀里糊涂练成第四，略结巴为说辞表现不作者判全无体悟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际后来稀里糊涂练成第四，略结巴为说辞表现不作者判全无体悟。"
+      },
+      {
+        "reference": "v01-c0054:p0010",
+        "length": 39,
+        "sha256": "defa1fc9f89ac4ddf85221f3557fc6a25126d47811c88087002aa4b9c1f65a60",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0010:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明感受体悟真实只刀意来源假，九真一假不旁白宣全部已对师父坦白。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "源明感受体悟真实只刀意来源假，九真一假不旁白宣全部已对师父坦白。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明感受体悟真实只刀意来源假，九真一假不旁白宣全部已对师父坦白。"
+      },
+      {
+        "reference": "v01-c0054:p0011",
+        "length": 52,
+        "sha256": "792390dba2251a802a7c392dc6bd21f8ac144fd39665c5837d7c8991db750f97",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0011:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟控制心跳埋头防外景看破的真实遮掩，不保证外景全知读心或他必瞒全书。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟控制心跳埋头防外景看破的真实遮掩，不保证外景全知读心或他必瞒全书。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟控制心跳埋头防外景看破的真实遮掩，不保证外景全知读心或他必瞒全书。"
+      },
+      {
+        "reference": "v01-c0054:p0012",
+        "length": 46,
+        "sha256": "49e9b74d5f7931440c3bcd8c5e80b146dba57500686d63919308cc2dd83ed5ce",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0012:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲听体悟有理才减少惊疑，不能证实假来源为真，也不现知孟轮回。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "玄悲听体悟有理才减少惊疑，不能证实假来源为真，也不现知孟轮回。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲听体悟有理才减少惊疑，不能证实假来源为真，也不现知孟轮回。"
+      },
+      {
+        "reference": "v01-c0054:p0013",
+        "length": 51,
+        "sha256": "b0ba19af114a20ea67091082e04e98659fc8711920ab9a592d570dec6fdc8298",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0013:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲实际与刀有缘首次旁观领味赞，是按孟说辞理解，不全知首次得刀意。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "玄悲实际与刀有缘首次旁观领味赞，是按孟说辞理解，不全知首次得刀意。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0013:u002",
+            "start": 17,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_teacher_knows_report_not_hidden_blade_origin",
+            "text_context": "玄悲实际与刀有缘首次旁观领味赞，是按孟说辞理解，不全知首次得刀意。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_Xuanbei_shock_then_proud_but_disciplinary_caution",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "drops_thrown_blade_in_genuine_shock_then_accepts_experience_and_orders_quiet_consolidation",
+            "delivery": "shocked_exclamation_regains_control_surprised_question_warm_pleased_praise_then_solemn_rule_gentle_reassurance",
+            "knowledge_boundary": "玄悲实际与刀有缘首次旁观领味赞，是按孟说辞理解，不全知首次得刀意。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲实际与刀有缘首次旁观领味赞，是按孟说辞理解，不全知首次得刀意。"
+      },
+      {
+        "reference": "v01-c0054:p0014",
+        "length": 53,
+        "sha256": "71e30ea686fce761bbec8b08a855fb681be63365f87b36e913c0b8c6ebb336ff",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0014:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "把握韵味与真意真谛难度分，非一听就已掌握完整刀式。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "把握韵味与真意真谛难度分，非一听就已掌握完整刀式。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "把握韵味与真意真谛难度分，非一听就已掌握完整刀式。"
+      },
+      {
+        "reference": "v01-c0054:p0015",
+        "length": 47,
+        "sha256": "4cfbe5032efde20deecac70331e3e51f79358b5a387be5851770f80659b54a7b",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0015:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "只首引语孟actual感谢、后阿难刀名N；迅速转移话题为策略不全盘真诚说明来源。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "只首引语孟actual感谢、后阿难刀名N；迅速转移话题为策略不全盘真诚说明来源。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0015:u002",
+            "start": 12,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "只首引语孟actual感谢、后阿难刀名N；迅速转移话题为策略不全盘真诚说明来源。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "只首引语孟actual感谢、后阿难刀名N；迅速转移话题为策略不全盘真诚说明来源。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "只首引语孟actual感谢、后阿难刀名N；迅速转移话题为策略不全盘真诚说明来源。"
+      },
+      {
+        "reference": "v01-c0054:p0016",
+        "length": 59,
+        "sha256": "e8878c4ccd6308d9a67ad4b780719800a72d1a17bae20baa09d3b1a6ccde3291",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0016:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲实际郑重戒律未开窍不得旁观另一绝技，即师允也不行；非自己已准所有法外传。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "玄悲实际郑重戒律未开窍不得旁观另一绝技，即师允也不行；非自己已准所有法外传。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0016:u002",
+            "start": 12,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_teacher_knows_report_not_hidden_blade_origin",
+            "text_context": "玄悲实际郑重戒律未开窍不得旁观另一绝技，即师允也不行；非自己已准所有法外传。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_Xuanbei_shock_then_proud_but_disciplinary_caution",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "drops_thrown_blade_in_genuine_shock_then_accepts_experience_and_orders_quiet_consolidation",
+            "delivery": "shocked_exclamation_regains_control_surprised_question_warm_pleased_praise_then_solemn_rule_gentle_reassurance",
+            "knowledge_boundary": "玄悲实际郑重戒律未开窍不得旁观另一绝技，即师允也不行；非自己已准所有法外传。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲实际郑重戒律未开窍不得旁观另一绝技，即师允也不行；非自己已准所有法外传。"
+      },
+      {
+        "reference": "v01-c0054:p0017",
+        "length": 55,
+        "sha256": "996ccf7378b0e8de83462ebc5e95fe657447623df8b63b5facbc7c3f75bf869d",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0017:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_teacher_knows_report_not_hidden_blade_origin",
+            "text_context": "玄悲说未得变化真意是按隐瞒后认识，不抹52孟略真意手刀实效；戒律院不信预测非已起诉。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_Xuanbei_shock_then_proud_but_disciplinary_caution",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "drops_thrown_blade_in_genuine_shock_then_accepts_experience_and_orders_quiet_consolidation",
+            "delivery": "shocked_exclamation_regains_control_surprised_question_warm_pleased_praise_then_solemn_rule_gentle_reassurance",
+            "knowledge_boundary": "玄悲说未得变化真意是按隐瞒后认识，不抹52孟略真意手刀实效；戒律院不信预测非已起诉。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲说未得变化真意是按隐瞒后认识，不抹52孟略真意手刀实效；戒律院不信预测非已起诉。"
+      },
+      {
+        "reference": "v01-c0054:p0018",
+        "length": 27,
+        "sha256": "8ca2a48ee06aeea3f933a058cd8db2e2296b59202a38a38b48ee346d2a2ee503",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0018:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "通常须多次蓄意观摩是解释背景，非孟本次事实已偷看无数次。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "通常须多次蓄意观摩是解释背景，非孟本次事实已偷看无数次。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "通常须多次蓄意观摩是解释背景，非孟本次事实已偷看无数次。"
+      },
+      {
+        "reference": "v01-c0054:p0019",
+        "length": 79,
+        "sha256": "0f4e8ad6ea30a1b16dd2d6530e70055410ebfac6a3e1bc95ce357dbb0831c767",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0019:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "两引语孟actual认省与提二僧见，逃离和隐瞒框叙不戒律僧实际在场；省的疑省得保源。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "两引语孟actual认省与提二僧见，逃离和隐瞒框叙不戒律僧实际在场；省的疑省得保源。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0019:u002",
+            "start": 7,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两引语孟actual认省与提二僧见，逃离和隐瞒框叙不戒律僧实际在场；省的疑省得保源。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "两引语孟actual认省与提二僧见，逃离和隐瞒框叙不戒律僧实际在场；省的疑省得保源。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0019:u003",
+            "start": 50,
+            "end": 79,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "两引语孟actual认省与提二僧见，逃离和隐瞒框叙不戒律僧实际在场；省的疑省得保源。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "两引语孟actual认省与提二僧见，逃离和隐瞒框叙不戒律僧实际在场；省的疑省得保源。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两引语孟actual认省与提二僧见，逃离和隐瞒框叙不戒律僧实际在场；省的疑省得保源。"
+      },
+      {
+        "reference": "v01-c0054:p0020",
+        "length": 86,
+        "sha256": "85e90a5941345737ddc3bfa9327506c8834e44ba23cedb60a84b892e685b6531",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0020:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual不到三个月练前四关有根基雄厚者先例，关键二僧不知昨天第三；不是一日第四有大量先例或全寺已知。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "玄悲actual不到三个月练前四关有根基雄厚者先例，关键二僧不知昨天第三；不是一日第四有大量先例或全寺已知。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0020:u002",
+            "start": 10,
+            "end": 86,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_teacher_knows_report_not_hidden_blade_origin",
+            "text_context": "玄悲actual不到三个月练前四关有根基雄厚者先例，关键二僧不知昨天第三；不是一日第四有大量先例或全寺已知。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_Xuanbei_shock_then_proud_but_disciplinary_caution",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "drops_thrown_blade_in_genuine_shock_then_accepts_experience_and_orders_quiet_consolidation",
+            "delivery": "shocked_exclamation_regains_control_surprised_question_warm_pleased_praise_then_solemn_rule_gentle_reassurance",
+            "knowledge_boundary": "玄悲actual不到三个月练前四关有根基雄厚者先例，关键二僧不知昨天第三；不是一日第四有大量先例或全寺已知。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual不到三个月练前四关有根基雄厚者先例，关键二僧不知昨天第三；不是一日第四有大量先例或全寺已知。"
+      },
+      {
+        "reference": "v01-c0054:p0021",
+        "length": 35,
+        "sha256": "f7fc4cf2b7673575b20636a3bc9bd149ad450b2350ca736b09583298fc820389",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0021:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟actual放心和松气源明真实，不连此情绪也演为虚假。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟actual放心和松气源明真实，不连此情绪也演为虚假。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0021:u002",
+            "start": 10,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual放心和松气源明真实，不连此情绪也演为虚假。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟actual放心和松气源明真实，不连此情绪也演为虚假。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual放心和松气源明真实，不连此情绪也演为虚假。"
+      },
+      {
+        "reference": "v01-c0054:p0022",
+        "length": 23,
+        "sha256": "36e85daaa724f1a8fb497ba2b8853b6c7afe2512eee8ae20a384aac042a12942",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0022:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_teacher_knows_report_not_hidden_blade_origin",
+            "text_context": "玄悲actual让调息巩固为当下指令，不已独证此段巩固完成。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "actual_Xuanbei_shock_then_proud_but_disciplinary_caution",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "drops_thrown_blade_in_genuine_shock_then_accepts_experience_and_orders_quiet_consolidation",
+            "delivery": "shocked_exclamation_regains_control_surprised_question_warm_pleased_praise_then_solemn_rule_gentle_reassurance",
+            "knowledge_boundary": "玄悲actual让调息巩固为当下指令，不已独证此段巩固完成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0022:u002",
+            "start": 13,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual让调息巩固为当下指令，不已独证此段巩固完成。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_teacher_cover_and_rule_caution",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "玄悲actual让调息巩固为当下指令，不已独证此段巩固完成。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual让调息巩固为当下指令，不已独证此段巩固完成。"
+      },
+      {
+        "reference": "v01-c0054:p0023",
+        "length": 36,
+        "sha256": "ffc642f562fdc9a028cab579ea992797ce25ed688079b2256d6df7fb2a35967c",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0023:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "进禅房真慧休息时实际问早，不与父子游历线混。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "进禅房真慧休息时实际问早，不与父子游历线混。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0023:u002",
+            "start": 22,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "进禅房真慧休息时实际问早，不与父子游历线混。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "进禅房真慧休息时实际问早，不与父子游历线混。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "进禅房真慧休息时实际问早，不与父子游历线混。"
+      },
+      {
+        "reference": "v01-c0054:p0024",
+        "length": 61,
+        "sha256": "b261a7c8fbb8d2e53d49f307f7f8d5ee8e36c12b875fb6e6bda703f3d1f56d9e",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0024:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟先actual得意告第四，后快大惊失色等是内心期待师弟惊叹，不实际喝令吓他。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟先actual得意告第四，后快大惊失色等是内心期待师弟惊叹，不实际喝令吓他。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0024:u002",
+            "start": 18,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟先actual得意告第四，后快大惊失色等是内心期待师弟惊叹，不实际喝令吓他。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟先actual得意告第四，后快大惊失色等是内心期待师弟惊叹，不实际喝令吓他。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0024:u003",
+            "start": 43,
+            "end": 61,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟先actual得意告第四，后快大惊失色等是内心期待师弟惊叹，不实际喝令吓他。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "editorial_M_private_cover_strategy_boast_expectation_and_suspicion",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟先actual得意告第四，后快大惊失色等是内心期待师弟惊叹，不实际喝令吓他。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟先actual得意告第四，后快大惊失色等是内心期待师弟惊叹，不实际喝令吓他。"
+      },
+      {
+        "reference": "v01-c0054:p0025",
+        "length": 62,
+        "sha256": "06f72c073225a7acd36f461a1a16bf25cd019e14fd29174fabdcc6929266a3ec",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0025:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧哦与后长句均实际口，觉得正常称金钟最适合；不故意挖苦或嫉妒。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "真慧哦与后长句均实际口，觉得正常称金钟最适合；不故意挖苦或嫉妒。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0025:u002",
+            "start": 2,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "真慧哦与后长句均实际口，觉得正常称金钟最适合；不故意挖苦或嫉妒。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "真慧哦与后长句均实际口，觉得正常称金钟最适合；不故意挖苦或嫉妒。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0025:u003",
+            "start": 5,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧哦与后长句均实际口，觉得正常称金钟最适合；不故意挖苦或嫉妒。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "真慧哦与后长句均实际口，觉得正常称金钟最适合；不故意挖苦或嫉妒。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0025:u004",
+            "start": 25,
+            "end": 62,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "真慧哦与后长句均实际口，觉得正常称金钟最适合；不故意挖苦或嫉妒。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "真慧哦与后长句均实际口，觉得正常称金钟最适合；不故意挖苦或嫉妒。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧哦与后长句均实际口，觉得正常称金钟最适合；不故意挖苦或嫉妒。"
+      },
+      {
+        "reference": "v01-c0054:p0026",
+        "length": 59,
+        "sha256": "39eac1f25ae93aee106718ba7c7e8df1d4ebea2ae7df321dfc32804cf9a69100",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0026:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "开头连嵌套嘴上身体引号为孟私骂，只有后也许修别技快孟actual，不当真慧此刻说那谚。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "editorial_M_private_cover_strategy_boast_expectation_and_suspicion",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "开头连嵌套嘴上身体引号为孟私骂，只有后也许修别技快孟actual，不当真慧此刻说那谚。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0026:u002",
+            "start": 10,
+            "end": 33,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "开头连嵌套嘴上身体引号为孟私骂，只有后也许修别技快孟actual，不当真慧此刻说那谚。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "editorial_M_private_cover_strategy_boast_expectation_and_suspicion",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "开头连嵌套嘴上身体引号为孟私骂，只有后也许修别技快孟actual，不当真慧此刻说那谚。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0026:u003",
+            "start": 33,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "开头连嵌套嘴上身体引号为孟私骂，只有后也许修别技快孟actual，不当真慧此刻说那谚。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "开头连嵌套嘴上身体引号为孟私骂，只有后也许修别技快孟actual，不当真慧此刻说那谚。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0026:u004",
+            "start": 44,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "开头连嵌套嘴上身体引号为孟私骂，只有后也许修别技快孟actual，不当真慧此刻说那谚。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "开头连嵌套嘴上身体引号为孟私骂，只有后也许修别技快孟actual，不当真慧此刻说那谚。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "开头连嵌套嘴上身体引号为孟私骂，只有后也许修别技快孟actual，不当真慧此刻说那谚。"
+      },
+      {
+        "reference": "v01-c0054:p0027",
+        "length": 25,
+        "sha256": "e943bcea905f5ab8ffe7d185092aac26e4e17ae6888bce4a47fa4b272dbeb28e",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0027:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "真慧实际不知道为诚实不捧场，不明知隐瞒或对兄敌视。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "真慧实际不知道为诚实不捧场，不明知隐瞒或对兄敌视。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0027:u002",
+            "start": 6,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧实际不知道为诚实不捧场，不明知隐瞒或对兄敌视。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "真慧实际不知道为诚实不捧场，不明知隐瞒或对兄敌视。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧实际不知道为诚实不捧场，不明知隐瞒或对兄敌视。"
+      },
+      {
+        "reference": "v01-c0054:p0028",
+        "length": 42,
+        "sha256": "43d6d76ca15191b26ffa86db0a366054bfcb6620014d1677ced409c9ea0405b5",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0028:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual突出一日第四自夸，前无古人后来渺渺属人物得意表述不全历史排名已证。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟actual突出一日第四自夸，前无古人后来渺渺属人物得意表述不全历史排名已证。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0028:u002",
+            "start": 8,
+            "end": 42,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟actual突出一日第四自夸，前无古人后来渺渺属人物得意表述不全历史排名已证。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟actual突出一日第四自夸，前无古人后来渺渺属人物得意表述不全历史排名已证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual突出一日第四自夸，前无古人后来渺渺属人物得意表述不全历史排名已证。"
+      },
+      {
+        "reference": "v01-c0054:p0029",
+        "length": 41,
+        "sha256": "a7daaf8b3e3a1c5eca94a9372b5e20168969a24b66ca7a36fb36a14a183e8414",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0029:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "真慧actual赞兄厉害，源明听如典故才兴奋，不已悟知轮回秘密。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "真慧actual赞兄厉害，源明听如典故才兴奋，不已悟知轮回秘密。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0029:u002",
+            "start": 11,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧actual赞兄厉害，源明听如典故才兴奋，不已悟知轮回秘密。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "真慧actual赞兄厉害，源明听如典故才兴奋，不已悟知轮回秘密。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧actual赞兄厉害，源明听如典故才兴奋，不已悟知轮回秘密。"
+      },
+      {
+        "reference": "v01-c0054:p0030",
+        "length": 38,
+        "sha256": "353025a3bfdd5527c070d44c92ee9d972fed3c7f38c0bedd3aa8239193762b0b",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0030:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "掩面轻叹动作N后这家伙需说透是孟内评，不当面对慧讲完整训话；说的疑得保字。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "掩面轻叹动作N后这家伙需说透是孟内评，不当面对慧讲完整训话；说的疑得保字。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0030:u002",
+            "start": 7,
+            "end": 38,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "掩面轻叹动作N后这家伙需说透是孟内评，不当面对慧讲完整训话；说的疑得保字。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "editorial_M_private_cover_strategy_boast_expectation_and_suspicion",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "掩面轻叹动作N后这家伙需说透是孟内评，不当面对慧讲完整训话；说的疑得保字。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "掩面轻叹动作N后这家伙需说透是孟内评，不当面对慧讲完整训话；说的疑得保字。"
+      },
+      {
+        "reference": "v01-c0054:p0031",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0031:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略跳时N不是新角色发言。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S13_familiar_junior_delayed_boast_response",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "省略跳时N不是新角色发言。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略跳时N不是新角色发言。"
+      },
+      {
+        "reference": "v01-c0054:p0032",
+        "length": 20,
+        "sha256": "eae20c409e51b0b2f3867f09e5bdc235f0db54124addfea55211f3f5a6942578",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0032:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明半年多后又深秋；35十个月无任务和37七月积气为不同起点，不相加成十七月。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "源明半年多后又深秋；35十个月无任务和37七月积气为不同起点，不相加成十七月。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明半年多后又深秋；35十个月无任务和37七月积气为不同起点，不相加成十七月。"
+      },
+      {
+        "reference": "v01-c0054:p0033",
+        "length": 48,
+        "sha256": "035e08dc571519d4be6453a89a85804f5278f218b4c40ba71da18fb76ba34dd4",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0033:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "夜巡两人提灯实际已排线，偏颇疑偏僻不擅修原字，不因此断巡视思想偏见。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "夜巡两人提灯实际已排线，偏颇疑偏僻不擅修原字，不因此断巡视思想偏见。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "夜巡两人提灯实际已排线，偏颇疑偏僻不擅修原字，不因此断巡视思想偏见。"
+      },
+      {
+        "reference": "v01-c0054:p0034",
+        "length": 32,
+        "sha256": "d85df9c81e8e0c055dfdb565cb07b7732820610210b41ea752bd2e285c5bd05a",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0034:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟actual真满足叹日子好，不暗示新任务已经发布。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟actual真满足叹日子好，不暗示新任务已经发布。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0034:u002",
+            "start": 11,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual真满足叹日子好，不暗示新任务已经发布。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟actual真满足叹日子好，不暗示新任务已经发布。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual真满足叹日子好，不暗示新任务已经发布。"
+      },
+      {
+        "reference": "v01-c0054:p0035",
+        "length": 19,
+        "sha256": "70dcb36fb91d91dbfc0e471a5159db84aee420fcbf9efc2a8a1ece6314b59c04",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0035:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "十个月无轮回任务的惊喜孟内感，不向尚不知轮回的慧公开说明。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "editorial_M_private_cover_strategy_boast_expectation_and_suspicion",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "十个月无轮回任务的惊喜孟内感，不向尚不知轮回的慧公开说明。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "十个月无轮回任务的惊喜孟内感，不向尚不知轮回的慧公开说明。"
+      },
+      {
+        "reference": "v01-c0054:p0036",
+        "length": 86,
+        "sha256": "82eadbbe2f3aa256875cd49bd749337066322e965037ebfcceeb0a1d06b0db6e",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0036:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "恢复早晚课讲经、每日下午仍塔蓄气，水磨积累趋慢不第四立即圆满开窍。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "恢复早晚课讲经、每日下午仍塔蓄气，水磨积累趋慢不第四立即圆满开窍。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "恢复早晚课讲经、每日下午仍塔蓄气，水磨积累趋慢不第四立即圆满开窍。"
+      },
+      {
+        "reference": "v01-c0054:p0037",
+        "length": 100,
+        "sha256": "0de34b95a0aff8526e01cb99ef0aa9367dd7e62e9e30055378e50f20e4cccab6",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0037:u001",
+            "start": 0,
+            "end": 100,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "七月内实际蓄气大成凝眼相关六穴，九穴还希望再晚两月才成、天聪丸或磨砺开窍未来；非眼窍已开或丸已服。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "七月内实际蓄气大成凝眼相关六穴，九穴还希望再晚两月才成、天聪丸或磨砺开窍未来；非眼窍已开或丸已服。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "七月内实际蓄气大成凝眼相关六穴，九穴还希望再晚两月才成、天聪丸或磨砺开窍未来；非眼窍已开或丸已服。"
+      },
+      {
+        "reference": "v01-c0054:p0038",
+        "length": 51,
+        "sha256": "4b79c03a7ff611efcabdbf297a1c6685a84b338da00fb792b2395ae25e30bfa6",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0038:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "若现在任务不怕属孟当下自信与假设，未真正任务开场或已无风险。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "若现在任务不怕属孟当下自信与假设，未真正任务开场或已无风险。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "若现在任务不怕属孟当下自信与假设，未真正任务开场或已无风险。"
+      },
+      {
+        "reference": "v01-c0054:p0039",
+        "length": 63,
+        "sha256": "3b84165c86f7b8a1f2c80fbe3959adb10149404112a9fe8fee42a50a531b3699",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0039:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧actual吃睡练满足，听孟34赞叹非听35轮回内语。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "真慧actual吃睡练满足，听孟34赞叹非听35轮回内语。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0039:u002",
+            "start": 42,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "真慧actual吃睡练满足，听孟34赞叹非听35轮回内语。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "真慧actual吃睡练满足，听孟34赞叹非听35轮回内语。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧actual吃睡练满足，听孟34赞叹非听35轮回内语。"
+      },
+      {
+        "reference": "v01-c0054:p0040",
+        "length": 17,
+        "sha256": "b4117b95991a8e52135d3b1739b75eb4c4d71db7a32a5c1eb38335c40f4259c5",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0040:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧笑真心实意为源明，不曲意迎合兄长。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "真慧笑真心实意为源明，不曲意迎合兄长。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧笑真心实意为源明，不曲意迎合兄长。"
+      },
+      {
+        "reference": "v01-c0054:p0041",
+        "length": 61,
+        "sha256": "d55cf6ce8545def97ce47ebb8f5be02740f54d8c99a0cfd228bba949736e3180",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0041:u001",
+            "start": 0,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧这十月进步仍未蓄气大成，半年或突破为玄悲估计未来不当下成功；不把孟37境界给慧。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧这十月进步仍未蓄气大成，半年或突破为玄悲估计未来不当下成功；不把孟37境界给慧。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧这十月进步仍未蓄气大成，半年或突破为玄悲估计未来不当下成功；不把孟37境界给慧。"
+      },
+      {
+        "reference": "v01-c0054:p0042",
+        "length": 48,
+        "sha256": "146672f41bc4742889a04aee1d4f068e79746d35bccede31e445a663f923ac3e",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0042:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧长高一头眉眼俊秀是成长，未注明变声完成不强改成年低音。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧长高一头眉眼俊秀是成长，未注明变声完成不强改成年低音。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧长高一头眉眼俊秀是成长，未注明变声完成不强改成年低音。"
+      },
+      {
+        "reference": "v01-c0054:p0043",
+        "length": 22,
+        "sha256": "e320f24d2c9ae0addd18002c77d142c14c75d1e046a0fd2505faf8dedf32d6c0",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0043:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "吃睡在前你猪啊是孟未出口内吐槽，后侧看动作N不实际辱骂。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "editorial_M_private_cover_strategy_boast_expectation_and_suspicion",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "吃睡在前你猪啊是孟未出口内吐槽，后侧看动作N不实际辱骂。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0043:u002",
+            "start": 11,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "吃睡在前你猪啊是孟未出口内吐槽，后侧看动作N不实际辱骂。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "吃睡在前你猪啊是孟未出口内吐槽，后侧看动作N不实际辱骂。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "吃睡在前你猪啊是孟未出口内吐槽，后侧看动作N不实际辱骂。"
+      },
+      {
+        "reference": "v01-c0054:p0044",
+        "length": 119,
+        "sha256": "ec7fd2f361e0d674863da7907b949f3a1e351b6b0dad729d10e60133f5d27e0c",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0044:u001",
+            "start": 0,
+            "end": 119,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟十月长高有少年感和细绒毛，源无明确已变声；狭长眼审美不满为自评非客观阴险人品。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_autumn_patrol_growth_different_elapsedtime_origins",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟十月长高有少年感和细绒毛，源无明确已变声；狭长眼审美不满为自评非客观阴险人品。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟十月长高有少年感和细绒毛，源无明确已变声；狭长眼审美不满为自评非客观阴险人品。"
+      },
+      {
+        "reference": "v01-c0054:p0045",
+        "length": 28,
+        "sha256": "8993acff8f2222bb8615883914cad22425eaf29fe8aecb4e1a0be9b9ccb7ab72",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0045:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧实际怪真永，为自己的困扰开口，不宣已查实奸细。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧实际怪真永，为自己的困扰开口，不宣已查实奸细。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0045:u002",
+            "start": 12,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "慧实际怪真永，为自己的困扰开口，不宣已查实奸细。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "慧实际怪真永，为自己的困扰开口，不宣已查实奸细。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧实际怪真永，为自己的困扰开口，不宣已查实奸细。"
+      },
+      {
+        "reference": "v01-c0054:p0046",
+        "length": 14,
+        "sha256": "d9d8ce6fd8d072c0ea586e962bf765b7daf15d92422ee436d7ecc1cec8629f75",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0046:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟actual追问缘由，未已知道真永偷学被实证。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟actual追问缘由，未已知道真永偷学被实证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0046:u002",
+            "start": 6,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual追问缘由，未已知道真永偷学被实证。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟actual追问缘由，未已知道真永偷学被实证。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual追问缘由，未已知道真永偷学被实证。"
+      },
+      {
+        "reference": "v01-c0054:p0047",
+        "length": 19,
+        "sha256": "9793af34d7622085b23056026a46c09e9c639d43de67011b6cb3dfc988434e73",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0047:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "夜林宛妖为环境比喻，不新妖怪真实包围或塔妖越狱；树立疑竖立存疑保字。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "夜林宛妖为环境比喻，不新妖怪真实包围或塔妖越狱；树立疑竖立存疑保字。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "夜林宛妖为环境比喻，不新妖怪真实包围或塔妖越狱；树立疑竖立存疑保字。"
+      },
+      {
+        "reference": "v01-c0054:p0048",
+        "length": 68,
+        "sha256": "e903f80021e6b10299e95900013e64260f4db394afc7efab75bf3fd0a6f9d764",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0048:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧actual转述真永常找讲故事问进展，说感兴趣系慧转述不真永现身逐字口声。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧actual转述真永常找讲故事问进展，说感兴趣系慧转述不真永现身逐字口声。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0048:u002",
+            "start": 7,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "慧actual转述真永常找讲故事问进展，说感兴趣系慧转述不真永现身逐字口声。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "慧actual转述真永常找讲故事问进展，说感兴趣系慧转述不真永现身逐字口声。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧actual转述真永常找讲故事问进展，说感兴趣系慧转述不真永现身逐字口声。"
+      },
+      {
+        "reference": "v01-c0054:p0049",
+        "length": 56,
+        "sha256": "d13b0e7906859632520ae39816d393aa2004e67561e9747e7709cfef2daa653b",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0049:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟听前还觉多想听后凝重并actual详细问，情绪随信息变不是早已全知目的。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟听前还觉多想听后凝重并actual详细问，情绪随信息变不是早已全知目的。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0049:u002",
+            "start": 36,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟听前还觉多想听后凝重并actual详细问，情绪随信息变不是早已全知目的。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟听前还觉多想听后凝重并actual详细问，情绪随信息变不是早已全知目的。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0049:u003",
+            "start": 49,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟听前还觉多想听后凝重并actual详细问，情绪随信息变不是早已全知目的。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟听前还觉多想听后凝重并actual详细问，情绪随信息变不是早已全知目的。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟听前还觉多想听后凝重并actual详细问，情绪随信息变不是早已全知目的。"
+      },
+      {
+        "reference": "v01-c0054:p0050",
+        "length": 76,
+        "sha256": "e35d2bfdcce5e702eb0a2065e7ed07264f9d18a31e2b39addd71b5448b5def5d",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0050:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "慧actual描述问运气阻碍线路快因，向信任师兄倾诉不已当重大泄密案；不造真永直接口声。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "慧actual描述问运气阻碍线路快因，向信任师兄倾诉不已当重大泄密案；不造真永直接口声。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0050:u002",
+            "start": 41,
+            "end": 76,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧actual描述问运气阻碍线路快因，向信任师兄倾诉不已当重大泄密案；不造真永直接口声。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧actual描述问运气阻碍线路快因，向信任师兄倾诉不已当重大泄密案；不造真永直接口声。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧actual描述问运气阻碍线路快因，向信任师兄倾诉不已当重大泄密案；不造真永直接口声。"
+      },
+      {
+        "reference": "v01-c0054:p0051",
+        "length": 43,
+        "sha256": "8c0a16a26b0439d7d65af9d2f5eb9742c80c85ced54de128d84ac640f2f6a56b",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0051:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "inner_speech",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "慧未出口烦恼含师命与耽误功，是内念；师父不在此实际发禁令。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "editorial_Zhenhui_unspoken_bother_and_training_concern",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "慧未出口烦恼含师命与耽误功，是内念；师父不在此实际发禁令。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧未出口烦恼含师命与耽误功，是内念；师父不在此实际发禁令。"
+      },
+      {
+        "reference": "v01-c0054:p0052",
+        "length": 58,
+        "sha256": "5a4e40077f48fd735a9c9fc3b348555fb1a375a1c7300fefaab90c3144d4ccec",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0052:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟怀疑偷拈花且疑为何挑最难，仍假说不真永动机定论。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟怀疑偷拈花且疑为何挑最难，仍假说不真永动机定论。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟怀疑偷拈花且疑为何挑最难，仍假说不真永动机定论。"
+      },
+      {
+        "reference": "v01-c0054:p0053",
+        "length": 27,
+        "sha256": "23f02609b24f83a51cc3772cdf6b6492215aa20334d83c83558c3c0fadfb9883",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0053:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟回想旧细节异常是警觉升级，不因此本章补全真永隐秘身份。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟回想旧细节异常是警觉升级，不因此本章补全真永隐秘身份。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟回想旧细节异常是警觉升级，不因此本章补全真永隐秘身份。"
+      },
+      {
+        "reference": "v01-c0054:p0054",
+        "length": 29,
+        "sha256": "f820ecabcdeada24b8c3fcad5434182edf8574f9d0c93c7d91dca594269e85a3",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0054:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟actual问法门是否告，先确认不默认已经泄完整绝技。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟actual问法门是否告，先确认不默认已经泄完整绝技。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0054:u002",
+            "start": 18,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual问法门是否告，先确认不默认已经泄完整绝技。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟actual问法门是否告，先确认不默认已经泄完整绝技。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual问法门是否告，先确认不默认已经泄完整绝技。"
+      },
+      {
+        "reference": "v01-c0054:p0055",
+        "length": 18,
+        "sha256": "0c4832dac162cb0b19b9225da95ff05bd652a1a372452a690741a69a620ee2e8",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0055:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧actual师父不许说且摇头表未说，守口不是师父同意对外人说。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧actual师父不许说且摇头表未说，守口不是师父同意对外人说。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0055:u002",
+            "start": 7,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "慧actual师父不许说且摇头表未说，守口不是师父同意对外人说。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "慧actual师父不许说且摇头表未说，守口不是师父同意对外人说。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧actual师父不许说且摇头表未说，守口不是师父同意对外人说。"
+      },
+      {
+        "reference": "v01-c0054:p0056",
+        "length": 110,
+        "sha256": "8584585a4497334df94269c2d55084b4ba53c5d1ada587900cb6861e0203b485",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0056:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟actual决定明早报师，后调查风险与颠倒黑白为内理框叙，未来尚未实际禀报。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟actual决定明早报师，后调查风险与颠倒黑白为内理框叙，未来尚未实际禀报。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0056:u002",
+            "start": 22,
+            "end": 110,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual决定明早报师，后调查风险与颠倒黑白为内理框叙，未来尚未实际禀报。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟actual决定明早报师，后调查风险与颠倒黑白为内理框叙，未来尚未实际禀报。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual决定明早报师，后调查风险与颠倒黑白为内理框叙，未来尚未实际禀报。"
+      },
+      {
+        "reference": "v01-c0054:p0057",
+        "length": 63,
+        "sha256": "cd41db76cb742b1ca32e5e7366296c978e12f83ad488316a54b0afb66a4b4ab6",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0057:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧actual指出树后旧见，配点头信任，不此次已亲见真永在树林藏。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧actual指出树后旧见，配点头信任，不此次已亲见真永在树林藏。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0057:u002",
+            "start": 48,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "慧actual指出树后旧见，配点头信任，不此次已亲见真永在树林藏。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "慧actual指出树后旧见，配点头信任，不此次已亲见真永在树林藏。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧actual指出树后旧见，配点头信任，不此次已亲见真永在树林藏。"
+      },
+      {
+        "reference": "v01-c0054:p0058",
+        "length": 17,
+        "sha256": "3afacc80bfa48d503addca1f6cd6944a7c35cba263638c7e4155801b78be7917",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0058:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟actual惊疑如何知，未知线索不是故意装不懂。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟actual惊疑如何知，未知线索不是故意装不懂。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0058:u002",
+            "start": 3,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟actual惊疑如何知，未知线索不是故意装不懂。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟actual惊疑如何知，未知线索不是故意装不懂。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0058:u003",
+            "start": 10,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual惊疑如何知，未知线索不是故意装不懂。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟actual惊疑如何知，未知线索不是故意装不懂。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual惊疑如何知，未知线索不是故意装不懂。"
+      },
+      {
+        "reference": "v01-c0054:p0059",
+        "length": 54,
+        "sha256": "dbbb1a488a9e396b125588e07ab534718775688fc9dceaa21d3af5a02a4258b7",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0059:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧actual曾为故事不清追永看钻树后，过去经历转述非现在真永身体出场。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧actual曾为故事不清追永看钻树后，过去经历转述非现在真永身体出场。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0059:u002",
+            "start": 7,
+            "end": 54,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "慧actual曾为故事不清追永看钻树后，过去经历转述非现在真永身体出场。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "慧actual曾为故事不清追永看钻树后，过去经历转述非现在真永身体出场。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧actual曾为故事不清追永看钻树后，过去经历转述非现在真永身体出场。"
+      },
+      {
+        "reference": "v01-c0054:p0060",
+        "length": 16,
+        "sha256": "02ce20e0ce9b8b7bbd3b20323bdeb588922281f47c41caf640644c12bf920237",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0060:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "孟actual然后呢嘴角抽是慧追故事反应，不敌意诈审。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_M_cover_report_boast_autumnpatrol_and_Hui_questions",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "孟actual然后呢嘴角抽是慧追故事反应，不敌意诈审。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0060:u002",
+            "start": 6,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual然后呢嘴角抽是慧追故事反应，不敌意诈审。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟actual然后呢嘴角抽是慧追故事反应，不敌意诈审。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual然后呢嘴角抽是慧追故事反应，不敌意诈审。"
+      },
+      {
+        "reference": "v01-c0054:p0061",
+        "length": 50,
+        "sha256": "7361106c56c8ced155293fad36e538bfd5de52f663c204576f76c54d71107e29",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0061:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧actual因怕方便等待且到练功时走，没看清永后续不等证实真方便。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧actual因怕方便等待且到练功时走，没看清永后续不等证实真方便。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0061:u002",
+            "start": 10,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_junior_no_wheelknowledge_no_full_leak_follows_teacher_rule",
+            "text_context": "慧actual因怕方便等待且到练功时走，没看清永后续不等证实真方便。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_Hui_reports_Yong_questions_Meng_plans_morning_report",
+            "channel": "actual_Zhenhui_honest_reply_delayed_enthusiasm_and_troubled_report",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_honest_normalizing_reply_later_growth_but_not_QI_greatattainment_reports_Yong_questions_follows_stealth",
+            "delivery": "honest_unfazed_then_storylike_excitement_contentment_and_complaint_not_malicious_mockery",
+            "knowledge_boundary": "慧actual因怕方便等待且到练功时走，没看清永后续不等证实真方便。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧actual因怕方便等待且到练功时走，没看清永后续不等证实真方便。"
+      },
+      {
+        "reference": "v01-c0054:p0062",
+        "length": 38,
+        "sha256": "dc0cabd3541048957f627be82616eea026299eb286dd79defcb4829187d9b4a1",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0062:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟虽决定报师仍因就在旁好奇凑看，真实选择不能改成从未亲查。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟虽决定报师仍因就在旁好奇凑看，真实选择不能改成从未亲查。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟虽决定报师仍因就在旁好奇凑看，真实选择不能改成从未亲查。"
+      },
+      {
+        "reference": "v01-c0054:p0063",
+        "length": 25,
+        "sha256": "d72955b9d96c41b6daa86add12dd18bb46a315886f53f1eb92b2b6a53fc7a8c1",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0063:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "树叠遮视线难清，未明暗道或敌人位置已见。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "树叠遮视线难清，未明暗道或敌人位置已见。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "树叠遮视线难清，未明暗道或敌人位置已见。"
+      },
+      {
+        "reference": "v01-c0054:p0064",
+        "length": 40,
+        "sha256": "925555fe068199435990add3c97cf96ba58040d96b6ea4337b29d39db7e7f5d5",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0064:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟听无动静仍钻树小心前行，未因报师方案就已撤回院。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟听无动静仍钻树小心前行，未因报师方案就已撤回院。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟听无动静仍钻树小心前行，未因报师方案就已撤回院。"
+      },
+      {
+        "reference": "v01-c0054:p0065",
+        "length": 22,
+        "sha256": "991881013772dcebcec20a5af880edaa20f67b386117ad045452daf80794924b",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0065:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧兴致勃勃模仿跟进，不只胆怯被强拖或已知道危险全貌。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "慧兴致勃勃模仿跟进，不只胆怯被强拖或已知道危险全貌。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧兴致勃勃模仿跟进，不只胆怯被强拖或已知道危险全貌。"
+      },
+      {
+        "reference": "v01-c0054:p0066",
+        "length": 24,
+        "sha256": "300ee6021cdd2269862defc2d01394257d7a8e1885f7bda9cb982fabe1244d48",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0066:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "十来步后眼前开朗双目一亮为视觉，不开眼窍突破。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "十来步后眼前开朗双目一亮为视觉，不开眼窍突破。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "十来步后眼前开朗双目一亮为视觉，不开眼窍突破。"
+      },
+      {
+        "reference": "v01-c0054:p0067",
+        "length": 44,
+        "sha256": "6b5eb9ba1f3904d5df7709c26a8159342380dda508e690525c03a621f93f145d",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0067:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "悬崖云雾不见底、寺依山有崖为景，不证真实绝对无底渊。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "悬崖云雾不见底、寺依山有崖为景，不证真实绝对无底渊。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "悬崖云雾不见底、寺依山有崖为景，不证真实绝对无底渊。"
+      },
+      {
+        "reference": "v01-c0054:p0068",
+        "length": 28,
+        "sha256": "2462f0526e5f2f309338d7a675c7810fd80ab28a6caf1e60b1a324791aeddd82",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0068:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_hides_wheel_and_blade_origin_then_adolescent_growth",
+            "text_context": "悬崖引语孟内疑或低语可听待录，不新旁人答话；真永来此目的仍未知。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "editorial_M_cliff_question_audibility_open",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "embodiment": "early_fourth_report_later_QI_greatattainment_six_eye_related_points_not_open_eye_apertures",
+            "delivery": "headlow_muffled_prepared_cover_real_relief_playful_boast_then_satisfied_patrol_alert_questions_and_curious_stealth",
+            "knowledge_boundary": "悬崖引语孟内疑或低语可听待录，不新旁人答话；真永来此目的仍未知。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0054:p0068:u002",
+            "start": 6,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "悬崖引语孟内疑或低语可听待录，不新旁人答话；真永来此目的仍未知。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "悬崖引语孟内疑或低语可听待录，不新旁人答话；真永来此目的仍未知。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "悬崖引语孟内疑或低语可听待录，不新旁人答话；真永来此目的仍未知。"
+      },
+      {
+        "reference": "v01-c0054:p0069",
+        "length": 50,
+        "sha256": "19a12300570a1e6eb53c81d3fd467f38da1037480c9f09a785eca20530c01f29",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0069:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟察动静拉慧熄灯躲树动作实际，下一段脚步锚警觉，不已与来人战斗。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "孟察动静拉慧熄灯躲树动作实际，下一段脚步锚警觉，不已与来人战斗。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟察动静拉慧熄灯躲树动作实际，下一段脚步锚警觉，不已与来人战斗。"
+      },
+      {
+        "reference": "v01-c0054:p0070",
+        "length": 29,
+        "sha256": "cf7ccfe4f80211e37296f65f0a4822f91b3d46abb2bcd62f7106baed66ff0df0",
+        "units": [
+          {
+            "unit_id": "v01-c0054:p0070:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灰色僧袍人影实际进来仍未认明，不提前定真永或另名敌与配其台词。",
+            "world_context": "EARLY_v01c54_teacher_actual_shock_blade_drops_Meng_nine_true_one_false_bladeorigin_cover_teacher_no_trueintent_belief_not_omniscient_Meng_real_relief_Hui_delayed_boast_response_then_over_halfyear_autumn_tenmonths_no_task_QI_greatattainment_six_eye_points_nine_future_Hui_not_QIgreatattainment_no_voicebreak_assumption_Yong_questions_reported_suspicion_not_fact_morning_report_future_actual_curious_investigation_cliff_grayrobe_unidentified",
+            "stage_context": "S14_actual_curious_investigation_cliff_stealth_unidentified_grayrobe",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_experience_but_false_bladeorigin_teacher_incomplete_belief_vs_explicit_later_growth_QI_not_openeyes_Yong_reported_questions_unverified_motive_future_morning_report_and_actual_curiosity_grayrobe_unidentified",
+            "knowledge_boundary": "灰色僧袍人影实际进来仍未认明，不提前定真永或另名敌与配其台词。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灰色僧袍人影实际进来仍未认明，不提前定真永或另名敌与配其台词。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0054",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S13/S14",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 22,
+        "label": "真实惊讶与九真一假、师父有限认识",
+        "direction": "1玄悲震惊问什么2哐当声效3原想扔刀归架却失手砸架弹地，非故意摔刀责徒；外景失态显稀见速度。4孟运行暗金重复报告5师收态仍惊疑6昨日第三今日第四。7–9孟预备说辞埋头闷讲，10感受体悟真只有刀意来源假，11控制心跳遮表情是真防看破，不全知读心；12/13师因体悟合理减疑、赞首次旁观有缘，是基于说辞判断。14韵味与真谛区分，15只有首感谢口声后刀名N、迅速转话题策略，16师郑重戒律未开窍不得旁观另一绝技即师允也不行。17师说未得真意是其有限认识，不能抹52章略真意手刀实效；戒律院不信是风险预判18通常多次观摩非孟已偷看无数回。19两口声提已被二僧见、20师和蔼解释不到三月前四关有雄厚根基者前例，只要不知昨日第三，不等一日第四普遍。21松气源明真实22令去巩固未独证巩固完。表演建议：玄悲失声短促、刀跌自然失手，随询问到欣慰再慎重；孟前埋头控呼吸不把真实体悟演成全编，最后松气是确实放心。证据v01-c0054:p0001–p0022。"
+      },
+      {
+        "paragraph_start": 23,
+        "paragraph_end": 30,
+        "label": "熟悉师弟面前求惊叹、直白诚实的喜剧",
+        "direction": "23真慧休息问早24孟实际得意告第四，后快惊讶等是内期待不可当口令。25慧哦和后金钟适合两引语都口声，平常真诚非嘲讽；26开头连嘴上身体引号皆孟私骂，后也许他法快才孟口声27慧不知道是老实不捧场。28孟突出一日第四自夸前无古人属人物得意非作者历史认证，29慧如听典故才真兴奋30孟掩面叹动作N后需说透私评。表演建议：孟想要震撼回报的少年得意与慧字面接话形成节拍，慧由平常到兴奋不夹恶意；两人亲近，不演一方羞辱另一方。证据v01-c0054:p0023–p0030。"
+      },
+      {
+        "paragraph_start": 32,
+        "paragraph_end": 44,
+        "label": "半年多后的深秋、境界与身体成长分开",
+        "direction": "31省略后32半年多深秋33两人实提灯偏远夜巡，34孟实际满足叹生活好35十个月无轮回任务是未出口内感，慧只回应34不因此知道轮回。36第四后恢复早晚课讲经、下午仍塔积气是水磨积累；37明确七月内孟蓄气大成并凝眼相关六穴，九穴再两月是期待、天聪丸或苦磨开窍未来，无已开眼窍或药已服，不回填52/53已大成。半年多与十月无任务起点不同不相加十七月。38若任务现在来不怕是成长自信非任务已启动。39/40慧吃睡练满足真诚，41仍未蓄气大成、再半年或破是师估，42长高一头44孟长高细绒毛少年感，未明变声不强定成年低音。43你猪啊内吐槽不实际辱骂，孟眼形审美不满不判阴险。表演建议：生活安稳先有松弛满足，成长体现在气息更稳和少年姿态；保慧朴实专注，音色成长待原文证实。证据v01-c0054:p0032–p0044。"
+      },
+      {
+        "paragraph_start": 45,
+        "paragraph_end": 61,
+        "label": "师弟诉苦、疑心升级与明早报师计划",
+        "direction": "45慧说永怪46孟问47林木像妖是比喻。48/50全由慧转述永常找、故事难听、反复问运气阻碍线路及快因，不造真永现场口声。49孟听前半还觉多想听后才凝重，51慧未出口烦恼师禁与误练功、并非已识大阴谋；52/53孟疑偷拈花且奇怪选最难，旧异常回想只疑点不身份揭明。54先问有无告法55慧摇头遵禁未说，不默认已泄全谱。56实际决定明早报师，后风险及会被倒打一耙为孟考虑框叙，未当场报完。57慧指旁树说以前见永钻后59追去是故事没明白，61怕方便等后到练功时走，不独证永真小解；58/60孟惊问和嘴角抽兼慧字面性喜剧。表演建议：慧是烦故事和练功被扰的诉苦，语气信任自然；孟在细问线路时收紧警觉，却仍有对师弟追故事的无奈，不预先用揭内奸定罪口吻。证据v01-c0054:p0045–p0061。"
+      },
+      {
+        "paragraph_start": 62,
+        "paragraph_end": 70,
+        "label": "谨慎计划之外仍亲探、灰袍身份悬置",
+        "direction": "62孟因就在旁好奇凑看63树挡视线64听无动静仍钻树谨慎进，真实亲探不能美化成全程只报师绝不冒险。65慧兴致勃勃模仿跟进非全知配合或强迫胆怯，66十来步双眼亮是视野豁然非开窍。67崖下云雾看不见底不独证无底深渊，68悬崖自疑选内声或低语可听待录、永为何来仍未知。69察声拉慧熄灯躲树实际，70轻脚步灰僧袍人影鬼祟进来尚无姓名，不提前认真永、无该人台词或当场开战。表演建议：孟好奇推进到骤然收紧，熄灯动作果断；慧跟学有兴致，到藏身时跟上师兄，不加他已明白全部危险的内白。章末停在听见与藏住的悬念。证据v01-c0054:p0062–p0070。"
+      }
+    ],
+    "knowledge_rule": "刀意来源是假遮掩、体验真，师未得真意判断是有限认识。半年多后孟七月蓄气大成眼相关六穴、九穴开窍未来，慧仍未大成且变声未明。永问法慧转述、偷学仅疑，明早报师未执行而孟仍亲探，灰袍人未认明。"
+  }
 }
