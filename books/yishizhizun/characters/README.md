@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [玄庄现名、真妙转述与未定诱惑](early-Xuanzhuang-letter-Zhenmiao-unspecified-temptation.md) | 第57章历史归属回补 |
+| [第三单人轮回、直接楼船与针筒未用](early-third-solo-directboat-transferred-unused-needle.md) | 第57章历史归属回补 |
+| [猿面变声、张氏夫妇主观估计与擒问失算](early-ape-disguisedvoice-Zhangcouple-localrank-failedcapture.md) | 第57章历史归属回补 |
 | [蒙面般若掌意、断清净实战与效能非境界](early-masked-prajna-palm-Duanqingjing-mutualwounds-not-Meng-rank.md) | 第56章历史归属回补 |
 | [无得与未名执事、搜身查路及未核经册](early-Wude-unnamed-deacon-bodysearch-route-no-recovered-book.md) | 第56章历史归属回补 |
 | [真常自尽遗书仅报告、师父沉静与孟疑问](early-Zhenchang-suicide-letter-report-teacher-silence-Meng-doubt.md) | 第56章历史归属回补 |
