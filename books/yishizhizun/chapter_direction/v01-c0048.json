@@ -51,7 +51,2342 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0004"
+  "reading_batch": "batch-0004",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0048",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0048.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0048:p0001",
+        "length": 21,
+        "sha256": "bcc503953e699d4f289bc895888c70990ef7fcf54f30a007f8d5b1c8881ce5af",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0001:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟脸抽N后摆脱不了命运为私叹，非真开口诅咒或已永远不能换路。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟脸抽N后摆脱不了命运为私叹，非真开口诅咒或已永远不能换路。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0001:u002",
+            "start": 10,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟脸抽N后摆脱不了命运为私叹，非真开口诅咒或已永远不能换路。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟脸抽N后摆脱不了命运为私叹，非真开口诅咒或已永远不能换路。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟脸抽N后摆脱不了命运为私叹，非真开口诅咒或已永远不能换路。"
+      },
+      {
+        "reference": "v01-c0048:p0002",
+        "length": 86,
+        "sha256": "b32471172d7574cb98b34d310b5bd9145ebbf8f2bb2e4c4772b1d3d44cdab0e5",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0002:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟暂时横练因为初进轮回自保，歧路引号N自嘲，不作者判横练无用邪法。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟暂时横练因为初进轮回自保，歧路引号N自嘲，不作者判横练无用邪法。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟暂时横练因为初进轮回自保，歧路引号N自嘲，不作者判横练无用邪法。"
+      },
+      {
+        "reference": "v01-c0048:p0003",
+        "length": 28,
+        "sha256": "cd8692743371722433d5218ee394c2a505d26da254175196322700917f39c2b5",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0003:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "选择后认真走的决心内念，不当面宣布师门誓约。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "选择后认真走的决心内念，不当面宣布师门誓约。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "选择后认真走的决心内念，不当面宣布师门誓约。"
+      },
+      {
+        "reference": "v01-c0048:p0004",
+        "length": 24,
+        "sha256": "301daebec0aaa2b158a43d7ede5ec1bac87058305251b180dc4585c6061d0f15",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0004:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "理想未必背离为孟私念，不新人物理想实体发话。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "理想未必背离为孟私念，不新人物理想实体发话。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "理想未必背离为孟私念，不新人物理想实体发话。"
+      },
+      {
+        "reference": "v01-c0048:p0005",
+        "length": 47,
+        "sha256": "74565fbf76a84876ccd485a064618a6801925417b91f2cac8560346d8e074f15",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0005:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟对非主界兑换武学熟悉而规划仅私有，非师父已知现代作品出处。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟对非主界兑换武学熟悉而规划仅私有，非师父已知现代作品出处。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟对非主界兑换武学熟悉而规划仅私有，非师父已知现代作品出处。"
+      },
+      {
+        "reference": "v01-c0048:p0006",
+        "length": 46,
+        "sha256": "d55dd8433ec4d08018db70a7b66256577cbd9d146e0319dfcbdd7e9ed1c0502f",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0006:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "想以后非佛门融合铁布金钟是目标，非当下已融合八九全功。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "想以后非佛门融合铁布金钟是目标，非当下已融合八九全功。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "想以后非佛门融合铁布金钟是目标，非当下已融合八九全功。"
+      },
+      {
+        "reference": "v01-c0048:p0007",
+        "length": 35,
+        "sha256": "490f9b4f86f407820ba891e968965fc07aadf8747df0475dbae6a8da9c76e8bb",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0007:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "八九玄功为孟真正未来目标内念，未已兑换或告诉齐/师父。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "八九玄功为孟真正未来目标内念，未已兑换或告诉齐/师父。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "八九玄功为孟真正未来目标内念，未已兑换或告诉齐/师父。"
+      },
+      {
+        "reference": "v01-c0048:p0008",
+        "length": 65,
+        "sha256": "0c039e056ee5bdcb43b08a05a44a0a7c195102d7100ddb85abe2a0781f70b2e5",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0008:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual据性格给慧拈花建议、慈笑观察孟表情，不真读其全部心声。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual据性格给慧拈花建议、慈笑观察孟表情，不真读其全部心声。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0008:u002",
+            "start": 20,
+            "end": 65,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual据性格给慧拈花建议、慈笑观察孟表情，不真读其全部心声。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual据性格给慧拈花建议、慈笑观察孟表情，不真读其全部心声。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual据性格给慧拈花建议、慈笑观察孟表情，不真读其全部心声。"
+      },
+      {
+        "reference": "v01-c0048:p0009",
+        "length": 68,
+        "sha256": "c8d5f4841c86e59751453e35da284231b7ecc60686cd389b49574f79bf0a0fba",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0009:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前慧看孟懵懂N后忆师兄向往指法为慧内念，不孟当前当众抱怨或慧装傻。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "前慧看孟懵懂N后忆师兄向往指法为慧内念，不孟当前当众抱怨或慧装傻。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0009:u002",
+            "start": 29,
+            "end": 68,
+            "kind": "inner_speech",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_prevoicechange_childtone_sincere_disciple_not_buddha_reincarnation_proved",
+            "text_context": "前慧看孟懵懂N后忆师兄向往指法为慧内念，不孟当前当众抱怨或慧装傻。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "editorial_Zhenhui_private_recalled_brother_preferences",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "accepts_Nianhua_exclusive_mainmethod_not_yet_practiced_or_fashen",
+            "delivery": "bright_willing_choice_lore_enthusiasm_and_natural_childlike_question_not_infantile_parody",
+            "knowledge_boundary": "前慧看孟懵懂N后忆师兄向往指法为慧内念，不孟当前当众抱怨或慧装傻。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前慧看孟懵懂N后忆师兄向往指法为慧内念，不孟当前当众抱怨或慧装傻。"
+      },
+      {
+        "reference": "v01-c0048:p0010",
+        "length": 173,
+        "sha256": "7035db5400745f276f55d1411c5400808d508eed6dcbc47726f52ab0ebaee9d9",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0010:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲两段actual慈父解释横练与明王忿火风险，不金刚本身邪功或孟已堕修罗。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲两段actual慈父解释横练与明王忿火风险，不金刚本身邪功或孟已堕修罗。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0010:u002",
+            "start": 59,
+            "end": 80,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲两段actual慈父解释横练与明王忿火风险，不金刚本身邪功或孟已堕修罗。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲两段actual慈父解释横练与明王忿火风险，不金刚本身邪功或孟已堕修罗。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0010:u003",
+            "start": 80,
+            "end": 173,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲两段actual慈父解释横练与明王忿火风险，不金刚本身邪功或孟已堕修罗。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲两段actual慈父解释横练与明王忿火风险，不金刚本身邪功或孟已堕修罗。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲两段actual慈父解释横练与明王忿火风险，不金刚本身邪功或孟已堕修罗。"
+      },
+      {
+        "reference": "v01-c0048:p0011",
+        "length": 46,
+        "sha256": "59856bdb6b39fc1a109aa5638d1c115d4f2c73b8269bb5e3ac4dc6d4c8ea6a0a",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0011:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual先金钟磨性再转金刚条件，尚未现在传完两法。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual先金钟磨性再转金刚条件，尚未现在传完两法。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual先金钟磨性再转金刚条件，尚未现在传完两法。"
+      },
+      {
+        "reference": "v01-c0048:p0012",
+        "length": 39,
+        "sha256": "cec8ebf5d39235c17d2ea8d41e5a124c1c1624ee869e1673aed777db0ebe31ba",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0012:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual好奇为何不迟且放些戒备，不已经全信并暴露轮回秘密。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual好奇为何不迟且放些戒备，不已经全信并暴露轮回秘密。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0012:u002",
+            "start": 28,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual好奇为何不迟且放些戒备，不已经全信并暴露轮回秘密。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual好奇为何不迟且放些戒备，不已经全信并暴露轮回秘密。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual好奇为何不迟且放些戒备，不已经全信并暴露轮回秘密。"
+      },
+      {
+        "reference": "v01-c0048:p0013",
+        "length": 42,
+        "sha256": "2da6cea3d791c82fcd4900dad96f43a1772e5e2b28d2328bfbcb0b517ee15327",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0013:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "齐怕晚异法转修的对照为孟内想，不齐此时在场反驳师父。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "齐怕晚异法转修的对照为孟内想，不齐此时在场反驳师父。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐怕晚异法转修的对照为孟内想，不齐此时在场反驳师父。"
+      },
+      {
+        "reference": "v01-c0048:p0014",
+        "length": 63,
+        "sha256": "224694768d5ac85e87ecf23da45cab9c65c1865ada401a5a2929cc39671dbd71",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0014:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual金刚法身升不动明王同源，解释这一转法不迟，不任意跨派转修都无障碍。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual金刚法身升不动明王同源，解释这一转法不迟，不任意跨派转修都无障碍。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0014:u002",
+            "start": 9,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual金刚法身升不动明王同源，解释这一转法不迟，不任意跨派转修都无障碍。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual金刚法身升不动明王同源，解释这一转法不迟，不任意跨派转修都无障碍。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual金刚法身升不动明王同源，解释这一转法不迟，不任意跨派转修都无障碍。"
+      },
+      {
+        "reference": "v01-c0048:p0015",
+        "length": 35,
+        "sha256": "6edd1fe108d83c15a0c970ee5335598a6f0f835e3e4e8d5a4b3eda69a65d3a77",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0015:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual问何时练金钟有点激动，不已经练成前三关。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual问何时练金钟有点激动，不已经练成前三关。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0015:u002",
+            "start": 15,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual问何时练金钟有点激动，不已经练成前三关。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual问何时练金钟有点激动，不已经练成前三关。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual问何时练金钟有点激动，不已经练成前三关。"
+      },
+      {
+        "reference": "v01-c0048:p0016",
+        "length": 36,
+        "sha256": "e99f3c21b53ea43b4da9dabb05136ab581a1356d691863aad86537cf824fbf33",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0016:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟内急下次任务不知何时、灵芝丸饥渴拟人，不丹药独立说者或此刻已服完。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟内急下次任务不知何时、灵芝丸饥渴拟人，不丹药独立说者或此刻已服完。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内急下次任务不知何时、灵芝丸饥渴拟人，不丹药独立说者或此刻已服完。"
+      },
+      {
+        "reference": "v01-c0048:p0017",
+        "length": 70,
+        "sha256": "c195dcdb0c923b29cc0b52e62169e981621afa716fc292f8a2ca744fc82d7584",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0017:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲两actual句指抄本已备明日练，开窍前仅金钟前4关，非本章已经授练全部关卡。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲两actual句指抄本已备明日练，开窍前仅金钟前4关，非本章已经授练全部关卡。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0017:u002",
+            "start": 25,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲两actual句指抄本已备明日练，开窍前仅金钟前4关，非本章已经授练全部关卡。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲两actual句指抄本已备明日练，开窍前仅金钟前4关，非本章已经授练全部关卡。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0017:u003",
+            "start": 41,
+            "end": 70,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲两actual句指抄本已备明日练，开窍前仅金钟前4关，非本章已经授练全部关卡。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲两actual句指抄本已备明日练，开窍前仅金钟前4关，非本章已经授练全部关卡。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲两actual句指抄本已备明日练，开窍前仅金钟前4关，非本章已经授练全部关卡。"
+      },
+      {
+        "reference": "v01-c0048:p0018",
+        "length": 52,
+        "sha256": "af5a0697f682ef7dff1fe93cdad9935d262c79c235b03680925779ec026a6455",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0018:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "分境授法为门派慎传说明，不所有弟子本章都叛或孟已获后篇。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "分境授法为门派慎传说明，不所有弟子本章都叛或孟已获后篇。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "分境授法为门派慎传说明，不所有弟子本章都叛或孟已获后篇。"
+      },
+      {
+        "reference": "v01-c0048:p0019",
+        "length": 17,
+        "sha256": "fef069cd80572424526516a7e9c568c6b3f7ba35eefeef6c22959f293542fef1",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0019:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual遵命，为明日练和授法限制应允非已突破开窍。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual遵命，为明日练和授法限制应允非已突破开窍。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0019:u002",
+            "start": 10,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual遵命，为明日练和授法限制应允非已突破开窍。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Jinzhong_reason_private_Bajiu_goal_manuscripts_ready_not_practice",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual遵命，为明日练和授法限制应允非已突破开窍。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual遵命，为明日练和授法限制应允非已突破开窍。"
+      },
+      {
+        "reference": "v01-c0048:p0020",
+        "length": 39,
+        "sha256": "6c12f769ced08fa34b24bbb723d7ae12644341238095823d3e1543d1c1b9ddbc",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0020:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual关心拈花可证何法身，不自己已经改练拈花。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual关心拈花可证何法身，不自己已经改练拈花。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0020:u002",
+            "start": 20,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual关心拈花可证何法身，不自己已经改练拈花。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual关心拈花可证何法身，不自己已经改练拈花。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual关心拈花可证何法身，不自己已经改练拈花。"
+      },
+      {
+        "reference": "v01-c0048:p0021",
+        "length": 55,
+        "sha256": "d6d41d7f6f8d97bb1364c4c4c6c7a5ae1735745ab6ba351daead8baa383f80f8",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0021:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧对典故兴趣眼巴巴等答N，无新自言自语。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "慧对典故兴趣眼巴巴等答N，无新自言自语。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧对典故兴趣眼巴巴等答N，无新自言自语。"
+      },
+      {
+        "reference": "v01-c0048:p0022",
+        "length": 96,
+        "sha256": "399f99cd6955c3ef8e51b1ef56ca76716765df8d5b509b3192f5235e77119a08",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0022:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual拈花首绝/神掌3衍达摩迦叶故事为教学，父慈与呵呵笑真实不达摩真人口。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual拈花首绝/神掌3衍达摩迦叶故事为教学，父慈与呵呵笑真实不达摩真人口。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0022:u002",
+            "start": 35,
+            "end": 96,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual拈花首绝/神掌3衍达摩迦叶故事为教学，父慈与呵呵笑真实不达摩真人口。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual拈花首绝/神掌3衍达摩迦叶故事为教学，父慈与呵呵笑真实不达摩真人口。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual拈花首绝/神掌3衍达摩迦叶故事为教学，父慈与呵呵笑真实不达摩真人口。"
+      },
+      {
+        "reference": "v01-c0048:p0023",
+        "length": 97,
+        "sha256": "c93e5db43170c164d93de24fa7b4f21137741d65bd8288932f2cef5d1d5c9a9a",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0023:u001",
+            "start": 0,
+            "end": 83,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual拈花专一难成且允许慧反对，非强逼学或已经可直证迦叶。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual拈花专一难成且允许慧反对，非强逼学或已经可直证迦叶。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0023:u002",
+            "start": 83,
+            "end": 97,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual拈花专一难成且允许慧反对，非强逼学或已经可直证迦叶。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual拈花专一难成且允许慧反对，非强逼学或已经可直证迦叶。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual拈花专一难成且允许慧反对，非强逼学或已经可直证迦叶。"
+      },
+      {
+        "reference": "v01-c0048:p0024",
+        "length": 61,
+        "sha256": "591b89f26a0caf68d893f0765cd37437510fbe9b27614daa9be4fa3cabbabd9a",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0024:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧actual愿学并转述玄心果位说，未玄心此刻到场或慧已经法身。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "慧actual愿学并转述玄心果位说，未玄心此刻到场或慧已经法身。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0024:u002",
+            "start": 20,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_prevoicechange_childtone_sincere_disciple_not_buddha_reincarnation_proved",
+            "text_context": "慧actual愿学并转述玄心果位说，未玄心此刻到场或慧已经法身。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Zhenhui_willing_Nianhua_childvoice_question",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "accepts_Nianhua_exclusive_mainmethod_not_yet_practiced_or_fashen",
+            "delivery": "bright_willing_choice_lore_enthusiasm_and_natural_childlike_question_not_infantile_parody",
+            "knowledge_boundary": "慧actual愿学并转述玄心果位说，未玄心此刻到场或慧已经法身。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0024:u003",
+            "start": 26,
+            "end": 61,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_prevoicechange_childtone_sincere_disciple_not_buddha_reincarnation_proved",
+            "text_context": "慧actual愿学并转述玄心果位说，未玄心此刻到场或慧已经法身。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Zhenhui_willing_Nianhua_childvoice_question",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "accepts_Nianhua_exclusive_mainmethod_not_yet_practiced_or_fashen",
+            "delivery": "bright_willing_choice_lore_enthusiasm_and_natural_childlike_question_not_infantile_parody",
+            "knowledge_boundary": "慧actual愿学并转述玄心果位说，未玄心此刻到场或慧已经法身。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧actual愿学并转述玄心果位说，未玄心此刻到场或慧已经法身。"
+      },
+      {
+        "reference": "v01-c0048:p0025",
+        "length": 21,
+        "sha256": "8fbb87b03b0ace993545dce500cedb57ee7d2760816f25bb757c3538953d1a81",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0025:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟首这家伙私叹后望梁N，不公开训斥慧不可学。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟首这家伙私叹后望梁N，不公开训斥慧不可学。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0025:u002",
+            "start": 10,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟首这家伙私叹后望梁N，不公开训斥慧不可学。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟首这家伙私叹后望梁N，不公开训斥慧不可学。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟首这家伙私叹后望梁N，不公开训斥慧不可学。"
+      },
+      {
+        "reference": "v01-c0048:p0026",
+        "length": 25,
+        "sha256": "11be6b037799045c08ce89bdb556cb4ee3507db11ff3feb09c0b89ba0d2f658f",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0026:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual提醒几十年一日准备，未本章时间突然过数十年。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual提醒几十年一日准备，未本章时间突然过数十年。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0026:u002",
+            "start": 7,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual提醒几十年一日准备，未本章时间突然过数十年。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual提醒几十年一日准备，未本章时间突然过数十年。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual提醒几十年一日准备，未本章时间突然过数十年。"
+      },
+      {
+        "reference": "v01-c0048:p0027",
+        "length": 14,
+        "sha256": "df8433d65c0c26309315ba8a39fef9a717e4699b2c1995848dfaa104f02a4e97",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0027:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲对慧专一放心是叙述，不保证他自动百年不变或下一章立刻大成。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲对慧专一放心是叙述，不保证他自动百年不变或下一章立刻大成。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲对慧专一放心是叙述，不保证他自动百年不变或下一章立刻大成。"
+      },
+      {
+        "reference": "v01-c0048:p0028",
+        "length": 65,
+        "sha256": "26a07eb3bcb5af585c7dda6422cb54edb9be408436855023237c69e3da9a8916",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0028:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual问达摩多绝技与专一的疑点，两人主功确定不代表已练熟。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual问达摩多绝技与专一的疑点，两人主功确定不代表已练熟。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0028:u002",
+            "start": 24,
+            "end": 65,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual问达摩多绝技与专一的疑点，两人主功确定不代表已练熟。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual问达摩多绝技与专一的疑点，两人主功确定不代表已练熟。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual问达摩多绝技与专一的疑点，两人主功确定不代表已练熟。"
+      },
+      {
+        "reference": "v01-c0048:p0029",
+        "length": 97,
+        "sha256": "5c57f01308d23b8ca9b850f3427263e661065dc9a6dc6ec245d64d63f43bd191",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0029:u001",
+            "start": 0,
+            "end": 82,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual分达摩悟未练/法身后完善/此前已练三类，为述史不加达摩现场配音。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual分达摩悟未练/法身后完善/此前已练三类，为述史不加达摩现场配音。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0029:u002",
+            "start": 82,
+            "end": 97,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual分达摩悟未练/法身后完善/此前已练三类，为述史不加达摩现场配音。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual分达摩悟未练/法身后完善/此前已练三类，为述史不加达摩现场配音。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual分达摩悟未练/法身后完善/此前已练三类，为述史不加达摩现场配音。"
+      },
+      {
+        "reference": "v01-c0048:p0030",
+        "length": 56,
+        "sha256": "e8877999d52150457006844ef2a6e4ea1c4b2bebf89ae41bb7c2b97c499ae65f",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0030:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟两actual引语恍然后问兼易筋，中间爱秘闻是N不真慧替他说。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟两actual引语恍然后问兼易筋，中间爱秘闻是N不真慧替他说。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0030:u002",
+            "start": 7,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟两actual引语恍然后问兼易筋，中间爱秘闻是N不真慧替他说。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟两actual引语恍然后问兼易筋，中间爱秘闻是N不真慧替他说。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0030:u003",
+            "start": 34,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟两actual引语恍然后问兼易筋，中间爱秘闻是N不真慧替他说。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟两actual引语恍然后问兼易筋，中间爱秘闻是N不真慧替他说。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟两actual引语恍然后问兼易筋，中间爱秘闻是N不真慧替他说。"
+      },
+      {
+        "reference": "v01-c0048:p0031",
+        "length": 138,
+        "sha256": "baaada1b5cdb227f58b56628558ebe1dbca104744f559a4348198dd24e10f5b8",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0031:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual易筋增质加速可兼拈花、独修无金身招轻，非此刻给两人易筋传承。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual易筋增质加速可兼拈花、独修无金身招轻，非此刻给两人易筋传承。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0031:u002",
+            "start": 9,
+            "end": 138,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual易筋增质加速可兼拈花、独修无金身招轻，非此刻给两人易筋传承。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual易筋增质加速可兼拈花、独修无金身招轻，非此刻给两人易筋传承。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual易筋增质加速可兼拈花、独修无金身招轻，非此刻给两人易筋传承。"
+      },
+      {
+        "reference": "v01-c0048:p0032",
+        "length": 70,
+        "sha256": "fc4bcc296c2485978fa5e2751adc437988a72ff9d3ff4fa1fdf8ce7d8b82fb60",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0032:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "首难怪内念，后难怪/兑换谱名概念N，孟比较不同版本不现在公开说轮回册。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "首难怪内念，后难怪/兑换谱名概念N，孟比较不同版本不现在公开说轮回册。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0032:u002",
+            "start": 4,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首难怪内念，后难怪/兑换谱名概念N，孟比较不同版本不现在公开说轮回册。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "首难怪内念，后难怪/兑换谱名概念N，孟比较不同版本不现在公开说轮回册。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首难怪内念，后难怪/兑换谱名概念N，孟比较不同版本不现在公开说轮回册。"
+      },
+      {
+        "reference": "v01-c0048:p0033",
+        "length": 42,
+        "sha256": "e33584aa8e8274ad600729dd217b0090dd6c662ee324325bef387653473550c8",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0033:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "慧actual未变声童稚问拈花升神掌，非故作幼童或已会神掌。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "慧actual未变声童稚问拈花升神掌，非故作幼童或已会神掌。",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0033:u002",
+            "start": 19,
+            "end": 42,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "Zhenhui_prevoicechange_childtone_sincere_disciple_not_buddha_reincarnation_proved",
+            "text_context": "慧actual未变声童稚问拈花升神掌，非故作幼童或已会神掌。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Zhenhui_willing_Nianhua_childvoice_question",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "accepts_Nianhua_exclusive_mainmethod_not_yet_practiced_or_fashen",
+            "delivery": "bright_willing_choice_lore_enthusiasm_and_natural_childlike_question_not_infantile_parody",
+            "knowledge_boundary": "慧actual未变声童稚问拈花升神掌，非故作幼童或已会神掌。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "慧actual未变声童稚问拈花升神掌，非故作幼童或已会神掌。"
+      },
+      {
+        "reference": "v01-c0048:p0034",
+        "length": 21,
+        "sha256": "72a64f202d5938b31fc57ebb8fc2eaf4804ac026ec7674a5acba1cc64789cb69",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0034:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟低头N后站一起丢脸内念，不对慧当面羞辱。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟低头N后站一起丢脸内念，不对慧当面羞辱。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0034:u002",
+            "start": 9,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟低头N后站一起丢脸内念，不对慧当面羞辱。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟低头N后站一起丢脸内念，不对慧当面羞辱。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟低头N后站一起丢脸内念，不对慧当面羞辱。"
+      },
+      {
+        "reference": "v01-c0048:p0035",
+        "length": 44,
+        "sha256": "70432a9cbef211f7dad1e366ecc5bf7ab0f590cc06abf4d7754a304849903bf3",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0035:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual得见菩提真意方可佛法升神掌的条件，不无条件马上兑换升级。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual得见菩提真意方可佛法升神掌的条件，不无条件马上兑换升级。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0035:u002",
+            "start": 11,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual得见菩提真意方可佛法升神掌的条件，不无条件马上兑换升级。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual得见菩提真意方可佛法升神掌的条件，不无条件马上兑换升级。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual得见菩提真意方可佛法升神掌的条件，不无条件马上兑换升级。"
+      },
+      {
+        "reference": "v01-c0048:p0036",
+        "length": 115,
+        "sha256": "9917e7fec3d38bede1ec6f76bf926f3476922c17d2daff85c505672fbdc88c31",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0036:u001",
+            "start": 0,
+            "end": 115,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual长问承37转话题锚，玄心/水月法身仅转述、不玄心现场声。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual长问承37转话题锚，玄心/水月法身仅转述、不玄心现场声。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual长问承37转话题锚，玄心/水月法身仅转述、不玄心现场声。"
+      },
+      {
+        "reference": "v01-c0048:p0037",
+        "length": 47,
+        "sha256": "6b2e57048672b8cc75ecff5816130c25d5f03ba680bd6824ff31311e4ebfd9b8",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0037:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟打探为了将来兑换是私意叙述，未师父知六道或当前已付善功。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟打探为了将来兑换是私意叙述，未师父知六道或当前已付善功。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟打探为了将来兑换是私意叙述，未师父知六道或当前已付善功。"
+      },
+      {
+        "reference": "v01-c0048:p0038",
+        "length": 126,
+        "sha256": "e8f9a07dd5027360e5fdd582f4edb3c253aa75a62374d13863e6d5b5dcfb03dd",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0038:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual神掌不齐不可证如来、自己摩柯缺地藏经仅能至半步是功法上限，非本人现在已半步法身。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual神掌不齐不可证如来、自己摩柯缺地藏经仅能至半步是功法上限，非本人现在已半步法身。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0038:u002",
+            "start": 9,
+            "end": 60,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual神掌不齐不可证如来、自己摩柯缺地藏经仅能至半步是功法上限，非本人现在已半步法身。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual神掌不齐不可证如来、自己摩柯缺地藏经仅能至半步是功法上限，非本人现在已半步法身。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0038:u003",
+            "start": 60,
+            "end": 126,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual神掌不齐不可证如来、自己摩柯缺地藏经仅能至半步是功法上限，非本人现在已半步法身。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual神掌不齐不可证如来、自己摩柯缺地藏经仅能至半步是功法上限，非本人现在已半步法身。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual神掌不齐不可证如来、自己摩柯缺地藏经仅能至半步是功法上限，非本人现在已半步法身。"
+      },
+      {
+        "reference": "v01-c0048:p0039",
+        "length": 31,
+        "sha256": "377ac396d1757193c6634420f26a44131184dc372368a83e5881c87fb72fa958",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0039:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "首地藏渡魂经疑问孟内念、后依稀记兑换谱有完整是记忆，未真兑换告师或送师父。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "首地藏渡魂经疑问孟内念、后依稀记兑换谱有完整是记忆，未真兑换告师或送师父。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0039:u002",
+            "start": 8,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首地藏渡魂经疑问孟内念、后依稀记兑换谱有完整是记忆，未真兑换告师或送师父。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "首地藏渡魂经疑问孟内念、后依稀记兑换谱有完整是记忆，未真兑换告师或送师父。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首地藏渡魂经疑问孟内念、后依稀记兑换谱有完整是记忆，未真兑换告师或送师父。"
+      },
+      {
+        "reference": "v01-c0048:p0040",
+        "length": 80,
+        "sha256": "97a009d1c1a8969cd6d19ef0a415322d0a629e8ef3cef9f02bc0c7f251cfe36f",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0040:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual大梦现缺后只睡梦罗汉、补齐疑梦中证道阿弥陀是怀疑，不已验证法门同一或已补齐。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual大梦现缺后只睡梦罗汉、补齐疑梦中证道阿弥陀是怀疑，不已验证法门同一或已补齐。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0040:u002",
+            "start": 7,
+            "end": 80,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual大梦现缺后只睡梦罗汉、补齐疑梦中证道阿弥陀是怀疑，不已验证法门同一或已补齐。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual大梦现缺后只睡梦罗汉、补齐疑梦中证道阿弥陀是怀疑，不已验证法门同一或已补齐。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual大梦现缺后只睡梦罗汉、补齐疑梦中证道阿弥陀是怀疑，不已验证法门同一或已补齐。"
+      },
+      {
+        "reference": "v01-c0048:p0041",
+        "length": 106,
+        "sha256": "d7f6d23b3d4af90df96faa574de8a1227b6794497590c0ac907457a89adea5be",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0041:u001",
+            "start": 0,
+            "end": 75,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual内18外54分化及数例，未列完18或孟新习全部。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual内18外54分化及数例，未列完18或孟新习全部。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0041:u002",
+            "start": 75,
+            "end": 106,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual内18外54分化及数例，未列完18或孟新习全部。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_Nianhua_Yijin_and_fashen_teaching_hypotheses",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual内18外54分化及数例，未列完18或孟新习全部。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual内18外54分化及数例，未列完18或孟新习全部。"
+      },
+      {
+        "reference": "v01-c0048:p0042",
+        "length": 52,
+        "sha256": "e3fe7f44a4ea3e1834b6ad99ed531342ad844975f907a8a8d4614e5005468431",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0042:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前内十八名N仅后阿难是否纯刀招孟actual，未向师父坦白自己已有真意。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "前内十八名N仅后阿难是否纯刀招孟actual，未向师父坦白自己已有真意。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0042:u002",
+            "start": 32,
+            "end": 52,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "前内十八名N仅后阿难是否纯刀招孟actual，未向师父坦白自己已有真意。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "前内十八名N仅后阿难是否纯刀招孟actual，未向师父坦白自己已有真意。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前内十八名N仅后阿难是否纯刀招孟actual，未向师父坦白自己已有真意。"
+      },
+      {
+        "reference": "v01-c0048:p0043",
+        "length": 23,
+        "sha256": "dfa3ac0cfcc0257c5c6f4e5f35e3008b3f69ce2a84fa46d9aadc6103277246b2",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0043:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲两actual对/为何问，不已经识破孟轮回来源。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲两actual对/为何问，不已经识破孟轮回来源。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0043:u002",
+            "start": 4,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲两actual对/为何问，不已经识破孟轮回来源。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲两actual对/为何问，不已经识破孟轮回来源。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0043:u003",
+            "start": 14,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲两actual对/为何问，不已经识破孟轮回来源。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲两actual对/为何问，不已经识破孟轮回来源。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲两actual对/为何问，不已经识破孟轮回来源。"
+      },
+      {
+        "reference": "v01-c0048:p0044",
+        "length": 66,
+        "sha256": "4cbe298eb075858b2af0bdaba74a21299d8dca57a87979b738267546a497b61b",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0044:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual预备刀法爱好半真借口掩来历，未完整交代断清净如何获得。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual预备刀法爱好半真借口掩来历，未完整交代断清净如何获得。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0044:u002",
+            "start": 16,
+            "end": 66,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual预备刀法爱好半真借口掩来历，未完整交代断清净如何获得。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual预备刀法爱好半真借口掩来历，未完整交代断清净如何获得。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual预备刀法爱好半真借口掩来历，未完整交代断清净如何获得。"
+      },
+      {
+        "reference": "v01-c0048:p0045",
+        "length": 38,
+        "sha256": "fe91d00b6707b32054355099733cf6d982b2aeadc8a4a255328b7a6a98e9af08",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0045:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "师父近外景巅峰难瞒练刀为孟盘算叙述，不本章玄悲新晋或明知刀真来源。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "师父近外景巅峰难瞒练刀为孟盘算叙述，不本章玄悲新晋或明知刀真来源。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "师父近外景巅峰难瞒练刀为孟盘算叙述，不本章玄悲新晋或明知刀真来源。"
+      },
+      {
+        "reference": "v01-c0048:p0046",
+        "length": 19,
+        "sha256": "ce2c47e99c869e803f846cee3349be427fc074fb3d39098822cf3f05ef141ed9",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0046:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "素爱刀心伤为孟内念，不当面说前话是谎拒练。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "素爱刀心伤为孟内念，不当面说前话是谎拒练。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "素爱刀心伤为孟内念，不当面说前话是谎拒练。"
+      },
+      {
+        "reference": "v01-c0048:p0047",
+        "length": 14,
+        "sha256": "9b1af7b011841fdd6d757f27d5ec648d0202ebfafc0a1baec78d3749c3365b2d",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0047:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "歧途越远仍孟私叹，不已买八九改主功。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "歧途越远仍孟私叹，不已买八九改主功。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "歧途越远仍孟私叹，不已买八九改主功。"
+      },
+      {
+        "reference": "v01-c0048:p0048",
+        "length": 121,
+        "sha256": "c96d78c6d3f38979fbdbae55ae9662447c62114dbc6e85a18f2d78702491891f",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0048:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual阿难刀意与佛法冲突僧练难、开窍后才可三四层借阅，未现在给全刀法。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual阿难刀意与佛法冲突僧练难、开窍后才可三四层借阅，未现在给全刀法。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0048:u002",
+            "start": 7,
+            "end": 121,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual阿难刀意与佛法冲突僧练难、开窍后才可三四层借阅，未现在给全刀法。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual阿难刀意与佛法冲突僧练难、开窍后才可三四层借阅，未现在给全刀法。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual阿难刀意与佛法冲突僧练难、开窍后才可三四层借阅，未现在给全刀法。"
+      },
+      {
+        "reference": "v01-c0048:p0049",
+        "length": 42,
+        "sha256": "e49381cea32a579f21f4d3ffba1518bae125ff175370f178008106721fe73201",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0049:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual刀疑可问自谦不擅而理通，不自称刀道无敌或取消未开窍戒律。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual刀疑可问自谦不擅而理通，不自称刀道无敌或取消未开窍戒律。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual刀疑可问自谦不擅而理通，不自称刀道无敌或取消未开窍戒律。"
+      },
+      {
+        "reference": "v01-c0048:p0050",
+        "length": 119,
+        "sha256": "3742ee85e8f417ee5e26929f960de956284fcc32674800ccf81b63791fcb18f7",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0050:u001",
+            "start": 0,
+            "end": 119,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "开窍前一绝、百会37门未金身为叙述，非实际现场数37招或所有兼学都必失败。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_blade_coverstory_and_future_access_rule",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "开窍前一绝、百会37门未金身为叙述，非实际现场数37招或所有兼学都必失败。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "开窍前一绝、百会37门未金身为叙述，非实际现场数37招或所有兼学都必失败。"
+      },
+      {
+        "reference": "v01-c0048:p0051",
+        "length": 41,
+        "sha256": "da2a764626a1fef22d2331d6d8821b0275d5d9fc190134e1cab4313e059b0b86",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0051:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual谢后装好奇问真观与密道，目的比两世界未公开向师父说。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual谢后装好奇问真观与密道，目的比两世界未公开向师父说。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0051:u002",
+            "start": 18,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual谢后装好奇问真观与密道，目的比两世界未公开向师父说。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual谢后装好奇问真观与密道，目的比两世界未公开向师父说。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0051:u003",
+            "start": 31,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual谢后装好奇问真观与密道，目的比两世界未公开向师父说。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual谢后装好奇问真观与密道，目的比两世界未公开向师父说。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual谢后装好奇问真观与密道，目的比两世界未公开向师父说。"
+      },
+      {
+        "reference": "v01-c0048:p0052",
+        "length": 15,
+        "sha256": "ff8d99f4770b1c328436fd412837ab63032cffd0d29f7ed7a733941f4a6e1c49",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0052:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "两界密道异同孟内问，不玄悲此刻也知道轮回同构。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "editorial_M_private_future_Bajiu_plan_selfmockery_and_informationgoal",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "两界密道异同孟内问，不玄悲此刻也知道轮回同构。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两界密道异同孟内问，不玄悲此刻也知道轮回同构。"
+      },
+      {
+        "reference": "v01-c0048:p0053",
+        "length": 89,
+        "sha256": "4a0d1bde55ed91737c02b6b9175db8ae666134f3b9d60933747fdaad7798590f",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0053:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲两actual报告晚一步真观崖下被同伙接、可能半妖仍未定；密道通舍利塔下有妖逃未全数名。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲两actual报告晚一步真观崖下被同伙接、可能半妖仍未定；密道通舍利塔下有妖逃未全数名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0053:u002",
+            "start": 49,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲两actual报告晚一步真观崖下被同伙接、可能半妖仍未定；密道通舍利塔下有妖逃未全数名。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲两actual报告晚一步真观崖下被同伙接、可能半妖仍未定；密道通舍利塔下有妖逃未全数名。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0053:u003",
+            "start": 56,
+            "end": 89,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲两actual报告晚一步真观崖下被同伙接、可能半妖仍未定；密道通舍利塔下有妖逃未全数名。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲两actual报告晚一步真观崖下被同伙接、可能半妖仍未定；密道通舍利塔下有妖逃未全数名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲两actual报告晚一步真观崖下被同伙接、可能半妖仍未定；密道通舍利塔下有妖逃未全数名。"
+      },
+      {
+        "reference": "v01-c0048:p0054",
+        "length": 38,
+        "sha256": "72290698f0a697a9edb24979af1a2c330a027ef520fb95575e1b3042bfee2738",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0054:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual故意引开凿密道话题，不这是他已经证实妖新挖事实。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual故意引开凿密道话题，不这是他已经证实妖新挖事实。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0054:u002",
+            "start": 26,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual故意引开凿密道话题，不这是他已经证实妖新挖事实。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual故意引开凿密道话题，不这是他已经证实妖新挖事实。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual故意引开凿密道话题，不这是他已经证实妖新挖事实。"
+      },
+      {
+        "reference": "v01-c0048:p0055",
+        "length": 33,
+        "sha256": "1b97ac233c90a523002605b4483ed8380344fb9fec7fd85d0ed3bc9710dccf55",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0055:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual纠正利用遗迹旧密道非新凿，未解释两世界为何同构。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual纠正利用遗迹旧密道非新凿，未解释两世界为何同构。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0055:u002",
+            "start": 12,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual纠正利用遗迹旧密道非新凿，未解释两世界为何同构。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual纠正利用遗迹旧密道非新凿，未解释两世界为何同构。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual纠正利用遗迹旧密道非新凿，未解释两世界为何同构。"
+      },
+      {
+        "reference": "v01-c0048:p0056",
+        "length": 17,
+        "sha256": "65107eec8e001918b91bb7767c0817a77125e7e576dedea140edbb3aaa10e0b4",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0056:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual遗迹问且心跳快，非已经进入遗迹得到奇遇。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual遗迹问且心跳快，非已经进入遗迹得到奇遇。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0056:u002",
+            "start": 7,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual遗迹问且心跳快，非已经进入遗迹得到奇遇。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual遗迹问且心跳快，非已经进入遗迹得到奇遇。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual遗迹问且心跳快，非已经进入遗迹得到奇遇。"
+      },
+      {
+        "reference": "v01-c0048:p0057",
+        "length": 77,
+        "sha256": "a9bc63b19dc11f1b01523e37d139c630def0ad855b163d364af96d994c76ab30",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0057:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual察心跳严肃外景前勿近止问，不读出孟全部秘密或当场给全遗迹图。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual察心跳严肃外景前勿近止问，不读出孟全部秘密或当场给全遗迹图。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0057:u002",
+            "start": 26,
+            "end": 77,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual察心跳严肃外景前勿近止问，不读出孟全部秘密或当场给全遗迹图。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual察心跳严肃外景前勿近止问，不读出孟全部秘密或当场给全遗迹图。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual察心跳严肃外景前勿近止问，不读出孟全部秘密或当场给全遗迹图。"
+      },
+      {
+        "reference": "v01-c0048:p0058",
+        "length": 24,
+        "sha256": "0160d298f7bb69295b56df3f8b5dbccd75ad6a2266fc2f09955644cb6c8147a0",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0058:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual收住追问再问吩咐，未接着偷偷入遗迹。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "孟actual收住追问再问吩咐，未接着偷偷入遗迹。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0058:u002",
+            "start": 11,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "孟actual收住追问再问吩咐，未接着偷偷入遗迹。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_M_curiosity_questions_coverstory_and_acceptance",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "孟actual收住追问再问吩咐，未接着偷偷入遗迹。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual收住追问再问吩咐，未接着偷偷入遗迹。"
+      },
+      {
+        "reference": "v01-c0048:p0059",
+        "length": 77,
+        "sha256": "74227b2d022ad41c5c5843ff7acf9cf0eb33d74a19b6fb3701d050bc723d23ce",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0059:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲actual令收拾搬来、明日特殊处借铁布底练前三关是计划，不已经到地方练成或师兄弟已搬完。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "玄悲actual令收拾搬来、明日特殊处借铁布底练前三关是计划，不已经到地方练成或师兄弟已搬完。",
+            "focalizer": "xuan_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0059:u002",
+            "start": 7,
+            "end": 77,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_bei",
+            "surface_identity": "Xuanbei_fatherlike_patient_not_mindreading_Meng_secret",
+            "text_context": "玄悲actual令收拾搬来、明日特殊处借铁布底练前三关是计划，不已经到地方练成或师兄弟已搬完。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "actual_Xuanbei_patient_teaching_lore_reports_and_boundary",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "near_externalpeak_existing_not_new_half_fashen_rank_Moke_method_missing_supplement",
+            "delivery": "gentle_fatherly_rare_laugh_patient_answers_then_serious_unsafe_ruins_limit_final_smiling_unsaid_location",
+            "knowledge_boundary": "玄悲actual令收拾搬来、明日特殊处借铁布底练前三关是计划，不已经到地方练成或师兄弟已搬完。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲actual令收拾搬来、明日特殊处借铁布底练前三关是计划，不已经到地方练成或师兄弟已搬完。"
+      },
+      {
+        "reference": "v01-c0048:p0060",
+        "length": 46,
+        "sha256": "b54f6d3005e3689879a86287bdc7279847f7c94b7b0f55369858a13efc8d76db",
+        "units": [
+          {
+            "unit_id": "v01-c0048:p0060:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "首啊什么地方孟内惊可听性待录，后玄悲含笑不说、二人实际回武僧院，地点未揭未完成搬家。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "editorial_M_specialplace_question_audibility_open",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "首啊什么地方孟内惊可听性待录，后玄悲含笑不说、二人实际回武僧院，地点未揭未完成搬家。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0060:u002",
+            "start": 2,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_new_disciple_reincarnation_secret_unshared",
+            "text_context": "首啊什么地方孟内惊可听性待录，后玄悲含笑不说、二人实际回武僧院，地点未揭未完成搬家。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "editorial_M_specialplace_question_audibility_open",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "embodiment": "Jinzhong_firstfour_manuscript_prepared_starttomorrow_not_threepasses_completed_Bajiu_only_futuregoal",
+            "delivery": "selfmocking_resolve_then_partial_trust_warm_curiosity_playful_bladecover_and_restrained_secretgate_interest",
+            "knowledge_boundary": "首啊什么地方孟内惊可听性待录，后玄悲含笑不说、二人实际回武僧院，地点未揭未完成搬家。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0048:p0060:u003",
+            "start": 10,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首啊什么地方孟内惊可听性待录，后玄悲含笑不说、二人实际回武僧院，地点未揭未完成搬家。",
+            "world_context": "EARLY_v01c48_Jinzhong_then_same_line_Kingkong_not_any_crossmethod_free_switch_Meng_Bajiu_private_future_Hui_willing_Nianhua_manuscripts_ready_starttomorrow_fourpasses_access_not_training_done_Yijin_auxiliary_and_Damo_taught_lore_Xuanbei_Moke_missing_scripture_limit_Dameng_completion_hypothesis_Zhenguan_escape_possible_halfdemon_old_ruin_gate_tower_report_future_specialplace_not_revealed_return_old_room",
+            "stage_context": "S12_reported_escape_ruins_warning_and_tomorrow_specialplace_unknown",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_choices_ready_manuscripts_and_return_vs_future_training_moves_private_reincarnationgoal_character_taught_lore_reports_and_hypotheses",
+            "knowledge_boundary": "首啊什么地方孟内惊可听性待录，后玄悲含笑不说、二人实际回武僧院，地点未揭未完成搬家。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首啊什么地方孟内惊可听性待录，后玄悲含笑不说、二人实际回武僧院，地点未揭未完成搬家。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0048",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S12",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 19,
+        "label": "慈父解释选功、同源转修与明日开练",
+        "direction": "1脸抽后命运私叹2横练歧路为自嘲，3/4仍决心认真不弃理想，5–7八九玄功是私目标未兑换也不告齐或师父。8玄悲看表情说明慧合拈花，9慧私忆兄向往指法不是孟当前公开抱怨。10玄悲慈父般据铁布基础与性格选横练，直接金刚不坏忿火风险是心性未定适配问题非邪法；11先金钟磨性14同源金刚法身升不动明王不迟，不抹46齐异体系晚转根基难。12孟只放部分戒备，13齐对照内想15问何时练16急轮回与药饥渴私念不丹药口。17抄本已备指桌、明日开练、开窍前仅金钟前4关，18分境慎授19遵命，非本章已练完三关/得全法。表演建议：玄悲从慈笑到耐心解释而非训斥，孟苦中自嘲转认真好奇；选择功法的理由不等47收徒未答深因已经揭。证据v01-c0048:p0001–p0019。"
+      },
+      {
+        "paragraph_start": 20,
+        "paragraph_end": 41,
+        "label": "真慧愿学拈花、师徒温情与功法教诲边界",
+        "direction": "20孟关心慧21慧眼巴巴求典故22玄悲罕见呵呵笑如慈父，教拈花首绝出神掌3与达摩迦叶，只他讲述不加达摩/玄心现场演员。23专一且难成、可拒不强求24慧眼亮愿意引用玄心果位说，26数十年一日是提醒未快进时光。28问多绝技与专一29师父分悟未练/法身后创补/此前已练，30孟两话原来后又问易筋31解释辅助增质加速、独修无金身招轻所以可兼拈花，未授易筋。32首难怪内念后标签N；33真慧明确未变声童稚问神掌34孟丢脸私语35得见菩提真意的条件非即时升级。36孟长问由37锚为实际，38摩柯缺地藏经限制是法门可达半步不玄悲本人晋境；39孟仅忆完整经在谱，40大梦补齐疑梦中证道阿弥陀仍师父猜，当前缺本睡梦罗汉不混成全无金身。41内18/外54及举例不全十八已授。表演建议：孩子自然童稚不婴儿化，师父有慈父笑却不宣称所有远景都保证，孟同爱秘闻但仍藏轮回。证据v01-c0048:p0020–p0041。"
+      },
+      {
+        "paragraph_start": 42,
+        "paragraph_end": 50,
+        "label": "半真爱刀说辞、后续借阅与当前戒律",
+        "direction": "42前内十八名N仅后阿难是否纯刀招孟actual，43师父答对反问44孟笑嘻嘻以素爱刀/曾学刀和玄心故事作预备说辞，不坦白断清净来源。45近外景巅峰师父难瞒将来练刀是盘算，不新升境；46/47素爱刀心伤与歧路私叹不公开反口。48玄悲讲刀意佛法冲突，僧人练难且日后开窍才能藏经阁三四层借阅，不现在授全刀；49愿解日常练刀疑、自谦不擅非承认刀道全知，50开窍前一绝规则仍在，百会37门未金身是旧史不在场。表演建议：孟外笑有合理铺垫内仍无奈，师父不疑轮回来历而真愿教，不把温和回应演成破案逼供或取消戒律。证据v01-c0048:p0042–p0050。"
+      },
+      {
+        "paragraph_start": 51,
+        "paragraph_end": 60,
+        "label": "真观逃走的报告、遗迹禁近与搬院待办",
+        "direction": "51孟真谢后装好奇问真观密道52心内比两世界未告，53玄悲报告慢步让真观崖下被同伙接走、身体可能半妖仍未定，密道到舍利塔下已有几妖逃，未列全部身份或证旧相貌必本尊。54孟故引妖新凿55师父纠正利用旧遗迹密道，不解释两界同构。56遗迹问心跳快57玄悲能察但只严肃告外景前勿近、机密止问，不读全心声；58孟忍住追问。59命收拾搬来、明日特殊地点借铁布底快练前三关是未来安排，60师父笑而不说、两人实际回武僧院，地点未揭未到、搬家未完成更未三关练成。表演建议：孟好奇压不住心跳后主动收束，师父从耐心转安全边界再留温和悬念，不添偷偷闯遗迹或带针回寺镜头。证据v01-c0048:p0051–p0060。"
+      }
+    ],
+    "knowledge_rule": "题目选功理由不等收徒深因全揭。金钟同源转金刚可行非任意跨法无碍；八九仅孟私愿，抄本备明日练/特殊地未知/搬院待办。慧童音愿拈花，易筋与神掌条件只是教诲。缺经功法上限不当师父修为，大梦/半妖均保疑；察心跳非读轮回秘密。"
+  }
 }

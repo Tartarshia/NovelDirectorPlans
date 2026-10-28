@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [金钟选功与同源升明王、八九私愿及明日开练](early-jinzhong-sameline-switch-private-bajiu-and-tomorrow-training.md) | 第48章历史归属回补 |
+| [慧愿拈花童音、易筋兼修理由与师父罕见笑](early-zhenhui-nianhua-childvoice-yijin-compatible-xuanbei-warmth.md) | 第48章历史归属回补 |
+| [缺经限制、半真刀法说辞与遗迹禁近报告](early-xuanbei-missingtexts-ruins-report-and-unknown-trainingplace.md) | 第48章历史归属回补 |
 | [无思无想两长老、玄悲收徒坚持与读者先知](early-wusi-wuxiang-private-adoption-debate-not-meng-knowledge.md) | 第47章历史归属回补 |
 | [真慧诚请同门、孟反向私求与正式拜师金钟安排](early-zhenhui-sincere-request-formal-adoption-jinzhong-instruction.md) | 第47章历史归属回补 |
 | [玄空颤问、私悔故意错选日与孟的小气](early-xuankong-private-missedselection-admission-not-public.md) | 第47章历史归属回补 |
