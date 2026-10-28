@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [慧从抄本推先有收徒意、饭菜玩笑与兄弟体谅](early-hui-precopied-manual-inference-foodtease-and-brothercare.md) | 第49章历史归属回补 |
+| [真永泛酸礼貌送别、真常过巷转述不等强江](early-zhenyong-sour-farewell-zhenchang-pass-report-not-superiority.md) | 第49章历史归属回补 |
+| [丹田重凝进行中、未识佛号与火鹄牢外第一关练始](early-jinzhong-recondensing-inprogress-tower-huhu-celloutside.md) | 第49章历史归属回补 |
 | [金钟选功与同源升明王、八九私愿及明日开练](early-jinzhong-sameline-switch-private-bajiu-and-tomorrow-training.md) | 第48章历史归属回补 |
 | [慧愿拈花童音、易筋兼修理由与师父罕见笑](early-zhenhui-nianhua-childvoice-yijin-compatible-xuanbei-warmth.md) | 第48章历史归属回补 |
 | [缺经限制、半真刀法说辞与遗迹禁近报告](early-xuanbei-missingtexts-ruins-report-and-unknown-trainingplace.md) | 第48章历史归属回补 |
