@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [尸体九与八枚举矛盾、剑刺伤事实不等凶手身份](early-Han-Wu-corpses-nine-eight-discrepancy-swordproof-not-killer.md) | 第68章历史归属回补 |
+| [尤弘博即尤三爷、镖局已管与家业未来条件](early-YouHongbo-YouThird-escort-succession-private-family.md) | 第68章历史归属回补 |
+| [曹蛮子别称、赌谈与孟奇造势后的尾随](early-CaoManzi-publicity-bets-hat-tail-no-contactyet.md) | 第68章历史归属回补 |
 | [寒使老迈声、未全本感应与误信申猴杀金](early-HanEnvoy-oldvoice-detection-partialart-and-fear.md) | 第67章历史归属回补 |
 | [虚影的替代机制、四图与尊段同失供词](early-Han-alternative-spiritcache-fourmaps-jointmissing-unverified.md) | 第67章历史归属回补 |
 | [非核心第一篇到手未修、返院仅寒使明确死亡](early-Han-firstpart-obtained-no-practice-death-only-confirmed.md) | 第67章历史归属回补 |
