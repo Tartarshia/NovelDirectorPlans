@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [浩儿眼力误判、父纠正与清羽三伯关系](early-cui-haoor-misjudgment-father-correction-and-uncle-not-father.md) | 第53章历史归属回补 |
+| [孟迟来识认妖惧、春日放松与后山权限](early-meng-demonfear-hypothesis-spring-and-limited-access.md) | 第53章历史归属回补 |
+| [真永未证腹急说辞、玄悲温和错猜与突破报告](early-zhenyong-unverified-toilet-excuse-xuanbei-gentle-misread.md) | 第53章历史归属回补 |
 | [第四一日突破未圆满、牢禁压鸟与袜堵暂静](early-fourth-breakthrough-not-perfect-temporary-sockplug.md) | 第52章历史归属回补 |
 | [断清净初外用手刀、断人也断己而远未掌握](early-duanqingjing-first-external-handblade-and-selfcost.md) | 第52章历史归属回补 |
 | [未名平津崔父子、真常玄苦与二层门声许可](early-unnamed-pingjin-cui-pair-zhenchang-xuanku-gatepermission.md) | 第52章历史归属回补 |
