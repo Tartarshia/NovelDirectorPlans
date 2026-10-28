@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [首次跟踪、地道伏局与经验差距](early-Meng-firsttracking-tunnel-trap-experience-shortfall.md) | 第63章历史归属回补 |
+| [费正青的粗豪异尖声、恐惧与盘问习惯](early-Fei-actual-voice-shocked-captive-probes-originalShenhou-error.md) | 第63章历史归属回补 |
+| [分开问供计划、龙槐叶与段知情未核](early-Fei-leaf-temple-search-Duan-knew-unverified.md) | 第63章历史归属回补 |
 | [孟奇借恶名威胁、真实底线与速擒](early-Meng-badname-familybluff-fastcapture-not-intent.md) | 第62章历史归属回补 |
 | [金安成两版供词、黑袍客与费正青关联未核](early-Jin-revised-testimony-blackrobe-Xueshengong-Fei-open.md) | 第62章历史归属回补 |
 | [佯退守候与半时辰后的跟踪](early-Meng-feignedexit-halfshichen-watch-follow-unknown.md) | 第62章历史归属回补 |
