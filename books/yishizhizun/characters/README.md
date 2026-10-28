@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [张李今报姓名、七宗师与秘藏未知边界](early-Zhang-Li-sevenmasters-secretcaches-unknownrank.md) | 第58章历史归属回补 |
+| [原图与抄本交接、孟底线和小算盘](early-Meng-treasure-original-copy-gift-smallcalculation.md) | 第58章历史归属回补 |
+| [原申猴已死、孟冒面具与段请托的血字任务](early-original-Shenhou-dead-Meng-mask-Duan-visualtasks.md) | 第58章历史归属回补 |
 | [玄庄现名、真妙转述与未定诱惑](early-Xuanzhuang-letter-Zhenmiao-unspecified-temptation.md) | 第57章历史归属回补 |
 | [第三单人轮回、直接楼船与针筒未用](early-third-solo-directboat-transferred-unused-needle.md) | 第57章历史归属回补 |
 | [猿面变声、张氏夫妇主观估计与擒问失算](early-ape-disguisedvoice-Zhangcouple-localrank-failedcapture.md) | 第57章历史归属回补 |
