@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [曹兄与街谈中的申猴杀金、传闻不是真死因](early-Cao-public-monkeykiller-rumor-not-shadowtruth.md) | 第65章历史归属回补 |
+| [吴成南北通东家、资料试探与佛珠未成交](early-WuCheng-records-bead-probe-no-sale.md) | 第65章历史归属回补 |
+| [预演惊申猴与不杀张夫妇、身份风险和任务边界](early-Meng-rehearsed-ape-surprise-couple-nonmurder-taskrisk.md) | 第65章历史归属回补 |
 | [尤同光资料与费正青的信佩疑点](early-YouTongguang-records-letters-pendant-Fee-suspicion-open.md) | 第64章历史归属回补 |
 | [未知剑影、多处真伤与未发针下金安成死亡](early-shadow-sword-wounds-unfired-needle-Jin-death.md) | 第64章历史归属回补 |
 | [邬丰羽晨醒今具名、旧栽赃者活着的读者线](early-WuFengyu-named-dawn-survives-framer-reader-only.md) | 第64章历史归属回补 |
