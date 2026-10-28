@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [曹的外委托暗号、手指威慑与未定的假报酬委托](early-Qiuchan-channel-fingers-threat-false-artreward-pending.md) | 第69章历史归属回补 |
+| [江南四英结义映射、误判与真定报名衔接疑](early-JiangnanFour-sworn-swordyouth-prejudice-name-continuity.md) | 第69章历史归属回补 |
+| [穆恒天的礼简与无少主纠称、替父请战未打](early-MuHengtian-no-younglord-title-fatherhonor-challenge-unfought.md) | 第69章历史归属回补 |
 | [尸体九与八枚举矛盾、剑刺伤事实不等凶手身份](early-Han-Wu-corpses-nine-eight-discrepancy-swordproof-not-killer.md) | 第68章历史归属回补 |
 | [尤弘博即尤三爷、镖局已管与家业未来条件](early-YouHongbo-YouThird-escort-succession-private-family.md) | 第68章历史归属回补 |
 | [曹蛮子别称、赌谈与孟奇造势后的尾随](early-CaoManzi-publicity-bets-hat-tail-no-contactyet.md) | 第68章历史归属回补 |
