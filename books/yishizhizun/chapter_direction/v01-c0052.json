@@ -41,7 +41,2250 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0004"
+  "reading_batch": "batch-0004",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v01-0052",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v01-0052.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v01-c0052:p0001",
+        "length": 65,
+        "sha256": "454c2bf6e49adb9cd787edf165ab3c57c48bde3aa59a7761e5a880561b2b5d3a",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0001:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟actual自语误判破功，非源孟真的破功；啪声前章体响N非鸟说啪。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "鸟actual自语误判破功，非源孟真的破功；啪声前章体响N非鸟说啪。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0001:u002",
+            "start": 27,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟actual自语误判破功，非源孟真的破功；啪声前章体响N非鸟说啪。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual自语误判破功，非源孟真的破功；啪声前章体响N非鸟说啪。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0001:u003",
+            "start": 36,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟actual自语误判破功，非源孟真的破功；啪声前章体响N非鸟说啪。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual自语误判破功，非源孟真的破功；啪声前章体响N非鸟说啪。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0001:u004",
+            "start": 51,
+            "end": 65,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟actual自语误判破功，非源孟真的破功；啪声前章体响N非鸟说啪。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual自语误判破功，非源孟真的破功；啪声前章体响N非鸟说啪。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟actual自语误判破功，非源孟真的破功；啪声前章体响N非鸟说啪。"
+      },
+      {
+        "reference": "v01-c0052:p0002",
+        "length": 51,
+        "sha256": "6fb1ce582e99fd2b967a01d676c336dd29aacd25f3dd34756f1c46b54c6d55c5",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0002:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "破关与破功皆响、暗金变亮暗区别N，非新增系统宣布。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "破关与破功皆响、暗金变亮暗区别N，非新增系统宣布。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "破关与破功皆响、暗金变亮暗区别N，非新增系统宣布。"
+      },
+      {
+        "reference": "v01-c0052:p0003",
+        "length": 65,
+        "sha256": "3cee3d40d50b60066c605d53f3ae139c805ad68083e64ade1e773264a6b5463b",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0003:u001",
+            "start": 0,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟因知昨日三成而先入为主，不真的已正确判断孟失败。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "鸟因知昨日三成而先入为主，不真的已正确判断孟失败。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟因知昨日三成而先入为主，不真的已正确判断孟失败。"
+      },
+      {
+        "reference": "v01-c0052:p0004",
+        "length": 39,
+        "sha256": "584df314e82db0276c9c1887087d89d15081dadac3ed8b314d95060fab00ea8a",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0004:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际暗金突近抓鸟，未进牢解除禁制或鸟已飞出塔。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "孟实际暗金突近抓鸟，未进牢解除禁制或鸟已飞出塔。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际暗金突近抓鸟，未进牢解除禁制或鸟已飞出塔。"
+      },
+      {
+        "reference": "v01-c0052:p0005",
+        "length": 65,
+        "sha256": "c8b760096d15263a7eab8f4c8d2a628ae73b0162ae4a8a8edd78949d8764f0e6",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0005:u001",
+            "start": 0,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明鸟受牢压力不到一成妖力全封，不把当前弱当本性永久弱；被孟腰带绑栏未出狱。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "源明鸟受牢压力不到一成妖力全封，不把当前弱当本性永久弱；被孟腰带绑栏未出狱。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明鸟受牢压力不到一成妖力全封，不把当前弱当本性永久弱；被孟腰带绑栏未出狱。"
+      },
+      {
+        "reference": "v01-c0052:p0006",
+        "length": 64,
+        "sha256": "2d41f6792caceab1b372c3dc91aae57032ccf2569b03cc24fbc21328770dc18e",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0006:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟第1与第3引语actual，中间白布料引号N，惊问不孟嘴或新布料人格。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟第1与第3引语actual，中间白布料引号N，惊问不孟嘴或新布料人格。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0006:u002",
+            "start": 7,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟第1与第3引语actual，中间白布料引号N，惊问不孟嘴或新布料人格。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟第1与第3引语actual，中间白布料引号N，惊问不孟嘴或新布料人格。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0006:u003",
+            "start": 16,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟第1与第3引语actual，中间白布料引号N，惊问不孟嘴或新布料人格。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "鸟第1与第3引语actual，中间白布料引号N，惊问不孟嘴或新布料人格。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0006:u004",
+            "start": 55,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟第1与第3引语actual，中间白布料引号N，惊问不孟嘴或新布料人格。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟第1与第3引语actual，中间白布料引号N，惊问不孟嘴或新布料人格。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟第1与第3引语actual，中间白布料引号N，惊问不孟嘴或新布料人格。"
+      },
+      {
+        "reference": "v01-c0052:p0007",
+        "length": 68,
+        "sha256": "6526880470f380daf4e43a923b1436a00e8459aa2a0f0795652d664cd536a799",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0007:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟actual得意告自己的袜子塞嘴，且N明一日第四突破，不等圆满蓄气大成。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "孟actual得意告自己的袜子塞嘴，且N明一日第四突破，不等圆满蓄气大成。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0007:u002",
+            "start": 53,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "孟actual得意告自己的袜子塞嘴，且N明一日第四突破，不等圆满蓄气大成。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "actual_M_gloating_sock_announcement",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "孟actual得意告自己的袜子塞嘴，且N明一日第四突破，不等圆满蓄气大成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0007:u003",
+            "start": 59,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "孟actual得意告自己的袜子塞嘴，且N明一日第四突破，不等圆满蓄气大成。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "actual_M_gloating_sock_announcement",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "孟actual得意告自己的袜子塞嘴，且N明一日第四突破，不等圆满蓄气大成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟actual得意告自己的袜子塞嘴，且N明一日第四突破，不等圆满蓄气大成。"
+      },
+      {
+        "reference": "v01-c0052:p0008",
+        "length": 41,
+        "sha256": "ebe793a03087ac252fb70e184eb6f9a6d9cd2c806b75c3440d7df66f2e38e137",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0008:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟actual不要到唔唔被堵的闷声，9暂清净真实，不永久失语。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual不要到唔唔被堵的闷声，9暂清净真实，不永久失语。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0008:u002",
+            "start": 12,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟actual不要到唔唔被堵的闷声，9暂清净真实，不永久失语。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "鸟actual不要到唔唔被堵的闷声，9暂清净真实，不永久失语。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟actual不要到唔唔被堵的闷声，9暂清净真实，不永久失语。"
+      },
+      {
+        "reference": "v01-c0052:p0009",
+        "length": 41,
+        "sha256": "3a7bda7aba32d85ec8f6fa82547bdc22bb91d72726885642e5f9025fc21b8a26",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0009:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "呼世界静和末享受为孟内感，中闭眼N，不实际对鸟念庆典词。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "呼世界静和末享受为孟内感，中闭眼N，不实际对鸟念庆典词。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0009:u002",
+            "start": 13,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "呼世界静和末享受为孟内感，中闭眼N，不实际对鸟念庆典词。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "呼世界静和末享受为孟内感，中闭眼N，不实际对鸟念庆典词。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0009:u003",
+            "start": 31,
+            "end": 41,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "呼世界静和末享受为孟内感，中闭眼N，不实际对鸟念庆典词。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "呼世界静和末享受为孟内感，中闭眼N，不实际对鸟念庆典词。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "呼世界静和末享受为孟内感，中闭眼N，不实际对鸟念庆典词。"
+      },
+      {
+        "reference": "v01-c0052:p0010",
+        "length": 53,
+        "sha256": "5b1cfd3adf290a59e045e3337766ba789acf03107e716b6b7a7e030d7546f806",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0010:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟复坐散寒热痛轻仍有感，非从此全寒热免疫。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "孟复坐散寒热痛轻仍有感，非从此全寒热免疫。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟复坐散寒热痛轻仍有感，非从此全寒热免疫。"
+      },
+      {
+        "reference": "v01-c0052:p0011",
+        "length": 88,
+        "sha256": "3c703402557c4e4ad03992d45dab36778fce7041b58e5c98cf295b0b096dca09",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0011:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "仅首引语孟思索内语，后刀名N，刀意用于身的领会不额外公开告人秘密。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "仅首引语孟思索内语，后刀名N，刀意用于身的领会不额外公开告人秘密。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0011:u002",
+            "start": 46,
+            "end": 88,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仅首引语孟思索内语，后刀名N，刀意用于身的领会不额外公开告人秘密。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "仅首引语孟思索内语，后刀名N，刀意用于身的领会不额外公开告人秘密。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仅首引语孟思索内语，后刀名N，刀意用于身的领会不额外公开告人秘密。"
+      },
+      {
+        "reference": "v01-c0052:p0012",
+        "length": 91,
+        "sha256": "05c52d407049b5936465fa6fec5ddd739c68b8dedd2a7ef2dd37881a31165aa8",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0012:u001",
+            "start": 0,
+            "end": 91,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "孟对禅悟新体会内语，不全知保证任意佛法都可一日圆满。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "孟对禅悟新体会内语，不全知保证任意佛法都可一日圆满。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟对禅悟新体会内语，不全知保证任意佛法都可一日圆满。"
+      },
+      {
+        "reference": "v01-c0052:p0013",
+        "length": 22,
+        "sha256": "93dbb85fdfdde0acd0eccb759bd3de734742bb07639148456e58b791dea327eb",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0013:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "顿悟体会说明N，未另一个佛祖发言。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "顿悟体会说明N，未另一个佛祖发言。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顿悟体会说明N，未另一个佛祖发言。"
+      },
+      {
+        "reference": "v01-c0052:p0014",
+        "length": 49,
+        "sha256": "37db4a2ad9cfd73bb5d9ba03a0fcba39e860dd52191c1d78938b12e3a1020c8d",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0014:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "孟内思顿悟要身心践行，不现实对读者布道或新老师长讲。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "孟内思顿悟要身心践行，不现实对读者布道或新老师长讲。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内思顿悟要身心践行，不现实对读者布道或新老师长讲。"
+      },
+      {
+        "reference": "v01-c0052:p0015",
+        "length": 48,
+        "sha256": "32e908d5259721c649f6fffd68f1d5c65888ba164989376abdd34224cf3bde79",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0015:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "孟思忖服丸蓄气大成再凝眼穴为未来，未已经大成开眼。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "孟思忖服丸蓄气大成再凝眼穴为未来，未已经大成开眼。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0015:u002",
+            "start": 36,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟思忖服丸蓄气大成再凝眼穴为未来，未已经大成开眼。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "孟思忖服丸蓄气大成再凝眼穴为未来，未已经大成开眼。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟思忖服丸蓄气大成再凝眼穴为未来，未已经大成开眼。"
+      },
+      {
+        "reference": "v01-c0052:p0016",
+        "length": 110,
+        "sha256": "3b7613e7608216ddea705ce3e15885a5c4a13d93fbeea15d72fb9eab755eea04",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0016:u001",
+            "start": 0,
+            "end": 110,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明第四突破但未圆满缺真气量，灵芝因怕环境失效没带，未在塔即时服丸。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "源明第四突破但未圆满缺真气量，灵芝因怕环境失效没带，未在塔即时服丸。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明第四突破但未圆满缺真气量，灵芝因怕环境失效没带，未在塔即时服丸。"
+      },
+      {
+        "reference": "v01-c0052:p0017",
+        "length": 31,
+        "sha256": "aaaf4b7fbc561072b8ff354d58fb21068bc5efa7b524e8efa825859d2b348814",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0017:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "火鹄背对寒龟吐更冷实际仍无新口，不被孟完全驯服。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "火鹄背对寒龟吐更冷实际仍无新口，不被孟完全驯服。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "火鹄背对寒龟吐更冷实际仍无新口，不被孟完全驯服。"
+      },
+      {
+        "reference": "v01-c0052:p0018",
+        "length": 60,
+        "sha256": "204e26adbcf368fbf12c3b96f98c4f60968246214ac364cdf15a4105b87a474a",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0018:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "稳第四基础同时推敲昨日师示和刀意是脑内，不已挥真戒刀。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "稳第四基础同时推敲昨日师示和刀意是脑内，不已挥真戒刀。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "稳第四基础同时推敲昨日师示和刀意是脑内，不已挥真戒刀。"
+      },
+      {
+        "reference": "v01-c0052:p0019",
+        "length": 43,
+        "sha256": "37332c9a966d1f5aa082d36247895bf4065408e293ea4c07c3f937b72cfb2601",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0019:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "暂静保证静思N，后21鸟再喧打破，不说从此鸟永远安静。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "暂静保证静思N，后21鸟再喧打破，不说从此鸟永远安静。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "暂静保证静思N，后21鸟再喧打破，不说从此鸟永远安静。"
+      },
+      {
+        "reference": "v01-c0052:p0020",
+        "length": 58,
+        "sha256": "1bff6a6f5c377b6ac5da50b1cf0d15581674d6a54349966c326865eb2f43d6a3",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0020:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "仅首引语孟暗叹内声，后断清净名N，尚脑演未这一段就手刀斩出。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "仅首引语孟暗叹内声，后断清净名N，尚脑演未这一段就手刀斩出。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0020:u002",
+            "start": 24,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仅首引语孟暗叹内声，后断清净名N，尚脑演未这一段就手刀斩出。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_fourth_confirmed_notperfect_sockplug_temporary_quiet_internal_reflection",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "仅首引语孟暗叹内声，后断清净名N，尚脑演未这一段就手刀斩出。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仅首引语孟暗叹内声，后断清净名N，尚脑演未这一段就手刀斩出。"
+      },
+      {
+        "reference": "v01-c0052:p0021",
+        "length": 27,
+        "sha256": "d0ff77909690e9efeb4129fc5fc573675febde3bd8215785217034306074f82c",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0021:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "聒噪真声框承22/23同鸟，不新妖附体。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "聒噪真声框承22/23同鸟，不新妖附体。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "聒噪真声框承22/23同鸟，不新妖附体。"
+      },
+      {
+        "reference": "v01-c0052:p0022",
+        "length": 29,
+        "sha256": "8d79fddebd94abfbe3bc2a35ddd7cf759dde4732cfce8254f12a33a67b25f8d4",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0022:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟actual重开口自夸塞嘴无效，先前8/9暂堵有效不倒改。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual重开口自夸塞嘴无效，先前8/9暂堵有效不倒改。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0022:u002",
+            "start": 22,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟actual重开口自夸塞嘴无效，先前8/9暂堵有效不倒改。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual重开口自夸塞嘴无效，先前8/9暂堵有效不倒改。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0022:u003",
+            "start": 25,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟actual重开口自夸塞嘴无效，先前8/9暂堵有效不倒改。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual重开口自夸塞嘴无效，先前8/9暂堵有效不倒改。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟actual重开口自夸塞嘴无效，先前8/9暂堵有效不倒改。"
+      },
+      {
+        "reference": "v01-c0052:p0023",
+        "length": 29,
+        "sha256": "58c107db5562434be49a242f7943bc12c65d8c2ccad097f7d5c064686b624571",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0023:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟actual自称鲲鹏无不能吞，能再说话实际但不独验吞万物或定吞纳神通名。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual自称鲲鹏无不能吞，能再说话实际但不独验吞万物或定吞纳神通名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0023:u002",
+            "start": 14,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_noisy_black_fishmouthed_bird",
+            "surface_identity": "same_selfnamed_Chuiyizi_not_new_Kunpeng_genealogy_proof",
+            "text_context": "鸟actual自称鲲鹏无不能吞，能再说话实际但不独验吞万物或定吞纳神通名。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "actual_Chuiyizi_misread_panicked_muffled_then_recovered_boast",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "prison_suppressed_under_tenth_strength_demonpower_sealed_temporarily_beltbound_sockplug_then_bites_belt_no_prisonescape",
+            "delivery": "overconfident_misdiagnosis_then_panic_dont_muffled_syllables_recovered_mocking_boast_then_silent_fear",
+            "resolved_person_id": "chui_yizi",
+            "knowledge_boundary": "鸟actual自称鲲鹏无不能吞，能再说话实际但不独验吞万物或定吞纳神通名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟actual自称鲲鹏无不能吞，能再说话实际但不独验吞万物或定吞纳神通名。"
+      },
+      {
+        "reference": "v01-c0052:p0024",
+        "length": 31,
+        "sha256": "09fc610b56d3f771c4fcdc9d46458c5a63f0e818b69f10d1bbed456cc5a98df8",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0024:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "清净和忘我被破是事实，不孟金钟本身破功。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "清净和忘我被破是事实，不孟金钟本身破功。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "清净和忘我被破是事实，不孟金钟本身破功。"
+      },
+      {
+        "reference": "v01-c0052:p0025",
+        "length": 49,
+        "sha256": "961c65bc20c1659f4c5c6a333d238150ce84dbe215d3f4d11ebc0ba3304a6a1b",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0025:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟此回不浮躁而有新领会，不永久不会受后面自身情绪反噬。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "孟此回不浮躁而有新领会，不永久不会受后面自身情绪反噬。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟此回不浮躁而有新领会，不永久不会受后面自身情绪反噬。"
+      },
+      {
+        "reference": "v01-c0052:p0026",
+        "length": 22,
+        "sha256": "578f9e2da582204d5013d95aaae4ec85da83541667f2b215cfabb7980148f70e",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0026:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "清净破到刀法感受是孟内悟，无实际对鸟教学喊话。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "清净破到刀法感受是孟内悟，无实际对鸟教学喊话。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0026:u002",
+            "start": 7,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "清净破到刀法感受是孟内悟，无实际对鸟教学喊话。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "清净破到刀法感受是孟内悟，无实际对鸟教学喊话。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0026:u003",
+            "start": 12,
+            "end": 22,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "清净破到刀法感受是孟内悟，无实际对鸟教学喊话。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "清净破到刀法感受是孟内悟，无实际对鸟教学喊话。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "清净破到刀法感受是孟内悟，无实际对鸟教学喊话。"
+      },
+      {
+        "reference": "v01-c0052:p0027",
+        "length": 44,
+        "sha256": "a702afeb66cc5dcd269c671fe896483b737b757017909f1b419c5741a8c1121b",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0027:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟足身不移右4指成刀真实斩，是初步外用手刀非真刃击伤鸟或全五式 mastered。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "孟足身不移右4指成刀真实斩，是初步外用手刀非真刃击伤鸟或全五式 mastered。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟足身不移右4指成刀真实斩，是初步外用手刀非真刃击伤鸟或全五式 mastered。"
+      },
+      {
+        "reference": "v01-c0052:p0028",
+        "length": 19,
+        "sha256": "4e1d1f7abf81a54a7f9da833fa7e99f1a466fdfb001c3b32e8a3d7b586a1a463",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0028:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "走道风起似红尘喧为声效/意境N，非实际俗世人群涌进塔。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "走道风起似红尘喧为声效/意境N，非实际俗世人群涌进塔。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "走道风起似红尘喧为声效/意境N，非实际俗世人群涌进塔。"
+      },
+      {
+        "reference": "v01-c0052:p0029",
+        "length": 49,
+        "sha256": "453ba4b2223c6eaba692e3853bca86c2b4ddcc733f4057466d2a69c39a40f399",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0029:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟咬断腰带脱束缚未出牢；初飞失败麻雀笑的仿佛感受不独证鸟原生旧史，的字存疑。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "鸟咬断腰带脱束缚未出牢；初飞失败麻雀笑的仿佛感受不独证鸟原生旧史，的字存疑。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟咬断腰带脱束缚未出牢；初飞失败麻雀笑的仿佛感受不独证鸟原生旧史，的字存疑。"
+      },
+      {
+        "reference": "v01-c0052:p0030",
+        "length": 29,
+        "sha256": "52b15398187a20cd2561b5f0dfb8484bf9dbcd9ffec7c8466776c8d86b32c6a6",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0030:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟恼恨恍神看掌停远，未被手掌实触切伤或出笼搏斗。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "鸟恼恨恍神看掌停远，未被手掌实触切伤或出笼搏斗。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟恼恨恍神看掌停远，未被手掌实触切伤或出笼搏斗。"
+      },
+      {
+        "reference": "v01-c0052:p0031",
+        "length": 38,
+        "sha256": "991f9d3a2070220846ab703cd3b6f6193de0d4c577fc6f6d75ef5fdafb954570",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0031:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鸟退角翼遮头似畏刀意实际反应，不永久驯服或死亡。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "鸟退角翼遮头似畏刀意实际反应，不永久驯服或死亡。",
+            "focalizer": "relic_tower_noisy_black_fishmouthed_bird",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鸟退角翼遮头似畏刀意实际反应，不永久驯服或死亡。"
+      },
+      {
+        "reference": "v01-c0052:p0032",
+        "length": 44,
+        "sha256": "2a22e22052a7b2dce459fb6062b4c53db88d0827b3f799361d45a649c8dd9fa0",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0032:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "火鹄飞角寒龟退步N，33孟没留意，不让他此刻自夸全妖臣服。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "火鹄飞角寒龟退步N，33孟没留意，不让他此刻自夸全妖臣服。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "火鹄飞角寒龟退步N，33孟没留意，不让他此刻自夸全妖臣服。"
+      },
+      {
+        "reference": "v01-c0052:p0033",
+        "length": 66,
+        "sha256": "b77f55ec943aa687c4121489fed27aa7e05af9df61ed5f6cda8ce46773bcb724",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0033:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟自己被思家异乡生死压情绪涌，断己清净代价非只纯胜利快意。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "孟自己被思家异乡生死压情绪涌，断己清净代价非只纯胜利快意。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟自己被思家异乡生死压情绪涌，断己清净代价非只纯胜利快意。"
+      },
+      {
+        "reference": "v01-c0052:p0034",
+        "length": 17,
+        "sha256": "11532d773ad70296e3de5f063764b002b1e5467aaefb9d3b0c1f0b0e0b74cde4",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0034:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "刀名到断人断己为孟内悟整段，非新actual僧人宣说。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "刀名到断人断己为孟内悟整段，非新actual僧人宣说。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "刀名到断人断己为孟内悟整段，非新actual僧人宣说。"
+      },
+      {
+        "reference": "v01-c0052:p0035",
+        "length": 57,
+        "sha256": "17d39612b154dfc3bffe72ff15cbdce5af0cfebdd87fd81b56f9f7c118266de6",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0035:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "一会才收情汗湿又一半汗干一半汗冻，非孟半身碎成冰或真刀肉伤。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "一会才收情汗湿又一半汗干一半汗冻，非孟半身碎成冰或真刀肉伤。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "一会才收情汗湿又一半汗干一半汗冻，非孟半身碎成冰或真刀肉伤。"
+      },
+      {
+        "reference": "v01-c0052:p0036",
+        "length": 104,
+        "sha256": "2c5dfaeec33c8a2e957bcc4796db64455cdfd149b41f26600abff60b7655d99b",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0036:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "仅首引语反思，吐气无明确口声锚选内声/低语待录，后阿难刀名N；未全传承皆掌握。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "editorial_M_blade_reflection_audibility_open",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "仅首引语反思，吐气无明确口声锚选内声/低语待录，后阿难刀名N；未全传承皆掌握。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0036:u002",
+            "start": 25,
+            "end": 104,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仅首引语反思，吐气无明确口声锚选内声/低语待录，后阿难刀名N；未全传承皆掌握。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "仅首引语反思，吐气无明确口声锚选内声/低语待录，后阿难刀名N；未全传承皆掌握。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仅首引语反思，吐气无明确口声锚选内声/低语待录，后阿难刀名N；未全传承皆掌握。"
+      },
+      {
+        "reference": "v01-c0052:p0037",
+        "length": 42,
+        "sha256": "edb9232d64527cd30b90fe55bfcd4e8118cfe281244223dff2b4123b4971ed68",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0037:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明确仅略得真意距掌握远，不能因一记手刀就记完整绝招随时随地精通。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "源明确仅略得真意距掌握远，不能因一记手刀就记完整绝招随时随地精通。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明确仅略得真意距掌握远，不能因一记手刀就记完整绝招随时随地精通。"
+      },
+      {
+        "reference": "v01-c0052:p0038",
+        "length": 68,
+        "sha256": "170f00db38c03e3d017d3049442b92b810260874ac37e3f1c73ba86780c083b9",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0038:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "仅首问后四式孟神游内声、后四招名N，四式均无一点领悟未学得。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "仅首问后四式孟神游内声、后四招名N，四式均无一点领悟未学得。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0038:u002",
+            "start": 20,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仅首问后四式孟神游内声、后四招名N，四式均无一点领悟未学得。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "仅首问后四式孟神游内声、后四招名N，四式均无一点领悟未学得。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仅首问后四式孟神游内声、后四招名N，四式均无一点领悟未学得。"
+      },
+      {
+        "reference": "v01-c0052:p0039",
+        "length": 53,
+        "sha256": "3c94c6562b88ca4054e72df842395ce9bfa423dce3c868783ab7b20796c3f2e5",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0039:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第四突破后可睁眼随时中断修炼，是当前新状态，不仍套第三关必须等周天才能动。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_noisebreak_handblade_external_effect_and_selfcost_not_fullmastery",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "第四突破后可睁眼随时中断修炼，是当前新状态，不仍套第三关必须等周天才能动。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第四突破后可睁眼随时中断修炼，是当前新状态，不仍套第三关必须等周天才能动。"
+      },
+      {
+        "reference": "v01-c0052:p0040",
+        "length": 36,
+        "sha256": "66eeff83b9914bf027372dff4ccb3c773332758f354cebe3f5b87e19de572283",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0040:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟真听脚步谨慎停功，非师父新召唤或第二次轮回已开始。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "孟真听脚步谨慎停功，非师父新召唤或第二次轮回已开始。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟真听脚步谨慎停功，非师父新召唤或第二次轮回已开始。"
+      },
+      {
+        "reference": "v01-c0052:p0041",
+        "length": 39,
+        "sha256": "542019bad3fdc4a0b0b1ff641f2ff1d16234288eabbba8cc91e15321b18cb3e9",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0041:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄苦真常带两男实际来，玄苦非玄空/玄悲，孟认熟僧不新增隐身父。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "玄苦真常带两男实际来，玄苦非玄空/玄悲，孟认熟僧不新增隐身父。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄苦真常带两男实际来，玄苦非玄空/玄悲，孟认熟僧不新增隐身父。"
+      },
+      {
+        "reference": "v01-c0052:p0042",
+        "length": 54,
+        "sha256": "ca4f4203ff5bfefc0114a25d7029e6ec84be0f02c73cbf161893e9d473225e66",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0042:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真常回归大师兄、唐僧比貌N无真人唐僧；两月多前过巷非刚才又闯。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "真常回归大师兄、唐僧比貌N无真人唐僧；两月多前过巷非刚才又闯。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真常回归大师兄、唐僧比貌N无真人唐僧；两月多前过巷非刚才又闯。"
+      },
+      {
+        "reference": "v01-c0052:p0043",
+        "length": 80,
+        "sha256": "69dc1191854287bfca0546f2570f848a2b4d08fabb1a03730454e950ef18ac0d",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0043:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "这么快归孟内疑，附近转转解释仅其多半推，不源独证真常真实全部行程。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "这么快归孟内疑，附近转转解释仅其多半推，不源独证真常真实全部行程。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0043:u002",
+            "start": 12,
+            "end": 80,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "这么快归孟内疑，附近转转解释仅其多半推，不源独证真常真实全部行程。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "这么快归孟内疑，附近转转解释仅其多半推，不源独证真常真实全部行程。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "这么快归孟内疑，附近转转解释仅其多半推，不源独证真常真实全部行程。"
+      },
+      {
+        "reference": "v01-c0052:p0044",
+        "length": 83,
+        "sha256": "381ddee213b292cb82bad6e213f9243d3a280370ccd488a01331a790c5246887",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0044:u001",
+            "start": 0,
+            "end": 83,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两贵客容貌相似先N，58爹后证父子，个人真名未明不配崔清河；凌然用词存疑。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "两贵客容貌相似先N，58爹后证父子，个人真名未明不配崔清河；凌然用词存疑。",
+            "focalizer": "relic_tower_unnamed_bearded_gentry_father",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两贵客容貌相似先N，58爹后证父子，个人真名未明不配崔清河；凌然用词存疑。"
+      },
+      {
+        "reference": "v01-c0052:p0045",
+        "length": 71,
+        "sha256": "5cb4c1485f025d602cf7a09f3fac4c16b18a99f188cb9994c4b376aab815ce94",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0045:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "像贵家为孟私判，泛说世家注形象不证眼前二人纨绔或恶意。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "像贵家为孟私判，泛说世家注形象不证眼前二人纨绔或恶意。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0045:u002",
+            "start": 10,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "像贵家为孟私判，泛说世家注形象不证眼前二人纨绔或恶意。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "像贵家为孟私判，泛说世家注形象不证眼前二人纨绔或恶意。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "像贵家为孟私判，泛说世家注形象不证眼前二人纨绔或恶意。"
+      },
+      {
+        "reference": "v01-c0052:p0046",
+        "length": 91,
+        "sha256": "7e79708282cab57ea22b039869fc128697e93bd09f53a7f467752f12ea62d253",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0046:u001",
+            "start": 0,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "中年客actual问金钟或金刚，看出修法疑问不已知孟精确全部功与来历。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "中年客actual问金钟或金刚，看出修法疑问不已知孟精确全部功与来历。",
+            "focalizer": "relic_tower_unnamed_bearded_gentry_father",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0046:u002",
+            "start": 61,
+            "end": 81,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_unnamed_bearded_gentry_father",
+            "surface_identity": "unnamed_bearded_middleaged_Cui_visitor_Pingjin61_not_CuiQinghe",
+            "text_context": "中年客actual问金钟或金刚，看出修法疑问不已知孟精确全部功与来历。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_unnamed_Cui_father_questions_praise_and_Xuanbei_reflection",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "looks_at_training_enroute_secondlayer_son_relationship58_confirmed_no_personalname_given",
+            "delivery": "cultured_selfpossessed_interested_question_warm_laugh_praise_then_thoughtful_short_echo",
+            "knowledge_boundary": "中年客actual问金钟或金刚，看出修法疑问不已知孟精确全部功与来历。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0046:u003",
+            "start": 81,
+            "end": 91,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_unnamed_bearded_gentry_father",
+            "surface_identity": "unnamed_bearded_middleaged_Cui_visitor_Pingjin61_not_CuiQinghe",
+            "text_context": "中年客actual问金钟或金刚，看出修法疑问不已知孟精确全部功与来历。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_unnamed_Cui_father_questions_praise_and_Xuanbei_reflection",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "looks_at_training_enroute_secondlayer_son_relationship58_confirmed_no_personalname_given",
+            "delivery": "cultured_selfpossessed_interested_question_warm_laugh_praise_then_thoughtful_short_echo",
+            "knowledge_boundary": "中年客actual问金钟或金刚，看出修法疑问不已知孟精确全部功与来历。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "中年客actual问金钟或金刚，看出修法疑问不已知孟精确全部功与来历。"
+      },
+      {
+        "reference": "v01-c0052:p0047",
+        "length": 77,
+        "sha256": "bafb4e33c596aae92ab1e2a1d5bb3d971b9e0d7ae1bc346b91712e0f892941fd",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0047:u001",
+            "start": 0,
+            "end": 77,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄苦真常开窍受气息干扰才察，轻咦作反应叙述可气声待录，无逐字分口不编完整台词。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "玄苦真常开窍受气息干扰才察，轻咦作反应叙述可气声待录，无逐字分口不编完整台词。",
+            "focalizer": "zhen_chang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄苦真常开窍受气息干扰才察，轻咦作反应叙述可气声待录，无逐字分口不编完整台词。"
+      },
+      {
+        "reference": "v01-c0052:p0048",
+        "length": 91,
+        "sha256": "a7cbd788fefc1e5b96bc264dbe804abe7cf5b8bf5108426ec79d1fea28292b63",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0048:u001",
+            "start": 0,
+            "end": 91,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "铁布普通3年可速但封进步、两僧当孟这样是他们想法，不知轮回来源真相。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "铁布普通3年可速但封进步、两僧当孟这样是他们想法，不知轮回来源真相。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "铁布普通3年可速但封进步、两僧当孟这样是他们想法，不知轮回来源真相。"
+      },
+      {
+        "reference": "v01-c0052:p0049",
+        "length": 52,
+        "sha256": "79ea93f9f6ab7f787db0eeff62fb036a0e1fe41f9066f2f9683763d3d10a34eb",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0049:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄苦怔后点头颇似嘉许吃苦，未所有戒律偏见已永消或当面道歉。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "玄苦怔后点头颇似嘉许吃苦，未所有戒律偏见已永消或当面道歉。",
+            "focalizer": "xuan_ku",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄苦怔后点头颇似嘉许吃苦，未所有戒律偏见已永消或当面道歉。"
+      },
+      {
+        "reference": "v01-c0052:p0050",
+        "length": 34,
+        "sha256": "096cd3b9aca6abaf6056b9b719adf15d3145ac597ece9e843ccc56c1183cf0f6",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0050:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真常actual清雅微笑答崔施主，先氏到61才平津家，真名未知不就是崔清河。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "真常actual清雅微笑答崔施主，先氏到61才平津家，真名未知不就是崔清河。",
+            "focalizer": "zhen_chang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0050:u002",
+            "start": 23,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_chang",
+            "surface_identity": "Zhenchang_returned_senior_brother_not_TangSanzang",
+            "text_context": "真常actual清雅微笑答崔施主，先氏到61才平津家，真名未知不就是崔清河。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_Zhenchang_clear_elegant_guest_reply_and_authorization",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "only_openapertures_demonQi_interference_new_adoption_not_known_leads_visitors_secondlayer",
+            "delivery": "clear_elegant_polite_smiling_reply_frown_without_losing_courtesy_then_formal_authorization_report",
+            "knowledge_boundary": "真常actual清雅微笑答崔施主，先氏到61才平津家，真名未知不就是崔清河。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真常actual清雅微笑答崔施主，先氏到61才平津家，真名未知不就是崔清河。"
+      },
+      {
+        "reference": "v01-c0052:p0051",
+        "length": 100,
+        "sha256": "83bad8fb0c0a0c0cfe01ed35b9181fd5b6aee06d972b77a2a97d28592528b8e8",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0051:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_unnamed_bearded_gentry_father",
+            "surface_identity": "unnamed_bearded_middleaged_Cui_visitor_Pingjin61_not_CuiQinghe",
+            "text_context": "中年actual赞吃苦问导师，儿子打量N未开口，像刚成人不填确切岁数。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_unnamed_Cui_father_questions_praise_and_Xuanbei_reflection",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "looks_at_training_enroute_secondlayer_son_relationship58_confirmed_no_personalname_given",
+            "delivery": "cultured_selfpossessed_interested_question_warm_laugh_praise_then_thoughtful_short_echo",
+            "knowledge_boundary": "中年actual赞吃苦问导师，儿子打量N未开口，像刚成人不填确切岁数。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0051:u002",
+            "start": 31,
+            "end": 100,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "中年actual赞吃苦问导师，儿子打量N未开口，像刚成人不填确切岁数。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "中年actual赞吃苦问导师，儿子打量N未开口，像刚成人不填确切岁数。",
+            "focalizer": "relic_tower_unnamed_bearded_gentry_father",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "中年actual赞吃苦问导师，儿子打量N未开口，像刚成人不填确切岁数。"
+      },
+      {
+        "reference": "v01-c0052:p0052",
+        "length": 24,
+        "sha256": "6ec105f08159abc63d2bb34bc2e975a37f7c67eaf4ff8a34af689c6fd18cec45",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0052:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "动物园抱怨孟内叹后真闭眼，不当众骂客或源定客恶意。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "动物园抱怨孟内叹后真闭眼，不当众骂客或源定客恶意。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0052:u002",
+            "start": 9,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "动物园抱怨孟内叹后真闭眼，不当众骂客或源定客恶意。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "动物园抱怨孟内叹后真闭眼，不当众骂客或源定客恶意。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "动物园抱怨孟内叹后真闭眼，不当众骂客或源定客恶意。"
+      },
+      {
+        "reference": "v01-c0052:p0053",
+        "length": 45,
+        "sha256": "0e27b0db71c108d459b3d036a54aa57bc5690de09c983a034284e4dd451123ee",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0053:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真常actual应新晋不知导师，他刚归非所有弟子身份全知；皱眉笑仍在。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "真常actual应新晋不知导师，他刚归非所有弟子身份全知；皱眉笑仍在。",
+            "focalizer": "zhen_chang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0053:u002",
+            "start": 14,
+            "end": 45,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_chang",
+            "surface_identity": "Zhenchang_returned_senior_brother_not_TangSanzang",
+            "text_context": "真常actual应新晋不知导师，他刚归非所有弟子身份全知；皱眉笑仍在。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_Zhenchang_clear_elegant_guest_reply_and_authorization",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "only_openapertures_demonQi_interference_new_adoption_not_known_leads_visitors_secondlayer",
+            "delivery": "clear_elegant_polite_smiling_reply_frown_without_losing_courtesy_then_formal_authorization_report",
+            "knowledge_boundary": "真常actual应新晋不知导师，他刚归非所有弟子身份全知；皱眉笑仍在。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真常actual应新晋不知导师，他刚归非所有弟子身份全知；皱眉笑仍在。"
+      },
+      {
+        "reference": "v01-c0052:p0054",
+        "length": 19,
+        "sha256": "22f46b28a7b68819d2c74cace536643c4cbb01adbfcfba94564a1c68c15235ed",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0054:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "xuan_ku",
+            "surface_identity": "Xuanku_discipline_monk_not_Xuankong_or_Xuanbei",
+            "text_context": "玄苦actual告玄悲弟子，非玄空或师父本人来了。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_Xuanku_names_Xuanbei_as_teacher",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "only_openapertures_interference_late_notice_possible_approval_of_endurance_not_newrank",
+            "delivery": "brief_reserved_factual_identification_not_new_apology_or_warm_familyvoice",
+            "knowledge_boundary": "玄苦actual告玄悲弟子，非玄空或师父本人来了。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0054:u002",
+            "start": 11,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄苦actual告玄悲弟子，非玄空或师父本人来了。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "玄苦actual告玄悲弟子，非玄空或师父本人来了。",
+            "focalizer": "xuan_ku",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄苦actual告玄悲弟子，非玄空或师父本人来了。"
+      },
+      {
+        "reference": "v01-c0052:p0055",
+        "length": 33,
+        "sha256": "6f5cba7806fca50ffbb47a2831307b33e2e3597e73f0905bba56da1b12952069",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0055:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲半途辈分可称师弟N，不玄苦功力高于外景玄悲。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "玄悲半途辈分可称师弟N，不玄苦功力高于外景玄悲。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲半途辈分可称师弟N，不玄苦功力高于外景玄悲。"
+      },
+      {
+        "reference": "v01-c0052:p0056",
+        "length": 35,
+        "sha256": "a56d917a9f51843a87363230ca850308548ac42fd79abdd4a5747466530b1676",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0056:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_unnamed_bearded_gentry_father",
+            "surface_identity": "unnamed_bearded_middleaged_Cui_visitor_Pingjin61_not_CuiQinghe",
+            "text_context": "中年actual玄悲神僧后若思越过，不借神情揭父真名/动机。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_unnamed_Cui_father_questions_praise_and_Xuanbei_reflection",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "looks_at_training_enroute_secondlayer_son_relationship58_confirmed_no_personalname_given",
+            "delivery": "cultured_selfpossessed_interested_question_warm_laugh_praise_then_thoughtful_short_echo",
+            "knowledge_boundary": "中年actual玄悲神僧后若思越过，不借神情揭父真名/动机。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0056:u002",
+            "start": 9,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "中年actual玄悲神僧后若思越过，不借神情揭父真名/动机。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "中年actual玄悲神僧后若思越过，不借神情揭父真名/动机。",
+            "focalizer": "relic_tower_unnamed_bearded_gentry_father",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "中年actual玄悲神僧后若思越过，不借神情揭父真名/动机。"
+      },
+      {
+        "reference": "v01-c0052:p0057",
+        "length": 45,
+        "sha256": "fa119d9b312110bcd9d9bb5b339fd52e79a7da00474768508d4e0f64dda642c9",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0057:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "青年好奇似想摸妖未实际摸，无新妖伤他场面。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "青年好奇似想摸妖未实际摸，无新妖伤他场面。",
+            "focalizer": "relic_tower_unnamed_young_gentry_son",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "青年好奇似想摸妖未实际摸，无新妖伤他场面。"
+      },
+      {
+        "reference": "v01-c0052:p0058",
+        "length": 58,
+        "sha256": "eccf49eee35e37f870859af3cd2b9d47de764e352270ab0c4f9f23f8bf0fce84",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0058:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_unnamed_young_gentry_son",
+            "surface_identity": "unnamed_young_Cui_son_like_recent_adult_not_personalname_known",
+            "text_context": "青年actual叫爹证父子、家中妖仆驯服N背景，未当前要带走的妖物已给名。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_unnamed_Cui_son_calls_father_and_marvels_demons",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "curious_looks_only_not_actually_touches_demons_father_relation58",
+            "delivery": "young_curious_open_enthusiasm_not_caricature_arrogance",
+            "knowledge_boundary": "青年actual叫爹证父子、家中妖仆驯服N背景，未当前要带走的妖物已给名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0058:u002",
+            "start": 28,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "青年actual叫爹证父子、家中妖仆驯服N背景，未当前要带走的妖物已给名。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "青年actual叫爹证父子、家中妖仆驯服N背景，未当前要带走的妖物已给名。",
+            "focalizer": "relic_tower_unnamed_young_gentry_son",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "青年actual叫爹证父子、家中妖仆驯服N背景，未当前要带走的妖物已给名。"
+      },
+      {
+        "reference": "v01-c0052:p0059",
+        "length": 43,
+        "sha256": "88ff78ebee4a29be713e11a5009ac9d94badfca17dc8d1d64fcfd22934335d61",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0059:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前转弯后睁眼暗骂N后谁家/不礼貌孟私想，不当面发作羞辱父子。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "前转弯后睁眼暗骂N后谁家/不礼貌孟私想，不当面发作羞辱父子。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0059:u002",
+            "start": 22,
+            "end": 37,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "前转弯后睁眼暗骂N后谁家/不礼貌孟私想，不当面发作羞辱父子。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "前转弯后睁眼暗骂N后谁家/不礼貌孟私想，不当面发作羞辱父子。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0059:u003",
+            "start": 37,
+            "end": 43,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "前转弯后睁眼暗骂N后谁家/不礼貌孟私想，不当面发作羞辱父子。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "前转弯后睁眼暗骂N后谁家/不礼貌孟私想，不当面发作羞辱父子。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前转弯后睁眼暗骂N后谁家/不礼貌孟私想，不当面发作羞辱父子。"
+      },
+      {
+        "reference": "v01-c0052:p0060",
+        "length": 18,
+        "sha256": "d10845c09b320c71742eda987f43e3ad76234ba5b10f64f3003b75dbdc5e3d6c",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0060:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "远传说话真实声框，61/62隔弯听不四人又回孟身边。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "远传说话真实声框，61/62隔弯听不四人又回孟身边。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "远传说话真实声框，61/62隔弯听不四人又回孟身边。"
+      },
+      {
+        "reference": "v01-c0052:p0061",
+        "length": 35,
+        "sha256": "2485c8ef8fc00d80245118fa7d815c160153dc5ddb53d9ef1f5ca928e1a94807",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0061:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_chang",
+            "surface_identity": "Zhenchang_returned_senior_brother_not_TangSanzang",
+            "text_context": "真常actual清雅报方丈法旨准平津崔氏取叛妖，是来意和许可未已经把妖带走。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_Zhenchang_clear_elegant_guest_reply_and_authorization",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "only_openapertures_demonQi_interference_new_adoption_not_known_leads_visitors_secondlayer",
+            "delivery": "clear_elegant_polite_smiling_reply_frown_without_losing_courtesy_then_formal_authorization_report",
+            "knowledge_boundary": "真常actual清雅报方丈法旨准平津崔氏取叛妖，是来意和许可未已经把妖带走。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0061:u002",
+            "start": 24,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真常actual清雅报方丈法旨准平津崔氏取叛妖，是来意和许可未已经把妖带走。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "真常actual清雅报方丈法旨准平津崔氏取叛妖，是来意和许可未已经把妖带走。",
+            "focalizer": "zhen_chang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真常actual清雅报方丈法旨准平津崔氏取叛妖，是来意和许可未已经把妖带走。"
+      },
+      {
+        "reference": "v01-c0052:p0062",
+        "length": 39,
+        "sha256": "22cc20a196ef488205bc0b3f389851b66cccf35cc732930bff89d6a1be466ae1",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0062:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "relic_tower_secondlayer_aged_gatevoice_unidentified",
+            "surface_identity": "aged_voice_likely_secondlayer_guard_elder_face_and_name_unknown_not_confirmed_prior_guard",
+            "text_context": "苍老声actual佛号检令放进，当是二层守长老的推，不定同49守门者/50未名佛号或有真姓名。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "actual_secondlayer_aged_gatevoice_authorizes_entry",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "checks_token_after_abbot_instruction_lets_visitors_in_not_shown_demon_removed",
+            "delivery": "aged_calm_Amitabha_and_plain_entry_permission",
+            "knowledge_boundary": "苍老声actual佛号检令放进，当是二层守长老的推，不定同49守门者/50未名佛号或有真姓名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0062:u002",
+            "start": 16,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "苍老声actual佛号检令放进，当是二层守长老的推，不定同49守门者/50未名佛号或有真姓名。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "苍老声actual佛号检令放进，当是二层守长老的推，不定同49守门者/50未名佛号或有真姓名。",
+            "focalizer": "relic_tower_secondlayer_aged_gatevoice_unidentified",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "苍老声actual佛号检令放进，当是二层守长老的推，不定同49守门者/50未名佛号或有真姓名。"
+      },
+      {
+        "reference": "v01-c0052:p0063",
+        "length": 28,
+        "sha256": "6d8eb40df2c02bae167fccd9c96915740eba8a09b422ecee4f2e07e01864f382",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0063:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "前平津崔家与后原来两处孟内重复，姓氏至此家族确认，不公开问客人祖谱。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "前平津崔家与后原来两处孟内重复，姓氏至此家族确认，不公开问客人祖谱。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0063:u002",
+            "start": 5,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前平津崔家与后原来两处孟内重复，姓氏至此家族确认，不公开问客人祖谱。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "前平津崔家与后原来两处孟内重复，姓氏至此家族确认，不公开问客人祖谱。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v01-c0052:p0063:u003",
+            "start": 15,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "public_Zhending_Meng_fourthbreakthrough_not_perfect_not_full_blademastery",
+            "text_context": "前平津崔家与后原来两处孟内重复，姓氏至此家族确认，不公开问客人祖谱。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "editorial_M_private_realization_reflection_and_visitors_irritation",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "embodiment": "fourth_one_day_breakthrough_needs_QI_accumulation_no_pill_carried_first_external_handblade_selfemotion_recoil_then_stops_safely",
+            "delivery": "brief_playful_sock_gloat_then_inner_quietjoy_realization_selfcost_recovery_and_private_annoyance_at_watchers",
+            "knowledge_boundary": "前平津崔家与后原来两处孟内重复，姓氏至此家族确认，不公开问客人祖谱。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前平津崔家与后原来两处孟内重复，姓氏至此家族确认，不公开问客人祖谱。"
+      },
+      {
+        "reference": "v01-c0052:p0064",
+        "length": 50,
+        "sha256": "046551b1fe72d5cfc0f2760ef5a7ded36eecab2111d816f165cc1e65d5eb8c3f",
+        "units": [
+          {
+            "unit_id": "v01-c0052:p0064:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "大晋崔氏及家主崔清河紫阳法身背景N，非来客父就是家主或家主此刻actual发声。",
+            "world_context": "EARLY_v01c52_bird_misreads_failure_actual_fourth_one_day_breakthrough_notperfect_QI_lacking_pill_notcarried_prison_suppression_temporary_sockplug_then_voice_and_beltbreak_handblade_first_external_effect_selfemotion_cost_only_slight_trueintent_otherfour_unlearned_Xuanku_Zhenchang_return_unnamed_Cui_father_son_Pingjin61_not_CuiQinghe_secondlayer_token_permission_no_actual_demon_removal",
+            "stage_context": "S13_visitors_Xuanku_Zhenchang_unnamed_Cui_pair_and_aged_gatevoice",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "manual_actual_fourthbreakthrough_notperfect_handblade_effect_and_recoil_vs_bird_universal_swallowclaim_Meng_travelguess_unnamed_Cui_parentage_not_househead_and_permission_not_removal",
+            "knowledge_boundary": "大晋崔氏及家主崔清河紫阳法身背景N，非来客父就是家主或家主此刻actual发声。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "大晋崔氏及家主崔清河紫阳法身背景N，非来客父就是家主或家主此刻actual发声。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v01-0052",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "S13",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 20,
+        "label": "第四一日突破尚未圆满、袜塞只有暂时清净",
+        "direction": "1鸟自语误判破功、2/3解释响声相似和昨日三成先入见，不旁白判失败。4孟真抓鸟5牢压使力不到一成妖力封，非鸟原生总弱，孟绑腰带在栏不放牢。6第1第3引语鸟话、中布料N，7孟得意actual袜子塞嘴且明一日第四练成，8不要唔唔闷声9静喜内念确暂堵。10耐受升而非全免热冷，11仅首内语后刀名N、12/14顿悟实践皆孟思索，不公然讲轮回来历。15下一步服丸蓄气大成/凝眼穴是打算16明破第四未圆满缺真气量，药怕坏没带，不已蓄气大成或现场吞丸。17两妖动作无口18/20还脑演刀意和昨日师示，尚未这时手刀挥出。表演建议：孟袜告有少年得意，鸟从先自大到惊惶再闷哼，不以此宣大妖永远无力；清净是短暂生活喜悦而非从此悟断一切烦恼。证据v01-c0052:p0001–p0020。"
+      },
+      {
+        "paragraph_start": 21,
+        "paragraph_end": 39,
+        "label": "真以手刀初发断清净、断人也断己",
+        "direction": "21–23鸟真复声，自夸鲲鹏吞万物不独立验证无穷吞力；24清净破25孟不躁反新悟26内念破净感受，27足身不移右四指成刀真实斩出，非拿戒刀切鸟。28风与红尘似意境29鸟咬断腰带脱绑未出牢，受初飞失败被麻雀笑的仿佛感受；【收束原草案】原称个人旧伤记忆，只能作刀意引感受，不独证鸟真实旧史。30掌停远未实触切伤31鸟缩角遮头32火鹄龟也退，33孟未注意反应而被思乡异客生死情绪反噬34内悟断人亦断己，35过会才平复汗半干半冻不是半身碎。36首反思内/低语可听待录、后刀名N37源明只略得真意距掌握远38首内问后四招名N、四式全未悟。39第四突破后可睁眼随时停功，与第三需等周天不同。表演建议：先领会和出手后自承情绪潮，不只胜利快意；三妖退是读者所见不孟得意自知，不加他向客人展示或阿难本尊发声。证据v01-c0052:p0021–p0039。"
+      },
+      {
+        "paragraph_start": 40,
+        "paragraph_end": 64,
+        "label": "四人路过、平津崔氏身份今才听明",
+        "direction": "40孟闻步可谨慎停功41来玄苦真常与两男，不玄空玄悲。42真常高瘦文弱唐僧比貌、两月多前已过巷，43这么快归是孟内疑、附近转多半仅其推，非真常全行程定论。44父长须儒雅背手、子刚成人样容似，58爹才证关系，个人名全未给；45孟看贵家私判不因世家概述就判二人纨绔。46父实际问金钟/金刚，47两僧仅开窍受气息干扰才察，轻咦N反应气声待录无逐字分口。48速成铁布来源为两僧以为未识轮回，49玄苦点头颇似嘉许非全旧偏见消；50真常微笑清雅称崔施主51父赞问师承、儿看N，52动物园抱怨孟内声真闭眼非当面骂。53真常皱眉笑不知新徒导师54玄苦给玄悲名55辈分不按功高，56父若思越不问法号、57子似想摸未摸58口叫爹与妖仆习惯。59转弯后孟私怨60远声61真常清雅报方丈法旨准平津崔取叛妖、62苍老守二层声检牌准进，身份当是推未证同旧长老、也未真把妖带出。63孟此刻家族识认内念64崔清河紫阳家主为背景，不将他配成来客父。表演建议：父有气度而感兴趣、子开朗好奇、真常清雅客套与玄苦保留式肯定各异，孟不喜围观仍只内骂，不用全知恶客语气提前揭新人的真实姓名。证据v01-c0052:p0040–p0064。"
+      }
+    ],
+    "knowledge_rule": "第四已一日突破而未圆满、缺气量未蓄气大成，药不在塔。初次手刀有效又反噬己情，略真意非全掌握，妖退孟未察。崔父子未个人名不等崔清河，二层仅声守者未名；准取叛妖不已经取出。鸟受牢封禁不是天性弱，暂堵与复声分。"
+  }
 }

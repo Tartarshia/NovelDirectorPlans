@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第四一日突破未圆满、牢禁压鸟与袜堵暂静](early-fourth-breakthrough-not-perfect-temporary-sockplug.md) | 第52章历史归属回补 |
+| [断清净初外用手刀、断人也断己而远未掌握](early-duanqingjing-first-external-handblade-and-selfcost.md) | 第52章历史归属回补 |
+| [未名平津崔父子、真常玄苦与二层门声许可](early-unnamed-pingjin-cui-pair-zhenchang-xuanku-gatepermission.md) | 第52章历史归属回补 |
 | [寒噪第三关实成、火鹄短答与塞耳诱近未成](early-coldnoise-third-completion-huhu-voice-and-failed-bait.md) | 第51章历史归属回补 |
 | [师父学阿难、慧丹田新开与师徒亲情观](early-teacher-ananda-practice-hui-dantian-and-familyview.md) | 第51章历史归属回补 |
 | [第四冷热心障与刀意内悟、实显大成之像待核圆满](early-fourth-icefire-mindpressure-intent-greatattainment-sign.md) | 第51章历史归属回补 |
