@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [无思无想两长老、玄悲收徒坚持与读者先知](early-wusi-wuxiang-private-adoption-debate-not-meng-knowledge.md) | 第47章历史归属回补 |
+| [真慧诚请同门、孟反向私求与正式拜师金钟安排](early-zhenhui-sincere-request-formal-adoption-jinzhong-instruction.md) | 第47章历史归属回补 |
+| [玄空颤问、私悔故意错选日与孟的小气](early-xuankong-private-missedselection-admission-not-public.md) | 第47章历史归属回补 |
 | [齐浑天前二天晶、资源门槛与新未来的希望](early-qi-huntian-two-crystals-not-thirdlayer-and-hope.md) | 第46章历史归属回补 |
 | [正式退派与三个下山办法、玄藏之忧仍是孟所想](early-formal-sectexit-three-outing-routes-and-meng-concern.md) | 第46章历史归属回补 |
 | [江末座与身份未解、存针回寺和未名召唤](early-jiang-lowrank-identity-questions-storedneedle-return-summons.md) | 第46章历史归属回补 |
