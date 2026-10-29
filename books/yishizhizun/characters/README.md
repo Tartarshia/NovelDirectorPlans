@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [苏元英借风实效与代价、未名力量来源](early-v02-Su-borrowed-storm-actual-cost-unknown-power-source.md) | 第二卷第15章历史归属回补 |
+| [江与苏地尊：引雷夺轮、压制与未发阎罗帖](early-v02-Jiang-Dizun-thunder-redirection-Yanluotie-pending.md) | 第二卷第15章历史归属回补 |
+| [罗云近战：血伤与吸气并存、胜负未定](early-v02-Luo-Yun-fists-blood-and-unnamed-Qi-absorption-unresolved.md) | 第二卷第15章历史归属回补 |
 | [通幽的神异与体弱、外力猜及地方神话](early-v02-Tongyou-externalforce-hypotheses-localmyth-not-secretsolved.md) | 第二卷第14章历史归属回补 |
 | [陈潇、罗友：初通幽同门、监视与突袭受救](early-v02-ChenXiao-LuoYou-local-scouts-not-LuoShengyi.md) | 第二卷第14章历史归属回补 |
 | [十余日修行与一刀真杀：未入五关、不误认影杀](early-v02-tenday-training-limits-RedSun-kills-unnamed-localelder.md) | 第二卷第14章历史归属回补 |
