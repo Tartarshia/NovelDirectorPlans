@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [实际治疗、冷玉未解与功法估价不等成交](early-healing-coldjade-unknown50000-art200-not-sold.md) | 第78章历史归属回补 |
+| [称芷微与公平共享、亲近不等放弃边界](early-Jiang-Zhiwei-address-fairsharing-promise-not-paid.md) | 第78章历史归属回补 |
+| [幻形初刺激与真正玄关层级、本章读法修正](early-Huanxing-stimulation-not-gateopening-compatible-method.md) | 第78章历史归属回补 |
 | [崔死与孟肺伤、杀支线结算及主动回归窗口](early-Cui-death-Meng-lungwound-rewards-halfhour-return.md) | 第77章历史归属回补 |
 | [真宫主段与公开嫁崔、共享余法及飞升误解](early-Duan-private-palacelord-public-Cui-cover-not-ascension.md) | 第77章历史归属回补 |
 | [新玉佛颈坠同貌、圆蒙长华来历转述与护效未证](early-new-jade-pendant-lookalike-Yuanmeng-story-not-same-object.md) | 第77章历史归属回补 |
