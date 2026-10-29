@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [功过分别与罚则：期限、四窍和一次例外](early-Shaolin-penalties-separate-merit-once-reward-exception.md) | 第83章历史归属回补 |
+| [师恩落实：实刑、轻声不追问与未解关怀](early-master-strokes-quiet-greedwarning-and-unanswered-affection.md) | 第83章历史归属回补 |
+| [舍身诀与启程：一次抄得不等练成和抵达](early-SheShen-once-copy-costly-burst-and-pending-trip.md) | 第83章历史归属回补 |
 | [无净与玄空：审辨和预设指控的两种压力](early-Wujing-measured-inquiry-Xuankong-accusations-distinct.md) | 第82章历史归属回补 |
 | [师徒解围：真实体悟、来源遮掩与主动承担](early-true-insight-false-origin-Zhenhui-defense-Xuanbei-responsibility.md) | 第82章历史归属回补 |
 | [抄本去向：查无结果、可能解释与尚未证实的指控](early-cliff-scripture-search-unfound-hypotheses-not-conviction.md) | 第82章历史归属回补 |
