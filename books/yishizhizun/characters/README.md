@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [被擒后的估值失算与不能传法](early-v02-capture-motive-misvaluation-no-private-Huanxing-teaching.md) | 第二卷第7章历史归属回补 |
+| [九娘的锋利、私纸预测与未知背景](early-v02-Qu-unsigned-note-forecast-not-battle-verdict.md) | 第二卷第7章历史归属回补 |
+| [哑俘所闻、师弟失迹报告与未完成冲穴](early-v02-muted-captive-Hui-report-and-coarse-unseal-attempt.md) | 第二卷第7章历史归属回补 |
 | [水边动物设伏：有限预感与同刀舍身](early-v02-Meng-animalwater-ambush-allin-one-SheShen-strike.md) | 第二卷第6章历史归属回补 |
 | [安的旧恐惧与沙化保命、百炼刀折](early-v02-An-fearmemory-sandbody-deepwound-steelblade-break.md) | 第二卷第6章历史归属回补 |
 | [暗河逃与舍身代价：地面绕行再截](early-v02-underground-river-postburst-cost-known-exit-intercept.md) | 第二卷第6章历史归属回补 |
