@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇资源规划：战损与未开窍的短板](early-Meng-resource-plan-unopened-eyes-and-battered-blade.md) | 第80章历史归属回补 |
+| [长程成长选择：早资质、速度与隐而不宣的知识](early-Jiang-aptitude-speed-advice-and-Meng-hidden-familiarity.md) | 第80章历史归属回补 |
+| [张远山：稳定声线中的罕见惊呼与家族压力](early-Zhang-rare-surprise-family-pressure-and-Tengshe-gift.md) | 第80章历史归属回补 |
 | [符真真初见：俗家身份与医药兴趣](early-Fu-Zhenzhen-lay-newcomer-shy-medical-interest-not-eyesopen.md) | 第79章历史归属回补 |
 | [张符初情：调侃、遮窘与承担](early-Zhang-Fu-firstlove-teasing-responsibility-not-betrothal.md) | 第79章历史归属回补 |
 | [团队结算：旧债、四份分享与实际消费](early-party-repaid-loan-four-shares-actual-sales-ledger.md) | 第79章历史归属回补 |
