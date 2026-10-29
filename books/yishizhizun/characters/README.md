@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [尤同光毒死、最后疑虑与针库存结算界限](early-You-needle-poisondeath-lastthought-no-reward-text.md) | 第76章历史归属回补 |
+| [洛青地面讨公道、秘密暗信与救援尚未到位](early-Luo-ground-arrival-secretletter-not-immediate-rescue.md) | 第76章历史归属回补 |
+| [段扑棺拖延与暴喝主观重放、末刀时点](early-coffindiversion-shout-replay-finalstrike-not-result.md) | 第76章历史归属回补 |
 | [段宫主当前揭示、自述灭寒与秘藏缺指边界](early-Duan-palacelord-Han-confession-caches-fingers-no-regrowth.md) | 第75章历史归属回补 |
 | [主线150与回归限制、两墙重伤和黑筒未射](early-main-quest150-battle-return-two-walls-real-arrowwounds.md) | 第75章历史归属回补 |
 | [崔新增元气、锦华藏身与复生信念及弃雷子](early-Cui-new-yuanqi-Jinhua-hidden-bombs-abandoned-revival-belief.md) | 第75章历史归属回补 |
