@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [通幽的神异与体弱、外力猜及地方神话](early-v02-Tongyou-externalforce-hypotheses-localmyth-not-secretsolved.md) | 第二卷第14章历史归属回补 |
+| [陈潇、罗友：初通幽同门、监视与突袭受救](early-v02-ChenXiao-LuoYou-local-scouts-not-LuoShengyi.md) | 第二卷第14章历史归属回补 |
+| [十余日修行与一刀真杀：未入五关、不误认影杀](early-v02-tenday-training-limits-RedSun-kills-unnamed-localelder.md) | 第二卷第14章历史归属回补 |
 | [虫围与红日烫敌：粉效、恐惧和毒烟限制](early-v02-insect-barrier-intent-limits-Redsun-burn-no-kill.md) | 第二卷第13章历史归属回补 |
 | [云霆锋、红袖、影杀：敌院内部的自信与偏见](early-v02-Yun-Hongxiu-Yingsha-private-enemy-bias-not-truth.md) | 第二卷第13章历史归属回补 |
 | [白裙小紫与苏元英：自称真名、情郎说辞和未决身份](early-v02-white-Xiaozi-selfnamed-Yulongzi-Su-roomseven-unresolved.md) | 第二卷第13章历史归属回补 |
