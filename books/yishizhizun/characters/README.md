@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [自付治疗与留友药：原则妥协仍愧师](early-v02-selfpaid-healing-Goldbell-SheShen-sale-Baicao-reserved.md) | 第二卷第9章历史归属回补 |
+| [伙伴纠偏：两次成功有条件、九窍差仍在](early-v02-party-reassessment-nineaperture-gap-surprise-not-victory.md) | 第二卷第9章历史归属回补 |
+| [已栽七星与未购多案：符专业、齐务实、张准备](early-v02-Fu-Qixing-grown-poison-move-earopening-options-unbought.md) | 第二卷第9章历史归属回补 |
 | [假机会与真受创：冷静不等无痛](early-v02-false-escape-window-real-Dantian-and-right-hand-damage.md) | 第二卷第8章历史归属回补 |
 | [绿洲四侠：顾傅称谓、静信号与不同顾虑](early-v02-four-oasis-youths-Gu-Fu-and-silent-rescue-signal.md) | 第二卷第8章历史归属回补 |
 | [黑暗后女声：身份未名、治疗尚申请](early-v02-unidentified-female-after-blackout-healing-request-only.md) | 第二卷第8章历史归属回补 |
