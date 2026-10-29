@@ -61,7 +61,2024 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0012"
+  "reading_batch": "batch-0012",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v02-0006",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v02-0006.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v02-c0006:p0001",
+        "length": 37,
+        "sha256": "9926b0f3c9d9a749e2fcd8e8ccdda65438622f9c8c19d1e1b51d126aaff807e0",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0001:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "羚羊啃植物当前景N，不孟已生食/饥饿动物已吃人。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "羚羊啃植物当前景N，不孟已生食/饥饿动物已吃人。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "羚羊啃植物当前景N，不孟已生食/饥饿动物已吃人。"
+      },
+      {
+        "reference": "v02-c0006:p0002",
+        "length": 55,
+        "sha256": "07cccfc9c55f767d7c0638f8b0ce42a7c2ff40c72785c46cd9a490c7f216fc05",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0002:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "戈壁动物体力适应背景，不孟全部地形熟知。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "戈壁动物体力适应背景，不孟全部地形熟知。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "戈壁动物体力适应背景，不孟全部地形熟知。"
+      },
+      {
+        "reference": "v02-c0006:p0003",
+        "length": 17,
+        "sha256": "4f844ba5c7a36dcb3c2dc598dda7d4e08aae84a511418310cfb0b62c861a4b67",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0003:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "羚羊生态N，稍后藏腹伏击有实物背景不新拟人演员。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "羚羊生态N，稍后藏腹伏击有实物背景不新拟人演员。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "羚羊生态N，稍后藏腹伏击有实物背景不新拟人演员。"
+      },
+      {
+        "reference": "v02-c0006:p0004",
+        "length": 69,
+        "sha256": "c6a9aa5592870a0d6702b6e53568af58aa3b0d3816ed231640e185b05f5af4fc",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0004:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟欲调息忽感续跑实际，源往着疑用词保留，不此次停下来证实敌精确坐标。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "孟欲调息忽感续跑实际，源往着疑用词保留，不此次停下来证实敌精确坐标。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟欲调息忽感续跑实际，源往着疑用词保留，不此次停下来证实敌精确坐标。"
+      },
+      {
+        "reference": "v02-c0006:p0005",
+        "length": 80,
+        "sha256": "1b08ef4a77ccba5c244c2a79a045641320660c980952034022c4a1b8572a8073",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0005:u001",
+            "start": 0,
+            "end": 80,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "开眼后眉心似更凝、元神壮大仍不及段崔精神藏；第六感或对或错且不敢验证，不真眉心窍开/全域雷达。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "开眼后眉心似更凝、元神壮大仍不及段崔精神藏；第六感或对或错且不敢验证，不真眉心窍开/全域雷达。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "开眼后眉心似更凝、元神壮大仍不及段崔精神藏；第六感或对或错且不敢验证，不真眉心窍开/全域雷达。"
+      },
+      {
+        "reference": "v02-c0006:p0006",
+        "length": 67,
+        "sha256": "ce8bc917531fcfc4af3256999f416d3adef703643e16fad30cf2daacf2939129",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0006:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "凭感改向逃实，白头称号N不安新台词；并非每一预感已证实。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "凭感改向逃实，白头称号N不安新台词；并非每一预感已证实。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "凭感改向逃实，白头称号N不安新台词；并非每一预感已证实。"
+      },
+      {
+        "reference": "v02-c0006:p0007",
+        "length": 94,
+        "sha256": "a677dc42e34ea1a12efdf171837f92d729c25ba1940177d5dd1350743d012195",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0007:u001",
+            "start": 0,
+            "end": 94,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟按理应甩却被缀为焦叙，居高临下引号比喻N，不敌真空中飞行。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "孟按理应甩却被缀为焦叙，居高临下引号比喻N，不敌真空中飞行。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟按理应甩却被缀为焦叙，居高临下引号比喻N，不敌真空中飞行。"
+      },
+      {
+        "reference": "v02-c0006:p0008",
+        "length": 112,
+        "sha256": "4fb54f5dfe31f2998f1d1ba541c24009eec5ebcb9057f4b9ee6034c720caaba0",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0008:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_Zhending_eyes_open_twoapertures_not_nine_or_outer",
+            "text_context": "quote明确暗自感叹为孟内；一天疲逃迷路、不知何处实，若闯妖巢恐死仅风险未真遇妖。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "editorial_Meng_private_escape_and_allin_ambush_decision",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "daylong_run_misplaced_uncertain_sixthsense_empty_dryfood_prepared_animalwater_illusion_ambush_allin_SheShen_DuanQingjing_one_strike_not_two_steelblade_break_waterescape_posteffect_cold_weak_collisions_Goldbellpassive_not_unhurt",
+            "delivery": "weary_wry_but_actively_planning_then_absolute_commitment_short_smile_line_quick_fall_no_chat_later_shivering_breathless_not_zero_cost_hero",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "quote明确暗自感叹为孟内；一天疲逃迷路、不知何处实，若闯妖巢恐死仅风险未真遇妖。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0008:u002",
+            "start": 21,
+            "end": 112,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "quote明确暗自感叹为孟内；一天疲逃迷路、不知何处实，若闯妖巢恐死仅风险未真遇妖。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "quote明确暗自感叹为孟内；一天疲逃迷路、不知何处实，若闯妖巢恐死仅风险未真遇妖。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "quote明确暗自感叹为孟内；一天疲逃迷路、不知何处实，若闯妖巢恐死仅风险未真遇妖。"
+      },
+      {
+        "reference": "v02-c0006:p0009",
+        "length": 134,
+        "sha256": "81affd5f3b79463b5d6b2ea91fe78aecf6dc0351914d8cce90daf01459d8bd23",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0009:u001",
+            "start": 0,
+            "end": 134,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "夜星返流沙和东归失主场为孟可行预想，先得拉开，未实际星导航返店成功；两功名N不话。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "夜星返流沙和东归失主场为孟可行预想，先得拉开，未实际星导航返店成功；两功名N不话。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "夜星返流沙和东归失主场为孟可行预想，先得拉开，未实际星导航返店成功；两功名N不话。"
+      },
+      {
+        "reference": "v02-c0006:p0010",
+        "length": 121,
+        "sha256": "7853045735a8ecc5e8483c5aba9d497022ee239da17a77fc0a8461c8b05dec04",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0010:u001",
+            "start": 0,
+            "end": 121,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "等风暴抹迹/马匪网为孟备选判断，不当前真沙暴已起或已发动马匪、普通匪绝无风险担保。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "等风暴抹迹/马匪网为孟备选判断，不当前真沙暴已起或已发动马匪、普通匪绝无风险担保。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "等风暴抹迹/马匪网为孟备选判断，不当前真沙暴已起或已发动马匪、普通匪绝无风险担保。"
+      },
+      {
+        "reference": "v02-c0006:p0011",
+        "length": 22,
+        "sha256": "575843aa34b0ebc5bf9d13a0e38efc7a0445cfbd6a62d73ca43e78d2f7bd42b6",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0011:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_Zhending_eyes_open_twoapertures_not_nine_or_outer",
+            "text_context": "问如何甩为边跑思索孟内，非向安问策。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "editorial_Meng_private_escape_and_allin_ambush_decision",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "daylong_run_misplaced_uncertain_sixthsense_empty_dryfood_prepared_animalwater_illusion_ambush_allin_SheShen_DuanQingjing_one_strike_not_two_steelblade_break_waterescape_posteffect_cold_weak_collisions_Goldbellpassive_not_unhurt",
+            "delivery": "weary_wry_but_actively_planning_then_absolute_commitment_short_smile_line_quick_fall_no_chat_later_shivering_breathless_not_zero_cost_hero",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "问如何甩为边跑思索孟内，非向安问策。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0011:u002",
+            "start": 12,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "问如何甩为边跑思索孟内，非向安问策。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "问如何甩为边跑思索孟内，非向安问策。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "问如何甩为边跑思索孟内，非向安问策。"
+      },
+      {
+        "reference": "v02-c0006:p0012",
+        "length": 81,
+        "sha256": "626fb5ac5645629082964c1a55a44ef7254bac0c1f954d93cb5af6703cd40810",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0012:u001",
+            "start": 0,
+            "end": 81,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "干粮已尽实，生火会暴露/只能生肉是隐忧，还未真烤肉或啃羚羊。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "干粮已尽实，生火会暴露/只能生肉是隐忧，还未真烤肉或啃羚羊。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "干粮已尽实，生火会暴露/只能生肉是隐忧，还未真烤肉或啃羚羊。"
+      },
+      {
+        "reference": "v02-c0006:p0013",
+        "length": 57,
+        "sha256": "e6024359c810db308b21f474f943335d9a8d769d17cda5ac09573ba08bcf2306",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0013:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "拼命一面及旧战回忆焦叙，非同章重演崔战/纯鲁莽无谋。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "拼命一面及旧战回忆焦叙，非同章重演崔战/纯鲁莽无谋。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "拼命一面及旧战回忆焦叙，非同章重演崔战/纯鲁莽无谋。"
+      },
+      {
+        "reference": "v02-c0006:p0014",
+        "length": 46,
+        "sha256": "e06723a26fbd8f28b8c471beb0df2b5112c0a6296a4c44cb1f9a7d4c9961a1fa",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0014:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_Zhending_eyes_open_twoapertures_not_nine_or_outer",
+            "text_context": "必须反咬一口孟内决断，重创不敢追为目标未结果。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "editorial_Meng_private_escape_and_allin_ambush_decision",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "daylong_run_misplaced_uncertain_sixthsense_empty_dryfood_prepared_animalwater_illusion_ambush_allin_SheShen_DuanQingjing_one_strike_not_two_steelblade_break_waterescape_posteffect_cold_weak_collisions_Goldbellpassive_not_unhurt",
+            "delivery": "weary_wry_but_actively_planning_then_absolute_commitment_short_smile_line_quick_fall_no_chat_later_shivering_breathless_not_zero_cost_hero",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "必须反咬一口孟内决断，重创不敢追为目标未结果。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "必须反咬一口孟内决断，重创不敢追为目标未结果。"
+      },
+      {
+        "reference": "v02-c0006:p0015",
+        "length": 115,
+        "sha256": "6592e71ebf6fa090cc8f2f5fd4f52e0be23af71f0f8a4694ca12177bc6a2a399",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0015:u001",
+            "start": 0,
+            "end": 115,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两窍与九窍差仍大，江在此只能拼估计假设非江实际在戈壁或确定战果；非孟已能轻杀。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "两窍与九窍差仍大，江在此只能拼估计假设非江实际在戈壁或确定战果；非孟已能轻杀。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两窍与九窍差仍大，江在此只能拼估计假设非江实际在戈壁或确定战果；非孟已能轻杀。"
+      },
+      {
+        "reference": "v02-c0006:p0016",
+        "length": 142,
+        "sha256": "07db311d69f9a0ee5fd4085ee78452022808eabfceeffe685c0f7f75a1c5ae65",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0016:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_Zhending_eyes_open_twoapertures_not_nine_or_outer",
+            "text_context": "第一quote含舍身/惊喜/若针在为孟内决断，第二自嘲一句暂actual可内念待录核；暴雨梨花针不在身未真射，惊喜非未知第二刀。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "editorial_Meng_private_escape_and_allin_ambush_decision",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "daylong_run_misplaced_uncertain_sixthsense_empty_dryfood_prepared_animalwater_illusion_ambush_allin_SheShen_DuanQingjing_one_strike_not_two_steelblade_break_waterescape_posteffect_cold_weak_collisions_Goldbellpassive_not_unhurt",
+            "delivery": "weary_wry_but_actively_planning_then_absolute_commitment_short_smile_line_quick_fall_no_chat_later_shivering_breathless_not_zero_cost_hero",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "第一quote含舍身/惊喜/若针在为孟内决断，第二自嘲一句暂actual可内念待录核；暴雨梨花针不在身未真射，惊喜非未知第二刀。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0016:u002",
+            "start": 43,
+            "end": 71,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_Zhending_eyes_open_twoapertures_not_nine_or_outer",
+            "text_context": "第一quote含舍身/惊喜/若针在为孟内决断，第二自嘲一句暂actual可内念待录核；暴雨梨花针不在身未真射，惊喜非未知第二刀。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "editorial_Meng_private_escape_and_allin_ambush_decision",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "daylong_run_misplaced_uncertain_sixthsense_empty_dryfood_prepared_animalwater_illusion_ambush_allin_SheShen_DuanQingjing_one_strike_not_two_steelblade_break_waterescape_posteffect_cold_weak_collisions_Goldbellpassive_not_unhurt",
+            "delivery": "weary_wry_but_actively_planning_then_absolute_commitment_short_smile_line_quick_fall_no_chat_later_shivering_breathless_not_zero_cost_hero",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "第一quote含舍身/惊喜/若针在为孟内决断，第二自嘲一句暂actual可内念待录核；暴雨梨花针不在身未真射，惊喜非未知第二刀。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0016:u003",
+            "start": 71,
+            "end": 89,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第一quote含舍身/惊喜/若针在为孟内决断，第二自嘲一句暂actual可内念待录核；暴雨梨花针不在身未真射，惊喜非未知第二刀。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "第一quote含舍身/惊喜/若针在为孟内决断，第二自嘲一句暂actual可内念待录核；暴雨梨花针不在身未真射，惊喜非未知第二刀。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0016:u004",
+            "start": 89,
+            "end": 142,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_Zhending_eyes_open_twoapertures_not_nine_or_outer",
+            "text_context": "第一quote含舍身/惊喜/若针在为孟内决断，第二自嘲一句暂actual可内念待录核；暴雨梨花针不在身未真射，惊喜非未知第二刀。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "actual_Meng_selfmock_tentative_then_short_courtesy_before_waterescape",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "daylong_run_misplaced_uncertain_sixthsense_empty_dryfood_prepared_animalwater_illusion_ambush_allin_SheShen_DuanQingjing_one_strike_not_two_steelblade_break_waterescape_posteffect_cold_weak_collisions_Goldbellpassive_not_unhurt",
+            "delivery": "weary_wry_but_actively_planning_then_absolute_commitment_short_smile_line_quick_fall_no_chat_later_shivering_breathless_not_zero_cost_hero",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "第一quote含舍身/惊喜/若针在为孟内决断，第二自嘲一句暂actual可内念待录核；暴雨梨花针不在身未真射，惊喜非未知第二刀。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第一quote含舍身/惊喜/若针在为孟内决断，第二自嘲一句暂actual可内念待录核；暴雨梨花针不在身未真射，惊喜非未知第二刀。"
+      },
+      {
+        "reference": "v02-c0006:p0017",
+        "length": 25,
+        "sha256": "3bc5b2fb40629447959075192844c600c3f9417a11e2b94524b2baa71c481101",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0017:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "自嘲后实际寻找适合伏击兼逃地形，不自认蛮子就没有谋划。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_daylongflight_and_ambush_decision",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "自嘲后实际寻找适合伏击兼逃地形，不自认蛮子就没有谋划。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "自嘲后实际寻找适合伏击兼逃地形，不自认蛮子就没有谋划。"
+      },
+      {
+        "reference": "v02-c0006:p0018",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0018:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略转场N，不自动半年过去。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "省略转场N，不自动半年过去。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略转场N，不自动半年过去。"
+      },
+      {
+        "reference": "v02-c0006:p0019",
+        "length": 49,
+        "sha256": "9c259411863a8c327e752bba510cb02f2fa216428782af4e3c56c4cb608ba768",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0019:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沟壑暗流近地表又入地实际背景，不孟已知全部地下出口。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "沟壑暗流近地表又入地实际背景，不孟已知全部地下出口。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沟壑暗流近地表又入地实际背景，不孟已知全部地下出口。"
+      },
+      {
+        "reference": "v02-c0006:p0020",
+        "length": 73,
+        "sha256": "c6f5bc63a7d20fb114e4ad64c2490de686c38c56601ee5767c1beb3a85a8abe1",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0020:u001",
+            "start": 0,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "动物饮水与猎食场景，饱餐概念N无新野兽人语。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "动物饮水与猎食场景，饱餐概念N无新野兽人语。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "动物饮水与猎食场景，饱餐概念N无新野兽人语。"
+      },
+      {
+        "reference": "v02-c0006:p0021",
+        "length": 95,
+        "sha256": "f9584fb363cb019b0e9df2bb6f38138af3559fce981b45041c8b0c373118bdbf",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0021:u001",
+            "start": 0,
+            "end": 95,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安开眼检查仅见停迹未见孟，称号N；不是九窍退化失明或孟已离。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "安开眼检查仅见停迹未见孟，称号N；不是九窍退化失明或孟已离。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安开眼检查仅见停迹未见孟，称号N；不是九窍退化失明或孟已离。"
+      },
+      {
+        "reference": "v02-c0006:p0022",
+        "length": 76,
+        "sha256": "d6b06b174b88d07c65bcccf0fa5cdd306fce72fd40f6fc0ddb3c4faec7d0a8b8",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0022:u001",
+            "start": 0,
+            "end": 76,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "耳辨受动物杂音干扰，暂急难分弱声，不永久聋。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "耳辨受动物杂音干扰，暂急难分弱声，不永久聋。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "耳辨受动物杂音干扰，暂急难分弱声，不永久聋。"
+      },
+      {
+        "reference": "v02-c0006:p0023",
+        "length": 72,
+        "sha256": "df86a2aeb714435bef4b7645be438ce608b83ffeb58f551c58dcc4e23e2dc64e",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0023:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鼻辨水草膻与孟若有若无气味，形象概念N不实际可见画像/追踪完全失灵。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "鼻辨水草膻与孟若有若无气味，形象概念N不实际可见画像/追踪完全失灵。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鼻辨水草膻与孟若有若无气味，形象概念N不实际可见画像/追踪完全失灵。"
+      },
+      {
+        "reference": "v02-c0006:p0024",
+        "length": 50,
+        "sha256": "ce2f49afe23160c9ec013062910e252b8347328de3f2a8570d691d4d16714546",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0024:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安迈步惊群四散真扰感，是地利配幻形的伏击条件。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "安迈步惊群四散真扰感，是地利配幻形的伏击条件。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安迈步惊群四散真扰感，是地利配幻形的伏击条件。"
+      },
+      {
+        "reference": "v02-c0006:p0025",
+        "length": 55,
+        "sha256": "4e45a1934e6e03368ca0437718a4530723af642423e8ab790ab55784dbaa8a95",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0025:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "inner_speech",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "若开眉心精神外放安暗骂inner，仍贪秘籍；未安已经开眉心/精神藏。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "editorial_An_private_greed_recognition_and_route_calculation",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "若开眉心精神外放安暗骂inner，仍贪秘籍；未安已经开眉心/精神藏。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0025:u002",
+            "start": 29,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "若开眉心精神外放安暗骂inner，仍贪秘籍；未安已经开眉心/精神藏。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "若开眉心精神外放安暗骂inner，仍贪秘籍；未安已经开眉心/精神藏。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "若开眉心精神外放安暗骂inner，仍贪秘籍；未安已经开眉心/精神藏。"
+      },
+      {
+        "reference": "v02-c0006:p0026",
+        "length": 17,
+        "sha256": "e65cc03030358cabd7a584ef9bbe3de5f10667f270d9d82b4921be9cab462606",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0026:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "嗒嗒羚羊跑N音效，不安口拟蹄声。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "嗒嗒羚羊跑N音效，不安口拟蹄声。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "嗒嗒羚羊跑N音效，不安口拟蹄声。"
+      },
+      {
+        "reference": "v02-c0006:p0027",
+        "length": 28,
+        "sha256": "ccee275b938be8da8baeb2092af4adce63cb5c88cb2c92a094db130521a1f99d",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0027:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "刀从羚羊腹下实出，不羊成刀演员/孟凭空瞬移。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "刀从羚羊腹下实出，不羊成刀演员/孟凭空瞬移。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "刀从羚羊腹下实出，不羊成刀演员/孟凭空瞬移。"
+      },
+      {
+        "reference": "v02-c0006:p0028",
+        "length": 34,
+        "sha256": "5509e5ba3b0cd746fa9971d3a07257cc3294e5c3894276197297a23abfc23f4e",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0028:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "到出刀才杀意爆发，不一开始已让安知道精确埋点。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "到出刀才杀意爆发，不一开始已让安知道精确埋点。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "到出刀才杀意爆发，不一开始已让安知道精确埋点。"
+      },
+      {
+        "reference": "v02-c0006:p0029",
+        "length": 49,
+        "sha256": "ab9b4411a30befae45dd9a5b0c359f37e0269b421dc9935306780e054d3e64fd",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0029:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "断清净也可由贪恐怒恨破清净为机制旁白，非仅亲情/当前孟口授招。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "断清净也可由贪恐怒恨破清净为机制旁白，非仅亲情/当前孟口授招。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "断清净也可由贪恐怒恨破清净为机制旁白，非仅亲情/当前孟口授招。"
+      },
+      {
+        "reference": "v02-c0006:p0030",
+        "length": 32,
+        "sha256": "3fdc84edf19a9ce6719ea8490250640f65f86a54503dafdee78eca69941d1159",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0030:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "舍身而为概念N但精血燃烧实际用舍身诀，非只口头想用。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "舍身而为概念N但精血燃烧实际用舍身诀，非只口头想用。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "舍身而为概念N但精血燃烧实际用舍身诀，非只口头想用。"
+      },
+      {
+        "reference": "v02-c0006:p0031",
+        "length": 126,
+        "sha256": "fabcb3ffce46be94d343302bb23b46f68eadc09b6b7fe22235b5e8af49ec24b5",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0031:u001",
+            "start": 0,
+            "end": 126,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟本次底牌全出，已开窍也不足常刀重创九窍、幻形只能瞒一时；非普通一刀后才临时加舍身。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "孟本次底牌全出，已开窍也不足常刀重创九窍、幻形只能瞒一时；非普通一刀后才临时加舍身。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟本次底牌全出，已开窍也不足常刀重创九窍、幻形只能瞒一时；非普通一刀后才临时加舍身。"
+      },
+      {
+        "reference": "v02-c0006:p0032",
+        "length": 44,
+        "sha256": "12aadfaa148eb05ed359e6c7df5cdca34584f72a4dd6673d43286363eb31adde",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0032:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "正常刀重伤不了及舍身后再一刀也一样为计划因果，全力同一刀，不已连用两断清净。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "正常刀重伤不了及舍身后再一刀也一样为计划因果，全力同一刀，不已连用两断清净。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "正常刀重伤不了及舍身后再一刀也一样为计划因果，全力同一刀，不已连用两断清净。"
+      },
+      {
+        "reference": "v02-c0006:p0033",
+        "length": 22,
+        "sha256": "ee4d95b8bf5ee83f4f57181058554cbfc42635ebadbfb4f1ae9b750fcdc18bfb",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0033:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟死盯一往无回实际，不有把握无代价稳赢。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "孟死盯一往无回实际，不有把握无代价稳赢。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟死盯一往无回实际，不有把握无代价稳赢。"
+      },
+      {
+        "reference": "v02-c0006:p0034",
+        "length": 12,
+        "sha256": "c6077a4e1b1f18a89ffeb49c0e68a5b97ce3e8d1425bf4e386e534dbc211fc7e",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0034:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "刀杀意实，不新第二招命名。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_animalwater_sensoryinterference_allinstrike",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "ambush_boundary": "two_eyes_open_not_allnine_sixthsense_can_be_wrong_not_radar_nightstars_storm_and_Jiang_sword_hypotheses_not_currentevents_needle_absent_SheShen_actual_allin_one_strike_not_normal_then_boosted_second_animal_senses_interference_and_Huanxing_not_absolute_stealth",
+            "knowledge_boundary": "刀杀意实，不新第二招命名。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "刀杀意实，不新第二招命名。"
+      },
+      {
+        "reference": "v02-c0006:p0035",
+        "length": 16,
+        "sha256": "8cf9acb8ceff75f8a184076d4f8ff64ff2fcc634761a895196b48d38a25e1940",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0035:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "crying_old_man",
+            "surface_identity": "same_Cryingelder_as_An_grandfather_memory_no_late_Bayan_name_reveal",
+            "text_context": "老祖喂狼quoted旧声属安恐惧记忆，crying同演员仅历史重现，不当场向孟发令/证新旁观弟子真被吃。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "memory_of_ancestors_literal_orders_in_An_fear_not_live_speech",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "historical_orders_recalled_by_An_onslaught_four_lines_not_present_Gobi_ghost_or_actual_new_punishments_Meng_not_privy_to_words",
+            "delivery": "recording_option_same_actor_memory_texture_cold_cruel_commands_only_not_current_scene_conversation_no_new_actor_required",
+            "memory_boundary": "An_private_recalled_Cryingelder_commands_and_brother_blue_eyes_fear_not_present_ghost_or_literal_brotherwords_Meng_does_not_know_specific_memory_contents_not_proof_four_new_punishments_happening_now",
+            "knowledge_boundary": "老祖喂狼quoted旧声属安恐惧记忆，crying同演员仅历史重现，不当场向孟发令/证新旁观弟子真被吃。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖喂狼quoted旧声属安恐惧记忆，crying同演员仅历史重现，不当场向孟发令/证新旁观弟子真被吃。"
+      },
+      {
+        "reference": "v02-c0006:p0036",
+        "length": 14,
+        "sha256": "a637a5b337d49ad80e40d938bec4709192c01ed6b85d0d3571ebc3dd03f25771",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0036:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "crying_old_man",
+            "surface_identity": "same_Cryingelder_as_An_grandfather_memory_no_late_Bayan_name_reveal",
+            "text_context": "老祖败则断臂quoted旧声记忆非现场口，不给安本章新增断臂结果。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "memory_of_ancestors_literal_orders_in_An_fear_not_live_speech",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "historical_orders_recalled_by_An_onslaught_four_lines_not_present_Gobi_ghost_or_actual_new_punishments_Meng_not_privy_to_words",
+            "delivery": "recording_option_same_actor_memory_texture_cold_cruel_commands_only_not_current_scene_conversation_no_new_actor_required",
+            "memory_boundary": "An_private_recalled_Cryingelder_commands_and_brother_blue_eyes_fear_not_present_ghost_or_literal_brotherwords_Meng_does_not_know_specific_memory_contents_not_proof_four_new_punishments_happening_now",
+            "knowledge_boundary": "老祖败则断臂quoted旧声记忆非现场口，不给安本章新增断臂结果。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖败则断臂quoted旧声记忆非现场口，不给安本章新增断臂结果。"
+      },
+      {
+        "reference": "v02-c0006:p0037",
+        "length": 15,
+        "sha256": "848f18b965b50a825f3313f9f6d39522471e9e87208f635851cb24d5ba4fb637",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0037:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "crying_old_man",
+            "surface_identity": "same_Cryingelder_as_An_grandfather_memory_no_late_Bayan_name_reveal",
+            "text_context": "老祖杀亲否则自断quoted旧声记忆，非弟弟新口/孟说。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "memory_of_ancestors_literal_orders_in_An_fear_not_live_speech",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "historical_orders_recalled_by_An_onslaught_four_lines_not_present_Gobi_ghost_or_actual_new_punishments_Meng_not_privy_to_words",
+            "delivery": "recording_option_same_actor_memory_texture_cold_cruel_commands_only_not_current_scene_conversation_no_new_actor_required",
+            "memory_boundary": "An_private_recalled_Cryingelder_commands_and_brother_blue_eyes_fear_not_present_ghost_or_literal_brotherwords_Meng_does_not_know_specific_memory_contents_not_proof_four_new_punishments_happening_now",
+            "knowledge_boundary": "老祖杀亲否则自断quoted旧声记忆，非弟弟新口/孟说。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖杀亲否则自断quoted旧声记忆，非弟弟新口/孟说。"
+      },
+      {
+        "reference": "v02-c0006:p0038",
+        "length": 26,
+        "sha256": "c5e1536ee9010aa0386c1e190c7a9fd3f2f5cc9bd8bc45eae2610abde8cdc579",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0038:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "crying_old_man",
+            "surface_identity": "same_Cryingelder_as_An_grandfather_memory_no_late_Bayan_name_reveal",
+            "text_context": "老祖蛇窟quoted旧声记忆非当前哭到场或安本章真被群蛇咬。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "memory_of_ancestors_literal_orders_in_An_fear_not_live_speech",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "historical_orders_recalled_by_An_onslaught_four_lines_not_present_Gobi_ghost_or_actual_new_punishments_Meng_not_privy_to_words",
+            "delivery": "recording_option_same_actor_memory_texture_cold_cruel_commands_only_not_current_scene_conversation_no_new_actor_required",
+            "memory_boundary": "An_private_recalled_Cryingelder_commands_and_brother_blue_eyes_fear_not_present_ghost_or_literal_brotherwords_Meng_does_not_know_specific_memory_contents_not_proof_four_new_punishments_happening_now",
+            "knowledge_boundary": "老祖蛇窟quoted旧声记忆非当前哭到场或安本章真被群蛇咬。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖蛇窟quoted旧声记忆非当前哭到场或安本章真被群蛇咬。"
+      },
+      {
+        "reference": "v02-c0006:p0039",
+        "length": 63,
+        "sha256": "a748df444d88a82d0ddbc477178f93a88a7dac46e22bc3889025b2a2f08c6df4",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0039:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安曾旁观恐惧像箭侵心，讨欢心顺从为惧史，非真实箭群射身或新老祖正施法。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "memory_boundary": "An_private_recalled_Cryingelder_commands_and_brother_blue_eyes_fear_not_present_ghost_or_literal_brotherwords_Meng_does_not_know_specific_memory_contents_not_proof_four_new_punishments_happening_now",
+            "knowledge_boundary": "安曾旁观恐惧像箭侵心，讨欢心顺从为惧史，非真实箭群射身或新老祖正施法。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安曾旁观恐惧像箭侵心，讨欢心顺从为惧史，非真实箭群射身或新老祖正施法。"
+      },
+      {
+        "reference": "v02-c0006:p0040",
+        "length": 69,
+        "sha256": "e549a09ac1e828c542bde7d32b2feb9974004bf6293a0e8837651350b597f6b4",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0040:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仿佛弟蓝眼解脱、似乎在说是安内忆与理解N，不弟当场逐字灵语或孟读完记忆。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "memory_boundary": "An_private_recalled_Cryingelder_commands_and_brother_blue_eyes_fear_not_present_ghost_or_literal_brotherwords_Meng_does_not_know_specific_memory_contents_not_proof_four_new_punishments_happening_now",
+            "knowledge_boundary": "仿佛弟蓝眼解脱、似乎在说是安内忆与理解N，不弟当场逐字灵语或孟读完记忆。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仿佛弟蓝眼解脱、似乎在说是安内忆与理解N，不弟当场逐字灵语或孟读完记忆。"
+      },
+      {
+        "reference": "v02-c0006:p0041",
+        "length": 4,
+        "sha256": "aa6e626a377e4cce5cf460c9f3364f14ddf566189f9ebc02b9b90d99ea639f27",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0041:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "啊安当前真实惨叫，下一段明确，不老祖/弟亡魂的叫。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "actual_An_current_scream_then_gritted_opening_surprise_selftalk_and_wounded_taunt",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "啊安当前真实惨叫，下一段明确，不老祖/弟亡魂的叫。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "啊安当前真实惨叫，下一段明确，不老祖/弟亡魂的叫。"
+      },
+      {
+        "reference": "v02-c0006:p0042",
+        "length": 50,
+        "sha256": "774bb82f0ee6ff37f1d53b899e482755211decd23c9eee6bbbbcb22db37f95d0",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0042:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安叫半恐怖阴影半颈下胸腹剧痛实，非仅幻觉完全无实伤。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安叫半恐怖阴影半颈下胸腹剧痛实，非仅幻觉完全无实伤。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安叫半恐怖阴影半颈下胸腹剧痛实，非仅幻觉完全无实伤。"
+      },
+      {
+        "reference": "v02-c0006:p0043",
+        "length": 52,
+        "sha256": "4980a1d050d489d49240fedfd096493bdafb0b728e617089b037f1ad235dd38a",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0043:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "骨响扭身如无骨沙魔为功法表现，非安变新妖演员。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "骨响扭身如无骨沙魔为功法表现，非安变新妖演员。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "骨响扭身如无骨沙魔为功法表现，非安变新妖演员。"
+      },
+      {
+        "reference": "v02-c0006:p0044",
+        "length": 22,
+        "sha256": "e0471d20fea84d38e57c4ad474c82bf477c4bb9c35fed92433d0ea119e8ced9d",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0044:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "狂沙刚登堂入室能身沙化源实，能身体沙化后疑漏的保留；不是九窍晋外景。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "狂沙刚登堂入室能身沙化源实，能身体沙化后疑漏的保留；不是九窍晋外景。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "狂沙刚登堂入室能身沙化源实，能身体沙化后疑漏的保留；不是九窍晋外景。"
+      },
+      {
+        "reference": "v02-c0006:p0045",
+        "length": 41,
+        "sha256": "93e0a8389b99b861c918f65b2a33620de646de916784eb8479788307e09b906f",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0045:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "戒刀剖颈下胸腹重伤后如入沙不着力，非全部伤害被幻化无伤/已斩死。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "戒刀剖颈下胸腹重伤后如入沙不着力，非全部伤害被幻化无伤/已斩死。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "戒刀剖颈下胸腹重伤后如入沙不着力，非全部伤害被幻化无伤/已斩死。"
+      },
+      {
+        "reference": "v02-c0006:p0046",
+        "length": 29,
+        "sha256": "8632266c6c15c64a94debf0b9f4a8a5e8a85b4e5eee7409bb338d8d6bd8e58a9",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0046:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安沙化挡致命再右掌拍刀实，不本章被斩首或断掌已失。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安沙化挡致命再右掌拍刀实，不本章被斩首或断掌已失。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安沙化挡致命再右掌拍刀实，不本章被斩首或断掌已失。"
+      },
+      {
+        "reference": "v02-c0006:p0047",
+        "length": 2,
+        "sha256": "89cda4baec273fb34f5d00e383556a84b1f88d596f59c6b84b100f8a9346381e",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0047:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "当为拍刀金属音效N，不说者台词。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "当为拍刀金属音效N，不说者台词。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "当为拍刀金属音效N，不说者台词。"
+      },
+      {
+        "reference": "v02-c0006:p0048",
+        "length": 46,
+        "sha256": "6aed8c51337506aa686e9732e93454b7d045155118f97d0992e4dc8f756d038b",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0048:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百炼精钢戒刀断两截、孟握半翻沟边；非红日镇邪刀明确损坏/两柄刀同时断。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_An_privatefearmemory_actual_wound_sandbody_bladebreak",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "百炼精钢戒刀断两截、孟握半翻沟边；非红日镇邪刀明确损坏/两柄刀同时断。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百炼精钢戒刀断两截、孟握半翻沟边；非红日镇邪刀明确损坏/两柄刀同时断。"
+      },
+      {
+        "reference": "v02-c0006:p0049",
+        "length": 10,
+        "sha256": "93d037d3e8edf883911b7048a59ba0b8642ba8c005d66323d7e44f30521ed5b1",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0049:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "same_Meng_Zhending_eyes_open_twoapertures_not_nine_or_outer",
+            "text_context": "孟来而不往actual短致意，微笑不是长闲谈/战后终胜。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "actual_Meng_selfmock_tentative_then_short_courtesy_before_waterescape",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "daylong_run_misplaced_uncertain_sixthsense_empty_dryfood_prepared_animalwater_illusion_ambush_allin_SheShen_DuanQingjing_one_strike_not_two_steelblade_break_waterescape_posteffect_cold_weak_collisions_Goldbellpassive_not_unhurt",
+            "delivery": "weary_wry_but_actively_planning_then_absolute_commitment_short_smile_line_quick_fall_no_chat_later_shivering_breathless_not_zero_cost_hero",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "孟来而不往actual短致意，微笑不是长闲谈/战后终胜。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟来而不往actual短致意，微笑不是长闲谈/战后终胜。"
+      },
+      {
+        "reference": "v02-c0006:p0050",
+        "length": 32,
+        "sha256": "8793849226c0e917cb7f3de75efc7b27ed1b9189cb248238c187e2edc5f167a0",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0050:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟微笑随后实倒沟入水，不假跳诱而已。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "孟微笑随后实倒沟入水，不假跳诱而已。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟微笑随后实倒沟入水，不假跳诱而已。"
+      },
+      {
+        "reference": "v02-c0006:p0051",
+        "length": 58,
+        "sha256": "c362107521aeaa3776da5de791f4b761beac7ac0f31370f2bd56779e86f5fe50",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0051:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安伤口蠕动缓追沟发现孟随水消失，非全愈/已跟下水。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安伤口蠕动缓追沟发现孟随水消失，非全愈/已跟下水。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安伤口蠕动缓追沟发现孟随水消失，非全愈/已跟下水。"
+      },
+      {
+        "reference": "v02-c0006:p0052",
+        "length": 49,
+        "sha256": "86f77260030d8f7875bf901dc05698fb959efe051c331885233397136f01a71f",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0052:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "安实际咬牙惊孟已开窍，深伤刀意入体实，不原攻击只割皮。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "actual_An_current_scream_then_gritted_opening_surprise_selftalk_and_wounded_taunt",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安实际咬牙惊孟已开窍，深伤刀意入体实，不原攻击只割皮。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0052:u002",
+            "start": 9,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安实际咬牙惊孟已开窍，深伤刀意入体实，不原攻击只割皮。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安实际咬牙惊孟已开窍，深伤刀意入体实，不原攻击只割皮。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安实际咬牙惊孟已开窍，深伤刀意入体实，不原攻击只割皮。"
+      },
+      {
+        "reference": "v02-c0006:p0053",
+        "length": 12,
+        "sha256": "d99bbadb022fc8a78eb6e46a7b7eead913e78b0960e7083e72e70138288161b9",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0053:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "绝非蓄气能办为安内判断，不他当面系统讲解。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "editorial_An_private_greed_recognition_and_route_calculation",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "绝非蓄气能办为安内判断，不他当面系统讲解。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "绝非蓄气能办为安内判断，不他当面系统讲解。"
+      },
+      {
+        "reference": "v02-c0006:p0054",
+        "length": 40,
+        "sha256": "1ce13d3bca7a05b785913cc226cfc7d9cbbfe5ad47819c28e10637f954ec7a65",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0054:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "inner_speech",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "安内认逃中开窍且舍身之类，非全知孟具体所练版本来历/天聪购买细节。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "editorial_An_private_greed_recognition_and_route_calculation",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安内认逃中开窍且舍身之类，非全知孟具体所练版本来历/天聪购买细节。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安内认逃中开窍且舍身之类，非全知孟具体所练版本来历/天聪购买细节。"
+      },
+      {
+        "reference": "v02-c0006:p0055",
+        "length": 113,
+        "sha256": "59b435afb206f7b6d6eda2233962aa19eca31d8e5e44756e831f596fd07cc40a",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0055:u001",
+            "start": 0,
+            "end": 113,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安因狭地近水削己便伏且重伤不知燃血效果多久而不敢跳，死亡只是风险非已死。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安因狭地近水削己便伏且重伤不知燃血效果多久而不敢跳，死亡只是风险非已死。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安因狭地近水削己便伏且重伤不知燃血效果多久而不敢跳，死亡只是风险非已死。"
+      },
+      {
+        "reference": "v02-c0006:p0056",
+        "length": 50,
+        "sha256": "5f48b9a1475ebb0cfd1af21576431b6bf388eaafdde5e4d77ee75122fe1dbc73",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0056:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "inner_speech",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "九窍人榜36若死菜鸟会笑的为安内反事实，不当前真死/地榜36。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "editorial_An_private_greed_recognition_and_route_calculation",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "九窍人榜36若死菜鸟会笑的为安内反事实，不当前真死/地榜36。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "九窍人榜36若死菜鸟会笑的为安内反事实，不当前真死/地榜36。"
+      },
+      {
+        "reference": "v02-c0006:p0057",
+        "length": 42,
+        "sha256": "1ffa71fbcd2d6c1cde4b73ad9ba22ce6b0d362642326cd0fd26efa225eb4ec14",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0057:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "安actual两quote恨自语熟地，并非已与水中孟当面对话。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "actual_An_current_scream_then_gritted_opening_surprise_selftalk_and_wounded_taunt",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安actual两quote恨自语熟地，并非已与水中孟当面对话。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0057:u002",
+            "start": 14,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安actual两quote恨自语熟地，并非已与水中孟当面对话。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安actual两quote恨自语熟地，并非已与水中孟当面对话。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0057:u003",
+            "start": 26,
+            "end": 42,
+            "kind": "spoken_dialogue",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "安actual两quote恨自语熟地，并非已与水中孟当面对话。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "actual_An_current_scream_then_gritted_opening_surprise_selftalk_and_wounded_taunt",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安actual两quote恨自语熟地，并非已与水中孟当面对话。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安actual两quote恨自语熟地，并非已与水中孟当面对话。"
+      },
+      {
+        "reference": "v02-c0006:p0058",
+        "length": 43,
+        "sha256": "f5ba5450b65ecae4ce13a1bc719a565a6995e1401fa84a0894147d9f511f42cb",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0058:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安点穴服自己丹调息后按记忆下一出口奔，非孟新服第二天聪/全伤立愈或瞬移。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安点穴服自己丹调息后按记忆下一出口奔，非孟新服第二天聪/全伤立愈或瞬移。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安点穴服自己丹调息后按记忆下一出口奔，非孟新服第二天聪/全伤立愈或瞬移。"
+      },
+      {
+        "reference": "v02-c0006:p0059",
+        "length": 40,
+        "sha256": "76f5b1dee5641446a8928e1db97e877d781681b4812fccf011d128d8a3f6ee7b",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0059:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "继续57安独自宣言暂actual可内待录核，截/地底死为威胁预期非孟已死。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "actual_An_current_scream_then_gritted_opening_surprise_selftalk_and_wounded_taunt",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "继续57安独自宣言暂actual可内待录核，截/地底死为威胁预期非孟已死。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0059:u002",
+            "start": 10,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "继续57安独自宣言暂actual可内待录核，截/地底死为威胁预期非孟已死。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "actual_An_current_scream_then_gritted_opening_surprise_selftalk_and_wounded_taunt",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "继续57安独自宣言暂actual可内待录核，截/地底死为威胁预期非孟已死。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "继续57安独自宣言暂actual可内待录核，截/地底死为威胁预期非孟已死。"
+      },
+      {
+        "reference": "v02-c0006:p0060",
+        "length": 39,
+        "sha256": "2cd698185ea7917c80d90343d061bb19f3a3b4d9f4a17c3165eb11272abffa95",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0060:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "inner_speech",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "安内地面直赶未必落后是判断，不证已先到多久/水中孟知其路线。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "editorial_An_private_greed_recognition_and_route_calculation",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安内地面直赶未必落后是判断，不证已先到多久/水中孟知其路线。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安内地面直赶未必落后是判断，不证已先到多久/水中孟知其路线。"
+      },
+      {
+        "reference": "v02-c0006:p0061",
+        "length": 14,
+        "sha256": "7c94e73764a2a58e181dd17fb8e10316052325ce5aa3ba9a58fa45797b588d75",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0061:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "地利自得安内焦可旁白待录核，不无因果传送能力。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_waterescape_wounded_An_route_calculation",
+            "channel": "editorial_An_private_greed_recognition_and_route_calculation",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "地利自得安内焦可旁白待录核，不无因果传送能力。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "地利自得安内焦可旁白待录核，不无因果传送能力。"
+      },
+      {
+        "reference": "v02-c0006:p0062",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0062:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略转场N，不新章战胜告终。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "省略转场N，不新章战胜告终。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略转场N，不新章战胜告终。"
+      },
+      {
+        "reference": "v02-c0006:p0063",
+        "length": 39,
+        "sha256": "3343b741d24ac276cf903fea60c719d09ba7f5d7085370776764518208b2b1cf",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0063:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟水中撞石实、金钟自动护体避免遍体伤；并非全无碰撞痛/主动练成第五关。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "孟水中撞石实、金钟自动护体避免遍体伤；并非全无碰撞痛/主动练成第五关。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟水中撞石实、金钟自动护体避免遍体伤；并非全无碰撞痛/主动练成第五关。"
+      },
+      {
+        "reference": "v02-c0006:p0064",
+        "length": 39,
+        "sha256": "7242463004f5bfac3da8cef6bb721786cd69e1ba43c97cddc63569864da973c3",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0064:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "舍身效果已退阴冷虚弱、似大病非确诊新病，先前乐观疗伤想法不抹实代价。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "舍身效果已退阴冷虚弱、似大病非确诊新病，先前乐观疗伤想法不抹实代价。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "舍身效果已退阴冷虚弱、似大病非确诊新病，先前乐观疗伤想法不抹实代价。"
+      },
+      {
+        "reference": "v02-c0006:p0065",
+        "length": 31,
+        "sha256": "3913330d5ab368bf1a0f98656f69341476a4622796ed301eb07faf8514269e63",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0065:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "光到下一出口孟挣扎爬出实际，不仍在原落水口。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "光到下一出口孟挣扎爬出实际，不仍在原落水口。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "光到下一出口孟挣扎爬出实际，不仍在原落水口。"
+      },
+      {
+        "reference": "v02-c0006:p0066",
+        "length": 35,
+        "sha256": "967e3639ff3d715d678b2752c2fb230a35d0a63b7f3b3dc54f3f88b88dc33e3b",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0066:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "体力不撑继续顺流会死是风险与决策，未孟已真死。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "体力不撑继续顺流会死是风险与决策，未孟已真死。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "体力不撑继续顺流会死是风险与决策，未孟已真死。"
+      },
+      {
+        "reference": "v02-c0006:p0067",
+        "length": 44,
+        "sha256": "3fdf835c589d613473709f67d030ca78b1faeb9c008bbacb742ed85c5cda51c1",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0067:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "打摆子上沟除水跑岩打算调息返集，实际未已返集/与慧汇合。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "打摆子上沟除水跑岩打算调息返集，实际未已返集/与慧汇合。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "打摆子上沟除水跑岩打算调息返集，实际未已返集/与慧汇合。"
+      },
+      {
+        "reference": "v02-c0006:p0068",
+        "length": 19,
+        "sha256": "5e2db4d07a61affeeb632280a2a15e9e6a536dd785cc142a86a4df0669fac4a1",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0068:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "刚坐听真实掌声，后安显身不是第二名不明追者。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "刚坐听真实掌声，后安显身不是第二名不明追者。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "刚坐听真实掌声，后安显身不是第二名不明追者。"
+      },
+      {
+        "reference": "v02-c0006:p0069",
+        "length": 65,
+        "sha256": "9338236a18bb43e25cea913ec23fa97fc172158afa574850ff730c3e7f2788f2",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0069:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "安actual赞孟最强新开窍并说差点死是角色评价，苍白深伤未全愈实，不拍掌表示全恢复。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "actual_An_current_scream_then_gritted_opening_surprise_selftalk_and_wounded_taunt",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安actual赞孟最强新开窍并说差点死是角色评价，苍白深伤未全愈实，不拍掌表示全恢复。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0006:p0069:u002",
+            "start": 32,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "安actual赞孟最强新开窍并说差点死是角色评价，苍白深伤未全愈实，不拍掌表示全恢复。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安actual赞孟最强新开窍并说差点死是角色评价，苍白深伤未全愈实，不拍掌表示全恢复。",
+            "focalizer": "an_guoxie",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安actual赞孟最强新开窍并说差点死是角色评价，苍白深伤未全愈实，不拍掌表示全恢复。"
+      },
+      {
+        "reference": "v02-c0006:p0070",
+        "length": 30,
+        "sha256": "9f11b305a050bed893ea59f7c030260996dd77d312018cce03c7629a5813c68b",
+        "units": [
+          {
+            "unit_id": "v02-c0006:p0070:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "an_guoxie",
+            "surface_identity": "same_AnGuoxie_WhiteheadVulture_nineapertures_humanrank36_not_earthrank",
+            "text_context": "安actual将聪明败地利挑衅，同一伤者持续，未本章已擒/击杀孟或给下一战结果。",
+            "world_context": "EARLY_v02c6_dayescape_Mtwoeyesopen_not_nine_sixthsense_uncertain_no_starreturn_or_sandstorm_yet_foodgone_no_actual_rawmeat_planambush_not_claim_kill_Jiang_hypothesis_not_present_needle_absent_allin_SheShen_same_DuanQingjing_strike_no_sequential_two_strikes_animal_noises_illusion_hide_An_fear_four_Cryingelder_orders_memory_not_current_ghost_brother_simile_not_literal_voice_An_sandbody_just_entered_actual_deep_necklower_chestabdomen_wound_survives_rightpalm_breaks_steel_jiedao_not_RedSun_Mhalfblade_waterescape_one_short_courtesy_An_no_water_chase_wary_wounded_ownpill_then_known_exit_surface_route_Mposteffect_cold_weak_passive_Goldbell_rockcollisions_cannot_next_exit_An_clapping_pale_deepwound_unhealed_taunts_no_finalcapture_or_death",
+            "stage_context": "V02S03_SheShen_posteffect_weakness_known_exit_intercept",
+            "channel": "actual_An_current_scream_then_gritted_opening_surprise_selftalk_and_wounded_taunt",
+            "fact_status": "actual_dayrun_openeyes_ambush_SheShen_wounds_bladebreak_waterescape_and_intercept_distinct_private_predictions_counterfactuals_and_fearmemory_no_fresh_ancestor_presence_or_brother_literal_voice_no_finalkill_or_capture",
+            "embodiment": "animal_noise_sensory_interference_Huanxing_ambush_brother_and_grandfather_fearmemory_not_livepeople_Sandbody_just_entered_saves_life_actual_deep_chestwound_breaks_steelblade_ownpill_healing_not_complete_known_riverexit_overground_intercept_no_teleport",
+            "delivery": "greedy_inner_curse_private_fear_then_actual_pained_scream_cold_gritted_surprise_wary_water_refusal_hatred_then_whitefaced_smiling_threat_not_fullyhealed_or_killed",
+            "cost_and_geography_boundary": "An_actual_deepwound_sandbody_saves_life_breaks_steelblade_not_named_RedSun_one_short_Mline_then_falls_river_An_takes_ownpill_not_MsecondTiancong_refuses_water_fears_furtherambush_uses_known_surface_exitroute_not_teleport_MSheShen_effect_over_cold_weak_autoGoldbell_avoids_worseinjury_not_no_cost_An_remains_pale_unhealed_when_taunts_not_captured_or_dead",
+            "knowledge_boundary": "安actual将聪明败地利挑衅，同一伤者持续，未本章已擒/击杀孟或给下一战结果。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "安actual将聪明败地利挑衅，同一伤者持续，未本章已擒/击杀孟或给下一战结果。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v02-0006",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V02-S03",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 17,
+        "label": "疲逃、有限预感与反咬决断",
+        "direction": "1–3羚羊荒漠生态铺垫后4孟未喘息便续跑。5开眼后眉心似更凝、精神壮仍不及段崔，微妙第六感可能错且不敢验，非眉心真开或全域雷达。6/7改向仍被缀，居高临下秃鹫是比喻非安驾空。8暗叹为孟内，一日疲逃迷路；9星斗返集东归和10等风暴抹迹只是拉远后方案，未沙暴真来或已返集。12干粮尽、生火暴露担忧未真生食。11/14思索决断内，15两窍九窍差大、江在此剑拼只是孟估计不实际江出场。16首引语内决断，针不在身无发射，次引语自嘲一句暂外自语可内念待录核；17实际选伏击兼逃地形。表演建议：疲惫、焦虑有体力压力，自嘲短促不淹没主动谋划；拼命面被危境唤起，目标让追者忌惮拉远，不突然自信能正面杀九窍。证据v02-c0006:p0001–p0017。"
+      },
+      {
+        "paragraph_start": 19,
+        "paragraph_end": 34,
+        "label": "动物水边扰感与同一刀全力舍身",
+        "direction": "18省略后19/20沟壑暗河水源、动物猎食N；21眼查22耳听23鼻辨逐步显示九窍追者有能力，动物声气味杂扰使急辨弱声有限，非感官全废。24惊群25安贪眉心精神外放内骂，尚未有此能力。26蹄声效27刀从羚羊腹下出28此时杀意才爆。29清净也能被恐惧贪恨破是刀理，不只亲情；30精血燃烧真用舍身31底牌全出32正常一刀后再加舍身也不足的推演不是实际两刀，开眼仍差九窍，幻形只能瞒一时。33/34一往无回是一刀起手的承诺。表演建议：平静水声与细查节奏让突然出刀成立，爆发从第一刀已燃精血，不能用升级音效暗示第二次临时加力；不把动物叫声配成新角色台词。证据v02-c0006:p0019–p0034。"
+      },
+      {
+        "paragraph_start": 35,
+        "paragraph_end": 48,
+        "label": "旧声恐惧、深伤沙化与百炼刀折",
+        "direction": "35–38四句老祖狠令是安曾旁观的恐惧记忆，沿哭老人同演员可记忆声处理，不哭当前到场/孟听到具体话，也不本章四次新虐杀执行。39恐惧小箭比喻、40弟蓝眼解脱似在说为安内忆解释N，不另添亡弟逐字灵语。41啊属安现场惨叫42半旧惧半颈下胸腹痛。43骨响沙魔比喻44狂沙刚登堂入室可身体沙化保命，不外景晋级；45确剖胸腹后虚不受力46挡致命并右掌拍刀，既伤重也未死。47当声效48百炼精钢戒刀断两截、孟握半翻沟，非红日镇邪刀被毁。表演建议：旧声冷酷与安恐惧、亲弟心痛分层，惨叫保真实疼痛；沙化是避致命而非无伤清零，断刃声接翻身保持动作连续。证据v02-c0006:p0035–p0048。"
+      },
+      {
+        "paragraph_start": 49,
+        "paragraph_end": 61,
+        "label": "短致意入水与重伤追者绕行",
+        "direction": "49孟actual短来而不往50微笑立即倒沟随水，非胜利长谈。51安缓气伤口蠕动看沟，52咬牙实际惊开窍且刀意入体伤很深；53/54安内认非蓄气、舍身之类，非精确知道所练版本或原天聪来历。55狭地水边可再伏并削己、重伤且不知燃血多久使其不敢下，56人榜36死新手会被笑为安内反事实不真死。57实际恨自语、59继续宣言暂外可内待录核，58点穴服安自己的丹调息后按记忆下一出口地面直赶，60未必落后判断61地利自得内焦可N待录核；未第二枚孟天聪、未瞬移或全愈。表演建议：恨与慎并存，怕阴沟翻船不损追者经验；路线用地面直线对地下曲折说明，不以超常传送填空。证据v02-c0006:p0049–p0061。"
+      },
+      {
+        "paragraph_start": 63,
+        "paragraph_end": 70,
+        "label": "舍身退效虚弱与地利再截",
+        "direction": "62省略后63孟随水撞石，金钟自动护体免更重伤非无碰撞或第五关。64舍身已退、阴冷虚弱似大病，不前乐观疗伤可抹代价。65见光到下一出口挣爬66不能撑更远否则死是风险未死；67打摆子除水奔岩打算调息返集未已返。68实掌声69安现场夸新开窍最强、差点杀我为人物评价，脸白深伤未全愈是明述，不拍掌就瞬间满血。70实际聪明却输地利的挑衅，本章止再次截住未擒杀结论。表演建议：少年从强行爆发落到发冷喘促和行动艰难，稳定声线保留，改变支撑与气息；安笑中仍有伤，不把赞语读成旁白认证天下最强或升级胜利结语。证据v02-c0006:p0063–p0070。"
+      }
+    ],
+    "knowledge_rule": "预感会错、两窍仍远九窍，动物扰感伏击同刀舍身全出；老祖四令记忆非到场，弟似语非实口。安确深伤沙化挡命、百炼刀折非红日；水逃退效寒弱、安熟出口再截但未全愈未擒杀。"
+  }
 }

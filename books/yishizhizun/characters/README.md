@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [水边动物设伏：有限预感与同刀舍身](early-v02-Meng-animalwater-ambush-allin-one-SheShen-strike.md) | 第二卷第6章历史归属回补 |
+| [安的旧恐惧与沙化保命、百炼刀折](early-v02-An-fearmemory-sandbody-deepwound-steelblade-break.md) | 第二卷第6章历史归属回补 |
+| [暗河逃与舍身代价：地面绕行再截](early-v02-underground-river-postburst-cost-known-exit-intercept.md) | 第二卷第6章历史归属回补 |
 | [以攻换逃：安弟旧忆、颈掌伤与追不及窗口](early-v02-DuanQingjing-escape-window-An-brothermemory-not-kill.md) | 第二卷第5章历史归属回补 |
 | [安国邪：错误玄关推断、贪秘与真实追踪经验](early-v02-An-false-truegate-inference-and-Gobi-tracking.md) | 第二卷第5章历史归属回补 |
 | [天聪单丸真用、眼窍真开与慢感知](early-v02-Tiancong-consumed-eyes-open-perception-not-timeslow.md) | 第二卷第5章历史归属回补 |
