@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [崔死与孟肺伤、杀支线结算及主动回归窗口](early-Cui-death-Meng-lungwound-rewards-halfhour-return.md) | 第77章历史归属回补 |
+| [真宫主段与公开嫁崔、共享余法及飞升误解](early-Duan-private-palacelord-public-Cui-cover-not-ascension.md) | 第77章历史归属回补 |
+| [新玉佛颈坠同貌、圆蒙长华来历转述与护效未证](early-new-jade-pendant-lookalike-Yuanmeng-story-not-same-object.md) | 第77章历史归属回补 |
 | [尤同光毒死、最后疑虑与针库存结算界限](early-You-needle-poisondeath-lastthought-no-reward-text.md) | 第76章历史归属回补 |
 | [洛青地面讨公道、秘密暗信与救援尚未到位](early-Luo-ground-arrival-secretletter-not-immediate-rescue.md) | 第76章历史归属回补 |
 | [段扑棺拖延与暴喝主观重放、末刀时点](early-coffindiversion-shout-replay-finalstrike-not-result.md) | 第76章历史归属回补 |
