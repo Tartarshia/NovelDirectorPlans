@@ -3,6 +3,13 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "chapter_id": "v02-c0010",
+      "reference": "v02-c0010:p0053",
+      "type": "rule_boundary_ambiguity",
+      "issue": "原文分别列“蓄气期”“六窍以下”“六窍以上”，六窍上下的包含边界及与蓄气组的层级措辞存在歧义，保留原词不擅改分组/奖励，等待后文实际结算或版本核证。",
+      "review_id": "review-backfill-v02-0010"
+    },
+    {
       "chapter_id": "v02-c0009",
       "reference": "v02-c0009:p0021",
       "type": "possible_typo",

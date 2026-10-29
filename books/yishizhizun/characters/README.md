@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阎罗帖：自创剑的心意与尚未完成的教学](early-v02-Jiang-Yanluotie-selfcreated-sword-offer-not-mastered.md) | 第二卷第10章历史归属回补 |
+| [第五关秘籍与三友合借：购入不等修成](early-v02-Goldbell5-manual-cash-pool50-loans-J20-Q30-Z10.md) | 第二卷第10章历史归属回补 |
+| [罗胜衣三人与未建信任的阵营合作](early-v02-Luo-experienced-trio-guarded-alliance-camp-mission.md) | 第二卷第10章历史归属回补 |
 | [自付治疗与留友药：原则妥协仍愧师](early-v02-selfpaid-healing-Goldbell-SheShen-sale-Baicao-reserved.md) | 第二卷第9章历史归属回补 |
 | [伙伴纠偏：两次成功有条件、九窍差仍在](early-v02-party-reassessment-nineaperture-gap-surprise-not-victory.md) | 第二卷第9章历史归属回补 |
 | [已栽七星与未购多案：符专业、齐务实、张准备](early-v02-Fu-Qixing-grown-poison-move-earopening-options-unbought.md) | 第二卷第9章历史归属回补 |
