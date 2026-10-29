@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [无净与玄空：审辨和预设指控的两种压力](early-Wujing-measured-inquiry-Xuankong-accusations-distinct.md) | 第82章历史归属回补 |
+| [师徒解围：真实体悟、来源遮掩与主动承担](early-true-insight-false-origin-Zhenhui-defense-Xuanbei-responsibility.md) | 第82章历史归属回补 |
+| [抄本去向：查无结果、可能解释与尚未证实的指控](early-cliff-scripture-search-unfound-hypotheses-not-conviction.md) | 第82章历史归属回补 |
 | [红日镇邪刀：新借款、热感与适配](early-RedSun-blade-new-Jiangloan-heat-not-immunity.md) | 第81章历史归属回补 |
 | [齐正言的龙纹赤金剑：实物与少见喜悦](early-Qi-Dragonpattern-sword-pills-aura-and-rare-joy.md) | 第81章历史归属回补 |
 | [回归携物：房内存放与树洞投送](early-space-return-rule-storage-treehole-not-retrieved.md) | 第81章历史归属回补 |
