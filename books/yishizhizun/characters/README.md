@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [哭老人敌系：辨识特征与未见伏击者](early-v02-Cryingelder-enemy-lineage-features-not-all-ambushers.md) | 第二卷第3章历史归属回补 |
+| [阶位术语：外景宗师与本地称号分开](early-v02-realm-titles-local-grandmaster-not-outerrealm.md) | 第二卷第3章历史归属回补 |
+| [子墓与余波：读者知保护、弟子不知的距离](early-v02-childrengrave-protection-and-disaster-not-confirmed-death.md) | 第二卷第3章历史归属回补 |
 | [唐展旧仇：屠家、复仇全家与当下保护](early-v02-TangZhan-family-massacre-retaliation-and-private-warning.md) | 第二卷第2章历史归属回补 |
 | [素鸡与自由梦：103次失败仍是真实离寺意愿](early-v02-suji-interrupts-103rd-escape-real-freedomwish.md) | 第二卷第2章历史归属回补 |
 | [三沙客：酒桌传闻与离场后打劫盘算](early-v02-three-sandguests-Su-rumor-and-unexecuted-robbery.md) | 第二卷第2章历史归属回补 |
