@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [唐展旧仇：屠家、复仇全家与当下保护](early-v02-TangZhan-family-massacre-retaliation-and-private-warning.md) | 第二卷第2章历史归属回补 |
+| [素鸡与自由梦：103次失败仍是真实离寺意愿](early-v02-suji-interrupts-103rd-escape-real-freedomwish.md) | 第二卷第2章历史归属回补 |
+| [三沙客：酒桌传闻与离场后打劫盘算](early-v02-three-sandguests-Su-rumor-and-unexecuted-robbery.md) | 第二卷第2章历史归属回补 |
 | [流沙集九娘：懒冷、房价与未证实的传闻](early-v02-QuJiuniang-blackdress-headcount-price-and-rumor.md) | 第二卷第1章历史归属回补 |
 | [近半年修炼：九穴齐而眼未开、幻形才小成](early-v02-Meng-halfyear-training-unopened-eyes-Huanxing-small.md) | 第二卷第1章历史归属回补 |
 | [少年表里与自由愿望：师在后看着和第103次尝试](early-v02-Meng-public-politeness-private-complaints-escape-attempt.md) | 第二卷第1章历史归属回补 |
