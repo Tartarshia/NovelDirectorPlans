@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [以攻换逃：安弟旧忆、颈掌伤与追不及窗口](early-v02-DuanQingjing-escape-window-An-brothermemory-not-kill.md) | 第二卷第5章历史归属回补 |
+| [安国邪：错误玄关推断、贪秘与真实追踪经验](early-v02-An-false-truegate-inference-and-Gobi-tracking.md) | 第二卷第5章历史归属回补 |
+| [天聪单丸真用、眼窍真开与慢感知](early-v02-Tiancong-consumed-eyes-open-perception-not-timeslow.md) | 第二卷第5章历史归属回补 |
 | [九娘护店：真实行动与保护范围](early-v02-Qu-inn-protection-against-soul-drain-limited.md) | 第二卷第4章历史归属回补 |
 | [摩柯拳影：同貌不同态与魂归体的恢复](early-v02-Xuanbei-fistimage-vow-restores-life-not-formal-rank.md) | 第二卷第4章历史归属回补 |
 | [回头的各半动机与安国邪截路](early-v02-Meng-twofold-return-AnGuoxie-nineaperture-intercept.md) | 第二卷第4章历史归属回补 |
