@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [符真真初见：俗家身份与医药兴趣](early-Fu-Zhenzhen-lay-newcomer-shy-medical-interest-not-eyesopen.md) | 第79章历史归属回补 |
+| [张符初情：调侃、遮窘与承担](early-Zhang-Fu-firstlove-teasing-responsibility-not-betrothal.md) | 第79章历史归属回补 |
+| [团队结算：旧债、四份分享与实际消费](early-party-repaid-loan-four-shares-actual-sales-ledger.md) | 第79章历史归属回补 |
 | [实际治疗、冷玉未解与功法估价不等成交](early-healing-coldjade-unknown50000-art200-not-sold.md) | 第78章历史归属回补 |
 | [称芷微与公平共享、亲近不等放弃边界](early-Jiang-Zhiwei-address-fairsharing-promise-not-paid.md) | 第78章历史归属回补 |
 | [幻形初刺激与真正玄关层级、本章读法修正](early-Huanxing-stimulation-not-gateopening-compatible-method.md) | 第78章历史归属回补 |
