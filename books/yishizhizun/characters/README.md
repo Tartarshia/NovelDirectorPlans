@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾的强归因与两种尺度、未购复活](early-v02-Gu-attribution-revival-price-localrank-bluff-not-eyewitness.md) | 第二卷第12章历史归属回补 |
+| [古空山与被限制的客队、尸毒处理边界](early-v02-GuKongshan-suspicious-host-contactpoison-protocol.md) | 第二卷第12章历史归属回补 |
+| [夜课互益与鼻窍后证、灭灯战备](early-v02-night-swordclass-reciprocal-Jiang-nose-confirmed-security.md) | 第二卷第12章历史归属回补 |
 | [夏姐弟名形确认与探路者真实死亡](early-v02-Xia-siblings-current-mapping-scout-death-system100.md) | 第二卷第11章历史归属回补 |
 | [临时权力帮与罗的有效决断、协商摩擦](early-v02-Luo-temporary-PowerGang-effective-force-private-friction.md) | 第二卷第11章历史归属回补 |
 | [风云庄死讯与据尸识无生指的边界](early-v02-WindCloud-corpse-Wusheng-inference-not-seen-killer.md) | 第二卷第11章历史归属回补 |
