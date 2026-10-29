@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [九娘护店：真实行动与保护范围](early-v02-Qu-inn-protection-against-soul-drain-limited.md) | 第二卷第4章历史归属回补 |
+| [摩柯拳影：同貌不同态与魂归体的恢复](early-v02-Xuanbei-fistimage-vow-restores-life-not-formal-rank.md) | 第二卷第4章历史归属回补 |
+| [回头的各半动机与安国邪截路](early-v02-Meng-twofold-return-AnGuoxie-nineaperture-intercept.md) | 第二卷第4章历史归属回补 |
 | [哭老人敌系：辨识特征与未见伏击者](early-v02-Cryingelder-enemy-lineage-features-not-all-ambushers.md) | 第二卷第3章历史归属回补 |
 | [阶位术语：外景宗师与本地称号分开](early-v02-realm-titles-local-grandmaster-not-outerrealm.md) | 第二卷第3章历史归属回补 |
 | [子墓与余波：读者知保护、弟子不知的距离](early-v02-childrengrave-protection-and-disaster-not-confirmed-death.md) | 第二卷第3章历史归属回补 |
