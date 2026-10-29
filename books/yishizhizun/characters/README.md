@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [流沙集九娘：懒冷、房价与未证实的传闻](early-v02-QuJiuniang-blackdress-headcount-price-and-rumor.md) | 第二卷第1章历史归属回补 |
+| [近半年修炼：九穴齐而眼未开、幻形才小成](early-v02-Meng-halfyear-training-unopened-eyes-Huanxing-small.md) | 第二卷第1章历史归属回补 |
+| [少年表里与自由愿望：师在后看着和第103次尝试](early-v02-Meng-public-politeness-private-complaints-escape-attempt.md) | 第二卷第1章历史归属回补 |
 | [功过分别与罚则：期限、四窍和一次例外](early-Shaolin-penalties-separate-merit-once-reward-exception.md) | 第83章历史归属回补 |
 | [师恩落实：实刑、轻声不追问与未解关怀](early-master-strokes-quiet-greedwarning-and-unanswered-affection.md) | 第83章历史归属回补 |
 | [舍身诀与启程：一次抄得不等练成和抵达](early-SheShen-once-copy-costly-burst-and-pending-trip.md) | 第83章历史归属回补 |
