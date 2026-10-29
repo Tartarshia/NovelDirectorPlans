@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [红日镇邪刀：新借款、热感与适配](early-RedSun-blade-new-Jiangloan-heat-not-immunity.md) | 第81章历史归属回补 |
+| [齐正言的龙纹赤金剑：实物与少见喜悦](early-Qi-Dragonpattern-sword-pills-aura-and-rare-joy.md) | 第81章历史归属回补 |
+| [回归携物：房内存放与树洞投送](early-space-return-rule-storage-treehole-not-retrieved.md) | 第81章历史归属回补 |
 | [孟奇资源规划：战损与未开窍的短板](early-Meng-resource-plan-unopened-eyes-and-battered-blade.md) | 第80章历史归属回补 |
 | [长程成长选择：早资质、速度与隐而不宣的知识](early-Jiang-aptitude-speed-advice-and-Meng-hidden-familiarity.md) | 第80章历史归属回补 |
 | [张远山：稳定声线中的罕见惊呼与家族压力](early-Zhang-rare-surprise-family-pressure-and-Tengshe-gift.md) | 第80章历史归属回补 |
