@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [虫围与红日烫敌：粉效、恐惧和毒烟限制](early-v02-insect-barrier-intent-limits-Redsun-burn-no-kill.md) | 第二卷第13章历史归属回补 |
+| [云霆锋、红袖、影杀：敌院内部的自信与偏见](early-v02-Yun-Hongxiu-Yingsha-private-enemy-bias-not-truth.md) | 第二卷第13章历史归属回补 |
+| [白裙小紫与苏元英：自称真名、情郎说辞和未决身份](early-v02-white-Xiaozi-selfnamed-Yulongzi-Su-roomseven-unresolved.md) | 第二卷第13章历史归属回补 |
 | [顾的强归因与两种尺度、未购复活](early-v02-Gu-attribution-revival-price-localrank-bluff-not-eyewitness.md) | 第二卷第12章历史归属回补 |
 | [古空山与被限制的客队、尸毒处理边界](early-v02-GuKongshan-suspicious-host-contactpoison-protocol.md) | 第二卷第12章历史归属回补 |
 | [夜课互益与鼻窍后证、灭灯战备](early-v02-night-swordclass-reciprocal-Jiang-nose-confirmed-security.md) | 第二卷第12章历史归属回补 |
