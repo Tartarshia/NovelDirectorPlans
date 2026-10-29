@@ -61,7 +61,2220 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0013"
+  "reading_batch": "batch-0013",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v02-0016",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v02-0016.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v02-c0016:p0001",
+        "length": 67,
+        "sha256": "fde497dbb569979611f74f9d0003185674ef0e4d51502225cbcc277f2460120b",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0001:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "干涸暗河坍石与恶鬼比喻，是场景N不实际鬼魂。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "干涸暗河坍石与恶鬼比喻，是场景N不实际鬼魂。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "干涸暗河坍石与恶鬼比喻，是场景N不实际鬼魂。"
+      },
+      {
+        "reference": "v02-c0016:p0002",
+        "length": 111,
+        "sha256": "92d927c6afa8d67436853782732e01530c21339181026852e9ce89216633e820",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0002:u001",
+            "start": 0,
+            "end": 111,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张怕暴露未点火，Fu目力不及但已眼开，依衣信赖是她感受非订婚承诺。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "张怕暴露未点火，Fu目力不及但已眼开，依衣信赖是她感受非订婚承诺。",
+            "focalizer": "fu_zhenzhen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张怕暴露未点火，Fu目力不及但已眼开，依衣信赖是她感受非订婚承诺。"
+      },
+      {
+        "reference": "v02-c0016:p0003",
+        "length": 47,
+        "sha256": "e8a12ed19c833c1fc22cf7fe9b52c56f242a35228ed995642e47b023667a657a",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0003:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张不深入为保持观沙暴出击机会，非逃避保护。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "张不深入为保持观沙暴出击机会，非逃避保护。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张不深入为保持观沙暴出击机会，非逃避保护。"
+      },
+      {
+        "reference": "v02-c0016:p0004",
+        "length": 57,
+        "sha256": "45ab03b0f17f2867571ebdcd8ca4c0bb836e150a58b596bc9b85b4c08c8c4868",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0004:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "影杀名号引号N，天生夜视加兑换隐匿暗杀，非14已死地方影长老复生。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "影杀名号引号N，天生夜视加兑换隐匿暗杀，非14已死地方影长老复生。",
+            "focalizer": "ying_sha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "影杀名号引号N，天生夜视加兑换隐匿暗杀，非14已死地方影长老复生。"
+      },
+      {
+        "reference": "v02-c0016:p0005",
+        "length": 49,
+        "sha256": "c35e759c3782b5e8b3be0532c47391d7fa9255bfe907622ef44900484676ae90",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0005:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实际接近一丈，未已经杀中。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "实际接近一丈，未已经杀中。",
+            "focalizer": "ying_sha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际接近一丈，未已经杀中。"
+      },
+      {
+        "reference": "v02-c0016:p0006",
+        "length": 53,
+        "sha256": "bbf282cb9a44ed8a8220632712c47dc13a94544e31d2110f03986ae159985c30",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0006:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "按短剑蓄力准备突袭，简单有效不新增招名。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "按短剑蓄力准备突袭，简单有效不新增招名。",
+            "focalizer": "ying_sha",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0006:u002",
+            "start": 30,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "按短剑蓄力准备突袭，简单有效不新增招名。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "按短剑蓄力准备突袭，简单有效不新增招名。",
+            "focalizer": "ying_sha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "按短剑蓄力准备突袭，简单有效不新增招名。"
+      },
+      {
+        "reference": "v02-c0016:p0007",
+        "length": 34,
+        "sha256": "fd62d6d848d931d5bb1966d4ccacbd72ccbbb4945dfc005913cb7451e76b448c",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0007:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "螣蛇剑太极守势，精神外放眉胀有代价，非玄关全开外景。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "螣蛇剑太极守势，精神外放眉胀有代价，非玄关全开外景。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "螣蛇剑太极守势，精神外放眉胀有代价，非玄关全开外景。"
+      },
+      {
+        "reference": "v02-c0016:p0008",
+        "length": 44,
+        "sha256": "3879e893a83a9307dee73b9764152a1ec60f21255c9def207522e3fee866e759",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0008:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张感应护Fu剑划圆，先防非主动弃Fu追敌。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "张感应护Fu剑划圆，先防非主动弃Fu追敌。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张感应护Fu剑划圆，先防非主动弃Fu追敌。"
+      },
+      {
+        "reference": "v02-c0016:p0009",
+        "length": 2,
+        "sha256": "89cda4baec273fb34f5d00e383556a84b1f88d596f59c6b84b100f8a9346381e",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0009:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "当是金属声效N，不角色喊台词。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "当是金属声效N，不角色喊台词。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "当是金属声效N，不角色喊台词。"
+      },
+      {
+        "reference": "v02-c0016:p0010",
+        "length": 36,
+        "sha256": "e3bc3e24780dda4542cf95a3d9fbff1be279825dfc9b958a8a54d7f3c07cfd43",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0010:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "碰击止静并非前一击实际幻觉。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "碰击止静并非前一击实际幻觉。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "碰击止静并非前一击实际幻觉。"
+      },
+      {
+        "reference": "v02-c0016:p0011",
+        "length": 67,
+        "sha256": "c1887c15ef511ba442c58f47c2d8dc9dbe01ccb204b4c44e006e2c72c09afdd9",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0011:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张首防成功却不知敌藏处，谨慎非已胜杀。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "张首防成功却不知敌藏处，谨慎非已胜杀。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张首防成功却不知敌藏处，谨慎非已胜杀。"
+      },
+      {
+        "reference": "v02-c0016:p0012",
+        "length": 136,
+        "sha256": "f8eb578fa16ccfe2999b1a9e02d5b61d3ee3e6f5c28f9f3a24f3e8010ca1739f",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0012:u001",
+            "start": 0,
+            "end": 136,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "四窍、正面弱于己是张交手判断，环境放大威胁不作者新给绝对评级。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "四窍、正面弱于己是张交手判断，环境放大威胁不作者新给绝对评级。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "四窍、正面弱于己是张交手判断，环境放大威胁不作者新给绝对评级。"
+      },
+      {
+        "reference": "v02-c0016:p0013",
+        "length": 79,
+        "sha256": "5788e55d2e3ee508547aa8a4ff580211d0a8eb61566b13b769cc804b93c515e5",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0013:u001",
+            "start": 0,
+            "end": 79,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "精神戒备眉心眼窍持续耗大难持久，沙暴减弱只是脱局条件未发生。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "精神戒备眉心眼窍持续耗大难持久，沙暴减弱只是脱局条件未发生。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "精神戒备眉心眼窍持续耗大难持久，沙暴减弱只是脱局条件未发生。"
+      },
+      {
+        "reference": "v02-c0016:p0014",
+        "length": 54,
+        "sha256": "ea7321d250a3af5306c516c3ff80ed788c85151d5c6ea6fce8fdbac73e50ec3d",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0014:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "影杀失手即退藏岩耐心待机，仍活着未第二刺成。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "影杀失手即退藏岩耐心待机，仍活着未第二刺成。",
+            "focalizer": "ying_sha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "影杀失手即退藏岩耐心待机，仍活着未第二刺成。"
+      },
+      {
+        "reference": "v02-c0016:p0015",
+        "length": 71,
+        "sha256": "1588fe4c0857301ace33a4713781a6fa36e41cb34bc9698ec5481ca5cff49fec",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0015:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "过去沼泽七天伏杀七窍是背景战绩，非本章新杀人奖励。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "过去沼泽七天伏杀七窍是背景战绩，非本章新杀人奖励。",
+            "focalizer": "ying_sha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "过去沼泽七天伏杀七窍是背景战绩，非本章新杀人奖励。"
+      },
+      {
+        "reference": "v02-c0016:p0016",
+        "length": 14,
+        "sha256": "cd81720eb5d20d6c685377c1692fd84f56df3a83fefe9e5707c3af06e19eb18b",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0016:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "ying_sha",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "影杀耐心信条暂作内语，缺外声框架不配公开喊。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "editorial_inner_reading_no_actual_voice",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "天生夜视影藏刺客首攻失手耐心隐伏过去七日杀七窍非新杀",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "影杀耐心信条暂作内语，缺外声框架不配公开喊。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "影杀耐心信条暂作内语，缺外声框架不配公开喊。"
+      },
+      {
+        "reference": "v02-c0016:p0017",
+        "length": 39,
+        "sha256": "1f84c7a3c2f3a4db21802cdc1e0bcbb40f3385046f39fc4409d53cbbd7c34d9e",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0017:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "fu_zhenzhen",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "Fu实际温婉甜美提点火，是实际发声而非已宣用七星海棠。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "新开眼目力有限依张而主动提点火实际火折子非已点毒烛",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "Fu实际温婉甜美提点火，是实际发声而非已宣用七星海棠。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0017:u002",
+            "start": 21,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "Fu实际温婉甜美提点火，是实际发声而非已宣用七星海棠。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "Fu实际温婉甜美提点火，是实际发声而非已宣用七星海棠。",
+            "focalizer": "fu_zhenzhen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "Fu实际温婉甜美提点火，是实际发声而非已宣用七星海棠。"
+      },
+      {
+        "reference": "v02-c0016:p0018",
+        "length": 49,
+        "sha256": "c385855f9e91dffa59eaea47fd3fc55a1064eeec6b74bee6c50056f8e475fc79",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0018:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前一动不动叙述，后若有火光为影杀内自信，不他公开暴露藏处。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "前一动不动叙述，后若有火光为影杀内自信，不他公开暴露藏处。",
+            "focalizer": "ying_sha",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0018:u002",
+            "start": 12,
+            "end": 49,
+            "kind": "inner_speech",
+            "speaker": "ying_sha",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "前一动不动叙述，后若有火光为影杀内自信，不他公开暴露藏处。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "editorial_inner_reading_no_actual_voice",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "天生夜视影藏刺客首攻失手耐心隐伏过去七日杀七窍非新杀",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "前一动不动叙述，后若有火光为影杀内自信，不他公开暴露藏处。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前一动不动叙述，后若有火光为影杀内自信，不他公开暴露藏处。"
+      },
+      {
+        "reference": "v02-c0016:p0019",
+        "length": 47,
+        "sha256": "88d5d224d57e5d0b2623521f9481a254a2460da5d4a70b63b6536e3d46b188da",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0019:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "影藏兑换后得未名高手指点才成，不能擅认韩广或地方影长老。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "影藏兑换后得未名高手指点才成，不能擅认韩广或地方影长老。",
+            "focalizer": "ying_sha",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "影藏兑换后得未名高手指点才成，不能擅认韩广或地方影长老。"
+      },
+      {
+        "reference": "v02-c0016:p0020",
+        "length": 40,
+        "sha256": "9ae8fa812de4440003407f36720fe26ebf96dc3e71aa2180956b3a85ce48c828",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0020:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuanshan",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "张实际低沉答应，口含事物或戒备为源两种表象，未证具体解药。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "太极护Fu首防成功但精神耗大位置未知；低沉口含物未确证",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "张实际低沉答应，口含事物或戒备为源两种表象，未证具体解药。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0020:u002",
+            "start": 5,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际低沉答应，口含事物或戒备为源两种表象，未证具体解药。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "张实际低沉答应，口含事物或戒备为源两种表象，未证具体解药。",
+            "focalizer": "zhang_yuanshan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际低沉答应，口含事物或戒备为源两种表象，未证具体解药。"
+      },
+      {
+        "reference": "v02-c0016:p0021",
+        "length": 60,
+        "sha256": "f2ea2de11831dc803823e7861e72bb9c17ad45c007ae197ac6f2ba26c4af197c",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0021:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "火折子实际点亮但暗影仍多，不已点七星毒烛/影杀已中毒。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_cave_defense",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "火折子实际点亮但暗影仍多，不已点七星毒烛/影杀已中毒。",
+            "focalizer": "fu_zhenzhen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "火折子实际点亮但暗影仍多，不已点七星毒烛/影杀已中毒。"
+      },
+      {
+        "reference": "v02-c0016:p0022",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0022:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略转齐，不洞中胜负已决。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "省略转齐，不洞中胜负已决。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略转齐，不洞中胜负已决。"
+      },
+      {
+        "reference": "v02-c0016:p0023",
+        "length": 37,
+        "sha256": "a8bca6986697bd5d0a27a67996cab97a19963989c055785f4d7ed2f1a692d54f",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0023:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐相对后方潜伏警戒仍见少阳。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "齐相对后方潜伏警戒仍见少阳。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐相对后方潜伏警戒仍见少阳。"
+      },
+      {
+        "reference": "v02-c0016:p0024",
+        "length": 74,
+        "sha256": "2f8d4225b76a20565a2b255d73314913792c5c2a1acdf82355c043d101c750b7",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0024:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "浑天宝鉴使齐敏天象异种能，有疑无对策不早知苏全套。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "浑天宝鉴使齐敏天象异种能，有疑无对策不早知苏全套。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "浑天宝鉴使齐敏天象异种能，有疑无对策不早知苏全套。"
+      },
+      {
+        "reference": "v02-c0016:p0025",
+        "length": 33,
+        "sha256": "e7277e39b4d390770edaa1bfb772b2b2e4dc575f489f7fb2fc150222039068e1",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0025:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "突增刺目阳光感官实，无人新口。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "突增刺目阳光感官实，无人新口。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "突增刺目阳光感官实，无人新口。"
+      },
+      {
+        "reference": "v02-c0016:p0026",
+        "length": 43,
+        "sha256": "20dad19116d84b7edc8bd428860b34f718ef9e1c2990883726f28af5ec19781b",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0026:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未名使者日遁短剑突喉，尚未命中。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "未名使者日遁短剑突喉，尚未命中。",
+            "focalizer": "two_local_envoys_shared_mistaken_Tongyou_assessment",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未名使者日遁短剑突喉，尚未命中。"
+      },
+      {
+        "reference": "v02-c0016:p0027",
+        "length": 40,
+        "sha256": "dab9bb061aea1f2c68f9a4aef273ab42057713a6bb1d4e3c9bc965d6a4ff9479",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0027:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "另一未名使者土遁十指袭背，非地尊本人。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "另一未名使者土遁十指袭背，非地尊本人。",
+            "focalizer": "two_local_envoys_shared_mistaken_Tongyou_assessment",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "另一未名使者土遁十指袭背，非地尊本人。"
+      },
+      {
+        "reference": "v02-c0016:p0028",
+        "length": 24,
+        "sha256": "21c69fe90f5f9f92216aedc7bbda0899de253ed31029efb8bf313a11dda74746",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0028:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白确认两通幽使者，不天地人三尊全到。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "旁白确认两通幽使者，不天地人三尊全到。",
+            "focalizer": "two_local_envoys_shared_mistaken_Tongyou_assessment",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白确认两通幽使者，不天地人三尊全到。"
+      },
+      {
+        "reference": "v02-c0016:p0029",
+        "length": 51,
+        "sha256": "aca8dbe962b2c8f5d840fad5c21280d1cef291a6f02c6cf21be9ce27e9a1fa1e",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0029:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两使自信必杀是主观预期，非齐已亡。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "两使自信必杀是主观预期，非齐已亡。",
+            "focalizer": "two_local_envoys_shared_mistaken_Tongyou_assessment",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两使自信必杀是主观预期，非齐已亡。"
+      },
+      {
+        "reference": "v02-c0016:p0030",
+        "length": 53,
+        "sha256": "e3e27952272e10a7fec0cdc24561d60ac3e1433b749db86a253d84c028fa225d",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0030:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐白烟云霭遮蔽实际，非使者已经失明永久。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "齐白烟云霭遮蔽实际，非使者已经失明永久。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐白烟云霭遮蔽实际，非使者已经失明永久。"
+      },
+      {
+        "reference": "v02-c0016:p0031",
+        "length": 32,
+        "sha256": "9f98f19e4817c6f133da38a60ea5bfeb76527e954429eab03771ce11fb773fb2",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0031:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赤霞莲华带攻击落空实际，未反杀两使。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "赤霞莲华带攻击落空实际，未反杀两使。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赤霞莲华带攻击落空实际，未反杀两使。"
+      },
+      {
+        "reference": "v02-c0016:p0032",
+        "length": 22,
+        "sha256": "f5cd0bd5641510c8a73f1a40936bf57587461426ab762b29874cee24ecf96198",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0032:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "inner_speech",
+            "speaker": "two_local_envoys_shared_mistaken_Tongyou_assessment",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "两使共享惊疑内语暂编组归属，把浑天误认两通幽尊者，非齐真实修本地法已晋尊者。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Qi_avoids_twoenvoys",
+            "channel": "editorial_inner_reading_no_actual_voice",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "未名两个地方通幽使者日遁土遁误认浑天为双通幽尊者非客观实境",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "两使共享惊疑内语暂编组归属，把浑天误认两通幽尊者，非齐真实修本地法已晋尊者。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两使共享惊疑内语暂编组归属，把浑天误认两通幽尊者，非齐真实修本地法已晋尊者。"
+      },
+      {
+        "reference": "v02-c0016:p0033",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0033:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略切DD，无齐战最终结果。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "省略切DD，无齐战最终结果。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略切DD，无齐战最终结果。"
+      },
+      {
+        "reference": "v02-c0016:p0034",
+        "length": 28,
+        "sha256": "03a4fb9d02a0e6ef3272c9a2f924748de3233c0177b0bd1d782f0f6c436ac0c3",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0034:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "夏丹丹长短鸳鸯刀避风，非夏初临复活。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "夏丹丹长短鸳鸯刀避风，非夏初临复活。",
+            "focalizer": "xia_dandan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "夏丹丹长短鸳鸯刀避风，非夏初临复活。"
+      },
+      {
+        "reference": "v02-c0016:p0035",
+        "length": 54,
+        "sha256": "fd4466327cc6b212b9b1f8cf6c4ebcf7576a1351df4b6ace72d1ec57f53bf98a",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0035:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "DD仇火暂按、以为敌也难行是她判断，被下文顾到打破。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "DD仇火暂按、以为敌也难行是她判断，被下文顾到打破。",
+            "focalizer": "xia_dandan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "DD仇火暂按、以为敌也难行是她判断，被下文顾到打破。"
+      },
+      {
+        "reference": "v02-c0016:p0036",
+        "length": 94,
+        "sha256": "5efc0d6aa6a1b4e2845319a16d390caad16fc5619c270e36cb885cb8d95f20eb",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0036:u001",
+            "start": 0,
+            "end": 94,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "咯咯娇笑以叙述声效保留，无逐字新台词；白裙女风沙自散不等真实仙女境。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "咯咯娇笑以叙述声效保留，无逐字新台词；白裙女风沙自散不等真实仙女境。",
+            "focalizer": "xia_dandan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "咯咯娇笑以叙述声效保留，无逐字新台词；白裙女风沙自散不等真实仙女境。"
+      },
+      {
+        "reference": "v02-c0016:p0037",
+        "length": 33,
+        "sha256": "fbac70163a67d2669e4692875dbf6c818e5217d489afc657eb2827397a7f219e",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0037:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仙女临凡是形貌比喻非神祇身份认证。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "仙女临凡是形貌比喻非神祇身份认证。",
+            "focalizer": "xia_dandan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仙女临凡是形貌比喻非神祇身份认证。"
+      },
+      {
+        "reference": "v02-c0016:p0038",
+        "length": 28,
+        "sha256": "8192da1a925bda7cd04ead485629ff40c988501868807231ce8d681b94b5864d",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0038:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "夏丹丹实际沙哑问顾小桑，恐惧不已经死。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "夏丹丹实际沙哑问顾小桑，恐惧不已经死。",
+            "focalizer": "xia_dandan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0038:u002",
+            "start": 22,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "xia_dandan",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "夏丹丹实际沙哑问顾小桑，恐惧不已经死。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "报仇受风按住敌难行动误判见顾声音困难沙哑问名未死",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "夏丹丹实际沙哑问顾小桑，恐惧不已经死。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "夏丹丹实际沙哑问顾小桑，恐惧不已经死。"
+      },
+      {
+        "reference": "v02-c0016:p0039",
+        "length": 15,
+        "sha256": "41362b1fd8c8796d5c5b43e1e06de85e2fc1b0ae70cb76acfedab03263e1bf01",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0039:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白直接小紫也就是顾小桑，本章足以追加13-15章同白裙别名后证，绝不映射红袖。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "旁白直接小紫也就是顾小桑，本章足以追加13-15章同白裙别名后证，绝不映射红袖。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白直接小紫也就是顾小桑，本章足以追加13-15章同白裙别名后证，绝不映射红袖。"
+      },
+      {
+        "reference": "v02-c0016:p0040",
+        "length": 26,
+        "sha256": "e557f358c6ff92adc82d9ebbca4ccfe07019b8042c0e76a8d1048c90ef2dfc94",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0040:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "gu_xiaosang",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "顾实际悠然劝真空家乡，不能替DD作已服从或无生指已发。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "旁白直接小紫即顾小桑仅白裙别名非红袖悠然劝真空未发无生指无杀果",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "顾实际悠然劝真空家乡，不能替DD作已服从或无生指已发。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "顾实际悠然劝真空家乡，不能替DD作已服从或无生指已发。"
+      },
+      {
+        "reference": "v02-c0016:p0041",
+        "length": 29,
+        "sha256": "0c6a38d6fe6a76aba5753b0152c06b2392e61cbf8f73dcac9a89d7f019a0128d",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0041:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "风缓亮声降临实际氛围，声音无逐字咒词、不已宣DD死和扣分。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_Xiaozi_directly_Gu",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "风缓亮声降临实际氛围，声音无逐字咒词、不已宣DD死和扣分。",
+            "focalizer": "gu_xiaosang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "风缓亮声降临实际氛围，声音无逐字咒词、不已宣DD死和扣分。"
+      },
+      {
+        "reference": "v02-c0016:p0042",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0042:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略切庙，不顾DD战已结。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "省略切庙，不顾DD战已结。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略切庙，不顾DD战已结。"
+      },
+      {
+        "reference": "v02-c0016:p0043",
+        "length": 30,
+        "sha256": "24922f3a4314fd2f5d89a72c66db6cefb472f354094cac65d6dfb876e044047c",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0043:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟陈潇罗友同感风剧，罗友不是罗胜衣。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟陈潇罗友同感风剧，罗友不是罗胜衣。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟陈潇罗友同感风剧，罗友不是罗胜衣。"
+      },
+      {
+        "reference": "v02-c0016:p0044",
+        "length": 21,
+        "sha256": "ba8401f66d97708f3b73144dd22d4cd12ee4ea4abc40e3f6fd41fc683e693a81",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0044:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "chen_xiao",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "陈潇实际庆幸提前躲，是本地经验非已知苏。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "本地陈潇有风遁对孟敬服其高僧表象61陈曦疑错字仍归她",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "陈潇实际庆幸提前躲，是本地经验非已知苏。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0044:u002",
+            "start": 13,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈潇实际庆幸提前躲，是本地经验非已知苏。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "陈潇实际庆幸提前躲，是本地经验非已知苏。",
+            "focalizer": "chen_xiao",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈潇实际庆幸提前躲，是本地经验非已知苏。"
+      },
+      {
+        "reference": "v02-c0016:p0045",
+        "length": 53,
+        "sha256": "92c8d451cc713d7d9ae9ad5d3bb7c4c53b15fc95955d8f4ac5a517b1e3095b13",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0045:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "罗友实际赞师妹，不暗中已奉孟为师。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "罗友实际赞师妹，不暗中已奉孟为师。",
+            "focalizer": "luo_you",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0045:u002",
+            "start": 13,
+            "end": 53,
+            "kind": "spoken_dialogue",
+            "speaker": "luo_you",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "罗友实际赞师妹，不暗中已奉孟为师。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "当地罗友非罗胜衣赞师妹赞孟慈悲为本地立场未验所有魔教",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "罗友实际赞师妹，不暗中已奉孟为师。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "罗友实际赞师妹，不暗中已奉孟为师。"
+      },
+      {
+        "reference": "v02-c0016:p0046",
+        "length": 53,
+        "sha256": "1fcefbc4d29fa7838d93f518530744b4b87b399ade91a6292f856d34f6af7fa4",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0046:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈罗觉得天候寻常是认知，非全知旁白否定苏借风。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "陈罗觉得天候寻常是认知，非全知旁白否定苏借风。",
+            "focalizer": "chen_xiao",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈罗觉得天候寻常是认知，非全知旁白否定苏借风。"
+      },
+      {
+        "reference": "v02-c0016:p0047",
+        "length": 95,
+        "sha256": "c326bc8fd4cac74bae34a645a2abbf840142f7e1b20cba78f2f436cae0793561",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0047:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟忆哭老人疑魔教主引天象尾内，不确知来者教主/苏真名。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟忆哭老人疑魔教主引天象尾内，不确知来者教主/苏真名。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0047:u002",
+            "start": 63,
+            "end": 95,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "孟忆哭老人疑魔教主引天象尾内，不确知来者教主/苏真名。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "editorial_inner_reading_no_actual_voice",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "眉心祖窍微启非真玄关全开刀脱胎断清净非整式再舍身佛语遮通幽无知预感雾袭屏息金钟挡渗虫咬正冲唐花未决",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟忆哭老人疑魔教主引天象尾内，不确知来者教主/苏真名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟忆哭老人疑魔教主引天象尾内，不确知来者教主/苏真名。"
+      },
+      {
+        "reference": "v02-c0016:p0048",
+        "length": 57,
+        "sha256": "476f0dfb0c333607301594358fe4664be695ea19fd3146c639ec4c1bf1b916ad",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0048:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "明确不含哭老人天地威百里灾力，不能拉齐本地借风与该境界。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "明确不含哭老人天地威百里灾力，不能拉齐本地借风与该境界。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "明确不含哭老人天地威百里灾力，不能拉齐本地借风与该境界。"
+      },
+      {
+        "reference": "v02-c0016:p0049",
+        "length": 38,
+        "sha256": "6b294e2f8e0a85a7a6fbb88b3cb5d9f2695e81a55dcc84fa09625e83850a79c8",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0049:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "眉心祖窍微启、精神外放照原叙，非已真开生死玄关晋半外景。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "眉心祖窍微启、精神外放照原叙，非已真开生死玄关晋半外景。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "眉心祖窍微启、精神外放照原叙，非已真开生死玄关晋半外景。"
+      },
+      {
+        "reference": "v02-c0016:p0050",
+        "length": 48,
+        "sha256": "92650d9b43f272440bae8b45cccb6d09fde7c8c26a867622acdfe034cb4ed66b",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0050:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原14已死地方影长老尸黑气被红日消，不新杀人/影杀死。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "原14已死地方影长老尸黑气被红日消，不新杀人/影杀死。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原14已死地方影长老尸黑气被红日消，不新杀人/影杀死。"
+      },
+      {
+        "reference": "v02-c0016:p0051",
+        "length": 135,
+        "sha256": "8fe977c97566aa95d0574ea61a2d4d75449d0ce007125b2320e21678da0150c5",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0051:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "孟通幽疑问引号暂内，无对外道的框架；若无隐患能学是条件想法未学成。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "editorial_inner_reading_no_actual_voice",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "眉心祖窍微启非真玄关全开刀脱胎断清净非整式再舍身佛语遮通幽无知预感雾袭屏息金钟挡渗虫咬正冲唐花未决",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟通幽疑问引号暂内，无对外道的框架；若无隐患能学是条件想法未学成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0051:u002",
+            "start": 40,
+            "end": 54,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "孟通幽疑问引号暂内，无对外道的框架；若无隐患能学是条件想法未学成。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "editorial_inner_reading_no_actual_voice",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "眉心祖窍微启非真玄关全开刀脱胎断清净非整式再舍身佛语遮通幽无知预感雾袭屏息金钟挡渗虫咬正冲唐花未决",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟通幽疑问引号暂内，无对外道的框架；若无隐患能学是条件想法未学成。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0051:u003",
+            "start": 54,
+            "end": 135,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟通幽疑问引号暂内，无对外道的框架；若无隐患能学是条件想法未学成。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟通幽疑问引号暂内，无对外道的框架；若无隐患能学是条件想法未学成。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟通幽疑问引号暂内，无对外道的框架；若无隐患能学是条件想法未学成。"
+      },
+      {
+        "reference": "v02-c0016:p0052",
+        "length": 68,
+        "sha256": "8d603a82a08cecc6fcafe331b4747fae19c6b61ffa398b4a05d205c05662eca0",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0052:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白补明14那刀脱胎断清净，非完整舍身断清净再用/阎罗帖实成。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "旁白补明14那刀脱胎断清净，非完整舍身断清净再用/阎罗帖实成。",
+            "focalizer": "chen_xiao",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白补明14那刀脱胎断清净，非完整舍身断清净再用/阎罗帖实成。"
+      },
+      {
+        "reference": "v02-c0016:p0053",
+        "length": 60,
+        "sha256": "58571aac308463f02c9f836ce92082d17ce1a9f7988696c91b0f39bcd4722431",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0053:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "chen_xiao",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "陈实际尊称问看什么仅首引号，风遁是概念N；自评非孟对手不已交战。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "本地陈潇有风遁对孟敬服其高僧表象61陈曦疑错字仍归她",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "陈实际尊称问看什么仅首引号，风遁是概念N；自评非孟对手不已交战。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0053:u002",
+            "start": 13,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈实际尊称问看什么仅首引号，风遁是概念N；自评非孟对手不已交战。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "陈实际尊称问看什么仅首引号，风遁是概念N；自评非孟对手不已交战。",
+            "focalizer": "chen_xiao",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈实际尊称问看什么仅首引号，风遁是概念N；自评非孟对手不已交战。"
+      },
+      {
+        "reference": "v02-c0016:p0054",
+        "length": 58,
+        "sha256": "dafb09d672c08db40d5b65ad30d020a75877eda19b4254bfc17a8154569b85ab",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0054:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际佛语，旁白明遮自身通幽无知，是形象表演不直接内心慈悲自白。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟实际佛语，旁白明遮自身通幽无知，是形象表演不直接内心慈悲自白。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0054:u002",
+            "start": 23,
+            "end": 58,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "孟实际佛语，旁白明遮自身通幽无知，是形象表演不直接内心慈悲自白。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "眉心祖窍微启非真玄关全开刀脱胎断清净非整式再舍身佛语遮通幽无知预感雾袭屏息金钟挡渗虫咬正冲唐花未决",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟实际佛语，旁白明遮自身通幽无知，是形象表演不直接内心慈悲自白。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际佛语，旁白明遮自身通幽无知，是形象表演不直接内心慈悲自白。"
+      },
+      {
+        "reference": "v02-c0016:p0055",
+        "length": 78,
+        "sha256": "479f5dfe1ce5d95f74a34d3bc51ec8e2f11f7268e73db10ca62496ad5e5759f0",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0055:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "luo_you",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "罗友实际杀魔救人说法为当地立场，不全知判所有魔教人都无善。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "当地罗友非罗胜衣赞师妹赞孟慈悲为本地立场未验所有魔教",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "罗友实际杀魔救人说法为当地立场，不全知判所有魔教人都无善。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0055:u002",
+            "start": 68,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "罗友实际杀魔救人说法为当地立场，不全知判所有魔教人都无善。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "罗友实际杀魔救人说法为当地立场，不全知判所有魔教人都无善。",
+            "focalizer": "luo_you",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "罗友实际杀魔救人说法为当地立场，不全知判所有魔教人都无善。"
+      },
+      {
+        "reference": "v02-c0016:p0056",
+        "length": 50,
+        "sha256": "cc61510b6e29e0e7bca933d0a44240015d6ed533ba9e52a3692398333446a9b5",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0056:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈的良善推己是她理解，非孟真心杀后痛苦被作者认证。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "陈的良善推己是她理解，非孟真心杀后痛苦被作者认证。",
+            "focalizer": "chen_xiao",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈的良善推己是她理解，非孟真心杀后痛苦被作者认证。"
+      },
+      {
+        "reference": "v02-c0016:p0057",
+        "length": 42,
+        "sha256": "61858eca9998bc7bd8a2e7f63d185245e89454c2ddac692bb03e3db1b1d49d78",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0057:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "chen_xiao",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "陈两实际引号赞高僧问刀法，后被警报打断未受教学。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "本地陈潇有风遁对孟敬服其高僧表象61陈曦疑错字仍归她",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "陈两实际引号赞高僧问刀法，后被警报打断未受教学。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0057:u002",
+            "start": 24,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈两实际引号赞高僧问刀法，后被警报打断未受教学。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "陈两实际引号赞高僧问刀法，后被警报打断未受教学。",
+            "focalizer": "chen_xiao",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0057:u003",
+            "start": 31,
+            "end": 42,
+            "kind": "spoken_dialogue",
+            "speaker": "chen_xiao",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "陈两实际引号赞高僧问刀法，后被警报打断未受教学。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_temple_knowledge_and_performed_compassion",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "本地陈潇有风遁对孟敬服其高僧表象61陈曦疑错字仍归她",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "陈两实际引号赞高僧问刀法，后被警报打断未受教学。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈两实际引号赞高僧问刀法，后被警报打断未受教学。"
+      },
+      {
+        "reference": "v02-c0016:p0058",
+        "length": 36,
+        "sha256": "1301a3ce6c71bf09592e586fcd11ffa2271d85ef2f7f0209bf73891f3359fc3c",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0058:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "幻形预感本次由59管雾验证，不永久无误雷达。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "幻形预感本次由59管雾验证，不永久无误雷达。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "幻形预感本次由59管雾验证，不永久无误雷达。"
+      },
+      {
+        "reference": "v02-c0016:p0059",
+        "length": 24,
+        "sha256": "cf68bbc5e767d5bb860a6dbc9ccd712935230aa5569d5ad2b570952cffe462ea",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0059:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "管入吹淡雾实际敌袭，未全员中毒。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "管入吹淡雾实际敌袭，未全员中毒。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "管入吹淡雾实际敌袭，未全员中毒。"
+      },
+      {
+        "reference": "v02-c0016:p0060",
+        "length": 31,
+        "sha256": "04d538cb601002161b398f8e3a8930c527cba807f098bb59ce30e9d20bbaae78",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0060:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "same_current_person_or_explicit_shared_pair",
+            "text_context": "孟实际低喝小心、屏息运金钟暗金，非五关已入门。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "actual_source_framed_dialogue",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "embodiment": "眉心祖窍微启非真玄关全开刀脱胎断清净非整式再舍身佛语遮通幽无知预感雾袭屏息金钟挡渗虫咬正冲唐花未决",
+            "delivery": "按本段动作与知识界限表演；内语不作现场外声",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟实际低喝小心、屏息运金钟暗金，非五关已入门。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v02-c0016:p0060:u002",
+            "start": 5,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际低喝小心、屏息运金钟暗金，非五关已入门。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "孟实际低喝小心、屏息运金钟暗金，非五关已入门。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际低喝小心、屏息运金钟暗金，非五关已入门。"
+      },
+      {
+        "reference": "v02-c0016:p0061",
+        "length": 41,
+        "sha256": "99a66df6efb76a21b956e2f7f6c16acd335606d795ff1bd7d6fa97cc12eafd60",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0061:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原陈曦在连续陈潇罗友语境疑错字，保原归陈潇而不新增陈曦演员。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "原陈曦在连续陈潇罗友语境疑错字，保原归陈潇而不新增陈曦演员。",
+            "focalizer": "chen_xiao",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原陈曦在连续陈潇罗友语境疑错字，保原归陈潇而不新增陈曦演员。"
+      },
+      {
+        "reference": "v02-c0016:p0062",
+        "length": 72,
+        "sha256": "729e9f9e4dc0548471e292e28d02568a43b4b94d392e1fb6a85457df5d9227d0",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0062:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "识对阵营用毒急速战，红日风神腿实际正冲，不知所有敌私谋。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "识对阵营用毒急速战，红日风神腿实际正冲，不知所有敌私谋。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "识对阵营用毒急速战，红日风神腿实际正冲，不知所有敌私谋。"
+      },
+      {
+        "reference": "v02-c0016:p0063",
+        "length": 41,
+        "sha256": "0e2ed145d65d78f79098a9e8ade02e1251b7ac1eeab4999034ec492eaa16eedf",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0063:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金钟挡雾渗透且此前屏息，肩背撞窗砰声效，不证万毒不侵。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "金钟挡雾渗透且此前屏息，肩背撞窗砰声效，不证万毒不侵。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金钟挡雾渗透且此前屏息，肩背撞窗砰声效，不证万毒不侵。"
+      },
+      {
+        "reference": "v02-c0016:p0064",
+        "length": 57,
+        "sha256": "5a5333d9534b5d7321545f78971b96acfb24c81f3d6648dc54fcccf90d7a81c4",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0064:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鲜衣少女在虫阵，68明红袖，非白裙顾。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "鲜衣少女在虫阵，68明红袖，非白裙顾。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鲜衣少女在虫阵，68明红袖，非白裙顾。"
+      },
+      {
+        "reference": "v02-c0016:p0065",
+        "length": 41,
+        "sha256": "297625365d36710af17777ab6e0bde7354843d318756bd7e4e8674fb25a5bf0b",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0065:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未用神行巧避而直接过虫是速决取舍，承接13嫌虫不等人格突然无畏万物。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "未用神行巧避而直接过虫是速决取舍，承接13嫌虫不等人格突然无畏万物。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未用神行巧避而直接过虫是速决取舍，承接13嫌虫不等人格突然无畏万物。"
+      },
+      {
+        "reference": "v02-c0016:p0066",
+        "length": 50,
+        "sha256": "872fe14468e99de48c30604f167563058911add3281974479b676205a108fb82",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0066:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "虫咬被硬功反弹，不金钟五关已成/全毒理免疫。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "虫咬被硬功反弹，不金钟五关已成/全毒理免疫。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "虫咬被硬功反弹，不金钟五关已成/全毒理免疫。"
+      },
+      {
+        "reference": "v02-c0016:p0067",
+        "length": 33,
+        "sha256": "9bb9b9a86c01c86a8820fc41d24f7a431fea05422f8c2f791b23fece2ca2d5ef",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0067:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "战车比喻孟迅近少女，不真新机械战车道具。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "战车比喻孟迅近少女，不真新机械战车道具。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "战车比喻孟迅近少女，不真新机械战车道具。"
+      },
+      {
+        "reference": "v02-c0016:p0068",
+        "length": 56,
+        "sha256": "4da8d423fe9f39ebb38ac847a831fcf809bb8a66ee22dc0fdbee9df4f4849131",
+        "units": [
+          {
+            "unit_id": "v02-c0016:p0068:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "红袖短怔即回神、唐花实际发出，但无命中胜负和暗器具体机制，不加奖扣。",
+            "world_context": "EARLY_v02c16_ZhangFu_defense_Yingsha_hidden_Qi_cloud_redlight_twoenvoys_misidentify_Tongyou_Xiaozi_directly_GuXiaosang_Meng_blade_derived_DuanQingjing_Goldbell5_stillnot_entry_Tanghua_launched_outcome_unknown",
+            "stage_context": "V02S08_poison_insect_charge_Tanghua_pending",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_action_distinct_viewpoint_inference_prior_history_conditional_learning_and_unresolved_battles",
+            "identity_boundary": "p39_direct_Xiaozi_Gu_only_not_Hongxiu_prior_alias_rows_frozen_p61_ChenXi_possibletypo_for_ChenXiao_LuoYou_not_LuoShengyi_Yingsha_alive_not_dead_local_shadowelder",
+            "power_boundary": "Zhang_defense_cost_and_fouraperture_assessment_Qi_Tongyou_rank_enemy_misread_Meng_microopen_not_true_gate_open_Goldbell5_not_entry_RedSun_evilcounter_not_omnitoxin_immunity_DuanQingjing_derived_not_fullrepeat",
+            "outcome_boundary": "no_new_death_or_merit_Fu_firestarter_not_proven_poisoncandle_Dandan_fate_unknown_Qi_twoenvoys_firstattack_misses_Tanghua_actual_launch_no_hit_or_finalresult",
+            "knowledge_boundary": "红袖短怔即回神、唐花实际发出，但无命中胜负和暗器具体机制，不加奖扣。",
+            "focalizer": "hong_xiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "红袖短怔即回神、唐花实际发出，但无命中胜负和暗器具体机制，不加奖扣。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v02-0016",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V02-S08",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 21,
+        "label": "首防成功与隐伏耐心、有限光源",
+        "direction": "涵洞先以滴水余响、微光和怪石压窄空间，非真鬼。张顾及观风不深走，Fu依衣的信赖与她主动提点火并存。螣蛇剑太极一圆护她挡短剑，金属一响后更静，张已防住却找不到影杀，眉心戒备耗大渐胀，不能演成从容稳赢。影杀天生夜视、失手退岩耐等；七日杀七窍属往事，指点他的可怕高手无名。16信条和18后段自信暂内语不外声喊破藏处。17Fu温婉甜美、20张低沉应允；口含物只是像，火折子已亮而暗影仍多，不能先给具体解药、七星毒烛点燃或影杀中毒结果。证据v02-c0016:p0001–p0021。"
+      },
+      {
+        "paragraph_start": 23,
+        "paragraph_end": 32,
+        "label": "齐以浑天应双遁与敌方误判",
+        "direction": "齐因浑天借异种天地能觉天候不对，但失路无策，不已知苏法。阳光突然刺目接短剑喉前，背后土起十指，均本地两通幽使者非地尊本人。两使自信必杀未成，白云遮场赤霞如莲把两攻击带空。32尊者惊疑归两使共享内语暂编组，不录齐自夸、不把浑天改成本地通幽双法或齐正式晋尊者。节奏从双面夹击转错愕，以一攻未中作悬念，未反杀两使。证据v02-c0016:p0023–p0032。"
+      },
+      {
+        "paragraph_start": 34,
+        "paragraph_end": 41,
+        "label": "顾身份明证与夏丹丹未决遇险",
+        "direction": "DD握鸳鸯刀背树按仇，以为敌也不能行动是她受限判断。娇笑报告作声效不添逐字，白裙女风沙驯服、空灵魅惑不染尘与DD沙哑艰难问名反差。39旁白直接小紫也就是顾小桑，足以将13–15白裙未决别名后证归顾；只确认该白裙者，不把红袖也并入。顾40悠然劝真空家乡，应有轻柔而确定的宗教邀请压迫，不能加DD同意、无生指实际打出、死亡扣100或具体空灵咒词。场停在亮与隐约声，未写输赢。证据v02-c0016:p0034–p0041。"
+      },
+      {
+        "paragraph_start": 43,
+        "paragraph_end": 57,
+        "label": "察异、刀法后证与高僧形象表演",
+        "direction": "陈罗以本地常识庆幸躲风，罗友赞师妹非罗胜衣。孟反疑魔教主、联想哭老人但48明确无其天地威百里末日之力；49眉心祖窍微启照原，不改成真生死玄关已开。尸体仍14死地方影长老、红日灭黑气非又杀影杀。51通幽疑问暂内语，想无患能学只是条件；52旁白补明前刀脱胎断清净，非完整原式叠舍身重发/阎罗帖学成。陈尊称问、孟为遮通幽无知竖掌佛语，语气可庄重外观而保留机灵动机，不把55罗的杀魔立场与56陈推己认成孟真实慈悲独白。陈两句赞及问刀被下场打断，未新教学。证据v02-c0016:p0043–p0057。"
+      },
+      {
+        "paragraph_start": 58,
+        "paragraph_end": 68,
+        "label": "预感验证后的屏息硬冲与唐花悬念",
+        "direction": "幻形预感本次转窗见细管雾得到验证，不永久全知。孟低喝小心并屏息金钟暗金，然后红日风神腿直冲，肩背撞窗的砰留声效；金钟挡渗与屏息需同时保留，不扩成万毒不侵。61陈曦疑连续人物陈潇，保原字列版本问题不新演员。虫阵少女68明红袖，不能因顾新认名混同。孟舍神行巧避直接踏虫，是急于速决的动作选择，硬功反弹咬并不证第五关入门，保留13嫌虫与14未入门历史。红袖短怔立即扣掌唐花真实发出，无暗器形制机制命中与胜负资料，不自行补爆炸毒针、孟伤亡或六道奖扣。证据v02-c0016:p0058–p0068。"
+      }
+    ],
+    "knowledge_rule": "只对白裙小紫追加顾的旁白明证，保留毒女红袖独立后证；齐通幽尊者是使者误判，孟佛语是遮无知、硬功不是五关已成；所有战线未决，唐花仅已发。"
+  }
 }

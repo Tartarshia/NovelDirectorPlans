@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [张符洞内防守与影杀耐心：首防后僵持](early-v02-Zhang-Fu-cave-defense-Yingsha-patience-unresolved.md) | 第二卷第16章历史归属回补 |
+| [齐的浑天应双遁：敌错认通幽尊者](early-v02-Qi-whitecloud-redlight-two-envoys-misread-Tongyou.md) | 第二卷第16章历史归属回补 |
+| [小紫身份旁白明证、顾与夏丹丹遭遇未决](early-v02-Xiaozi-directly-GuXiaosang-Dandan-encounter-not-resolved.md) | 第二卷第16章历史归属回补 |
 | [苏元英借风实效与代价、未名力量来源](early-v02-Su-borrowed-storm-actual-cost-unknown-power-source.md) | 第二卷第15章历史归属回补 |
 | [江与苏地尊：引雷夺轮、压制与未发阎罗帖](early-v02-Jiang-Dizun-thunder-redirection-Yanluotie-pending.md) | 第二卷第15章历史归属回补 |
 | [罗云近战：血伤与吸气并存、胜负未定](early-v02-Luo-Yun-fists-blood-and-unnamed-Qi-absorption-unresolved.md) | 第二卷第15章历史归属回补 |
