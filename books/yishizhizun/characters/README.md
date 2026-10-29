@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [假机会与真受创：冷静不等无痛](early-v02-false-escape-window-real-Dantian-and-right-hand-damage.md) | 第二卷第8章历史归属回补 |
+| [绿洲四侠：顾傅称谓、静信号与不同顾虑](early-v02-four-oasis-youths-Gu-Fu-and-silent-rescue-signal.md) | 第二卷第8章历史归属回补 |
+| [黑暗后女声：身份未名、治疗尚申请](early-v02-unidentified-female-after-blackout-healing-request-only.md) | 第二卷第8章历史归属回补 |
 | [被擒后的估值失算与不能传法](early-v02-capture-motive-misvaluation-no-private-Huanxing-teaching.md) | 第二卷第7章历史归属回补 |
 | [九娘的锋利、私纸预测与未知背景](early-v02-Qu-unsigned-note-forecast-not-battle-verdict.md) | 第二卷第7章历史归属回补 |
 | [哑俘所闻、师弟失迹报告与未完成冲穴](early-v02-muted-captive-Hui-report-and-coarse-unseal-attempt.md) | 第二卷第7章历史归属回补 |
