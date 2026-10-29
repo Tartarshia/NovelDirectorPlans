@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [实际赴会后非致命闯牢、两组守者与冰墙未名对象](early-duel-arrival-nonlethal-dungeon-two-guard-pairs-icewall.md) | 第74章历史归属回补 |
+| [尤子鼠崔辰龙当前身份、黑影概率与针秘密](early-You-Zishu-Cui-Chenlong-reveal-shadow-probability-needle-private.md) | 第74章历史归属回补 |
+| [视觉任务混入败而调查判成、新杀鼠龙支线未完成](early-visual-quest-infiltration-failed-secret-side150-new-kill60-120.md) | 第74章历史归属回补 |
 | [尤同光私人灭口揭示、混真诈供与地牢情报边界](early-You-private-correspondent-murder-not-Meng-heard-confession.md) | 第73章历史归属回补 |
 | [半日前谈判、实交抄图及董府井藏佛约定](early-halfday-flashback-map-copy-You-theft-Donggarden-well-plan.md) | 第73章历史归属回补 |
 | [实际请帖与白袍出尘、少年好面子仍在](early-Meng-actual-invitation-white-robe-four-follow-not-arrived.md) | 第73章历史归属回补 |
