@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [夏姐弟名形确认与探路者真实死亡](early-v02-Xia-siblings-current-mapping-scout-death-system100.md) | 第二卷第11章历史归属回补 |
+| [临时权力帮与罗的有效决断、协商摩擦](early-v02-Luo-temporary-PowerGang-effective-force-private-friction.md) | 第二卷第11章历史归属回补 |
+| [风云庄死讯与据尸识无生指的边界](early-v02-WindCloud-corpse-Wusheng-inference-not-seen-killer.md) | 第二卷第11章历史归属回补 |
 | [阎罗帖：自创剑的心意与尚未完成的教学](early-v02-Jiang-Yanluotie-selfcreated-sword-offer-not-mastered.md) | 第二卷第10章历史归属回补 |
 | [第五关秘籍与三友合借：购入不等修成](early-v02-Goldbell5-manual-cash-pool50-loans-J20-Q30-Z10.md) | 第二卷第10章历史归属回补 |
 | [罗胜衣三人与未建信任的阵营合作](early-v02-Luo-experienced-trio-guarded-alliance-camp-mission.md) | 第二卷第10章历史归属回补 |
