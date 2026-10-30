@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [门幻境的权力与关系不是现实履历](early-v02-gate-illusion-power-and-romance-not-real-history.md) | 第二卷第26章历史归属回补 |
+| [孟领悟落红尘、金钟五关入门与真愿](early-v02-Meng-LuoHongchen-insight-Goldbell5-entry-desire-choice.md) | 第二卷第26章历史归属回补 |
+| [真峰疲倦身影与未取石碑、迟到对象未明](early-v02-peak-fading-figure-weary-late-utterance-tablet-seen.md) | 第二卷第26章历史归属回补 |
 | [江剑出无我实杀、白虹受污与部分恢复](early-v02-Jiang-Jianchuwuwo-forced-cost-Baihong-corrosion-partial-recovery.md) | 第二卷第25章历史归属回补 |
 | [齐血湖退魔与未明真因、倒药装水一瓶](early-v02-Qi-bloodlake-demon-avoidance-cause-unknown-one-bottle.md) | 第二卷第25章历史归属回补 |
 | [孟小紫雷护路、陈尸与借四兵分神越守魔](early-v02-Meng-Xiaozi-thunderpath-Chen-corpse-guard-bypass-closeddoor.md) | 第二卷第25章历史归属回补 |
