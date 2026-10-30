@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [唐红袖全名、练毒痛与初遇回忆、死亡](early-v02-TangHongxiu-fullname-pain-memory-Yun-firstmeeting-death.md) | 第二卷第17章历史归属回补 |
+| [齐土昆仑本次实战、功法希望与资质阴影](early-v02-Qi-Tukunlun-now-actual-qualification-doubt-not-fullmastery.md) | 第二卷第17章历史归属回补 |
+| [符的藏烛击杀与留洞判断、张解药后证](early-v02-Fu-hidden-Qixingcandle-Yingsha-death-rescue-restraint.md) | 第二卷第17章历史归属回补 |
 | [张符洞内防守与影杀耐心：首防后僵持](early-v02-Zhang-Fu-cave-defense-Yingsha-patience-unresolved.md) | 第二卷第16章历史归属回补 |
 | [齐的浑天应双遁：敌错认通幽尊者](early-v02-Qi-whitecloud-redlight-two-envoys-misread-Tongyou.md) | 第二卷第16章历史归属回补 |
 | [小紫身份旁白明证、顾与夏丹丹遭遇未决](early-v02-Xiaozi-directly-GuXiaosang-Dandan-encounter-not-resolved.md) | 第二卷第16章历史归属回补 |
