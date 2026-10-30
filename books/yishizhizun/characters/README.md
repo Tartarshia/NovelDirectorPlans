@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [当前自认小紫：同体情态、知情与路线自保](early-v02-current-Xiaozi-samebody-shy-informed-route-leverage-unresolved.md) | 第二卷第24章历史归属回补 |
+| [白莲五候选、连环线索与未定位的天庭钥碑](early-v02-Bailian-fivecandidate-chainmission-boundarytablet-unknown-heaven.md) | 第二卷第24章历史归属回补 |
+| [孟不杀的两因、粗点穴与更强邪魔前的谨慎合作](early-v02-Meng-nonkill-two-motives-lowgrade-seals-stronger-demons.md) | 第二卷第24章历史归属回补 |
 | [四兵自行全解封、人尊持摘星与镇压非封印](early-v02-fourrelics-auto-unseal-Renzun-carrier-suppress-not-seal.md) | 第二卷第23章历史归属回补 |
 | [孟孤身强制抗侵、红日克邪的有限优势](early-v02-Meng-isolated-forced-corruption-resistance-Redsun-limits.md) | 第二卷第23章历史归属回补 |
 | [顾由厅内柔笑到白庙哭喜、变化原因未明](early-v02-Gu-hall-smile-to-weeping-master-call-state-unexplained.md) | 第二卷第23章历史归属回补 |
