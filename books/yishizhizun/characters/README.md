@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾两次击杀后威慑、识破阴灵与敌仍未知真名](early-v02-Gu-two-kills-Yinling-exposure-enemy-name-unknown.md) | 第二卷第19章历史归属回补 |
+| [罗主动担诱杀失误、张共同复盘与见识差异](early-v02-Luo-plan-accountability-Zhang-shared-learning-not-blame.md) | 第二卷第19章历史归属回补 |
+| [养邪神通论、魔气与四封印宝兵的推理界限](early-v02-Yangxieshen-teaching-demonqi-four-sealweapons-hypotheses.md) | 第二卷第19章历史归属回补 |
 | [江阎罗帖实发：躯杀、元神伤与地尊伤逃](early-v02-Jiang-Yanluotie-actual-bodykill-real-spiritwound-Dizun-escape.md) | 第二卷第18章历史归属回补 |
 | [苏由墨瞳血肉再现、另一侍女无名存活](early-v02-Su-body-return-Motong-death-other-maid-unnamed.md) | 第二卷第18章历史归属回补 |
 | [孟两件待鉴战利品、顾的占有威胁与四援会合](early-v02-Meng-two-loot-unknown-use-Gu-exclusive-threat-four-allies.md) | 第二卷第18章历史归属回补 |
