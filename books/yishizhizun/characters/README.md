@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟有真实贪念、断清净日常牵引与约束](early-v02-Meng-real-greed-DuanQingjing-daily-effects-task-restraint.md) | 第二卷第20章历史归属回补 |
+| [团队侧攻提醒与暗器知识互补](early-v02-team-sideattack-warning-dart-knowledge-complement.md) | 第二卷第20章历史归属回补 |
+| [古空山半信而行动、盟派猜忌与风暴警报](early-v02-GuKongshan-prudent-doubt-threeletters-allyrefusal-stormalarm.md) | 第二卷第20章历史归属回补 |
 | [顾两次击杀后威慑、识破阴灵与敌仍未知真名](early-v02-Gu-two-kills-Yinling-exposure-enemy-name-unknown.md) | 第二卷第19章历史归属回补 |
 | [罗主动担诱杀失误、张共同复盘与见识差异](early-v02-Luo-plan-accountability-Zhang-shared-learning-not-blame.md) | 第二卷第19章历史归属回补 |
 | [养邪神通论、魔气与四封印宝兵的推理界限](early-v02-Yangxieshen-teaching-demonqi-four-sealweapons-hypotheses.md) | 第二卷第19章历史归属回补 |
