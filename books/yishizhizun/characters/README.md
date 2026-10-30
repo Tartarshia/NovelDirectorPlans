@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [魔像花纹诱看与精神代价、未得真爪或拓印](early-v02-statue-pattern-seduction-spiritstrain-not-actual-claw-rubbing.md) | 第二卷第22章历史归属回补 |
+| [孟传音已受教实用、江神话知识的限度](early-v02-Meng-miyin-now-used-Jiang-myth-knowledge-limits.md) | 第二卷第22章历史归属回补 |
+| [陈李长老分工、密道守口与地尊尸推顾杀](early-v02-ChenLi-elders-passage-guard-Dizun-corpse-inferred-killer.md) | 第二卷第22章历史归属回补 |
 | [胡取摘星手与戚长老之死、四路携者未知](early-v02-Hu-Starglove-seizure-Qielder-death-fourway-carrier-unknown.md) | 第二卷第21章历史归属回补 |
 | [洛楼主、环夫人、守阙与四队追击、两老监视](early-v02-four-pursuits-Luolord-Huan-Shouque-monitoring-guides.md) | 第二卷第21章历史归属回补 |
 | [符张返、三根分烛与孟齐辨迹补课](early-v02-FuZhang-return-threecandles-tracking-gap-unnamed-ruins.md) | 第二卷第21章历史归属回补 |
