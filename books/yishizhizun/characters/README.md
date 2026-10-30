@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四兵自行全解封、人尊持摘星与镇压非封印](early-v02-fourrelics-auto-unseal-Renzun-carrier-suppress-not-seal.md) | 第二卷第23章历史归属回补 |
+| [孟孤身强制抗侵、红日克邪的有限优势](early-v02-Meng-isolated-forced-corruption-resistance-Redsun-limits.md) | 第二卷第23章历史归属回补 |
+| [顾由厅内柔笑到白庙哭喜、变化原因未明](early-v02-Gu-hall-smile-to-weeping-master-call-state-unexplained.md) | 第二卷第23章历史归属回补 |
 | [魔像花纹诱看与精神代价、未得真爪或拓印](early-v02-statue-pattern-seduction-spiritstrain-not-actual-claw-rubbing.md) | 第二卷第22章历史归属回补 |
 | [孟传音已受教实用、江神话知识的限度](early-v02-Meng-miyin-now-used-Jiang-myth-knowledge-limits.md) | 第二卷第22章历史归属回补 |
 | [陈李长老分工、密道守口与地尊尸推顾杀](early-v02-ChenLi-elders-passage-guard-Dizun-corpse-inferred-killer.md) | 第二卷第22章历史归属回补 |
