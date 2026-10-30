@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [胡取摘星手与戚长老之死、四路携者未知](early-v02-Hu-Starglove-seizure-Qielder-death-fourway-carrier-unknown.md) | 第二卷第21章历史归属回补 |
+| [洛楼主、环夫人、守阙与四队追击、两老监视](early-v02-four-pursuits-Luolord-Huan-Shouque-monitoring-guides.md) | 第二卷第21章历史归属回补 |
+| [符张返、三根分烛与孟齐辨迹补课](early-v02-FuZhang-return-threecandles-tracking-gap-unnamed-ruins.md) | 第二卷第21章历史归属回补 |
 | [孟有真实贪念、断清净日常牵引与约束](early-v02-Meng-real-greed-DuanQingjing-daily-effects-task-restraint.md) | 第二卷第20章历史归属回补 |
 | [团队侧攻提醒与暗器知识互补](early-v02-team-sideattack-warning-dart-knowledge-complement.md) | 第二卷第20章历史归属回补 |
 | [古空山半信而行动、盟派猜忌与风暴警报](early-v02-GuKongshan-prudent-doubt-threeletters-allyrefusal-stormalarm.md) | 第二卷第20章历史归属回补 |
