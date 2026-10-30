@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江剑出无我实杀、白虹受污与部分恢复](early-v02-Jiang-Jianchuwuwo-forced-cost-Baihong-corrosion-partial-recovery.md) | 第二卷第25章历史归属回补 |
+| [齐血湖退魔与未明真因、倒药装水一瓶](early-v02-Qi-bloodlake-demon-avoidance-cause-unknown-one-bottle.md) | 第二卷第25章历史归属回补 |
+| [孟小紫雷护路、陈尸与借四兵分神越守魔](early-v02-Meng-Xiaozi-thunderpath-Chen-corpse-guard-bypass-closeddoor.md) | 第二卷第25章历史归属回补 |
 | [当前自认小紫：同体情态、知情与路线自保](early-v02-current-Xiaozi-samebody-shy-informed-route-leverage-unresolved.md) | 第二卷第24章历史归属回补 |
 | [白莲五候选、连环线索与未定位的天庭钥碑](early-v02-Bailian-fivecandidate-chainmission-boundarytablet-unknown-heaven.md) | 第二卷第24章历史归属回补 |
 | [孟不杀的两因、粗点穴与更强邪魔前的谨慎合作](early-v02-Meng-nonkill-two-motives-lowgrade-seals-stronger-demons.md) | 第二卷第24章历史归属回补 |
