@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江阎罗帖实发：躯杀、元神伤与地尊伤逃](early-v02-Jiang-Yanluotie-actual-bodykill-real-spiritwound-Dizun-escape.md) | 第二卷第18章历史归属回补 |
+| [苏由墨瞳血肉再现、另一侍女无名存活](early-v02-Su-body-return-Motong-death-other-maid-unnamed.md) | 第二卷第18章历史归属回补 |
+| [孟两件待鉴战利品、顾的占有威胁与四援会合](early-v02-Meng-two-loot-unknown-use-Gu-exclusive-threat-four-allies.md) | 第二卷第18章历史归属回补 |
 | [唐红袖全名、练毒痛与初遇回忆、死亡](early-v02-TangHongxiu-fullname-pain-memory-Yun-firstmeeting-death.md) | 第二卷第17章历史归属回补 |
 | [齐土昆仑本次实战、功法希望与资质阴影](early-v02-Qi-Tukunlun-now-actual-qualification-doubt-not-fullmastery.md) | 第二卷第17章历史归属回补 |
 | [符的藏烛击杀与留洞判断、张解药后证](early-v02-Fu-hidden-Qixingcandle-Yingsha-death-rescue-restraint.md) | 第二卷第17章历史归属回补 |
