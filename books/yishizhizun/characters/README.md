@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [任务结算净额、分级额外与两类签池](early-v02-settlement-camp-net50-grades-and-lottery-bounds.md) | 第二卷第28章历史归属回补 |
+| [江的寻友、抽签少女喜悦与熟剑伙伴感](early-v02-Jiang-companion-sword-crystal-gengjin-repair-plan.md) | 第二卷第28章历史归属回补 |
+| [孟九剑与轮回符、隐去雷痕及私下开耳计划](early-v02-Meng-Dugu9-symbol-limited-sharing-private-earplan.md) | 第二卷第28章历史归属回补 |
 | [顾恢复武功、实取界碑与主动回归](early-v02-Gu-restored-attack-tablet-taken-chosen-return.md) | 第二卷第27章历史归属回补 |
 | [孟最后针实发与舍身落红尘尚未发动](early-v02-Meng-last-needle-DuanQingjing-unexecuted-SheShen-LuoHongchen.md) | 第二卷第27章历史归属回补 |
 | [雷精被动入体、耳相关九穴与五关近圆满](early-v02-Meng-passive-lightning-nine-related-earpoints-Goldbell5-nearcomplete.md) | 第二卷第27章历史归属回补 |
