@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾恢复武功、实取界碑与主动回归](early-v02-Gu-restored-attack-tablet-taken-chosen-return.md) | 第二卷第27章历史归属回补 |
+| [孟最后针实发与舍身落红尘尚未发动](early-v02-Meng-last-needle-DuanQingjing-unexecuted-SheShen-LuoHongchen.md) | 第二卷第27章历史归属回补 |
+| [雷精被动入体、耳相关九穴与五关近圆满](early-v02-Meng-passive-lightning-nine-related-earpoints-Goldbell5-nearcomplete.md) | 第二卷第27章历史归属回补 |
 | [门幻境的权力与关系不是现实履历](early-v02-gate-illusion-power-and-romance-not-real-history.md) | 第二卷第26章历史归属回补 |
 | [孟领悟落红尘、金钟五关入门与真愿](early-v02-Meng-LuoHongchen-insight-Goldbell5-entry-desire-choice.md) | 第二卷第26章历史归属回补 |
 | [真峰疲倦身影与未取石碑、迟到对象未明](early-v02-peak-fading-figure-weary-late-utterance-tablet-seen.md) | 第二卷第26章历史归属回补 |
