@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [长华知客与圆蒙遗信：五字问而未答](early-v02-Changhua-guestmonk-Yuanmeng-letter-Lingshan-question.md) | 第二卷第34章历史归属回补 |
+| [洛青半信、正面败刀与冷简陪练](early-v02-Luo-Qing-halfbelief-defeat-and-sword-coaching.md) | 第二卷第34章历史归属回补 |
+| [月余进展与最后七日、凝穴完而耳未开](early-v02-monthplus-progress-sevendays-earclosed-teaching-offer.md) | 第二卷第34章历史归属回补 |
 | [车婉秀坐战施压、欲景未写与武道互敬](early-v02-Che-seated-spar-realpressure-desireunknown-martial-respect.md) | 第二卷第33章历史归属回补 |
 | [落红尘波及旁观者、自身反噬与心性疑虑](early-v02-LuoHongchen-areaeffect-ownbacklash-desireconcern-unresolved.md) | 第二卷第33章历史归属回补 |
 | [孟坐战要面子有条件、实融刀与次早入寺](early-v02-Meng-seated-facechoice-bladeintegration-temple-arrival.md) | 第二卷第33章历史归属回补 |
