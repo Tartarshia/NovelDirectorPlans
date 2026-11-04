@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [常识授课与四人大礼、具体法门仍留界限](early-v02-permitted-principles-teaching-four-salutes-not-formaldisciples.md) | 第二卷第35章历史归属回补 |
+| [阎罗帖木剑实试：有进无退与未能收手](early-v02-Yanluotie-woodblade-realtrial-uncontrolled-browhit.md) | 第二卷第35章历史归属回补 |
+| [第49段自开耳成四窍、阎罗帖入门远逊江](early-v02-natural-earopening-fourapertures-Yanluo-entry-notfull.md) | 第二卷第35章历史归属回补 |
 | [长华知客与圆蒙遗信：五字问而未答](early-v02-Changhua-guestmonk-Yuanmeng-letter-Lingshan-question.md) | 第二卷第34章历史归属回补 |
 | [洛青半信、正面败刀与冷简陪练](early-v02-Luo-Qing-halfbelief-defeat-and-sword-coaching.md) | 第二卷第34章历史归属回补 |
 | [月余进展与最后七日、凝穴完而耳未开](early-v02-monthplus-progress-sevendays-earclosed-teaching-offer.md) | 第二卷第34章历史归属回补 |
