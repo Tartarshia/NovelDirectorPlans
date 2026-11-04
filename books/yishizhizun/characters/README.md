@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [落红尘实中与收力、段父子的欲景反应](early-v02-LuoHongchen-confirmed-restrained-hit-Duan-desirehurt.md) | 第二卷第32章历史归属回补 |
+| [十来日船行修炼与九剑未入门、买易补基础](early-v02-tenplusday-training-Dugu9-noentry-Yijing-foundation.md) | 第二卷第32章历史归属回补 |
+| [车婉秀初场：成熟低声、薄刀与末句真定](early-v02-Che-Wanxiu-lowvoice-thinblade-name-reveal-pending.md) | 第二卷第32章历史归属回补 |
 | [段善后报告与崔宫主嫁祸、两位崔家后续](early-v02-Duan-aftercase-report-Cui-palacelord-cover-not-truth.md) | 第二卷第31章历史归属回补 |
 | [幻形互授经验与理论、时间流速猜而未定](early-v02-Huanxing-mutual-coaching-time-ratio-unconfirmed.md) | 第二卷第31章历史归属回补 |
 | [雪神掌切磋：七幻三候选与暗金未穿](early-v02-Snowpalm-friendly-spar-sevenillusions-threecandidates.md) | 第二卷第31章历史归属回补 |
