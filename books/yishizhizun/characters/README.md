@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [车婉秀坐战施压、欲景未写与武道互敬](early-v02-Che-seated-spar-realpressure-desireunknown-martial-respect.md) | 第二卷第33章历史归属回补 |
+| [落红尘波及旁观者、自身反噬与心性疑虑](early-v02-LuoHongchen-areaeffect-ownbacklash-desireconcern-unresolved.md) | 第二卷第33章历史归属回补 |
+| [孟坐战要面子有条件、实融刀与次早入寺](early-v02-Meng-seated-facechoice-bladeintegration-temple-arrival.md) | 第二卷第33章历史归属回补 |
 | [落红尘实中与收力、段父子的欲景反应](early-v02-LuoHongchen-confirmed-restrained-hit-Duan-desirehurt.md) | 第二卷第32章历史归属回补 |
 | [十来日船行修炼与九剑未入门、买易补基础](early-v02-tenplusday-training-Dugu9-noentry-Yijing-foundation.md) | 第二卷第32章历史归属回补 |
 | [车婉秀初场：成熟低声、薄刀与末句真定](early-v02-Che-Wanxiu-lowvoice-thinblade-name-reveal-pending.md) | 第二卷第32章历史归属回补 |
