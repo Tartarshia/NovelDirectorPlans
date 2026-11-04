@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [段善后报告与崔宫主嫁祸、两位崔家后续](early-v02-Duan-aftercase-report-Cui-palacelord-cover-not-truth.md) | 第二卷第31章历史归属回补 |
+| [幻形互授经验与理论、时间流速猜而未定](early-v02-Huanxing-mutual-coaching-time-ratio-unconfirmed.md) | 第二卷第31章历史归属回补 |
+| [雪神掌切磋：七幻三候选与暗金未穿](early-v02-Snowpalm-friendly-spar-sevenillusions-threecandidates.md) | 第二卷第31章历史归属回补 |
 | [符接受援手与救人经实购、张补元神防线](early-v02-Fu-accepts-transfer-Jiurenjing-Zhang-spiritguard.md) | 第二卷第30章历史归属回补 |
 | [江十三剑与冰蚕靴、下次易容和罗的离场距离](early-v02-Jiang-Duoming13-iceboots-maskplan-Luo-departure.md) | 第二卷第30章历史归属回补 |
 | [孟实耗轮回符回天定城、段家重逢非飞升](early-v02-Meng-symbol-consumed-Tianding-Duan-reunion-notascension.md) | 第二卷第30章历史归属回补 |
