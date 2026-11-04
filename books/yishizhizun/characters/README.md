@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟清债与735实购、开耳保底仍计划](early-v02-Meng-debtclear-735-purchase-ear-plan-notdone.md) | 第二卷第29章历史归属回补 |
+| [雷痕私鉴九重钥与三次雷暴引雷限制](early-v02-lightningmark-key-three-stormcharges-private-identification.md) | 第二卷第29章历史归属回补 |
+| [齐碧冰雪实得与张符借款未成交](early-v02-Qi-Bibingxue-crystal-Zhang-Fu-loan-only-planned.md) | 第二卷第29章历史归属回补 |
 | [任务结算净额、分级额外与两类签池](early-v02-settlement-camp-net50-grades-and-lottery-bounds.md) | 第二卷第28章历史归属回补 |
 | [江的寻友、抽签少女喜悦与熟剑伙伴感](early-v02-Jiang-companion-sword-crystal-gengjin-repair-plan.md) | 第二卷第28章历史归属回补 |
 | [孟九剑与轮回符、隐去雷痕及私下开耳计划](early-v02-Meng-Dugu9-symbol-limited-sharing-private-earplan.md) | 第二卷第28章历史归属回补 |
