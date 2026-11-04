@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [符接受援手与救人经实购、张补元神防线](early-v02-Fu-accepts-transfer-Jiurenjing-Zhang-spiritguard.md) | 第二卷第30章历史归属回补 |
+| [江十三剑与冰蚕靴、下次易容和罗的离场距离](early-v02-Jiang-Duoming13-iceboots-maskplan-Luo-departure.md) | 第二卷第30章历史归属回补 |
+| [孟实耗轮回符回天定城、段家重逢非飞升](early-v02-Meng-symbol-consumed-Tianding-Duan-reunion-notascension.md) | 第二卷第30章历史归属回补 |
 | [孟清债与735实购、开耳保底仍计划](early-v02-Meng-debtclear-735-purchase-ear-plan-notdone.md) | 第二卷第29章历史归属回补 |
 | [雷痕私鉴九重钥与三次雷暴引雷限制](early-v02-lightningmark-key-three-stormcharges-private-identification.md) | 第二卷第29章历史归属回补 |
 | [齐碧冰雪实得与张符借款未成交](early-v02-Qi-Bibingxue-crystal-Zhang-Fu-loan-only-planned.md) | 第二卷第29章历史归属回补 |
