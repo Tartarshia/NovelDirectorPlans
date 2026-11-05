@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黄符真在未入会、沈石尾款与榜预期](early-v02-talisman-real-kept-Shen-tailpaid-refund2-futurefame.md) | 第二卷第53章历史归属回补 |
+| [弘能清越迎客：一庙大半年、四十九座愿未完](early-v02-Hong-Neng-clearvoice-one-temple-halfyear-vow49.md) | 第二卷第53章历史归属回补 |
+| [沙暴限制、慧先见灯与真观入庙止相认](early-v02-sandstorm-Goldbell-limits-Hui-firstlight-Zhenguan-entry.md) | 第二卷第53章历史归属回补 |
 | [救慧真实落实、雷额外耗精与一丹后余一](early-v02-Hui-rescue-thunder-exhaustion-one-Yuanhunpill-left1.md) | 第二卷第52章历史归属回补 |
 | [白霸征识四窍借雷仍不赌、众威慑层次](early-v02-Bai-knows-four-borrowed-thunder-refuses-gamble.md) | 第二卷第52章历史归属回补 |
 | [谢真出城与船渡、匿名组织邀而未誓](early-v02-Xie-real-cityexit-boat-unpaidtail-anonymous-invitation.md) | 第二卷第52章历史归属回补 |
