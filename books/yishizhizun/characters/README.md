@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [盖远一刀气绝、雷威不等引雷与严重反噬](early-v02-Gai-oneblade-kill-aura-not-stormcharge-severe-recoil.md) | 第二卷第37章历史归属回补 |
+| [秘籍售476、买书400左技70开瓶10后余1](early-v02-manualsale476-Goldbell6book400-left70-openbottle10-balance1.md) | 第二卷第37章历史归属回补 |
+| [低左手不双持、休足伪伤与回庙布置](early-v02-low-leftskill-not-dualwield-free-injurydisguise-temple-return.md) | 第二卷第37章历史归属回补 |
 | [数日稳耳与药开眼隐患的补足](early-v02-earstabilised-repairs-forcedeye-risk-afterdays.md) | 第二卷第36章历史归属回补 |
 | [三份回礼：车怕拒、洛冷简、段顾面子](early-v02-three-separate-thankyou-gifts-Rongxue-Luonotes-Bingque.md) | 第二卷第36章历史归属回补 |
 | [盖远信由孟念、三藏新讯与未开战的满场](early-v02-Gai-letter-readbyMeng-three-storehouses-precombat-crowd.md) | 第二卷第36章历史归属回补 |
