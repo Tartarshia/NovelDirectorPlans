@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [谢酒鬼：声誉传闻、五千退路与忠资订金](early-v02-Xie-Jiugui-broker5000-2000advance-quarterhour-notice.md) | 第二卷第49章历史归属回补 |
+| [顾军师形象：孟授意与真地方知识并用](early-v02-Gu-strategist-cover-Zhong-jade-and-funded-exit.md) | 第二卷第49章历史归属回补 |
+| [剑痴名声退人、顾的假想女声不能分错](early-v02-swordfan-role-repels-woman-Gu-hypothetical-mimic.md) | 第二卷第49章历史归属回补 |
 | [元孟支与都末：缩编押送、五日鱼海计划限敌侧](early-v02-Yuan9-Dumo7-escort-only-five-day-Yuhai-enemyplan.md) | 第二卷第48章历史归属回补 |
 | [鱼海红尘新悟、白九窍交游与王六窍未死](early-v02-Yuhai-red-dust-insight-Bai9-Wang6-neckscratch.md) | 第二卷第48章历史归属回补 |
 | [顾避两女匪与孟玩笑、尚未揭妙法](early-v02-Gu-unwanted-courting-Meng-tease-method-notyet.md) | 第二卷第48章历史归属回补 |
