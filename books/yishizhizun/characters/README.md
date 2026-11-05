@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [夜路三类战果：双鬼逃、莫成亡、胖僧倒](early-v03-night-doubleghosts-escape-Mo-cliffdeath-fatmonk-down.md) | 第三卷第7章历史归属回补 |
+| [置空使之死与不完整阎罗帖化剑](early-v03-Zhikong-actualkill-incomplete-Yanluo-Dugu-fusion.md) | 第三卷第7章历史归属回补 |
+| [华纶介绍赶不上战果与孟旧声记忆](early-v03-Hua-interrupted-reports-private-warning-recalled-Meng-voice.md) | 第三卷第7章历史归属回补 |
 | [华纶令牌验证与事后证人的限度](early-v03-Hua-token-identity-not-plotproof-Meng-witness-limit.md) | 第三卷第6章历史归属回补 |
 | [黑神掌排劲、保留戒备与恢复限度](early-v03-BlackGodpalm-detox-rightsword-leftpalm-not-fullrecovery.md) | 第三卷第6章历史归属回补 |
 | [九窍父亲与全派计划、三日观石的条件](early-v03-fathersect-rescue-plan-conditional-three-day-stone-reward.md) | 第三卷第6章历史归属回补 |

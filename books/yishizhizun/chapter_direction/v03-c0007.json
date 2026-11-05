@@ -51,7 +51,1954 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0025"
+  "reading_batch": "batch-0025",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v03-0007",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v03-0007.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v03-c0007:p0001",
+        "length": 39,
+        "sha256": "af4af7672aa09b27ba6aed6951c477c59060e6b96332fb06d9a0f29c4792b5f9",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0001:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实背华风神腿走回秦山最近路，非华已复能自跑。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟实背华风神腿走回秦山最近路，非华已复能自跑。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实背华风神腿走回秦山最近路，非华已复能自跑。"
+      },
+      {
+        "reference": "v03-c0007:p0002",
+        "length": 139,
+        "sha256": "a6ca4cbdaf1a0e5c749ad48c341cc26d6347002779d9fdf0ed8b65f59323c4bd",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0002:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "轻功不错引号是华暗赞内非实口；捕风捉影风神腿当前实用，孟4或6为华估非真六，焦虑非源孟已大意。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "editorial_private_view_counterfactual_or_recalled_voice_not_current_publicspeech",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "轻功不错引号是华暗赞内非实口；捕风捉影风神腿当前实用，孟4或6为华估非真六，焦虑非源孟已大意。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0002:u002",
+            "start": 14,
+            "end": 139,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "轻功不错引号是华暗赞内非实口；捕风捉影风神腿当前实用，孟4或6为华估非真六，焦虑非源孟已大意。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "轻功不错引号是华暗赞内非实口；捕风捉影风神腿当前实用，孟4或6为华估非真六，焦虑非源孟已大意。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "轻功不错引号是华暗赞内非实口；捕风捉影风神腿当前实用，孟4或6为华估非真六，焦虑非源孟已大意。"
+      },
+      {
+        "reference": "v03-c0007:p0003",
+        "length": 46,
+        "sha256": "2380479db8d7536b747dad187070c7a6070709ff0e6e6010441571154d613aab",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0003:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "庆幸想道与后能跑按华内判断，不源保证任何敌都能逃。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "editorial_private_view_counterfactual_or_recalled_voice_not_current_publicspeech",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "庆幸想道与后能跑按华内判断，不源保证任何敌都能逃。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0003:u002",
+            "start": 10,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "庆幸想道与后能跑按华内判断，不源保证任何敌都能逃。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "庆幸想道与后能跑按华内判断，不源保证任何敌都能逃。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0003:u003",
+            "start": 18,
+            "end": 46,
+            "kind": "inner_speech",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "庆幸想道与后能跑按华内判断，不源保证任何敌都能逃。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "editorial_private_view_counterfactual_or_recalled_voice_not_current_publicspeech",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "庆幸想道与后能跑按华内判断，不源保证任何敌都能逃。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "庆幸想道与后能跑按华内判断，不源保证任何敌都能逃。"
+      },
+      {
+        "reference": "v03-c0007:p0004",
+        "length": 39,
+        "sha256": "95c2153a85cc856a8a2c8d798727d82935dc9059bde2c53ffa4c2a14ea4a6fa5",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0004:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "源明确孟四窍全运眼耳戒备，豪情非失谨慎，不新开窍。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "源明确孟四窍全运眼耳戒备，豪情非失谨慎，不新开窍。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "源明确孟四窍全运眼耳戒备，豪情非失谨慎，不新开窍。"
+      },
+      {
+        "reference": "v03-c0007:p0005",
+        "length": 31,
+        "sha256": "bc41a76be853a85019c4d1f9600e3f7cdf5eef3d387b30905dea9bab6685453f",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0005:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "山石怪物是夜色比喻，不真林妖新怪物。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "山石怪物是夜色比喻，不真林妖新怪物。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "山石怪物是夜色比喻，不真林妖新怪物。"
+      },
+      {
+        "reference": "v03-c0007:p0006",
+        "length": 41,
+        "sha256": "24a2c2737b24505036bdad1185ef96351158e5e640241abb8fa17dbbd722e4ba",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0006:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两影左右夹击上下一实攻击未点名，非已经杀孟。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "两影左右夹击上下一实攻击未点名，非已经杀孟。",
+            "focalizer": "v03c7_Zhoushan_doubleghosts",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两影左右夹击上下一实攻击未点名，非已经杀孟。"
+      },
+      {
+        "reference": "v03-c0007:p0007",
+        "length": 18,
+        "sha256": "934ec93f5100cec94b5adae47a1c5e29599da468aea3d194a3f6f87b4ffc9a30",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0007:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "小心是华真实警告不是孟SFX。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "小心是华真实警告不是孟SFX。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0007:u002",
+            "start": 5,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "小心是华真实警告不是孟SFX。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "小心是华真实警告不是孟SFX。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "小心是华真实警告不是孟SFX。"
+      },
+      {
+        "reference": "v03-c0007:p0008",
+        "length": 54,
+        "sha256": "c63a5f2fdc14d5ea63eccffd4a5db116ee8fcda496e58918b2f01b9603444a87",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0008:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "醉汉剑法像而非孟真醉，首交叮叮身体器械声N二人退仍拦未败走。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "醉汉剑法像而非孟真醉，首交叮叮身体器械声N二人退仍拦未败走。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "醉汉剑法像而非孟真醉，首交叮叮身体器械声N二人退仍拦未败走。"
+      },
+      {
+        "reference": "v03-c0007:p0009",
+        "length": 56,
+        "sha256": "8f8a28a0738fbf18f98b5d1bbf925ee1eee67f0b3f61cf2cbf0d098685d4365c",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0009:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑白披发如鬼是两活教徒，锁棍特殊钩非真冤魂两个。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "黑白披发如鬼是两活教徒，锁棍特殊钩非真冤魂两个。",
+            "focalizer": "v03c7_Zhoushan_doubleghosts",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑白披发如鬼是两活教徒，锁棍特殊钩非真冤魂两个。"
+      },
+      {
+        "reference": "v03-c0007:p0010",
+        "length": 44,
+        "sha256": "8643b819a415e73cc27523a6637a8edf83649621ac0f98194109c40737a3069a",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0010:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华明确传音双鬼四窍锁棍夺兵，非公开空气大喊给敌听。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华明确传音双鬼四窍锁棍夺兵，非公开空气大喊给敌听。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0010:u002",
+            "start": 16,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华明确传音双鬼四窍锁棍夺兵，非公开空气大喊给敌听。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "Hua_private_transmission_explicit_p10_continuation_editorial_p14_p17first",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华明确传音双鬼四窍锁棍夺兵，非公开空气大喊给敌听。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华明确传音双鬼四窍锁棍夺兵，非公开空气大喊给敌听。"
+      },
+      {
+        "reference": "v03-c0007:p0011",
+        "length": 21,
+        "sha256": "4869db701be80980ed51764b47ca20399144cca216919c32a7d3923554353d76",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0011:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "解释提高胜率是N善意目的，不华干扰害孟。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "解释提高胜率是N善意目的，不华干扰害孟。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "解释提高胜率是N善意目的，不华干扰害孟。"
+      },
+      {
+        "reference": "v03-c0007:p0012",
+        "length": 29,
+        "sha256": "67ca2b4de57f7fbc30f0ae3aa79df205cd76779c9b3a52b01be394cf3500dbf1",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0012:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "双方前扑碰实短时，不等华已能讲完整长履历再交。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "双方前扑碰实短时，不等华已能讲完整长履历再交。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "双方前扑碰实短时，不等华已能讲完整长履历再交。"
+      },
+      {
+        "reference": "v03-c0007:p0013",
+        "length": 25,
+        "sha256": "9a8897ff17ff0f6361e210bdffdb6b9543d8f376846ffb3eee3f8d1b5a7ce065",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0013:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "一钩剑另当头真实组合威胁，不锁棍已夺孟剑。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "一钩剑另当头真实组合威胁，不锁棍已夺孟剑。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "一钩剑另当头真实组合威胁，不锁棍已夺孟剑。"
+      },
+      {
+        "reference": "v03-c0007:p0014",
+        "length": 21,
+        "sha256": "85bfc90a94788ec3c9b91d719589943bb6fcea08aaaa02e1dc4447cc27b421e4",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0014:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华续前传音述联手曾胜六是旧战报告，不本场已新增孟六窍。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "Hua_private_transmission_explicit_p10_continuation_editorial_p14_p17first",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华续前传音述联手曾胜六是旧战报告，不本场已新增孟六窍。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华续前传音述联手曾胜六是旧战报告，不本场已新增孟六窍。"
+      },
+      {
+        "reference": "v03-c0007:p0015",
+        "length": 63,
+        "sha256": "453695a3075617ce229d0e398ef15d9b1487335bded249e729f767ac905a7a63",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0015:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟主动入钩抓旧尽新未生搅飞撞另棍具体巧，不凭力直接斩人两半。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟主动入钩抓旧尽新未生搅飞撞另棍具体巧，不凭力直接斩人两半。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟主动入钩抓旧尽新未生搅飞撞另棍具体巧，不凭力直接斩人两半。"
+      },
+      {
+        "reference": "v03-c0007:p0016",
+        "length": 40,
+        "sha256": "cd95f01d9d7641106fe97a8f3f5dd693fc2ddc63bab65aa5419f754867968727",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0016:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "双刺面惨叫捂面逃两活，不写确死亡或追斩，源没明确是否失明。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "双刺面惨叫捂面逃两活，不写确死亡或追斩，源没明确是否失明。",
+            "focalizer": "v03c7_Zhoushan_doubleghosts",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "双刺面惨叫捂面逃两活，不写确死亡或追斩，源没明确是否失明。"
+      },
+      {
+        "reference": "v03-c0007:p0017",
+        "length": 44,
+        "sha256": "04351924e15ce33c8f266430982e3cd6183aeff31e2908c0eadb3d964f56dc83",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0017:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华据说未完续前传音暂选、后赞声空气口，胜利截断信息非他故意不讲；保通道复议。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "Hua_private_transmission_explicit_p10_continuation_editorial_p14_p17first",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华据说未完续前传音暂选、后赞声空气口，胜利截断信息非他故意不讲；保通道复议。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0017:u002",
+            "start": 6,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华据说未完续前传音暂选、后赞声空气口，胜利截断信息非他故意不讲；保通道复议。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华据说未完续前传音暂选、后赞声空气口，胜利截断信息非他故意不讲；保通道复议。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0017:u003",
+            "start": 34,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华据说未完续前传音暂选、后赞声空气口，胜利截断信息非他故意不讲；保通道复议。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华据说未完续前传音暂选、后赞声空气口，胜利截断信息非他故意不讲；保通道复议。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华据说未完续前传音暂选、后赞声空气口，胜利截断信息非他故意不讲；保通道复议。"
+      },
+      {
+        "reference": "v03-c0007:p0018",
+        "length": 70,
+        "sha256": "f7556268f4d89648872bde8c481ac286594170b4ca18ece50cd8590b20ad5d72",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0018:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi_actual_fourapertures_Goldbell5_carrier",
+            "text_context": "孟谦口不追二人继续；此处以孟行向右壁左崖，后莫右崖因相向不用写地理错误。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "Fengshentui_watchful_Dugu_wristthroat_shoulder_cliff_kills_Mo_incomplete_Yanluo_fused_kills_Zhikong_no_thunder",
+            "delivery": "calm_modest_reply_confident_moving_then_light_teasing_not_contempt",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟谦口不追二人继续；此处以孟行向右壁左崖，后莫右崖因相向不用写地理错误。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0018:u002",
+            "start": 6,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟谦口不追二人继续；此处以孟行向右壁左崖，后莫右崖因相向不用写地理错误。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_doubleghost_lockstaffs_disarmed_facehurt_escape_not_dead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟谦口不追二人继续；此处以孟行向右壁左崖，后莫右崖因相向不用写地理错误。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟谦口不追二人继续；此处以孟行向右壁左崖，后莫右崖因相向不用写地理错误。"
+      },
+      {
+        "reference": "v03-c0007:p0019",
+        "length": 58,
+        "sha256": "f933adb1712176e6d96eacc5e4f8c6f2694ab91b0d12ab7eb80959d95ad391cb",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0019:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "抱剑冷看缓迎未偷袭是莫真实态，不给他已说长篇口。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "抱剑冷看缓迎未偷袭是莫真实态，不给他已说长篇口。",
+            "focalizer": "mo_cheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "抱剑冷看缓迎未偷袭是莫真实态，不给他已说长篇口。"
+      },
+      {
+        "reference": "v03-c0007:p0020",
+        "length": 83,
+        "sha256": "4874b9f34443a167b6ee6c4a0626aa8af350f8874ce96e6c7874bc7ae2eb35a4",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0020:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华报听雷莫成6或7不确七，冷傲不围偷为其认知；听雷非施放真实雷电。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华报听雷莫成6或7不确七，冷傲不围偷为其认知；听雷非施放真实雷电。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0020:u002",
+            "start": 57,
+            "end": 83,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华报听雷莫成6或7不确七，冷傲不围偷为其认知；听雷非施放真实雷电。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华报听雷莫成6或7不确七，冷傲不围偷为其认知；听雷非施放真实雷电。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华报听雷莫成6或7不确七，冷傲不围偷为其认知；听雷非施放真实雷电。"
+      },
+      {
+        "reference": "v03-c0007:p0021",
+        "length": 65,
+        "sha256": "533639ce14322d72e6293f0ea47210be7d7955104b3472ae1962a07a9b48ae92",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0021:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华实际快报未讲完剑法特色，不旁白把整段安排成暂停战斗讲课。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华实际快报未讲完剑法特色，不旁白把整段安排成暂停战斗讲课。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0021:u002",
+            "start": 56,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华实际快报未讲完剑法特色，不旁白把整段安排成暂停战斗讲课。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华实际快报未讲完剑法特色，不旁白把整段安排成暂停战斗讲课。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华实际快报未讲完剑法特色，不旁白把整段安排成暂停战斗讲课。"
+      },
+      {
+        "reference": "v03-c0007:p0022",
+        "length": 26,
+        "sha256": "5bb5a1c42824ed4443e64adeb8ae760d97e1081913275c96e0e3e2318f075360",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0022:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫快剑风雷声是技势非孟释放雷痕或天雷。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "莫快剑风雷声是技势非孟释放雷痕或天雷。",
+            "focalizer": "mo_cheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫快剑风雷声是技势非孟释放雷痕或天雷。"
+      },
+      {
+        "reference": "v03-c0007:p0023",
+        "length": 15,
+        "sha256": "1c5b0bad025b7d4436958418f49e6f61b1c15eb86cd2bf8dc7a18f0c3979ec23",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0023:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "听雷一等快剑是华续说明实口不是莫自报招式。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "听雷一等快剑是华续说明实口不是莫自报招式。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "听雷一等快剑是华续说明实口不是莫自报招式。"
+      },
+      {
+        "reference": "v03-c0007:p0024",
+        "length": 35,
+        "sha256": "8c1f556392b377e9ad4c09b6344e4a7f62a1557a43ef9d9f4e8f12ceaf8fd228",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0024:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟反攻腕后发先至剑路，未这里已刺穿腕废手。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟反攻腕后发先至剑路，未这里已刺穿腕废手。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟反攻腕后发先至剑路，未这里已刺穿腕废手。"
+      },
+      {
+        "reference": "v03-c0007:p0025",
+        "length": 55,
+        "sha256": "5b4f94cbee8bf7b7fe62cf2954ae1a3f075b28e7aab890ef071c6208d78539c2",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0025:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫若不改则腕伤为条件，不当前真腕已破。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "莫若不改则腕伤为条件，不当前真腕已破。",
+            "focalizer": "mo_cheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫若不改则腕伤为条件，不当前真腕已破。"
+      },
+      {
+        "reference": "v03-c0007:p0026",
+        "length": 46,
+        "sha256": "1e879f0611d6fd1d0c5c4ac390b1d564f0b9441c0829bafdddc7e29ac5a5ae08",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0026:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟变向喉逼破莫防，不真实剑长改变或喉已穿。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟变向喉逼破莫防，不真实剑长改变或喉已穿。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟变向喉逼破莫防，不真实剑长改变或喉已穿。"
+      },
+      {
+        "reference": "v03-c0007:p0027",
+        "length": 25,
+        "sha256": "0319e62ef70636325c4fcfa509d4a91274f0152e72cf85721c5a5da65577b12a",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0027:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫连退两步避范围真实，非还招刀口已中孟。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "莫连退两步避范围真实，非还招刀口已中孟。",
+            "focalizer": "mo_cheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫连退两步避范围真实，非还招刀口已中孟。"
+      },
+      {
+        "reference": "v03-c0007:p0028",
+        "length": 45,
+        "sha256": "5e00947f272f5de6375d05cf87b8138f375d9f6591f2ea93565dada6d7ce6c2f",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0028:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟料先跟进距恒是步法控制，不瞬间静止时空神通。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟料先跟进距恒是步法控制，不瞬间静止时空神通。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟料先跟进距恒是步法控制，不瞬间静止时空神通。"
+      },
+      {
+        "reference": "v03-c0007:p0029",
+        "length": 30,
+        "sha256": "8748f67f497a633c366761ef4fa1fe2e51534d9971635164e9164840dff1f351",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0029:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华呆停止描述是反应，他还全程背上不是下地助战。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华呆停止描述是反应，他还全程背上不是下地助战。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华呆停止描述是反应，他还全程背上不是下地助战。"
+      },
+      {
+        "reference": "v03-c0007:p0030",
+        "length": 44,
+        "sha256": "09fb532184f5fe8f629c87190639dfd25272cd84819f5dd6944926566344b390",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0030:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫求以命换喘息有目的反击，未真刺中孟喉或两败俱伤。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "莫求以命换喘息有目的反击，未真刺中孟喉或两败俱伤。",
+            "focalizer": "mo_cheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫求以命换喘息有目的反击，未真刺中孟喉或两败俱伤。"
+      },
+      {
+        "reference": "v03-c0007:p0031",
+        "length": 28,
+        "sha256": "0a40e418f06b31a244a439b08af458ae9149f10a65f09ccfd9a4a4fcabac40ae",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0031:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "mo_cheng",
+            "surface_identity": "mo_cheng_Tingleijian_6or7_Hua_report",
+            "text_context": "只要不愿同归就能缓为莫内算盘，非已达效果或实际说出口谈判。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "editorial_private_view_counterfactual_or_recalled_voice_not_current_publicspeech",
+            "embodiment": "actual_fast_sword_forced_defense_mutualkill_gamble_failed_shoulder_hit_cliff_source_death",
+            "delivery": "private_life_for_breath_gamble_not_actual_negotiation",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "只要不愿同归就能缓为莫内算盘，非已达效果或实际说出口谈判。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "只要不愿同归就能缓为莫内算盘，非已达效果或实际说出口谈判。"
+      },
+      {
+        "reference": "v03-c0007:p0032",
+        "length": 77,
+        "sha256": "4e5d7c5dbfd82f35179bcd66ccb26b579268f19ee8ff64d4564b129c0c6a75bc",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0032:u001",
+            "start": 0,
+            "end": 77,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟剑身重拍左肩失衡使莫剑偏未中己，不宴场拍腕卸剑无杀伤的同样结局。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟剑身重拍左肩失衡使莫剑偏未中己，不宴场拍腕卸剑无杀伤的同样结局。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟剑身重拍左肩失衡使莫剑偏未中己，不宴场拍腕卸剑无杀伤的同样结局。"
+      },
+      {
+        "reference": "v03-c0007:p0033",
+        "length": 36,
+        "sha256": "da54c2faa858279ba8e0302a7a77d1c681f5fc8b04870bf90034b2f1eb4d2ef6",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0033:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫相向右是悬崖真实跌云雾叫，空间不可照搬孟右壁反定错误。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "莫相向右是悬崖真实跌云雾叫，空间不可照搬孟右壁反定错误。",
+            "focalizer": "mo_cheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫相向右是悬崖真实跌云雾叫，空间不可照搬孟右壁反定错误。"
+      },
+      {
+        "reference": "v03-c0007:p0034",
+        "length": 43,
+        "sha256": "27566a16d5e5aa1b3073d56f2da8ac1c297a14315aaf48a74dc566bbb31ea03d",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0034:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙述明确几息败亡支持莫死亡，不只失踪或善意切磋留命。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "叙述明确几息败亡支持莫死亡，不只失踪或善意切磋留命。",
+            "focalizer": "mo_cheng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙述明确几息败亡支持莫死亡，不只失踪或善意切磋留命。"
+      },
+      {
+        "reference": "v03-c0007:p0035",
+        "length": 14,
+        "sha256": "a99901a5c944716f1768f98284a73baecb9547057113d607ad3e33729a718acc",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0035:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华沉默不知说什么为N不新噤声术。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华沉默不知说什么为N不新噤声术。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华沉默不知说什么为N不新噤声术。"
+      },
+      {
+        "reference": "v03-c0007:p0036",
+        "length": 17,
+        "sha256": "9c148b17099a86b8b28fe0a51e69fe396aa7457b2d6821b1486fe076bbd56e58",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0036:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟不耽搁实急行，不停崖下验尸搜钱。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Mo_fast_sword_shoulder_hit_cliff_source_death",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟不耽搁实急行，不停崖下验尸搜钱。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟不耽搁实急行，不停崖下验尸搜钱。"
+      },
+      {
+        "reference": "v03-c0007:p0037",
+        "length": 44,
+        "sha256": "88b20bd68cdd73c3c706ca47203ea7f9563f03d6ca61f2c12da845f845e57fc3",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0037:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "窄两人侧过如平地是身法优势，非路真变宽或变平。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "窄两人侧过如平地是身法优势，非路真变宽或变平。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "窄两人侧过如平地是身法优势，非路真变宽或变平。"
+      },
+      {
+        "reference": "v03-c0007:p0038",
+        "length": 65,
+        "sha256": "b417b06f608da901a9dcca09c857f38a1c9c8005e29e6ebf55b8f9d2e8cfd244",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0038:u001",
+            "start": 0,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华孟都眼窍见前人、惨叫引援为叙述局势；不由此知对方真姓名。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华孟都眼窍见前人、惨叫引援为叙述局势；不由此知对方真姓名。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华孟都眼窍见前人、惨叫引援为叙述局势；不由此知对方真姓名。"
+      },
+      {
+        "reference": "v03-c0007:p0039",
+        "length": 46,
+        "sha256": "3f9cb1a49c399eca51b3ad35285ace6f2c70d8562a81006b87035c81a0e1db5f",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0039:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华认打伤己同一置空至少7，强于莫是华判断；置空仍职级无姓名。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华认打伤己同一置空至少7，强于莫是华判断；置空仍职级无姓名。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0039:u002",
+            "start": 11,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华认打伤己同一置空至少7，强于莫是华判断；置空仍职级无姓名。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华认打伤己同一置空至少7，强于莫是华判断；置空仍职级无姓名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华认打伤己同一置空至少7，强于莫是华判断；置空仍职级无姓名。"
+      },
+      {
+        "reference": "v03-c0007:p0040",
+        "length": 39,
+        "sha256": "ebb09a19606903617bfa33926ca7710ea95cbaa46756e564cda9839ce8ea769a",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0040:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华畏惧提醒准备述特异，非已把双重劲说明讲完。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华畏惧提醒准备述特异，非已把双重劲说明讲完。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华畏惧提醒准备述特异，非已把双重劲说明讲完。"
+      },
+      {
+        "reference": "v03-c0007:p0041",
+        "length": 49,
+        "sha256": "e00e03a30b70b77299858416dda18574971b273f8bb6d5a6781001a2e1b472ea",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0041:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟两息急冲歪剑貌不懂只是外观，不真的遗忘武功。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟两息急冲歪剑貌不懂只是外观，不真的遗忘武功。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟两息急冲歪剑貌不懂只是外观，不真的遗忘武功。"
+      },
+      {
+        "reference": "v03-c0007:p0042",
+        "length": 21,
+        "sha256": "a3f8df770871be0c37569d451c34555aa14f8c96aa925ac925ad2f789b96192c",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0042:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华真实说明左侧破绽引敌，是敌惯招报告不孟必上当。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华真实说明左侧破绽引敌，是敌惯招报告不孟必上当。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华真实说明左侧破绽引敌，是敌惯招报告不孟必上当。"
+      },
+      {
+        "reference": "v03-c0007:p0043",
+        "length": 36,
+        "sha256": "c4787f7fd22c041fba2cc34556611193a0b6206e8d1ec05bc4cc93ca04d54b04",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0043:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "置空愣错掌欲拍剑非已经掌击孟致伤。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "置空愣错掌欲拍剑非已经掌击孟致伤。",
+            "focalizer": "v03c7_unnamed_Zhikong_attacker",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "置空愣错掌欲拍剑非已经掌击孟致伤。"
+      },
+      {
+        "reference": "v03-c0007:p0044",
+        "length": 35,
+        "sha256": "55463fed6ba4c8b531cf055a67e3a226f2e3ea154f04a9cb65953902d0487fd4",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0044:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟横剑拍掌借力飞剑明净是真组合，不被掌打死后魂飞。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟横剑拍掌借力飞剑明净是真组合，不被掌打死后魂飞。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟横剑拍掌借力飞剑明净是真组合，不被掌打死后魂飞。"
+      },
+      {
+        "reference": "v03-c0007:p0045",
+        "length": 49,
+        "sha256": "64c24e58ce677197c5b4812d16c47b9be243e9c43aa158a78cf0ae3f3f664c76",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0045:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华右手两重话未完后孟飞过落身后，不能补全具体双重劲效果口。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华右手两重话未完后孟飞过落身后，不能补全具体双重劲效果口。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0045:u002",
+            "start": 14,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华右手两重话未完后孟飞过落身后，不能补全具体双重劲效果口。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华右手两重话未完后孟飞过落身后，不能补全具体双重劲效果口。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华右手两重话未完后孟飞过落身后，不能补全具体双重劲效果口。"
+      },
+      {
+        "reference": "v03-c0007:p0046",
+        "length": 48,
+        "sha256": "a699241a00b8e640fd31470840ea1e976e3b59e1c4e08215f111c9f156ef0dbd",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0046:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "置空眉心血痕眼凝仰倒坠崖，48明确杀结合非单纯摔晕。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "置空眉心血痕眼凝仰倒坠崖，48明确杀结合非单纯摔晕。",
+            "focalizer": "v03c7_unnamed_Zhikong_attacker",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "置空眉心血痕眼凝仰倒坠崖，48明确杀结合非单纯摔晕。"
+      },
+      {
+        "reference": "v03-c0007:p0047",
+        "length": 17,
+        "sha256": "a63ad4d2b6615e87b8bab8d57d7f750576b0d64e0a4a83daab528617f93e2b6c",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0047:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "太快前为华茫然内不实际新喊，体现认识更新不是孟全书后期已无敌。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "editorial_private_view_counterfactual_or_recalled_voice_not_current_publicspeech",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "太快前为华茫然内不实际新喊，体现认识更新不是孟全书后期已无敌。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0047:u002",
+            "start": 10,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "太快前为华茫然内不实际新喊，体现认识更新不是孟全书后期已无敌。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "太快前为华茫然内不实际新喊，体现认识更新不是孟全书后期已无敌。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "太快前为华茫然内不实际新喊，体现认识更新不是孟全书后期已无敌。"
+      },
+      {
+        "reference": "v03-c0007:p0048",
+        "length": 45,
+        "sha256": "1192a5bf1ea03ad70ab58220be8a3b1ebad2dc405fe1713fcc23148ce6020f85",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0048:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阎罗帖化入九剑虽不完整这次实际施已杀置空，不只未来计划；未明精神刺另次数或雷痕消耗不编。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "阎罗帖化入九剑虽不完整这次实际施已杀置空，不只未来计划；未明精神刺另次数或雷痕消耗不编。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阎罗帖化入九剑虽不完整这次实际施已杀置空，不只未来计划；未明精神刺另次数或雷痕消耗不编。"
+      },
+      {
+        "reference": "v03-c0007:p0049",
+        "length": 47,
+        "sha256": "e38eecedfcb512174f3d39effb2bebc5fce91d2a14d0c4cabcb0e09a5009bbbb",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0049:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟不回头确信剑效真行为，不源未给死就靠自信自证；48已有杀明文。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_Zhikong_atleast7_Yanluo_fusion_actual_kill",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟不回头确信剑效真行为，不源未给死就靠自信自证；48已有杀明文。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟不回头确信剑效真行为，不源未给死就靠自信自证；48已有杀明文。"
+      },
+      {
+        "reference": "v03-c0007:p0050",
+        "length": 64,
+        "sha256": "ea488b2da9d08e6f368e3494ecaf302f3c2d8e8026eaec3af4c933659e36209f",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0050:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "山脚官道胖和尚禅杖拦真实无名，杵字或疑拄保源，别套已知和尚身份。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "山脚官道胖和尚禅杖拦真实无名，杵字或疑拄保源，别套已知和尚身份。",
+            "focalizer": "v03c7_unnamed_fatmonk",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "山脚官道胖和尚禅杖拦真实无名，杵字或疑拄保源，别套已知和尚身份。"
+      },
+      {
+        "reference": "v03-c0007:p0051",
+        "length": 23,
+        "sha256": "0863f9d3939abf5e52606d33d625f00558d8960c2320613d41c0093ecceb8c86",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0051:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华张嘴又闭明确一字未说，不能编胖僧履历口。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华张嘴又闭明确一字未说，不能编胖僧履历口。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华张嘴又闭明确一字未说，不能编胖僧履历口。"
+      },
+      {
+        "reference": "v03-c0007:p0052",
+        "length": 19,
+        "sha256": "f7e6b45ac856129bfd4d5f7d799133db884fbc37a024957d1a2776868a781183",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0052:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "胖僧杖势重实际攻击非已砸中孟背华。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "胖僧杖势重实际攻击非已砸中孟背华。",
+            "focalizer": "v03c7_unnamed_fatmonk",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "胖僧杖势重实际攻击非已砸中孟背华。"
+      },
+      {
+        "reference": "v03-c0007:p0053",
+        "length": 62,
+        "sha256": "82a868ffa828b0cf3bdcfc1397904c5abbfdd666ae87908e1b224d2814c21434",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0053:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "点杖某位置致失控是具体巧，不将四两拨千斤当新武功正式学会。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "点杖某位置致失控是具体巧，不将四两拨千斤当新武功正式学会。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "点杖某位置致失控是具体巧，不将四两拨千斤当新武功正式学会。"
+      },
+      {
+        "reference": "v03-c0007:p0054",
+        "length": 56,
+        "sha256": "ff7e47829aedfab923ba71155168ec622f05d9f83f5c68cbd9be28af10abef47",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0054:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟擦身剑发收胖僧捂胸倒仅此，无明确死亡不与莫置空同判全部杀死，未给名境。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟擦身剑发收胖僧捂胸倒仅此，无明确死亡不与莫置空同判全部杀死，未给名境。",
+            "focalizer": "v03c7_unnamed_fatmonk",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟擦身剑发收胖僧捂胸倒仅此，无明确死亡不与莫置空同判全部杀死，未给名境。"
+      },
+      {
+        "reference": "v03-c0007:p0055",
+        "length": 66,
+        "sha256": "71d723e854096cbad9817f06e14d2257dd235af8e5ea7daee9a63e40fd10d340",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0055:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟背华近见秦山城还未进城找到华父，华沉默目呆非失心/神控。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟背华近见秦山城还未进城找到华父，华沉默目呆非失心/神控。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟背华近见秦山城还未进城找到华父，华沉默目呆非失心/神控。"
+      },
+      {
+        "reference": "v03-c0007:p0056",
+        "length": 39,
+        "sha256": "e458b95dfa4b794e883ed61f36f3c66945e1bdf2b078376ed3fd8667103cb615",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0056:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi_actual_fourapertures_Goldbell5_carrier",
+            "text_context": "孟实际微笑问未介绍胖僧，是回扣此前介绍赶不上，不逼伤者交战或嘲所有见识为零。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "Fengshentui_watchful_Dugu_wristthroat_shoulder_cliff_kills_Mo_incomplete_Yanluo_fused_kills_Zhikong_no_thunder",
+            "delivery": "calm_modest_reply_confident_moving_then_light_teasing_not_contempt",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟实际微笑问未介绍胖僧，是回扣此前介绍赶不上，不逼伤者交战或嘲所有见识为零。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0056:u002",
+            "start": 30,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际微笑问未介绍胖僧，是回扣此前介绍赶不上，不逼伤者交战或嘲所有见识为零。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "孟实际微笑问未介绍胖僧，是回扣此前介绍赶不上，不逼伤者交战或嘲所有见识为零。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际微笑问未介绍胖僧，是回扣此前介绍赶不上，不逼伤者交战或嘲所有见识为零。"
+      },
+      {
+        "reference": "v03-c0007:p0057",
+        "length": 32,
+        "sha256": "ecc45c51cb219e723d83616ca9549f32b5406e354bd5f8d45eb2b7f726006016",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0057:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华闷实答没意义来不及是新认识，不公然恨孟或承认自己无能。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华闷实答没意义来不及是新认识，不公然恨孟或承认自己无能。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0007:p0057:u002",
+            "start": 9,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "hua_lun",
+            "surface_identity": "hua_lun_verified_Zhenyi_injured_carried",
+            "text_context": "华闷实答没意义来不及是新认识，不公然恨孟或承认自己无能。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_speech_or_report_with_interrupted_description_not_new_exact_realmproof",
+            "embodiment": "unchanged_injury_no_mobility_recovery_sees_night_with_eyeapertures_reports_interrupted_updates_belief",
+            "delivery": "private_unease_actual_warnings_explicit_transmission_then_stunned_quiet_and_muffled_reply",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华闷实答没意义来不及是新认识，不公然恨孟或承认自己无能。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华闷实答没意义来不及是新认识，不公然恨孟或承认自己无能。"
+      },
+      {
+        "reference": "v03-c0007:p0058",
+        "length": 38,
+        "sha256": "0640903046583dfd611a07a67f572f038066578d3e7812b719b66a25f41c1472",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0058:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "华脑海回忆破庙场景N，回忆人华不是当下孟又弹剑朗声一次。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_narration_with_named_outcome_and_estimated_realm_or_metaphor_qualified",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "华脑海回忆破庙场景N，回忆人华不是当下孟又弹剑朗声一次。",
+            "focalizer": "hua_lun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "华脑海回忆破庙场景N，回忆人华不是当下孟又弹剑朗声一次。"
+      },
+      {
+        "reference": "v03-c0007:p0059",
+        "length": 9,
+        "sha256": "da9699c6c9d94126108753a50d1bc91e79ffd0d6543beecd32d2aba96de8794f",
+        "units": [
+          {
+            "unit_id": "v03-c0007:p0059:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "Meng_in_Hua_recalled_past_temple_line",
+            "text_context": "且待试剑是华回忆中孟旧口，归孟声源内记忆专通道，非当前又实际说/孟自己新内念。",
+            "world_context": "EARLY_v03c7_night_carrying_Hua_Watchful_fourapertures_Fengshentui_Dugu_ghostpair_flee_alive_Mo6or7_source_death_cliff_Zhikong_atleast7_incomplete_Yanluo_fused_actual_kill_fatmonk_chesthit_falls_death_not_explicit_no_thunder_no_rankup_near_Qinshan_not_father_met_Hua_recalls_old_Meng_line",
+            "stage_context": "V03S03_unnamed_fatmonk_falls_nearcity_Hua_recalls_not_current_Meng_repeat",
+            "channel": "Hua_memory_of_Meng_prior_actual_line_not_current_Meng_speech_or_own_thought",
+            "fact_status": "editorial_private_view_counterfactual_or_recalled_voice_not_current_publicspeech",
+            "embodiment": "Hua_present_memory_replays_Meng_prior_temple_pose_not_new_physical_double",
+            "delivery": "calm_modest_reply_confident_moving_then_light_teasing_not_contempt",
+            "information_and_time_boundary": "Hua_initial_Meng4or6_estimate_source_actual4_Mo6or7_not_exact7_Zhikong_same_attacker_role_name_unknown_atleast7_twoforce_explanation_unfinished_no_added_effects_fatmonk_no_name_or_realm_given_Hua_memory_at_end_not_new_present_line_no_city_entry_or_stone_retrieval_yet",
+            "vow_friendship_and_loot_boundary": "Hua_earnest_warnings_and_transmission_not_stupid_carried_still_hurt_silence_updates_respect_not_magic_Meng_no_ghostpair_chase_no_corpse_loot_no_new_merit_rewards_or_formal_pledge_conditional_stonereward_not_received",
+            "manual_and_claim_boundary": "Dugu_timing_and_steps_fourapertures_beats_higher_now_actual_Mo_dead_Zhikong_killed_incomplete_Yanluo_fusion_not_allstyles_complete_ghostpair_escape_fatmonk_down_not_explicitdead_no_Sheshen_thunder_or_new_aperture_use_no_unstated_exact_attackcharges",
+            "knowledge_boundary": "且待试剑是华回忆中孟旧口，归孟声源内记忆专通道，非当前又实际说/孟自己新内念。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "且待试剑是华回忆中孟旧口，归孟声源内记忆专通道，非当前又实际说/孟自己新内念。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v03-0007",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V03-S03",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 18,
+        "label": "背伤者警戒与双鬼活逃",
+        "direction": "风神腿捕风捉影背华实跑，华2暗赞3想可逃为内估孟4或6，4源明孟四窍全开谨慎，不豪情即骄狂。鬼为黑白活人，锁棍上下合击；华7空气小心10明确传音14续报曾胜六17据说续传暂选后赞口分。孟主动送钩抓旧尽新未生搅棍撞另一、左右刺面双鬼叫捂脸逃，未明失明死亡且孟不追。18孟向右壁左崖，为后相向莫右崖保空间关系。证据v03-c0007:p0001–p0018。"
+      },
+      {
+        "paragraph_start": 19,
+        "paragraph_end": 36,
+        "label": "快剑逼守、拍肩失衡与明确败亡",
+        "direction": "莫冷傲缓迎不偷袭、华报6或7不定七，听雷风雷为剑势非天雷。华20从容报21/23快述到29停，孟后发指腕逼变再翘喉跟步恒距，腕喉是威胁未已刺穿。莫求同归31私算盘不是实际谈判，孟重拍左肩失衡剑失准自己未受刺，莫相向右崖栽云雾。34明确败亡，不能套宴会卸剑无杀伤，也不能仅写未知失踪。孟不停验尸摸钱。证据v03-c0007:p0019–p0036。"
+      },
+      {
+        "paragraph_start": 37,
+        "paragraph_end": 49,
+        "label": "同一袭击者被杀与九剑阎罗融合",
+        "direction": "窄路两人侧行孟如平地，华认打伤己置空至少七、强于莫为华判断无新姓名。孟两息冲歪斩使愣，横剑拍掌借力飞，华42左侧诱破说明45右手两重未完不能补全。46眉心血痕倒崖、48叙明阎罗帖化九剑虽不完整实际杀，不只计划也不完整全式。孟不回头信剑效，死据48不唯自信。未明另精神刺次数、无雷痕舍身开窍新消耗。证据v03-c0007:p0037–p0049。"
+      },
+      {
+        "paragraph_start": 50,
+        "paragraph_end": 59,
+        "label": "无名胖僧倒下、沉默与记忆回声",
+        "direction": "山脚胖和尚杖拦，华51张嘴闭一句没说不补名境介绍。孟点杖失控后擦身剑发，胖僧捂胸缓倒无明确死字不能与莫置空一并判死。近见秦山尚未入城找到父或追回石，孟笑问华闷答认识更新，不以笑点判华蠢无价值。58华脑海庙旧景59孟旧豪语为华记忆声源孟的专通道，非当下重说或孟自己内想，也不重放未发生新战。证据v03-c0007:p0050–p0059。"
+      }
+    ],
+    "knowledge_rule": "孟仍四窍谨慎背华，双鬼伤逃、莫明败亡、置空明阎罗化九剑杀、胖僧倒未明死分。华传音与没说完原样保，末59华回忆孟旧声非现在重说；无雷新境、未入城见父追回石。"
+  }
 }
