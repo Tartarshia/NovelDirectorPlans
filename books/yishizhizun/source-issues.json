@@ -3,6 +3,29 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "chapter_id": "v02-c0052",
+      "reference": "v02-c0052:p0009",
+      "type": "weapon_name_context_conflict",
+      "issue": "源元尸处斩马刀碎，与46p31/51p47元随身弯刀异名，保源不静改刀名或转王弘斩马刀/新增两把被毁。",
+      "review_id": "review-backfill-v02-0052",
+      "source_spellings": [
+        "斩马刀",
+        "弯刀"
+      ],
+      "prior_references": [
+        "v02-c0046:p0031",
+        "v02-c0051:p0047"
+      ],
+      "resolution": "unresolved_preserve_current_and_prior_weapon_names_no_source_rewrite_or_extra_weapon"
+    },
+    {
+      "chapter_id": "v02-c0052",
+      "reference": "v02-c0052:p0061",
+      "type": "possible_typo",
+      "issue": "原送贴姿势，贴疑帖；保字SHA偏移，只摆阎罗帖戒备姿态不已施剑或新耗雷。",
+      "review_id": "review-backfill-v02-0052"
+    },
+    {
       "chapter_id": "v02-c0051",
       "reference": "v02-c0051:p0012",
       "type": "possible_typo",

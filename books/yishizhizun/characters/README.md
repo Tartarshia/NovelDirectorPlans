@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [救慧真实落实、雷额外耗精与一丹后余一](early-v02-Hui-rescue-thunder-exhaustion-one-Yuanhunpill-left1.md) | 第二卷第52章历史归属回补 |
+| [白霸征识四窍借雷仍不赌、众威慑层次](early-v02-Bai-knows-four-borrowed-thunder-refuses-gamble.md) | 第二卷第52章历史归属回补 |
+| [谢真出城与船渡、匿名组织邀而未誓](early-v02-Xie-real-cityexit-boat-unpaidtail-anonymous-invitation.md) | 第二卷第52章历史归属回补 |
 | [都末七窍代战：仓促中幻与元不同层反应](early-v02-Dumo7-hurried-illusion-bypass-Yuan-notfooled.md) | 第二卷第51章历史归属回补 |
 | [青玉手与断清净心景、一发雷刀临终误判](early-v02-Yuan-Qingyuhands-DuanQingjing-vision-one-thunderblade.md) | 第二卷第51章历史归属回补 |
 | [厅静脑中误判、忠妻儿与公旧生活悲忆](early-v02-crowd-silent-falsepredictions-Zhong-Gong-oldgrief.md) | 第二卷第51章历史归属回补 |
