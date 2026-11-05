@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [还石后的侠名误读与实际吟诗](early-v03-returnstone-coregained-Hua-misreads-selfless-real-poem.md) | 第三卷第10章历史归属回补 |
+| [顾江箫现身、夫君戏称与九天未答](early-v03-Gu-riverflute-explicit-fujun-tease-NineHeavens-unanswered.md) | 第三卷第10章历史归属回补 |
+| [顾述霸王旧史、雷招体质与缺本线索](early-v03-Gu-Bawang-history-Xuannv-blade-clue-Six-still-incomplete.md) | 第三卷第10章历史归属回补 |
 | [气势实效：敌误判同级、华不同知与拳隙](early-v03-pressure-enemy-Gu-equal-misread-Hua-different-view-fistflaw.md) | 第三卷第9章历史归属回补 |
 | [雷血核心残承与自动雷痕的边界](early-v03-stone-core-fragment-auto-thundermark-no-charge-spent.md) | 第三卷第9章历史归属回补 |
 | [异地黑刀异动与未名白纱女子](early-v03-distant-blackblade-whitegauzewoman-unnamed-readeronly.md) | 第三卷第9章历史归属回补 |
