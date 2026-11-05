@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [常态刀法受沈六窍压、条件自估不等新境](early-v02-basecombat-Shen6-pressure-conditional-appraisal-not-newrank.md) | 第二卷第44章历史归属回补 |
+| [幻形精神刺非幻觉、左格换肩伤与融雪活擒](early-v02-Huanxing-direct-mentalstab-leftparry-Rongxue-livecapture.md) | 第二卷第44章历史归属回补 |
+| [沈活俘、顾真实反感与编造嗜好的胁迫](early-v02-Shen-captive-false-Gu-trait-threat-no-actual-confession-yet.md) | 第二卷第44章历史归属回补 |
 | [幻形跟踪今揭：段应用教学、杀安精神蜕变仍未圆满](early-v02-Huanxing-follow-Duan-applications-Ankill-growth-not-perfect.md) | 第二卷第43章历史归属回补 |
 | [俞林三路圈套实证、未知死间与慧去向未得](early-v02-Yulin-tripletrap-confirmed-deathagent-Hui-stillunknown.md) | 第二卷第43章历史归属回补 |
 | [同信鸟导实营、四随从与普通刀两杀有浅伤](early-v02-letterbird-real-Shencamp-two-patrols-dead-minorwound.md) | 第二卷第43章历史归属回补 |
