@@ -3,6 +3,29 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "chapter_id": "v02-c0041",
+      "reference": "v02-c0041:p0033",
+      "type": "possible_typo",
+      "issue": "原豪气与谨慎戒备，戒备疑兼备或相近表达；保原字SHA偏移，后文明说若非必要不硬拼，不能将豪气导演成一概鲁莽。",
+      "review_id": "review-backfill-v02-0041"
+    },
+    {
+      "chapter_id": "v02-c0041",
+      "reference": "v02-c0041:p0060",
+      "type": "inquiry_target_name_context_conflict",
+      "issue": "原请去打听真定、玄悲下落，与12问师弟、16小和尚西去和56家师师弟语境有目标名疑点；保真定原字SHA偏移，不自行改真慧，也不凭字面虚造查己悬赏新任务，待版本核对。",
+      "review_id": "review-backfill-v02-0041",
+      "source_name": "真定",
+      "context_candidate": "真慧",
+      "conflicting_references": [
+        "v02-c0041:p0012",
+        "v02-c0041:p0016",
+        "v02-c0041:p0056",
+        "v02-c0041:p0060"
+      ],
+      "resolution": "unresolved_preserve_source_name_no_silent_emendation_or_invented_new_inquiry"
+    },
+    {
       "chapter_id": "v02-c0040",
       "reference": "v02-c0040:p0052",
       "type": "possible_typo",

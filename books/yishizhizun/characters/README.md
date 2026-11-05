@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四宝石买讯：播密报告、师弟西行推与水鸟追杀网](early-v02-fourgem-questions-Bomi-report-Huiwest-water-birdhunt.md) | 第二卷第41章历史归属回补 |
+| [给友退路、顾自愿侠义与豪言后的托讯谨慎](early-v02-Gu-voluntary-danger-Meng-public-heroicwords-then-proxycaution.md) | 第二卷第41章历史归属回补 |
+| [九娘平静低声疑几日变化与孟真实馋肉](early-v02-Jiuniang-low-growthsuspicion-Meng-meatmeal-not-totalveg.md) | 第二卷第41章历史归属回补 |
 | [同一伙计确为奸细、夕血推死与白顶黑羽鸟](early-v02-same-oasis-clerk-confirmed-banditspy-birdreport.md) | 第二卷第40章历史归属回补 |
 | [则罗居：沙哑磁声、邪眼有界与本脉共杀](early-v02-Zeluoju-ghosteye-limits-partial-wrong-case-networkhunt.md) | 第二卷第40章历史归属回补 |
 | [九娘见财活、细扫缘由未揭与泼客谣](early-v02-Jiuniang-gem-attention-scan-unrevealed-private-room-rumour.md) | 第二卷第40章历史归属回补 |

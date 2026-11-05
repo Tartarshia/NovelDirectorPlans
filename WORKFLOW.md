@@ -29,6 +29,8 @@ git push
 
 每完成一章（全文精读、导演分场、角色状态、句内归属、语义复核、校验和提交推送均完成），检查当前 Codex 五小时 usage limit；恢复阅读前也检查一次。不得累积多章后再查。
 
+完成一章或一批（包括三章）只表示该批已落档，不是停止条件。目标处于 active 且未触发下述停止规则时，继续下一章；不得仅因批次完成就结束任务或将目标暂停。
+
 使用 `python scripts/check_usage.py`，或在 NovelVoice 中用 `python ../NovelDirectorPlans/scripts/check_usage.py --record output/director/yishizhizun/usage-checks/章节ID.json`。脚本通过 `account/rateLimits/read` 只读获取五小时窗口，不启动模型回合，不读取或打印凭据。
 
 - 使用 America/New_York 时区，以当地09:00（含）至17:00（不含）为15%保护时段；其余时段不因低于15%而停止。用户未限定工作日，不额外推定仅周一至周五。
