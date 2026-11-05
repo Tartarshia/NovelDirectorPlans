@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [王氏误认的否认与王思远当时状态](early-v03-Wang-denial-Suanjing-curse-Siyuan22nine-not-halfOuter.md) | 第三卷第5章历史归属回补 |
+| [夺石未追：实力估计、边界与不昧的选择](early-v03-stone-theft-unresolved-Meng-declines-conditional-thunder.md) | 第三卷第5章历史归属回补 |
+| [华纶破庙现身与罗教指控的自述边界](early-v03-HuaLun-statue-injury-selfreport-Luojiao-not-verified.md) | 第三卷第5章历史归属回补 |
 | [洛秋生：决策受压、拍腕卸剑与闷声服输](early-v03-Luo-decisionpressure-flatwrist-disarm-no-illusion.md) | 第三卷第4章历史归属回补 |
 | [陶康软剑、三尺三寸一击与乌的护意](early-v03-Tao-softsword-3chi3cun-Wu-protective-cry.md) | 第三卷第4章历史归属回补 |
 | [九剑吸收验证、真意边界与勘虚误猜](early-v03-Dugu-absorbed-basics-trueintent-limit-Wang-Kanxu-guess.md) | 第三卷第4章历史归属回补 |
