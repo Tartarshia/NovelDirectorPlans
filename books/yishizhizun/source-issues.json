@@ -3,6 +3,25 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "chapter_id": "v02-c0060",
+      "reference": "v02-c0060:p0011",
+      "type": "injury_location_conflict",
+      "issue": "右胸深伤与本章78左襟80左胸显伤位置相冲突；双方保原，不擅定镜像或新补第二伤。",
+      "review_id": "review-backfill-v02-0060",
+      "conflicting_references": [
+        "v02-c0060:p0078",
+        "v02-c0060:p0080"
+      ],
+      "resolution": "preserve_rightchest_and_left_exposure_source_without_silent_correction"
+    },
+    {
+      "chapter_id": "v02-c0060",
+      "reference": "v02-c0060:p0088",
+      "type": "possible_typo",
+      "issue": "轰得一下疑轰地一下；保原字SHA偏移。",
+      "review_id": "review-backfill-v02-0060"
+    },
+    {
       "chapter_id": "v02-c0059",
       "reference": "v02-c0059:p0017",
       "type": "possible_typo",

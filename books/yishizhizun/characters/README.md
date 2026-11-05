@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [罗辉：七窍冰雪真传与孟的真实深伤](early-v02-Luo-Hui-seven-IceSnow-trueintent-deepcounterinjury.md) | 第二卷第60章历史归属回补 |
+| [弘头鹰击七窍、第二帖毫厘与康仍活](early-v02-Hong-title-eagle-seven-second-post-live-Kang.md) | 第二卷第60章历史归属回补 |
+| [近极限的恐惧战：两尸活康与控速追百](early-v02-nearexhaustion-two-corpses-live-Kang-fear-controlled-chase.md) | 第二卷第60章历史归属回补 |
 | [截巡三死一俘、幻形近圆与审讯限制](early-v02-patrol-three-dead-one-live-distorted-cry-illusion-nearfull.md) | 第二卷第59章历史归属回补 |
 | [慧留活、油绳退路与火警未名](early-v02-Hui-oilrope-escapeplan-fire-alarm-voice-unknown.md) | 第二卷第59章历史归属回补 |
 | [康亲口威吓、孟忍到火起与七窍真挡](early-v02-Kang-direct-threat-Meng-restraint-shallowinjury-seven-intercept.md) | 第二卷第59章历史归属回补 |
