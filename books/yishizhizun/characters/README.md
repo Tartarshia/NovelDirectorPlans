@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孩子威胁、真慧反对与孟奇的关门选择](early-v02-childthreat-Hui-objection-Meng-closesdoor-offscreen-unknown.md) | 第二卷第61章历史归属回补 |
+| [寒风自创刀书、未解黑皮与战利品分配](early-v02-Hanfeng-book-blackhide-futureappraisal-loot-distribution.md) | 第二卷第61章历史归属回补 |
+| [被掳大晋女子：惊惧、释哭到组织同伴](early-v02-abducted-Jinwoman-rescue-leader-practical-aid-not-shame.md) | 第二卷第61章历史归属回补 |
 | [罗辉：七窍冰雪真传与孟的真实深伤](early-v02-Luo-Hui-seven-IceSnow-trueintent-deepcounterinjury.md) | 第二卷第60章历史归属回补 |
 | [弘头鹰击七窍、第二帖毫厘与康仍活](early-v02-Hong-title-eagle-seven-second-post-live-Kang.md) | 第二卷第60章历史归属回补 |
 | [近极限的恐惧战：两尸活康与控速追百](early-v02-nearexhaustion-two-corpses-live-Kang-fear-controlled-chase.md) | 第二卷第60章历史归属回补 |
