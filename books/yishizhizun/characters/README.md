@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [白堂主八窍、可信派系与李方不明对应](early-v03-Bai-eight-Wutang-trusted-LiFang-unmapped-factions.md) | 第三卷第8章历史归属回补 |
+| [信号早于理想、共同推路与有限判断](early-v03-signal-tooearly-joint-route-reasoning-no-divination.md) | 第三卷第8章历史归属回补 |
+| [小舟剑客造势：趣味、战术与小桑问候](early-v03-boat-pose-fun-and-pressure-Xiaosang-question-only.md) | 第三卷第8章历史归属回补 |
 | [夜路三类战果：双鬼逃、莫成亡、胖僧倒](early-v03-night-doubleghosts-escape-Mo-cliffdeath-fatmonk-down.md) | 第三卷第7章历史归属回补 |
 | [置空使之死与不完整阎罗帖化剑](early-v03-Zhikong-actualkill-incomplete-Yanluo-Dugu-fusion.md) | 第三卷第7章历史归属回补 |
 | [华纶介绍赶不上战果与孟旧声记忆](early-v03-Hua-interrupted-reports-private-warning-recalled-Meng-voice.md) | 第三卷第7章历史归属回补 |
