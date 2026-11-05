@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [沈的鸟讯：元九窍车犁擒慧、两边时限与路线预测](early-v02-Shen-birdconfession-Yuan9-Cheli-Hui-deadlines-predictions.md) | 第二卷第45章历史归属回补 |
+| [顾鱼海辅助的自愿边界、救人与杀人不同](early-v02-Gu-auxiliary-Yuhai-role-rescue-not-kill-voluntary.md) | 第二卷第45章历史归属回补 |
+| [沈遗产：五契一袋嗜血、四本与同一招异字](early-v02-Shen-inheritance-5deeds-gembag-Shixue-4books1move.md) | 第二卷第45章历史归属回补 |
 | [常态刀法受沈六窍压、条件自估不等新境](early-v02-basecombat-Shen6-pressure-conditional-appraisal-not-newrank.md) | 第二卷第44章历史归属回补 |
 | [幻形精神刺非幻觉、左格换肩伤与融雪活擒](early-v02-Huanxing-direct-mentalstab-leftparry-Rongxue-livecapture.md) | 第二卷第44章历史归属回补 |
 | [沈活俘、顾真实反感与编造嗜好的胁迫](early-v02-Shen-captive-false-Gu-trait-threat-no-actual-confession-yet.md) | 第二卷第44章历史归属回补 |

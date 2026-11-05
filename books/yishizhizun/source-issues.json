@@ -3,6 +3,33 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "chapter_id": "v02-c0045",
+      "reference": "v02-c0045:p0013",
+      "type": "possible_typo",
+      "issue": "原不敢也可能直闯，语境疑也后漏不成不敢也不可能；保原文SHA偏移，不能由字面反成两人决定可直闯邪岭，后仍讨论前洲截。",
+      "review_id": "review-backfill-v02-0045"
+    },
+    {
+      "chapter_id": "v02-c0045",
+      "reference": "v02-c0045:p0045",
+      "type": "possible_typo",
+      "issue": "原我省的，的疑得；保原字SHA偏移，顾语意明白辅助约定并劝孟保命。",
+      "review_id": "review-backfill-v02-0045"
+    },
+    {
+      "chapter_id": "v02-c0045",
+      "reference": "v02-c0045:p0056",
+      "type": "technique_name_spelling_conflict",
+      "issue": "原孟所念为阳光三叠浪，后同段叙述阳关三叠浪，疑同招异字；保两处原字SHA偏移，不自动改关/光或扩成两招，单招数1和四本书数保持。",
+      "review_id": "review-backfill-v02-0045",
+      "source_spellings": [
+        "阳光三叠浪",
+        "阳关三叠浪"
+      ],
+      "single_move_not_two": true,
+      "resolution": "unresolved_preserve_both_spellings_same_source_paragraph_no_extra_move"
+    },
+    {
       "chapter_id": "v02-c0044",
       "reference": "v02-c0044:p0018",
       "type": "possible_typo",
