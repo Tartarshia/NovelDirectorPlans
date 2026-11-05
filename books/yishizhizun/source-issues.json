@@ -3,6 +3,27 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "chapter_id": "v03-c0002",
+      "reference": "v03-c0002:p0012",
+      "type": "possible_typo",
+      "issue": "花轿轿子人抬人表述疑叠字或讹变，保原不擅补俗语。",
+      "review_id": "review-backfill-v03-0002"
+    },
+    {
+      "chapter_id": "v03-c0002",
+      "reference": "v03-c0002:p0023",
+      "type": "sect_name_context_conflict",
+      "issue": "同一依附介绍中写秦州剑派，上下连续为秦山剑派，疑同语境名称冲突；保原字不另拆新门派。",
+      "review_id": "review-backfill-v03-0002",
+      "source_name": "秦州剑派",
+      "context_name": "秦山剑派",
+      "context_references": [
+        "v03-c0002:p0020",
+        "v03-c0002:p0031"
+      ],
+      "resolution": "preserve_source_spelling_same_context_not_create_unsubstantiated_new_sect"
+    },
+    {
       "chapter_id": "v03-c0001",
       "reference": "v03-c0001:p0007",
       "type": "possible_typo",

@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [乌琴心、上官寒：后揭名与两眼窍](early-v03-Wu-Qinxin-Shangguan-Han-names-twoeyes-stableids.md) | 第三卷第2章历史归属回补 |
+| [自取逍遥剑与神都口音的掩护](early-v03-Meng-selfnamed-Xiaoyaojian-Shendu-Xiliang-cover.md) | 第三卷第2章历史归属回补 |
+| [奇石六年三年轮管、地方依附与寿主未知愁](early-v03-stone-sixyear-custody-sectdependencies-report-not-appraisal.md) | 第三卷第2章历史归属回补 |
 | [秦山谢老头：面摊热情与平等礼貌](early-v03-noodleseller-Xie-distinct-from-Xiejiugui-equal-courtesy.md) | 第三卷第1章历史归属回补 |
 | [未名少女与黑衣青年：看榜误认与想象](early-v03-unnamed-girl-blackclad-youth-fan-misrecognition.md) | 第三卷第1章历史归属回补 |
 | [孟首次亲见榜、外号受伤与寿宴计划](early-v03-Meng-first-boardread-nickname-frustration-banquetchallenge-plan.md) | 第三卷第1章历史归属回补 |
