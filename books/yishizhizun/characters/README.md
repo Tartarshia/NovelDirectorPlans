@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [五关圆满封一品、十三罩门与约月时差](early-v02-Goldbell5-full-firstgrade-13weakpoints-timeskew.md) | 第二卷第57章历史归属回补 |
+| [弘能知幻真礼、有限护持与到城真别](early-v02-Hong-knows-illusion-sincere-bow-limited-escort-completed.md) | 第二卷第57章历史归属回补 |
+| [客报师捷家祸、顾落筷仅震击](early-v02-innreports-teacherpeak-Gu-familynews-final-stickfall.md) | 第二卷第57章历史归属回补 |
 | [天海源显境试心、八白尾威压与无欲界限](early-v02-Tianhaiyuan-illusion-calm-test-eightwhite-tail-pressure.md) | 第二卷第56章历史归属回补 |
 | [康支尤还多敌营：顾身份线报与已送索亲信](early-v02-Kang-Zhi-You-Huanduo-Gu-ID-letter-demand-not-death.md) | 第二卷第56章历史归属回补 |
 | [少林援名：空见与无净只在敌营报告](early-v02-Shaolin-help-Kongjian-Wujing-enemycamp-report.md) | 第二卷第56章历史归属回补 |
