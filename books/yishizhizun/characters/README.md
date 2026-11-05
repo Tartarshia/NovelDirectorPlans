@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾长青报名、真谢侠心与主动领路](early-v02-GuChangqing-named-gratitude-pleased-volunteer-guide.md) | 第二卷第39章历史归属回补 |
+| [对顾的冲穴借口、达摩剑猜与玄悲自保推断](early-v02-Meng-Gufirstmeeting-coverstory-Damo-guess-teacher-inference.md) | 第二卷第39章历史归属回补 |
+| [安尸搜得两粒丹、钥址未定与沉湖改装离去](early-v02-An-loot-Yuanhun2-brasskeys-hypothesis-lakesink-departure.md) | 第二卷第39章历史归属回补 |
 | [顾长青两窍侠气与只观察未救、纸团尚未投](early-v02-GuChangqing-twoeyes-treeobserver-paper-not-thrown.md) | 第二卷第38章历史归属回补 |
 | [安九窍反杀：毒诱分心、刀镖剑三波与毫厘](early-v02-An-threewave-surprise-poison-dart7-hit4-left-Yanluo-kill.md) | 第二卷第38章历史归属回补 |
 | [自救成功的畅快与自知、舍身未用排名未授](early-v02-An-dead-selfrescue-pride-not-rank36-SheShen-counterfactual.md) | 第二卷第38章历史归属回补 |
