@@ -6,6 +6,7 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第二卷65章归属回补成长收束](v02-attribution-growth-summary.md) | 32阶段与卷末知情、能力、关系边界，非全书终审 |
 | [九剑前几式初入与自然解封复五关](early-v02-Dugu-firstentry-frontfew-sealbreak-restores-Goldbell5.md) | 第二卷第65章历史归属回补 |
 | [玄悲舅父身份、真正封禁自陈与亡儿思念](early-v02-Xuanbei-maternaluncle-readeronly-sealconfession-lostchildren.md) | 第二卷第65章历史归属回补 |
 | [江杀尤、孟击退与榜单江十孟三十三](early-v02-Jiang-kills-You-Meng-retreat-publicrank10and33.md) | 第二卷第65章历史归属回补 |

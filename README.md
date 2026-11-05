@@ -2,12 +2,13 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：顺序精读至番外第12篇，1410 / 1410 个目录条目，约442.6万字；早缺补全与全书终审未完成。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：顺序精读至番外第12篇，1410 / 1410 个目录条目，约442.6万字；20条原缺回执已有新复读材料补足，原缺名单保留；全书终审未完成。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
+- [第二卷65章归属回补阶段复核](books/yishizhizun/reviews/volume-v02-attribution-review.md)、[32阶段与65章索引](books/yishizhizun/reviews/volume-v02-attribution-stage-index.json)、[角色成长收束](books/yishizhizun/characters/v02-attribution-growth-summary.md)：4420段、6649单元；全书归属938条、待472条，续点第三卷第1章，仍为草案。
 - [角色阶段索引](books/yishizhizun/characters/README.md)：按角色归纳各卷成长和当前阶段，可直接查阅表演边界。
 - [第八卷成长与导演综合](books/yishizhizun/characters/v08-growth-summary.md)、[卷末复核](books/yishizhizun/reviews/volume-v08-review.md)、[50条阶段索引](books/yishizhizun/reviews/volume-v08-stage-index.json)：正文49章+作者感言闭合，番外12条与早缺全书终审仍待。
 - [第二卷归属回补：第65章](books/yishizhizun/reviews/review-backfill-v02-0065.md)：新全文复读93段134单元；归属已938章、待472，可用复读回执待0。
