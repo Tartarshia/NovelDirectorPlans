@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [尤还多：真实魂证与借戒杀局](early-v02-You-soulstone-trueevidence-for-discipline-murderplot.md) | 第二卷第63章历史归属回补 |
+| [魂证检视、两错判词与尚未执行的处罚](early-v02-soulevidence-Wujing-sentences-not-executed.md) | 第二卷第63章历史归属回补 |
+| [玄悲假担责、舍塔机会与孟无错的动机](early-v02-Xuanbei-towerchance-falseblame-Meng-defiance-motive.md) | 第二卷第63章历史归属回补 |
 | [玄悲搜寻、隐私结界与八真两假](early-v02-Xuanbei-search-privacy-barrier-mixedtruefalse-report.md) | 第二卷第62章历史归属回补 |
 | [早抄五六关书、重复秘籍与未来借口](early-v02-teacher-copied-Goldbell5and6-duplicate-book-not-rankup.md) | 第二卷第62章历史归属回补 |
 | [获救女子自组马队离营、感谢与心不忍](early-v02-rescuedwomen-horsepairs-leavecamp-heartunwilling-not-merit.md) | 第二卷第62章历史归属回补 |
