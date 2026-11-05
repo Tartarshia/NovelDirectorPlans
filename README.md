@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第三卷归属回补：第3章](books/yishizhizun/reviews/review-backfill-v03-0003.md)：新全文复读77段127单元；归属已941章、待469，可用复读回执待0。
 - [第三卷归属回补：第2章](books/yishizhizun/reviews/review-backfill-v03-0002.md)：新全文复读51段88单元；归属已940章、待470，可用复读回执待0。
 - [第三卷归属回补：第1章](books/yishizhizun/reviews/review-backfill-v03-0001.md)：新全文复读64段109单元；归属已939章、待471，可用复读回执待0。
 - [第二卷65章归属回补阶段复核](books/yishizhizun/reviews/volume-v02-attribution-review.md)、[32阶段与65章索引](books/yishizhizun/reviews/volume-v02-attribution-stage-index.json)、[角色成长收束](books/yishizhizun/characters/v02-attribution-growth-summary.md)：4420段、6649单元；全书归属938条、待472条，续点第三卷第1章，仍为草案。

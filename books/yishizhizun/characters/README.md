@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [亲见奇石神威、炼器推想未成器](early-v03-stone-firstdisplay-pressure-Meng-materialguess-notcrafted.md) | 第三卷第3章历史归属回补 |
+| [华宁黄张：客气延期与寿宴主场压力](early-v03-Hua-Ning-Huang-Zhang-courtesy-delay-hostpressure.md) | 第三卷第3章历史归属回补 |
+| [洛胜胡、孟护美食与尚未开始的切磋](early-v03-Luo-beats-Hu-Meng-saves-food-accepts-duel-notbegun.md) | 第三卷第3章历史归属回补 |
 | [乌琴心、上官寒：后揭名与两眼窍](early-v03-Wu-Qinxin-Shangguan-Han-names-twoeyes-stableids.md) | 第三卷第2章历史归属回补 |
 | [自取逍遥剑与神都口音的掩护](early-v03-Meng-selfnamed-Xiaoyaojian-Shendu-Xiliang-cover.md) | 第三卷第2章历史归属回补 |
 | [奇石六年三年轮管、地方依附与寿主未知愁](early-v03-stone-sixyear-custody-sectdependencies-report-not-appraisal.md) | 第三卷第2章历史归属回补 |
