@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [气势实效：敌误判同级、华不同知与拳隙](early-v03-pressure-enemy-Gu-equal-misread-Hua-different-view-fistflaw.md) | 第三卷第9章历史归属回补 |
+| [雷血核心残承与自动雷痕的边界](early-v03-stone-core-fragment-auto-thundermark-no-charge-spent.md) | 第三卷第9章历史归属回补 |
+| [异地黑刀异动与未名白纱女子](early-v03-distant-blackblade-whitegauzewoman-unnamed-readeronly.md) | 第三卷第9章历史归属回补 |
 | [白堂主八窍、可信派系与李方不明对应](early-v03-Bai-eight-Wutang-trusted-LiFang-unmapped-factions.md) | 第三卷第8章历史归属回补 |
 | [信号早于理想、共同推路与有限判断](early-v03-signal-tooearly-joint-route-reasoning-no-divination.md) | 第三卷第8章历史归属回补 |
 | [小舟剑客造势：趣味、战术与小桑问候](early-v03-boat-pose-fun-and-pressure-Xiaosang-question-only.md) | 第三卷第8章历史归属回补 |
