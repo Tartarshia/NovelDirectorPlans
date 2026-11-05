@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [洛秋生：决策受压、拍腕卸剑与闷声服输](early-v03-Luo-decisionpressure-flatwrist-disarm-no-illusion.md) | 第三卷第4章历史归属回补 |
+| [陶康软剑、三尺三寸一击与乌的护意](early-v03-Tao-softsword-3chi3cun-Wu-protective-cry.md) | 第三卷第4章历史归属回补 |
+| [九剑吸收验证、真意边界与勘虚误猜](early-v03-Dugu-absorbed-basics-trueintent-limit-Wang-Kanxu-guess.md) | 第三卷第4章历史归属回补 |
 | [亲见奇石神威、炼器推想未成器](early-v03-stone-firstdisplay-pressure-Meng-materialguess-notcrafted.md) | 第三卷第3章历史归属回补 |
 | [华宁黄张：客气延期与寿宴主场压力](early-v03-Hua-Ning-Huang-Zhang-courtesy-delay-hostpressure.md) | 第三卷第3章历史归属回补 |
 | [洛胜胡、孟护美食与尚未开始的切磋](early-v03-Luo-beats-Hu-Meng-saves-food-accepts-duel-notbegun.md) | 第三卷第3章历史归属回补 |
