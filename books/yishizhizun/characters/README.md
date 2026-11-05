@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [真观黑鳞估八、复仇数量自述与半妖代价](early-v02-Zhenguan-est8-revenge18of72-Xiangliu-costs.md) | 第二卷第54章历史归属回补 |
+| [弘能慈悲与年轻挫败、感应强未定境](early-v02-Hong-compassion-youthful-failure-demon-sensing.md) | 第二卷第54章历史归属回补 |
+| [少女未名文伯、真慧旧知与圣令刻字分媒介](early-v02-unnamed-demon-girl-WenBo-Ananda-decree-oldinscription.md) | 第二卷第54章历史归属回补 |
 | [黄符真在未入会、沈石尾款与榜预期](early-v02-talisman-real-kept-Shen-tailpaid-refund2-futurefame.md) | 第二卷第53章历史归属回补 |
 | [弘能清越迎客：一庙大半年、四十九座愿未完](early-v02-Hong-Neng-clearvoice-one-temple-halfyear-vow49.md) | 第二卷第53章历史归属回补 |
 | [沙暴限制、慧先见灯与真观入庙止相认](early-v02-sandstorm-Goldbell-limits-Hui-firstlight-Zhenguan-entry.md) | 第二卷第53章历史归属回补 |
