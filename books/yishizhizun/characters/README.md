@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [刻意激怒、当前失内力与实际少林禁传誓](early-v02-deliberate-goading-actual-Shaolin-nontransmission-oath.md) | 第二卷第64章历史归属回补 |
+| [武凉惜别、苏姓线索与书生四器](early-v02-Wuliang-teacherfarewell-Su-hint-fourweapons-scholar.md) | 第二卷第64章历史归属回补 |
+| [尤邬鸟报网、试雷截杀与四匪伤眼](early-v02-You-Wu-network-ambush-four-eyeinjuries-no-innerforce.md) | 第二卷第64章历史归属回补 |
 | [尤还多：真实魂证与借戒杀局](early-v02-You-soulstone-trueevidence-for-discipline-murderplot.md) | 第二卷第63章历史归属回补 |
 | [魂证检视、两错判词与尚未执行的处罚](early-v02-soulevidence-Wujing-sentences-not-executed.md) | 第二卷第63章历史归属回补 |
 | [玄悲假担责、舍塔机会与孟无错的动机](early-v02-Xuanbei-towerchance-falseblame-Meng-defiance-motive.md) | 第二卷第63章历史归属回补 |
