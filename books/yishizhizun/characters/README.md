@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [中年付讯与粗假精假、敌意也可能伪装](early-v02-proxy-two-rumours-layeredmisdirection-still-hypotheses.md) | 第二卷第42章历史归属回补 |
+| [顾家金裟绿洲依匪庇、家人负担与孟的诚恳](early-v02-Gu-family-patronage-shame-and-Meng-sincere-reassurance.md) | 第二卷第42章历史归属回补 |
+| [黑脸口供未实、二次活晕留命核实与跟踪异象](early-v02-blackface-unverified-confession-spared-follow-phenomenon.md) | 第二卷第42章历史归属回补 |
 | [四宝石买讯：播密报告、师弟西行推与水鸟追杀网](early-v02-fourgem-questions-Bomi-report-Huiwest-water-birdhunt.md) | 第二卷第41章历史归属回补 |
 | [给友退路、顾自愿侠义与豪言后的托讯谨慎](early-v02-Gu-voluntary-danger-Meng-public-heroicwords-then-proxycaution.md) | 第二卷第41章历史归属回补 |
 | [九娘平静低声疑几日变化与孟真实馋肉](early-v02-Jiuniang-low-growthsuspicion-Meng-meatmeal-not-totalveg.md) | 第二卷第41章历史归属回补 |
