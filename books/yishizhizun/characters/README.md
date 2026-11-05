@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [谢离店后未名纤手：拧耳事实与身份空白](early-v02-unknown-hand-Xie-earpinch-no-Jiuniang-identification.md) | 第二卷第50章历史归属回补 |
+| [孟独处焦虑、毒烛不点双因与理性退路](early-v02-privatepressure-unused-poisoncandle-two-reasons.md) | 第二卷第50章历史归属回补 |
+| [风起转S23、古礼宴列与挑战未引雷](early-v02-naturalwind-stage23-feast-challenge-no-thunder-use.md) | 第二卷第50章历史归属回补 |
 | [谢酒鬼：声誉传闻、五千退路与忠资订金](early-v02-Xie-Jiugui-broker5000-2000advance-quarterhour-notice.md) | 第二卷第49章历史归属回补 |
 | [顾军师形象：孟授意与真地方知识并用](early-v02-Gu-strategist-cover-Zhong-jade-and-funded-exit.md) | 第二卷第49章历史归属回补 |
 | [剑痴名声退人、顾的假想女声不能分错](early-v02-swordfan-role-repels-woman-Gu-hypothetical-mimic.md) | 第二卷第49章历史归属回补 |
