@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [同一伙计确为奸细、夕血推死与白顶黑羽鸟](early-v02-same-oasis-clerk-confirmed-banditspy-birdreport.md) | 第二卷第40章历史归属回补 |
+| [则罗居：沙哑磁声、邪眼有界与本脉共杀](early-v02-Zeluoju-ghosteye-limits-partial-wrong-case-networkhunt.md) | 第二卷第40章历史归属回补 |
+| [九娘见财活、细扫缘由未揭与泼客谣](early-v02-Jiuniang-gem-attention-scan-unrevealed-private-room-rumour.md) | 第二卷第40章历史归属回补 |
 | [顾长青报名、真谢侠心与主动领路](early-v02-GuChangqing-named-gratitude-pleased-volunteer-guide.md) | 第二卷第39章历史归属回补 |
 | [对顾的冲穴借口、达摩剑猜与玄悲自保推断](early-v02-Meng-Gufirstmeeting-coverstory-Damo-guess-teacher-inference.md) | 第二卷第39章历史归属回补 |
 | [安尸搜得两粒丹、钥址未定与沉湖改装离去](early-v02-An-loot-Yuanhun2-brasskeys-hypothesis-lakesink-departure.md) | 第二卷第39章历史归属回补 |
