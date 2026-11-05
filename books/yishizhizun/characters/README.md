@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [九剑前几式初入与自然解封复五关](early-v02-Dugu-firstentry-frontfew-sealbreak-restores-Goldbell5.md) | 第二卷第65章历史归属回补 |
+| [玄悲舅父身份、真正封禁自陈与亡儿思念](early-v02-Xuanbei-maternaluncle-readeronly-sealconfession-lostchildren.md) | 第二卷第65章历史归属回补 |
+| [江杀尤、孟击退与榜单江十孟三十三](early-v02-Jiang-kills-You-Meng-retreat-publicrank10and33.md) | 第二卷第65章历史归属回补 |
 | [刻意激怒、当前失内力与实际少林禁传誓](early-v02-deliberate-goading-actual-Shaolin-nontransmission-oath.md) | 第二卷第64章历史归属回补 |
 | [武凉惜别、苏姓线索与书生四器](early-v02-Wuliang-teacherfarewell-Su-hint-fourweapons-scholar.md) | 第二卷第64章历史归属回补 |
 | [尤邬鸟报网、试雷截杀与四匪伤眼](early-v02-You-Wu-network-ambush-four-eyeinjuries-no-innerforce.md) | 第二卷第64章历史归属回补 |
