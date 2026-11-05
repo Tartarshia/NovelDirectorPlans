@@ -3,6 +3,46 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "chapter_id": "v02-c0038",
+      "reference": "v02-c0038:p0001",
+      "type": "possible_typo",
+      "issue": "原以身犯陷，陷疑险；保原字SHA，语意为其他人怕报复不愿冒险，不强判新陷阱已经触发。",
+      "review_id": "review-backfill-v02-0038"
+    },
+    {
+      "chapter_id": "v02-c0038",
+      "reference": "v02-c0038:p0002",
+      "type": "possible_typo",
+      "issue": "原抵挡神庙附近，挡疑达；保原字SHA，顾只抵附近藏树未入庙作防御。",
+      "review_id": "review-backfill-v02-0038"
+    },
+    {
+      "chapter_id": "v02-c0038",
+      "reference": "v02-c0038:p0004",
+      "type": "possible_typo",
+      "issue": "原一颗大树，颗疑棵；保原字SHA，确为顾藏身大树非种子新物。",
+      "review_id": "review-backfill-v02-0038"
+    },
+    {
+      "chapter_id": "v02-c0038",
+      "reference": "v02-c0038:p0042",
+      "type": "possible_typo",
+      "issue": "原铁镖迎面打开，开疑来或其他字；保原文SHA，动作镖迎面飞来非安已先开解毒。",
+      "review_id": "review-backfill-v02-0038"
+    },
+    {
+      "chapter_id": "v02-c0038",
+      "reference": "v02-c0038:p0055",
+      "type": "source_technique_name_context_conflict",
+      "issue": "原一刀断清净，与本章26刀光滚滚红尘和上下文绝招称谓有冲突；保55原名及26原字，不擅替换或加第二同级刀，待版本核对。",
+      "review_id": "review-backfill-v02-0038",
+      "conflicting_references": [
+        "v02-c0038:p0026",
+        "v02-c0038:p0055"
+      ],
+      "resolution": "unresolved_preserve_source_names_no_extra_attack_or_silent_emendation"
+    },
+    {
       "chapter_id": "v02-c0037",
       "reference": "v02-c0037:p0023",
       "type": "possible_typo",

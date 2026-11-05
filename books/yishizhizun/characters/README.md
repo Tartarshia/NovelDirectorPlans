@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾长青两窍侠气与只观察未救、纸团尚未投](early-v02-GuChangqing-twoeyes-treeobserver-paper-not-thrown.md) | 第二卷第38章历史归属回补 |
+| [安九窍反杀：毒诱分心、刀镖剑三波与毫厘](early-v02-An-threewave-surprise-poison-dart7-hit4-left-Yanluo-kill.md) | 第二卷第38章历史归属回补 |
+| [自救成功的畅快与自知、舍身未用排名未授](early-v02-An-dead-selfrescue-pride-not-rank36-SheShen-counterfactual.md) | 第二卷第38章历史归属回补 |
 | [盖远一刀气绝、雷威不等引雷与严重反噬](early-v02-Gai-oneblade-kill-aura-not-stormcharge-severe-recoil.md) | 第二卷第37章历史归属回补 |
 | [秘籍售476、买书400左技70开瓶10后余1](early-v02-manualsale476-Goldbell6book400-left70-openbottle10-balance1.md) | 第二卷第37章历史归属回补 |
 | [低左手不双持、休足伪伤与回庙布置](early-v02-low-leftskill-not-dualwield-free-injurydisguise-temple-return.md) | 第二卷第37章历史归属回补 |
