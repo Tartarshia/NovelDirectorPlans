@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [截巡三死一俘、幻形近圆与审讯限制](early-v02-patrol-three-dead-one-live-distorted-cry-illusion-nearfull.md) | 第二卷第59章历史归属回补 |
+| [慧留活、油绳退路与火警未名](early-v02-Hui-oilrope-escapeplan-fire-alarm-voice-unknown.md) | 第二卷第59章历史归属回补 |
+| [康亲口威吓、孟忍到火起与七窍真挡](early-v02-Kang-direct-threat-Meng-restraint-shallowinjury-seven-intercept.md) | 第二卷第59章历史归属回补 |
 | [顾长青：否认、亲情记忆、侠义自疑到复仇誓](early-v02-Gu-denial-familymemories-heroismdoubt-then-vow.md) | 第二卷第58章历史归属回补 |
 | [两封信、交亲链与核实后的死亡转述](early-v02-twoletters-patron-clanleader-corroborated-kin-deathreport.md) | 第二卷第58章历史归属回补 |
 | [孟奇承担与真慧潜火分工：袭岭尚是计划](early-v02-Meng-responsibility-Hui-stealthfire-raidplan-notyet.md) | 第二卷第58章历史归属回补 |
