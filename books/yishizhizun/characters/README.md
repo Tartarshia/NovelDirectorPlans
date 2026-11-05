@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [天海源显境试心、八白尾威压与无欲界限](early-v02-Tianhaiyuan-illusion-calm-test-eightwhite-tail-pressure.md) | 第二卷第56章历史归属回补 |
+| [康支尤还多敌营：顾身份线报与已送索亲信](early-v02-Kang-Zhi-You-Huanduo-Gu-ID-letter-demand-not-death.md) | 第二卷第56章历史归属回补 |
+| [少林援名：空见与无净只在敌营报告](early-v02-Shaolin-help-Kongjian-Wujing-enemycamp-report.md) | 第二卷第56章历史归属回补 |
 | [弘能咫尺天涯：真护持、非幻形与兰柯新确认](early-v02-Hong-ZhichiTianya-real-noncontact-limited-protection.md) | 第二卷第55章历史归属回补 |
 | [狐五火尾、文虎妖仍猜与慧蓄气大成有限](early-v02-fox-five-tails-Wen-tigerguess-Hui-accumulation-complete.md) | 第二卷第55章历史归属回补 |
 | [粘因果未学、天海源知识与护送待行](early-v02-ZhanYinguo-unlearned-Tianhaiyuan-escort-not-arrived.md) | 第二卷第55章历史归属回补 |
