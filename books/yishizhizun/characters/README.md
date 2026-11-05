@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [都末七窍代战：仓促中幻与元不同层反应](early-v02-Dumo7-hurried-illusion-bypass-Yuan-notfooled.md) | 第二卷第51章历史归属回补 |
+| [青玉手与断清净心景、一发雷刀临终误判](early-v02-Yuan-Qingyuhands-DuanQingjing-vision-one-thunderblade.md) | 第二卷第51章历史归属回补 |
+| [厅静脑中误判、忠妻儿与公旧生活悲忆](early-v02-crowd-silent-falsepredictions-Zhong-Gong-oldgrief.md) | 第二卷第51章历史归属回补 |
 | [谢离店后未名纤手：拧耳事实与身份空白](early-v02-unknown-hand-Xie-earpinch-no-Jiuniang-identification.md) | 第二卷第50章历史归属回补 |
 | [孟独处焦虑、毒烛不点双因与理性退路](early-v02-privatepressure-unused-poisoncandle-two-reasons.md) | 第二卷第50章历史归属回补 |
 | [风起转S23、古礼宴列与挑战未引雷](early-v02-naturalwind-stage23-feast-challenge-no-thunder-use.md) | 第二卷第50章历史归属回补 |
