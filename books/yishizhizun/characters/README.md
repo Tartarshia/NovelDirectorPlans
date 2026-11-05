@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [秦山谢老头：面摊热情与平等礼貌](early-v03-noodleseller-Xie-distinct-from-Xiejiugui-equal-courtesy.md) | 第三卷第1章历史归属回补 |
+| [未名少女与黑衣青年：看榜误认与想象](early-v03-unnamed-girl-blackclad-youth-fan-misrecognition.md) | 第三卷第1章历史归属回补 |
+| [孟首次亲见榜、外号受伤与寿宴计划](early-v03-Meng-first-boardread-nickname-frustration-banquetchallenge-plan.md) | 第三卷第1章历史归属回补 |
 | [第二卷65章归属回补成长收束](v02-attribution-growth-summary.md) | 32阶段与卷末知情、能力、关系边界，非全书终审 |
 | [九剑前几式初入与自然解封复五关](early-v02-Dugu-firstentry-frontfew-sealbreak-restores-Goldbell5.md) | 第二卷第65章历史归属回补 |
 | [玄悲舅父身份、真正封禁自陈与亡儿思念](early-v02-Xuanbei-maternaluncle-readeronly-sealconfession-lostchildren.md) | 第二卷第65章历史归属回补 |
