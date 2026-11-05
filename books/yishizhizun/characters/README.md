@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [弘能咫尺天涯：真护持、非幻形与兰柯新确认](early-v02-Hong-ZhichiTianya-real-noncontact-limited-protection.md) | 第二卷第55章历史归属回补 |
+| [狐五火尾、文虎妖仍猜与慧蓄气大成有限](early-v02-fox-five-tails-Wen-tigerguess-Hui-accumulation-complete.md) | 第二卷第55章历史归属回补 |
+| [粘因果未学、天海源知识与护送待行](early-v02-ZhanYinguo-unlearned-Tianhaiyuan-escort-not-arrived.md) | 第二卷第55章历史归属回补 |
 | [真观黑鳞估八、复仇数量自述与半妖代价](early-v02-Zhenguan-est8-revenge18of72-Xiangliu-costs.md) | 第二卷第54章历史归属回补 |
 | [弘能慈悲与年轻挫败、感应强未定境](early-v02-Hong-compassion-youthful-failure-demon-sensing.md) | 第二卷第54章历史归属回补 |
 | [少女未名文伯、真慧旧知与圣令刻字分媒介](early-v02-unnamed-demon-girl-WenBo-Ananda-decree-oldinscription.md) | 第二卷第54章历史归属回补 |
