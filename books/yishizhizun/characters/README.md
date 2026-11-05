@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [元孟支与都末：缩编押送、五日鱼海计划限敌侧](early-v02-Yuan9-Dumo7-escort-only-five-day-Yuhai-enemyplan.md) | 第二卷第48章历史归属回补 |
+| [鱼海红尘新悟、白九窍交游与王六窍未死](early-v02-Yuhai-red-dust-insight-Bai9-Wang6-neckscratch.md) | 第二卷第48章历史归属回补 |
+| [顾避两女匪与孟玩笑、尚未揭妙法](early-v02-Gu-unwanted-courting-Meng-tease-method-notyet.md) | 第二卷第48章历史归属回补 |
 | [忠牙奢招揽：缺人、粗豪包装与未揭的二三当家](early-v02-Zhong-Yashe-recruitment-Gong-third-Wu-second-claims.md) | 第二卷第47章历史归属回补 |
 | [普通左剑不敌、九剑一瞬灵机仍未入门](early-v02-leftsword-inferior-Zhong-Dugu-glimpse-notentry.md) | 第二卷第47章历史归属回补 |
 | [杀恶无悔而压抑、入伙面具与怕丢假发](early-v02-Meng-moralpressure-rolecover-wigfear-fifthleader.md) | 第二卷第47章历史归属回补 |
