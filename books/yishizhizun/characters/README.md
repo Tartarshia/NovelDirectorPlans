@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [忠牙奢招揽：缺人、粗豪包装与未揭的二三当家](early-v02-Zhong-Yashe-recruitment-Gong-third-Wu-second-claims.md) | 第二卷第47章历史归属回补 |
+| [普通左剑不敌、九剑一瞬灵机仍未入门](early-v02-leftsword-inferior-Zhong-Dugu-glimpse-notentry.md) | 第二卷第47章历史归属回补 |
+| [杀恶无悔而压抑、入伙面具与怕丢假发](early-v02-Meng-moralpressure-rolecover-wigfear-fifthleader.md) | 第二卷第47章历史归属回补 |
 | [估价六七百未兑换、网已备而绝招未用](early-v02-loot600or700-estimate-Tianluowang-ready-bigmove-cost.md) | 第二卷第46章历史归属回补 |
 | [借沈发扮新人、湖畔首次现场确认真慧](early-v02-Shenhair-wig-newbandit-disguise-Hui-first-eyewitness.md) | 第二卷第46章历史归属回补 |
 | [左剑实练、见残虐愤怒与新人伪装共存](early-v02-leftswordpractice-pastoralistmurders-onebanditkill.md) | 第二卷第46章历史归属回补 |
