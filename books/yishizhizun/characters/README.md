@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾长青：否认、亲情记忆、侠义自疑到复仇誓](early-v02-Gu-denial-familymemories-heroismdoubt-then-vow.md) | 第二卷第58章历史归属回补 |
+| [两封信、交亲链与核实后的死亡转述](early-v02-twoletters-patron-clanleader-corroborated-kin-deathreport.md) | 第二卷第58章历史归属回补 |
+| [孟奇承担与真慧潜火分工：袭岭尚是计划](early-v02-Meng-responsibility-Hui-stealthfire-raidplan-notyet.md) | 第二卷第58章历史归属回补 |
 | [五关圆满封一品、十三罩门与约月时差](early-v02-Goldbell5-full-firstgrade-13weakpoints-timeskew.md) | 第二卷第57章历史归属回补 |
 | [弘能知幻真礼、有限护持与到城真别](early-v02-Hong-knows-illusion-sincere-bow-limited-escort-completed.md) | 第二卷第57章历史归属回补 |
 | [客报师捷家祸、顾落筷仅震击](early-v02-innreports-teacherpeak-Gu-familynews-final-stickfall.md) | 第二卷第57章历史归属回补 |

@@ -3,6 +3,23 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "chapter_id": "v02-c0058",
+      "reference": "v02-c0058:p0005",
+      "type": "possible_typo",
+      "issue": "任人则罗居疑任由则罗居，保原SHA及偏移，不擅改词。",
+      "review_id": "review-backfill-v02-0058"
+    },
+    {
+      "chapter_id": "v02-c0058",
+      "reference": "v02-c0058:p0022",
+      "type": "address_anomaly",
+      "issue": "顾长青称孟真定师弟与其非僧同门身份不合；保原地址与说者，不据称谓改顾身份或把对白移给慧。",
+      "review_id": "review-backfill-v02-0058",
+      "source_address": "真定师弟",
+      "source_speaker": "gu_changqing",
+      "resolution": "preserve_source_address_and_speaker_no_monastic_identity_inference"
+    },
+    {
       "chapter_id": "v02-c0057",
       "reference": "v02-c0057:p0027",
       "type": "possible_typo",
