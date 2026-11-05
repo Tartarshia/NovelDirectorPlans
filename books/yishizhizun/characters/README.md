@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [玄悲搜寻、隐私结界与八真两假](early-v02-Xuanbei-search-privacy-barrier-mixedtruefalse-report.md) | 第二卷第62章历史归属回补 |
+| [早抄五六关书、重复秘籍与未来借口](early-v02-teacher-copied-Goldbell5and6-duplicate-book-not-rankup.md) | 第二卷第62章历史归属回补 |
+| [获救女子自组马队离营、感谢与心不忍](early-v02-rescuedwomen-horsepairs-leavecamp-heartunwilling-not-merit.md) | 第二卷第62章历史归属回补 |
 | [孩子威胁、真慧反对与孟奇的关门选择](early-v02-childthreat-Hui-objection-Meng-closesdoor-offscreen-unknown.md) | 第二卷第61章历史归属回补 |
 | [寒风自创刀书、未解黑皮与战利品分配](early-v02-Hanfeng-book-blackhide-futureappraisal-loot-distribution.md) | 第二卷第61章历史归属回补 |
 | [被掳大晋女子：惊惧、释哭到组织同伴](early-v02-abducted-Jinwoman-rescue-leader-practical-aid-not-shame.md) | 第二卷第61章历史归属回补 |
