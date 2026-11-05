@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [数日稳耳与药开眼隐患的补足](early-v02-earstabilised-repairs-forcedeye-risk-afterdays.md) | 第二卷第36章历史归属回补 |
+| [三份回礼：车怕拒、洛冷简、段顾面子](early-v02-three-separate-thankyou-gifts-Rongxue-Luonotes-Bingque.md) | 第二卷第36章历史归属回补 |
+| [盖远信由孟念、三藏新讯与未开战的满场](early-v02-Gai-letter-readbyMeng-three-storehouses-precombat-crowd.md) | 第二卷第36章历史归属回补 |
 | [常识授课与四人大礼、具体法门仍留界限](early-v02-permitted-principles-teaching-four-salutes-not-formaldisciples.md) | 第二卷第35章历史归属回补 |
 | [阎罗帖木剑实试：有进无退与未能收手](early-v02-Yanluotie-woodblade-realtrial-uncontrolled-browhit.md) | 第二卷第35章历史归属回补 |
 | [第49段自开耳成四窍、阎罗帖入门远逊江](early-v02-natural-earopening-fourapertures-Yanluo-entry-notfull.md) | 第二卷第35章历史归属回补 |
