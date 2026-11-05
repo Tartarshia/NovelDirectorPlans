@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [幻形跟踪今揭：段应用教学、杀安精神蜕变仍未圆满](early-v02-Huanxing-follow-Duan-applications-Ankill-growth-not-perfect.md) | 第二卷第43章历史归属回补 |
+| [俞林三路圈套实证、未知死间与慧去向未得](early-v02-Yulin-tripletrap-confirmed-deathagent-Hui-stillunknown.md) | 第二卷第43章历史归属回补 |
+| [同信鸟导实营、四随从与普通刀两杀有浅伤](early-v02-letterbird-real-Shencamp-two-patrols-dead-minorwound.md) | 第二卷第43章历史归属回补 |
 | [中年付讯与粗假精假、敌意也可能伪装](early-v02-proxy-two-rumours-layeredmisdirection-still-hypotheses.md) | 第二卷第42章历史归属回补 |
 | [顾家金裟绿洲依匪庇、家人负担与孟的诚恳](early-v02-Gu-family-patronage-shame-and-Meng-sincere-reassurance.md) | 第二卷第42章历史归属回补 |
 | [黑脸口供未实、二次活晕留命核实与跟踪异象](early-v02-blackface-unverified-confession-spared-follow-phenomenon.md) | 第二卷第42章历史归属回补 |
