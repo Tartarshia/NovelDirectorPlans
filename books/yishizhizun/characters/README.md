@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [圆觉寺诱炸计划与早知少主的讲述来源](early-v03-Guan-Yuanjue-trap-heir-move-imperial-history-claim.md) | 第三卷第37章历史归属回补 |
+| [吕令弑帝说法、关应自承七幕后与生灵立场](early-v03-LuLing-crown-absorptionpill-Guan-seventh-rebellion-lives.md) | 第三卷第37章历史归属回补 |
+| [左手晶石小半、双重拖延与已响却未劈的雷](early-v03-Guan-leftcrystal-smallhalf-dualdelay-real-thunder-no-strike.md) | 第三卷第37章历史归属回补 |
 | [守卫不降智的第二预案与孟的两次实际杀人](early-v03-secondplan-Luo-fist-decoy-Ruan-garden-two-guardkills.md) | 第三卷第36章历史归属回补 |
 | [八九蓄气已修明确证与第六关破墙](early-v03-Bajiu-qistorage-practiced-Goldbell6-wallbreak-not-noseopen.md) | 第三卷第36章历史归属回补 |
 | [亲见死帝与关应晶石昏迷说法的证据区分](early-v03-emperor-corpse-seen-Guan-crystal-coma-account-not-proof.md) | 第三卷第36章历史归属回补 |
