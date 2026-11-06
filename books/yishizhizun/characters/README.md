@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [暗示决定后入庵，谈话未示与六关未入](early-v03-Zhang-implied-choice-nunnery-talk-unshown-Goldbell6-notentry.md) | 第三卷第15章历史归属回补 |
+| [1830收获加红日80，670邪劫的实际更换](early-v03-sale1830-RedSun80-Xiejie670-actual-change-not-fullbalance.md) | 第三卷第15章历史归属回补 |
+| [八九蓄气实购未练与残九灭未补](early-v03-Bajiuqi100-bought-not-trained-Shenxiao-incomplete-prices.md) | 第三卷第15章历史归属回补 |
 | [醉客的结局：不拔剑、不内力、短麻恢复](early-v03-drunk-sheathed-noqi-numb-recovers-not-Yao.md) | 第三卷第14章历史归属回补 |
 | [姚星流切磋：九退一刺、重精神代价与左右新路](early-v03-Yao-four-dualsword-nine-retreats-heavyfatigue-no-Outerused.md) | 第三卷第14章历史归属回补 |
 | [武痴的计策与宋明溪私心的推断](early-v03-Yao-fakedeath-proposal-wit-Song-crush-inferred-not-confessed.md) | 第三卷第14章历史归属回补 |
