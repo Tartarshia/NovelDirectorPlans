@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [毒无常的人毒与焦冲为救人自断左臂](early-v03-Duwuchang-humanonly-poison-localranks-fruit-Jiao-leftarm.md) | 第三卷第19章历史归属回补 |
+| [阮琴定位配孟雷言剑杀及波及同伴的代价](early-v03-Ruan-qinwindow-Meng-Leiyan-allyshock-swordkill-noloot.md) | 第三卷第19章历史归属回补 |
+| [陆观尊重退走的自由、悲葬与残队五人](early-v03-Luguan-voluntary-escort-burial-five-survivors.md) | 第三卷第19章历史归属回补 |
 | [阮玉书四窍实证、清冷幽默与私下眼力](early-v03-Ruan-fourapertures-nickname-tease-private-knifeinsight.md) | 第三卷第18章历史归属回补 |
 | [陆观初见与中齐的家眷顾虑、金焦两护卫](early-v03-Luguan-firstmeeting-LuZhongqi-familyrisk-Jin-Jiao-distinct.md) | 第三卷第18章历史归属回补 |
 | [天刀未破、雷言小成与查毒后未解袭击](early-v03-Tiandao-bottleneck-Leiyan-smallachievement-checkedfood-poison.md) | 第三卷第18章历史归属回补 |
