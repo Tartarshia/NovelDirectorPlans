@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [关应河袭、右剑左刀与孟自评平手](early-v03-Guan-boatambush-rightsword-leftblade-bothhurt-selfdraw.md) | 第三卷第22章历史归属回补 |
+| [入京主线一实结200、会罗在后与未破的天刀](early-v03-main1-entry200-before-Luo-Tiandao-learning-not-breakthrough.md) | 第三卷第22章历史归属回补 |
+| [相府、花院与观星楼的读者消息边界](early-v03-capital-three-reader-courts-unknown-identities.md) | 第三卷第22章历史归属回补 |
 | [郑四凶的独立轮声、三招全死与协作弱点](early-v03-Zhengfour-positions-three-moves-coordination-limit.md) | 第三卷第21章历史归属回补 |
 | [关应书信的朗读者与条件式心理布局](early-v03-Guan-letter-Lu-readaloud-conditional-psychwar-not-prophecy.md) | 第三卷第21章历史归属回补 |
 | [五尸静坐的威慑与唯一一次破顶试探](early-v03-temple-fivecorpses-silent-deterrence-one-rooftest.md) | 第三卷第21章历史归属回补 |
