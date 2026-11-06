@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [本章实际服药开鼻六窍、内力近七与空晶](early-v03-actual-six-nose-open-pill-consumed-crystal-empty-power7.md) | 第三卷第40章历史归属回补 |
+| [新黑布隔晶、四字旧幻景与未证的阿难身份](early-v03-new-crystalwrapper-fourwords-oldvision-Ananda-hypothesis.md) | 第三卷第40章历史归属回补 |
+| [四皇子选君主之剑与尚未交付的藏剑许可](early-v03-fourthprince-rulersword-choice-giftpermission-except2.md) | 第三卷第40章历史归属回补 |
 | [阮预判耗力主动救援、罗返回与不能抹去的杀伤](early-v03-Ruan-selfinitiated-rescue-Luo-return-comrades-actual-kills.md) | 第三卷第39章历史归属回补 |
 | [罗喊阮不喊、造疑策略与五人门战的真正逃宫](early-v03-Luo-only-slogans-gate5kills-threecorpse-arrowtests-exit.md) | 第三卷第39章历史归属回补 |
 | [选四的赌局、罗任一皇子任务与鼻窍突破尚待](early-v03-choose4-Luo-anyprince-mission-nosepoints-done-pill-not-taken.md) | 第三卷第39章历史归属回补 |
