@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [条件性幻形口供、三求和与尚待确认的帝王](early-v03-conditioned-confession-thirdpeace-XuJin-emperor-hypothesis.md) | 第三卷第32章历史归属回补 |
+| [陆化生实际被杀、丹药给队友与摄阴秘诀定名](early-v03-LuHuasheng-deliberate-captivekill-pills-allies-Sheyin-title.md) | 第三卷第32章历史归属回补 |
+| [魔后天罗与第五关、左剑右刀的最强一刀受阻](early-v03-Mohou-Tianluo-Goldbell5-leftsword-bestblade-stopped.md) | 第三卷第32章历史归属回补 |
 | [夜擒的自由同意、馆外接应与有限幻形](early-v03-nightcapture-consent-outsideRuan-private-directions-weakguards.md) | 第三卷第31章历史归属回补 |
 | [陆化生的声证、断清净恐惧与活擒分工](early-v03-LuHuasheng-voiceconfirm58-fear-bladeback-Luo-backpoints-live.md) | 第三卷第31章历史归属回补 |
 | [邪君取宝假设、一本未读秘籍与未获得的口供](early-v03-Guan-treasure-hypothesis-one-unread-manual-no-confession.md) | 第三卷第31章历史归属回补 |
