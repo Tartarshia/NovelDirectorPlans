@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [叶宅幻魔实用、家丁问后睡与白发封穴未杀](early-v03-Ye-guardillusion-oldman-sealed-alive-Huanmo-realuse.md) | 第三卷第50章历史归属回补 |
+| [李遂七窍一呼吸被杀，冰阙收回与李剑实取](early-v03-LiSui-seven-actualkill-onebreath-Iceque-taken-sword.md) | 第三卷第50章历史归属回补 |
+| [丫环迟警、街众脱追与酒肉后才亮剑](early-v03-delayedalarm-crowd-escape-meatwine-Qi-silent-swordreveal.md) | 第三卷第50章历史归属回补 |
 | [同五官面具、旧疤与水葬，不接唐的谜案](early-v03-Tang-sameface-cover-scars-waterburial-no-mysteryquest.md) | 第三卷第49章历史归属回补 |
 | [邑城相见的假表弟与齐真实堂弟之祸](early-v03-Yicheng-arrival-falsebiaodi-truecousin-Qi-private-report.md) | 第三卷第49章历史归属回补 |
 | [地方四家失衡与齐四窍实力不能公开的顾虑](early-v03-fourlocalclans-Qi-hidden4-power-supportplan-no-revengeyet.md) | 第三卷第49章历史归属回补 |
