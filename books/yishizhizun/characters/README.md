@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [张远山的两重难舍：亲恩资源与符真真](early-v03-Zhang-familyresources-Fu-love-coherent-distress-no-choice.md) | 第三卷第13章历史归属回补 |
+| [张六窍和七子阶段：自述、同辈报告与丹药猜因](early-v03-Zhang6-sevenpeers-stages-report-pillcause-only-guess.md) | 第三卷第13章历史归属回补 |
+| [孟的陪伴边界：剑在桌、三碗止、保密与顾宋](early-v03-Meng-tavern-privacy-threebowls-decide-without-harming-Song.md) | 第三卷第13章历史归属回补 |
 | [符真实剃度：先劝冲动、重复确认与名字待办](early-v03-Fu-actual-tonsure-namepending-not-griefgone.md) | 第三卷第12章历史归属回补 |
 | [孟陪伴的次序：沉默、浅唱、经文、幽默与余地](early-v03-Meng-support-silence-song-scripture-humor-not-forced-reunion.md) | 第三卷第12章历史归属回补 |
 | [拒见的界限与尚未听到的张的解释](early-v03-Fu-no-Zhang-visit-boundary-Meng-listen-before-verdict.md) | 第三卷第12章历史归属回补 |
