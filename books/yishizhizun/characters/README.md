@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四招杀剑将军的扰心与连续时机](early-v03-Meng-fourmoves-Swordgeneral-pressure-timing-not-newrealm.md) | 第三卷第20章历史归属回补 |
+| [虎道人有惧仍守与陆观等命的带动](early-v03-Hu-private-fear-Huxiao-Luguan-equal-lives-morale.md) | 第三卷第20章历史归属回补 |
+| [阔剑实得与四凶信件后未明的门外声](early-v03-broadsword-actual-loot-Zhengfourfiends-letter-doorvoice-unknown.md) | 第三卷第20章历史归属回补 |
 | [毒无常的人毒与焦冲为救人自断左臂](early-v03-Duwuchang-humanonly-poison-localranks-fruit-Jiao-leftarm.md) | 第三卷第19章历史归属回补 |
 | [阮琴定位配孟雷言剑杀及波及同伴的代价](early-v03-Ruan-qinwindow-Meng-Leiyan-allyshock-swordkill-noloot.md) | 第三卷第19章历史归属回补 |
 | [陆观尊重退走的自由、悲葬与残队五人](early-v03-Luguan-voluntary-escort-burial-five-survivors.md) | 第三卷第19章历史归属回补 |
