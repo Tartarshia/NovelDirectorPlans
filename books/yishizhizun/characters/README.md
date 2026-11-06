@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [唐景长房继承身份到此明，叶三雇杀为构造谣言](early-v03-TangJing-heir-now-named-rumor-not-confirmedkiller.md) | 第三卷第52章历史归属回补 |
+| [密室切磋两刀精义，冰寒代价与榜名仅估](early-v03-private-spar-two-blademeanings-coldcost-ranks-onlyestimate.md) | 第三卷第52章历史归属回补 |
+| [林信转述、拟请刑堂与生死信任旁的有限核实](early-v03-Lin-letter-replyplan-friendtrust-partialcheck-Tang5-invite.md) | 第三卷第52章历史归属回补 |
 | [齐宗门象征、沉控三问与主动假供](early-v03-Qi-sectsymbol-calm-threequestions-falsealibi-not-innocence.md) | 第三卷第51章历史归属回补 |
 | [叶三少压指认与冷笑后的撤退](early-v03-Ye3-coerced-identification-Meng-coldsmile-retreat.md) | 第三卷第51章历史归属回补 |
 | [万大明确死与唐二公讯未卜，孟享气派仍理智](early-v03-Wan1-corpsereturn-Tang2-publicunknown-private-dead.md) | 第三卷第51章历史归属回补 |
