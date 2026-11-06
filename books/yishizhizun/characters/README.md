@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [三琴迫避、老罗互称与曹死葛暂安的代价](early-v03-Ruan-threeqin-Ruyi-stop-oldLuo-Cao-death-Ge-safe.md) | 第三卷第42章历史归属回补 |
+| [实际取剑分配、陆坐营与孟1171未计卖剑](early-v03-actual-swords-nine18-share-Meng1171-unsold.md) | 第三卷第42章历史归属回补 |
+| [回归疗柱、真侠误认与一年后的死亡任务预告](early-v03-dawn-return-healing-nextdeathmission-oneyear-notstarted.md) | 第三卷第42章历史归属回补 |
 | [四的求证与三急务、陆旧军和萧王身份](early-v03-fourth-threeplans-Lu-armysymbol-Xiaowangthird-no-successyet.md) | 第三卷第41章历史归属回补 |
 | [五道口令的身份惯性与只针对被跟者的幻形](early-v03-fivepasswords-realguard-socialproof-not-mastercontrol.md) | 第三卷第41章历史归属回补 |
 | [太子实际眉心死、右胸借掌与破关的防御含义](early-v03-crown-actual-browkill-chesttrade-Goldbell-defensebreak-wigfall.md) | 第三卷第41章历史归属回补 |
