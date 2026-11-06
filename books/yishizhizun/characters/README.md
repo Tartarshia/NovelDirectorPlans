@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [长孙景巴图实名与真实的三强差距](early-v03-ChangsunJing-Batu-names-strengthgap-known271.md) | 第三卷第27章历史归属回补 |
+| [阮两段试琴与孟奇只在心里的配乐幻想](early-v03-Ruan-twoqin-teases-BGM-only-Meng-fantasy.md) | 第三卷第27章历史归属回补 |
+| [六人密谈的三条消息、隐少主与魔尊线索](early-v03-three-news-sixperson-room-hiddenheir-Mozun-uncertain.md) | 第三卷第27章历史归属回补 |
 | [三方互忌、剑客人设与准确的心隙挑衅](early-v03-three-rivals-Meng-image-heartflaw-precise-provocation.md) | 第三卷第26章历史归属回补 |
 | [烈刀浅伤活逃、未催心意的落红尘与保留后手](early-v03-Liedao-shallowwound-RedDust-pattern-no-heartintent-no-She.md) | 第三卷第26章历史归属回补 |
 | [阮仿剑皇冷哼、孟暗赞与两个未交手的退敌](early-v03-Ruan-Jianhuang-voiceimitation-rivals-retreat-not-fight.md) | 第三卷第26章历史归属回补 |
