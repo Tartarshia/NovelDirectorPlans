@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [三方互忌、剑客人设与准确的心隙挑衅](early-v03-three-rivals-Meng-image-heartflaw-precise-provocation.md) | 第三卷第26章历史归属回补 |
+| [烈刀浅伤活逃、未催心意的落红尘与保留后手](early-v03-Liedao-shallowwound-RedDust-pattern-no-heartintent-no-She.md) | 第三卷第26章历史归属回补 |
+| [阮仿剑皇冷哼、孟暗赞与两个未交手的退敌](early-v03-Ruan-Jianhuang-voiceimitation-rivals-retreat-not-fight.md) | 第三卷第26章历史归属回补 |
 | [和谈调查私心与先晕后主动灭口](early-v03-envoy-privateinterest-stun-then-deliberate-throatkill.md) | 第三卷第25章历史归属回补 |
 | [模糊刀感、剑重构未破与阮听觉优势](early-v03-blade-qi-vague-Dugu-reconstruction-Ruan-hearing.md) | 第三卷第25章历史归属回补 |
 | [景少弱友证言、三方动机与孟白衣桥上挑战](early-v03-Jingshao-weakfriend-fraudclaim-threeparties-whitebridge.md) | 第三卷第25章历史归属回补 |
