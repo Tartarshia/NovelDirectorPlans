@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [鱼同恩、未兑现承诺与九车过宫门](early-v03-YuTongen-purchase-agent-futurepromise-ninecarts-bribed-entry.md) | 第三卷第35章历史归属回补 |
+| [御膳梁上谨慎取糕与不舍却真实的分享](early-v03-Ruan-kitchen-real-pastries-cautious-take-shares-one.md) | 第三卷第35章历史归属回补 |
+| [勤政与太极、工具换装与仍在的寝外高手](early-v03-Qinzheng-Taiji-tools-guarduniform-nearchamber-notentered.md) | 第三卷第35章历史归属回补 |
 | [阮的独立秘档调查与基于人榜的传音](early-v03-Ruan-independent-Wulinjiyao-research-not-divination.md) | 第三卷第34章历史归属回补 |
 | [交感频率、同级可能条件与邪君重估](early-v03-thunder-frequency-peercondition-Guan-reassessment-futurefantasy.md) | 第三卷第34章历史归属回补 |
 | [皇城外围未入、陆的远见与午后魔后来客](early-v03-palace-outerrecon-noentry-Lu-remotesighting-afternoon-Mohou.md) | 第三卷第34章历史归属回补 |
