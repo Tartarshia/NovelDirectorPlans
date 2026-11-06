@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [符买白首赠短剑，医者备毒余20](early-v03-Fu-Whitepair200-twoapertures-healing-poison-left20.md) | 第三卷第44章历史归属回补 |
+| [葛实际入宫后证、求活坦白与易书购而未会](early-v03-Ge-Chengren200-palaceguard-Yishu300-no-divinationyet.md) | 第三卷第44章历史归属回补 |
+| [孟实际购紫雷与1131余额，八九开窍尚未购](early-v03-Meng-sales2831-Zilei2000-books300-Bajiu-plan1131.md) | 第三卷第44章历史归属回补 |
 | [死亡压力下的旧例、差异奖励与扩大同伴圈](early-v03-deathpressure-oldLuo-evaluation-draw1471-group-opening.md) | 第三卷第43章历史归属回补 |
 | [江七窍既成、八窍目标与奕剑疗伤实兑](early-v03-Jiang-seven-eighthgoal-Yijian-healing1670to50.md) | 第三卷第43章历史归属回补 |
 | [阿难疑云公开但来源有掩饰，换刀和买剑尚未成交](early-v03-Ananda-sharedhypothesis-Zilei-preference-Fu-unsold-sword.md) | 第三卷第43章历史归属回补 |
