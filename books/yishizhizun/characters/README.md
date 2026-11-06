@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [八九开窍实得余1，损晶外魔皮鉴定后保留](early-v03-Bajiu-opening-owned-left1-damagedcrystal-outerdemonhide-kept.md) | 第三卷第45章历史归属回补 |
+| [音乐热情、散修敬意与保命假死尚为准备](early-v03-Ruan-music-fewnotes-Luo-fist-Zhang-Ranxue-futuregoals.md) | 第三卷第45章历史归属回补 |
+| [齐四窍剑升级与江私下察觉心事](early-v03-Qi-four-dragonweapon-upgraded-Jiang-private-worry-notcause.md) | 第三卷第45章历史归属回补 |
 | [符买白首赠短剑，医者备毒余20](early-v03-Fu-Whitepair200-twoapertures-healing-poison-left20.md) | 第三卷第44章历史归属回补 |
 | [葛实际入宫后证、求活坦白与易书购而未会](early-v03-Ge-Chengren200-palaceguard-Yishu300-no-divinationyet.md) | 第三卷第44章历史归属回补 |
 | [孟实际购紫雷与1131余额，八九开窍尚未购](early-v03-Meng-sales2831-Zilei2000-books300-Bajiu-plan1131.md) | 第三卷第44章历史归属回补 |
