@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [三的情报与未执行的擒魔宗计划、明确拒招](early-v03-third-intel-uncertain-LuHuasheng-plan-recruitment-declined.md) | 第三卷第30章历史归属回补 |
+| [罗平等情报互换与魔后旧战、没有发生的宗师战](early-v03-Luo-equal-exchange-Mohou-oldescape-expectedduel-none.md) | 第三卷第30章历史归属回补 |
+| [少主空院、近期离开与邪君无言舟过](early-v03-heir-emptycourtyard-recentdeparture-silentGuan-notproof.md) | 第三卷第30章历史归属回补 |
 | [七皇子的随意见客、自我撇清与带立场的指认](early-v03-seventhprince-casual-selfdefence-Maodun-Yinshi-claim.md) | 第三卷第29章历史归属回补 |
 | [四皇子的藏剑、俗累与尚未兑现的阻和承诺](early-v03-fourthprince-swordcollection-rhetoric-vow-not-gift.md) | 第三卷第29章历史归属回补 |
 | [太子拒见的传话、曹战赏赐与三的热情](early-v03-crown-refusal-relayed-Cao-reward-thirdwelcome.md) | 第三卷第29章历史归属回补 |
