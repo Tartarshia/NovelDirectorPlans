@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [张承决定与实行责任，姚家疑影和八九问题未证](early-v03-Zhang-selfresponsibility-Yao-possible-Bajiu-bodyquestion.md) | 第三卷第46章历史归属回补 |
+| [大半月船修后的两法初成与八九练气证据](early-v03-boat-overhalfmonth-Immortalseal-two-initial-Bajiu-qi-practiced.md) | 第三卷第46章历史归属回补 |
+| [夏雪实见与崔战转述，两名水手及未揭大厅](early-v03-summer-ice-Cui-battle-report-two-sailors-unknown-hall.md) | 第三卷第46章历史归属回补 |
 | [八九开窍实得余1，损晶外魔皮鉴定后保留](early-v03-Bajiu-opening-owned-left1-damagedcrystal-outerdemonhide-kept.md) | 第三卷第45章历史归属回补 |
 | [音乐热情、散修敬意与保命假死尚为准备](early-v03-Ruan-music-fewnotes-Luo-fist-Zhang-Ranxue-futuregoals.md) | 第三卷第45章历史归属回补 |
 | [齐四窍剑升级与江私下察觉心事](early-v03-Qi-four-dragonweapon-upgraded-Jiang-private-worry-notcause.md) | 第三卷第45章历史归属回补 |
