@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [死亡压力下的旧例、差异奖励与扩大同伴圈](early-v03-deathpressure-oldLuo-evaluation-draw1471-group-opening.md) | 第三卷第43章历史归属回补 |
+| [江七窍既成、八窍目标与奕剑疗伤实兑](early-v03-Jiang-seven-eighthgoal-Yijian-healing1670to50.md) | 第三卷第43章历史归属回补 |
+| [阿难疑云公开但来源有掩饰，换刀和买剑尚未成交](early-v03-Ananda-sharedhypothesis-Zilei-preference-Fu-unsold-sword.md) | 第三卷第43章历史归属回补 |
 | [三琴迫避、老罗互称与曹死葛暂安的代价](early-v03-Ruan-threeqin-Ruyi-stop-oldLuo-Cao-death-Ge-safe.md) | 第三卷第42章历史归属回补 |
 | [实际取剑分配、陆坐营与孟1171未计卖剑](early-v03-actual-swords-nine18-share-Meng1171-unsold.md) | 第三卷第42章历史归属回补 |
 | [回归疗柱、真侠误认与一年后的死亡任务预告](early-v03-dawn-return-healing-nextdeathmission-oneyear-notstarted.md) | 第三卷第42章历史归属回补 |
