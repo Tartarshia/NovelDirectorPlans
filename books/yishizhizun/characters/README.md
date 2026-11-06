@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [天刀总纲、雷言和左手精通：实购与尚未协同](early-v03-Tiandaooutline400-Leiyan420-left200-balance21-not-dualcoord.md) | 第三卷第16章历史归属回补 |
+| [黑皮地图与心底连环任务，尚未进入疑冢](early-v03-blackhide-private-heartvoice-Zhenwu-chainquest-not-currentmain.md) | 第三卷第16章历史归属回补 |
+| [罗的协作推断与三位未名新人的初见](early-v03-Luo-coop-guess-three-unnamed-newcomers-initialappearances.md) | 第三卷第16章历史归属回补 |
 | [暗示决定后入庵，谈话未示与六关未入](early-v03-Zhang-implied-choice-nunnery-talk-unshown-Goldbell6-notentry.md) | 第三卷第15章历史归属回补 |
 | [1830收获加红日80，670邪劫的实际更换](early-v03-sale1830-RedSun80-Xiejie670-actual-change-not-fullbalance.md) | 第三卷第15章历史归属回补 |
 | [八九蓄气实购未练与残九灭未补](early-v03-Bajiuqi100-bought-not-trained-Shenxiao-incomplete-prices.md) | 第三卷第15章历史归属回补 |
