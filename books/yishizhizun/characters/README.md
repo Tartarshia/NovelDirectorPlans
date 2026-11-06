@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [安氏首声、药园铜矿与元神誓未来未兑现](early-v03-Anshi-firstvoice-mine-garden-offers-not-delivered.md) | 第三卷第62章历史归属回补 |
+| [短晕后精神自御、私传推控婢与有限控制](early-v03-spirit-intrusion-defense-private-control-limits.md) | 第三卷第62章历史归属回补 |
+| [也许非叶仍推断、借王名与佯退抢攻](early-v03-maybe-not-Ye-borrowed-Wangname-preemptive-turn.md) | 第三卷第62章历史归属回补 |
 | [唐忍九窍、气机评与真唐十年折算](early-v03-TangRen-training-praise-psychgap-not-full-Liejiang.md) | 第三卷第61章历史归属回补 |
 | [真迷路的观星说辞与血鉴公证推演](early-v03-lost-way-stargaze-cover-bloodtest-hypotheses.md) | 第三卷第61章历史归属回补 |
 | [商水赴邀、安氏如意沉香与未验证王家授权](early-v03-Shangshui-Anshi-maids-Wangauthority-unconfirmed.md) | 第三卷第61章历史归属回补 |
