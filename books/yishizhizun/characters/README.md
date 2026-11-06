@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [雷杀关应的实伤、未用舍身与单人300奖](early-v03-Guan-thunderkill-wounds-noShe-onecharge-only300-booklimits.md) | 第三卷第38章历史归属回补 |
+| [晶石强制精元灌入与急吸解释的修正](early-v03-crystal-forced-influx-revises-voluntarystory-six-notcomplete.md) | 第三卷第38章历史归属回补 |
+| [秘卫谎称、两名活屋顶守卫与脱身未成](early-v03-false-secretguard-cover-two-live-roofguards-actual-alarm.md) | 第三卷第38章历史归属回补 |
 | [圆觉寺诱炸计划与早知少主的讲述来源](early-v03-Guan-Yuanjue-trap-heir-move-imperial-history-claim.md) | 第三卷第37章历史归属回补 |
 | [吕令弑帝说法、关应自承七幕后与生灵立场](early-v03-LuLing-crown-absorptionpill-Guan-seventh-rebellion-lives.md) | 第三卷第37章历史归属回补 |
 | [左手晶石小半、双重拖延与已响却未劈的雷](early-v03-Guan-leftcrystal-smallhalf-dualdelay-real-thunder-no-strike.md) | 第三卷第37章历史归属回补 |
