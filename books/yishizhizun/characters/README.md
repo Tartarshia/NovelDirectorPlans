@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [七皇子的随意见客、自我撇清与带立场的指认](early-v03-seventhprince-casual-selfdefence-Maodun-Yinshi-claim.md) | 第三卷第29章历史归属回补 |
+| [四皇子的藏剑、俗累与尚未兑现的阻和承诺](early-v03-fourthprince-swordcollection-rhetoric-vow-not-gift.md) | 第三卷第29章历史归属回补 |
+| [太子拒见的传话、曹战赏赐与三的热情](early-v03-crown-refusal-relayed-Cao-reward-thirdwelcome.md) | 第三卷第29章历史归属回补 |
 | [血杀刀法二十七处指正与用嘴代剑的教学](early-v03-Changsun-Xuesha27corrections-wordmock-not-apprentice.md) | 第三卷第28章历史归属回补 |
 | [繁简互促、无招须有理解与更远处的自限](early-v03-fanjian-mutual-wuzhao-qualified-furtherroad.md) | 第三卷第28章历史归属回补 |
 | [心里的将来切磋、未全掌天刀与明日四访计划](early-v03-inner-futureduel-Tiandao-notmastered-fourprince-plan.md) | 第三卷第28章历史归属回补 |
