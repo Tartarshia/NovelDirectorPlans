@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [自己天刀一击压叶跪，收刀未伤非第五全招](early-v03-own-Tiandao-strike-Ye-kneels-alive-not-Zilei5.md) | 第三卷第57章历史归属回补 |
+| [七八分仿声、金阶说辞与故露假疤真容](early-v03-voice-mimic-false-Goldassassin-deliberate-underface.md) | 第三卷第57章历史归属回补 |
+| [王载守住礼法答法，叔沉默与假想辩词](early-v03-WangZai-ritual-answer-no-moralbreak-uncle-silence.md) | 第三卷第57章历史归属回补 |
 | [借唐景身份三日、报恩而非定情](early-v03-TangJing-cover-three-day-gratitude-not-romance.md) | 第三卷第56章历史归属回补 |
 | [唐府守卫私议、强迫明日订亲与继承礼法](early-v03-Tang-guard-opinions-and-coerced-betrothal-not-complete.md) | 第三卷第56章历史归属回补 |
 | [邪劫真拔出，王载只握柄的章末边界](early-v03-Xiejie-drawn-WangZai-hilt-only-no-result.md) | 第三卷第56章历史归属回补 |
