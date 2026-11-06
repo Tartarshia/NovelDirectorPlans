@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [紫雷七击男弟子：顾报告与孟的七八成猜测](early-v03-Gu-Zilei7-unnamed-male-Outer-reincarnator-only-guess.md) | 第三卷第11章历史归属回补 |
+| [两日宣武、拍掌戒偷与弃徒的拜访方式](early-v03-Xuanwu-two-days-wig-thieves-palms-citymansion-caution.md) | 第三卷第11章历史归属回补 |
+| [符真真重逢、私传音与定亲宴冲击](early-v03-Fu-reunion-cutname-private-Jiurenpart-betrothal-shock.md) | 第三卷第11章历史归属回补 |
 | [还石后的侠名误读与实际吟诗](early-v03-returnstone-coregained-Hua-misreads-selfless-real-poem.md) | 第三卷第10章历史归属回补 |
 | [顾江箫现身、夫君戏称与九天未答](early-v03-Gu-riverflute-explicit-fujun-tease-NineHeavens-unanswered.md) | 第三卷第10章历史归属回补 |
 | [顾述霸王旧史、雷招体质与缺本线索](early-v03-Gu-Bawang-history-Xuannv-blade-clue-Six-still-incomplete.md) | 第三卷第10章历史归属回补 |
