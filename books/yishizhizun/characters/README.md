@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [和谈调查私心与先晕后主动灭口](early-v03-envoy-privateinterest-stun-then-deliberate-throatkill.md) | 第三卷第25章历史归属回补 |
+| [模糊刀感、剑重构未破与阮听觉优势](early-v03-blade-qi-vague-Dugu-reconstruction-Ruan-hearing.md) | 第三卷第25章历史归属回补 |
+| [景少弱友证言、三方动机与孟白衣桥上挑战](early-v03-Jingshao-weakfriend-fraudclaim-threeparties-whitebridge.md) | 第三卷第25章历史归属回补 |
 | [剑皇真实破绽布局、阮稳心与孟的首次回防](early-v03-Jianhuang-realflaw-traps-Ruan-calmqin-Meng-defence.md) | 第三卷第24章历史归属回补 |
 | [第51段才明的剑皇、繁简互辅与以我为主](early-v03-Jianhuang-selftitle51-selfbased-fanjian-not-finalmastery.md) | 第三卷第24章历史归属回补 |
 | [中立的依据、陆观和平反例与尚未开始的使者调查](early-v03-neutral-Luguan-peace-exception-envoy-inquiry-plan.md) | 第三卷第24章历史归属回补 |
