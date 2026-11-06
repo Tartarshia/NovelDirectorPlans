@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [借卸劲左筷杀铁手，过弱原因仍未知](early-v03-Tieshou-actualdeath-borrowunload-leftchopstick-weakness-unknown.md) | 第三卷第48章历史归属回补 |
+| [王策自报与君子剑的江湖误读](early-v03-WangCe-selfname-Siyuan-distinct-Junzijian-rumor.md) | 第三卷第48章历史归属回补 |
+| [首次紫雷一丝及唐夜返死讯，无遗言遗物揭示](early-v03-firstZilei-one-sliver-Tang-founddead-no-lastwords.md) | 第三卷第48章历史归属回补 |
 | [唐万自述与筷刺重伤，死亡本章未确](early-v03-TangWan-surnames-six-two-Yicheng-attack-deathunconfirmed.md) | 第三卷第47章历史归属回补 |
 | [单六窍守剑、王氏六窍援手与老仆威慑](early-v03-Shan-six-Wang-youth-Haoranqi-oldservant-deterrence.md) | 第三卷第47章历史归属回补 |
 | [铁手七欢喜妻八逐次认出，醉杀手组织与一脚待续](early-v03-Tieshou7-Huanxi-wife8-drunkgroup-unknown-kickpending.md) | 第三卷第47章历史归属回补 |
