@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [夜擒的自由同意、馆外接应与有限幻形](early-v03-nightcapture-consent-outsideRuan-private-directions-weakguards.md) | 第三卷第31章历史归属回补 |
+| [陆化生的声证、断清净恐惧与活擒分工](early-v03-LuHuasheng-voiceconfirm58-fear-bladeback-Luo-backpoints-live.md) | 第三卷第31章历史归属回补 |
+| [邪君取宝假设、一本未读秘籍与未获得的口供](early-v03-Guan-treasure-hypothesis-one-unread-manual-no-confession.md) | 第三卷第31章历史归属回补 |
 | [三的情报与未执行的擒魔宗计划、明确拒招](early-v03-third-intel-uncertain-LuHuasheng-plan-recruitment-declined.md) | 第三卷第30章历史归属回补 |
 | [罗平等情报互换与魔后旧战、没有发生的宗师战](early-v03-Luo-equal-exchange-Mohou-oldescape-expectedduel-none.md) | 第三卷第30章历史归属回补 |
 | [少主空院、近期离开与邪君无言舟过](early-v03-heir-emptycourtyard-recentdeparture-silentGuan-notproof.md) | 第三卷第30章历史归属回补 |
