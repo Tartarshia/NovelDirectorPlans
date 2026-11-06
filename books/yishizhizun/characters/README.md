@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮葛曹实名、罗八窍31与孟的另一个自号](early-v03-Ruan-Ge-Cao-names-stableids-Luo8-rank31-Meng-alias.md) | 第三卷第17章历史归属回补 |
+| [护陆观的任务与目前只完成的高通支线](early-v03-Luguan-escort-rules-Gao50only-Guanying-notdead.md) | 第三卷第17章历史归属回补 |
+| [阮玉书琴杀的定点、微汗与食物的距离变化](early-v03-Ruan-targetqin-kill-sweat-food-elegantfast-not-Durenqin.md) | 第三卷第17章历史归属回补 |
 | [天刀总纲、雷言和左手精通：实购与尚未协同](early-v03-Tiandaooutline400-Leiyan420-left200-balance21-not-dualcoord.md) | 第三卷第16章历史归属回补 |
 | [黑皮地图与心底连环任务，尚未进入疑冢](early-v03-blackhide-private-heartvoice-Zhenwu-chainquest-not-currentmain.md) | 第三卷第16章历史归属回补 |
 | [罗的协作推断与三位未名新人的初见](early-v03-Luo-coop-guess-three-unnamed-newcomers-initialappearances.md) | 第三卷第16章历史归属回补 |
