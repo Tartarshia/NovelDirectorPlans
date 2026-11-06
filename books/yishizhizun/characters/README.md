@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [醉客的结局：不拔剑、不内力、短麻恢复](early-v03-drunk-sheathed-noqi-numb-recovers-not-Yao.md) | 第三卷第14章历史归属回补 |
+| [姚星流切磋：九退一刺、重精神代价与左右新路](early-v03-Yao-four-dualsword-nine-retreats-heavyfatigue-no-Outerused.md) | 第三卷第14章历史归属回补 |
+| [武痴的计策与宋明溪私心的推断](early-v03-Yao-fakedeath-proposal-wit-Song-crush-inferred-not-confessed.md) | 第三卷第14章历史归属回补 |
 | [张远山的两重难舍：亲恩资源与符真真](early-v03-Zhang-familyresources-Fu-love-coherent-distress-no-choice.md) | 第三卷第13章历史归属回补 |
 | [张六窍和七子阶段：自述、同辈报告与丹药猜因](early-v03-Zhang6-sevenpeers-stages-report-pillcause-only-guess.md) | 第三卷第13章历史归属回补 |
 | [孟的陪伴边界：剑在桌、三碗止、保密与顾宋](early-v03-Meng-tavern-privacy-threebowls-decide-without-harming-Song.md) | 第三卷第13章历史归属回补 |
