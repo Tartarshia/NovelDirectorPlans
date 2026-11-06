@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [唐万自述与筷刺重伤，死亡本章未确](early-v03-TangWan-surnames-six-two-Yicheng-attack-deathunconfirmed.md) | 第三卷第47章历史归属回补 |
+| [单六窍守剑、王氏六窍援手与老仆威慑](early-v03-Shan-six-Wang-youth-Haoranqi-oldservant-deterrence.md) | 第三卷第47章历史归属回补 |
+| [铁手七欢喜妻八逐次认出，醉杀手组织与一脚待续](early-v03-Tieshou7-Huanxi-wife8-drunkgroup-unknown-kickpending.md) | 第三卷第47章历史归属回补 |
 | [张承决定与实行责任，姚家疑影和八九问题未证](early-v03-Zhang-selfresponsibility-Yao-possible-Bajiu-bodyquestion.md) | 第三卷第46章历史归属回补 |
 | [大半月船修后的两法初成与八九练气证据](early-v03-boat-overhalfmonth-Immortalseal-two-initial-Bajiu-qi-practiced.md) | 第三卷第46章历史归属回补 |
 | [夏雪实见与崔战转述，两名水手及未揭大厅](early-v03-summer-ice-Cui-battle-report-two-sailors-unknown-hall.md) | 第三卷第46章历史归属回补 |
