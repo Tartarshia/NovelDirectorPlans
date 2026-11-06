@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮玉书四窍实证、清冷幽默与私下眼力](early-v03-Ruan-fourapertures-nickname-tease-private-knifeinsight.md) | 第三卷第18章历史归属回补 |
+| [陆观初见与中齐的家眷顾虑、金焦两护卫](early-v03-Luguan-firstmeeting-LuZhongqi-familyrisk-Jin-Jiao-distinct.md) | 第三卷第18章历史归属回补 |
+| [天刀未破、雷言小成与查毒后未解袭击](early-v03-Tiandao-bottleneck-Leiyan-smallachievement-checkedfood-poison.md) | 第三卷第18章历史归属回补 |
 | [阮葛曹实名、罗八窍31与孟的另一个自号](early-v03-Ruan-Ge-Cao-names-stableids-Luo8-rank31-Meng-alias.md) | 第三卷第17章历史归属回补 |
 | [护陆观的任务与目前只完成的高通支线](early-v03-Luguan-escort-rules-Gao50only-Guanying-notdead.md) | 第三卷第17章历史归属回补 |
 | [阮玉书琴杀的定点、微汗与食物的距离变化](early-v03-Ruan-targetqin-kill-sweat-food-elegantfast-not-Durenqin.md) | 第三卷第17章历史归属回补 |
