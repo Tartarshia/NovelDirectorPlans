@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [守卫不降智的第二预案与孟的两次实际杀人](early-v03-secondplan-Luo-fist-decoy-Ruan-garden-two-guardkills.md) | 第三卷第36章历史归属回补 |
+| [八九蓄气已修明确证与第六关破墙](early-v03-Bajiu-qistorage-practiced-Goldbell6-wallbreak-not-noseopen.md) | 第三卷第36章历史归属回补 |
+| [亲见死帝与关应晶石昏迷说法的证据区分](early-v03-emperor-corpse-seen-Guan-crystal-coma-account-not-proof.md) | 第三卷第36章历史归属回补 |
 | [鱼同恩、未兑现承诺与九车过宫门](early-v03-YuTongen-purchase-agent-futurepromise-ninecarts-bribed-entry.md) | 第三卷第35章历史归属回补 |
 | [御膳梁上谨慎取糕与不舍却真实的分享](early-v03-Ruan-kitchen-real-pastries-cautious-take-shares-one.md) | 第三卷第35章历史归属回补 |
 | [勤政与太极、工具换装与仍在的寝外高手](early-v03-Qinzheng-Taiji-tools-guarduniform-nearchamber-notentered.md) | 第三卷第35章历史归属回补 |
