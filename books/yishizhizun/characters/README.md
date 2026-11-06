@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四九窍分时接战至多两人，明月先机与借劲限度](early-v03-four-nine-sequenced-atmost2-initiative-borrow-cost.md) | 第三卷第54章历史归属回补 |
+| [齐不藏功冻住唐五林穆，雪冻极光只削弱未挡停](early-v03-Qi-exposes-art-freezes-Tang5-Lin-alive-intercept-notstop.md) | 第三卷第54章历史归属回补 |
+| [紫殇气毁冰阙入体，叶孝杰与未知旁观者](early-v03-Zishang-Iceque-shattered-injury-YeXiaojie-unknownobserver.md) | 第三卷第54章历史归属回补 |
 | [林穆、唐思训和唐恕新明，隔壁密议的表面安排](early-v03-LinMu-TangSixun8-TangShu9-names-separate-rooms.md) | 第三卷第53章历史归属回补 |
 | [乌琴心旧识君子剑联结与唐明月自报](early-v03-oldWu-Shangguan-Junzi-link-TangMingyue-selfname.md) | 第三卷第53章历史归属回补 |
 | [唐明月私警与唐恕实掌，血剑来者待揭](early-v03-TangMingyue-private-warning-TangShu-palms-unknownbloodsword.md) | 第三卷第53章历史归属回补 |
