@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐主动灭唐五林穆、清功痕与伪造报告](early-v03-Qi-deliberate-doublekill-coldtrace-erased-frame-report.md) | 第三卷第55章历史归属回补 |
+| [宝兵三档、四九全逃与旁听圈的榜估战讯](early-v03-baobing-three-modes-four9-flee-HuangYue-ranknews.md) | 第三卷第55章历史归属回补 |
+| [孟近愈仍失冰阙，援信尚未寄与王载榜23新报](early-v03-Meng-nearlyhealed-Iceque-loss-unsent-letter-WangZai23.md) | 第三卷第55章历史归属回补 |
 | [四九窍分时接战至多两人，明月先机与借劲限度](early-v03-four-nine-sequenced-atmost2-initiative-borrow-cost.md) | 第三卷第54章历史归属回补 |
 | [齐不藏功冻住唐五林穆，雪冻极光只削弱未挡停](early-v03-Qi-exposes-art-freezes-Tang5-Lin-alive-intercept-notstop.md) | 第三卷第54章历史归属回补 |
 | [紫殇气毁冰阙入体，叶孝杰与未知旁观者](early-v03-Zishang-Iceque-shattered-injury-YeXiaojie-unknownobserver.md) | 第三卷第54章历史归属回补 |
