@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [剑皇真实破绽布局、阮稳心与孟的首次回防](early-v03-Jianhuang-realflaw-traps-Ruan-calmqin-Meng-defence.md) | 第三卷第24章历史归属回补 |
+| [第51段才明的剑皇、繁简互辅与以我为主](early-v03-Jianhuang-selftitle51-selfbased-fanjian-not-finalmastery.md) | 第三卷第24章历史归属回补 |
+| [中立的依据、陆观和平反例与尚未开始的使者调查](early-v03-neutral-Luguan-peace-exception-envoy-inquiry-plan.md) | 第三卷第24章历史归属回补 |
 | [主二400与罗的三皇子方案、魔后仅疑](early-v03-main2-400-Luo-thirdprince-plan-not-compulsory-Mohou-guess.md) | 第三卷第23章历史归属回补 |
 | [处下风的平手、正面全力保命与凝练剑招设想](early-v03-Guan-lowerhand-draw-allout-survive-Yanluo-condensed-option.md) | 第三卷第23章历史归属回补 |
 | [阮的琴弦演示和桥上未名剑客](early-v03-Ruan-qinstring-demo-bridge-whitehair-unknown.md) | 第三卷第23章历史归属回补 |
