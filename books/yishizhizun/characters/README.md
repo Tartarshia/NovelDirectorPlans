@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [林穆、唐思训和唐恕新明，隔壁密议的表面安排](early-v03-LinMu-TangSixun8-TangShu9-names-separate-rooms.md) | 第三卷第53章历史归属回补 |
+| [乌琴心旧识君子剑联结与唐明月自报](early-v03-oldWu-Shangguan-Junzi-link-TangMingyue-selfname.md) | 第三卷第53章历史归属回补 |
+| [唐明月私警与唐恕实掌，血剑来者待揭](early-v03-TangMingyue-private-warning-TangShu-palms-unknownbloodsword.md) | 第三卷第53章历史归属回补 |
 | [唐景长房继承身份到此明，叶三雇杀为构造谣言](early-v03-TangJing-heir-now-named-rumor-not-confirmedkiller.md) | 第三卷第52章历史归属回补 |
 | [密室切磋两刀精义，冰寒代价与榜名仅估](early-v03-private-spar-two-blademeanings-coldcost-ranks-onlyestimate.md) | 第三卷第52章历史归属回补 |
 | [林信转述、拟请刑堂与生死信任旁的有限核实](early-v03-Lin-letter-replyplan-friendtrust-partialcheck-Tang5-invite.md) | 第三卷第52章历史归属回补 |
