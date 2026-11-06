@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第三卷归属回补：第34章](books/yishizhizun/reviews/review-backfill-v03-0034.md)：新全文复读55段101单元；归属已972章、待438，可用复读回执待0。
 - [第三卷归属回补：第33章](books/yishizhizun/reviews/review-backfill-v03-0033.md)：新全文复读78段115单元；归属已971章、待439，可用复读回执待0。
 - [第三卷归属回补：第32章](books/yishizhizun/reviews/review-backfill-v03-0032.md)：新全文复读69段101单元；归属已970章、待440，可用复读回执待0。
 - [第三卷归属回补：第31章](books/yishizhizun/reviews/review-backfill-v03-0031.md)：新全文复读77段115单元；归属已969章、待441，可用复读回执待0。

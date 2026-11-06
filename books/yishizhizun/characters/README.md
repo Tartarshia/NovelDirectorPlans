@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮的独立秘档调查与基于人榜的传音](early-v03-Ruan-independent-Wulinjiyao-research-not-divination.md) | 第三卷第34章历史归属回补 |
+| [交感频率、同级可能条件与邪君重估](early-v03-thunder-frequency-peercondition-Guan-reassessment-futurefantasy.md) | 第三卷第34章历史归属回补 |
+| [皇城外围未入、陆的远见与午后魔后来客](early-v03-palace-outerrecon-noentry-Lu-remotesighting-afternoon-Mohou.md) | 第三卷第34章历史归属回补 |
 | [外缠反探、破气初悟与阎罗受阻](early-v03-Poqi-firstinsight-Tianluo-reverseread-Yanluo-unhurtfinger.md) | 第三卷第33章历史归属回补 |
 | [未用舍身、魔后主动停手与条件探宫](early-v03-She-notcast-Mohou-voluntary-stop-conditional-palaceplan.md) | 第三卷第33章历史归属回补 |
 | [第六关首次入门、父赐琴与勾三推论](early-v03-Goldbell6-entry61-Ruan-fathergiven-qin-third-link-deduction.md) | 第三卷第33章历史归属回补 |
