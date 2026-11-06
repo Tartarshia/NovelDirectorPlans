@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [观澜帖非秘籍传承，取势与快融己刀](early-v03-Guanlan-art-shape-fast-not-full-Liejiang-inheritance.md) | 第三卷第60章历史归属回补 |
+| [唐恕受示意供述、亲眷免罚与本人实死](early-v03-TangShu-confession-after-signal-kin-freed-actualdeath.md) | 第三卷第60章历史归属回补 |
+| [白袍实穿、私仇耍酷与口内分离](early-v03-white-robe-showoff-revenge-inner-outer-speech.md) | 第三卷第60章历史归属回补 |
 | [唐思德实名、具体连亲处罚提案与黎明听辩](early-v03-TangSide-name-specific-kinpenalties-dawn-hearing.md) | 第三卷第59章历史归属回补 |
 | [七代二实际权调与利益动员、无名有实](early-v03-seven-actinghead-replaces-two-interest-mobilization.md) | 第三卷第59章历史归属回补 |
 | [白袍要帅的内心与杀恕预告尚未兑现](early-v03-white-robe-private-style-public-poise-killforecast.md) | 第三卷第59章历史归属回补 |
