@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四的求证与三急务、陆旧军和萧王身份](early-v03-fourth-threeplans-Lu-armysymbol-Xiaowangthird-no-successyet.md) | 第三卷第41章历史归属回补 |
+| [五道口令的身份惯性与只针对被跟者的幻形](early-v03-fivepasswords-realguard-socialproof-not-mastercontrol.md) | 第三卷第41章历史归属回补 |
+| [太子实际眉心死、右胸借掌与破关的防御含义](early-v03-crown-actual-browkill-chesttrade-Goldbell-defensebreak-wigfall.md) | 第三卷第41章历史归属回补 |
 | [本章实际服药开鼻六窍、内力近七与空晶](early-v03-actual-six-nose-open-pill-consumed-crystal-empty-power7.md) | 第三卷第40章历史归属回补 |
 | [新黑布隔晶、四字旧幻景与未证的阿难身份](early-v03-new-crystalwrapper-fourwords-oldvision-Ananda-hypothesis.md) | 第三卷第40章历史归属回补 |
 | [四皇子选君主之剑与尚未交付的藏剑许可](early-v03-fourthprince-rulersword-choice-giftpermission-except2.md) | 第三卷第40章历史归属回补 |
