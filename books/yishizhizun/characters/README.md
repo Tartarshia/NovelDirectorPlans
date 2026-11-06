@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [符真实剃度：先劝冲动、重复确认与名字待办](early-v03-Fu-actual-tonsure-namepending-not-griefgone.md) | 第三卷第12章历史归属回补 |
+| [孟陪伴的次序：沉默、浅唱、经文、幽默与余地](early-v03-Meng-support-silence-song-scripture-humor-not-forced-reunion.md) | 第三卷第12章历史归属回补 |
+| [拒见的界限与尚未听到的张的解释](early-v03-Fu-no-Zhang-visit-boundary-Meng-listen-before-verdict.md) | 第三卷第12章历史归属回补 |
 | [紫雷七击男弟子：顾报告与孟的七八成猜测](early-v03-Gu-Zilei7-unnamed-male-Outer-reincarnator-only-guess.md) | 第三卷第11章历史归属回补 |
 | [两日宣武、拍掌戒偷与弃徒的拜访方式](early-v03-Xuanwu-two-days-wig-thieves-palms-citymansion-caution.md) | 第三卷第11章历史归属回补 |
 | [符真真重逢、私传音与定亲宴冲击](early-v03-Fu-reunion-cutname-private-Jiurenpart-betrothal-shock.md) | 第三卷第11章历史归属回补 |
