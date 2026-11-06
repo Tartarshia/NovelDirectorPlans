@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [唐思德实名、具体连亲处罚提案与黎明听辩](early-v03-TangSide-name-specific-kinpenalties-dawn-hearing.md) | 第三卷第59章历史归属回补 |
+| [七代二实际权调与利益动员、无名有实](early-v03-seven-actinghead-replaces-two-interest-mobilization.md) | 第三卷第59章历史归属回补 |
+| [白袍要帅的内心与杀恕预告尚未兑现](early-v03-white-robe-private-style-public-poise-killforecast.md) | 第三卷第59章历史归属回补 |
 | [两日血鉴拖延与长房动员、三叔共投谜](early-v03-bloodtest-two-day-delay-clan-mobilization-unresolved-motive.md) | 第三卷第58章历史归属回补 |
 | [唐忌唐忍、右手三摇与冒身份担因果初感](early-v03-TangJi-TangRen-three-handshakes-karma-glimpse.md) | 第三卷第58章历史归属回补 |
 | [唐恕仍活、二爷甩责与罚直亲威胁未执行](early-v03-TangShu-alive-kinpunishment-threat-not-executed.md) | 第三卷第58章历史归属回补 |
