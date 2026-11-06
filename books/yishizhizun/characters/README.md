@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐宗门象征、沉控三问与主动假供](early-v03-Qi-sectsymbol-calm-threequestions-falsealibi-not-innocence.md) | 第三卷第51章历史归属回补 |
+| [叶三少压指认与冷笑后的撤退](early-v03-Ye3-coerced-identification-Meng-coldsmile-retreat.md) | 第三卷第51章历史归属回补 |
+| [万大明确死与唐二公讯未卜，孟享气派仍理智](early-v03-Wan1-corpsereturn-Tang2-publicunknown-private-dead.md) | 第三卷第51章历史归属回补 |
 | [叶宅幻魔实用、家丁问后睡与白发封穴未杀](early-v03-Ye-guardillusion-oldman-sealed-alive-Huanmo-realuse.md) | 第三卷第50章历史归属回补 |
 | [李遂七窍一呼吸被杀，冰阙收回与李剑实取](early-v03-LiSui-seven-actualkill-onebreath-Iceque-taken-sword.md) | 第三卷第50章历史归属回补 |
 | [丫环迟警、街众脱追与酒肉后才亮剑](early-v03-delayedalarm-crowd-escape-meatwine-Qi-silent-swordreveal.md) | 第三卷第50章历史归属回补 |
