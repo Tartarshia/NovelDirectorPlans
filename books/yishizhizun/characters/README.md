@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [唐忍九窍、气机评与真唐十年折算](early-v03-TangRen-training-praise-psychgap-not-full-Liejiang.md) | 第三卷第61章历史归属回补 |
+| [真迷路的观星说辞与血鉴公证推演](early-v03-lost-way-stargaze-cover-bloodtest-hypotheses.md) | 第三卷第61章历史归属回补 |
+| [商水赴邀、安氏如意沉香与未验证王家授权](early-v03-Shangshui-Anshi-maids-Wangauthority-unconfirmed.md) | 第三卷第61章历史归属回补 |
 | [观澜帖非秘籍传承，取势与快融己刀](early-v03-Guanlan-art-shape-fast-not-full-Liejiang-inheritance.md) | 第三卷第60章历史归属回补 |
 | [唐恕受示意供述、亲眷免罚与本人实死](early-v03-TangShu-confession-after-signal-kin-freed-actualdeath.md) | 第三卷第60章历史归属回补 |
 | [白袍实穿、私仇耍酷与口内分离](early-v03-white-robe-showoff-revenge-inner-outer-speech.md) | 第三卷第60章历史归属回补 |
