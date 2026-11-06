@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [两日血鉴拖延与长房动员、三叔共投谜](early-v03-bloodtest-two-day-delay-clan-mobilization-unresolved-motive.md) | 第三卷第58章历史归属回补 |
+| [唐忌唐忍、右手三摇与冒身份担因果初感](early-v03-TangJi-TangRen-three-handshakes-karma-glimpse.md) | 第三卷第58章历史归属回补 |
+| [唐恕仍活、二爷甩责与罚直亲威胁未执行](early-v03-TangShu-alive-kinpunishment-threat-not-executed.md) | 第三卷第58章历史归属回补 |
 | [自己天刀一击压叶跪，收刀未伤非第五全招](early-v03-own-Tiandao-strike-Ye-kneels-alive-not-Zilei5.md) | 第三卷第57章历史归属回补 |
 | [七八分仿声、金阶说辞与故露假疤真容](early-v03-voice-mimic-false-Goldassassin-deliberate-underface.md) | 第三卷第57章历史归属回补 |
 | [王载守住礼法答法，叔沉默与假想辩词](early-v03-WangZai-ritual-answer-no-moralbreak-uncle-silence.md) | 第三卷第57章历史归属回补 |
