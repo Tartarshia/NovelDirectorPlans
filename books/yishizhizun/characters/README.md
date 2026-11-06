@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [雷言实用、雷痕被动吸电与金钟六圆满新证](early-v03-Leiyan-real-passive-thundermark-Goldbell6full.md) | 第三卷第63章历史归属回补 |
+| [沧澜紫殇真战、如意炉体毁与同叶面复身](early-v03-Canglan-Zishang-Ruyi-host-destroyed-new-Yeface.md) | 第三卷第63章历史归属回补 |
+| [灰玉手非九斩首、全力断清净情绪与师教内忆](early-v03-grayhand-nonnine-beheaded-full-Duanqingjing-emotion.md) | 第三卷第63章历史归属回补 |
 | [安氏首声、药园铜矿与元神誓未来未兑现](early-v03-Anshi-firstvoice-mine-garden-offers-not-delivered.md) | 第三卷第62章历史归属回补 |
 | [短晕后精神自御、私传推控婢与有限控制](early-v03-spirit-intrusion-defense-private-control-limits.md) | 第三卷第62章历史归属回补 |
 | [也许非叶仍推断、借王名与佯退抢攻](early-v03-maybe-not-Ye-borrowed-Wangname-preemptive-turn.md) | 第三卷第62章历史归属回补 |
