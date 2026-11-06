@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [血杀刀法二十七处指正与用嘴代剑的教学](early-v03-Changsun-Xuesha27corrections-wordmock-not-apprentice.md) | 第三卷第28章历史归属回补 |
+| [繁简互促、无招须有理解与更远处的自限](early-v03-fanjian-mutual-wuzhao-qualified-furtherroad.md) | 第三卷第28章历史归属回补 |
+| [心里的将来切磋、未全掌天刀与明日四访计划](early-v03-inner-futureduel-Tiandao-notmastered-fourprince-plan.md) | 第三卷第28章历史归属回补 |
 | [长孙景巴图实名与真实的三强差距](early-v03-ChangsunJing-Batu-names-strengthgap-known271.md) | 第三卷第27章历史归属回补 |
 | [阮两段试琴与孟奇只在心里的配乐幻想](early-v03-Ruan-twoqin-teases-BGM-only-Meng-fantasy.md) | 第三卷第27章历史归属回补 |
 | [六人密谈的三条消息、隐少主与魔尊线索](early-v03-three-news-sixperson-room-hiddenheir-Mozun-uncertain.md) | 第三卷第27章历史归属回补 |
