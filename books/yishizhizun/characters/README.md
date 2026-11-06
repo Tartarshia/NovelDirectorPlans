@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [同五官面具、旧疤与水葬，不接唐的谜案](early-v03-Tang-sameface-cover-scars-waterburial-no-mysteryquest.md) | 第三卷第49章历史归属回补 |
+| [邑城相见的假表弟与齐真实堂弟之祸](early-v03-Yicheng-arrival-falsebiaodi-truecousin-Qi-private-report.md) | 第三卷第49章历史归属回补 |
+| [地方四家失衡与齐四窍实力不能公开的顾虑](early-v03-fourlocalclans-Qi-hidden4-power-supportplan-no-revengeyet.md) | 第三卷第49章历史归属回补 |
 | [借卸劲左筷杀铁手，过弱原因仍未知](early-v03-Tieshou-actualdeath-borrowunload-leftchopstick-weakness-unknown.md) | 第三卷第48章历史归属回补 |
 | [王策自报与君子剑的江湖误读](early-v03-WangCe-selfname-Siyuan-distinct-Junzijian-rumor.md) | 第三卷第48章历史归属回补 |
 | [首次紫雷一丝及唐夜返死讯，无遗言遗物揭示](early-v03-firstZilei-one-sliver-Tang-founddead-no-lastwords.md) | 第三卷第48章历史归属回补 |
