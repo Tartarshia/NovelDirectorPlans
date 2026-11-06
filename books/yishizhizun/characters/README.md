@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [主二400与罗的三皇子方案、魔后仅疑](early-v03-main2-400-Luo-thirdprince-plan-not-compulsory-Mohou-guess.md) | 第三卷第23章历史归属回补 |
+| [处下风的平手、正面全力保命与凝练剑招设想](early-v03-Guan-lowerhand-draw-allout-survive-Yanluo-condensed-option.md) | 第三卷第23章历史归属回补 |
+| [阮的琴弦演示和桥上未名剑客](early-v03-Ruan-qinstring-demo-bridge-whitehair-unknown.md) | 第三卷第23章历史归属回补 |
 | [关应河袭、右剑左刀与孟自评平手](early-v03-Guan-boatambush-rightsword-leftblade-bothhurt-selfdraw.md) | 第三卷第22章历史归属回补 |
 | [入京主线一实结200、会罗在后与未破的天刀](early-v03-main1-entry200-before-Luo-Tiandao-learning-not-breakthrough.md) | 第三卷第22章历史归属回补 |
 | [相府、花院与观星楼的读者消息边界](early-v03-capital-three-reader-courts-unknown-identities.md) | 第三卷第22章历史归属回补 |
