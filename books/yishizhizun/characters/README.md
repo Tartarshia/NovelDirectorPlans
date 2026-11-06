@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [郑四凶的独立轮声、三招全死与协作弱点](early-v03-Zhengfour-positions-three-moves-coordination-limit.md) | 第三卷第21章历史归属回补 |
+| [关应书信的朗读者与条件式心理布局](early-v03-Guan-letter-Lu-readaloud-conditional-psychwar-not-prophecy.md) | 第三卷第21章历史归属回补 |
+| [五尸静坐的威慑与唯一一次破顶试探](early-v03-temple-fivecorpses-silent-deterrence-one-rooftest.md) | 第三卷第21章历史归属回补 |
 | [四招杀剑将军的扰心与连续时机](early-v03-Meng-fourmoves-Swordgeneral-pressure-timing-not-newrealm.md) | 第三卷第20章历史归属回补 |
 | [虎道人有惧仍守与陆观等命的带动](early-v03-Hu-private-fear-Huxiao-Luguan-equal-lives-morale.md) | 第三卷第20章历史归属回补 |
 | [阔剑实得与四凶信件后未明的门外声](early-v03-broadsword-actual-loot-Zhengfourfiends-letter-doorvoice-unknown.md) | 第三卷第20章历史归属回补 |
