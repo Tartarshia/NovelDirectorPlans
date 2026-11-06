@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [借唐景身份三日、报恩而非定情](early-v03-TangJing-cover-three-day-gratitude-not-romance.md) | 第三卷第56章历史归属回补 |
+| [唐府守卫私议、强迫明日订亲与继承礼法](early-v03-Tang-guard-opinions-and-coerced-betrothal-not-complete.md) | 第三卷第56章历史归属回补 |
+| [邪劫真拔出，王载只握柄的章末边界](early-v03-Xiejie-drawn-WangZai-hilt-only-no-result.md) | 第三卷第56章历史归属回补 |
 | [齐主动灭唐五林穆、清功痕与伪造报告](early-v03-Qi-deliberate-doublekill-coldtrace-erased-frame-report.md) | 第三卷第55章历史归属回补 |
 | [宝兵三档、四九全逃与旁听圈的榜估战讯](early-v03-baobing-three-modes-four9-flee-HuangYue-ranknews.md) | 第三卷第55章历史归属回补 |
 | [孟近愈仍失冰阙，援信尚未寄与王载榜23新报](early-v03-Meng-nearlyhealed-Iceque-loss-unsent-letter-WangZai23.md) | 第三卷第55章历史归属回补 |
