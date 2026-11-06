@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮预判耗力主动救援、罗返回与不能抹去的杀伤](early-v03-Ruan-selfinitiated-rescue-Luo-return-comrades-actual-kills.md) | 第三卷第39章历史归属回补 |
+| [罗喊阮不喊、造疑策略与五人门战的真正逃宫](early-v03-Luo-only-slogans-gate5kills-threecorpse-arrowtests-exit.md) | 第三卷第39章历史归属回补 |
+| [选四的赌局、罗任一皇子任务与鼻窍突破尚待](early-v03-choose4-Luo-anyprince-mission-nosepoints-done-pill-not-taken.md) | 第三卷第39章历史归属回补 |
 | [雷杀关应的实伤、未用舍身与单人300奖](early-v03-Guan-thunderkill-wounds-noShe-onecharge-only300-booklimits.md) | 第三卷第38章历史归属回补 |
 | [晶石强制精元灌入与急吸解释的修正](early-v03-crystal-forced-influx-revises-voluntarystory-six-notcomplete.md) | 第三卷第38章历史归属回补 |
 | [秘卫谎称、两名活屋顶守卫与脱身未成](early-v03-false-secretguard-cover-two-live-roofguards-actual-alarm.md) | 第三卷第38章历史归属回补 |
