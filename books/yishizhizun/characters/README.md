@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [外缠反探、破气初悟与阎罗受阻](early-v03-Poqi-firstinsight-Tianluo-reverseread-Yanluo-unhurtfinger.md) | 第三卷第33章历史归属回补 |
+| [未用舍身、魔后主动停手与条件探宫](early-v03-She-notcast-Mohou-voluntary-stop-conditional-palaceplan.md) | 第三卷第33章历史归属回补 |
+| [第六关首次入门、父赐琴与勾三推论](early-v03-Goldbell6-entry61-Ruan-fathergiven-qin-third-link-deduction.md) | 第三卷第33章历史归属回补 |
 | [条件性幻形口供、三求和与尚待确认的帝王](early-v03-conditioned-confession-thirdpeace-XuJin-emperor-hypothesis.md) | 第三卷第32章历史归属回补 |
 | [陆化生实际被杀、丹药给队友与摄阴秘诀定名](early-v03-LuHuasheng-deliberate-captivekill-pills-allies-Sheyin-title.md) | 第三卷第32章历史归属回补 |
 | [魔后天罗与第五关、左剑右刀的最强一刀受阻](early-v03-Mohou-Tianluo-Goldbell5-leftsword-bestblade-stopped.md) | 第三卷第32章历史归属回补 |
