@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [首夜杀狼的团队接力，不是孟奇独胜](early-v03-firstnight-team-chain-wolfkill-not-solovictory.md) | 第三卷第93章历史归属回补 |
+| [伪镜首用余二，狮血脉疑未被证实](early-v03-mirror-firstuse-left2-lion-lineage-unconfirmed.md) | 第三卷第93章历史归属回补 |
+| [借紫殇首次明确动用，腹中逃生耗尽剩精神](early-v03-Zishang-firstuse-bellyescape-spiritspent.md) | 第三卷第93章历史归属回补 |
 | [大雷音匾已抱起，寺址与匾真伪仍属推测](early-v03-Daleiyin-plaque-carried-temple-location-unproved.md) | 第三卷第92章历史归属回补 |
 | [共同搜庙各施所长，命令习惯中已有尊重](early-v03-joint-search-Luo-respect-Jiang-riskacceptance.md) | 第三卷第92章历史归属回补 |
 | [铜钱实卜各向大凶，架风只确定最低威胁](early-v03-Ge-coppercoin-omens-wind-halfOuter-minimum.md) | 第三卷第92章历史归属回补 |
