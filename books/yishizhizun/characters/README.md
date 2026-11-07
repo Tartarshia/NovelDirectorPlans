@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [无招入刀与肩半寸陷阱，诡变不是真变身](early-v03-nozhao-blade-shoulder-halfcun-trap-not-shapeshift.md) | 第三卷第88章历史归属回补 |
+| [无舍身二连已能勉成，精神枯与真气巅分开](early-v03-twoOuter-withoutSheshen-spiritcost-qi-peak-forcefinish.md) | 第三卷第88章历史归属回补 |
+| [被引出的欲念与王载的坚守，不等真实谋杀](early-v03-WangZai-induced-desires-Haoran-Weiwu-Renzhe-guard.md) | 第三卷第88章历史归属回补 |
 | [威武增强气力速度，祖父跨境不等提升境界](early-v03-Weiwu-force-not-realmtechnique-grandfather-history.md) | 第三卷第87章历史归属回补 |
 | [王纳言司马邺阳伯，亲临示重庶系父子](early-v03-WangNayan-Sima-Yeyangbo-fifthuncle-shuzi-respect.md) | 第三卷第87章历史归属回补 |
 | [同长木剑避免误伤，至公无私首撞33对23](early-v03-wooden-sword-restraint-ZhigongWusi-firstclash33vs23.md) | 第三卷第87章历史归属回补 |
