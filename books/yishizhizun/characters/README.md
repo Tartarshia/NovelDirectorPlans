@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孔昱新半步外景、探回报与静观报备层次](early-v03-Kong-newhalfOuter-spyreport-uncertainidentity-staticwatch.md) | 第三卷第78章历史归属回补 |
+| [铜色黑装交背轻语子午，邪劫只是暂收](early-v03-blackdress-Qingyu-Ziwu-crossback-Xiejie-tempGu-custody.md) | 第三卷第78章历史归属回补 |
+| [万花楼投帖金进贤，自称刀狂尚未交手](early-v03-Wanhualou-letter-JinJinxian-Daokuang-selfrename-not-fought.md) | 第三卷第78章历史归属回补 |
 | [小紫丫环是顾的伪装，孟造机会顾动手](early-v03-Gu-Xiaozi-role-disguise-Meng-challenge-Gu-kills-plan.md) | 第三卷第77章历史归属回补 |
 | [古籍与诱敌的反推，尚非顾的坦白](early-v03-Meng-infers-Gu-Xuannv-goal-not-confession-counterplan.md) | 第三卷第77章历史归属回补 |
 | [程姓探访与向一密探报真定苏孟的后手](early-v03-Sixdoors-Cheng-probe-Zhending-SuMeng-limited-selfreport.md) | 第三卷第77章历史归属回补 |
