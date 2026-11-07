@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [二十八刀留老名，金畅快认输而非被羞辱](early-v03-Jin28-delighted-concession-reverence-Nconfirmed.md) | 第三卷第80章历史归属回补 |
+| [罗车轮逐利与一刀背落兵](early-v03-Luo-wheelchallenge-profit-one-backstrike-no-cut.md) | 第三卷第80章历史归属回补 |
+| [王载公正释刀与孟奇享受被识](early-v03-WangZai-public-blade-explanation-Meng-enjoys-recognition.md) | 第三卷第80章历史归属回补 |
 | [金应约与雷刀33，两榜身份和赛前看法分开](early-v03-Jin-accepts-Leidao33-twoentries-multiple-views-not-outcome.md) | 第三卷第79章历史归属回补 |
 | [九剑刀法新糅合、27剑守势与金和观众的不同感觉](early-v03-Dugu-blade-integrated-27guard-Jinflow-onlookers-misread.md) | 第三卷第79章历史归属回补 |
 | [崔氏母与半步护仆的情报，今晚不动手](early-v03-Gu-Cui-mother-halfOuter-guard-intel-tonight-no-kill.md) | 第三卷第79章历史归属回补 |
