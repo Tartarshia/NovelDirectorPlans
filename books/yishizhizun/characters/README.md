@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [二十二攻胜黄：阿难招形与外景刀意分开](early-v03-Huang22attacks-Luohongchen-form-no-Outerintent.md) | 第三卷第83章历史归属回补 |
+| [如厕分离与顾提前白裙出手，未见杀果](early-v03-diuretic-separation-Gu-early-white-attack-not-killedyet.md) | 第三卷第83章历史归属回补 |
+| [孔一直看侍女而冷酷暂观，银印同伴未名](early-v03-Kong-watched-maid-cold-delay-silverinsignia-unknown.md) | 第三卷第83章历史归属回补 |
 | [神都退路是假设，选择话术遮着另备](early-v03-choice-warning-Shendu-option-conceals-otherpreparation.md) | 第三卷第82章历史归属回补 |
 | [正常万花酒、利尿线索与读者独见幕后](early-v03-Wanhua-normal-wine-diuresis-Gu-controls-Xue-readeronly.md) | 第三卷第82章历史归属回补 |
 | [送酒转述和缺词私传，黄战仅扇点七穴](early-v03-winegift-mixed-voices-Huang-fan-opening-only.md) | 第三卷第82章历史归属回补 |
