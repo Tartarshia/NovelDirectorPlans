@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [八日生存奖励尚未到账，兜率宫是读者独知](early-v03-survive-day8-rewardpending-Doushuai-readeronly.md) | 第三卷第91章历史归属回补 |
+| [集资2341与三器持有次数，账目范围不补造](early-v03-pooled2341-fakemirror3-arrow1-eye2-custody.md) | 第三卷第91章历史归属回补 |
+| [江芷微坦然集资与公平分工，未形成一百六十欠债](early-v03-Jiang-generous-pooling-fairness-no160-debt.md) | 第三卷第91章历史归属回补 |
 | [桓州魁首与狂雷初成，三用容量不等现有三用](early-v03-Huanzhouchamp-Kuanglei9-integrated-Zileijin-cap3.md) | 第三卷第90章历史归属回补 |
 | [顾显踪与压突破只是消息判断，十日答复未入职](early-v03-Gu-return-intel-pressureguess-ten-day-join-delay.md) | 第三卷第90章历史归属回补 |
 | [死亡前八人自报与鱼干惜生，西游八百年仅预告](early-v03-deathparty-status8-Sixpaths-Xiyou800-preview.md) | 第三卷第90章历史归属回补 |

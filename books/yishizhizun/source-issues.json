@@ -3,6 +3,27 @@
   "policy": "Preserve supplied source. Flag inconsistencies without automatic correction.",
   "issues": [
     {
+      "chapter_id": "v03-c0091",
+      "reference": "v03-c0091:p0031",
+      "type": "possible_typo",
+      "issue": "堪虚洞幽疑勘虚，保原不强改。",
+      "review_id": "review-backfill-v03-0091"
+    },
+    {
+      "chapter_id": "v03-c0091",
+      "reference": "v03-c0091:p0038",
+      "type": "balance_scope_ambiguity",
+      "issue": "源还差160，已知此前孟余1及新670查10而丹500炼320可得差159，但余额口径未逐项交代，保160不判确定错误不造1善功支出。",
+      "review_id": "review-backfill-v03-0091"
+    },
+    {
+      "chapter_id": "v03-c0091",
+      "reference": "v03-c0091:p0058",
+      "type": "balance_scope_ambiguity",
+      "issue": "原八笔合6300，若视作全余额并旧孟1扣查10八新丹500可余2291，源池2341差50；其他人旧余未全列，属账目范围不明非确定算错，保源池不补造付款人。",
+      "review_id": "review-backfill-v03-0091"
+    },
+    {
       "chapter_id": "v03-c0090",
       "reference": "v03-c0090:p0005",
       "type": "possible_typo",
