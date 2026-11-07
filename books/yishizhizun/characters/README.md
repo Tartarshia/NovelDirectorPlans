@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阴阳何本何化：多解诗义到待参武理](early-v03-yinyang-whichbase-poetry-abstract-not-newmove.md) | 第三卷第72章历史归属回补 |
+| [故事升级：分支留力、核心暂缓与齐听悟](early-v03-branchstory-reserveforce-corewhy-Qi-Yijian-practice.md) | 第三卷第72章历史归属回补 |
+| [宝石全兑12700两银票、购利器尚未](early-v03-gems-allconverted12700-silver-not-points-swordpending.md) | 第三卷第72章历史归属回补 |
 | [故事剑法：具体高帆提示到少年自行变低](early-v03-storysword-highsail-prompt-lowvariant-Hemu-selfadapts.md) | 第三卷第71章历史归属回补 |
 | [何业误名说者判断与六中一磨砺名额](early-v03-Heye50-wrongname-foundation-and-1of6-training-slot.md) | 第三卷第71章历史归属回补 |
 | [何暮家计压力与仍不信高手的回访](early-v03-Hemu-familyburden-not-yet-trust-Su-warrior-poetryvisit.md) | 第三卷第71章历史归属回补 |
