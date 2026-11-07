@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [子午两杀与焚迹，罗教灭口是官府误断](early-v03-Meng-Ziwu-two-throatkills-burn-official-Luocult-error.md) | 第三卷第85章历史归属回补 |
+| [祭台猜死亡与顾连环代价模型仍是孟推](early-v03-crackedaltar-Xuannvdeath-Gu-missioncost-only-Meng-model.md) | 第三卷第85章历史归属回补 |
+| [另一个小紫与孔有限互信，六扇门只邀未入](early-v03-replacement-Xiaozi-not-Gu-Kong-thanks-invite-only.md) | 第三卷第85章历史归属回补 |
 | [应身崩解与未使出的威武，远闺少女尚未确认](early-v03-Shan-yingbody-destroyed-Gu9nearhalf-Weiwu-nevercast.md) | 第三卷第84章历史归属回补 |
 | [碑与轮回符真实耗去，巍峨门后仍未知](early-v03-dragonphoenix-stone-token-consumed-Gate-missing-notdeath.md) | 第三卷第84章历史归属回补 |
 | [孟提前告官后手揭明，仍惊顾早动并转院](early-v03-Meng-warned-Sixdoors-earlyalarm-strikesGu-diverts.md) | 第三卷第84章历史归属回补 |
