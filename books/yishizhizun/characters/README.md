@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [夺宝自止与连坐仅威胁的新后证](early-v03-robbery-abandoned-conscience-kinpunishment-bluff.md) | 第三卷第68章历史归属回补 |
+| [紫殇一年借约已成、元神誓与交付尚待](early-v03-Zishang-one-year-loan-agreed-oath-delivery-pending.md) | 第三卷第68章历史归属回补 |
+| [明月未来家主支持与未揭真身的兄妹告别](early-v03-Mingyue-futurehead-falsebrother-farewell-noconfession.md) | 第三卷第68章历史归属回补 |
 | [邪神聚散非再复活、刀客死与持翻云者存活](early-v03-evilgod-scatter-not-revival-bladesman-and-Ling-victims.md) | 第三卷第67章历史归属回补 |
 | [孟受精神创换窗、浩气有界与联合终灭](early-v03-joint-evilgod-finish-Wang-Weiwu-limit-Meng-spiritwound.md) | 第三卷第67章历史归属回补 |
 | [几丝紫雷劲补灭、幽绿邪眼新获非紫殇](early-v03-Zileijin-fewstrands-finalkill-greeneye-not-Zishang-loot.md) | 第三卷第67章历史归属回补 |
