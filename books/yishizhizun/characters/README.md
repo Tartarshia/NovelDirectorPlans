@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [邪神聚散非再复活、刀客死与持翻云者存活](early-v03-evilgod-scatter-not-revival-bladesman-and-Ling-victims.md) | 第三卷第67章历史归属回补 |
+| [孟受精神创换窗、浩气有界与联合终灭](early-v03-joint-evilgod-finish-Wang-Weiwu-limit-Meng-spiritwound.md) | 第三卷第67章历史归属回补 |
+| [几丝紫雷劲补灭、幽绿邪眼新获非紫殇](early-v03-Zileijin-fewstrands-finalkill-greeneye-not-Zishang-loot.md) | 第三卷第67章历史归属回补 |
 | [浩气御精神、风雷围攻与四臂未突破](early-v03-Haoran-spiritdefense-Fenglei-fourarms-no-breakthrough.md) | 第三卷第66章历史归属回补 |
 | [三宝共对紫殇与千面阴灵死、邪神仍存](early-v03-three-baobing-selfdestruction-yinspiritswallowed-godremains.md) | 第三卷第66章历史归属回补 |
 | [顾截沉香搜符、无孩子戏言与合作传话待成](early-v03-Gu-intercepts-Chenxiang-symbol-childjoke-An-message.md) | 第三卷第66章历史归属回补 |
