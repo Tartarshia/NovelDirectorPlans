@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [应身崩解与未使出的威武，远闺少女尚未确认](early-v03-Shan-yingbody-destroyed-Gu9nearhalf-Weiwu-nevercast.md) | 第三卷第84章历史归属回补 |
+| [碑与轮回符真实耗去，巍峨门后仍未知](early-v03-dragonphoenix-stone-token-consumed-Gate-missing-notdeath.md) | 第三卷第84章历史归属回补 |
+| [孟提前告官后手揭明，仍惊顾早动并转院](early-v03-Meng-warned-Sixdoors-earlyalarm-strikesGu-diverts.md) | 第三卷第84章历史归属回补 |
 | [二十二攻胜黄：阿难招形与外景刀意分开](early-v03-Huang22attacks-Luohongchen-form-no-Outerintent.md) | 第三卷第83章历史归属回补 |
 | [如厕分离与顾提前白裙出手，未见杀果](early-v03-diuretic-separation-Gu-early-white-attack-not-killedyet.md) | 第三卷第83章历史归属回补 |
 | [孔一直看侍女而冷酷暂观，银印同伴未名](early-v03-Kong-watched-maid-cold-delay-silverinsignia-unknown.md) | 第三卷第83章历史归属回补 |
