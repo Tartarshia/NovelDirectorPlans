@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [险胜认输仍留底牌，画风反噬延续头痛](early-v03-hairbreadth-win-Zai-concedes-reserves-style-regret.md) | 第三卷第89章历史归属回补 |
+| [月后江榜四可能八窍，苏孟十九正式狂刀](early-v03-monthlist-Jiang4-possible8-Meng19-Kuangdao-public.md) | 第三卷第89章历史归属回补 |
+| [四月武举与初成天刀纲，紫雷融合仍一步](early-v03-Aprilexam-Tiandao-initial-Zilei-nearfusion-Ding-deference.md) | 第三卷第89章历史归属回补 |
 | [无招入刀与肩半寸陷阱，诡变不是真变身](early-v03-nozhao-blade-shoulder-halfcun-trap-not-shapeshift.md) | 第三卷第88章历史归属回补 |
 | [无舍身二连已能勉成，精神枯与真气巅分开](early-v03-twoOuter-withoutSheshen-spiritcost-qi-peak-forcefinish.md) | 第三卷第88章历史归属回补 |
 | [被引出的欲念与王载的坚守，不等真实谋杀](early-v03-WangZai-induced-desires-Haoran-Weiwu-Renzhe-guard.md) | 第三卷第88章历史归属回补 |
