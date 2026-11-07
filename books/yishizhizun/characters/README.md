@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黄知清的本地档案辨三魔与船上铁手疑点](early-v03-HuangZhiqing-localrecords-three-Renmo-boatidentity-question.md) | 第三卷第65章历史归属回补 |
+| [安带沉香不带紫殇、杀鼎夺物念头未行](early-v03-An-leaves-Chenxiang-no-Zishang-physicalitems-host.md) | 第三卷第65章历史归属回补 |
+| [六扇分令王载实到与叶府血祭已经发生](early-v03-Sixdoors-dispatch-Wang-arrives-Yebloodsacrifice-actual.md) | 第三卷第65章历史归属回补 |
 | [蓝雪针挡尽、破重锁与精神不随真气续](early-v03-BlueSnowneedles-blocked-weightbreak-spirit-not-qi.md) | 第三卷第64章历史归属回补 |
 | [敌借浪撤与不能逼剑客自杀，开阵杀炉仍计划](early-v03-retreat-no-forced-suicide-array-and-hostkills-pending.md) | 第三卷第64章历史归属回补 |
 | [千面别号、读者独知血祭四家与回叶新计划](early-v03-Qianmian-alias-readeronly-fourclan-bloodsacrifice-plan.md) | 第三卷第64章历史归属回补 |
