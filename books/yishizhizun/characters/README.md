@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [何暮正式认输、布局验证与不可复制的机会](early-v03-Hemu-concedes-Cao-threeconditions-not-repeatable-rankwin.md) | 第三卷第75章历史归属回补 |
+| [王策借私提示解说与单秀眉的表层崇敬](early-v03-WangCe-servantprompts-Shan-surface-not-naive-faith.md) | 第三卷第75章历史归属回补 |
+| [招揽意图、孔昱暗查令与车前索证](early-v03-recruit-intent-Kong-checkorder-Gu-threeproofquestions.md) | 第三卷第75章历史归属回补 |
 | [生死交散疑与王夫人鉴别反讯](early-v03-Qi-mutualfriend-spread-Shan-doubt-negative-exam-report.md) | 第三卷第74章历史归属回补 |
 | [何暮怯场到首日五胜，此时才信苏高手](early-v03-Hemu-stagefright-firstday5wins-now-trusts-Su-fighter.md) | 第三卷第74章历史归属回补 |
 | [跨比赛印象布局待试与告别高人姿态](early-v03-multimatch-impression-reversal-plan-farewell-pose.md) | 第三卷第74章历史归属回补 |
