@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黄子师受震仍自信，未名叔辈九窍的难堪](early-v03-HuangZishi-confident-acceptance-uncle9-unnamed.md) | 第三卷第81章历史归属回补 |
+| [照面伪装的具体结果：单未识，齐凭经历猜](early-v03-hostvisit-Shan-misses-Gu-Qi-informed-guess.md) | 第三卷第81章历史归属回补 |
+| [武举说法与拒招，王载主动观胜积势](early-v03-examreason-Wang-offer-refused-Zai-watchwins-intent.md) | 第三卷第81章历史归属回补 |
 | [二十八刀留老名，金畅快认输而非被羞辱](early-v03-Jin28-delighted-concession-reverence-Nconfirmed.md) | 第三卷第80章历史归属回补 |
 | [罗车轮逐利与一刀背落兵](early-v03-Luo-wheelchallenge-profit-one-backstrike-no-cut.md) | 第三卷第80章历史归属回补 |
 | [王载公正释刀与孟奇享受被识](early-v03-WangZai-public-blade-explanation-Meng-enjoys-recognition.md) | 第三卷第80章历史归属回补 |
