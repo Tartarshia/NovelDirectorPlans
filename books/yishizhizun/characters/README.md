@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [大雷音匾已抱起，寺址与匾真伪仍属推测](early-v03-Daleiyin-plaque-carried-temple-location-unproved.md) | 第三卷第92章历史归属回补 |
+| [共同搜庙各施所长，命令习惯中已有尊重](early-v03-joint-search-Luo-respect-Jiang-riskacceptance.md) | 第三卷第92章历史归属回补 |
+| [铜钱实卜各向大凶，架风只确定最低威胁](early-v03-Ge-coppercoin-omens-wind-halfOuter-minimum.md) | 第三卷第92章历史归属回补 |
 | [八日生存奖励尚未到账，兜率宫是读者独知](early-v03-survive-day8-rewardpending-Doushuai-readeronly.md) | 第三卷第91章历史归属回补 |
 | [集资2341与三器持有次数，账目范围不补造](early-v03-pooled2341-fakemirror3-arrow1-eye2-custody.md) | 第三卷第91章历史归属回补 |
 | [江芷微坦然集资与公平分工，未形成一百六十欠债](early-v03-Jiang-generous-pooling-fairness-no160-debt.md) | 第三卷第91章历史归属回补 |
