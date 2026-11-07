@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [蓝雪针挡尽、破重锁与精神不随真气续](early-v03-BlueSnowneedles-blocked-weightbreak-spirit-not-qi.md) | 第三卷第64章历史归属回补 |
+| [敌借浪撤与不能逼剑客自杀，开阵杀炉仍计划](early-v03-retreat-no-forced-suicide-array-and-hostkills-pending.md) | 第三卷第64章历史归属回补 |
+| [千面别号、读者独知血祭四家与回叶新计划](early-v03-Qianmian-alias-readeronly-fourclan-bloodsacrifice-plan.md) | 第三卷第64章历史归属回补 |
 | [雷言实用、雷痕被动吸电与金钟六圆满新证](early-v03-Leiyan-real-passive-thundermark-Goldbell6full.md) | 第三卷第63章历史归属回补 |
 | [沧澜紫殇真战、如意炉体毁与同叶面复身](early-v03-Canglan-Zishang-Ruyi-host-destroyed-new-Yeface.md) | 第三卷第63章历史归属回补 |
 | [灰玉手非九斩首、全力断清净情绪与师教内忆](early-v03-grayhand-nonnine-beheaded-full-Duanqingjing-emotion.md) | 第三卷第63章历史归属回补 |
