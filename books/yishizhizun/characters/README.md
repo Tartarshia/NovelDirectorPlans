@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [浩气御精神、风雷围攻与四臂未突破](early-v03-Haoran-spiritdefense-Fenglei-fourarms-no-breakthrough.md) | 第三卷第66章历史归属回补 |
+| [三宝共对紫殇与千面阴灵死、邪神仍存](early-v03-three-baobing-selfdestruction-yinspiritswallowed-godremains.md) | 第三卷第66章历史归属回补 |
+| [顾截沉香搜符、无孩子戏言与合作传话待成](early-v03-Gu-intercepts-Chenxiang-symbol-childjoke-An-message.md) | 第三卷第66章历史归属回补 |
 | [黄知清的本地档案辨三魔与船上铁手疑点](early-v03-HuangZhiqing-localrecords-three-Renmo-boatidentity-question.md) | 第三卷第65章历史归属回补 |
 | [安带沉香不带紫殇、杀鼎夺物念头未行](early-v03-An-leaves-Chenxiang-no-Zishang-physicalitems-host.md) | 第三卷第65章历史归属回补 |
 | [六扇分令王载实到与叶府血祭已经发生](early-v03-Sixdoors-dispatch-Wang-arrives-Yebloodsacrifice-actual.md) | 第三卷第65章历史归属回补 |
