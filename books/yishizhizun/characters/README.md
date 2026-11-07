@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [亲见五嫌与单真身份下的应身解释](early-v03-altar-witness5suspects-Shan-realbackground-yingbody-claim.md) | 第三卷第76章历史归属回补 |
+| [白莲有限观距、船夫妇再现与白堂主受诱](early-v03-whiteLotus-distance3zhang-cost-not-unlimitedvision.md) | 第三卷第76章历史归属回补 |
+| [亲见后才配合，真名刀试仍是计划](early-v03-Meng-afterproof-cooperates-publicLeidaoname-planonly.md) | 第三卷第76章历史归属回补 |
 | [何暮正式认输、布局验证与不可复制的机会](early-v03-Hemu-concedes-Cao-threeconditions-not-repeatable-rankwin.md) | 第三卷第75章历史归属回补 |
 | [王策借私提示解说与单秀眉的表层崇敬](early-v03-WangCe-servantprompts-Shan-surface-not-naive-faith.md) | 第三卷第75章历史归属回补 |
 | [招揽意图、孔昱暗查令与车前索证](early-v03-recruit-intent-Kong-checkorder-Gu-threeproofquestions.md) | 第三卷第75章历史归属回补 |
