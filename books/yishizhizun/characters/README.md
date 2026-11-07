@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [威武增强气力速度，祖父跨境不等提升境界](early-v03-Weiwu-force-not-realmtechnique-grandfather-history.md) | 第三卷第87章历史归属回补 |
+| [王纳言司马邺阳伯，亲临示重庶系父子](early-v03-WangNayan-Sima-Yeyangbo-fifthuncle-shuzi-respect.md) | 第三卷第87章历史归属回补 |
+| [同长木剑避免误伤，至公无私首撞33对23](early-v03-wooden-sword-restraint-ZhigongWusi-firstclash33vs23.md) | 第三卷第87章历史归属回补 |
 | [重情报而考虑六门，入京审核仍阻犹豫](early-v03-Sixdoors-intel-priority-HQ-Shendu-required-not-joined.md) | 第三卷第86章历史归属回补 |
 | [应身大流光推理修正，顾回归时间未定](early-v03-yingbody-greatlight-Xianqi-extraction-theory-revised.md) | 第三卷第86章历史归属回补 |
 | [才想起邪劫顾侧，书面约载未开战](early-v03-Xiejie-stillGu-Qingyu-current-written-Zai-challenge.md) | 第三卷第86章历史归属回补 |
