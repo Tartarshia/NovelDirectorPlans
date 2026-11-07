@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [重情报而考虑六门，入京审核仍阻犹豫](early-v03-Sixdoors-intel-priority-HQ-Shendu-required-not-joined.md) | 第三卷第86章历史归属回补 |
+| [应身大流光推理修正，顾回归时间未定](early-v03-yingbody-greatlight-Xianqi-extraction-theory-revised.md) | 第三卷第86章历史归属回补 |
+| [才想起邪劫顾侧，书面约载未开战](early-v03-Xiejie-stillGu-Qingyu-current-written-Zai-challenge.md) | 第三卷第86章历史归属回补 |
 | [子午两杀与焚迹，罗教灭口是官府误断](early-v03-Meng-Ziwu-two-throatkills-burn-official-Luocult-error.md) | 第三卷第85章历史归属回补 |
 | [祭台猜死亡与顾连环代价模型仍是孟推](early-v03-crackedaltar-Xuannvdeath-Gu-missioncost-only-Meng-model.md) | 第三卷第85章历史归属回补 |
 | [另一个小紫与孔有限互信，六扇门只邀未入](early-v03-replacement-Xiaozi-not-Gu-Kong-thanks-invite-only.md) | 第三卷第85章历史归属回补 |
