@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [桓州魁首与狂雷初成，三用容量不等现有三用](early-v03-Huanzhouchamp-Kuanglei9-integrated-Zileijin-cap3.md) | 第三卷第90章历史归属回补 |
+| [顾显踪与压突破只是消息判断，十日答复未入职](early-v03-Gu-return-intel-pressureguess-ten-day-join-delay.md) | 第三卷第90章历史归属回补 |
+| [死亡前八人自报与鱼干惜生，西游八百年仅预告](early-v03-deathparty-status8-Sixpaths-Xiyou800-preview.md) | 第三卷第90章历史归属回补 |
 | [险胜认输仍留底牌，画风反噬延续头痛](early-v03-hairbreadth-win-Zai-concedes-reserves-style-regret.md) | 第三卷第89章历史归属回补 |
 | [月后江榜四可能八窍，苏孟十九正式狂刀](early-v03-monthlist-Jiang4-possible8-Meng19-Kuangdao-public.md) | 第三卷第89章历史归属回补 |
 | [四月武举与初成天刀纲，紫雷融合仍一步](early-v03-Aprilexam-Tiandao-initial-Zilei-nearfusion-Ding-deference.md) | 第三卷第89章历史归属回补 |
