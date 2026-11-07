@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [无排名周郡谱、唐景分歧评价与何业教德](early-v03-Zhoujun-unranked-spectrum-Tang-comments-Heye-merit.md) | 第三卷第70章历史归属回补 |
+| [半年苦修、口未开与金钟文本冲突](early-v03-halfyear-mouthpoints-notopen-Bajiu-eye-Zilei-intentpending.md) | 第三卷第70章历史归属回补 |
+| [苏孟识字邻人、曲甜荷志愿与何暮求助开端](early-v03-SuMeng-literacy-neighbor-QuTianhe-Hemu-question-begins.md) | 第三卷第70章历史归属回补 |
 | [紫殇交取与归还誓落实，沟通尚未成](early-v03-Zishang-taken-returnoath-communication-still-fails.md) | 第三卷第69章历史归属回补 |
 | [邺都院落已定，潜修课题与身份预期](early-v03-Yedu-rented-courtyard-cultivation-not-Jiangdong-trip.md) | 第三卷第69章历史归属回补 |
 | [新榜顾二江九君子二十四，分条意图未明](early-v03-newlist-Gu2-Jiang9-Meng24-separate-identityunknown.md) | 第三卷第69章历史归属回补 |
