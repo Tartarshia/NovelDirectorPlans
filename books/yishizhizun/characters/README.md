@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [神都退路是假设，选择话术遮着另备](early-v03-choice-warning-Shendu-option-conceals-otherpreparation.md) | 第三卷第82章历史归属回补 |
+| [正常万花酒、利尿线索与读者独见幕后](early-v03-Wanhua-normal-wine-diuresis-Gu-controls-Xue-readeronly.md) | 第三卷第82章历史归属回补 |
+| [送酒转述和缺词私传，黄战仅扇点七穴](early-v03-winegift-mixed-voices-Huang-fan-opening-only.md) | 第三卷第82章历史归属回补 |
 | [黄子师受震仍自信，未名叔辈九窍的难堪](early-v03-HuangZishi-confident-acceptance-uncle9-unnamed.md) | 第三卷第81章历史归属回补 |
 | [照面伪装的具体结果：单未识，齐凭经历猜](early-v03-hostvisit-Shan-misses-Gu-Qi-informed-guess.md) | 第三卷第81章历史归属回补 |
 | [武举说法与拒招，王载主动观胜积势](early-v03-examreason-Wang-offer-refused-Zai-watchwins-intent.md) | 第三卷第81章历史归属回补 |
