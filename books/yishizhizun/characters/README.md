@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [子午12000实购、票差700与陌客未定](early-v03-Ziwu12000-bought700-not-totalwealth-gaze-unknown.md) | 第三卷第73章历史归属回补 |
+| [玉桥夫妻逗戏与私请，未真婚孩或联手](early-v03-Gu-bridge-spousetease-private-request-not-child-or-agreement.md) | 第三卷第73章历史归属回补 |
+| [顾的玄女情报、单秀眉含糊与半月来敌消息](early-v03-Gu-Xuannv-stonecalc-Shan-suanshiba-halfmonth-claim.md) | 第三卷第73章历史归属回补 |
 | [阴阳何本何化：多解诗义到待参武理](early-v03-yinyang-whichbase-poetry-abstract-not-newmove.md) | 第三卷第72章历史归属回补 |
 | [故事升级：分支留力、核心暂缓与齐听悟](early-v03-branchstory-reserveforce-corewhy-Qi-Yijian-practice.md) | 第三卷第72章历史归属回补 |
 | [宝石全兑12700两银票、购利器尚未](early-v03-gems-allconverted12700-silver-not-points-swordpending.md) | 第三卷第72章历史归属回补 |
