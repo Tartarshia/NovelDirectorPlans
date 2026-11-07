@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [紫殇交取与归还誓落实，沟通尚未成](early-v03-Zishang-taken-returnoath-communication-still-fails.md) | 第三卷第69章历史归属回补 |
+| [邺都院落已定，潜修课题与身份预期](early-v03-Yedu-rented-courtyard-cultivation-not-Jiangdong-trip.md) | 第三卷第69章历史归属回补 |
+| [新榜顾二江九君子二十四，分条意图未明](early-v03-newlist-Gu2-Jiang9-Meng24-separate-identityunknown.md) | 第三卷第69章历史归属回补 |
 | [夺宝自止与连坐仅威胁的新后证](early-v03-robbery-abandoned-conscience-kinpunishment-bluff.md) | 第三卷第68章历史归属回补 |
 | [紫殇一年借约已成、元神誓与交付尚待](early-v03-Zishang-one-year-loan-agreed-oath-delivery-pending.md) | 第三卷第68章历史归属回补 |
 | [明月未来家主支持与未揭真身的兄妹告别](early-v03-Mingyue-futurehead-falsebrother-farewell-noconfession.md) | 第三卷第68章历史归属回补 |
