@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [生死交散疑与王夫人鉴别反讯](early-v03-Qi-mutualfriend-spread-Shan-doubt-negative-exam-report.md) | 第三卷第74章历史归属回补 |
+| [何暮怯场到首日五胜，此时才信苏高手](early-v03-Hemu-stagefright-firstday5wins-now-trusts-Su-fighter.md) | 第三卷第74章历史归属回补 |
+| [跨比赛印象布局待试与告别高人姿态](early-v03-multimatch-impression-reversal-plan-farewell-pose.md) | 第三卷第74章历史归属回补 |
 | [子午12000实购、票差700与陌客未定](early-v03-Ziwu12000-bought700-not-totalwealth-gaze-unknown.md) | 第三卷第73章历史归属回补 |
 | [玉桥夫妻逗戏与私请，未真婚孩或联手](early-v03-Gu-bridge-spousetease-private-request-not-child-or-agreement.md) | 第三卷第73章历史归属回补 |
 | [顾的玄女情报、单秀眉含糊与半月来敌消息](early-v03-Gu-Xuannv-stonecalc-Shan-suanshiba-halfmonth-claim.md) | 第三卷第73章历史归属回补 |
