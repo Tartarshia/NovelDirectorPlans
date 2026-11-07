@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第三卷归属回补：第79章](books/yishizhizun/reviews/review-backfill-v03-0079.md)：新全文复读69段109单元；归属已1017章、待393，可用复读回执待0。
 - [第三卷归属回补：第78章](books/yishizhizun/reviews/review-backfill-v03-0078.md)：新全文复读83段131单元；归属已1016章、待394，可用复读回执待0。
 - [第三卷归属回补：第77章](books/yishizhizun/reviews/review-backfill-v03-0077.md)：新全文复读75段125单元；归属已1015章、待395，可用复读回执待0。
 - [第三卷归属回补：第76章](books/yishizhizun/reviews/review-backfill-v03-0076.md)：新全文复读71段116单元；归属已1014章、待396，可用复读回执待0。

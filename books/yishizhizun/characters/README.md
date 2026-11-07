@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [金应约与雷刀33，两榜身份和赛前看法分开](early-v03-Jin-accepts-Leidao33-twoentries-multiple-views-not-outcome.md) | 第三卷第79章历史归属回补 |
+| [九剑刀法新糅合、27剑守势与金和观众的不同感觉](early-v03-Dugu-blade-integrated-27guard-Jinflow-onlookers-misread.md) | 第三卷第79章历史归属回补 |
+| [崔氏母与半步护仆的情报，今晚不动手](early-v03-Gu-Cui-mother-halfOuter-guard-intel-tonight-no-kill.md) | 第三卷第79章历史归属回补 |
 | [孔昱新半步外景、探回报与静观报备层次](early-v03-Kong-newhalfOuter-spyreport-uncertainidentity-staticwatch.md) | 第三卷第78章历史归属回补 |
 | [铜色黑装交背轻语子午，邪劫只是暂收](early-v03-blackdress-Qingyu-Ziwu-crossback-Xiejie-tempGu-custody.md) | 第三卷第78章历史归属回补 |
 | [万花楼投帖金进贤，自称刀狂尚未交手](early-v03-Wanhualou-letter-JinJinxian-Daokuang-selfrename-not-fought.md) | 第三卷第78章历史归属回补 |
