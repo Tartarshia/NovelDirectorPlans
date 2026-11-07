@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [故事剑法：具体高帆提示到少年自行变低](early-v03-storysword-highsail-prompt-lowvariant-Hemu-selfadapts.md) | 第三卷第71章历史归属回补 |
+| [何业误名说者判断与六中一磨砺名额](early-v03-Heye50-wrongname-foundation-and-1of6-training-slot.md) | 第三卷第71章历史归属回补 |
+| [何暮家计压力与仍不信高手的回访](early-v03-Hemu-familyburden-not-yet-trust-Su-warrior-poetryvisit.md) | 第三卷第71章历史归属回补 |
 | [无排名周郡谱、唐景分歧评价与何业教德](early-v03-Zhoujun-unranked-spectrum-Tang-comments-Heye-merit.md) | 第三卷第70章历史归属回补 |
 | [半年苦修、口未开与金钟文本冲突](early-v03-halfyear-mouthpoints-notopen-Bajiu-eye-Zilei-intentpending.md) | 第三卷第70章历史归属回补 |
 | [苏孟识字邻人、曲甜荷志愿与何暮求助开端](early-v03-SuMeng-literacy-neighbor-QuTianhe-Hemu-question-begins.md) | 第三卷第70章历史归属回补 |
