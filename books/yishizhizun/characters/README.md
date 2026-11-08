@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [匾额易手后焚尽，舍利暂归敌手](early-v03-plaque-Biboheld-burned-Wangsheng-sarira-enemy.md) | 第三卷第107章历史归属回补 |
+| [尸罗汉法身威与血泪，解脱观感不解谜全成](early-v03-Arhatcorpse-pressure-bloodtears-causeunknown.md) | 第三卷第107章历史归属回补 |
+| [阿难心法平心与狂雷一招九刀，紫雷劲推余1](early-v03-Anan-mindcalm-Kuanglei-one-move-ninecuts.md) | 第三卷第107章历史归属回补 |
 | [齐断崖不甘与血眼，心问声源未解](early-v03-Qi-cliff-inward-questions-bloodeyes-origin-pending.md) | 第三卷第106章历史归属回补 |
 | [罗最后一拳后的死亡，散修不甘与主队不知](early-v03-Luo-finalfist-neckbite-death-readeronly.md) | 第三卷第106章历史归属回补 |
 | [砀山君旧识与三人押行，江遗丹服用已明证](early-v03-Dangshan-corpse-Jiangpill-confirmed-threecaptives.md) | 第三卷第106章历史归属回补 |
