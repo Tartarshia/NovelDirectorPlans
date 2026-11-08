@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [符真真穿心死亡、张远山最后一剑与合葬](early-v03-Fu-heartdeath-Zhang-finalblood-lastwords-jointburial.md) | 第三卷第100章历史归属回补 |
+| [五人生存与最后遗丹一枚，恢复不消除损失](early-v03-five-survivors-Mengpill-swallowed-Zhanglegacy1.md) | 第三卷第100章历史归属回补 |
+| [重回旧寺、老者据说灵山与象征西钥匙未试](early-v03-returntemple-oldhuman-symbolicwest-key-untried.md) | 第三卷第100章历史归属回补 |
 | [首次舍身与首次燃血，火困和腾空压住最后一招](early-v03-firstSheshen-firstRanxue-firebound-escape-notdone.md) | 第三卷第99章历史归属回补 |
 | [全琴弦断尽，阮自丹已服而十二神音尚未奏](early-v03-Ruan-allstringsbroken-ownpill12Langhuan-plan.md) | 第三卷第99章历史归属回补 |
 | [张远山的周全迟疑与火翼的私心，均不等已行动](early-v03-Zhang-options-unexecuted-enemyprivate-revenge.md) | 第三卷第99章历史归属回补 |
