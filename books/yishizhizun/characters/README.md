@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [三牛全灭后的重伤，赠丹实际来自符真真](early-v03-oxes-all-dead-teamwounds-Dahuan-Fugift.md) | 第三卷第98章历史归属回补 |
+| [葛简葬与有限战利，牛黄此章才获确证](early-v03-Ge-stoneburial-Niuhuangloot-ring-limit.md) | 第三卷第98章历史归属回补 |
+| [求生不甘支撑拼死，玉佛诱敌尚未证真机缘](early-v03-willlive-JadeBuddha-bait-firewing-unresolved.md) | 第三卷第98章历史归属回补 |
 | [第六夜包围与有限入微，孟齐活擒只压一妖](early-v03-day6-encirclement-partialRuwei-scoutcapture.md) | 第三卷第97章历史归属回补 |
 | [三牛分工、地重破解与最后镜杀第二牛](early-v03-threeoxes-separate-Jicanghai-lastmirrorkill.md) | 第三卷第97章历史归属回补 |
 | [葛怀恩用末眼后头毁死亡，孟惊怒续挥结果待后](early-v03-Ge-headkilled-lastPasheneye-yellowprojectile.md) | 第三卷第97章历史归属回补 |
