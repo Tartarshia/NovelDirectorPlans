@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [最后遗丹阮孟江暗传，理解来自推理非读心](early-v03-lastDahuan-Ruan-Meng-Jiang-gesture-inference.md) | 第三卷第105章历史归属回补 |
+| [孟半实力与紫雷劲现存2，左阎罗帖三成是方案](early-v03-halfstrength-Zileijin2-leftYanluotie-plan-only.md) | 第三卷第105章历史归属回补 |
+| [齐被派引尸仍护翻盘机会，传音是实际行动](early-v03-Qi-secret-reassurance-forced-zombie-decoy-pending.md) | 第三卷第105章历史归属回补 |
 | [江阮各失右臂仍求生，受害反应与主动处理](early-v03-captured-two-rightarms-lost-selfhemostasis-not-death.md) | 第三卷第104章历史归属回补 |
 | [金钟破与第二舍身第7紫殇，鱼碎丹仍活](early-v03-Goldbell-break-Zishang7-secondSheshen-core-shatter.md) | 第三卷第104章历史归属回补 |
 | [紫殇被夺与藏戒保物，强迫探路不是真归顺](early-v03-Zishang-seized-ring-concealed-forced-windpath.md) | 第三卷第104章历史归属回补 |
