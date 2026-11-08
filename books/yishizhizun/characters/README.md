@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐四项4200与寒螭龙剑，紫星河晶不是现已第5层](early-v03-Qi-coldchi800-IceSoul2000-Zixinghe900-Dahuan500.md) | 第三卷第112章历史归属回补 |
+| [江各借80总债240，剑廿三与白虹700亲升](early-v03-Jiang-borrow80each3-Sword23-Baihong700-unpaid.md) | 第三卷第112章历史归属回补 |
+| [丧友之后持本心保欢笑，阮先归家与孟重返邺都](early-v03-grief-progress-keep-laughter-separate-home.md) | 第三卷第112章历史归属回补 |
 | [孟五项购得与180余额，灌体不等练熟](early-v03-Tianzhishang-Meng-five-purchases180-notmastered.md) | 第三卷第111章历史归属回补 |
 | [栖凤原琴不强升，阮三项4200余180](early-v03-Qifeng-Guanghan-SixMeridians-Dahuan180.md) | 第三卷第111章历史归属回补 |
 | [齐爆发短板三合仅建议，伙伴提供互补方案](early-v03-Qi-coldchi-threeway-plan-Jiang-advisor.md) | 第三卷第111章历史归属回补 |
