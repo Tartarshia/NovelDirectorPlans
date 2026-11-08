@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [首次舍身与首次燃血，火困和腾空压住最后一招](early-v03-firstSheshen-firstRanxue-firebound-escape-notdone.md) | 第三卷第99章历史归属回补 |
+| [全琴弦断尽，阮自丹已服而十二神音尚未奏](early-v03-Ruan-allstringsbroken-ownpill12Langhuan-plan.md) | 第三卷第99章历史归属回补 |
+| [张远山的周全迟疑与火翼的私心，均不等已行动](early-v03-Zhang-options-unexecuted-enemyprivate-revenge.md) | 第三卷第99章历史归属回补 |
 | [三牛全灭后的重伤，赠丹实际来自符真真](early-v03-oxes-all-dead-teamwounds-Dahuan-Fugift.md) | 第三卷第98章历史归属回补 |
 | [葛简葬与有限战利，牛黄此章才获确证](early-v03-Ge-stoneburial-Niuhuangloot-ring-limit.md) | 第三卷第98章历史归属回补 |
 | [求生不甘支撑拼死，玉佛诱敌尚未证真机缘](early-v03-willlive-JadeBuddha-bait-firewing-unresolved.md) | 第三卷第98章历史归属回补 |
