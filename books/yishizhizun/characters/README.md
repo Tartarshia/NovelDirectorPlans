@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [凤鸣九天首次真奏，未名赤丹精血与虚弱](early-v03-Fengming-first-actual-redpill-blood-sevenstrings-cost.md) | 第三卷第103章历史归属回补 |
+| [理性边缘躲藏与碧波选阮，观察不等读心](early-v03-edgehide-chosen-Bibo-targetsRuan-arrow-fear.md) | 第三卷第103章历史归属回补 |
+| [落红尘牵出阿难古怨，控制窗口未结胜负](early-v03-Luohongchen-ancient-Anan-imprints-not-revival.md) | 第三卷第103章历史归属回补 |
 | [凌云渡五人脱凡胎，资质飞升与境界分开](early-v03-Lingyundu-five-shedmortal-talent-not-Fashen.md) | 第三卷第102章历史归属回补 |
 | [孟口窍7与金钟6真正完工，早期圆满措辞冲突留存](early-v03-Meng-mouth7-Goldbell6-complete-conflict-retained.md) | 第三卷第102章历史归属回补 |
 | [碧波隐身入门后证与万古老孙回声](early-v03-Bibo-invisible-entry-proved-ancient-Laosun-echo.md) | 第三卷第102章历史归属回补 |
