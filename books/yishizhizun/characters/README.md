@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江阮各失右臂仍求生，受害反应与主动处理](early-v03-captured-two-rightarms-lost-selfhemostasis-not-death.md) | 第三卷第104章历史归属回补 |
+| [金钟破与第二舍身第7紫殇，鱼碎丹仍活](early-v03-Goldbell-break-Zishang7-secondSheshen-core-shatter.md) | 第三卷第104章历史归属回补 |
+| [紫殇被夺与藏戒保物，强迫探路不是真归顺](early-v03-Zishang-seized-ring-concealed-forced-windpath.md) | 第三卷第104章历史归属回补 |
 | [凤鸣九天首次真奏，未名赤丹精血与虚弱](early-v03-Fengming-first-actual-redpill-blood-sevenstrings-cost.md) | 第三卷第103章历史归属回补 |
 | [理性边缘躲藏与碧波选阮，观察不等读心](early-v03-edgehide-chosen-Bibo-targetsRuan-arrow-fear.md) | 第三卷第103章历史归属回补 |
 | [落红尘牵出阿难古怨，控制窗口未结胜负](early-v03-Luohongchen-ancient-Anan-imprints-not-revival.md) | 第三卷第103章历史归属回补 |
