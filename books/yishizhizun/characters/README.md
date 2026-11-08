@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第六夜包围与有限入微，孟齐活擒只压一妖](early-v03-day6-encirclement-partialRuwei-scoutcapture.md) | 第三卷第97章历史归属回补 |
+| [三牛分工、地重破解与最后镜杀第二牛](early-v03-threeoxes-separate-Jicanghai-lastmirrorkill.md) | 第三卷第97章历史归属回补 |
+| [葛怀恩用末眼后头毁死亡，孟惊怒续挥结果待后](early-v03-Ge-headkilled-lastPasheneye-yellowprojectile.md) | 第三卷第97章历史归属回补 |
 | [实弃匾与阮克臭自劝，躲过夜妖仍非绝安全](early-v03-plaque-left-Ruan-stench-nightconcealment-limited.md) | 第三卷第96章历史归属回补 |
 | [一钱裂后的蚯蚓伏击，潜跟路线仍是推测](early-v03-earthworm-splitambush-Ge-rescue-tracking-hypotheses.md) | 第三卷第96章历史归属回补 |
 | [外景奔波重创逃走，镜眼仅余一与一](early-v03-Bibo-wounded-escapes-mirror1-eye1-arrow0.md) | 第三卷第96章历史归属回补 |
