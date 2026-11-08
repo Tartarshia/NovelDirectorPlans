@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四人生还日8回归，治疗新生右臂而精神仍疲](early-v03-four-return-reward-physical-heal-not-grief-cure.md) | 第三卷第109章历史归属回补 |
+| [佛前青灯近毁，现能力报价与团队赠留](early-v03-Buddha-forelamp-neardestroyed-current1600-gift.md) | 第三卷第109章历史归属回补 |
+| [齐坠崖解释属自述，遮灯话多不先判秘密](early-v03-Qi-cliff-selfreport-lightshade-future-resign.md) | 第三卷第109章历史归属回补 |
 | [左阎罗帖与挡片互救，碧波至此才终死](early-v03-leftsword-forehead-Menglefthand-rescue-Bibo-dead.md) | 第三卷第108章历史归属回补 |
 | [心琴无言不拨弦，精神少复与阮鼻血昏厥](early-v03-heartqin-silent-no-fingers-mental-cost-faint.md) | 第三卷第108章历史归属回补 |
 | [轻语毁紫劲0，战利与紫殇去向缺口、齐生还](early-v03-Qingyu-destroyed-Zileijin0-Zishang-gap-Qireturn.md) | 第三卷第108章历史归属回补 |
