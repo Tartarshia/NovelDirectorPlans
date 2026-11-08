@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [两界历史相似仍错位，不知人皇不等没有人皇](early-v03-worldhistory-differences-Renhuang-unknown-not-absent.md) | 第三卷第95章历史归属回补 |
+| [碧波王旧名奔波儿灞，吹牛和现实力分开](early-v03-Biboking-Benboerba-boast-currentpower-unverified.md) | 第三卷第95章历史归属回补 |
+| [决定不带匾，西方仅问路结果不是吉地](early-v03-abandonplaque-routewest-not-safeomen.md) | 第三卷第95章历史归属回补 |
 | [黄狮终杀与破神眼首用，击沧海只是预备](early-v03-Huangshi-killed-eye1use-left1-Zhenwujietian.md) | 第三卷第94章历史归属回补 |
 | [酸蚀损失、普通药与阮环存利，尚未兑换入账](early-v03-acidloss-healing-spacering-loot-unredeemed.md) | 第三卷第94章历史归属回补 |
 | [活口说大圣与凤枪，跨世界传说仍待证](early-v03-captive-legends-Phoenix-Ananrule-heavenfall-hearsay.md) | 第三卷第94章历史归属回补 |
