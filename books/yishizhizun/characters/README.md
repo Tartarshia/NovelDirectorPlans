@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [凌云渡五人脱凡胎，资质飞升与境界分开](early-v03-Lingyundu-five-shedmortal-talent-not-Fashen.md) | 第三卷第102章历史归属回补 |
+| [孟口窍7与金钟6真正完工，早期圆满措辞冲突留存](early-v03-Meng-mouth7-Goldbell6-complete-conflict-retained.md) | 第三卷第102章历史归属回补 |
+| [碧波隐身入门后证与万古老孙回声](early-v03-Bibo-invisible-entry-proved-ancient-Laosun-echo.md) | 第三卷第102章历史归属回补 |
 | [齐主动与孟捕风决心，冒险有条件且各人自愿](early-v03-agency-Qi-proactive-Meng-futureBufeng-conditionalrisk.md) | 第三卷第101章历史归属回补 |
 | [灵觉开门得到实证，第二玉佛已碎而匾携入](early-v03-mindsense-gate-open-secondjade-consumed-plaque-carried.md) | 第三卷第101章历史归属回补 |
 | [碧波故诳妖搜生人，识佛气与不识梵字并存](early-v03-Bibo-deliberate-diversion-pig-illiteracy-readeronly.md) | 第三卷第101章历史归属回补 |
