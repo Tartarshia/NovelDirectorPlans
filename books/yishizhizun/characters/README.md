@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟五项购得与180余额，灌体不等练熟](early-v03-Tianzhishang-Meng-five-purchases180-notmastered.md) | 第三卷第111章历史归属回补 |
+| [栖凤原琴不强升，阮三项4200余180](early-v03-Qifeng-Guanghan-SixMeridians-Dahuan180.md) | 第三卷第111章历史归属回补 |
+| [齐爆发短板三合仅建议，伙伴提供互补方案](early-v03-Qi-coldchi-threeway-plan-Jiang-advisor.md) | 第三卷第111章历史归属回补 |
 | [结算14170、四甲四丹600与原预算4380的50差额](early-v03-sale14170-craft600-source4380-gap50.md) | 第三卷第110章历史归属回补 |
 | [真武连环任务四人已共享，三月后行动尚未开始](early-v03-TrueWu-four-shared-max5-three-month-rest.md) | 第三卷第110章历史归属回补 |
 | [紫殇归属勘误：叶家一年借剑，归还仅计划](early-v03-Zishang-Ye-owner-editorial-correction-returnplanned.md) | 第三卷第110章历史归属回补 |
