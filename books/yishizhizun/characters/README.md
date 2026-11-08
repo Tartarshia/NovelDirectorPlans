@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐主动与孟捕风决心，冒险有条件且各人自愿](early-v03-agency-Qi-proactive-Meng-futureBufeng-conditionalrisk.md) | 第三卷第101章历史归属回补 |
+| [灵觉开门得到实证，第二玉佛已碎而匾携入](early-v03-mindsense-gate-open-secondjade-consumed-plaque-carried.md) | 第三卷第101章历史归属回补 |
+| [碧波故诳妖搜生人，识佛气与不识梵字并存](early-v03-Bibo-deliberate-diversion-pig-illiteracy-readeronly.md) | 第三卷第101章历史归属回补 |
 | [符真真穿心死亡、张远山最后一剑与合葬](early-v03-Fu-heartdeath-Zhang-finalblood-lastwords-jointburial.md) | 第三卷第100章历史归属回补 |
 | [五人生存与最后遗丹一枚，恢复不消除损失](early-v03-five-survivors-Mengpill-swallowed-Zhanglegacy1.md) | 第三卷第100章历史归属回补 |
 | [重回旧寺、老者据说灵山与象征西钥匙未试](early-v03-returntemple-oldhuman-symbolicwest-key-untried.md) | 第三卷第100章历史归属回补 |
