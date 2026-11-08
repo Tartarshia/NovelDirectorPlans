@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐断崖不甘与血眼，心问声源未解](early-v03-Qi-cliff-inward-questions-bloodeyes-origin-pending.md) | 第三卷第106章历史归属回补 |
+| [罗最后一拳后的死亡，散修不甘与主队不知](early-v03-Luo-finalfist-neckbite-death-readeronly.md) | 第三卷第106章历史归属回补 |
+| [砀山君旧识与三人押行，江遗丹服用已明证](early-v03-Dangshan-corpse-Jiangpill-confirmed-threecaptives.md) | 第三卷第106章历史归属回补 |
 | [最后遗丹阮孟江暗传，理解来自推理非读心](early-v03-lastDahuan-Ruan-Meng-Jiang-gesture-inference.md) | 第三卷第105章历史归属回补 |
 | [孟半实力与紫雷劲现存2，左阎罗帖三成是方案](early-v03-halfstrength-Zileijin2-leftYanluotie-plan-only.md) | 第三卷第105章历史归属回补 |
 | [齐被派引尸仍护翻盘机会，传音是实际行动](early-v03-Qi-secret-reassurance-forced-zombie-decoy-pending.md) | 第三卷第105章历史归属回补 |
