@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [李充的地方经验与好意误判，苏子远协理是公开面孔](early-v03-LiChong-Zheng-SuZiyuan-assistant-publiccover.md) | 第三卷第114章历史归属回补 |
+| [蔡祥行尸案的转述与路程矛盾，时间已近一月半](early-v03-CaiXiang-case-report-halfmonth-distance-not-solved.md) | 第三卷第114章历史归属回补 |
+| [刀疤阎晓的地方势力与床上威压，传闻不当现榜证明](early-v03-Daoba-YanXiao-rumor-guards-lowmutter-bed.md) | 第三卷第114章历史归属回补 |
 | [捕风三步与青绶血脉印，月银1000不等已领善功](early-v03-windspy-three-steps-bloodseal1000silver-notpaid.md) | 第三卷第113章历史归属回补 |
 | [苏家常识档与苏子远17出头，疏离自保不是认亲](early-v03-Sufamily-commonrecords-SuZiyuan17-detached.md) | 第三卷第113章历史归属回补 |
 | [紫殇经齐归叶家已有消息，播密只是掩饰新案尚未行](early-v03-Zishang-returned-YeviaQi-Bomi-cover-Jiangdongcase.md) | 第三卷第113章历史归属回补 |
