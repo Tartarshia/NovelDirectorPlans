@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [实弃匾与阮克臭自劝，躲过夜妖仍非绝安全](early-v03-plaque-left-Ruan-stench-nightconcealment-limited.md) | 第三卷第96章历史归属回补 |
+| [一钱裂后的蚯蚓伏击，潜跟路线仍是推测](early-v03-earthworm-splitambush-Ge-rescue-tracking-hypotheses.md) | 第三卷第96章历史归属回补 |
+| [外景奔波重创逃走，镜眼仅余一与一](early-v03-Bibo-wounded-escapes-mirror1-eye1-arrow0.md) | 第三卷第96章历史归属回补 |
 | [两界历史相似仍错位，不知人皇不等没有人皇](early-v03-worldhistory-differences-Renhuang-unknown-not-absent.md) | 第三卷第95章历史归属回补 |
 | [碧波王旧名奔波儿灞，吹牛和现实力分开](early-v03-Biboking-Benboerba-boast-currentpower-unverified.md) | 第三卷第95章历史归属回补 |
 | [决定不带匾，西方仅问路结果不是吉地](early-v03-abandonplaque-routewest-not-safeomen.md) | 第三卷第95章历史归属回补 |
