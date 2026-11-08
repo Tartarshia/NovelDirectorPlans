@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [捕风三步与青绶血脉印，月银1000不等已领善功](early-v03-windspy-three-steps-bloodseal1000silver-notpaid.md) | 第三卷第113章历史归属回补 |
+| [苏家常识档与苏子远17出头，疏离自保不是认亲](early-v03-Sufamily-commonrecords-SuZiyuan17-detached.md) | 第三卷第113章历史归属回补 |
+| [紫殇经齐归叶家已有消息，播密只是掩饰新案尚未行](early-v03-Zishang-returned-YeviaQi-Bomi-cover-Jiangdongcase.md) | 第三卷第113章历史归属回补 |
 | [齐四项4200与寒螭龙剑，紫星河晶不是现已第5层](early-v03-Qi-coldchi800-IceSoul2000-Zixinghe900-Dahuan500.md) | 第三卷第112章历史归属回补 |
 | [江各借80总债240，剑廿三与白虹700亲升](early-v03-Jiang-borrow80each3-Sword23-Baihong700-unpaid.md) | 第三卷第112章历史归属回补 |
 | [丧友之后持本心保欢笑，阮先归家与孟重返邺都](early-v03-grief-progress-keep-laughter-separate-home.md) | 第三卷第112章历史归属回补 |
