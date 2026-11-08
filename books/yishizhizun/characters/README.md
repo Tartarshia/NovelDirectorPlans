@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [左阎罗帖与挡片互救，碧波至此才终死](early-v03-leftsword-forehead-Menglefthand-rescue-Bibo-dead.md) | 第三卷第108章历史归属回补 |
+| [心琴无言不拨弦，精神少复与阮鼻血昏厥](early-v03-heartqin-silent-no-fingers-mental-cost-faint.md) | 第三卷第108章历史归属回补 |
+| [轻语毁紫劲0，战利与紫殇去向缺口、齐生还](early-v03-Qingyu-destroyed-Zileijin0-Zishang-gap-Qireturn.md) | 第三卷第108章历史归属回补 |
 | [匾额易手后焚尽，舍利暂归敌手](early-v03-plaque-Biboheld-burned-Wangsheng-sarira-enemy.md) | 第三卷第107章历史归属回补 |
 | [尸罗汉法身威与血泪，解脱观感不解谜全成](early-v03-Arhatcorpse-pressure-bloodtears-causeunknown.md) | 第三卷第107章历史归属回补 |
 | [阿难心法平心与狂雷一招九刀，紫雷劲推余1](early-v03-Anan-mindcalm-Kuanglei-one-move-ninecuts.md) | 第三卷第107章历史归属回补 |
