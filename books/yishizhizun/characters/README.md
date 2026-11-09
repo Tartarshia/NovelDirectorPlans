@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [身体全复与依己判断：止虚名明、和解未验](early-v03-fullrecovery-independenthide-Zhixu-name.md) | 第三卷第133章历史归属回补 |
+| [雕刻静观与两滴迟来泪：急功之因才真正抚平](early-v03-carving-grief-two-tears-drive-not-method.md) | 第三卷第133章历史归属回补 |
+| [笔铺秘密联络与东阳档三处候选](early-v03-stationery-password-Dongyang-threeplaces.md) | 第三卷第133章历史归属回补 |
 | [青印洗嫌与轮回符保命：王只知有手段不知确物](early-v03-greenribbon-clearing-vs-token-unknown-toWang.md) | 第三卷第132章历史归属回补 |
 | [玄关无悔：先定己道、强者压九窍的理由](early-v03-Xuanguan-no-regret-path-before-crossing.md) | 第三卷第132章历史归属回补 |
 | [王布局竞赛与超出掌控的狂热](early-v03-Wang-challenged-layout-uses-variable-wants-losscontrol.md) | 第三卷第132章历史归属回补 |
