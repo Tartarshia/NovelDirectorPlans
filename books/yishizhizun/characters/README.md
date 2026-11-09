@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [老钟修为猜测被旧尸限定，天魔来源与组织仍未知](early-v03-Tianmo-oldcorpse-revised-hypotheses-not-rankproof.md) | 第三卷第118章历史归属回补 |
+| [老钟教阎的痛忆后证，变天仍不能窥完整功法](early-v03-Zhong-taughtYan-memory-sensing-manual-unavailable.md) | 第三卷第118章历史归属回补 |
+| [夜守姚假鸦认旧人，情绪克制与不约关门](early-v03-nightguard-Yao-crow-recognition-undead-door.md) | 第三卷第118章历史归属回补 |
 | [阳夏格局与邱非新半外，郑八窍不由人数误升九](early-v03-Yangxia-factions-Qiu-halfOuter-Zheng8-scopeissue.md) | 第三卷第117章历史归属回补 |
 | [孟回避真武因张死痛，阳和查死来意仅读者知](early-v03-grief-avoidZhenwu-Yanghe-Zhangdeath-readeronly.md) | 第三卷第117章历史归属回补 |
 | [崔先生领合查见尸林，天魔四蚀与组织仅孟内疑](early-v03-Cui-force-corpseforest-TianmoSiShi-suspicion.md) | 第三卷第117章历史归属回补 |
