@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [蒋横川榜十确认、三弟与口纸推理修订](early-v03-JiangHengchuan-rank10-brother-trap-revision.md) | 第三卷第129章历史归属回补 |
+| [榜十境压、孟九刀吐血与八九精控解局](early-v03-Jiang-realmpressure-ninecuts-Bajiu-mask.md) | 第三卷第129章历史归属回补 |
+| [断清净一刀两伤：逃局意图与暂态自然感](early-v03-Duanqingjing-Jiang-mutual-delay-not-newrealm.md) | 第三卷第129章历史归属回补 |
 | [棺木木雕威胁与邻居口述：来者仍未知](early-v03-coffin-threat-neighbor-LaoYe-delivery-report.md) | 第三卷第128章历史归属回补 |
 | [棺铺三尸与湿残账：证物实、藏纸过程推](early-v03-three-coffinshop-dead-wetledger-not-history.md) | 第三卷第128章历史归属回补 |
 | [蒋踏波形貌尸与疑嫁祸、农夫拦路未名](early-v03-JiangTabo-body-frame-suspicion-farmclad-block.md) | 第三卷第128章历史归属回补 |
