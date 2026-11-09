@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [发在意先的剑法所得：宝兵无我挡超音矛](early-v03-Jiang-preintent-JianchuWuwo-supersonic-parry.md) | 第三卷第142章历史归属回补 |
+| [未腐雷矛活死人自退：灯仅拟祭、动机未知](early-v03-unrotted-thunderspear-undead-retreat-lamp-unused.md) | 第三卷第142章历史归属回补 |
+| [我们同意的：共同担责、太阴实拓与镇龙台](early-v03-shared-responsibility-Taiyin-rubbing-Zhenlongtai.md) | 第三卷第142章历史归属回补 |
 | [秘法不能自唤宿世、同伴托底仍真实反噬](early-v03-method-no-selfpastlife-friendcover-real-backlash.md) | 第三卷第141章历史归属回补 |
 | [黄岗玉、日真解残字和百年刻警想象](early-v03-HuangGang-jade-fragment-warning-century-imagination.md) | 第三卷第141章历史归属回补 |
 | [太阴碑仅标题与月光活尸、往生琴滞](early-v03-Taiyin-title-notlearned-mooncorpse-Wangsheng-qin.md) | 第三卷第141章历史归属回补 |
