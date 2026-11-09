@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阳夏格局与邱非新半外，郑八窍不由人数误升九](early-v03-Yangxia-factions-Qiu-halfOuter-Zheng8-scopeissue.md) | 第三卷第117章历史归属回补 |
+| [孟回避真武因张死痛，阳和查死来意仅读者知](early-v03-grief-avoidZhenwu-Yanghe-Zhangdeath-readeronly.md) | 第三卷第117章历史归属回补 |
+| [崔先生领合查见尸林，天魔四蚀与组织仅孟内疑](early-v03-Cui-force-corpseforest-TianmoSiShi-suspicion.md) | 第三卷第117章历史归属回补 |
 | [老钟的地方怪闻与组织合查，境界尚未测定](early-v03-LaoZhong-localrumors-organized-investigation-plan.md) | 第三卷第116章历史归属回补 |
 | [邱钟不同伙的工作假说，蔡祥长程矛盾仍未解](early-v03-Qiu-Zhong-notjoint-hypothesis-Cai-journey-open.md) | 第三卷第116章历史归属回补 |
 | [姚星流认明与圆脸猜阳和，六或七不能写精确境](early-v03-YaoXingliu-recognized-roundface-guessYanghe.md) | 第三卷第116章历史归属回补 |
