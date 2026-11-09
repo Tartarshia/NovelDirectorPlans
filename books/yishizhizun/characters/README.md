@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黑白核心双子与无紫雷劲的天伤破围](early-v03-core-blackwhite-Tianzhi-noZilei-lifeDeathTaiji.md) | 第三卷第138章历史归属回补 |
+| [邱风墙补轻棍、蒋全力与双人借力逃水](early-v03-Qiu-Jiang-fullforce-mutualforce-river-escape.md) | 第三卷第138章历史归属回补 |
+| [邱肉泥死讯待验、真武约到和轮回符实际消耗](early-v03-Qiu-flesh-death-pending-TrueWu-token-actualconsumption.md) | 第三卷第138章历史归属回补 |
 | [层次推理与文曲嫌疑：老人并不裁定真相](early-v03-thinking-levels-Wenqu-hypothesis-not-verdict.md) | 第三卷第137章历史归属回补 |
 | [公开附和与私下保留：河丘邀约中的孟蒋](early-v03-Jiang-frame-agreement-private-Wenqu-token.md) | 第三卷第137章历史归属回补 |
 | [河丘实潜伏与地下两人：旧案疑点重联](early-v03-riverside-stakeout-two-underground-figures.md) | 第三卷第137章历史归属回补 |
