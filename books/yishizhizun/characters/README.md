@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江东又一月、书面邸报与公开狂刀](early-v03-Jiangdong-month-bulletin-publicKuangdao.md) | 第三卷第124章历史归属回补 |
+| [病棋白衣与反向识苏孟，实名仍猜](early-v03-chess-whiteyouth-guessWang-counterobserve.md) | 第三卷第124章历史归属回补 |
+| [茂陵多地邀条：四个暂名青年只向读者展示](early-v03-Maoling-invites-four-unnamed-readeronly.md) | 第三卷第124章历史归属回补 |
 | [姚私认狂刀与地方青印知情分层](early-v03-Yao-SuMeng-private-greenribbon-local-report.md) | 第三卷第123章历史归属回补 |
 | [东阳草庐传闻与船只视线核证](early-v03-Dongyang-cottage-ship-visual-reconstruction.md) | 第三卷第123章历史归属回补 |
 | [活死人尚未真死，残忆成功不越宿世限制](early-v03-Ningzhou-livingdead-not-true-death-memory.md) | 第三卷第123章历史归属回补 |
