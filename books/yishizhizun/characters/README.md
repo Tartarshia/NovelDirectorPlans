@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [清余确认、岁月自炼与天之痕公开化名](early-v03-Qingyu-confirmed-Suiyue-Tianzhihen-alias.md) | 第三卷第127章历史归属回补 |
+| [世外奇翁任平生：楼主认出与实力未详](early-v03-RenPingsheng-owner-suspectedOuter-withholds.md) | 第三卷第127章历史归属回补 |
+| [主动求磨砺、易容赌场与匿名匕袭失踪](early-v03-proactive-disguised-casino-assassin-Qiu-lost.md) | 第三卷第127章历史归属回补 |
 | [第四关九窍长臂老者：鞘刀借力退墙](early-v03-fourthguard9-sheath-Busiyin-Yinyang.md) | 第三卷第126章历史归属回补 |
 | [变天模拟天地相合：有精神压力但尚非交感](early-v03-Biantian-environment-simulation-not-union.md) | 第三卷第126章历史归属回补 |
 | [萧镇海快剑近音：孟真误判后改封起手](early-v03-XiaoZhenhai-nearsound-real-risk-sevenmoves.md) | 第三卷第126章历史归属回补 |
