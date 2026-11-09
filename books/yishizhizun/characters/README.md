@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [生死桥假死体验：心血停而神智气力完整](early-v03-bridge-falsedeath-intact-mind-Bajiu-record-notmaster.md) | 第三卷第140章历史归属回补 |
+| [残图识字局限、左路脚印与阴芝持有](early-v03-partial-ancient-literacy-left-route-herb-Ruan-holds.md) | 第三卷第140章历史归属回补 |
+| [琴迫出、冰短冻、阎罗受挡和雷伤后敌遁](early-v03-fourperson-chain-qin-ice-Yanluo-lightning-undead-escape.md) | 第三卷第140章历史归属回补 |
 | [幽暗重聚不在广场、三月俸药备新证](early-v03-TrueWu-dark-reunion-not-square-salary-meds.md) | 第三卷第139章历史归属回补 |
 | [三种主动助友与齐口窍后证：尚未来茂陵](early-v03-friends-three-support-plans-Qi7-monthago.md) | 第三卷第139章历史归属回补 |
 | [九乡师徒所闻、皇甫涛提名和干红河入口](early-v03-Jiuxiang-unnamed-daoists-Huangfu-hearsay-drybridge.md) | 第三卷第139章历史归属回补 |

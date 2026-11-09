@@ -71,7 +71,2771 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0087"
+  "reading_batch": "batch-0087",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v03-0140",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v03-0140.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v03-c0140:p0001",
+        "length": 85,
+        "sha256": "70c7d49da07a47632d6fc7f32fa81fd037d1a418af4a3ad48d8230dc03c85042",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0001:u001",
+            "start": 0,
+            "end": 85,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟看碑取黑皮六道已注残图，两条尚完整通核心非全图。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟看碑取黑皮六道已注残图，两条尚完整通核心非全图。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟看碑取黑皮六道已注残图，两条尚完整通核心非全图。"
+      },
+      {
+        "reference": "v03-c0140:p0002",
+        "length": 20,
+        "sha256": "bd5a8eb155ff044eae4597799319c57f53bad22b5c39cd94aec47caa05e82de6",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0002:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "图首上古书面铺垫N，不六道此刻发声。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "图首上古书面铺垫N，不六道此刻发声。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "图首上古书面铺垫N，不六道此刻发声。"
+      },
+      {
+        "reference": "v03-c0140:p0003",
+        "length": 7,
+        "sha256": "f28b0b17fd9538a1ea3a0acd65e2e22d1b3307bb85ba06faacab556d84649b7e",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0003:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "生死之界图文N非碑再说话。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "生死之界图文N非碑再说话。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "生死之界图文N非碑再说话。"
+      },
+      {
+        "reference": "v03-c0140:p0004",
+        "length": 111,
+        "sha256": "23e5976063e177f199c4d36561f14cb4f0eeca004175b60f14a460b83c67fc99",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0004:u001",
+            "start": 0,
+            "end": 111,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮勉识部分上古孟齐全不识，孟入六门没来得及学，认的疑认得保源。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江阮勉识部分上古孟齐全不识，孟入六门没来得及学，认的疑认得保源。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮勉识部分上古孟齐全不识，孟入六门没来得及学，认的疑认得保源。"
+      },
+      {
+        "reference": "v03-c0140:p0005",
+        "length": 35,
+        "sha256": "22514758c496ffd4d740b675b0b0efeaaf5633f393d0d4bab2cad50623bcca08",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0005:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "过者死出者生图蝇字书面N，不神灵宣誓判四人死。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "过者死出者生图蝇字书面N，不神灵宣誓判四人死。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "过者死出者生图蝇字书面N，不神灵宣誓判四人死。"
+      },
+      {
+        "reference": "v03-c0140:p0006",
+        "length": 57,
+        "sha256": "d686926bc71592e14a291de27ef833972f653a71700973c01a9c19f441f38aa4",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0006:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "首过桥死孟真问，后不过桥两问为孟内茫然，不全段一口喊。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "首过桥死孟真问，后不过桥两问为孟内茫然，不全段一口喊。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0006:u002",
+            "start": 10,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首过桥死孟真问，后不过桥两问为孟内茫然，不全段一口喊。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "首过桥死孟真问，后不过桥两问为孟内茫然，不全段一口喊。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0006:u003",
+            "start": 26,
+            "end": 36,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "首过桥死孟真问，后不过桥两问为孟内茫然，不全段一口喊。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_question_moviejoke_or_source_hypothesis_not_public_fact",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "首过桥死孟真问，后不过桥两问为孟内茫然，不全段一口喊。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0006:u004",
+            "start": 36,
+            "end": 57,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "首过桥死孟真问，后不过桥两问为孟内茫然，不全段一口喊。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_question_moviejoke_or_source_hypothesis_not_public_fact",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "首过桥死孟真问，后不过桥两问为孟内茫然，不全段一口喊。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首过桥死孟真问，后不过桥两问为孟内茫然，不全段一口喊。"
+      },
+      {
+        "reference": "v03-c0140:p0007",
+        "length": 18,
+        "sha256": "97d59443f99bea92cf166df00f5d4cd8f3fc8365023b9417aeb72cbce98d4efc",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0007:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "图路线皆界后孟内续疑，不六道强制死亡承诺。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_question_moviejoke_or_source_hypothesis_not_public_fact",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "图路线皆界后孟内续疑，不六道强制死亡承诺。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "图路线皆界后孟内续疑，不六道强制死亡承诺。"
+      },
+      {
+        "reference": "v03-c0140:p0008",
+        "length": 23,
+        "sha256": "3fee88248b5a1cafe723417c28ae1d73127dfbb162397408ebc023859c543e7a",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0008:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "v03c16_whiteclad_qin_girl_nameunknown",
+            "surface_identity": "RuanYushu_same_qinfriend",
+            "text_context": "阮抱栖凤琴真另意，不琴灵说话。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_falsedeath_Qifengqin_Jiezi_ring_herb_received_unspent",
+            "delivery": "cold_timbre_more_chilling_but_calm_identifies_mural_supports_with_unnamed_qin",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "阮抱栖凤琴真另意，不琴灵说话。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0008:u002",
+            "start": 9,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮抱栖凤琴真另意，不琴灵说话。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "阮抱栖凤琴真另意，不琴灵说话。",
+            "focalizer": "v03c16_whiteclad_qin_girl_nameunknown",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮抱栖凤琴真另意，不琴灵说话。"
+      },
+      {
+        "reference": "v03-c0140:p0009",
+        "length": 69,
+        "sha256": "ee8bbd637c5bed0bb41c4b32617531292334f9df8d1e7d43ad95d8a5e973835b",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0009:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江真实要试有灯和随断退路非无脑莽死，没强开门杀队友。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江真实要试有灯和随断退路非无脑莽死，没强开门杀队友。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0009:u002",
+            "start": 7,
+            "end": 69,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_same_swordfriend",
+            "text_context": "江真实要试有灯和随断退路非无脑莽死，没强开门杀队友。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "8_near9_not_opened_falsedeath_no_strengthloss_whiteRainbow_YanluoTie",
+            "delivery": "confident_with_exit_plan_coldvoice_retains_curiosity_and_teamwork",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江真实要试有灯和随断退路非无脑莽死，没强开门杀队友。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江真实要试有灯和随断退路非无脑莽死，没强开门杀队友。"
+      },
+      {
+        "reference": "v03-c0140:p0010",
+        "length": 28,
+        "sha256": "f8a9c00dfca4768cdbd177114ba07d6f06190a233c1627c64a488a10736ec7db",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0010:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "前典型江性格孟内腹诽后觉得只能N，不当面怼江。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_question_moviejoke_or_source_hypothesis_not_public_fact",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "前典型江性格孟内腹诽后觉得只能N，不当面怼江。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0010:u002",
+            "start": 13,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前典型江性格孟内腹诽后觉得只能N，不当面怼江。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "前典型江性格孟内腹诽后觉得只能N，不当面怼江。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前典型江性格孟内腹诽后觉得只能N，不当面怼江。"
+      },
+      {
+        "reference": "v03-c0140:p0011",
+        "length": 60,
+        "sha256": "252938466e17bb3b8d20fea2e5268135b92021447ea2a104c19965bc65c86c97",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0011:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐静看暗桥后眼窍难辨有限，铁锁前后面疑铁索桥后面不擅改。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_ancient_map_written_warning_interpretation",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "齐静看暗桥后眼窍难辨有限，铁锁前后面疑铁索桥后面不擅改。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐静看暗桥后眼窍难辨有限，铁锁前后面疑铁索桥后面不擅改。"
+      },
+      {
+        "reference": "v03-c0140:p0012",
+        "length": 37,
+        "sha256": "2a04951d8c2b23a80a466b9061fc3a159895e87ea7707b21860e68f265d8aba2",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0012:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟一半精神戒备青灯提天伤前行桥实，无青灯主动照敌句。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟一半精神戒备青灯提天伤前行桥实，无青灯主动照敌句。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟一半精神戒备青灯提天伤前行桥实，无青灯主动照敌句。"
+      },
+      {
+        "reference": "v03-c0140:p0013",
+        "length": 27,
+        "sha256": "c9ffd6a6c3e7d8b0ec276bea916ad3de28948d5f84da4fd21c34180336f929a8",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0013:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷部神风采比喻不孟神位晋升。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "雷部神风采比喻不孟神位晋升。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷部神风采比喻不孟神位晋升。"
+      },
+      {
+        "reference": "v03-c0140:p0014",
+        "length": 46,
+        "sha256": "b46696a0f69e30f5c646c775679ed25de016c019e860ea5ca7d3cd1b8457c120",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0014:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江并肩阮半步后齐断后默契实，不群声口令未写。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江并肩阮半步后齐断后默契实，不群声口令未写。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江并肩阮半步后齐断后默契实，不群声口令未写。"
+      },
+      {
+        "reference": "v03-c0140:p0015",
+        "length": 41,
+        "sha256": "8df2fb9352563ce23c1b9342c16766daa4b371fc264b6e1a4589aa64a46d8100",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0015:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "桥吱呀实声N无鬼无塌，别添桥袭击。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "桥吱呀实声N无鬼无塌，别添桥袭击。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "桥吱呀实声N无鬼无塌，别添桥袭击。"
+      },
+      {
+        "reference": "v03-c0140:p0016",
+        "length": 22,
+        "sha256": "ef672c3928d869043d0635f97b83954da5fffff884d89acacabd0dfe855da997",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0016:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫非铭假孟内，不已验图伪。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "莫非铭假孟内，不已验图伪。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0016:u002",
+            "start": 7,
+            "end": 22,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "莫非铭假孟内，不已验图伪。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_question_moviejoke_or_source_hypothesis_not_public_fact",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "莫非铭假孟内，不已验图伪。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫非铭假孟内，不已验图伪。"
+      },
+      {
+        "reference": "v03-c0140:p0017",
+        "length": 62,
+        "sha256": "ed4a335623d33a203a1fe98b6c0864dc1260524e82e86a43644467d249368dc1",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0017:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "体温心跳下阳生内收种子过程实非瞬死，粘稠之事疑之势保源。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "体温心跳下阳生内收种子过程实非瞬死，粘稠之事疑之势保源。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "体温心跳下阳生内收种子过程实非瞬死，粘稠之事疑之势保源。"
+      },
+      {
+        "reference": "v03-c0140:p0018",
+        "length": 72,
+        "sha256": "a64e6f557347d31c4676aa7309dbcea8b1cbdf997d2cacf37f884eba6c971b53",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0018:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "力灵活真气元神清明无降灵觉无险灯徐燃正常，不直接认4真正死亡。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "力灵活真气元神清明无降灵觉无险灯徐燃正常，不直接认4真正死亡。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "力灵活真气元神清明无降灵觉无险灯徐燃正常，不直接认4真正死亡。"
+      },
+      {
+        "reference": "v03-c0140:p0019",
+        "length": 48,
+        "sha256": "f8f233ef0703fe907e8d12c4c159263fcf7ea3951d913ea8ddb6937a795f7ff1",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0019:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "伙伴皆慢心阴森像死，非已丧神识。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "伙伴皆慢心阴森像死，非已丧神识。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "伙伴皆慢心阴森像死，非已丧神识。"
+      },
+      {
+        "reference": "v03-c0140:p0020",
+        "length": 49,
+        "sha256": "98cf536a556be54e0f7b4f68b679a85cf2e25de2e762897a67a4a10a7b8ae94f",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0020:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "孟感觉到了实际口声音阴九幽比喻，性情身份仍孟不换鬼说者。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟感觉到了实际口声音阴九幽比喻，性情身份仍孟不换鬼说者。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0020:u002",
+            "start": 10,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟感觉到了实际口声音阴九幽比喻，性情身份仍孟不换鬼说者。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟感觉到了实际口声音阴九幽比喻，性情身份仍孟不换鬼说者。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟感觉到了实际口声音阴九幽比喻，性情身份仍孟不换鬼说者。"
+      },
+      {
+        "reference": "v03-c0140:p0021",
+        "length": 58,
+        "sha256": "4bcdcb1453a07f411baaebaa5e2dc390f966b13704888f5b68b664424f9dce66",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0021:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江一样无损与肉身假死疑是真口，未独验永久死而复活法。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江一样无损与肉身假死疑是真口，未独验永久死而复活法。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0021:u002",
+            "start": 22,
+            "end": 58,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_same_swordfriend",
+            "text_context": "江一样无损与肉身假死疑是真口，未独验永久死而复活法。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "8_near9_not_opened_falsedeath_no_strengthloss_whiteRainbow_YanluoTie",
+            "delivery": "confident_with_exit_plan_coldvoice_retains_curiosity_and_teamwork",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江一样无损与肉身假死疑是真口，未独验永久死而复活法。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江一样无损与肉身假死疑是真口，未独验永久死而复活法。"
+      },
+      {
+        "reference": "v03-c0140:p0022",
+        "length": 40,
+        "sha256": "8bc7bdc6caa44c46a4f93a16a4cde93228b56fea6aec3b819520b6c84154c90e",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0022:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "v03c16_whiteclad_qin_girl_nameunknown",
+            "surface_identity": "RuanYushu_same_qinfriend",
+            "text_context": "阮冷声更阴述大人物寻长存，不讲自己真的死了。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_falsedeath_Qifengqin_Jiezi_ring_herb_received_unspent",
+            "delivery": "cold_timbre_more_chilling_but_calm_identifies_mural_supports_with_unnamed_qin",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "阮冷声更阴述大人物寻长存，不讲自己真的死了。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0022:u002",
+            "start": 16,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮冷声更阴述大人物寻长存，不讲自己真的死了。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "阮冷声更阴述大人物寻长存，不讲自己真的死了。",
+            "focalizer": "v03c16_whiteclad_qin_girl_nameunknown",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮冷声更阴述大人物寻长存，不讲自己真的死了。"
+      },
+      {
+        "reference": "v03-c0140:p0023",
+        "length": 28,
+        "sha256": "66df1f4e8dd031b50925b6bab1a9a4a3d7f34d083bb34cd88a733cdbd439b2cb",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0023:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_same_swordfriend",
+            "text_context": "江隐天机是问假设，不N证明天机已彻瞒。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "8_near9_not_opened_falsedeath_no_strengthloss_whiteRainbow_YanluoTie",
+            "delivery": "confident_with_exit_plan_coldvoice_retains_curiosity_and_teamwork",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江隐天机是问假设，不N证明天机已彻瞒。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0023:u002",
+            "start": 16,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江隐天机是问假设，不N证明天机已彻瞒。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江隐天机是问假设，不N证明天机已彻瞒。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江隐天机是问假设，不N证明天机已彻瞒。"
+      },
+      {
+        "reference": "v03-c0140:p0024",
+        "length": 28,
+        "sha256": "c2f94f2dd801ab07667d077ec06e177c100bce3366d78b9ca146b6209ea43cb6",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0024:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟看来真武备是推未完整古史确定。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟看来真武备是推未完整古史确定。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0024:u002",
+            "start": 9,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "孟看来真武备是推未完整古史确定。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟看来真武备是推未完整古史确定。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟看来真武备是推未完整古史确定。"
+      },
+      {
+        "reference": "v03-c0140:p0025",
+        "length": 105,
+        "sha256": "4a4445da79b2397cf9fa20018f1a8268faff051d140eb0e1dfed3b05f8c36d10",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0025:u001",
+            "start": 0,
+            "end": 105,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "过桥心停血止体温失但气联外撑体实际，不队全部死亡任务失败。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "过桥心停血止体温失但气联外撑体实际，不队全部死亡任务失败。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "过桥心停血止体温失但气联外撑体实际，不队全部死亡任务失败。"
+      },
+      {
+        "reference": "v03-c0140:p0026",
+        "length": 68,
+        "sha256": "611f56e9d4aa94062f9df790e7c4ab6d3772b78899c1f35f8a4c07ac990037a3",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0026:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阳生眉心芥种律动不消失支撑不腐，不魂被吃无救。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "阳生眉心芥种律动不消失支撑不腐，不魂被吃无救。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阳生眉心芥种律动不消失支撑不腐，不魂被吃无救。"
+      },
+      {
+        "reference": "v03-c0140:p0027",
+        "length": 28,
+        "sha256": "8888f5153de159934b1a8e7a02c239b03751b0986c9bf8ba03b95aec0c33e095",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0027:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟想悟玄机未已掌生死自变全法。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟想悟玄机未已掌生死自变全法。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟想悟玄机未已掌生死自变全法。"
+      },
+      {
+        "reference": "v03-c0140:p0028",
+        "length": 57,
+        "sha256": "52e8eed12bc8d420791490a59aac3e66493b2a571b9d75f473d1f3a6fecad391",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0028:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "孟真笑尸变若被人看假设，八九记细节而非已可随意复现生死法。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟真笑尸变若被人看假设，八九记细节而非已可随意复现生死法。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0028:u002",
+            "start": 22,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟真笑尸变若被人看假设，八九记细节而非已可随意复现生死法。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟真笑尸变若被人看假设，八九记细节而非已可随意复现生死法。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟真笑尸变若被人看假设，八九记细节而非已可随意复现生死法。"
+      },
+      {
+        "reference": "v03-c0140:p0029",
+        "length": 26,
+        "sha256": "5cb122fc2973b802ef1e48bf93525fd4e12aa51c2dbc73a94de7a1146ee04a9d",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0029:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟看江阮失笑不恐惧失去同伴，齐也在。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟看江阮失笑不恐惧失去同伴，齐也在。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟看江阮失笑不恐惧失去同伴，齐也在。"
+      },
+      {
+        "reference": "v03-c0140:p0030",
+        "length": 15,
+        "sha256": "f6e3a1898b46df03c335dda9a955fe1b09f16b5587ebfdb62702b99398fb8246",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0030:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_same_swordfriend",
+            "text_context": "江真问笑何，无被作弄就伤友。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "8_near9_not_opened_falsedeath_no_strengthloss_whiteRainbow_YanluoTie",
+            "delivery": "confident_with_exit_plan_coldvoice_retains_curiosity_and_teamwork",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江真问笑何，无被作弄就伤友。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0030:u002",
+            "start": 7,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江真问笑何，无被作弄就伤友。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江真问笑何，无被作弄就伤友。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江真问笑何，无被作弄就伤友。"
+      },
+      {
+        "reference": "v03-c0140:p0031",
+        "length": 49,
+        "sha256": "9e85a0fd8a3695f18bb17c2c3c9ec5b4b3aea8d9bba0a10c3da73556c4f2fddd",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0031:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟没什么重复实际，前阴容白衣N不她们鬼魂真身份。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟没什么重复实际，前阴容白衣N不她们鬼魂真身份。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0031:u002",
+            "start": 39,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "孟没什么重复实际，前阴容白衣N不她们鬼魂真身份。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟没什么重复实际，前阴容白衣N不她们鬼魂真身份。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟没什么重复实际，前阴容白衣N不她们鬼魂真身份。"
+      },
+      {
+        "reference": "v03-c0140:p0032",
+        "length": 12,
+        "sha256": "a905bbef9f59e3b0731e2ab516a3b4c68d32f4416f8c6401f55ff4ed0358a109",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0032:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "倩女幽魂孟内梗不让江阮听到/电影世界真实入。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_actual_bridge_falsedeath_intact_identity_humor",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_question_moviejoke_or_source_hypothesis_not_public_fact",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "倩女幽魂孟内梗不让江阮听到/电影世界真实入。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "倩女幽魂孟内梗不让江阮听到/电影世界真实入。"
+      },
+      {
+        "reference": "v03-c0140:p0033",
+        "length": 49,
+        "sha256": "c642acb85d607bbf0c753e0056de0116d0991b3d4de1040d3ab3245c52cb8834",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0033:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟看残图左右两路避追问，不突然已懂全部古字。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟看残图左右两路避追问，不突然已懂全部古字。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟看残图左右两路避追问，不突然已懂全部古字。"
+      },
+      {
+        "reference": "v03-c0140:p0034",
+        "length": 40,
+        "sha256": "f45f417cf5418fe92a1be88ecaae92ec14acbf057de3522211bd6d3537d2d83d",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0034:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "孟实选左因右险注多朴素，古字由江阮解不新自学通。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟实选左因右险注多朴素，古字由江阮解不新自学通。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0034:u002",
+            "start": 26,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实选左因右险注多朴素，古字由江阮解不新自学通。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟实选左因右险注多朴素，古字由江阮解不新自学通。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实选左因右险注多朴素，古字由江阮解不新自学通。"
+      },
+      {
+        "reference": "v03-c0140:p0035",
+        "length": 23,
+        "sha256": "1755f6bd188e3cb27833b63ec10cfa1e5268cc5519377f53b3198c5894c199fa",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0035:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "其他同意N无三人齐台词，中断保底仍未执行。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "其他同意N无三人齐台词，中断保底仍未执行。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "其他同意N无三人齐台词，中断保底仍未执行。"
+      },
+      {
+        "reference": "v03-c0140:p0036",
+        "length": 47,
+        "sha256": "3182093d7d3a880cdf0fac3fde9af32e8b628bd0d2c734bb9adb1ce7895ef47c",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0036:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真气阻阴风往左实际，非已受到耗命重伤。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "真气阻阴风往左实际，非已受到耗命重伤。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真气阻阴风往左实际，非已受到耗命重伤。"
+      },
+      {
+        "reference": "v03-c0140:p0037",
+        "length": 36,
+        "sha256": "83811df94b1fdf7e4ccfbf9a3686cb53df9538a819a137f8984c736131c1cff4",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0037:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "门虚掩描神兽画非活神兽出来攻击。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "门虚掩描神兽画非活神兽出来攻击。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "门虚掩描神兽画非活神兽出来攻击。"
+      },
+      {
+        "reference": "v03-c0140:p0038",
+        "length": 19,
+        "sha256": "9958698f4865f5139c64228031f777c0d2fa7eb88503e766ef64eefb8ddf09a6",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0038:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "孟真问有人进疑，不已经知道皇甫或当地人全身份。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟真问有人进疑，不已经知道皇甫或当地人全身份。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0038:u002",
+            "start": 12,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟真问有人进疑，不已经知道皇甫或当地人全身份。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟真问有人进疑，不已经知道皇甫或当地人全身份。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟真问有人进疑，不已经知道皇甫或当地人全身份。"
+      },
+      {
+        "reference": "v03-c0140:p0039",
+        "length": 18,
+        "sha256": "f3c7c55fe4a16a3110d2aa338b06cbc24ec5ef0b3a2384ec2b3bfe451510e764",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0039:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐实际指出脚印，非沉默永没贡献。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "齐实际指出脚印，非沉默永没贡献。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0039:u002",
+            "start": 12,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_same_travelling_friend",
+            "text_context": "齐实际指出脚印，非沉默永没贡献。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_monthago_mouth_innerworld_initial_falsedeath_ice_sword_brief_freeze",
+            "delivery": "quiet_watch_reveals_footprints_herb_then_precise_support",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "齐实际指出脚印，非沉默永没贡献。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际指出脚印，非沉默永没贡献。"
+      },
+      {
+        "reference": "v03-c0140:p0040",
+        "length": 37,
+        "sha256": "d158d26a41cd6318be5e77e455f9510eee30c6f36edbc98788399ad7555576d3",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0040:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "多脚印似不止1新观察，未确定谁何时。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "多脚印似不止1新观察，未确定谁何时。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "多脚印似不止1新观察，未确定谁何时。"
+      },
+      {
+        "reference": "v03-c0140:p0041",
+        "length": 38,
+        "sha256": "4cda9600fc7eefd410f2da9c11833e5a439628a7bb79623fa9ae1c66563eefbd",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0041:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首天伤名N第二根警变数孟实声，非兵器台词。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "首天伤名N第二根警变数孟实声，非兵器台词。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0041:u002",
+            "start": 16,
+            "end": 38,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "首天伤名N第二根警变数孟实声，非兵器台词。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "首天伤名N第二根警变数孟实声，非兵器台词。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首天伤名N第二根警变数孟实声，非兵器台词。"
+      },
+      {
+        "reference": "v03-c0140:p0042",
+        "length": 70,
+        "sha256": "b9eac3b4cf847ba7ca9d175b5ec7c203fa093098da3d8ba6560a02c7f4983e22",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0042:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟推门江阮点头无额外群声，壁画镇魔形象非现实人物到。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟推门江阮点头无额外群声，壁画镇魔形象非现实人物到。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟推门江阮点头无额外群声，壁画镇魔形象非现实人物到。"
+      },
+      {
+        "reference": "v03-c0140:p0043",
+        "length": 54,
+        "sha256": "07442bb2baa87b123aa2b4eaa83554b541d0d75adf57c823b08b28e3f70530b9",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0043:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "壁画帝袍剑与水合麻鞋中年貌，非神本人现场换衣。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "壁画帝袍剑与水合麻鞋中年貌，非神本人现场换衣。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "壁画帝袍剑与水合麻鞋中年貌，非神本人现场换衣。"
+      },
+      {
+        "reference": "v03-c0140:p0044",
+        "length": 16,
+        "sha256": "ba467ecee315c48745a068c9897c0648442084bc051cedc775f3653f818e07e5",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0044:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "v03c16_whiteclad_qin_girl_nameunknown",
+            "surface_identity": "RuanYushu_same_qinfriend",
+            "text_context": "阮真辨真武名，非真武说自己名。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_falsedeath_Qifengqin_Jiezi_ring_herb_received_unspent",
+            "delivery": "cold_timbre_more_chilling_but_calm_identifies_mural_supports_with_unnamed_qin",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "阮真辨真武名，非真武说自己名。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0044:u002",
+            "start": 7,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮真辨真武名，非真武说自己名。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "阮真辨真武名，非真武说自己名。",
+            "focalizer": "v03c16_whiteclad_qin_girl_nameunknown",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮真辨真武名，非真武说自己名。"
+      },
+      {
+        "reference": "v03-c0140:p0045",
+        "length": 31,
+        "sha256": "ab6b28eed7700f39cb600aca706815d446a5207450e0a0e649ea77bb0b3d7372",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0045:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "今神话附会形象有差N不已否定画者真武。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "今神话附会形象有差N不已否定画者真武。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "今神话附会形象有差N不已否定画者真武。"
+      },
+      {
+        "reference": "v03-c0140:p0046",
+        "length": 23,
+        "sha256": "fb28c45ee7e797b57af1867bb481ac54c41d101911379de771d29711f95c9548",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0046:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际赞九天荡魔，非九天主君对话。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟实际赞九天荡魔，非九天主君对话。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0046:u002",
+            "start": 11,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "孟实际赞九天荡魔，非九天主君对话。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟实际赞九天荡魔，非九天主君对话。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际赞九天荡魔，非九天主君对话。"
+      },
+      {
+        "reference": "v03-c0140:p0047",
+        "length": 50,
+        "sha256": "95d0dc6fc7d7f7f8b711191431efc25f76dfda28dbc871c3e29d67c39a8ecbc7",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0047:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "四放缓看壁画镇九幽为线索，非当前现场全镇一遍。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "四放缓看壁画镇九幽为线索，非当前现场全镇一遍。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "四放缓看壁画镇九幽为线索，非当前现场全镇一遍。"
+      },
+      {
+        "reference": "v03-c0140:p0048",
+        "length": 23,
+        "sha256": "3d000cf412582e9e0e98db7f1029418f468e085e25f42745fff7788791837c88",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0048:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_same_swordfriend",
+            "text_context": "江喟古患实不新增九幽邪魔此刻袭世界。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "8_near9_not_opened_falsedeath_no_strengthloss_whiteRainbow_YanluoTie",
+            "delivery": "confident_with_exit_plan_coldvoice_retains_curiosity_and_teamwork",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江喟古患实不新增九幽邪魔此刻袭世界。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0048:u002",
+            "start": 16,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江喟古患实不新增九幽邪魔此刻袭世界。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_left_route_footprints_mural_identification",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江喟古患实不新增九幽邪魔此刻袭世界。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江喟古患实不新增九幽邪魔此刻袭世界。"
+      },
+      {
+        "reference": "v03-c0140:p0049",
+        "length": 46,
+        "sha256": "b7614e0a091571d067c9eb85de656d14128a2ee87122e853cd520d95f138751a",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0049:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "墓室院大单黑棺场景，不和茂陵旧棺实同物。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "墓室院大单黑棺场景，不和茂陵旧棺实同物。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "墓室院大单黑棺场景，不和茂陵旧棺实同物。"
+      },
+      {
+        "reference": "v03-c0140:p0050",
+        "length": 26,
+        "sha256": "e5ce459ed274e6a4ea45883894c4859a3897b14c2e69bde9c5962ae24dec1ce7",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0050:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "棺盖侧似死者爬出是视觉推，不此时真实目击开盖者。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "棺盖侧似死者爬出是视觉推，不此时真实目击开盖者。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "棺盖侧似死者爬出是视觉推，不此时真实目击开盖者。"
+      },
+      {
+        "reference": "v03-c0140:p0051",
+        "length": 29,
+        "sha256": "ec4a35af66b0b4be8e2bd63be5eac33e0896e7b331ede5a05ee009a40d33cb2c",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0051:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟头皮麻电蛇更跃戒备，不引紫雷劲已新耗。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟头皮麻电蛇更跃戒备，不引紫雷劲已新耗。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟头皮麻电蛇更跃戒备，不引紫雷劲已新耗。"
+      },
+      {
+        "reference": "v03-c0140:p0052",
+        "length": 74,
+        "sha256": "1d12795c0bbd4bf35d22898bd6081653b8ef80c89373bb453825787282761973",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0052:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "QiZhengyan_same_travelling_friend",
+            "text_context": "齐首先发现灰白阴芝真实，未自动百年品种已鉴定。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_monthago_mouth_innerworld_initial_falsedeath_ice_sword_brief_freeze",
+            "delivery": "quiet_watch_reveals_footprints_herb_then_precise_support",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "齐首先发现灰白阴芝真实，未自动百年品种已鉴定。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0052:u002",
+            "start": 8,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐首先发现灰白阴芝真实，未自动百年品种已鉴定。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "齐首先发现灰白阴芝真实，未自动百年品种已鉴定。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐首先发现灰白阴芝真实，未自动百年品种已鉴定。"
+      },
+      {
+        "reference": "v03-c0140:p0053",
+        "length": 37,
+        "sha256": "26f845ef8745d46c44158f169fb94e963dfcd580dc9ca8d17166f6d65bd4f9bd",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0053:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江疑地泉有异或毒至少百年为其估，不N精确年鉴定。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江疑地泉有异或毒至少百年为其估，不N精确年鉴定。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0053:u002",
+            "start": 9,
+            "end": 37,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_same_swordfriend",
+            "text_context": "江疑地泉有异或毒至少百年为其估，不N精确年鉴定。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "8_near9_not_opened_falsedeath_no_strengthloss_whiteRainbow_YanluoTie",
+            "delivery": "confident_with_exit_plan_coldvoice_retains_curiosity_and_teamwork",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江疑地泉有异或毒至少百年为其估，不N精确年鉴定。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江疑地泉有异或毒至少百年为其估，不N精确年鉴定。"
+      },
+      {
+        "reference": "v03-c0140:p0054",
+        "length": 60,
+        "sha256": "616f962182dbd17123ced2282628bd20f638a4d6e6ee1255f83d73fa62d9caeb",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0054:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "孟拟换善功真声但未已兑；子午实际挑芝落阮手有取得流向，未吃/淬毒。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟拟换善功真声但未已兑；子午实际挑芝落阮手有取得流向，未吃/淬毒。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0054:u002",
+            "start": 23,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟拟换善功真声但未已兑；子午实际挑芝落阮手有取得流向，未吃/淬毒。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟拟换善功真声但未已兑；子午实际挑芝落阮手有取得流向，未吃/淬毒。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟拟换善功真声但未已兑；子午实际挑芝落阮手有取得流向，未吃/淬毒。"
+      },
+      {
+        "reference": "v03-c0140:p0055",
+        "length": 19,
+        "sha256": "c4f49537df3f922d4932754d01cf43472a87ec033279f5680d526468d5ac8ecd",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0055:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟见棺底6上古篆字不会读不自己已认全。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟见棺底6上古篆字不会读不自己已认全。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟见棺底6上古篆字不会读不自己已认全。"
+      },
+      {
+        "reference": "v03-c0140:p0056",
+        "length": 17,
+        "sha256": "bfeac85b1967d85162ea2638d11624c36dc2d3fc6b75712b08918afe84b0dd36",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0056:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江辨并实际念下文，非棺主突然说。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江辨并实际念下文，非棺主突然说。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江辨并实际念下文，非棺主突然说。"
+      },
+      {
+        "reference": "v03-c0140:p0057",
+        "length": 10,
+        "sha256": "97bd550b3b7e4d6b606687d6bd7ba10c9a4d9e1cff068596cdddd6b94a1ea25a",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0057:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "JiangZhiwei_same_swordfriend",
+            "text_context": "得缘归处江现场读铭专道，古作者未亲口/诅咒已应验。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "Jiang_live_reading_six_ancient_inscription_chars_not_tombowner_voice",
+            "fact_status": "actual_friend_dialogue_interpretation_or_live_reading_not_ancient_person_speech",
+            "embodiment": "8_near9_not_opened_falsedeath_no_strengthloss_whiteRainbow_YanluoTie",
+            "delivery": "confident_with_exit_plan_coldvoice_retains_curiosity_and_teamwork",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "得缘归处江现场读铭专道，古作者未亲口/诅咒已应验。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "得缘归处江现场读铭专道，古作者未亲口/诅咒已应验。"
+      },
+      {
+        "reference": "v03-c0140:p0058",
+        "length": 25,
+        "sha256": "764a5ee8c8a4f51bf8148229814d75c44325a8cce76e9a2bd13baec00f1a3b3a",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0058:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "众寒问诅咒预言N焦点未定，不全队真齐喊或确定宿命已中。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_herb_acquired_Ruan_holds_Jiang_reads_inscription",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "众寒问诅咒预言N焦点未定，不全队真齐喊或确定宿命已中。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "众寒问诅咒预言N焦点未定，不全队真齐喊或确定宿命已中。"
+      },
+      {
+        "reference": "v03-c0140:p0059",
+        "length": 29,
+        "sha256": "992271328bcb3c231d01ef22da4fbe479780b14d886dd338ae06c337bce1d21d",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0059:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "地下灰白手实际抓踝不是宁州已实名，未实际抓中受伤。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "地下灰白手实际抓踝不是宁州已实名，未实际抓中受伤。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "地下灰白手实际抓踝不是宁州已实名，未实际抓中受伤。"
+      },
+      {
+        "reference": "v03-c0140:p0060",
+        "length": 23,
+        "sha256": "6bc1852a164a3d2e8f96ea66c22e913b868c512be0e2aa0fc8f275442be1dd7e",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0060:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "指印玄妙变化是动作N非咒语台词。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "指印玄妙变化是动作N非咒语台词。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "指印玄妙变化是动作N非咒语台词。"
+      },
+      {
+        "reference": "v03-c0140:p0061",
+        "length": 52,
+        "sha256": "40f203cc24c0ec27d58699f3ba0956d8ff4e59d56133c21387b062342ba44656",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0061:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阴绿火无声锁退路，非大爆炸声未给。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "阴绿火无声锁退路，非大爆炸声未给。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阴绿火无声锁退路，非大爆炸声未给。"
+      },
+      {
+        "reference": "v03-c0140:p0062",
+        "length": 57,
+        "sha256": "7df43f71223d485a3a0ffcc53ae139ae6992c60fa7c0c1f60e9ff78e90f876ca",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0062:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟刚地下经验戒备故未措手，起跳劈实际不已经杀敌。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟刚地下经验戒备故未措手，起跳劈实际不已经杀敌。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟刚地下经验戒备故未措手，起跳劈实际不已经杀敌。"
+      },
+      {
+        "reference": "v03-c0140:p0063",
+        "length": 49,
+        "sha256": "b4f596784161bfe10143bda7fb05dc38655f85dc4d5154bbd05e358793c25881",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0063:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮琴清阴迫地下闷哼无词N，拟经声佛号不实际佛陀说经/命名琴曲已给。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "阮琴清阴迫地下闷哼无词N，拟经声佛号不实际佛陀说经/命名琴曲已给。",
+            "focalizer": "v03c16_whiteclad_qin_girl_nameunknown",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮琴清阴迫地下闷哼无词N，拟经声佛号不实际佛陀说经/命名琴曲已给。"
+      },
+      {
+        "reference": "v03-c0140:p0064",
+        "length": 21,
+        "sha256": "ab3e73075d3ad6e7f051666fcd3caa067fc442143cb5fa0fb9af5b7c3346bcb8",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0064:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未名人钻出欲挡，非敌全身还藏土。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "未名人钻出欲挡，非敌全身还藏土。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未名人钻出欲挡，非敌全身还藏土。"
+      },
+      {
+        "reference": "v03-c0140:p0065",
+        "length": 62,
+        "sha256": "bbb6cf0edbc140f10ab117fb0541723fc577cfe5ee6f3694b6be62688dfddae5",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0065:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐实际冰化龙纹赤金剑冻双脚短暂火迅融，不永久冻死。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "齐实际冰化龙纹赤金剑冻双脚短暂火迅融，不永久冻死。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐实际冰化龙纹赤金剑冻双脚短暂火迅融，不永久冻死。"
+      },
+      {
+        "reference": "v03-c0140:p0066",
+        "length": 41,
+        "sha256": "0dca0590029b3bd2bafd57411a2bd126ba66191a4111f96f6aadeee4ed21578d",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0066:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江白虹真刺眉心配合，不先已刺中灭魂。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江白虹真刺眉心配合，不先已刺中灭魂。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江白虹真刺眉心配合，不先已刺中灭魂。"
+      },
+      {
+        "reference": "v03-c0140:p0067",
+        "length": 63,
+        "sha256": "1672726019c5f01e049c0ea1b8a9783b42a26002d14ed9df3c183658386c3b20",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0067:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "白发皱纹弱气似活死熟悉感，未真实宁州同人。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "白发皱纹弱气似活死熟悉感，未真实宁州同人。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "白发皱纹弱气似活死熟悉感，未真实宁州同人。"
+      },
+      {
+        "reference": "v03-c0140:p0068",
+        "length": 49,
+        "sha256": "9e102fda4beb90d665502381eb7b5fa3c5cb820516bdfa7e9d190159274def99",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0068:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "敌怒吼无词N左拳阴火挡剑，不有具名招式叫喊。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "敌怒吼无词N左拳阴火挡剑，不有具名招式叫喊。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "敌怒吼无词N左拳阴火挡剑，不有具名招式叫喊。"
+      },
+      {
+        "reference": "v03-c0140:p0069",
+        "length": 56,
+        "sha256": "8ef853406807a96a260defa3928ff33b32a2dc23ad7c5d8e67c072c817b328d1",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0069:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阎罗帖实际但近死敌不受精神随机正挡，不所有招都无效或江已九。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_team_response_underground_hand_livingdead",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "江阎罗帖实际但近死敌不受精神随机正挡，不所有招都无效或江已九。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阎罗帖实际但近死敌不受精神随机正挡，不所有招都无效或江已九。"
+      },
+      {
+        "reference": "v03-c0140:p0070",
+        "length": 28,
+        "sha256": "d896083a2ab23b56be1cfa2c0f0015551f9367f2a72ea81041d8b412c629f570",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0070:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟天伤潮雷实际斩非子午第二刺。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟天伤潮雷实际斩非子午第二刺。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟天伤潮雷实际斩非子午第二刺。"
+      },
+      {
+        "reference": "v03-c0140:p0071",
+        "length": 38,
+        "sha256": "7b20770c9c68ba04cfbe850d0af7e76e64b51ac7015940fd813b51f802f7690c",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0071:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "敌右拳迎雷不惧，不雷确实全无克制伤。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "敌右拳迎雷不惧，不雷确实全无克制伤。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "敌右拳迎雷不惧，不雷确实全无克制伤。"
+      },
+      {
+        "reference": "v03-c0140:p0072",
+        "length": 30,
+        "sha256": "6bf96cad53a037035e07d55e5f5eb250ec72a57303f17e06a73c830f7da6ef8e",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0072:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "剑刀皆被挡清响N不队友说啪啪。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "剑刀皆被挡清响N不队友说啪啪。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0072:u002",
+            "start": 3,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "剑刀皆被挡清响N不队友说啪啪。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "剑刀皆被挡清响N不队友说啪啪。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "剑刀皆被挡清响N不队友说啪啪。"
+      },
+      {
+        "reference": "v03-c0140:p0073",
+        "length": 37,
+        "sha256": "359721a66cf2db14a62ef6b87ba6392d42e1c45ae5e9ba4a7989a93d969a58b3",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0073:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷暴蒸黑气敌嚎实有效，无词不补敌台词或判死亡。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "雷暴蒸黑气敌嚎实有效，无词不补敌台词或判死亡。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷暴蒸黑气敌嚎实有效，无词不补敌台词或判死亡。"
+      },
+      {
+        "reference": "v03-c0140:p0074",
+        "length": 2,
+        "sha256": "f20bb67b0ed524103cea170f1554099e3d318a79e60fc55e09d14fa398c361c3",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0074:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "砰拟声N。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "砰拟声N。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "砰拟声N。"
+      },
+      {
+        "reference": "v03-c0140:p0075",
+        "length": 48,
+        "sha256": "17b886ba1a1697dbaa46ed2ac1c3f2305e24e46fa9b5152ba4e933538687d4fe",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0075:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "火爆散江不沾退一步防，不她已经烧重伤。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "火爆散江不沾退一步防，不她已经烧重伤。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "火爆散江不沾退一步防，不她已经烧重伤。"
+      },
+      {
+        "reference": "v03-c0140:p0076",
+        "length": 39,
+        "sha256": "5c2508d87a3a0e4318f87c41baaccd7a40f3ceecdfe7dc57aea8a1d2a3d02feb",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0076:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟借力腾空避齐阮远未波及，不4皆中火受伤。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟借力腾空避齐阮远未波及，不4皆中火受伤。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟借力腾空避齐阮远未波及，不4皆中火受伤。"
+      },
+      {
+        "reference": "v03-c0140:p0077",
+        "length": 19,
+        "sha256": "f40105173536a547590dab3df90458241275be4375992c136e5f142ea8b25c43",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0077:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "火熄敌消只坑，未杀未抓到不新战利品落地。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "火熄敌消只坑，未杀未抓到不新战利品落地。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "火熄敌消只坑，未杀未抓到不新战利品落地。"
+      },
+      {
+        "reference": "v03-c0140:p0078",
+        "length": 30,
+        "sha256": "1b3a3587b28edec700124f7611b144a790df67534da5735f9d5eeb49ded11a80",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0078:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "前惧雷却不怕出招孟内复盘后落站N，不敌解释自身能力。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_question_moviejoke_or_source_hypothesis_not_public_fact",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "前惧雷却不怕出招孟内复盘后落站N，不敌解释自身能力。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0140:p0078:u002",
+            "start": 18,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "前惧雷却不怕出招孟内复盘后落站N，不敌解释自身能力。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "前惧雷却不怕出招孟内复盘后落站N，不敌解释自身能力。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "前惧雷却不怕出招孟内复盘后落站N，不敌解释自身能力。"
+      },
+      {
+        "reference": "v03-c0140:p0079",
+        "length": 25,
+        "sha256": "6619bf935311235b290fbf59f297bf514bf6e40238be08270364dc91f5216337",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0079:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟想到熟悉出处尚自联，不突然别角色告全史。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "narration_with_written_text_actual_transformation_incomplete_claim_and_combat_outcome_distinguished",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟想到熟悉出处尚自联，不突然别角色告全史。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟想到熟悉出处尚自联，不突然别角色告全史。"
+      },
+      {
+        "reference": "v03-c0140:p0080",
+        "length": 33,
+        "sha256": "0681be95674b3fd2b897f3f101b911615879ece28aae3fe1f2ea5a28bc5678d5",
+        "units": [
+          {
+            "unit_id": "v03-c0140:p0080:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "MengQi_samefriend_not_ghost_personality",
+            "text_context": "孟觉与宁州活死似同源是推，非宁州本人现身或宗门起源已结证。",
+            "world_context": "140_残图江阮勉识古字孟齐不识_江有灯可断保底领试_四过桥体温心血停阳生眉心种子力气神智真气无损非真死亡_孟八九记细未自控生死_倩女梗内不队友听_左路右险多齐见脚印阮识真武画_齐发现阴芝江疑百年地泉或毒孟子午挑阮接未兑_江读得缘归此铭_地下灰手阴火孟备腾劈阮琴迫出齐冰短冻江阎罗受挡孟雷实蒸黑气_敌火爆逃只坑未死_孟觉宁州活死似同源未实名",
+            "stage_context": "140_lightning_harms_attacker_escapes_Meng_sourcehypothesis",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_question_moviejoke_or_source_hypothesis_not_public_fact",
+            "embodiment": "7_Goldbell6_bridge_body_falsedeath_clear_mind_strength_qi_intact_Bajiu_records_not_mastery",
+            "delivery": "alert_then_cold_timbre_keeps_humor_private_moviejoke_team_lead",
+            "information_and_time_boundary": "承139洞桥先碑后图都是书面3/5_孟齐不识上古江阮仅部分_过桥由心渐缓至25停仍神智气力无损不真死_26阳生种存在28八九记未悟全法_54芝实到阮未兑_57江念铭古人不现声_灰手皱老未名未境敌遁未灭_80似宁州同源孟推待验",
+            "vow_friendship_and_loot_boundary": "符已138耗139传本章无新符耗_青灯备且徐燃未主动攻_天伤实战雷未说紫雷劲/雷痕具体耗_子午54真挑芝交阮未售吃_新药139泛类本章未服/精扣_齐龙纹赤金剑江白虹阮栖凤自持_四假死仍活不复活死友_旧债与俸无新账_茂陵三友未抵城",
+            "manual_and_claim_boundary": "孟7金钟6江8近9齐7阮7无新破_生死转换环境体验非自掌法_Bajiu记细不学会复现_真武准备隐天机属推_当地活死敌近死免阎罗精神非全免雷伤_阮琴未命名曲佛号比拟非真实诵经人物_宁州相似不身份同一/已全证同源",
+            "knowledge_boundary": "孟觉与宁州活死似同源是推，非宁州本人现身或宗门起源已结证。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟觉与宁州活死似同源是推，非宁州本人现身或宗门起源已结证。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v03-0140",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V03-S20",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 11,
+        "label": "残图语言限制和有退路的尝试",
+        "direction": "六道注释残图仅两路尚完整；江阮勉认部分古字、孟齐不识。图碑过者死出者生均书面不是神声。孟真问后内疑怎样进，江愿试以灯和随断保底、齐静观暗桥，不无备逞勇。证据v03-c0140:p0001–p0011。"
+      },
+      {
+        "paragraph_start": 12,
+        "paragraph_end": 32,
+        "label": "桥上渐变：声阴性情仍在",
+        "direction": "四人孟江并肩阮半步齐后默契，无口号。桥只吱呀无塌鬼，心温渐减至过岸心血停但气力神智不损，阳生眉心芥种律动，非真死/队灭。声音阴凉仍各自性情，孟八九记细未悟全法；真武备与瞒天机属推，倩女梗孟私内不队友听。证据v03-c0140:p0012–p0032。"
+      },
+      {
+        "paragraph_start": 33,
+        "paragraph_end": 48,
+        "label": "左路、脚印与壁画",
+        "direction": "选左因右险多，齐找门边多脚印不知谁，孟警变数。阮识真武中年帝袍剑或水合麻鞋画、与现神像不同；画镇九幽只线索不真武现场说话。古字仍依江阮，不孟自动精通。证据v03-c0140:p0033–p0048。"
+      },
+      {
+        "paragraph_start": 49,
+        "paragraph_end": 58,
+        "label": "阴芝取得与江现场读铭",
+        "direction": "棺盖侧似尸已出非目击开盖者。齐首见灰白阴芝江疑地泉百年或毒，孟拟换功子午挑阮接，未吃未已兑。江读得此缘归此处六字是此刻朗读，古作者不现声；寒意疑诅咒预言尚未定。证据v03-c0140:p0049–p0058。"
+      },
+      {
+        "paragraph_start": 59,
+        "paragraph_end": 69,
+        "label": "四人协战和短暂控制",
+        "direction": "灰手印阴火无声封退，孟先前经验戒备跃劈；阮琴似钟经声清阴逼闷哼出土，未给曲名不虚构佛念；齐冰剑冻脚旋即火融造窗口，江白虹阎罗帖刺眉却被近死免精神随机出招挡，不永久冰封或秒杀。证据v03-c0140:p0059–p0069。"
+      },
+      {
+        "paragraph_start": 70,
+        "paragraph_end": 80,
+        "label": "雷伤有效、敌逃与相似推断",
+        "direction": "剑刀挡后电蛇蒸黑气惨叫实伤，不全雷免疫；阴火爆江退防孟借力空避、齐阮远未受波及。火熄仅坑敌消未杀未获，孟内反思惧雷不惧招并觉同宁州活死似同源，不敌实名宁州/同源全证。证据v03-c0140:p0070–p0080。"
+      }
+    ],
+    "knowledge_rule": "假死声阴神智性情力不损不真死；八九记细非掌法，古字识限江读铭；芝阮持未兑，敌雷伤逃未灭宁州同源只是推。"
+  }
 }
