@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [姚私认狂刀与地方青印知情分层](early-v03-Yao-SuMeng-private-greenribbon-local-report.md) | 第三卷第123章历史归属回补 |
+| [东阳草庐传闻与船只视线核证](early-v03-Dongyang-cottage-ship-visual-reconstruction.md) | 第三卷第123章历史归属回补 |
+| [活死人尚未真死，残忆成功不越宿世限制](early-v03-Ningzhou-livingdead-not-true-death-memory.md) | 第三卷第123章历史归属回补 |
 | [宁州与变天确认但有反冲，天尸青年身份及棍印粉碎](early-v03-Ningzhou-confirmed-Biantian-backlash-Tianshi-powder.md) | 第三卷第122章历史归属回补 |
 | [萧月旧情与乾元定神珠，实取后遭蚀吸非自愿团聚](early-v03-Xiao-oldlove-Qianyuan-pearl-retrieval-absorption.md) | 第三卷第122章历史归属回补 |
 | [老钟半外真扮吊尸，保护李充与逻辑失误](early-v03-LaoZhong-halfOuter-selfcorpse-ambush-saveLi.md) | 第三卷第122章历史归属回补 |
