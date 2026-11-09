@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [天外飞仙仍未入门，天之伤伪装后左刀右子午实配](early-v03-Tianwai-notentry-Tianzhi-disguise-Ziwu-leftblade.md) | 第三卷第120章历史归属回补 |
+| [怪功真克制侦借与毒迟滞，不死气散到再生实应对](early-v03-driver-hiddenqi-poison-Busiyin-empty-reborn.md) | 第三卷第120章历史归属回补 |
+| [三种重估与中年提领救人，捕风猜与杀令不能提前坐实](early-v03-three-observers-revalue-grayman-rescue-killorder.md) | 第三卷第120章历史归属回补 |
 | [赶尸青年与两随侍，未九与可能开关都不补姓名](early-v03-unnamed-corpsedriver-threefigures-life-status-open.md) | 第三卷第119章历史归属回补 |
 | [萧月护姚说辞与寄物取物，动机不能直接当真相](early-v03-Xiao-protectYao-claim-Zhong-storedobject-unverified.md) | 第三卷第119章历史归属回补 |
 | [公门保尸规则与精确逼回原座，无杀伤缴械](early-v03-publicsite-rule-Meng-sword-Xiao-original-fireseat.md) | 第三卷第119章历史归属回补 |
