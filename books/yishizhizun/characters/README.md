@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [英雄楼亮相：排队与真赞、门首四窍](early-v03-HeroTower-publicarrival-queue-door4.md) | 第三卷第125章历史归属回补 |
+| [二层六窍剑客与凝劲，无断臂](early-v03-HeroTower-secondfloor6-condensed-force.md) | 第三卷第125章历史归属回补 |
+| [流水枪高东楼七窍：认真设局仍被择时通过](early-v03-GaoDonglou-seven-timing-stepthrough.md) | 第三卷第125章历史归属回补 |
 | [江东又一月、书面邸报与公开狂刀](early-v03-Jiangdong-month-bulletin-publicKuangdao.md) | 第三卷第124章历史归属回补 |
 | [病棋白衣与反向识苏孟，实名仍猜](early-v03-chess-whiteyouth-guessWang-counterobserve.md) | 第三卷第124章历史归属回补 |
 | [茂陵多地邀条：四个暂名青年只向读者展示](early-v03-Maoling-invites-four-unnamed-readeronly.md) | 第三卷第124章历史归属回补 |
