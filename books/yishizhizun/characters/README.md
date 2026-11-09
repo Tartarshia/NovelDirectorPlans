@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [层次推理与文曲嫌疑：老人并不裁定真相](early-v03-thinking-levels-Wenqu-hypothesis-not-verdict.md) | 第三卷第137章历史归属回补 |
+| [公开附和与私下保留：河丘邀约中的孟蒋](early-v03-Jiang-frame-agreement-private-Wenqu-token.md) | 第三卷第137章历史归属回补 |
+| [河丘实潜伏与地下两人：旧案疑点重联](early-v03-riverside-stakeout-two-underground-figures.md) | 第三卷第137章历史归属回补 |
 | [近期记忆锚的边界与蒋踏波买雕新证](early-v03-recent-memory-object-anchor-JiangTabo-buying.md) | 第三卷第136章历史归属回补 |
 | [代飞陈亚松联合赴楚家：文曲临死声非神现](early-v03-DaiFei-ChenYasong-ChuGuan-deaths-Wenqu.md) | 第三卷第136章历史归属回补 |
 | [槐旁老者再抚烦躁、每年观潮为亡妻](early-v03-carver-annual-tide-deceased-wife-not-Li.md) | 第三卷第136章历史归属回补 |
