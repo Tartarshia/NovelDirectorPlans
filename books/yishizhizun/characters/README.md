@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [幽暗重聚不在广场、三月俸药备新证](early-v03-TrueWu-dark-reunion-not-square-salary-meds.md) | 第三卷第139章历史归属回补 |
+| [三种主动助友与齐口窍后证：尚未来茂陵](early-v03-friends-three-support-plans-Qi7-monthago.md) | 第三卷第139章历史归属回补 |
+| [九乡师徒所闻、皇甫涛提名和干红河入口](early-v03-Jiuxiang-unnamed-daoists-Huangfu-hearsay-drybridge.md) | 第三卷第139章历史归属回补 |
 | [黑白核心双子与无紫雷劲的天伤破围](early-v03-core-blackwhite-Tianzhi-noZilei-lifeDeathTaiji.md) | 第三卷第138章历史归属回补 |
 | [邱风墙补轻棍、蒋全力与双人借力逃水](early-v03-Qiu-Jiang-fullforce-mutualforce-river-escape.md) | 第三卷第138章历史归属回补 |
 | [邱肉泥死讯待验、真武约到和轮回符实际消耗](early-v03-Qiu-flesh-death-pending-TrueWu-token-actualconsumption.md) | 第三卷第138章历史归属回补 |
