@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [墙上九憾与江的剑史、仍未知的第二憾字义来源](early-v03-nine-regrets-wall-swordhistory-not-omniscient.md) | 第三卷第143章历史归属回补 |
+| [齐阮江依次被遗忘、今生自醒与两段江记忆](early-v03-fog-forgets-Qi-Ruan-Jiang-currentlife-recovery.md) | 第三卷第143章历史归属回补 |
+| [克制雷矛的险挡、精神耗大半和青灯实际取用](early-v03-restrained-spear-parry-spirit-half-lamp-normal-size.md) | 第三卷第143章历史归属回补 |
 | [发在意先的剑法所得：宝兵无我挡超音矛](early-v03-Jiang-preintent-JianchuWuwo-supersonic-parry.md) | 第三卷第142章历史归属回补 |
 | [未腐雷矛活死人自退：灯仅拟祭、动机未知](early-v03-unrotted-thunderspear-undead-retreat-lamp-unused.md) | 第三卷第142章历史归属回补 |
 | [我们同意的：共同担责、太阴实拓与镇龙台](early-v03-shared-responsibility-Taiyin-rubbing-Zhenlongtai.md) | 第三卷第142章历史归属回补 |
