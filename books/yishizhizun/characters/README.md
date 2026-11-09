@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [青印洗嫌与轮回符保命：王只知有手段不知确物](early-v03-greenribbon-clearing-vs-token-unknown-toWang.md) | 第三卷第132章历史归属回补 |
+| [玄关无悔：先定己道、强者压九窍的理由](early-v03-Xuanguan-no-regret-path-before-crossing.md) | 第三卷第132章历史归属回补 |
+| [王布局竞赛与超出掌控的狂热](early-v03-Wang-challenged-layout-uses-variable-wants-losscontrol.md) | 第三卷第132章历史归属回补 |
 | [越子倾首次明名：精准礼仪与流光韶华茶](early-v03-YueZiqing-LiuguangShaohua-partialhealing.md) | 第三卷第131章历史归属回补 |
 | [两盏青灯与真实不虚：渊源口述、哲学立场](early-v03-two-Buddhalamps-ancestorclaims-realism-teaching.md) | 第三卷第131章历史归属回补 |
 | [王思远现场实名、打法惯式与目的未明](early-v03-WangSiyuan-confirmed-faststyle-trap-review.md) | 第三卷第131章历史归属回补 |
