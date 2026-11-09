@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [越子倾首次明名：精准礼仪与流光韶华茶](early-v03-YueZiqing-LiuguangShaohua-partialhealing.md) | 第三卷第131章历史归属回补 |
+| [两盏青灯与真实不虚：渊源口述、哲学立场](early-v03-two-Buddhalamps-ancestorclaims-realism-teaching.md) | 第三卷第131章历史归属回补 |
+| [王思远现场实名、打法惯式与目的未明](early-v03-WangSiyuan-confirmed-faststyle-trap-review.md) | 第三卷第131章历史归属回补 |
 | [舍身催宝刀狂雷：真实天象、近外景威与控制不足](early-v03-SheShen-Tianzhi-Kuanglei-nearOuter-limitedcontrol.md) | 第三卷第130章历史归属回补 |
 | [归一指：圆满潜力与当下仍有战力分开](early-v03-Jiang-Guiyi-finger-potential-lightwound.md) | 第三卷第130章历史归属回补 |
 | [借掌逃河、舍身后弱态与未知师姐邀请](early-v03-river-escape-armor-damage-unknown-green-girl.md) | 第三卷第130章历史归属回补 |
