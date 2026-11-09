@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [宁州与变天确认但有反冲，天尸青年身份及棍印粉碎](early-v03-Ningzhou-confirmed-Biantian-backlash-Tianshi-powder.md) | 第三卷第122章历史归属回补 |
+| [萧月旧情与乾元定神珠，实取后遭蚀吸非自愿团聚](early-v03-Xiao-oldlove-Qianyuan-pearl-retrieval-absorption.md) | 第三卷第122章历史归属回补 |
+| [老钟半外真扮吊尸，保护李充与逻辑失误](early-v03-LaoZhong-halfOuter-selfcorpse-ambush-saveLi.md) | 第三卷第122章历史归属回补 |
 | [灰中年实为外景，九岳拳与宁州候选尚未自报](early-v03-gray-trueOuter-Jiuyue-Ningzhou-candidate-selfmemory.md) | 第三卷第121章历史归属回补 |
 | [暗捏轮回符未耗，灯未用与姚的未完成援击](early-v03-unbroken-token-unusedlamp-memoryrisk-Yao-rescue.md) | 第三卷第121章历史归属回补 |
 | [赶尸青年死于灰中年反拳，孟不是正面斩杀外景](early-v03-driver-killed-gray-reversal-not-Meng-Outer-kill.md) | 第三卷第121章历史归属回补 |
