@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [棺木木雕威胁与邻居口述：来者仍未知](early-v03-coffin-threat-neighbor-LaoYe-delivery-report.md) | 第三卷第128章历史归属回补 |
+| [棺铺三尸与湿残账：证物实、藏纸过程推](early-v03-three-coffinshop-dead-wetledger-not-history.md) | 第三卷第128章历史归属回补 |
+| [蒋踏波形貌尸与疑嫁祸、农夫拦路未名](early-v03-JiangTabo-body-frame-suspicion-farmclad-block.md) | 第三卷第128章历史归属回补 |
 | [清余确认、岁月自炼与天之痕公开化名](early-v03-Qingyu-confirmed-Suiyue-Tianzhihen-alias.md) | 第三卷第127章历史归属回补 |
 | [世外奇翁任平生：楼主认出与实力未详](early-v03-RenPingsheng-owner-suspectedOuter-withholds.md) | 第三卷第127章历史归属回补 |
 | [主动求磨砺、易容赌场与匿名匕袭失踪](early-v03-proactive-disguised-casino-assassin-Qiu-lost.md) | 第三卷第127章历史归属回补 |
