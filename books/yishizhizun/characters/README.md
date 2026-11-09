@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [灰中年实为外景，九岳拳与宁州候选尚未自报](early-v03-gray-trueOuter-Jiuyue-Ningzhou-candidate-selfmemory.md) | 第三卷第121章历史归属回补 |
+| [暗捏轮回符未耗，灯未用与姚的未完成援击](early-v03-unbroken-token-unusedlamp-memoryrisk-Yao-rescue.md) | 第三卷第121章历史归属回补 |
+| [赶尸青年死于灰中年反拳，孟不是正面斩杀外景](early-v03-driver-killed-gray-reversal-not-Meng-Outer-kill.md) | 第三卷第121章历史归属回补 |
 | [天外飞仙仍未入门，天之伤伪装后左刀右子午实配](early-v03-Tianwai-notentry-Tianzhi-disguise-Ziwu-leftblade.md) | 第三卷第120章历史归属回补 |
 | [怪功真克制侦借与毒迟滞，不死气散到再生实应对](early-v03-driver-hiddenqi-poison-Busiyin-empty-reborn.md) | 第三卷第120章历史归属回补 |
 | [三种重估与中年提领救人，捕风猜与杀令不能提前坐实](early-v03-three-observers-revalue-grayman-rescue-killorder.md) | 第三卷第120章历史归属回补 |
