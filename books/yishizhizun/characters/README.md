@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [皇甫涛身份青玉：本章拾取收孟、未至聚神庄](early-v03-HuangfuTao-Qingjade-Jushenzhuang-custody-notXuanwu.md) | 第三卷第145章历史归属回补 |
+| [四人不足三成、青灯缩焰与凤鸣九天后证](early-v03-under30percent-lamp-shrinks-Fengming-confirmed.md) | 第三卷第145章历史归属回补 |
+| [雷神仅气息残影、空棺证据与寻找玄武佩](early-v03-Thunder-aura-empty-coffin-second-Xuanwu-step.md) | 第三卷第145章历史归属回补 |
 | [喂招破刀道桎梏：真实掌握快虚两变、并非全五雷](early-v03-feedmoves-fast-void-two-actual-changes-notfullFive.md) | 第三卷第144章历史归属回补 |
 | [江退孟扶、阮精血琴、齐冰封：半息后全激灯](early-v03-halfbreath-Jiang-Ruan-blood-Qi-ice-full-lamp.md) | 第三卷第144章历史归属回补 |
 | [九重镇局、十三四活死与矛者掷未名物](early-v03-ninefold-13or14-undead-HuangGang-drop-unidentified.md) | 第三卷第144章历史归属回补 |
