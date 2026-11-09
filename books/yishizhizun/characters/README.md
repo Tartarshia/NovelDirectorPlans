@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [老钟的地方怪闻与组织合查，境界尚未测定](early-v03-LaoZhong-localrumors-organized-investigation-plan.md) | 第三卷第116章历史归属回补 |
+| [邱钟不同伙的工作假说，蔡祥长程矛盾仍未解](early-v03-Qiu-Zhong-notjoint-hypothesis-Cai-journey-open.md) | 第三卷第116章历史归属回补 |
+| [姚星流认明与圆脸猜阳和，六或七不能写精确境](early-v03-YaoXingliu-recognized-roundface-guessYanghe.md) | 第三卷第116章历史归属回补 |
 | [变天一月入门实际首试，今生痛忆不是宿世全读](early-v03-Biantian-one-month-entry-trauma-replay-halfsoulcost.md) | 第三卷第115章历史归属回补 |
 | [阎晓的痛史与现实崩溃，回忆旁观影不是真实旧孟](early-v03-YanXiao-memory-trauma-not-objectivehistory.md) | 第三卷第115章历史归属回补 |
 | [水手已杀的新口供与老钟头邱船，两线尚待独核](early-v03-waterman-murder-confession-LaoZhong-Qiuboat.md) | 第三卷第115章历史归属回补 |
