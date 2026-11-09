@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [赶尸青年与两随侍，未九与可能开关都不补姓名](early-v03-unnamed-corpsedriver-threefigures-life-status-open.md) | 第三卷第119章历史归属回补 |
+| [萧月护姚说辞与寄物取物，动机不能直接当真相](early-v03-Xiao-protectYao-claim-Zhong-storedobject-unverified.md) | 第三卷第119章历史归属回补 |
+| [公门保尸规则与精确逼回原座，无杀伤缴械](early-v03-publicsite-rule-Meng-sword-Xiao-original-fireseat.md) | 第三卷第119章历史归属回补 |
 | [老钟修为猜测被旧尸限定，天魔来源与组织仍未知](early-v03-Tianmo-oldcorpse-revised-hypotheses-not-rankproof.md) | 第三卷第118章历史归属回补 |
 | [老钟教阎的痛忆后证，变天仍不能窥完整功法](early-v03-Zhong-taughtYan-memory-sensing-manual-unavailable.md) | 第三卷第118章历史归属回补 |
 | [夜守姚假鸦认旧人，情绪克制与不约关门](early-v03-nightguard-Yao-crow-recognition-undead-door.md) | 第三卷第118章历史归属回补 |
