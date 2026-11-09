@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [喂招破刀道桎梏：真实掌握快虚两变、并非全五雷](early-v03-feedmoves-fast-void-two-actual-changes-notfullFive.md) | 第三卷第144章历史归属回补 |
+| [江退孟扶、阮精血琴、齐冰封：半息后全激灯](early-v03-halfbreath-Jiang-Ruan-blood-Qi-ice-full-lamp.md) | 第三卷第144章历史归属回补 |
+| [九重镇局、十三四活死与矛者掷未名物](early-v03-ninefold-13or14-undead-HuangGang-drop-unidentified.md) | 第三卷第144章历史归属回补 |
 | [墙上九憾与江的剑史、仍未知的第二憾字义来源](early-v03-nine-regrets-wall-swordhistory-not-omniscient.md) | 第三卷第143章历史归属回补 |
 | [齐阮江依次被遗忘、今生自醒与两段江记忆](early-v03-fog-forgets-Qi-Ruan-Jiang-currentlife-recovery.md) | 第三卷第143章历史归属回补 |
 | [克制雷矛的险挡、精神耗大半和青灯实际取用](early-v03-restrained-spear-parry-spirit-half-lamp-normal-size.md) | 第三卷第143章历史归属回补 |
