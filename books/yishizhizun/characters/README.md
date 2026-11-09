@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [秘法不能自唤宿世、同伴托底仍真实反噬](early-v03-method-no-selfpastlife-friendcover-real-backlash.md) | 第三卷第141章历史归属回补 |
+| [黄岗玉、日真解残字和百年刻警想象](early-v03-HuangGang-jade-fragment-warning-century-imagination.md) | 第三卷第141章历史归属回补 |
+| [太阴碑仅标题与月光活尸、往生琴滞](early-v03-Taiyin-title-notlearned-mooncorpse-Wangsheng-qin.md) | 第三卷第141章历史归属回补 |
 | [生死桥假死体验：心血停而神智气力完整](early-v03-bridge-falsedeath-intact-mind-Bajiu-record-notmaster.md) | 第三卷第140章历史归属回补 |
 | [残图识字局限、左路脚印与阴芝持有](early-v03-partial-ancient-literacy-left-route-herb-Ruan-holds.md) | 第三卷第140章历史归属回补 |
 | [琴迫出、冰短冻、阎罗受挡和雷伤后敌遁](early-v03-fourperson-chain-qin-ice-Yanluo-lightning-undead-escape.md) | 第三卷第140章历史归属回补 |
