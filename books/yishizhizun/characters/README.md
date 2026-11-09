@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [舍身催宝刀狂雷：真实天象、近外景威与控制不足](early-v03-SheShen-Tianzhi-Kuanglei-nearOuter-limitedcontrol.md) | 第三卷第130章历史归属回补 |
+| [归一指：圆满潜力与当下仍有战力分开](early-v03-Jiang-Guiyi-finger-potential-lightwound.md) | 第三卷第130章历史归属回补 |
+| [借掌逃河、舍身后弱态与未知师姐邀请](early-v03-river-escape-armor-damage-unknown-green-girl.md) | 第三卷第130章历史归属回补 |
 | [蒋横川榜十确认、三弟与口纸推理修订](early-v03-JiangHengchuan-rank10-brother-trap-revision.md) | 第三卷第129章历史归属回补 |
 | [榜十境压、孟九刀吐血与八九精控解局](early-v03-Jiang-realmpressure-ninecuts-Bajiu-mask.md) | 第三卷第129章历史归属回补 |
 | [断清净一刀两伤：逃局意图与暂态自然感](early-v03-Duanqingjing-Jiang-mutual-delay-not-newrealm.md) | 第三卷第129章历史归属回补 |
