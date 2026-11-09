@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [当面道歉与堂弟关系：验尸报告促有限合作](early-v03-Jiang-apology-cousin-bodyexam-limitedcooperation.md) | 第三卷第134章历史归属回补 |
+| [三份机缘与邱加速疑：口述/档案/推测分层](early-v03-three-chances-Qiu-acceleration-age-conflict.md) | 第三卷第134章历史归属回补 |
+| [三证转蒋分工与八九功法阶段的未来限制](early-v03-evidence-three-transferred-Jiang-Bajiu-manual7future.md) | 第三卷第134章历史归属回补 |
 | [身体全复与依己判断：止虚名明、和解未验](early-v03-fullrecovery-independenthide-Zhixu-name.md) | 第三卷第133章历史归属回补 |
 | [雕刻静观与两滴迟来泪：急功之因才真正抚平](early-v03-carving-grief-two-tears-drive-not-method.md) | 第三卷第133章历史归属回补 |
 | [笔铺秘密联络与东阳档三处候选](early-v03-stationery-password-Dongyang-threeplaces.md) | 第三卷第133章历史归属回补 |
