@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [变天一月入门实际首试，今生痛忆不是宿世全读](early-v03-Biantian-one-month-entry-trauma-replay-halfsoulcost.md) | 第三卷第115章历史归属回补 |
+| [阎晓的痛史与现实崩溃，回忆旁观影不是真实旧孟](early-v03-YanXiao-memory-trauma-not-objectivehistory.md) | 第三卷第115章历史归属回补 |
+| [水手已杀的新口供与老钟头邱船，两线尚待独核](early-v03-waterman-murder-confession-LaoZhong-Qiuboat.md) | 第三卷第115章历史归属回补 |
 | [李充的地方经验与好意误判，苏子远协理是公开面孔](early-v03-LiChong-Zheng-SuZiyuan-assistant-publiccover.md) | 第三卷第114章历史归属回补 |
 | [蔡祥行尸案的转述与路程矛盾，时间已近一月半](early-v03-CaiXiang-case-report-halfmonth-distance-not-solved.md) | 第三卷第114章历史归属回补 |
 | [刀疤阎晓的地方势力与床上威压，传闻不当现榜证明](early-v03-Daoba-YanXiao-rumor-guards-lowmutter-bed.md) | 第三卷第114章历史归属回补 |
