@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第四关九窍长臂老者：鞘刀借力退墙](early-v03-fourthguard9-sheath-Busiyin-Yinyang.md) | 第三卷第126章历史归属回补 |
+| [变天模拟天地相合：有精神压力但尚非交感](early-v03-Biantian-environment-simulation-not-union.md) | 第三卷第126章历史归属回补 |
+| [萧镇海快剑近音：孟真误判后改封起手](early-v03-XiaoZhenhai-nearsound-real-risk-sevenmoves.md) | 第三卷第126章历史归属回补 |
 | [英雄楼亮相：排队与真赞、门首四窍](early-v03-HeroTower-publicarrival-queue-door4.md) | 第三卷第125章历史归属回补 |
 | [二层六窍剑客与凝劲，无断臂](early-v03-HeroTower-secondfloor6-condensed-force.md) | 第三卷第125章历史归属回补 |
 | [流水枪高东楼七窍：认真设局仍被择时通过](early-v03-GaoDonglou-seven-timing-stepthrough.md) | 第三卷第125章历史归属回补 |
