@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [及时回归拔除未察附体：孟无伤、假死解除](early-v03-return-cleanses-hidden-aura-falsedeath-undone.md) | 第三卷第146章历史归属回补 |
+| [第146章结算：各550、孟950江900与修炼伙食预算](early-v03-146-550share-950900-training-food-budget.md) | 第三卷第146章历史归属回补 |
+| [八九变化寻真的指导与天外飞仙真正练成](early-v03-Jiang-Bajiu-truth-teaching-Tianwai-actual-success.md) | 第三卷第146章历史归属回补 |
 | [皇甫涛身份青玉：本章拾取收孟、未至聚神庄](early-v03-HuangfuTao-Qingjade-Jushenzhuang-custody-notXuanwu.md) | 第三卷第145章历史归属回补 |
 | [四人不足三成、青灯缩焰与凤鸣九天后证](early-v03-under30percent-lamp-shrinks-Fengming-confirmed.md) | 第三卷第145章历史归属回补 |
 | [雷神仅气息残影、空棺证据与寻找玄武佩](early-v03-Thunder-aura-empty-coffin-second-Xuanwu-step.md) | 第三卷第145章历史归属回补 |
