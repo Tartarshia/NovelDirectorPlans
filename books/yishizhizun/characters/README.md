@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [近期记忆锚的边界与蒋踏波买雕新证](early-v03-recent-memory-object-anchor-JiangTabo-buying.md) | 第三卷第136章历史归属回补 |
+| [代飞陈亚松联合赴楚家：文曲临死声非神现](early-v03-DaiFei-ChenYasong-ChuGuan-deaths-Wenqu.md) | 第三卷第136章历史归属回补 |
+| [槐旁老者再抚烦躁、每年观潮为亡妻](early-v03-carver-annual-tide-deceased-wife-not-Li.md) | 第三卷第136章历史归属回补 |
 | [清余匿名邀来切磋：傲气与事前调查并存](early-v03-Qingyu-invited-peerfight-prior-sect-inquiry.md) | 第三卷第135章历史归属回补 |
 | [青帝灭长生对阿难：破持刀人红心、只一式相交](early-v03-Qingdi-MieChangsheng-Anan-redheart-peerduel.md) | 第三卷第135章历史归属回补 |
 | [失传天庭功法报告与三证归孟的新墨痕](early-v03-sect-arttraces-evidence-return-inkedge.md) | 第三卷第135章历史归属回补 |
