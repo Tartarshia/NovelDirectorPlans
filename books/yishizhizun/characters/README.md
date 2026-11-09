@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [清余匿名邀来切磋：傲气与事前调查并存](early-v03-Qingyu-invited-peerfight-prior-sect-inquiry.md) | 第三卷第135章历史归属回补 |
+| [青帝灭长生对阿难：破持刀人红心、只一式相交](early-v03-Qingdi-MieChangsheng-Anan-redheart-peerduel.md) | 第三卷第135章历史归属回补 |
+| [失传天庭功法报告与三证归孟的新墨痕](early-v03-sect-arttraces-evidence-return-inkedge.md) | 第三卷第135章历史归属回补 |
 | [当面道歉与堂弟关系：验尸报告促有限合作](early-v03-Jiang-apology-cousin-bodyexam-limitedcooperation.md) | 第三卷第134章历史归属回补 |
 | [三份机缘与邱加速疑：口述/档案/推测分层](early-v03-three-chances-Qiu-acceleration-age-conflict.md) | 第三卷第134章历史归属回补 |
 | [三证转蒋分工与八九功法阶段的未来限制](early-v03-evidence-three-transferred-Jiang-Bajiu-manual7future.md) | 第三卷第134章历史归属回补 |
