@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [清余内惊与两种代价：孟无伤，自己轻伤底牌，无精血自残](early-v03-Qingyu-private-surprise-lightwound-Meng-uninjured-no-bloodselfharm.md) | 第三卷第151章历史归属回补 |
+| [计划成为报案：六人会、网络盲区和未证据点](early-v03-Sixdoors-actual-night-report-sixperson-conference-hideout-hypotheses.md) | 第三卷第151章历史归属回补 |
+| [王的卜算有范围：只到北街，病咳与不置可否](early-v03-Wang-actual-counting-sticks-northstreet-only-elder-not-arrived.md) | 第三卷第151章历史归属回补 |
 | [拾环与推理纠偏：证物到手不等身份破案](early-v03-Huode-rings-actually-gathered-Ren-suspicion-unproven.md) | 第三卷第150章历史归属回补 |
 | [只凭危感活命：无形夜袭与迟到的狼王身份](early-v03-unseen-neckhunt-falseqi-survival-late-Tiesheng-identification.md) | 第三卷第150章历史归属回补 |
 | [清余真伤与合围提案：平静骄傲不抹血，背景不入场](early-v03-Qingyu-claw-wound-joint-hunt-proposal-steppe-background.md) | 第三卷第150章历史归属回补 |
