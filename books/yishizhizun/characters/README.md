@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [真发誓后的漏洞：抵院不再中途，高喊不是传音](early-v03-Snakeking-actual-oath-arrival-scope-loudwarning-escape.md) | 第三卷第156章历史归属回补 |
+| [外景实援、人皮死者与老钟痕迹：无尸线索的后证](early-v03-Yu-actual-Outer-support-skins-dead-group-LaoZhong-trace.md) | 第三卷第156章历史归属回补 |
+| [返韩宅见王：候客与身份实证不等布局全解](early-v03-Han-residence-prepared-maid-Wang-waiting-not-full-plot-reveal.md) | 第三卷第156章历史归属回补 |
 | [合作有留手：蒋横川不是轮回同伴式的信任](early-v03-Meng-JiangHengchuan-cooperation-mutual-reserve-not-trusted-friends.md) | 第三卷第155章历史归属回补 |
 | [合击迫软：天伤激发未用紫雷，蛇王真腹伤仍活](early-v03-Snakeking-joint-pressure-Tianzhi-no-Zileijin-abdominal-wound-alive.md) | 第三卷第155章历史归属回补 |
 | [假侄与未完成的誓言：答带路不等全部履约](early-v03-false-nephew-cover-Snakeking-agrees-guide-oath-only-requested.md) | 第三卷第155章历史归属回补 |
