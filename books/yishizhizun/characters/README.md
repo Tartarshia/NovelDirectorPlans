@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四个进度分开：整体七窍、八九六窍、金钟七关入门、八窍未开](early-v03-Meng-global7-Bajiu6-Goldbell7entry-eighthpoints-future-masking.md) | 第三卷第157章历史归属回补 |
+| [韩的琴与王的回应：素素同人、音神评价与未定关系](early-v03-Han-Susu-qin-Wang-response-layout-not-full-omniscience.md) | 第三卷第157章历史归属回补 |
+| [阮玉书实际公开抵城：世交开路与面纱未揭](early-v03-Ruan-actual-public-Maoling-arrival-Nangong-escort-faceveil-kept.md) | 第三卷第157章历史归属回补 |
 | [真发誓后的漏洞：抵院不再中途，高喊不是传音](early-v03-Snakeking-actual-oath-arrival-scope-loudwarning-escape.md) | 第三卷第156章历史归属回补 |
 | [外景实援、人皮死者与老钟痕迹：无尸线索的后证](early-v03-Yu-actual-Outer-support-skins-dead-group-LaoZhong-trace.md) | 第三卷第156章历史归属回补 |
 | [返韩宅见王：候客与身份实证不等布局全解](early-v03-Han-residence-prepared-maid-Wang-waiting-not-full-plot-reveal.md) | 第三卷第156章历史归属回补 |
