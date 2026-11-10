@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [金钟七关开始修炼：免毒有条件，知敌有上限](early-v03-Goldbell7-started-conditional-poison-safety-sense-limit.md) | 第三卷第154章历史归属回补 |
+| [左剑右刀与弹子午借升：实用技巧不御剑神通](early-v03-left-sword-rightblade-thrown-Ziwu-recoil-climb-brief-timing.md) | 第三卷第154章历史归属回补 |
+| [蛇王真老仍半外：多疑睡史、迟醒与只求脱身](early-v03-Snakeking-actual-aged-halfOuter-sleep-delay-escape-unfinished.md) | 第三卷第154章历史归属回补 |
 | [接头后感恩与调查掩护：两项反常未证藏狼](early-v03-Li-password-gratitude-two-anomalies-revenge-cover-investigation.md) | 第三卷第153章历史归属回补 |
 | [活口供词、潜入谎话与岳谷名字的关联分层](early-v03-survivor-report-rehearsed-Han-lie-YueGu-name-association.md) | 第三卷第153章历史归属回补 |
 | [两护分工死亡：暗器实中身、白衣无破与抖腕断骨](early-v03-two-guardians-dead-returned-poison-wristshake-robe-undamaged.md) | 第三卷第153章历史归属回补 |
