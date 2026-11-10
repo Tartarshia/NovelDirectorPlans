@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [拾环与推理纠偏：证物到手不等身份破案](early-v03-Huode-rings-actually-gathered-Ren-suspicion-unproven.md) | 第三卷第150章历史归属回补 |
+| [只凭危感活命：无形夜袭与迟到的狼王身份](early-v03-unseen-neckhunt-falseqi-survival-late-Tiesheng-identification.md) | 第三卷第150章历史归属回补 |
+| [清余真伤与合围提案：平静骄傲不抹血，背景不入场](early-v03-Qingyu-claw-wound-joint-hunt-proposal-steppe-background.md) | 第三卷第150章历史归属回补 |
 | [三份持有与核心特日：和旧无特时说法并列留疑](early-v03-threeparts-core-monthday-vs-prior-time-scope.md) | 第三卷第149章历史归属回补 |
 | [火德试探令与招揽回忆：读者、敌心和孟所知分层](early-v03-Huode-readeronly-probe-orders-candidate-recruitment.md) | 第三卷第149章历史归属回补 |
 | [气流伪装诱刀后辉煌剑致死、双环余地未拾](early-v03-Huode-maskedqi-blade-unnamed-sword-death-rings-ungathered.md) | 第三卷第149章历史归属回补 |
