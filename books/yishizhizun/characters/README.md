@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [别来无恙的疑问、普通旧剑与学而不照搬](early-v03-carver-greeting-ownpath-ordinarysword-tide-appointment.md) | 第三卷第147章历史归属回补 |
+| [初步调整内天地已成、自然交感不等正式合一](early-v03-initial-innerworld-nature-contact-Jiang-gap-newproof.md) | 第三卷第147章历史归属回补 |
+| [游少辉辱慢与快刀制颈：丁晓峰迟到、尚未杀人](early-v03-YouShaohui-insult-DingXiaofeng-fastblade-hostage.md) | 第三卷第147章历史归属回补 |
 | [及时回归拔除未察附体：孟无伤、假死解除](early-v03-return-cleanses-hidden-aura-falsedeath-undone.md) | 第三卷第146章历史归属回补 |
 | [第146章结算：各550、孟950江900与修炼伙食预算](early-v03-146-550share-950900-training-food-budget.md) | 第三卷第146章历史归属回补 |
 | [八九变化寻真的指导与天外飞仙真正练成](early-v03-Jiang-Bajiu-truth-teaching-Tianwai-actual-success.md) | 第三卷第146章历史归属回补 |
