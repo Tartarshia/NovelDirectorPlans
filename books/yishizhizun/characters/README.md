@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [接头后感恩与调查掩护：两项反常未证藏狼](early-v03-Li-password-gratitude-two-anomalies-revenge-cover-investigation.md) | 第三卷第153章历史归属回补 |
+| [活口供词、潜入谎话与岳谷名字的关联分层](early-v03-survivor-report-rehearsed-Han-lie-YueGu-name-association.md) | 第三卷第153章历史归属回补 |
+| [两护分工死亡：暗器实中身、白衣无破与抖腕断骨](early-v03-two-guardians-dead-returned-poison-wristshake-robe-undamaged.md) | 第三卷第153章历史归属回补 |
 | [潜入方案的条件：四外景封搜未做，信号后至少一援未到](early-v03-Northstreet-tunnels-conditional-fourOuter-atleastone-support-promise.md) | 第三卷第152章历史归属回补 |
 | [白衣排练与内在怜悯：角色冷峻不替换本性](early-v03-white-swordsman-mirror-rehearsal-farmer-role-child-empathy.md) | 第三卷第152章历史归属回补 |
 | [厉行空真伤、四死一活：仿六道冷声并行救人](early-v03-LiXingkong-waist-wound-five-betrayers-four-dead-one-stopped.md) | 第三卷第152章历史归属回补 |
