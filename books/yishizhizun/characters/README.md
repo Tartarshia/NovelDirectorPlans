@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [合作有留手：蒋横川不是轮回同伴式的信任](early-v03-Meng-JiangHengchuan-cooperation-mutual-reserve-not-trusted-friends.md) | 第三卷第155章历史归属回补 |
+| [合击迫软：天伤激发未用紫雷，蛇王真腹伤仍活](early-v03-Snakeking-joint-pressure-Tianzhi-no-Zileijin-abdominal-wound-alive.md) | 第三卷第155章历史归属回补 |
+| [假侄与未完成的誓言：答带路不等全部履约](early-v03-false-nephew-cover-Snakeking-agrees-guide-oath-only-requested.md) | 第三卷第155章历史归属回补 |
 | [金钟七关开始修炼：免毒有条件，知敌有上限](early-v03-Goldbell7-started-conditional-poison-safety-sense-limit.md) | 第三卷第154章历史归属回补 |
 | [左剑右刀与弹子午借升：实用技巧不御剑神通](early-v03-left-sword-rightblade-thrown-Ziwu-recoil-climb-brief-timing.md) | 第三卷第154章历史归属回补 |
 | [蛇王真老仍半外：多疑睡史、迟醒与只求脱身](early-v03-Snakeking-actual-aged-halfOuter-sleep-delay-escape-unfinished.md) | 第三卷第154章历史归属回补 |
