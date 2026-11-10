@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [三份持有与核心特日：和旧无特时说法并列留疑](early-v03-threeparts-core-monthday-vs-prior-time-scope.md) | 第三卷第149章历史归属回补 |
+| [火德试探令与招揽回忆：读者、敌心和孟所知分层](early-v03-Huode-readeronly-probe-orders-candidate-recruitment.md) | 第三卷第149章历史归属回补 |
+| [气流伪装诱刀后辉煌剑致死、双环余地未拾](early-v03-Huode-maskedqi-blade-unnamed-sword-death-rings-ungathered.md) | 第三卷第149章历史归属回补 |
 | [公开孤命威吓、私传拆演和内心变天备选](early-v03-public-threat-private-staging-inner-Biantian-alternative.md) | 第三卷第148章历史归属回补 |
 | [游少辉的过火表演后证：王请求仍是转述](early-v03-You-overacted-Wang-request-reported-not-alltruth.md) | 第三卷第148章历史归属回补 |
 | [孙科免费三日情报、八臂天龙云岭三鹰持份线](early-v03-SunKe-free-threeday-report-otherchance-holders.md) | 第三卷第148章历史归属回补 |
