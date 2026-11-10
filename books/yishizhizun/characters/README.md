@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [公开孤命威吓、私传拆演和内心变天备选](early-v03-public-threat-private-staging-inner-Biantian-alternative.md) | 第三卷第148章历史归属回补 |
+| [游少辉的过火表演后证：王请求仍是转述](early-v03-You-overacted-Wang-request-reported-not-alltruth.md) | 第三卷第148章历史归属回补 |
+| [孙科免费三日情报、八臂天龙云岭三鹰持份线](early-v03-SunKe-free-threeday-report-otherchance-holders.md) | 第三卷第148章历史归属回补 |
 | [别来无恙的疑问、普通旧剑与学而不照搬](early-v03-carver-greeting-ownpath-ordinarysword-tide-appointment.md) | 第三卷第147章历史归属回补 |
 | [初步调整内天地已成、自然交感不等正式合一](early-v03-initial-innerworld-nature-contact-Jiang-gap-newproof.md) | 第三卷第147章历史归属回补 |
 | [游少辉辱慢与快刀制颈：丁晓峰迟到、尚未杀人](early-v03-YouShaohui-insult-DingXiaofeng-fastblade-hostage.md) | 第三卷第147章历史归属回补 |
