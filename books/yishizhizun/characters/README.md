@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [潜入方案的条件：四外景封搜未做，信号后至少一援未到](early-v03-Northstreet-tunnels-conditional-fourOuter-atleastone-support-promise.md) | 第三卷第152章历史归属回补 |
+| [白衣排练与内在怜悯：角色冷峻不替换本性](early-v03-white-swordsman-mirror-rehearsal-farmer-role-child-empathy.md) | 第三卷第152章历史归属回补 |
+| [厉行空真伤、四死一活：仿六道冷声并行救人](early-v03-LiXingkong-waist-wound-five-betrayers-four-dead-one-stopped.md) | 第三卷第152章历史归属回补 |
 | [清余内惊与两种代价：孟无伤，自己轻伤底牌，无精血自残](early-v03-Qingyu-private-surprise-lightwound-Meng-uninjured-no-bloodselfharm.md) | 第三卷第151章历史归属回补 |
 | [计划成为报案：六人会、网络盲区和未证据点](early-v03-Sixdoors-actual-night-report-sixperson-conference-hideout-hypotheses.md) | 第三卷第151章历史归属回补 |
 | [王的卜算有范围：只到北街，病咳与不置可否](early-v03-Wang-actual-counting-sticks-northstreet-only-elder-not-arrived.md) | 第三卷第151章历史归属回补 |
