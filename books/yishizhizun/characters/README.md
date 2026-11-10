@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [王不迟与宫少泽：占术相近不等境界相同](early-v03-WangBuchi-realOuter-partial-divination-GongShaoze-nearcontact.md) | 第三卷第158章历史归属回补 |
+| [任的见证仍待核，漏听者萧只是新嫌疑](early-v03-Ren-reported-WangBuchi-alibi-Xiao-missing-listener-unproven.md) | 第三卷第158章历史归属回补 |
+| [隔院琴声报平安：明寺暗宅预案与同伴默契](early-v03-Ruan-secret-neighbor-qin-allclear-code-public-temple-private-house.md) | 第三卷第158章历史归属回补 |
 | [四个进度分开：整体七窍、八九六窍、金钟七关入门、八窍未开](early-v03-Meng-global7-Bajiu6-Goldbell7entry-eighthpoints-future-masking.md) | 第三卷第157章历史归属回补 |
 | [韩的琴与王的回应：素素同人、音神评价与未定关系](early-v03-Han-Susu-qin-Wang-response-layout-not-full-omniscience.md) | 第三卷第157章历史归属回补 |
 | [阮玉书实际公开抵城：世交开路与面纱未揭](early-v03-Ruan-actual-public-Maoling-arrival-Nangong-escort-faceveil-kept.md) | 第三卷第157章历史归属回补 |
