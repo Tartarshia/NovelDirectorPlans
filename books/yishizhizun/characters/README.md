@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [钟太平实诊：排双魂、初步割裂判断与三月疗程](early-v03-Zhong-actual-exam-fictional-integration-three-month-plan.md) | 第三卷第179章历史归属回补 |
+| [孟以刀阐理：理解不等治愈，记针不等会针](early-v03-Meng-Yinyang-blade-analogy-needle-memory-not-mastery.md) | 第三卷第179章历史归属回补 |
+| [九散页与无名老和尚：多层转述的线索](early-v03-oldmonk-nine-loose-pages-conditional-temple-mole-inference.md) | 第三卷第179章历史归属回补 |
 | [冯斌与钟氏父子：来客身份、境界与传承心事](early-v03-FengBin-halfouter-bothseven-Zhong-father-son.md) | 第三卷第178章历史归属回补 |
 | [晶石说辞与修法真相，有条件的引荐网络](early-v03-Huntian-crystal-cover-directpractice-recommendation-conditional.md) | 第三卷第178章历史归属回补 |
 | [钟维试身手：无实伤的精神目光与尚未看诊](early-v03-ZhongWei-gaze-noninjury-test-no-apprenticeship-exam-offer.md) | 第三卷第178章历史归属回补 |
