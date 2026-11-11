@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮摇光姑婆婆、外景三重与临入府拿钟](early-v03-RuanYaoguang-gupopo-Outer3-capture-timing-not-kill.md) | 第三卷第163章历史归属回补 |
+| [考官紫薇与守拙牵制：强者短现不知胜负](early-v03-Ziwei-examiner-Shouzhuo-interception-no-fight-outcome.md) | 第三卷第163章历史归属回补 |
+| [清余隐藏宗后手：公开狼推理与私下旧知识](early-v03-Qingyu-sect-backstop-public-wolf-inference-private-council-knowledge.md) | 第三卷第163章历史归属回补 |
 | [招揽被婉拒与考核失败：自信仍非已逃](early-v03-Wenqu-recruitment-declined-assessment-failed-not-escape.md) | 第三卷第162章历史归属回补 |
 | [邱带二王与王的有限所知：官身份只在内心](early-v03-Qiu-brings-two-Wangs-limited-knowledge-official-identity-private.md) | 第三卷第162章历史归属回补 |
 | [白尸未被吸蚀与阮前辈现身：黄雀仍有盲点](early-v03-Ruan-elder-appears-white-corpse-unabsorbed-Wang-first-surprise.md) | 第三卷第162章历史归属回补 |
