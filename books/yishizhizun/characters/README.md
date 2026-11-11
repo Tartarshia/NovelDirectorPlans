@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黑蝴蝶案：先确认获救、废功活交与解药账](early-v03-Heihudie-captured-disabled-alive-rescue-first-antidote.md) | 第三卷第171章历史归属回补 |
+| [沙六小姐湖儿与父亲：脱险后哭泣及称呼边界](early-v03-Sha-sixthmiss-Huer-father-delayed-tears.md) | 第三卷第171章历史归属回补 |
+| [聚华派案：名望获邀与转述证据边界](early-v03-Juhua-case-reported-fame-outsider-arbitration.md) | 第三卷第171章历史归属回补 |
 | [捕风苏密报、轮回遮掩与未曝光身份](early-v03-Catchwind-Su-secret-report-Myth-name-not-submitted.md) | 第三卷第170章历史归属回补 |
 | [齐正言抵达、流苏旧仰望与八窍紫星河未来](early-v03-Qi-arrival-Liusu-selfdistance-future-eight-Zixinghe.md) | 第三卷第170章历史归属回补 |
 | [黑蝴蝶案、无名搜山者与沙六未决救援](early-v03-Heihudie-Sha-sixthmiss-searchparty-rescue-unresolved.md) | 第三卷第170章历史归属回补 |
