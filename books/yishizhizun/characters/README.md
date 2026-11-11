@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇七刀前六受制：未接飞仙与自演狂雷](early-v03-Meng-seven-moves-Tianwai-unconnected-third-thunder-not-activated.md) | 第三卷第166章历史归属回补 |
+| [旧话心记、双重藏真与第七刀未决](early-v03-Meng-recalled-purpose-principle-seventh-double-concealment.md) | 第三卷第166章历史归属回补 |
+| [王计招冷控、阮邱猜测与一次暴喝回声](early-v03-Wang-six-counts-observer-question-Meng-shout-echo.md) | 第三卷第166章历史归属回补 |
 | [江芷微借白虹法理与一剑逼回防](early-v03-Jiang-Baihong-borrowed-law-one-sword-conditional-win.md) | 第三卷第165章历史归属回补 |
 | [三思宝兵、条件判负与五十岁寿限](early-v03-Wang-Sansi-guard-loss-injury-uncertain-lifespan50.md) | 第三卷第165章历史归属回补 |
 | [青书阮持、东极丹方今古效果与未兑现收益](early-v03-Donghua-book-Ruan-custody-lifespan-formula-unspent.md) | 第三卷第165章历史归属回补 |

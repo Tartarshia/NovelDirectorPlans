@@ -61,7 +61,2328 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0100"
+  "reading_batch": "batch-0100",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v03-0166",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v03-0166.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v03-c0166:p0001",
+        "length": 38,
+        "sha256": "e9bb9b59324f07d19f4e2f999bcc0e9c51c72fc49cf3c297eeb8b5b055d2fa03",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0001:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王轻咳尽握自信三思垂N，引剑名非口喊武器。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王轻咳尽握自信三思垂N，引剑名非口喊武器。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王轻咳尽握自信三思垂N，引剑名非口喊武器。"
+      },
+      {
+        "reference": "v03-c0166:p0002",
+        "length": 4,
+        "sha256": "7ca0b7e3edd1b108866f45a038775ca2864525383b2a503e8ef516623cefb5f9",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0002:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "wang_siyuan",
+            "surface_identity": "WangSiyuan_Tianren_unity_aperture_not_Outer",
+            "text_context": "请王真正开场口非孟，孟165请已上一章。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Sansi_attack_replaces_guard_first_six_no_forced_defense_final_response_pending",
+            "delivery": "controlled_cold_counting_cough_red_excitation_fades_no_new_injury",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "请王真正开场口非孟，孟165请已上一章。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "请王真正开场口非孟，孟165请已上一章。"
+      },
+      {
+        "reference": "v03-c0166:p0003",
+        "length": 63,
+        "sha256": "22a6c40908c3a8fd8a6770c22d223b56c2599fc5773a7ff7436863e55c980590",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0003:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "天人状态稳非任一更高法身无论实力永不能撼动已客观绝对。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "天人状态稳非任一更高法身无论实力永不能撼动已客观绝对。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "天人状态稳非任一更高法身无论实力永不能撼动已客观绝对。"
+      },
+      {
+        "reference": "v03-c0166:p0004",
+        "length": 48,
+        "sha256": "d57000b2638bbea22017727282392e54c5a506c96ef824fe64a870fb4a52aec8",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0004:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟趁悍勇不等待蓄峰，路线与江不同非照抄江静蓄。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "孟趁悍勇不等待蓄峰，路线与江不同非照抄江静蓄。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟趁悍勇不等待蓄峰，路线与江不同非照抄江静蓄。"
+      },
+      {
+        "reference": "v03-c0166:p0005",
+        "length": 103,
+        "sha256": "e7ef8628149b1fce1843f093c4da864e86adda0fe0a21597bbb5018c584edf13",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0005:u001",
+            "start": 0,
+            "end": 103,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "催刀紫雷9也比不上江是可能能力与反事实，未本段真耗劲/又重发大招。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "催刀紫雷9也比不上江是可能能力与反事实，未本段真耗劲/又重发大招。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "催刀紫雷9也比不上江是可能能力与反事实，未本段真耗劲/又重发大招。"
+      },
+      {
+        "reference": "v03-c0166:p0006",
+        "length": 36,
+        "sha256": "7a002d8bb5d1f94ef7163d7214c405e47da7c592565df1ac18306f97443efb10",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0006:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实扬刀劈随势近距为第一，不现在第7已爆。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "孟实扬刀劈随势近距为第一，不现在第7已爆。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实扬刀劈随势近距为第一，不现在第7已爆。"
+      },
+      {
+        "reference": "v03-c0166:p0007",
+        "length": 35,
+        "sha256": "d2a343ae57f26c4640536f2e5f06328cb97add15201fc3d7ff74d4cefe8f8bab",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0007:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "刹那缩几丈为身刀速度，不新空间遁法具名。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "刹那缩几丈为身刀速度，不新空间遁法具名。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "刹那缩几丈为身刀速度，不新空间遁法具名。"
+      },
+      {
+        "reference": "v03-c0166:p0008",
+        "length": 39,
+        "sha256": "c8380ee85e8a0986835d32773d6097b5246b74c645e11f9a61e2a35e583609c9",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0008:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "腰背暗松配阴阳三合是真备变，非僵硬失控。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "腰背暗松配阴阳三合是真备变，非僵硬失控。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "腰背暗松配阴阳三合是真备变，非僵硬失控。"
+      },
+      {
+        "reference": "v03-c0166:p0009",
+        "length": 36,
+        "sha256": "240f3a7b02a2a6ec9b43f14eca8fdf1d0647f11a224a0ba86529b4a655301156",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0009:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阴阳刚柔可互变N，不真造混沌宇宙。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "阴阳刚柔可互变N，不真造混沌宇宙。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阴阳刚柔可互变N，不真造混沌宇宙。"
+      },
+      {
+        "reference": "v03-c0166:p0010",
+        "length": 70,
+        "sha256": "a4d4220f2b47da1e7d0c00aa9a69e96300f9ede0ee42bd80a1d15fa2791ccef8",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0010:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第一自己悟招试判断破绽，讲故事比布局不孟开始讲书对白。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第一自己悟招试判断破绽，讲故事比布局不孟开始讲书对白。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第一自己悟招试判断破绽，讲故事比布局不孟开始讲书对白。"
+      },
+      {
+        "reference": "v03-c0166:p0011",
+        "length": 33,
+        "sha256": "ea404f1d175256807c1dc527117eff9763e50fcacf6918bc21efdfbc083251fc",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0011:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_yaoguang",
+            "surface_identity": "RuanYaoguang_Yushu_gupopo_Outer3",
+            "text_context": "阮真实不错赞孟初贴法理，不她本人新升境/孟外景。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "observes_first_Meng_attack_not_newly_wounded",
+            "delivery": "actual_praise_then_observer_question_not_knowledge_of_hiddenpurpose",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "阮真实不错赞孟初贴法理，不她本人新升境/孟外景。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0011:u002",
+            "start": 5,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮真实不错赞孟初贴法理，不她本人新升境/孟外景。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "阮真实不错赞孟初贴法理，不她本人新升境/孟外景。",
+            "focalizer": "ruan_yaoguang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮真实不错赞孟初贴法理，不她本人新升境/孟外景。"
+      },
+      {
+        "reference": "v03-c0166:p0012",
+        "length": 74,
+        "sha256": "00b8d64ce760cc7ee9b39a1674e90ad409de9dff12d8b099b338bd03ffc6fcc0",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0012:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王点刀尖阴阳互破真，未被逼回胸防输。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王点刀尖阴阳互破真，未被逼回胸防输。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王点刀尖阴阳互破真，未被逼回胸防输。"
+      },
+      {
+        "reference": "v03-c0166:p0013",
+        "length": 11,
+        "sha256": "8e2eff8999939f2bdd0a741aa019e59d2397dbb4ba6b1e4996d12231748b1b42",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0013:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阴阳互破N总结不王边战报招。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "阴阳互破N总结不王边战报招。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阴阳互破N总结不王边战报招。"
+      },
+      {
+        "reference": "v03-c0166:p0014",
+        "length": 34,
+        "sha256": "c9bf5e0cf8cf095db6281adb495f70f8f7a397d808ba38f3e8002bf5f23614cc",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0014:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王看准打断后变，不代表他永远无误全知。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王看准打断后变，不代表他永远无误全知。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王看准打断后变，不代表他永远无误全知。"
+      },
+      {
+        "reference": "v03-c0166:p0015",
+        "length": 69,
+        "sha256": "bbbaeccd33661b80a114d6de5cfefb8a0a2ea48d5c8bea8939d9aa3844556e73",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0015:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王收剑等似自矜为表象，16激怒精神战非实际无任何用力。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王收剑等似自矜为表象，16激怒精神战非实际无任何用力。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王收剑等似自矜为表象，16激怒精神战非实际无任何用力。"
+      },
+      {
+        "reference": "v03-c0166:p0016",
+        "length": 12,
+        "sha256": "b8466f6fbc76b4c8e105dea6c0d160a0b1ea5ff32f098cd84c5ce782c022a17c",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0016:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "wang_siyuan",
+            "surface_identity": "WangSiyuan_Tianren_unity_aperture_not_Outer",
+            "text_context": "第一招真王口有意激怒，非旁白报幕/孟被激暴怒。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Sansi_attack_replaces_guard_first_six_no_forced_defense_final_response_pending",
+            "delivery": "controlled_cold_counting_cough_red_excitation_fades_no_new_injury",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第一招真王口有意激怒，非旁白报幕/孟被激暴怒。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0016:u002",
+            "start": 6,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第一招真王口有意激怒，非旁白报幕/孟被激暴怒。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_first_Yinyang_move_and_spiritual_counting",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第一招真王口有意激怒，非旁白报幕/孟被激暴怒。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第一招真王口有意激怒，非旁白报幕/孟被激暴怒。"
+      },
+      {
+        "reference": "v03-c0166:p0017",
+        "length": 68,
+        "sha256": "74e76317d10f6f07bb901931fda4b409e855954151d9b396ea40141fd1981fc5",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0017:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟知精神战心不动，断清净实际第二招，讲故事仍未成后连。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "孟知精神战心不动，断清净实际第二招，讲故事仍未成后连。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟知精神战心不动，断清净实际第二招，讲故事仍未成后连。"
+      },
+      {
+        "reference": "v03-c0166:p0018",
+        "length": 30,
+        "sha256": "d816dbf12ba4c200478cbd6a3334f647609124401d4fc61d8a26f79bf95714a7",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0018:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "蒋前斗经验帮助不再次和蒋真战/蒋此时返场。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "蒋前斗经验帮助不再次和蒋真战/蒋此时返场。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "蒋前斗经验帮助不再次和蒋真战/蒋此时返场。"
+      },
+      {
+        "reference": "v03-c0166:p0019",
+        "length": 68,
+        "sha256": "a8d24f3cd0d8edf17f309f1298a5655f2f3447dcb71a7c8d0c9f59ec893a5dca",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0019:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "断清净变化唤浮躁为刀效，不新增死友现实复生回忆演员齐讲话。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "断清净变化唤浮躁为刀效，不新增死友现实复生回忆演员齐讲话。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "断清净变化唤浮躁为刀效，不新增死友现实复生回忆演员齐讲话。"
+      },
+      {
+        "reference": "v03-c0166:p0020",
+        "length": 13,
+        "sha256": "7d8cfb13da0f7dc6ffc3cb142a54872697787882337b488a15cb1c0083bd989c",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0020:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "烟从心起为刀心效不现实孟心脏烧焦。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "烟从心起为刀心效不现实孟心脏烧焦。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "烟从心起为刀心效不现实孟心脏烧焦。"
+      },
+      {
+        "reference": "v03-c0166:p0021",
+        "length": 53,
+        "sha256": "d19f31f0c6ad93c80628dab05f8f64fe9cf4503fcde60d05664fc7f0eea90c88",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0021:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟心山川天势与俯视实际受天人影响，不登天真飞新法身。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "孟心山川天势与俯视实际受天人影响，不登天真飞新法身。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心山川天势与俯视实际受天人影响，不登天真飞新法身。"
+      },
+      {
+        "reference": "v03-c0166:p0022",
+        "length": 82,
+        "sha256": "e740c23b44256f7dc6f914970398c12e13ac5ea667badb5d2699e2f3a1daf221",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0022:u001",
+            "start": 0,
+            "end": 82,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟迅速复但王点左肋必救，非孟已经中剑/左肋穿。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "孟迅速复但王点左肋必救，非孟已经中剑/左肋穿。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟迅速复但王点左肋必救，非孟已经中剑/左肋穿。"
+      },
+      {
+        "reference": "v03-c0166:p0023",
+        "length": 29,
+        "sha256": "90af95599e6005ee93c1dc3650006eddab6cc1b1def9c6e8e9038e300fbad180",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0023:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "若刺宝兵金钟恐无效为条件风险，不已破金钟伤。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "若刺宝兵金钟恐无效为条件风险，不已破金钟伤。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "若刺宝兵金钟恐无效为条件风险，不已破金钟伤。"
+      },
+      {
+        "reference": "v03-c0166:p0024",
+        "length": 18,
+        "sha256": "4a9da00a27f55bdf54f5312ab3027db8de1d44fa4fe17f9b59c1550ff9c71e2b",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0024:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "未受或恢复快孟内疑，不能已证王精神免疫。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "未受或恢复快孟内疑，不能已证王精神免疫。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未受或恢复快孟内疑，不能已证王精神免疫。"
+      },
+      {
+        "reference": "v03-c0166:p0025",
+        "length": 28,
+        "sha256": "48762927bfbe2f5121cdd5ffb17d76e9f696cbe92180cdbfdefa4d4a958172ac",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0025:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "断清净境低被强解亦内疑，未王公开解释唯一机制。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "断清净境低被强解亦内疑，未王公开解释唯一机制。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "断清净境低被强解亦内疑，未王公开解释唯一机制。"
+      },
+      {
+        "reference": "v03-c0166:p0026",
+        "length": 32,
+        "sha256": "7479d16c0b12d0a0a6bccc9116d240c24db9cbe73af79cb87055180f4f8f1f92",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0026:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "天外飞仙接不上是未用，不因146已掌握就强补本次用了/刀剑连招成。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "天外飞仙接不上是未用，不因146已掌握就强补本次用了/刀剑连招成。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "天外飞仙接不上是未用，不因146已掌握就强补本次用了/刀剑连招成。"
+      },
+      {
+        "reference": "v03-c0166:p0027",
+        "length": 13,
+        "sha256": "47b5efcd654409df68c4958bf6bec870050ff905ab6f72b57729c73a0dae4fc5",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0027:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王收剑准备报数N，不已经防守输约。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王收剑准备报数N，不已经防守输约。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王收剑准备报数N，不已经防守输约。"
+      },
+      {
+        "reference": "v03-c0166:p0028",
+        "length": 6,
+        "sha256": "f336a9c9182b692ca286c7d93139b3666efc9ca89dc3f0b6a1f772200a3ae728",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0028:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "wang_siyuan",
+            "surface_identity": "WangSiyuan_Tianren_unity_aperture_not_Outer",
+            "text_context": "第二招王口非孟，清净被破后未飞仙。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_second_DuanQingjing_TianwaiFeixian_not_connected",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Sansi_attack_replaces_guard_first_six_no_forced_defense_final_response_pending",
+            "delivery": "controlled_cold_counting_cough_red_excitation_fades_no_new_injury",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第二招王口非孟，清净被破后未飞仙。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第二招王口非孟，清净被破后未飞仙。"
+      },
+      {
+        "reference": "v03-c0166:p0029",
+        "length": 36,
+        "sha256": "27b223676149d0a511f5f7f9b198e84f24efed75a22e9c3f45192f564942e0d6",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0029:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第3深吸气刀劲叠加真，雷鸣似不必原版紫雷催宝兵。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第3深吸气刀劲叠加真，雷鸣似不必原版紫雷催宝兵。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第3深吸气刀劲叠加真，雷鸣似不必原版紫雷催宝兵。"
+      },
+      {
+        "reference": "v03-c0166:p0030",
+        "length": 26,
+        "sha256": "c4e701dc51b88e946f36f8d8fedf5060fe5f8e543b70cab6a25a7fb2681110c2",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0030:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "吸生气气流刀感真，不周围所有生命死光。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "吸生气气流刀感真，不周围所有生命死光。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "吸生气气流刀感真，不周围所有生命死光。"
+      },
+      {
+        "reference": "v03-c0166:p0031",
+        "length": 59,
+        "sha256": "5c6a888a4deb9517b5f770919bed2498519cd22fffbde9f5496994dbf69cba63",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0031:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "明确第3自演狂雷而未催天之伤，为避见识识原版，不全书从此未用过原版。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "明确第3自演狂雷而未催天之伤，为避见识识原版，不全书从此未用过原版。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "明确第3自演狂雷而未催天之伤，为避见识识原版，不全书从此未用过原版。"
+      },
+      {
+        "reference": "v03-c0166:p0032",
+        "length": 26,
+        "sha256": "03fe9cc61ba498125ce86a9f8f191fa2d92dd8d383022a3d14ba11dd3dd5190e",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0032:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "似压碎虚空劈地是威势非此刻空间全毁。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "似压碎虚空劈地是威势非此刻空间全毁。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "似压碎虚空劈地是威势非此刻空间全毁。"
+      },
+      {
+        "reference": "v03-c0166:p0033",
+        "length": 68,
+        "sha256": "2e5816ed055f6871626fdfd8c279e7a3a955a70abefa34235c9148377d6e3384",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0033:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王攻腕穿隙是以攻代守，不已被迫回防。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王攻腕穿隙是以攻代守，不已被迫回防。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王攻腕穿隙是以攻代守，不已被迫回防。"
+      },
+      {
+        "reference": "v03-c0166:p0034",
+        "length": 22,
+        "sha256": "80a08556cd46bb33b119770dc169a155ebbef9fe175802467b51dec6b1f8d2c1",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0034:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟退收一步，非孟断腕实际伤。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "孟退收一步，非孟断腕实际伤。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟退收一步，非孟断腕实际伤。"
+      },
+      {
+        "reference": "v03-c0166:p0035",
+        "length": 33,
+        "sha256": "b735b609a39165e32518fa98c55a7fa1ca3891310ae80354c32743f28fd83bf4",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0035:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "wang_siyuan",
+            "surface_identity": "WangSiyuan_Tianren_unity_aperture_not_Outer",
+            "text_context": "王报第3真，红亢奋渐褪为情绪改变不突然病愈。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Sansi_attack_replaces_guard_first_six_no_forced_defense_final_response_pending",
+            "delivery": "controlled_cold_counting_cough_red_excitation_fades_no_new_injury",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王报第3真，红亢奋渐褪为情绪改变不突然病愈。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0035:u002",
+            "start": 6,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王报第3真，红亢奋渐褪为情绪改变不突然病愈。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王报第3真，红亢奋渐褪为情绪改变不突然病愈。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王报第3真，红亢奋渐褪为情绪改变不突然病愈。"
+      },
+      {
+        "reference": "v03-c0166:p0036",
+        "length": 74,
+        "sha256": "47a2d13b08b249ff06e819772a61ae17d6ce417fe086ee1e6c2caee8ccfd0733",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0036:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "三次断后续像指点/仿看透是观感，非全知真能读心。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "三次断后续像指点/仿看透是观感，非全知真能读心。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "三次断后续像指点/仿看透是观感，非全知真能读心。"
+      },
+      {
+        "reference": "v03-c0166:p0037",
+        "length": 28,
+        "sha256": "d349211f811a571af4693040d446bdc869be678d014e864b51ee12d405a048d9",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0037:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟不气馁引内念框N，无嘴发牢骚。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "孟不气馁引内念框N，无嘴发牢骚。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟不气馁引内念框N，无嘴发牢骚。"
+      },
+      {
+        "reference": "v03-c0166:p0038",
+        "length": 63,
+        "sha256": "a5a5ecfdea9eec7a1ca3014a38e360d4c751b52134b12603f6991dd58f1b9c93",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0038:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "八九隐藏运行孟内先否狼合作或提防猜，不证狼必已告全部功。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "八九隐藏运行孟内先否狼合作或提防猜，不证狼必已告全部功。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0038:u002",
+            "start": 16,
+            "end": 63,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "八九隐藏运行孟内先否狼合作或提防猜，不证狼必已告全部功。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "八九隐藏运行孟内先否狼合作或提防猜，不证狼必已告全部功。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "八九隐藏运行孟内先否狼合作或提防猜，不证狼必已告全部功。"
+      },
+      {
+        "reference": "v03-c0166:p0039",
+        "length": 18,
+        "sha256": "14305e0a7a8b983bed474eee24fd08849bff1aa1370c0d964b1bd34f404707a9",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0039:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "讲不下去内问非向王求指导公开战术。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "讲不下去内问非向王求指导公开战术。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "讲不下去内问非向王求指导公开战术。"
+      },
+      {
+        "reference": "v03-c0166:p0040",
+        "length": 24,
+        "sha256": "84021b2034737f542e7e3dc2bc1388c1e14072310a75b39a8a160e6b4e4c1733",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0040:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两句闪孟心为记忆框，不蒋复返此场真声。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "两句闪孟心为记忆框，不蒋复返此场真声。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两句闪孟心为记忆框，不蒋复返此场真声。"
+      },
+      {
+        "reference": "v03-c0166:p0041",
+        "length": 29,
+        "sha256": "9c0f602f9c2e94d102c82ba9a7d6d7629c0b4c583e006caef48e887ffd9e9794",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0041:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "inner_speech",
+            "speaker": "jiang_hengchuan",
+            "surface_identity": "JiangHengchuan_departed_recalled_pastvoice_not_returned",
+            "text_context": "蒋旧话166内记承16136源，原说者蒋但现在只孟心复现，不蒋在场新发言。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "recalled_past_speech_in_Meng_mind_original_speaker_not_current_voice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "only_Meng_memory_of_v03c161p0036",
+            "delivery": "recalled_purpose_principle_not_current_dialogue",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "蒋旧话166内记承16136源，原说者蒋但现在只孟心复现，不蒋在场新发言。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "蒋旧话166内记承16136源，原说者蒋但现在只孟心复现，不蒋在场新发言。"
+      },
+      {
+        "reference": "v03-c0166:p0042",
+        "length": 64,
+        "sha256": "c3563ec702030e23dbf455f85323749304a4010bf337018496adb13547b9bcae",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0042:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "inner_speech",
+            "speaker": "wang_siyuan",
+            "surface_identity": "WangSiyuan_Tianren_unity_aperture_not_Outer",
+            "text_context": "王旧话内记承16233，原说王但不新当前口，同孟用作悟刀。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "recalled_past_speech_in_Meng_mind_original_speaker_not_current_voice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Sansi_attack_replaces_guard_first_six_no_forced_defense_final_response_pending",
+            "delivery": "controlled_cold_counting_cough_red_excitation_fades_no_new_injury",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王旧话内记承16233，原说王但不新当前口，同孟用作悟刀。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王旧话内记承16233，原说王但不新当前口，同孟用作悟刀。"
+      },
+      {
+        "reference": "v03-c0166:p0043",
+        "length": 23,
+        "sha256": "f7bccf6ae3235cfa6940be72318dc0356a9971581122bc3d36a253a07051fb0a",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0043:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "剑弈故事布局原则孟内，不作者改小说为棋局真世界。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "剑弈故事布局原则孟内，不作者改小说为棋局真世界。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "剑弈故事布局原则孟内，不作者改小说为棋局真世界。"
+      },
+      {
+        "reference": "v03-c0166:p0044",
+        "length": 91,
+        "sha256": "f4bbbb8f1e20efbdc65de746de6a93b15a0225e28de6133938a98e96c2b259b4",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0044:u001",
+            "start": 0,
+            "end": 91,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "原目的逼防/赢明确易算孟自省，不新全真实最终目的已告诉王。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "原目的逼防/赢明确易算孟自省，不新全真实最终目的已告诉王。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原目的逼防/赢明确易算孟自省，不新全真实最终目的已告诉王。"
+      },
+      {
+        "reference": "v03-c0166:p0045",
+        "length": 13,
+        "sha256": "2579ee2327ba40faabe3bc2060291f854845ff4fcdac464bd0ce64f4b5104304",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0045:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "隐藏目的孟内转机，还没结果。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "隐藏目的孟内转机，还没结果。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "隐藏目的孟内转机，还没结果。"
+      },
+      {
+        "reference": "v03-c0166:p0046",
+        "length": 17,
+        "sha256": "3d9456f0111ce1fc87ed41dad2289ca06c025453a15b2eb8e8282f676c848e77",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0046:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "先瞒自己是孟内策略不是实际永久自我失忆。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_third_reinterpreted_thunder_private_purpose_reframing",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "先瞒自己是孟内策略不是实际永久自我失忆。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "先瞒自己是孟内策略不是实际永久自我失忆。"
+      },
+      {
+        "reference": "v03-c0166:p0047",
+        "length": 47,
+        "sha256": "406e9d917781c21149fe014cafd024328d832a562bdfcdae200e8e084f132eff",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0047:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第4电快实际出，没忽然重计第一。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第4电快实际出，没忽然重计第一。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第4电快实际出，没忽然重计第一。"
+      },
+      {
+        "reference": "v03-c0166:p0048",
+        "length": 34,
+        "sha256": "c0821bf5afd885c5209e71c10bc6a65c99675cb985709589640117593b030c2e",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0048:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "皇甫涛真武喂招旧来源，电快精义此前已成非皇甫此刻在场教。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "皇甫涛真武喂招旧来源，电快精义此前已成非皇甫此刻在场教。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "皇甫涛真武喂招旧来源，电快精义此前已成非皇甫此刻在场教。"
+      },
+      {
+        "reference": "v03-c0166:p0049",
+        "length": 95,
+        "sha256": "9a77f49f40a642eda5608b12fdaf07db4a5f3ecc7d820ff446d81f8746853126",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0049:u001",
+            "start": 0,
+            "end": 95,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王慢后先刺侧薄处孟实不死回气幻魔避，不受重伤/新消丹。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王慢后先刺侧薄处孟实不死回气幻魔避，不受重伤/新消丹。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王慢后先刺侧薄处孟实不死回气幻魔避，不受重伤/新消丹。"
+      },
+      {
+        "reference": "v03-c0166:p0050",
+        "length": 22,
+        "sha256": "7a10d5d40d272a4fac292fb076847ddfbe8cbd426bad489895a6c0c8cbcb239d",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0050:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "wang_siyuan",
+            "surface_identity": "WangSiyuan_Tianren_unity_aperture_not_Outer",
+            "text_context": "王冷静计第4咳真，非怒喊失控。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Sansi_attack_replaces_guard_first_six_no_forced_defense_final_response_pending",
+            "delivery": "controlled_cold_counting_cough_red_excitation_fades_no_new_injury",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王冷静计第4咳真，非怒喊失控。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0050:u002",
+            "start": 6,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王冷静计第4咳真，非怒喊失控。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王冷静计第4咳真，非怒喊失控。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王冷静计第4咳真，非怒喊失控。"
+      },
+      {
+        "reference": "v03-c0166:p0051",
+        "length": 54,
+        "sha256": "67f78e39e2761ad61066f14dd22862b97f3d4de56dbd34dfea1a7fd99b4fdf8a",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0051:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第5沉重真，不快不慢不是再电快相同刀。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第5沉重真，不快不慢不是再电快相同刀。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第5沉重真，不快不慢不是再电快相同刀。"
+      },
+      {
+        "reference": "v03-c0166:p0052",
+        "length": 50,
+        "sha256": "1bdec22af26c045f2451229fb9a480d40457df7ee965245b145aba6c26ba3872",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0052:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷重由皇甫招修补不及快与虚精纯，于疑与保原；非五义全精通。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "雷重由皇甫招修补不及快与虚精纯，于疑与保原；非五义全精通。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷重由皇甫招修补不及快与虚精纯，于疑与保原；非五义全精通。"
+      },
+      {
+        "reference": "v03-c0166:p0053",
+        "length": 43,
+        "sha256": "32b4378466cd55a7ca21dec7ac97d20ad434f5175a35008efdea3a565cb2dfbb",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0053:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "漩吸为刀势条件，非王真只能被吸无法处理。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "漩吸为刀势条件，非王真只能被吸无法处理。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "漩吸为刀势条件，非王真只能被吸无法处理。"
+      },
+      {
+        "reference": "v03-c0166:p0054",
+        "length": 92,
+        "sha256": "84c419b680a5b4fe400179dc02382c392a219b3e19409b126bab56def2160104",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0054:u001",
+            "start": 0,
+            "end": 92,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王顺吸挑脱刺喉是真攻，不孟真喉穿死。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王顺吸挑脱刺喉是真攻，不孟真喉穿死。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王顺吸挑脱刺喉是真攻，不孟真喉穿死。"
+      },
+      {
+        "reference": "v03-c0166:p0055",
+        "length": 17,
+        "sha256": "9d1cdfc8bf1484e14d66be5252d34d06f3af4b255ad1a94f242cd9a91d91cab8",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0055:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟横刀当挡三思是真孟守，不王回防/王输。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "孟横刀当挡三思是真孟守，不王回防/王输。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟横刀当挡三思是真孟守，不王回防/王输。"
+      },
+      {
+        "reference": "v03-c0166:p0056",
+        "length": 16,
+        "sha256": "b131ee38a17fd4aa4eba7486a3c46e6ec1a75e4cda11f12a557ebae243e53770",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0056:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "wang_siyuan",
+            "surface_identity": "WangSiyuan_Tianren_unity_aperture_not_Outer",
+            "text_context": "咳第五招王真口，复气不是痊愈。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Sansi_attack_replaces_guard_first_six_no_forced_defense_final_response_pending",
+            "delivery": "controlled_cold_counting_cough_red_excitation_fades_no_new_injury",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "咳第五招王真口，复气不是痊愈。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0056:u002",
+            "start": 8,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "咳第五招王真口，复气不是痊愈。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "咳第五招王真口，复气不是痊愈。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "咳第五招王真口，复气不是痊愈。"
+      },
+      {
+        "reference": "v03-c0166:p0057",
+        "length": 26,
+        "sha256": "a885e33b6409c79dcd48c84f90bdaa1cb22923fea9560e1893e9a236971a75f8",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0057:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "好剑法孟真赞吸养分，不敷衍装没学。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "好剑法孟真赞吸养分，不敷衍装没学。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0057:u002",
+            "start": 6,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "好剑法孟真赞吸养分，不敷衍装没学。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "好剑法孟真赞吸养分，不敷衍装没学。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "好剑法孟真赞吸养分，不敷衍装没学。"
+      },
+      {
+        "reference": "v03-c0166:p0058",
+        "length": 100,
+        "sha256": "112512b563b465a1a358f385854402aadbefdf4788e4606bffb0cbd2b25645c1",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0058:u001",
+            "start": 0,
+            "end": 100,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第6慢多后手邱观躲不开是其感觉，不邱实际参战受剑/同时王已被中。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第6慢多后手邱观躲不开是其感觉，不邱实际参战受剑/同时王已被中。",
+            "focalizer": "v03c166_RuanYaoguang_QiuFei_observer_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第6慢多后手邱观躲不开是其感觉，不邱实际参战受剑/同时王已被中。"
+      },
+      {
+        "reference": "v03-c0166:p0059",
+        "length": 45,
+        "sha256": "a7029b9cca4c1c6064b4349bda9e0b8d08905099f20f6679db1eb067ef6c6d14",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0059:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷快衬心缓为变化解释，不新时停。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "雷快衬心缓为变化解释，不新时停。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷快衬心缓为变化解释，不新时停。"
+      },
+      {
+        "reference": "v03-c0166:p0060",
+        "length": 32,
+        "sha256": "ec481b02eba9cea5df71c7d6360e9c85a03c6b866bb6559bcd45f36d227f1423",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0060:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王不化圆改快刺，别补他真的先画圆。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王不化圆改快刺，别补他真的先画圆。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王不化圆改快刺，别补他真的先画圆。"
+      },
+      {
+        "reference": "v03-c0166:p0061",
+        "length": 35,
+        "sha256": "0dd67bed17f4e6ca8d1926f7fa238243c32a3d57c9f591baa46d40208c585657",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0061:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王点刀尖破变化真，不自己回挡。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王点刀尖破变化真，不自己回挡。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王点刀尖破变化真，不自己回挡。"
+      },
+      {
+        "reference": "v03-c0166:p0062",
+        "length": 15,
+        "sha256": "66198f013628ce6c4af66b630cf4618b04cd2299343e84c8b2600d0999447cfb",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0062:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "归一指相通孟取内对比，非王此时用指不剑或孟大声说破。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "editorial_private_focal_thought_not_publicvoice",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "归一指相通孟取内对比，非王此时用指不剑或孟大声说破。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "归一指相通孟取内对比，非王此时用指不剑或孟大声说破。"
+      },
+      {
+        "reference": "v03-c0166:p0063",
+        "length": 32,
+        "sha256": "249c381baf2505e96d274ee6a7ee213f1557a6e14d8c3e2ea0dbd89d85cf9135",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0063:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "wang_siyuan",
+            "surface_identity": "WangSiyuan_Tianren_unity_aperture_not_Outer",
+            "text_context": "第6王真口，收剑潇洒身瘦白仍病态。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Sansi_attack_replaces_guard_first_six_no_forced_defense_final_response_pending",
+            "delivery": "controlled_cold_counting_cough_red_excitation_fades_no_new_injury",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第6王真口，收剑潇洒身瘦白仍病态。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0063:u002",
+            "start": 6,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第6王真口，收剑潇洒身瘦白仍病态。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第6王真口，收剑潇洒身瘦白仍病态。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第6王真口，收剑潇洒身瘦白仍病态。"
+      },
+      {
+        "reference": "v03-c0166:p0064",
+        "length": 60,
+        "sha256": "c3ef6d0a876c970a6ff18ba527b71aa50da073618cfefe3c4d20879eae6fcaa3",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0064:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮邱疑孟像练刀为外观真收获，不作者证他已放弃全部胜负。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "阮邱疑孟像练刀为外观真收获，不作者证他已放弃全部胜负。",
+            "focalizer": "v03c166_RuanYaoguang_QiuFei_observer_question",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮邱疑孟像练刀为外观真收获，不作者证他已放弃全部胜负。"
+      },
+      {
+        "reference": "v03-c0166:p0065",
+        "length": 28,
+        "sha256": "50b67c6bdc8449bef4d8f2f21b1d20baf6be6a2dd86747a5b4c0dc78ab138ef5",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0065:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "v03c166_RuanYaoguang_QiuFei_observer_question",
+            "surface_identity": "RuanYaoguang_QiuFei_observer_freeindirect_question",
+            "text_context": "莫非取阮邱观察疑内集体待录，非孟自承放弃/所有人齐声问。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_four_to_six_learning_under_attack_not_guard",
+            "channel": "observer_freeindirect_question_RuanYaoguang_QiuFei_individual_owner_pending",
+            "fact_status": "private_strategy_question_memory_or_observer_surmise_not_current_public_exposition",
+            "embodiment": "no_actual_combined_mouth_utterance_individual_assignment_pending",
+            "delivery": "wonder_if_Meng_abandoned_win_not_confirmed_gaveup",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "莫非取阮邱观察疑内集体待录，非孟自承放弃/所有人齐声问。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫非取阮邱观察疑内集体待录，非孟自承放弃/所有人齐声问。"
+      },
+      {
+        "reference": "v03-c0166:p0066",
+        "length": 37,
+        "sha256": "5911b9acca5d933121160a4f007794d7915d296b343fba8c1fafcb8fe6a82766",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0066:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "第7前孟暴喝真口，雷喻声不单独新法身雷攻击。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "actual_character_speech",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第7前孟暴喝真口，雷喻声不单独新法身雷攻击。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0066:u002",
+            "start": 8,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第7前孟暴喝真口，雷喻声不单独新法身雷攻击。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "第7前孟暴喝真口，雷喻声不单独新法身雷攻击。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第7前孟暴喝真口，雷喻声不单独新法身雷攻击。"
+      },
+      {
+        "reference": "v03-c0166:p0067",
+        "length": 46,
+        "sha256": "505913ade92ad949d826ae976b6b74f19a974fa303f170fe55fd921e64ff234f",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0067:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "虚空藏物结合阴阳攻守真实刀理，非真实物品藏空间戒指已拿。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "虚空藏物结合阴阳攻守真实刀理，非真实物品藏空间戒指已拿。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "虚空藏物结合阴阳攻守真实刀理，非真实物品藏空间戒指已拿。"
+      },
+      {
+        "reference": "v03-c0166:p0068",
+        "length": 39,
+        "sha256": "f100c93766b69fc7c55e6618017d5c10820931ca38763fd7b5da553e8340ea3b",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0068:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王点圆心找不变破真，没全知看穿孟暗目的。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "王点圆心找不变破真，没全知看穿孟暗目的。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王点圆心找不变破真，没全知看穿孟暗目的。"
+      },
+      {
+        "reference": "v03-c0166:p0069",
+        "length": 15,
+        "sha256": "6dead04d246d3f379e29b9e2aef0d1d246cea17c91ff7433b52ed486e30af543",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0069:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "当为刀剑碰N刀势再破不最终孟已输。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "当为刀剑碰N刀势再破不最终孟已输。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0166:p0069:u002",
+            "start": 2,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "当为刀剑碰N刀势再破不最终孟已输。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "当为刀剑碰N刀势再破不最终孟已输。",
+            "focalizer": "wang_siyuan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "当为刀剑碰N刀势再破不最终孟已输。"
+      },
+      {
+        "reference": "v03-c0166:p0070",
+        "length": 37,
+        "sha256": "b6b8a43596e6a6ac0f7320d887c2615923ec2a58c61b92d4318032e1dc2928ed",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0070:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "天之伤反弹理跳起电光长刀气真新爆，不重演第3未催就无此光；精确紫雷次数未给。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "天之伤反弹理跳起电光长刀气真新爆，不重演第3未催就无此光；精确紫雷次数未给。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "天之伤反弹理跳起电光长刀气真新爆，不重演第3未催就无此光；精确紫雷次数未给。"
+      },
+      {
+        "reference": "v03-c0166:p0071",
+        "length": 19,
+        "sha256": "b855bdb0c834d1441adde732303640b46c2cab4c736ae2330f5e27ac21fd1ac6",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0071:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "隐藏目的此才爆，不166开头已全部透明告王。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "隐藏目的此才爆，不166开头已全部透明告王。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "隐藏目的此才爆，不166开头已全部透明告王。"
+      },
+      {
+        "reference": "v03-c0166:p0072",
+        "length": 30,
+        "sha256": "67a73480577453bedb66b46cef419a0e6bba1e526da870fa32577b5cfd886c30",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0072:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "八九隐运行+苍天虚双遮真实，未八九新升7/获得永久免算。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "八九隐运行+苍天虚双遮真实，未八九新升7/获得永久免算。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "八九隐运行+苍天虚双遮真实，未八九新升7/获得永久免算。"
+      },
+      {
+        "reference": "v03-c0166:p0073",
+        "length": 49,
+        "sha256": "b2babf956d417fdb9f927408fce2ddcd182253af0903a564bd786fcf537e278c",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0073:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实际电光刀气河浪局部，不擅将招名硬定原版狂雷9或雷痕耗。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "实际电光刀气河浪局部，不擅将招名硬定原版狂雷9或雷痕耗。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际电光刀气河浪局部，不擅将招名硬定原版狂雷9或雷痕耗。"
+      },
+      {
+        "reference": "v03-c0166:p0074",
+        "length": 17,
+        "sha256": "f33fd2a54830b95a69023fdeb772dc52dfb1ef25f9d1674c19590d328bc1ed06",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0074:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "近距刀气刚发逼近未给王下一反应，不现在王已中死。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "近距刀气刚发逼近未给王下一反应，不现在王已中死。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "近距刀气刚发逼近未给王下一反应，不现在王已中死。"
+      },
+      {
+        "reference": "v03-c0166:p0075",
+        "length": 8,
+        "sha256": "34de06a5428d9abe12ff3b26b1377e493de24bf242405363cb673a0b591aeaac",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0075:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "SuMeng_actual7_Bajiu6_Goldbell7entry",
+            "text_context": "再试某一刀为66暴喝回声，仍孟声非第二次新喊又打第8招。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "echo_of_Meng_p0066_shout_not_second_utterance",
+            "fact_status": "actual_count_praise_or_Meng_shout",
+            "embodiment": "Tianzhi_actual7th_bladeqi_third_reinterpretation_no_treasure_activation_Tianwai_not_connected",
+            "delivery": "keeps_calm_learns_four_to_six_hides_seventh_purpose_real_shout_then_echo",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "再试某一刀为66暴喝回声，仍孟声非第二次新喊又打第8招。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "再试某一刀为66暴喝回声，仍孟声非第二次新喊又打第8招。"
+      },
+      {
+        "reference": "v03-c0166:p0076",
+        "length": 11,
+        "sha256": "0380fbceeffd37f63050f997bb0f06eb6684243da1d768145138baad7cbc1f5b",
+        "units": [
+          {
+            "unit_id": "v03-c0166:p0076:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "声层回荡收束，第7结果未给；比斗2未胜/未选戒尺。",
+            "world_context": "166_Meng第二场真七刀前六王攻代防数招_首阴阳互破二断清净触天人复被点肋飞仙接不上_三自演狂雷未催宝兵_孟内八九暂保猜狼或告_记蒋王旧目的话悟藏_四快五重六变真练不等认输_七虚阴阳双遮八九终于刀气爆近王反应未知",
+            "stage_context": "166_seventh_hiddenpurpose_actual_bladeqi_no_Wang_response_yet",
+            "channel": "narrated_action_or_focal_context",
+            "fact_status": "actual_sequence_distinguishes_hypothetical_ability_unconnected_move_and_no_duel_outcome",
+            "information_and_time_boundary": "5紫雷9能力估非实际_第一阴阳二清净26飞仙未接_24_25精神免疫还是恢复快未知_31第3自演未催刀_38狼可能告仅猜_41蒋16136和42王16233为孟心记非当前嘴_四快五重六变王以攻代防孟横挡不王输_65阮邱疑弃胜非事实_七70真刀气72双遮反应未出75旧喝回声无第8",
+            "vow_friendship_and_loot_boundary": "本章未新增分宝戒尺仍未定_王计前六皆以攻代守不等回剑约输_孟清净后飞仙未用不可扣其耗_第三明未催天之伤不是最终无刀气_末刀气真但原版紫雷劲次数未明不得算用尽/补满_无新丹服善功支出_蒋已符去仅旧话心记不可复活返场",
+            "manual_and_claim_boundary": "孟不复制江蓄峰策略_八九藏真运行仍6不升7永免卜算_王猜狼告防范未知不全知读心_皇甫旧教为前史不现在现身_雷重修补比快虚不精非五义全成_于空之虚原词保疑与_阮邱猜放弃不证孟真弃_第7爆发王尚未反应不第2胜负/戒尺已归孟",
+            "knowledge_boundary": "声层回荡收束，第7结果未给；比斗2未胜/未选戒尺。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "声层回荡收束，第7结果未给；比斗2未胜/未选戒尺。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v03-0166",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V03-S22",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 16,
+        "label": "阴阳互破，淡淡计招的精神施压",
+        "direction": "王咳请淡然垂三思，孟趁悍勇不复制江蓄峰。5紫雷催刀爆发不及江是假想能力不是实际用。第一自悟阴阳三合刀被王同理点尖破后续，阮真赞初贴法理不孟外景。王收剑等仿自矜表象，淡淡计1有意激怒，孟不动心。证据v03-c0166:p0001–p0016。"
+      },
+      {
+        "paragraph_start": 17,
+        "paragraph_end": 28,
+        "label": "第二断清净与没能接上的飞仙",
+        "direction": "孟真清净触天人心山川后迅复，王仍点左肋必救；24–25孟内不知王未受或复更快或强解，不能判精神免疫。若刺金钟不挡是条件不孟已伤。26明确飞仙后续未接，不因146已掌握就补实用；王点肋以攻代守非触约回防。证据v03-c0166:p0017–p0028。"
+      },
+      {
+        "paragraph_start": 29,
+        "paragraph_end": 46,
+        "label": "第三自演狂雷与从旧话悟刀",
+        "direction": "第三叠劲自演狂雷31明确未催天之伤以免原版被认，攻腕逼收退。王红亢奋渐褪冷控，孟不服输先想八九藏运行但狼可能告仅猜，暂保关键。41蒋16136/42王16233是孟心记旧话，非蒋返场或当前王口重讲。孟43–46内省目的太明，先瞒自己不是永久失忆。证据v03-c0166:p0029–p0046。"
+      },
+      {
+        "paragraph_start": 47,
+        "paragraph_end": 65,
+        "label": "四五六刀真实吸收，不等放弃胜负",
+        "direction": "第4电快王慢剑侧刺迫孟不死回气幻魔避，第5雷重由皇甫旧招修补不及快虚精纯，王顺吸脱刺喉孟实横挡非王回防。第6慢藏多变邱旁观难避感，王快点刀尖破。孟真赞好剑法，62归一指相通取内，64–65阮邱猜放弃转练只是观察疑非孟承认。皇甫旧喂招非今在场。证据v03-c0166:p0047–p0065。"
+      },
+      {
+        "paragraph_start": 66,
+        "paragraph_end": 76,
+        "label": "第七双遮终于爆刀气，胜负留待后章",
+        "direction": "孟暴喝再试某一刀真一次，虚结合阴阳攻守；王圆心破形，天之伤违弹理跳起电光长刀气、八九隐真运行与苍天虚双遮成功为真。精确紫雷劲库存/是否原版招未明不乱扣。刀气近逼未给王下一反应，75是66声回荡不是第8次新喝。第二场未决戒尺未分。证据v03-c0166:p0066–p0076。"
+      }
+    ],
+    "knowledge_rule": "前六王攻代守，飞仙未接第三未催宝兵；蒋王旧话为孟心记，第七双遮刀气近逼未决、重复暴喝回声。"
+  }
 }
