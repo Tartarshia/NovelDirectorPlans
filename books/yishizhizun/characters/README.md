@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [段瑞初次问案：喊冤、恩义与记中杀师并存](early-v03-DuanRui-first-hearing-genuine-protest-memory-killing.md) | 第三卷第172章历史归属回补 |
+| [聚华问案六席、萧梁黄华枫与物证层](early-v03-Juhua-six-arbiters-Xiao-Huang-conflicting-testimony.md) | 第三卷第172章历史归属回补 |
+| [段瑞记忆探查：旧时双嘴、异常凝视与无反噬](early-v03-Duan-memory-past-voices-no-backlash-limited-probe.md) | 第三卷第172章历史归属回补 |
 | [黑蝴蝶案：先确认获救、废功活交与解药账](early-v03-Heihudie-captured-disabled-alive-rescue-first-antidote.md) | 第三卷第171章历史归属回补 |
 | [沙六小姐湖儿与父亲：脱险后哭泣及称呼边界](early-v03-Sha-sixthmiss-Huer-father-delayed-tears.md) | 第三卷第171章历史归属回补 |
 | [聚华派案：名望获邀与转述证据边界](early-v03-Juhua-case-reported-fame-outsider-arbitration.md) | 第三卷第171章历史归属回补 |
