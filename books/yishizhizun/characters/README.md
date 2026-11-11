@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [捕风苏密报、轮回遮掩与未曝光身份](early-v03-Catchwind-Su-secret-report-Myth-name-not-submitted.md) | 第三卷第170章历史归属回补 |
+| [齐正言抵达、流苏旧仰望与八窍紫星河未来](early-v03-Qi-arrival-Liusu-selfdistance-future-eight-Zixinghe.md) | 第三卷第170章历史归属回补 |
+| [黑蝴蝶案、无名搜山者与沙六未决救援](early-v03-Heihudie-Sha-sixthmiss-searchparty-rescue-unresolved.md) | 第三卷第170章历史归属回补 |
 | [割救黄金饰与身份猜测：环隔后待下次鉴定](early-v03-salvaged-gold-ornament-possible-Myth-token-future-appraisal.md) | 第三卷第169章历史归属回补 |
 | [陆之平的运势警告、孟像礼物与一心剑器名](early-v03-LuZhiping-luck-warning-Meng-carving-Yixin-sword.md) | 第三卷第169章历史归属回补 |
 | [湖蟹友谊、无名渔娘与次日分别](early-v03-crab-boat-friends-relaxed-music-nextday-farewell.md) | 第三卷第169章历史归属回补 |
