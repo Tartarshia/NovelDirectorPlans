@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [三人伏击文曲蒋横川：挪移失隐、右手碎与眉心死](early-v03-JiangHengchuan-team-ambush-right-hand-loss-brow-death.md) | 第三卷第168章历史归属回补 |
+| [蒋横川贫傲、楚观罪心与神音临终念](early-v03-JiangHengchuan-poor-pride-Chu-guilt-last-music-thought.md) | 第三卷第168章历史归属回补 |
+| [临死探记的面具宫殿、幽剑反噬与未明战利品](early-v03-dying-memory-masked-hall-sword-backlash-items-unknown.md) | 第三卷第168章历史归属回补 |
 | [子午飞仙、九招约胜与短时三次能力](early-v03-Meng-Ziwu-Feixian-nine-move-win-capacity-three.md) | 第三卷第167章历史归属回补 |
 | [最终分物、浅芥子环与普通六字字轴](early-v03-Dongyang-final-loot-small-ring-sixword-scroll-unknownmeaning.md) | 第三卷第167章历史归属回补 |
 | [钟老头假尸借魔气与趁战逃走，明确未死](early-v03-Zhong-fakecorpse-borrowed-demonqi-escape-alive.md) | 第三卷第167章历史归属回补 |
