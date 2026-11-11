@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第三卷归属回补：第178章](books/yishizhizun/reviews/review-backfill-v03-0178.md)：新全文复读79段146单元；归属已1116章、待294，可用复读回执待0。
 - [第三卷归属回补：第177章](books/yishizhizun/reviews/review-backfill-v03-0177.md)：新全文复读85段137单元；归属已1115章、待295，可用复读回执待0。
 - [第三卷归属回补：第176章](books/yishizhizun/reviews/review-backfill-v03-0176.md)：新全文复读81段134单元；归属已1114章、待296，可用复读回执待0。
 - [第三卷归属回补：第175章](books/yishizhizun/reviews/review-backfill-v03-0175.md)：新全文复读88段162单元；归属已1113章、待297，可用复读回执待0。

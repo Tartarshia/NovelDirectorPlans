@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [冯斌与钟氏父子：来客身份、境界与传承心事](early-v03-FengBin-halfouter-bothseven-Zhong-father-son.md) | 第三卷第178章历史归属回补 |
+| [晶石说辞与修法真相，有条件的引荐网络](early-v03-Huntian-crystal-cover-directpractice-recommendation-conditional.md) | 第三卷第178章历史归属回补 |
+| [钟维试身手：无实伤的精神目光与尚未看诊](early-v03-ZhongWei-gaze-noninjury-test-no-apprenticeship-exam-offer.md) | 第三卷第178章历史归属回补 |
 | [齐胜方白：碧冰雪、千里冰封与未正式新榜](early-v03-Qi-Bibingxue-QianliBingfeng-beats-FangBai-no-rank-yet.md) | 第三卷第177章历史归属回补 |
 | [孟解说表演：护齐过明路与不泄敌手后手](early-v03-Meng-commentary-public-Huntian-cover-not-tactical-coaching.md) | 第三卷第177章历史归属回补 |
 | [朋友边界：齐要求熟友比试勿过夸](early-v03-Qi-friend-boundary-overpraise-shame-Meng-reflection.md) | 第三卷第177章历史归属回补 |
