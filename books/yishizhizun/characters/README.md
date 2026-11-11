@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江芷微借白虹法理与一剑逼回防](early-v03-Jiang-Baihong-borrowed-law-one-sword-conditional-win.md) | 第三卷第165章历史归属回补 |
+| [三思宝兵、条件判负与五十岁寿限](early-v03-Wang-Sansi-guard-loss-injury-uncertain-lifespan50.md) | 第三卷第165章历史归属回补 |
+| [青书阮持、东极丹方今古效果与未兑现收益](early-v03-Donghua-book-Ruan-custody-lifespan-formula-unspent.md) | 第三卷第165章历史归属回补 |
 | [槐树雕刻老人正式揭名陆大与斩九幽](early-v03-carver-LuDa-name-Gengjin-sword-Nineyou-cut.md) | 第三卷第164章历史归属回补 |
 | [蒋横川用符离场与孟奇未执行的守返计划](early-v03-JiangHengchuan-token-departure-return-plan-not-executed.md) | 第三卷第164章历史归属回补 |
 | [东阳四宝未分与两场十招先选条件](early-v03-Dongyang-four-items-unallocated-two-tenmove-tests.md) | 第三卷第164章历史归属回补 |
