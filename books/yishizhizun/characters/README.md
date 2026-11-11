@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [文曲就是蒋横川：承认时点与同一人的表演](early-v03-Jiang-explicit-Wenqu-admission-steadybody-public-reveal-timing.md) | 第三卷第161章历史归属回补 |
+| [苦主陷阱、牺牲楚观与萧任误导的核心](early-v03-Wenqu-trap-Chuguan-sacrifice-Xiao-Ren-misdirection-core.md) | 第三卷第161章历史归属回补 |
+| [堂弟旧死的新解释、原大兴遥控与钟为同伴](early-v03-cousin-betrayal-first-mixed-grief-Daxing-plan-Zhong-companion.md) | 第三卷第161章历史归属回补 |
 | [外府旧财报告、活邱与无誓临盟](early-v03-outer-estate-oldloot-report-Qiu-alive-unvowed-alliance.md) | 第三卷第160章历史归属回补 |
 | [白水下惨死与黑背心一指：分别归属两次杀人](early-v03-white-dragged-scream-death-black-killed-by-Jiang-finger.md) | 第三卷第160章历史归属回补 |
 | [蒋自比半外与单片失效：先合作后重排力量](early-v03-Jiang-strength-selfcomparison-onefragment-fails-three-survivors.md) | 第三卷第160章历史归属回补 |
