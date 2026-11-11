@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [子午飞仙、九招约胜与短时三次能力](early-v03-Meng-Ziwu-Feixian-nine-move-win-capacity-three.md) | 第三卷第167章历史归属回补 |
+| [最终分物、浅芥子环与普通六字字轴](early-v03-Dongyang-final-loot-small-ring-sixword-scroll-unknownmeaning.md) | 第三卷第167章历史归属回补 |
+| [钟老头假尸借魔气与趁战逃走，明确未死](early-v03-Zhong-fakecorpse-borrowed-demonqi-escape-alive.md) | 第三卷第167章历史归属回补 |
 | [孟奇七刀前六受制：未接飞仙与自演狂雷](early-v03-Meng-seven-moves-Tianwai-unconnected-third-thunder-not-activated.md) | 第三卷第166章历史归属回补 |
 | [旧话心记、双重藏真与第七刀未决](early-v03-Meng-recalled-purpose-principle-seventh-double-concealment.md) | 第三卷第166章历史归属回补 |
 | [王计招冷控、阮邱猜测与一次暴喝回声](early-v03-Wang-six-counts-observer-question-Meng-shout-echo.md) | 第三卷第166章历史归属回补 |
