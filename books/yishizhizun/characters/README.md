@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [招揽被婉拒与考核失败：自信仍非已逃](early-v03-Wenqu-recruitment-declined-assessment-failed-not-escape.md) | 第三卷第162章历史归属回补 |
+| [邱带二王与王的有限所知：官身份只在内心](early-v03-Qiu-brings-two-Wangs-limited-knowledge-official-identity-private.md) | 第三卷第162章历史归属回补 |
+| [白尸未被吸蚀与阮前辈现身：黄雀仍有盲点](early-v03-Ruan-elder-appears-white-corpse-unabsorbed-Wang-first-surprise.md) | 第三卷第162章历史归属回补 |
 | [文曲就是蒋横川：承认时点与同一人的表演](early-v03-Jiang-explicit-Wenqu-admission-steadybody-public-reveal-timing.md) | 第三卷第161章历史归属回补 |
 | [苦主陷阱、牺牲楚观与萧任误导的核心](early-v03-Wenqu-trap-Chuguan-sacrifice-Xiao-Ren-misdirection-core.md) | 第三卷第161章历史归属回补 |
 | [堂弟旧死的新解释、原大兴遥控与钟为同伴](early-v03-cousin-betrayal-first-mixed-grief-Daxing-plan-Zhong-companion.md) | 第三卷第161章历史归属回补 |
