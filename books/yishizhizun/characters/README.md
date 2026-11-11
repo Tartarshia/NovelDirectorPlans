@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [外府旧财报告、活邱与无誓临盟](early-v03-outer-estate-oldloot-report-Qiu-alive-unvowed-alliance.md) | 第三卷第160章历史归属回补 |
+| [白水下惨死与黑背心一指：分别归属两次杀人](early-v03-white-dragged-scream-death-black-killed-by-Jiang-finger.md) | 第三卷第160章历史归属回补 |
+| [蒋自比半外与单片失效：先合作后重排力量](early-v03-Jiang-strength-selfcomparison-onefragment-fails-three-survivors.md) | 第三卷第160章历史归属回补 |
 | [琴止犬吠双向报平安，蛇势善后有界限](early-v03-qin-dog-two-way-safety-code-Snake-cleanup-limits.md) | 第三卷第159章历史归属回补 |
 | [江芷微秘密重逢、阮搭线落实与联系人隐名](early-v03-JiangZhiwei-secret-reunion-Ruan-cover-contact-name-withheld.md) | 第三卷第159章历史归属回补 |
 | [迟邀东阳、限定互害誓与借碎片入门](early-v03-Dongyang-late-invite-bounded-vow-sealfragment-entry.md) | 第三卷第159章历史归属回补 |
