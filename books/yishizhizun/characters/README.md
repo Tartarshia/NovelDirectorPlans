@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮的非琴技巧、孟八九控心改造与狱中小技](early-v03-heartbeat-Ruan-nonqin-teaching-Bajiu-small-copy.md) | 第三卷第174章历史归属回补 |
+| [九个姿势：自述师承、观察记录与尚未证实顺序](early-v03-nine-poses-observed-recorded-not-practiced-or-named.md) | 第三卷第174章历史归属回补 |
+| [夜间补穴、牢头死亡与尉迟恭未决求救](early-v03-jailer-poison-death-blackeye-unlock-Yuchi-fate-pending.md) | 第三卷第174章历史归属回补 |
 | [段瑞四窍近强八战力、诈逃与孟空手擒获](early-v03-Duan-four-apertures-strong-eight-fight-emptyhand-capture.md) | 第三卷第173章历史归属回补 |
 | [易筋第一卷、阴毒气与义父：当前只推理](early-v03-Yijin-first-volume-toxicqi-fosterfather-only-hypotheses.md) | 第三卷第173章历史归属回补 |
 | [离魂怀疑、责任承担与收监：尚未治好](early-v03-Lihun-suspected-fictional-accountability-custody-not-cure.md) | 第三卷第173章历史归属回补 |
