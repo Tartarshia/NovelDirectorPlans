@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [越狱次晨：两次搜查、不同死因与承追责任](early-v03-prison-escape-two-searches-palm-deaths-pursuit.md) | 第三卷第175章历史归属回补 |
+| [段瑞同身开口对争：偏激邪态的指控未外证](early-v03-Duan-spoken-states-paranoid-claims-not-verified.md) | 第三卷第175章历史归属回补 |
+| [冯元静初遇：虎救援、段复生假名与片面信任](early-v03-FengYuanjing-tiger-rescue-DuanFusheng-carriage-hide.md) | 第三卷第175章历史归属回补 |
 | [阮的非琴技巧、孟八九控心改造与狱中小技](early-v03-heartbeat-Ruan-nonqin-teaching-Bajiu-small-copy.md) | 第三卷第174章历史归属回补 |
 | [九个姿势：自述师承、观察记录与尚未证实顺序](early-v03-nine-poses-observed-recorded-not-practiced-or-named.md) | 第三卷第174章历史归属回补 |
 | [夜间补穴、牢头死亡与尉迟恭未决求救](early-v03-jailer-poison-death-blackeye-unlock-Yuchi-fate-pending.md) | 第三卷第174章历史归属回补 |
