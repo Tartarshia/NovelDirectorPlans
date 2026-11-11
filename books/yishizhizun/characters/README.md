@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟清双向铺刀：精义缠斗、假破绽与正式火皇](early-v03-Meng-Qingyu-mutual-blade-setups-not-new-moves.md) | 第三卷第180章历史归属回补 |
+| [火皇心火：孟的欲情怒疚意象不是真实互动](early-v03-FireEmperor-inner-images-not-Gu-Jiang-Ruan-real-actions.md) | 第三卷第180章历史归属回补 |
+| [紫雷预存与未催天伤：破网反击尚无结果](early-v03-Zileijin-prelaid-Tianzhi-not-activated-fire-net-result-pending.md) | 第三卷第180章历史归属回补 |
 | [钟太平实诊：排双魂、初步割裂判断与三月疗程](early-v03-Zhong-actual-exam-fictional-integration-three-month-plan.md) | 第三卷第179章历史归属回补 |
 | [孟以刀阐理：理解不等治愈，记针不等会针](early-v03-Meng-Yinyang-blade-analogy-needle-memory-not-mastery.md) | 第三卷第179章历史归属回补 |
 | [九散页与无名老和尚：多层转述的线索](early-v03-oldmonk-nine-loose-pages-conditional-temple-mole-inference.md) | 第三卷第179章历史归属回补 |
