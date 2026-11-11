@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第三卷归属回补：第169章](books/yishizhizun/reviews/review-backfill-v03-0169.md)：新全文复读85段129单元；归属已1107章、待303，可用复读回执待0。
 - [第三卷归属回补：第168章](books/yishizhizun/reviews/review-backfill-v03-0168.md)：新全文复读73段75单元；归属已1106章、待304，可用复读回执待0。
 - [第三卷归属回补：第167章](books/yishizhizun/reviews/review-backfill-v03-0167.md)：新全文复读94段120单元；归属已1105章、待305，可用复读回执待0。
 - [第三卷归属回补：第166章](books/yishizhizun/reviews/review-backfill-v03-0166.md)：新全文复读76段86单元；归属已1104章、待306，可用复读回执待0。

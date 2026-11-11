@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [割救黄金饰与身份猜测：环隔后待下次鉴定](early-v03-salvaged-gold-ornament-possible-Myth-token-future-appraisal.md) | 第三卷第169章历史归属回补 |
+| [陆之平的运势警告、孟像礼物与一心剑器名](early-v03-LuZhiping-luck-warning-Meng-carving-Yixin-sword.md) | 第三卷第169章历史归属回补 |
+| [湖蟹友谊、无名渔娘与次日分别](early-v03-crab-boat-friends-relaxed-music-nextday-farewell.md) | 第三卷第169章历史归属回补 |
 | [三人伏击文曲蒋横川：挪移失隐、右手碎与眉心死](early-v03-JiangHengchuan-team-ambush-right-hand-loss-brow-death.md) | 第三卷第168章历史归属回补 |
 | [蒋横川贫傲、楚观罪心与神音临终念](early-v03-JiangHengchuan-poor-pride-Chu-guilt-last-music-thought.md) | 第三卷第168章历史归属回补 |
 | [临死探记的面具宫殿、幽剑反噬与未明战利品](early-v03-dying-memory-masked-hall-sword-backlash-items-unknown.md) | 第三卷第168章历史归属回补 |
