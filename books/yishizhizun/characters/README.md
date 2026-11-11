@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [琴止犬吠双向报平安，蛇势善后有界限](early-v03-qin-dog-two-way-safety-code-Snake-cleanup-limits.md) | 第三卷第159章历史归属回补 |
+| [江芷微秘密重逢、阮搭线落实与联系人隐名](early-v03-JiangZhiwei-secret-reunion-Ruan-cover-contact-name-withheld.md) | 第三卷第159章历史归属回补 |
+| [迟邀东阳、限定互害誓与借碎片入门](early-v03-Dongyang-late-invite-bounded-vow-sealfragment-entry.md) | 第三卷第159章历史归属回补 |
 | [王不迟与宫少泽：占术相近不等境界相同](early-v03-WangBuchi-realOuter-partial-divination-GongShaoze-nearcontact.md) | 第三卷第158章历史归属回补 |
 | [任的见证仍待核，漏听者萧只是新嫌疑](early-v03-Ren-reported-WangBuchi-alibi-Xiao-missing-listener-unproven.md) | 第三卷第158章历史归属回补 |
 | [隔院琴声报平安：明寺暗宅预案与同伴默契](early-v03-Ruan-secret-neighbor-qin-allclear-code-public-temple-private-house.md) | 第三卷第158章历史归属回补 |
