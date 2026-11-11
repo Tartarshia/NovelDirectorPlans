@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [九不神医钟太平：资料、医号与尚未见诊](early-v03-ZhongTaiping-Jiubu-reported-medical-record-no-treatment-yet.md) | 第三卷第176章历史归属回补 |
+| [再擒段瑞：线索定位、先少后全封与点头](early-v03-Duan-carriage-location-recapture-nod-no-speech.md) | 第三卷第176章历史归属回补 |
+| [齐主动欲试方白：成长意愿先于胜负](early-v03-Qi-voluntary-FangBai-challenge-before-fight.md) | 第三卷第176章历史归属回补 |
 | [越狱次晨：两次搜查、不同死因与承追责任](early-v03-prison-escape-two-searches-palm-deaths-pursuit.md) | 第三卷第175章历史归属回补 |
 | [段瑞同身开口对争：偏激邪态的指控未外证](early-v03-Duan-spoken-states-paranoid-claims-not-verified.md) | 第三卷第175章历史归属回补 |
 | [冯元静初遇：虎救援、段复生假名与片面信任](early-v03-FengYuanjing-tiger-rescue-DuanFusheng-carriage-hide.md) | 第三卷第175章历史归属回补 |
