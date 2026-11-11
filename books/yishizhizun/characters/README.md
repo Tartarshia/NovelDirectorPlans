@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [槐树雕刻老人正式揭名陆大与斩九幽](early-v03-carver-LuDa-name-Gengjin-sword-Nineyou-cut.md) | 第三卷第164章历史归属回补 |
+| [蒋横川用符离场与孟奇未执行的守返计划](early-v03-JiangHengchuan-token-departure-return-plan-not-executed.md) | 第三卷第164章历史归属回补 |
+| [东阳四宝未分与两场十招先选条件](early-v03-Dongyang-four-items-unallocated-two-tenmove-tests.md) | 第三卷第164章历史归属回补 |
 | [阮摇光姑婆婆、外景三重与临入府拿钟](early-v03-RuanYaoguang-gupopo-Outer3-capture-timing-not-kill.md) | 第三卷第163章历史归属回补 |
 | [考官紫薇与守拙牵制：强者短现不知胜负](early-v03-Ziwei-examiner-Shouzhuo-interception-no-fight-outcome.md) | 第三卷第163章历史归属回补 |
 | [清余隐藏宗后手：公开狼推理与私下旧知识](early-v03-Qingyu-sect-backstop-public-wolf-inference-private-council-knowledge.md) | 第三卷第163章历史归属回补 |
