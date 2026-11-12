@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [八窍真实突破后的代价：破光吐血与一次舍身](early-v03-Meng-actual-frontyin8-breakthrough-goldbreak-firstSheshen.md) | 第三卷第214章历史归属回补 |
+| [分层全攻仍不敌：阮赵昏、齐耗尽与碎宝](early-v03-corpse-layeredattack-RuanZhao-unconscious-Qiexhausted.md) | 第三卷第214章历史归属回补 |
+| [魂之剑已燃，死亡结论未下](early-v03-Jiang-Jian23-actual-soulburn-shadowlock-no-deathfinal.md) | 第三卷第214章历史归属回补 |
 | [菜名施救的完整因果：护物、抗争、灯法丹与裂玉](early-v03-Ruan-selfclarity-foodcall-lamp-ownBahui-greenjade-cracked.md) | 第三卷第213章历史归属回补 |
 | [齐自述和互验：清白结果不等于所有原因已独证](early-v03-Qi-selfreport-Meixia-allfive-lampcheck-stiffsmile.md) | 第三卷第213章历史归属回补 |
 | [未知干尸拦路与碧霞的未用保命物](early-v03-drymonkcorpse-unnamed-Bixia-safetyitem-notused.md) | 第三卷第213章历史归属回补 |
