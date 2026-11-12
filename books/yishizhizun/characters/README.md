@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [环境毒与实际解毒丹：准备周全仍有漏洞](early-v03-ambient-poison-actual-DingshenQuDu-use-not-oldblood-heal.md) | 第三卷第186章历史归属回补 |
+| [烈焰、青散、林碧玉：三方能力与不同动机](early-v03-Lieyan-QingSanren-LinBiyu-three-factions-not-all-Myth.md) | 第三卷第186章历史归属回补 |
+| [黄红城扰与旧恨牵线：敌报不全知实况](early-v03-enemy-town-assassin-report-monk-Myth-link-only-hypothesis.md) | 第三卷第186章历史归属回补 |
 | [唐二保护请求：同人双身份与尚未执行的护送](early-v03-Tang-protection-request-hidden-return-not-mask-or-escort-yet.md) | 第三卷第185章历史归属回补 |
 | [红阶影刺：幻影骗阿难、局部防御与真伤活逃](early-v03-shadow-assassin-illusion-Anan-new-blood-escape-alive.md) | 第三卷第185章历史归属回补 |
 | [悬赏造势的两层结果：群众已到、外景护卫尚无](early-v03-bounty-crowd-arrives-publicity-not-confirmed-Outer-guard.md) | 第三卷第185章历史归属回补 |
