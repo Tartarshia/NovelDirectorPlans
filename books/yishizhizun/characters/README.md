@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [唯我独尊的消息链：未到手的佛宝与抗拒诱惑](early-v03-WeiwoDuzun-manuscript-sourcechain-temptation-restraint.md) | 第三卷第205章历史归属回补 |
+| [八九被认：清源旧昵称内笑与表层翻天印计划](early-v03-Bajiu-recognized-surface-Fantianyin-feint-only-proposal.md) | 第三卷第205章历史归属回补 |
+| [护退赔罚承诺与六道契：提出签署仍未实签](early-v03-Bixia-protectretreat-failuremerit-promise-contract-unsigned.md) | 第三卷第205章历史归属回补 |
 | [碧霞元君来谈：青面碧砂、伤势与双方名单证词](early-v03-Bixia-masked-Xianji-contact-injured-claimed-rosters.md) | 第三卷第204章历史归属回补 |
 | [保密元神誓确已发：如来第一式仍是消息目标](early-v03-nondisclosure-oaths-FirstPalm-message-not-contract-or-loot.md) | 第三卷第204章历史归属回补 |
 | [任务冲突的修正：通道、垄断晶与未发生的失败折物](early-v03-taskconflict-crystalmonopoly-theory-failure-assets-unsold.md) | 第三卷第204章历史归属回补 |
