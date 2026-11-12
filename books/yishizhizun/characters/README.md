@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [赵恒入队：贵气距离、九窍交感与待核证词](early-v03-ZhaoHeng-prince-identity-distance-nine-contact-reports.md) | 第三卷第196章历史归属回补 |
+| [新同伴的公对暗戒与齐的公平回馈](early-v03-newcompanion-fair-public-private-guard-and-Qi-ward80.md) | 第三卷第196章历史归属回补 |
+| [九姿实鉴易筋残本：报价与已成交须分开](early-v03-nineposes-actual-Yijinjing-fragment-private-appraisal-uncompleted.md) | 第三卷第196章历史归属回补 |
 | [死亡任务后的新规：询价、传授与元魔任务边界](early-v03-postdeath-newrules-paid-Yuanmo-task-not-team-halfOuter.md) | 第三卷第195章历史归属回补 |
 | [共同物出售与旧债清偿：善功原报保留50差额](early-v03-common-sales-fourshares-Jiang-debtclear-Meng-old50-gap.md) | 第三卷第195章历史归属回补 |
 | [镇魔塔实购未用：个人戒指、购药与未知来人](early-v03-shared-Tower-singleuse-Ruan-ownring-purchases-unknowncolumn.md) | 第三卷第195章历史归属回补 |
