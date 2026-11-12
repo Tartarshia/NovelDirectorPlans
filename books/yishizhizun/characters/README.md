@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [雷式与墨饰实鉴：报价、用途和公平分享的边界](early-v03-Shenxiao-prices-Wenqu-token-Dongyang-trigger-private-sharing.md) | 第三卷第197章历史归属回补 |
+| [左手换剑节点：子午已售、流火实得，推余30](early-v03-Ziwu-sold-Liuhuo-actualpurchase-Meng-implied30.md) | 第三卷第197章历史归属回补 |
+| [长春观三首领：选择权、恐惧与赵的海外掩护](early-v03-Changchun-threeleaders-youthchoice-Zhao-overseas-cover.md) | 第三卷第197章历史归属回补 |
 | [赵恒入队：贵气距离、九窍交感与待核证词](early-v03-ZhaoHeng-prince-identity-distance-nine-contact-reports.md) | 第三卷第196章历史归属回补 |
 | [新同伴的公对暗戒与齐的公平回馈](early-v03-newcompanion-fair-public-private-guard-and-Qi-ward80.md) | 第三卷第196章历史归属回补 |
 | [九姿实鉴易筋残本：报价与已成交须分开](early-v03-nineposes-actual-Yijinjing-fragment-private-appraisal-uncompleted.md) | 第三卷第196章历史归属回补 |
