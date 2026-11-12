@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [真慧十六四窍：赤子之心与自己的判断](early-v03-ZhenHui16-four-Nianhua-ownjudgment-not-blind-obedience.md) | 第三卷第193章历史归属回补 |
+| [佛光内告奸：主界门确认，幕后者仍未知](early-v03-private-warning-mainworld-gate-confirmed-not-whole-plot.md) | 第三卷第193章历史归属回补 |
+| [七真经受传：封禁与身法重点、未来传道托付](early-v03-Qizhenjing-received-focus-sealing-movement-not-mastery.md) | 第三卷第193章历史归属回补 |
 | [师父称谓与闭关：情义未断，门籍未复](early-v03-XuanBei-seclusion-titles-not-reinstatement-YuanKong-distinct.md) | 第三卷第192章历史归属回补 |
 | [摩柯指的时机：主动切磋、两招败而不伤](early-v03-ZhenMiao-voluntary-MoKe-Outer-timing-two-move-unhurt.md) | 第三卷第192章历史归属回补 |
 | [玄空的一刀与真慧的无隔：威慑和亲近分开](early-v03-XuanKong-oneblade-stop-ZhenHui-familiar-reunion.md) | 第三卷第192章历史归属回补 |
