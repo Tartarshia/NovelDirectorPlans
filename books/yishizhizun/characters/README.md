@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [鳞甲两处破损与金钟破功：右侧皮伤、左背重伤](early-v03-scale-armor-rightskin-vs-leftback-Goldbell-break.md) | 第三卷第188章历史归属回补 |
+| [紫雷劲与舍身诀：实际使用后改逃为杀](early-v03-actual-Zileijin-SheShen-Qing-backlash-death.md) | 第三卷第188章历史归属回补 |
+| [青散人的误解：烈焰实际救，孟奇左右互搏](early-v03-Qing-misreads-Flame-rescue-twohands-tenbreath-threat.md) | 第三卷第188章历史归属回补 |
 | [天之伤实际催发：狂雷刀势与紫雷劲未动](early-v03-actual-Tianzhi-Baobing-Kuanglei-no-Zileijin.md) | 第三卷第187章历史归属回补 |
 | [林碧玉：远控先除，焦麻与死亡两时点](early-v03-LinBiyu-flute-blood-defense-paralysis-then-forehead-death.md) | 第三卷第187章历史归属回补 |
 | [真伤换破口：敌人有合作，互信仍可被利用](early-v03-Meng-wounded-alliance-bait-Lieyan-contact-two-alive.md) | 第三卷第187章历史归属回补 |
