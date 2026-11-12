@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江的救治尚未完成：大还实际用、佛光封神](early-v03-Jiang-Dahuan-fed-spirit-sealed-seven-day-not-healed.md) | 第三卷第215章历史归属回补 |
+| [九真自名与青灯交付：供述变故、净界崩道](early-v03-Jiuzhen-selfname-lamp-cause-actualgive-worldcleans.md) | 第三卷第215章历史归属回补 |
+| [佛宝粉碎后的选择：接触无悟与加入请求](early-v03-Bodhi-powder-FirstPalm-contact-no-understanding-joinrequest.md) | 第三卷第215章历史归属回补 |
 | [八窍真实突破后的代价：破光吐血与一次舍身](early-v03-Meng-actual-frontyin8-breakthrough-goldbreak-firstSheshen.md) | 第三卷第214章历史归属回补 |
 | [分层全攻仍不敌：阮赵昏、齐耗尽与碎宝](early-v03-corpse-layeredattack-RuanZhao-unconscious-Qiexhausted.md) | 第三卷第214章历史归属回补 |
 | [魂之剑已燃，死亡结论未下](early-v03-Jiang-Jian23-actual-soulburn-shadowlock-no-deathfinal.md) | 第三卷第214章历史归属回补 |
