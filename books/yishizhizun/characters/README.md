@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [口头邀请成立，入会契、称号和功法仍待后续](early-v03-Xianji-oralinvite-unsiged-oldtalisman-no-title-artgift.md) | 第三卷第216章历史归属回补 |
+| [真正回归治疗与江九窍突破的后证](early-v03-actual-return-allhealed-Jiang9-lateproof-soul-sword.md) | 第三卷第216章历史归属回补 |
+| [实结算：叶非现金、八物5000五人平分](early-v03-reward-draw-Leaf-unused-eightloot-sold-five-share.md) | 第三卷第216章历史归属回补 |
 | [江的救治尚未完成：大还实际用、佛光封神](early-v03-Jiang-Dahuan-fed-spirit-sealed-seven-day-not-healed.md) | 第三卷第215章历史归属回补 |
 | [九真自名与青灯交付：供述变故、净界崩道](early-v03-Jiuzhen-selfname-lamp-cause-actualgive-worldcleans.md) | 第三卷第215章历史归属回补 |
 | [佛宝粉碎后的选择：接触无悟与加入请求](early-v03-Bodhi-powder-FirstPalm-contact-no-understanding-joinrequest.md) | 第三卷第215章历史归属回补 |
