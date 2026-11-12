@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [青散人、魔影寒掌、姜定之：同人实名与勘场知识](early-v03-QingSanren-JiangDingzhi-name-corpse-not-new-entity.md) | 第三卷第190章历史归属回补 |
+| [绕回战场冬眠藏：信息收束带来的生机](early-v03-Meng-return-loop-treehole-hibernation-no-spirit-surveillance.md) | 第三卷第190章历史归属回补 |
+| [普通脸融入追自己的人群：真伤与假原因](early-v03-ordinary-face-social-cover-false-fall-search-own-hero.md) | 第三卷第190章历史归属回补 |
 | [烈焰三息死：人设误导、宝兵少气与旧迷雾](early-v03-Flame-threebreath-death-smoke-two-concealments.md) | 第三卷第189章历史归属回补 |
 | [用药和撤退账：烟、解药、大还丹与只取薄刀](early-v03-actual-smoke-antidote-Dahuan-take-Flameblade-not-allloot.md) | 第三卷第189章历史归属回补 |
 | [跳溪未入水：暗瓶追者与另一条错误结论](early-v03-stream-no-water-bottleman-red-chase-false-inference.md) | 第三卷第189章历史归属回补 |
