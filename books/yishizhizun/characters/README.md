@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [假掌奏效的真实代价：符已用、轻伤与重伤逃敌](early-v03-fakepalm-works-Shanyuefu-used-Menglight-Beidouheavy-alive.md) | 第三卷第208章历史归属回补 |
+| [轻伤退走的西王母与队伍新伤：不是正面碾压](early-v03-Xiwangmu-lightwound-escapes-Jiangmouthblood-Zhaopalmsblood.md) | 第三卷第208章历史归属回补 |
+| [入界分搜：镜子部署和齐的一张荡魔符](early-v03-fragment-entry-watchmirror-deployed-Qi-Dangmofu-used.md) | 第三卷第208章历史归属回补 |
 | [金皇克兵的真实限制：兵器受控、没有全毁](early-v03-Xiwangmu-metalcontrol-elitehalfOuter-weapons-not-destroyed.md) | 第三卷第207章历史归属回补 |
 | [木琴的机会：一口精血、凤鸣打断与无剑冰攻](early-v03-Ruan-essenceblood-woodqin-Fengming-Qi-fingerice-counter.md) | 第三卷第207章历史归属回补 |
 | [主动想象元始的虚势：北斗注意已引、后果未出](early-v03-Meng-active-Yuanshi-imagination-Fantian-aura-Beidou-attention.md) | 第三卷第207章历史归属回补 |
