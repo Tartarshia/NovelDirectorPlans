@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [金皇克兵的真实限制：兵器受控、没有全毁](early-v03-Xiwangmu-metalcontrol-elitehalfOuter-weapons-not-destroyed.md) | 第三卷第207章历史归属回补 |
+| [木琴的机会：一口精血、凤鸣打断与无剑冰攻](early-v03-Ruan-essenceblood-woodqin-Fengming-Qi-fingerice-counter.md) | 第三卷第207章历史归属回补 |
+| [主动想象元始的虚势：北斗注意已引、后果未出](early-v03-Meng-active-Yuanshi-imagination-Fantian-aura-Beidou-attention.md) | 第三卷第207章历史归属回补 |
 | [六道契真实生效：至回归、竭力援与未用山岳符](early-v03-SixPaths-contract-effective-ShanyueBudong-talisman-received.md) | 第三卷第206章历史归属回补 |
 | [翻天印形势实学：外精神运用成长、境界不变](early-v03-Fantianyin-shape-aura-actually-learned-not-core-or-newrealm.md) | 第三卷第206章历史归属回补 |
 | [身份识别有限：齐密报保护、阮常谱与招揽未成](early-v03-limited-recognition-Qi-report-Ruan-normalmusic-no-recruitjoin.md) | 第三卷第206章历史归属回补 |
