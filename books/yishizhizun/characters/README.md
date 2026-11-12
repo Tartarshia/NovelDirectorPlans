@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮家引荐信：公平机会、互利与未落定的入门](early-v03-ZhongWei-Ruan-letter-fair-opportunity-not-admission.md) | 第三卷第183章历史归属回补 |
+| [三月俸奖与新密报：批奖、未领和自愿请求分开](early-v03-Catchwind-three-month-award-future-salary-request-not-approved.md) | 第三卷第183章历史归属回补 |
+| [新榜26、11、12：公榜信息与真实功法分层](early-v03-new-list-Qi26-Meng11-Qingyu12-public-not-full-secret-arts.md) | 第三卷第183章历史归属回补 |
 | [门与九页：旧梦触发的推理不是幕后实况](early-v03-old-gate-dream-hypothesis-not-observed-monk-plot.md) | 第三卷第182章历史归属回补 |
 | [药庐失踪：药童指风死、转移方式与疗程中断](early-v03-infirmary-page-fingerdeath-Duan-missing-treatment-interrupted.md) | 第三卷第182章历史归属回补 |
 | [不得不做：孟返寺责任选择与齐留江东掩护](early-v03-return-Shaolin-duty-Qi-cover-plan-no-departure-yet.md) | 第三卷第182章历史归属回补 |
