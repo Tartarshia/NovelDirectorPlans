@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [天之伤实际催发：狂雷刀势与紫雷劲未动](early-v03-actual-Tianzhi-Baobing-Kuanglei-no-Zileijin.md) | 第三卷第187章历史归属回补 |
+| [林碧玉：远控先除，焦麻与死亡两时点](early-v03-LinBiyu-flute-blood-defense-paralysis-then-forehead-death.md) | 第三卷第187章历史归属回补 |
+| [真伤换破口：敌人有合作，互信仍可被利用](early-v03-Meng-wounded-alliance-bait-Lieyan-contact-two-alive.md) | 第三卷第187章历史归属回补 |
 | [环境毒与实际解毒丹：准备周全仍有漏洞](early-v03-ambient-poison-actual-DingshenQuDu-use-not-oldblood-heal.md) | 第三卷第186章历史归属回补 |
 | [烈焰、青散、林碧玉：三方能力与不同动机](early-v03-Lieyan-QingSanren-LinBiyu-three-factions-not-all-Myth.md) | 第三卷第186章历史归属回补 |
 | [黄红城扰与旧恨牵线：敌报不全知实况](early-v03-enemy-town-assassin-report-monk-Myth-link-only-hypothesis.md) | 第三卷第186章历史归属回补 |
