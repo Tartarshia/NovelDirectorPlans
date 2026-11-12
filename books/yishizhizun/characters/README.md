@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [主线优先的分路：赵代表开口，百丈去庐队去殿](early-v03-mainquest-route-Zhao-teamvoice-Baizhang-Wangxinlu-split.md) | 第三卷第203章历史归属回补 |
+| [水谷熊城主：暴政下的线人、屠杀与遇害消息](early-v03-Xiong-ShuiGu-oppression-informant-Budian-sealtheft-report.md) | 第三卷第203章历史归属回补 |
+| [正式成员不等资深：赵的推理与元魔变量](early-v03-formal-not-veteran-Zhao-rules-Meng-Yuanmo-target-hypothesis.md) | 第三卷第203章历史归属回补 |
 | [面具女取鼎：左绿戒、未知真名与微笑死者](early-v03-maskedwoman-actual-Dingtheft-studentdead-single-aura.md) | 第三卷第202章历史归属回补 |
 | [尸逃、铁死与三晶实收：任务仍差一半](early-v03-Shimo-leftarm-escape-Tiemo-dead-threecrystals-collected.md) | 第三卷第202章历史归属回补 |
 | [忘心庐：敌纸三物、地方九真传说与时限矛盾](early-v03-Wangxinlu-threeobjects-enemypapers-Jiuzhen-localmyth-time.md) | 第三卷第202章历史归属回补 |
