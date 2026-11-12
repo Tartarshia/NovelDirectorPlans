@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟清三招与耗损：雷重收尾不是第四完整外景](early-v03-Meng-Qingyu-three-Outer-moves-bleeding-Leizhong-not-fourth.md) | 第三卷第181章历史归属回补 |
+| [长街实胜半招：伯仲、主动与对手尊重](early-v03-Qingyu-narrow-halfmove-win-peer-respect-not-domination.md) | 第三卷第181章历史归属回补 |
+| [安尤与长街赔偿：没有伤人，也有民生财损](early-v03-AnYou-property-compensation-no-innocent-injury-not-paid.md) | 第三卷第181章历史归属回补 |
 | [孟清双向铺刀：精义缠斗、假破绽与正式火皇](early-v03-Meng-Qingyu-mutual-blade-setups-not-new-moves.md) | 第三卷第180章历史归属回补 |
 | [火皇心火：孟的欲情怒疚意象不是真实互动](early-v03-FireEmperor-inner-images-not-Gu-Jiang-Ruan-real-actions.md) | 第三卷第180章历史归属回补 |
 | [紫雷预存与未催天伤：破网反击尚无结果](early-v03-Zileijin-prelaid-Tianzhi-not-activated-fire-net-result-pending.md) | 第三卷第180章历史归属回补 |
