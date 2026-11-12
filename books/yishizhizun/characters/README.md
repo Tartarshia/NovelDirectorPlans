@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [菜名施救的完整因果：护物、抗争、灯法丹与裂玉](early-v03-Ruan-selfclarity-foodcall-lamp-ownBahui-greenjade-cracked.md) | 第三卷第213章历史归属回补 |
+| [齐自述和互验：清白结果不等于所有原因已独证](early-v03-Qi-selfreport-Meixia-allfive-lampcheck-stiffsmile.md) | 第三卷第213章历史归属回补 |
+| [未知干尸拦路与碧霞的未用保命物](early-v03-drymonkcorpse-unnamed-Bixia-safetyitem-notused.md) | 第三卷第213章历史归属回补 |
 | [隐私、第一个绰号和伤药：近九窍仍未开](early-v03-Jiang-privacy-firstnickname-Meng-Baicao-taken-not9.md) | 第三卷第212章历史归属回补 |
 | [赵的未名秘宝自救、三人互验与阮的线索](early-v03-Zhao-secretitem-selfrescue-three-lampcheck-Ruan-report.md) | 第三卷第212章历史归属回补 |
 | [碧霞真实未执行备用与武曲抵达后的识别边界](early-v03-Bixia-true-unsummoned-backup-Wuqu-arrived-limitedrecognition.md) | 第三卷第212章历史归属回补 |
