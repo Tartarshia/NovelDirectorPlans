@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [六道契真实生效：至回归、竭力援与未用山岳符](early-v03-SixPaths-contract-effective-ShanyueBudong-talisman-received.md) | 第三卷第206章历史归属回补 |
+| [翻天印形势实学：外精神运用成长、境界不变](early-v03-Fantianyin-shape-aura-actually-learned-not-core-or-newrealm.md) | 第三卷第206章历史归属回补 |
+| [身份识别有限：齐密报保护、阮常谱与招揽未成](early-v03-limited-recognition-Qi-report-Ruan-normalmusic-no-recruitjoin.md) | 第三卷第206章历史归属回补 |
 | [唯我独尊的消息链：未到手的佛宝与抗拒诱惑](early-v03-WeiwoDuzun-manuscript-sourcechain-temptation-restraint.md) | 第三卷第205章历史归属回补 |
 | [八九被认：清源旧昵称内笑与表层翻天印计划](early-v03-Bajiu-recognized-surface-Fantianyin-feint-only-proposal.md) | 第三卷第205章历史归属回补 |
 | [护退赔罚承诺与六道契：提出签署仍未实签](early-v03-Bixia-protectretreat-failuremerit-promise-contract-unsigned.md) | 第三卷第205章历史归属回补 |
