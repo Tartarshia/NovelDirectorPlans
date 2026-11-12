@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [烈焰三息死：人设误导、宝兵少气与旧迷雾](early-v03-Flame-threebreath-death-smoke-two-concealments.md) | 第三卷第189章历史归属回补 |
+| [用药和撤退账：烟、解药、大还丹与只取薄刀](early-v03-actual-smoke-antidote-Dahuan-take-Flameblade-not-allloot.md) | 第三卷第189章历史归属回补 |
+| [跳溪未入水：暗瓶追者与另一条错误结论](early-v03-stream-no-water-bottleman-red-chase-false-inference.md) | 第三卷第189章历史归属回补 |
 | [鳞甲两处破损与金钟破功：右侧皮伤、左背重伤](early-v03-scale-armor-rightskin-vs-leftback-Goldbell-break.md) | 第三卷第188章历史归属回补 |
 | [紫雷劲与舍身诀：实际使用后改逃为杀](early-v03-actual-Zileijin-SheShen-Qing-backlash-death.md) | 第三卷第188章历史归属回补 |
 | [青散人的误解：烈焰实际救，孟奇左右互搏](early-v03-Qing-misreads-Flame-rescue-twohands-tenbreath-threat.md) | 第三卷第188章历史归属回补 |

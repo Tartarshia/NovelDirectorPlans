@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第三卷归属回补：第189章](books/yishizhizun/reviews/review-backfill-v03-0189.md)：新全文复读73段87单元；归属已1127章、待283，可用复读回执待0。
 - [第三卷归属回补：第188章](books/yishizhizun/reviews/review-backfill-v03-0188.md)：新全文复读81段86单元；归属已1126章、待284，可用复读回执待0。
 - [第三卷归属回补：第187章](books/yishizhizun/reviews/review-backfill-v03-0187.md)：新全文复读83段90单元；归属已1125章、待285，可用复读回执待0。
 - [第三卷归属回补：第186章](books/yishizhizun/reviews/review-backfill-v03-0186.md)：新全文复读65段92单元；归属已1124章、待286，可用复读回执待0。
