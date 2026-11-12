@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [唐二保护请求：同人双身份与尚未执行的护送](early-v03-Tang-protection-request-hidden-return-not-mask-or-escort-yet.md) | 第三卷第185章历史归属回补 |
+| [红阶影刺：幻影骗阿难、局部防御与真伤活逃](early-v03-shadow-assassin-illusion-Anan-new-blood-escape-alive.md) | 第三卷第185章历史归属回补 |
+| [悬赏造势的两层结果：群众已到、外景护卫尚无](early-v03-bounty-crowd-arrives-publicity-not-confirmed-Outer-guard.md) | 第三卷第185章历史归属回补 |
 | [崔浩、蒋青：轻浮市井视角到无法代入的震惊](early-v03-Longyan-market-CuiHao-JiangQing-witness-not-dead.md) | 第三卷第184章历史归属回补 |
 | [四层伏杀：圈毒、起落一寸和最后的时间差](early-v03-four-assassin-market-sequence-poison-ball-weightfall-fastblade.md) | 第三卷第184章历史归属回补 |
 | [外镜青骑：不仁楼指认与未兑现的悬赏号召](early-v03-green-rider-BurenLou-bounty-invitation-not-followers-or-payment.md) | 第三卷第184章历史归属回补 |
