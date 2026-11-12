@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [七真经实册与七日：受师关怀、专注两法](early-v03-Qizhenjing-paper-copy-seven-day-study-no-allarts-mastery.md) | 第三卷第194章历史归属回补 |
+| [真本的武痴：七绝非七窍，知力而停](early-v03-ZhenBen-sevenarts-not-sevenapertures-voluntary-honest-stop.md) | 第三卷第194章历史归属回补 |
+| [离寺而师弟留下：鼻窍、江东与轮回的时间边界](early-v03-leave-Shaolin-Hui-stays-inn-reincarnation-trigger-only.md) | 第三卷第194章历史归属回补 |
 | [真慧十六四窍：赤子之心与自己的判断](early-v03-ZhenHui16-four-Nianhua-ownjudgment-not-blind-obedience.md) | 第三卷第193章历史归属回补 |
 | [佛光内告奸：主界门确认，幕后者仍未知](early-v03-private-warning-mainworld-gate-confirmed-not-whole-plot.md) | 第三卷第193章历史归属回补 |
 | [七真经受传：封禁与身法重点、未来传道托付](early-v03-Qizhenjing-received-focus-sealing-movement-not-mastery.md) | 第三卷第193章历史归属回补 |
