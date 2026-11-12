@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [信任前扑的代价：流火首用、变天挣心焰与精神枯竭](early-v03-Meng-first-Liuhuo-Feixian-Biantian-spiritdepleted-noSheshen.md) | 第三卷第201章历史归属回补 |
+| [火魔真死：江虚剑伤眼、齐刹那控与反伤](early-v03-Huomo-actualdeath-Jiang-final-Qi-briefice-sharedcost.md) | 第三卷第201章历史归属回补 |
+| [镇运鼎终于找到：内喜与未知面具女的道谢](early-v03-threefoot-Ding-actually-found-maskedwoman-identityunknown.md) | 第三卷第201章历史归属回补 |
 | [兵魔首杀：阿难借劲、默契半息与未拾黑晶](early-v03-Bingmo-actualdeath-tacit-ice-thunder-crystal-notcollected.md) | 第三卷第200章历史归属回补 |
 | [赵恒的惊天动地：掌转拳后再拔剑清余](early-v03-Zhao-palmtofist-gasdragon-then-sword-clears-eastcorpses.md) | 第三卷第200章历史归属回补 |
 | [南侧仍险：童祖中尸毒、百丈到来而未知西果](early-v03-south-TongZu-poisoned-Baizhang-arrival-westresult-unknown.md) | 第三卷第200章历史归属回补 |
