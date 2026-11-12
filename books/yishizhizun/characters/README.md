@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [门与九页：旧梦触发的推理不是幕后实况](early-v03-old-gate-dream-hypothesis-not-observed-monk-plot.md) | 第三卷第182章历史归属回补 |
+| [药庐失踪：药童指风死、转移方式与疗程中断](early-v03-infirmary-page-fingerdeath-Duan-missing-treatment-interrupted.md) | 第三卷第182章历史归属回补 |
+| [不得不做：孟返寺责任选择与齐留江东掩护](early-v03-return-Shaolin-duty-Qi-cover-plan-no-departure-yet.md) | 第三卷第182章历史归属回补 |
 | [孟清三招与耗损：雷重收尾不是第四完整外景](early-v03-Meng-Qingyu-three-Outer-moves-bleeding-Leizhong-not-fourth.md) | 第三卷第181章历史归属回补 |
 | [长街实胜半招：伯仲、主动与对手尊重](early-v03-Qingyu-narrow-halfmove-win-peer-respect-not-domination.md) | 第三卷第181章历史归属回补 |
 | [安尤与长街赔偿：没有伤人，也有民生财损](early-v03-AnYou-property-compensation-no-innocent-injury-not-paid.md) | 第三卷第181章历史归属回补 |
