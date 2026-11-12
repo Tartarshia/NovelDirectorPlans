@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [死亡任务后的新规：询价、传授与元魔任务边界](early-v03-postdeath-newrules-paid-Yuanmo-task-not-team-halfOuter.md) | 第三卷第195章历史归属回补 |
+| [共同物出售与旧债清偿：善功原报保留50差额](early-v03-common-sales-fourshares-Jiang-debtclear-Meng-old50-gap.md) | 第三卷第195章历史归属回补 |
+| [镇魔塔实购未用：个人戒指、购药与未知来人](early-v03-shared-Tower-singleuse-Ruan-ownring-purchases-unknowncolumn.md) | 第三卷第195章历史归属回补 |
 | [七真经实册与七日：受师关怀、专注两法](early-v03-Qizhenjing-paper-copy-seven-day-study-no-allarts-mastery.md) | 第三卷第194章历史归属回补 |
 | [真本的武痴：七绝非七窍，知力而停](early-v03-ZhenBen-sevenarts-not-sevenapertures-voluntary-honest-stop.md) | 第三卷第194章历史归属回补 |
 | [离寺而师弟留下：鼻窍、江东与轮回的时间边界](early-v03-leave-Shaolin-Hui-stays-inn-reincarnation-trigger-only.md) | 第三卷第194章历史归属回补 |
