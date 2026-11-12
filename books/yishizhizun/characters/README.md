@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [八九初七与伤痊：金钟尚破、总体未八](early-v03-Bajiu-initial7-Dahuan-healed-Goldbell-still-broken-not8.md) | 第三卷第191章历史归属回补 |
+| [秦州官援真正落实：苏孟公开、唐二方案取消](early-v03-Qin-actual-official-Outer-escort-cancels-Tangmask.md) | 第三卷第191章历史归属回补 |
+| [旧识重认：崔浩就是塔下浩儿，半亭真德真和](early-v03-CuiHao-Haoer-old-stupa-ZhenDe-ZhenHe-reunion.md) | 第三卷第191章历史归属回补 |
 | [青散人、魔影寒掌、姜定之：同人实名与勘场知识](early-v03-QingSanren-JiangDingzhi-name-corpse-not-new-entity.md) | 第三卷第190章历史归属回补 |
 | [绕回战场冬眠藏：信息收束带来的生机](early-v03-Meng-return-loop-treehole-hibernation-no-spirit-surveillance.md) | 第三卷第190章历史归属回补 |
 | [普通脸融入追自己的人群：真伤与假原因](early-v03-ordinary-face-social-cover-false-fall-search-own-hero.md) | 第三卷第190章历史归属回补 |
