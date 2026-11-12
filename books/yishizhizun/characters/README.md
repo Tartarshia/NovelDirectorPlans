@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [隐私、第一个绰号和伤药：近九窍仍未开](early-v03-Jiang-privacy-firstnickname-Meng-Baicao-taken-not9.md) | 第三卷第212章历史归属回补 |
+| [赵的未名秘宝自救、三人互验与阮的线索](early-v03-Zhao-secretitem-selfrescue-three-lampcheck-Ruan-report.md) | 第三卷第212章历史归属回补 |
+| [碧霞真实未执行备用与武曲抵达后的识别边界](early-v03-Bixia-true-unsummoned-backup-Wuqu-arrived-limitedrecognition.md) | 第三卷第212章历史归属回补 |
 | [紫雷的阶段规则：七窍八九可凭核心路线模拟](early-v03-Bajiu7-ownqi-Zilei-simulation-core-route-rule.md) | 第三卷第211章历史归属回补 |
 | [江自己挣扎与孟的受伤制穴：救援不等公平胜负](early-v03-Jiang-selfstruggle-Meng-shouldernose-starpoint-rescue.md) | 第三卷第211章历史归属回补 |
 | [她的拔秽丹与屠鸡旧声：协助江自主清醒](early-v03-Jiang-own-Bahui-memory-Tuji-selfliberation.md) | 第三卷第211章历史归属回补 |
