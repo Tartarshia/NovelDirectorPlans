@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [师父称谓与闭关：情义未断，门籍未复](early-v03-XuanBei-seclusion-titles-not-reinstatement-YuanKong-distinct.md) | 第三卷第192章历史归属回补 |
+| [摩柯指的时机：主动切磋、两招败而不伤](early-v03-ZhenMiao-voluntary-MoKe-Outer-timing-two-move-unhurt.md) | 第三卷第192章历史归属回补 |
+| [玄空的一刀与真慧的无隔：威慑和亲近分开](early-v03-XuanKong-oneblade-stop-ZhenHui-familiar-reunion.md) | 第三卷第192章历史归属回补 |
 | [八九初七与伤痊：金钟尚破、总体未八](early-v03-Bajiu-initial7-Dahuan-healed-Goldbell-still-broken-not8.md) | 第三卷第191章历史归属回补 |
 | [秦州官援真正落实：苏孟公开、唐二方案取消](early-v03-Qin-actual-official-Outer-escort-cancels-Tangmask.md) | 第三卷第191章历史归属回补 |
 | [旧识重认：崔浩就是塔下浩儿，半亭真德真和](early-v03-CuiHao-Haoer-old-stupa-ZhenDe-ZhenHe-reunion.md) | 第三卷第191章历史归属回补 |
