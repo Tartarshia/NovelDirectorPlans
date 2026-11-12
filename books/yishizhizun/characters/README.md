@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [紫雷的阶段规则：七窍八九可凭核心路线模拟](early-v03-Bajiu7-ownqi-Zilei-simulation-core-route-rule.md) | 第三卷第211章历史归属回补 |
+| [江自己挣扎与孟的受伤制穴：救援不等公平胜负](early-v03-Jiang-selfstruggle-Meng-shouldernose-starpoint-rescue.md) | 第三卷第211章历史归属回补 |
+| [她的拔秽丹与屠鸡旧声：协助江自主清醒](early-v03-Jiang-own-Bahui-memory-Tuji-selfliberation.md) | 第三卷第211章历史归属回补 |
 | [元魔一缕附体：心海对白与变天、灯的实际配合](early-v03-Yuanmo-onewisp-mental-dialogue-Biantian-lamp-kill.md) | 第三卷第210章历史归属回补 |
 | [拔秽丹已服，第八窍相关穴完成但未打开](early-v03-Meng-Bahui-actually-used-eighthpoints-complete-not8.md) | 第三卷第210章历史归属回补 |
 | [现实敌洞与失散队友：服丹、御风、眼前江异常](early-v03-Beidou-redpill-Queen-lowflight-Wuqu-near-Jiang-abnormal.md) | 第三卷第210章历史归属回补 |
