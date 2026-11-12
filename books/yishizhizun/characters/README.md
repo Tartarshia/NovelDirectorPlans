@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [沿河五人接力：第四晶与暂存血骨](early-v03-fiveperson-linked-demonkill-crystal4-bloodbone-stored.md) | 第三卷第209章历史归属回补 |
+| [血皮袭江：塔一次已用、甲毁、破灯仍存](early-v03-bloodskin-ambush-Tower-used-Jiangarmor-destroyed-lamp-kept.md) | 第三卷第209章历史归属回补 |
+| [五晶折返：备用招式不是实际多施一次](early-v03-fivecrystals-retreat-noTower-counterfactual-not-cast.md) | 第三卷第209章历史归属回补 |
 | [假掌奏效的真实代价：符已用、轻伤与重伤逃敌](early-v03-fakepalm-works-Shanyuefu-used-Menglight-Beidouheavy-alive.md) | 第三卷第208章历史归属回补 |
 | [轻伤退走的西王母与队伍新伤：不是正面碾压](early-v03-Xiwangmu-lightwound-escapes-Jiangmouthblood-Zhaopalmsblood.md) | 第三卷第208章历史归属回补 |
 | [入界分搜：镜子部署和齐的一张荡魔符](early-v03-fragment-entry-watchmirror-deployed-Qi-Dangmofu-used.md) | 第三卷第208章历史归属回补 |
