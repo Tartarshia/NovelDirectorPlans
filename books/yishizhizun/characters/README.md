@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [众魔实袭：双信号、南援与赵留东护人](early-v03-fourfront-realambush-signals-Baizhang-south-Zhao-stays.md) | 第三卷第199章历史归属回补 |
+| [阮玉书守北：半曲净弱、杀伐音与双指剑气](early-v03-Ruan-north-halfDumo-killingmusic-fingerqi-noTower.md) | 第三卷第199章历史归属回补 |
+| [火魔正常半步：危险感不等定位、抗火不等免疫](early-v03-Huomo-normal-halfOuter-dangerbluff-firetrap-not-dead.md) | 第三卷第199章历史归属回补 |
 | [百丈半步明确：地方宗师、识剑与看走眼](early-v03-Baizhang-halfOuter-localhonorific-limited-perception.md) | 第三卷第198章历史归属回补 |
 | [四个任务别号与四向布防：信号还未使用](early-v03-four-taskaliases-fourdirection-guard-and-signals-unused.md) | 第三卷第198章历史归属回补 |
 | [黄黛与范雨：年龄疑问、静坐刀与未名来袭](early-v03-HuangDai-FanYu-searchers-patientblade-impression-alertonly.md) | 第三卷第198章历史归属回补 |
