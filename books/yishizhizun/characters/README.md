@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [百丈半步明确：地方宗师、识剑与看走眼](early-v03-Baizhang-halfOuter-localhonorific-limited-perception.md) | 第三卷第198章历史归属回补 |
+| [四个任务别号与四向布防：信号还未使用](early-v03-four-taskaliases-fourdirection-guard-and-signals-unused.md) | 第三卷第198章历史归属回补 |
+| [黄黛与范雨：年龄疑问、静坐刀与未名来袭](early-v03-HuangDai-FanYu-searchers-patientblade-impression-alertonly.md) | 第三卷第198章历史归属回补 |
 | [雷式与墨饰实鉴：报价、用途和公平分享的边界](early-v03-Shenxiao-prices-Wenqu-token-Dongyang-trigger-private-sharing.md) | 第三卷第197章历史归属回补 |
 | [左手换剑节点：子午已售、流火实得，推余30](early-v03-Ziwu-sold-Liuhuo-actualpurchase-Meng-implied30.md) | 第三卷第197章历史归属回补 |
 | [长春观三首领：选择权、恐惧与赵的海外掩护](early-v03-Changchun-threeleaders-youthchoice-Zhao-overseas-cover.md) | 第三卷第197章历史归属回补 |
