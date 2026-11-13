@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [旧友选择少知：掩饰说辞、心知疑点与不拆队](early-v03-oldthree-coverstory-infer-stopthinking-team-retained.md) | 第三卷第219章历史归属回补 |
+| [接引符已烧，新契入会已成，仍是预备成员](early-v03-Xianji-actual-oldfu-entry-newmembercontract-provisional.md) | 第三卷第219章历史归属回补 |
+| [孟私认碧霞为瞿九娘，授号阁仍待选择](early-v03-Bixia-QuJiuniang-Mengprivate-inference-titlecabinet-pending.md) | 第三卷第219章历史归属回补 |
 | [金眼实际合眉与正九式：齐仍七窍](early-v03-Qi-eye-actual-used-nine-reorder60percent-not8.md) | 第三卷第218章历史归属回补 |
 | [阮换护符与江双派剑招：只正九式不补十三](early-v03-Ruan-newBiluo-Sendgui-Jiang-twofaction-purchases-cash.md) | 第三卷第218章历史归属回补 |
 | [下次大宁任务情报已买，物品候选尚未买](early-v03-nextmission-info400-DuHuaishang-ZuoHanfeng-candidates-only.md) | 第三卷第218章历史归属回补 |
