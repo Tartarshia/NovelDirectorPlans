@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [障目叶终于实耗：三人被罩、效果消失，范围原文不同](early-v03-Leaf-actuallyused-once-expired-three-four-range-difference.md) | 第三卷第233章历史归属回补 |
+| [听毁林规律逃到林外侧洞：没打败洗月，等候才离](early-v03-Xiyue-pattern-escape-sidecave-forest-gone-waitdaynight.md) | 第三卷第233章历史归属回补 |
+| [华远暗记：夏烟云内奸通报，普通院暂住与开口求教](early-v03-Huayuan-XiaYanyun-spy-mark-rental-guidance-start.md) | 第三卷第233章历史归属回补 |
 | [母女密传：资源、指教与保住帮手，孟并未听见](early-v03-private-Motherdaughter-transmission-resources-guidance.md) | 第三卷第232章历史归属回补 |
 | [互参雷法意向已答，实际授法仍待脱困](early-v03-Thunder-mutual-guidance-agreed-intent-not-transmission.md) | 第三卷第232章历史归属回补 |
 | [弃车遮痕后毁林逼近：喘息仍非脱险](early-v03-cart-abandoned-tracecover-forest-destruction-blindspot.md) | 第三卷第232章历史归属回补 |
