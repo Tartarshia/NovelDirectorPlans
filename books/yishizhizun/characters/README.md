@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [变天明确使用的条件：逐步扰心，郁仍能挣脱](early-v03-Biantian-actual-conditioned-priming-Yu-breaks-memory.md) | 第三卷第236章历史归属回补 |
+| [天地倒倾抢救援空隙：郁未及杀招，秦被封穴带走](early-v03-Tiandi-palm-rescue-window-Yu-alive-Qinqing-sealed.md) | 第三卷第236章历史归属回补 |
+| [北冥实际回归：解秦穴抛出，孟青光机制待明](early-v03-Beiming-actual-return-Qinqing-unsealed-M-greenlight-unspecified.md) | 第三卷第236章历史归属回补 |
 | [北冥三人首次具名：老潘汪东元英子，困局中维护结义](early-v03-Beiming-LaoPan-WangDongyuan-Yingzi-stuck-no-mutualblame.md) | 第三卷第235章历史归属回补 |
 | [元始面具再戴出援：中年庄重真声，正式首领只是误猜](early-v03-Yuanshi-facecover-arrival-midagedvoice-formal-leader-misguess.md) | 第三卷第235章历史归属回补 |
 | [麒麟坠已赠仍被囚：任务变救人，秦卿要自由](early-v03-Kirin-pendant-gift-captivity-changedquest-Qinqing-freedom.md) | 第三卷第235章历史归属回补 |
