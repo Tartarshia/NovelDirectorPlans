@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [未名补神药实服，精窍养神与真气始终巅峰](early-v03-unnamed-spiritmedicine-actualuse-orifice-recovery-qi-peak.md) | 第三卷第229章历史归属回补 |
+| [玄武佩给了何参商：承诺让交，孟尚未实收](early-v03-Xuanwu-with-HeCanshang-lovegift-promised-notreceived.md) | 第三卷第229章历史归属回补 |
+| [悟雷真因获印证，取物增强鬼为假，母女信疑共存](early-v03-Huangfu-selfderived-Thunder-firstcause-falseprobe-hope-doubt.md) | 第三卷第229章历史归属回补 |
 | [陆大专注到自然入微：八窍中迈第一道门](early-v03-natural-Ruwei-LuDa-focus-firstdoor-not-contact.md) | 第三卷第228章历史归属回补 |
 | [两假一真：松刀、空剑、借力接刀与真九雷](early-v03-two-fake-auras-one-real-nineThunder-weapon-retained.md) | 第三卷第228章历史归属回补 |
 | [正面败正常半步：青血仍活，孟已流血精神枯](early-v03-Qingxue-normalHalfOuter-defeated-alive-Meng-empty.md) | 第三卷第228章历史归属回补 |
