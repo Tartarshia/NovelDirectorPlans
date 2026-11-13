@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [称号空缺与传闻边界：青帝、太乙、药师不提前合证](early-v03-title-vacancy-fate-Qingdi-Taiyi-Yaoshi-rumor-boundary.md) | 第三卷第220章历史归属回补 |
+| [表层翻天的出处与库藏上限](early-v03-Qingyuan-Bajiu-surface-Fantian-origin-library-limits.md) | 第三卷第220章历史归属回补 |
+| [宣布元始天尊：称号已选，功法尚未领取](early-v03-Meng-Yuanshi-title-declared-not-deity-or-artreceived.md) | 第三卷第220章历史归属回补 |
 | [旧友选择少知：掩饰说辞、心知疑点与不拆队](early-v03-oldthree-coverstory-infer-stopthinking-team-retained.md) | 第三卷第219章历史归属回补 |
 | [接引符已烧，新契入会已成，仍是预备成员](early-v03-Xianji-actual-oldfu-entry-newmembercontract-provisional.md) | 第三卷第219章历史归属回补 |
 | [孟私认碧霞为瞿九娘，授号阁仍待选择](early-v03-Bixia-QuJiuniang-Mengprivate-inference-titlecabinet-pending.md) | 第三卷第219章历史归属回补 |
