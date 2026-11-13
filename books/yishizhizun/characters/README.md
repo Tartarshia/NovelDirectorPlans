@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [北冥三人首次具名：老潘汪东元英子，困局中维护结义](early-v03-Beiming-LaoPan-WangDongyuan-Yingzi-stuck-no-mutualblame.md) | 第三卷第235章历史归属回补 |
+| [元始面具再戴出援：中年庄重真声，正式首领只是误猜](early-v03-Yuanshi-facecover-arrival-midagedvoice-formal-leader-misguess.md) | 第三卷第235章历史归属回补 |
+| [麒麟坠已赠仍被囚：任务变救人，秦卿要自由](early-v03-Kirin-pendant-gift-captivity-changedquest-Qinqing-freedom.md) | 第三卷第235章历史归属回补 |
 | [一月互参：开窍篇大成、天地倒倾八成，两式未成](early-v03-month-mutual-training-Yuxu-opening-Dacheng-Tiandi80.md) | 第三卷第234章历史归属回补 |
 | [天打五雷轰近完整：演示超九霄，尚差凝为一招](early-v03-Thunder-nearly-complete-not-condensed-price-selfestimate.md) | 第三卷第234章历史归属回补 |
 | [玄武佩实到手：古声与六道分开，无忧谷第三步未完成](early-v03-Xuanwu-actually-received-unknown-sigh-SixPaths-step3.md) | 第三卷第234章历史归属回补 |
