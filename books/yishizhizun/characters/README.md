@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [未名丫环求救：记忆中的拐卖与芍药遇害，密报尚是计划](early-v03-foodbox-maid-memory-trafficking-murder-SixDoors-report-plan.md) | 第三卷第242章历史归属回补 |
+| [沈若璇的双亡说：口供与热炭破绽并存](early-v03-ShenRuoxuan-false-mutualdeath-story-charcoal-baby-clue.md) | 第三卷第242章历史归属回补 |
+| [金离活体半外突袭：婴应同族血、第二珠耗后余一](early-v03-JinLi-alive-HalfOuter-baby-sameblood-secondbead.md) | 第三卷第242章历史归属回补 |
 | [五色原因未知：天命认真追理，戏问后万两未付](early-v03-Tianming-fivefate-causeunknown-logical-counter-no-fee.md) | 第三卷第241章历史归属回补 |
 | [戒杀自选道号：冷无恶意、否认金离，身世不追](early-v03-Jiesha-selfchosen-name-denies-JinLi-privacy-respected.md) | 第三卷第241章历史归属回补 |
 | [沈园现场不合吕报：高手仍在，白衣来客仅背影](early-v03-Shenyuan-trafficking-intelmismatch-unknown-whitewoman-back.md) | 第三卷第241章历史归属回补 |
