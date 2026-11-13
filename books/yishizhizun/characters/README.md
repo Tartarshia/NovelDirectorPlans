@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [右天地倒倾杀蛇、左玉拳杀虎，三妖材料一丹未售](early-v03-twoYao-actualkills-threematerials-one-dan-not-sold.md) | 第三卷第244章历史归属回补 |
+| [戒杀犯戒波动与天命夜察：沈贾一房逃，报官出发](early-v03-Jiesha-killjoy-selfdisgust-Tianming-escape-report-departure.md) | 第三卷第244章历史归属回补 |
+| [狼王铁升暗袭：将开未开的眉玄，入微金莲自然应敌](early-v03-WolfTiesheng-darkambush-brow-not-open-Ruwei-Budong.md) | 第三卷第244章历史归属回补 |
 | [不动金莲首次明确实用：挡初入半外而轻内伤](early-v03-BudongJinlian-actually-used-mildinnerinjury-not-invincible.md) | 第三卷第243章历史归属回补 |
 | [半妖婴儿触发假死推理，白衣认出旧天海源小狐](early-v03-halfyao-baby-fakecorpse-reconstruction-oldfox-recognized.md) | 第三卷第243章历史归属回补 |
 | [双虚招撤窗与暗追：气盛神疲，观近威胁感止](early-v03-two-feints-escape-unseenOuter-pursuit-Tianming-near.md) | 第三卷第243章历史归属回补 |
