@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [两本已毁，母女各记；三封信已有，忠棋尚待察](early-v03-two-books-destroyed-memories-threeletters-trust-check.md) | 第三卷第230章历史归属回补 |
+| [近复后再新伤：右袖毁，金光黯而未破](early-v03-nearly-restored-then-newinjury-sleeve-gold-stillactive.md) | 第三卷第230章历史归属回补 |
+| [告祭换路线，活新郎已挟持，雪车仍待供](early-v03-ancestor-cover-route-living-groom-hostage-carriage-request.md) | 第三卷第230章历史归属回补 |
 | [未名补神药实服，精窍养神与真气始终巅峰](early-v03-unnamed-spiritmedicine-actualuse-orifice-recovery-qi-peak.md) | 第三卷第229章历史归属回补 |
 | [玄武佩给了何参商：承诺让交，孟尚未实收](early-v03-Xuanwu-with-HeCanshang-lovegift-promised-notreceived.md) | 第三卷第229章历史归属回补 |
 | [悟雷真因获印证，取物增强鬼为假，母女信疑共存](early-v03-Huangfu-selfderived-Thunder-firstcause-falseprobe-hope-doubt.md) | 第三卷第229章历史归属回补 |
