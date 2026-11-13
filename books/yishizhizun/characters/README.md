@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [雷言后死、一刀九人与两路伏：战果分时入账](early-v03-roofdeath-onecut9-twoambush-kills-no-loot.md) | 第三卷第224章历史归属回补 |
+| [清源的夸张身世：虚构与秘密边界](early-v03-Qingyuan-fake-cliff-Ganoderma-story-privacy.md) | 第三卷第224章历史归属回补 |
+| [夜行抢消息差，皇甫菲撤庄方案尚未执行](early-v03-night-breakthrough-information-delay-Fei-evacuation-pending.md) | 第三卷第224章历史归属回补 |
 | [红线与神驼：报恩赴聚神，决心尚非死亡](early-v03-Hongxian-Shentuo-gratitude-Jushen-volunteers.md) | 第三卷第223章历史归属回补 |
 | [文其昌、池峰与小女：逃者也有惧与羞](early-v03-WenQichang-ChiFeng-fleeing-family-shame-anger.md) | 第三卷第223章历史归属回补 |
 | [清源假道号与月乡屋顶声：雷言实落人，未证杀](early-v03-localQingyuan-alias-Moon-roofvoice-Leiyan-fall-notdeath.md) | 第三卷第223章历史归属回补 |
