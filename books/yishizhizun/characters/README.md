@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [元始受传：开窍与三式外景真意已领，法身权限未开](early-v03-Yuanshi-opening-threeOuter-trueintent-actuallyreceived.md) | 第三卷第221章历史归属回补 |
+| [身份物件实领：半扣、新仙游符、元始面具与水合服](early-v03-Xianji-halfbuckle-newXianyoufu-Yuanshimask-robe.md) | 第三卷第221章历史归属回补 |
+| [仙迹坊与斗姆初见：私报组织名，首任务未选](early-v03-Xianji-market-Doumu-role-private-humanunknown.md) | 第三卷第221章历史归属回补 |
 | [称号空缺与传闻边界：青帝、太乙、药师不提前合证](early-v03-title-vacancy-fate-Qingdi-Taiyi-Yaoshi-rumor-boundary.md) | 第三卷第220章历史归属回补 |
 | [表层翻天的出处与库藏上限](early-v03-Qingyuan-Bajiu-surface-Fantian-origin-library-limits.md) | 第三卷第220章历史归属回补 |
 | [宣布元始天尊：称号已选，功法尚未领取](early-v03-Meng-Yuanshi-title-declared-not-deity-or-artreceived.md) | 第三卷第220章历史归属回补 |
