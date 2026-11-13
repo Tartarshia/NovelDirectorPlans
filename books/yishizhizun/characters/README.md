@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [第七徒钟宁投月：七刀七发，活着让路](early-v03-ZhongNing-seventh-defection-seven-cuts-seven-hairs.md) | 第三卷第226章历史归属回补 |
+| [皇甫菲与母亲：从牺牲保庄到意动，决定未落](early-v03-HuangfuFei-mother-inheritance-choice-stillpending.md) | 第三卷第226章历史归属回补 |
+| [门口超常信任与迎队实至：不填术名，不提前判胜](early-v03-frontgate-unnamed-trust-Qingxue-Chimei-actualarrival.md) | 第三卷第226章历史归属回补 |
 | [月乡敌谱：两半外、两超九与八将资料](early-v03-Moon-fourprotectors-eightgenerals-reported-roster.md) | 第三卷第225章历史归属回补 |
 | [白斩龙被杀后辨名：复合刀法尚差一步](early-v03-BaiZhanlong-compositeblade-dead-identified-afterward.md) | 第三卷第225章历史归属回补 |
 | [晨到聚神庄：提前迎亲与尚待询问的意愿](early-v03-Jushen-morning-arrival-earlywedding-Fei-will-unasked.md) | 第三卷第225章历史归属回补 |
