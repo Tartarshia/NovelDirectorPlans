@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [金眼实际合眉与正九式：齐仍七窍](early-v03-Qi-eye-actual-used-nine-reorder60percent-not8.md) | 第三卷第218章历史归属回补 |
+| [阮换护符与江双派剑招：只正九式不补十三](early-v03-Ruan-newBiluo-Sendgui-Jiang-twofaction-purchases-cash.md) | 第三卷第218章历史归属回补 |
+| [下次大宁任务情报已买，物品候选尚未买](early-v03-nextmission-info400-DuHuaishang-ZuoHanfeng-candidates-only.md) | 第三卷第218章历史归属回补 |
 | [赵融队与实际新购：剑1800、牒2200、余100](early-v03-Zhao-integrates-Tianzi1800-Gongde2200-cash100-Yijin-declines.md) | 第三卷第217章历史归属回补 |
 | [易筋真正补正：旧九式三份免费与本人十三式分清](early-v03-Meng-Yijin-13-actuallycompleted-old9-freecopies-notfullshare.md) | 第三卷第217章历史归属回补 |
 | [新大还已买、金眼尚未买，后续计划不提前执行](early-v03-Meng-newDahuan-cash430-Qi-eye-catalogue-notbought.md) | 第三卷第217章历史归属回补 |
