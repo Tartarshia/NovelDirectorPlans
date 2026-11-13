@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [红线与神驼：报恩赴聚神，决心尚非死亡](early-v03-Hongxian-Shentuo-gratitude-Jushen-volunteers.md) | 第三卷第223章历史归属回补 |
+| [文其昌、池峰与小女：逃者也有惧与羞](early-v03-WenQichang-ChiFeng-fleeing-family-shame-anger.md) | 第三卷第223章历史归属回补 |
+| [清源假道号与月乡屋顶声：雷言实落人，未证杀](early-v03-localQingyuan-alias-Moon-roofvoice-Leiyan-fall-notdeath.md) | 第三卷第223章历史归属回补 |
 | [斗姆两句实口：境界今值仍为孟推](early-v03-Doumu-two-lines-currentrealm-Mengestimate.md) | 第三卷第222章历史归属回补 |
 | [北冥委托实接：秦卿为化名，青华果未领](early-v03-Beiming-rescue-accepted-Qinqing-alias-fruit-pending.md) | 第三卷第222章历史归属回补 |
 | [实付200启轮回符：夜庙落点与易筋首练](early-v03-actual200-extra-month-paperused-Jiuxiang-Yijin-firstpractice.md) | 第三卷第222章历史归属回补 |
