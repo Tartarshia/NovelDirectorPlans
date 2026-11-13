@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [吕见再述金离临别话：情事是猜，金家是误认](early-v03-JinLi-farewell-report-Lv-Jinfamily-misbelief-future-signal.md) | 第三卷第239章历史归属回补 |
+| [书箧藏天伤、流火配鞘：神秘高手与朝气书生同一伪装](early-v03-bookcase-Tianzhishang-Liuhuo-sheath-Bajiu-two-styles.md) | 第三卷第239章历史归属回补 |
+| [血珠耗一余二：残骨与陈府抬尸证词仍有边界](early-v03-bloodbead-oneused-bones-beggar-Chen-burial-lead.md) | 第三卷第239章历史归属回补 |
 | [吕见与吕火：七窍旧伤的悔不悔，少年向往江湖](early-v03-LvJian-LvHuo-winterinjury-regret-friendwarmth.md) | 第三卷第238章历史归属回补 |
 | [人榜第六实更新，榜上七窍是旧讯，前五是旁人评价](early-v03-Renbang6-public-stale7-real8-Lv-opinion-not-conspiracy.md) | 第三卷第238章历史归属回补 |
 | [文安青衫新面：吕见回忆金离最后雨夜，未证死](early-v03-Wenan-newQingpao-disguise-Lv-JinLi-lastvisit-report.md) | 第三卷第238章历史归属回补 |
