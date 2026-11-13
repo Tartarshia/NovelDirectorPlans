@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [五色原因未知：天命认真追理，戏问后万两未付](early-v03-Tianming-fivefate-causeunknown-logical-counter-no-fee.md) | 第三卷第241章历史归属回补 |
+| [戒杀自选道号：冷无恶意、否认金离，身世不追](early-v03-Jiesha-selfchosen-name-denies-JinLi-privacy-respected.md) | 第三卷第241章历史归属回补 |
+| [沈园现场不合吕报：高手仍在，白衣来客仅背影](early-v03-Shenyuan-trafficking-intelmismatch-unknown-whitewoman-back.md) | 第三卷第241章历史归属回补 |
 | [陈长庚承埋否杀：变天感应仍留演技例外](early-v03-Chen-burial-admitted-murder-denied-Biantian-judgment-limits.md) | 第三卷第240章历史归属回补 |
 | [烟花实际回讯：沈小姐拒婚未遂自杀，天命女冠另线](early-v03-Lv-actual-fireworksignal-Shenlady-Tianming-nun-twoleads.md) | 第三卷第240章历史归属回补 |
 | [初见天命：一万两未付，六类学说与五次报色惊跌](early-v03-Tianming-fee-unpaid-sixclasses-five-spoken-colors-fall.md) | 第三卷第240章历史归属回补 |
