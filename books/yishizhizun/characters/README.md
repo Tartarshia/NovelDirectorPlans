@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [赵融队与实际新购：剑1800、牒2200、余100](early-v03-Zhao-integrates-Tianzi1800-Gongde2200-cash100-Yijin-declines.md) | 第三卷第217章历史归属回补 |
+| [易筋真正补正：旧九式三份免费与本人十三式分清](early-v03-Meng-Yijin-13-actuallycompleted-old9-freecopies-notfullshare.md) | 第三卷第217章历史归属回补 |
+| [新大还已买、金眼尚未买，后续计划不提前执行](early-v03-Meng-newDahuan-cash430-Qi-eye-catalogue-notbought.md) | 第三卷第217章历史归属回补 |
 | [口头邀请成立，入会契、称号和功法仍待后续](early-v03-Xianji-oralinvite-unsiged-oldtalisman-no-title-artgift.md) | 第三卷第216章历史归属回补 |
 | [真正回归治疗与江九窍突破的后证](early-v03-actual-return-allhealed-Jiang9-lateproof-soul-sword.md) | 第三卷第216章历史归属回补 |
 | [实结算：叶非现金、八物5000五人平分](early-v03-reward-draw-Leaf-unused-eightloot-sold-five-share.md) | 第三卷第216章历史归属回补 |
