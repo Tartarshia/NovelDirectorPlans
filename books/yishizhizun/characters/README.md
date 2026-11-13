@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [王载故友重逢：半年前熟稔，地方宴嘉宾已应](early-v03-WangZai-reunion-localbanquet-guestacceptance-not-Xingyun.md) | 第三卷第247章历史归属回补 |
+| [顾小桑与齐正言身份牌：验真物，不自动验真救援](early-v03-Gu-Qi-authentic-token-rescue-claim-unverified.md) | 第三卷第247章历史归属回补 |
+| [逆时生女的笑转折：顾明确说骗你，未来仍未知](early-v03-Gu-futurechild-story-explicitly-withdrawn-Meng-imagining.md) | 第三卷第247章历史归属回补 |
 | [天秀小舟：孟真随和也爱夸，木片小报复的笑点](early-v03-Tianxiu-boatman-Meng-warmth-vanity-playful-prank.md) | 第三卷第246章历史归属回补 |
 | [严冲与狂刀相认：平起平坐的庄见，浪拍醉船非决斗](early-v03-YanChong-mutual-recognition-riverwave-not-duel.md) | 第三卷第246章历史归属回补 |
 | [顾小桑与红袄女孩：爹是真的叫，亲缘未证](early-v03-Gu-redcoatgirl-Dad-call-parentage-unknown.md) | 第三卷第246章历史归属回补 |
