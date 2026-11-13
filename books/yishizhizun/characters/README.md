@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [陈长庚承埋否杀：变天感应仍留演技例外](early-v03-Chen-burial-admitted-murder-denied-Biantian-judgment-limits.md) | 第三卷第240章历史归属回补 |
+| [烟花实际回讯：沈小姐拒婚未遂自杀，天命女冠另线](early-v03-Lv-actual-fireworksignal-Shenlady-Tianming-nun-twoleads.md) | 第三卷第240章历史归属回补 |
+| [初见天命：一万两未付，六类学说与五次报色惊跌](early-v03-Tianming-fee-unpaid-sixclasses-five-spoken-colors-fall.md) | 第三卷第240章历史归属回补 |
 | [吕见再述金离临别话：情事是猜，金家是误认](early-v03-JinLi-farewell-report-Lv-Jinfamily-misbelief-future-signal.md) | 第三卷第239章历史归属回补 |
 | [书箧藏天伤、流火配鞘：神秘高手与朝气书生同一伪装](early-v03-bookcase-Tianzhishang-Liuhuo-sheath-Bajiu-two-styles.md) | 第三卷第239章历史归属回补 |
 | [血珠耗一余二：残骨与陈府抬尸证词仍有边界](early-v03-bloodbead-oneused-bones-beggar-Chen-burial-lead.md) | 第三卷第239章历史归属回补 |
