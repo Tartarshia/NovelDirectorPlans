@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [不动金莲首次明确实用：挡初入半外而轻内伤](early-v03-BudongJinlian-actually-used-mildinnerinjury-not-invincible.md) | 第三卷第243章历史归属回补 |
+| [半妖婴儿触发假死推理，白衣认出旧天海源小狐](early-v03-halfyao-baby-fakecorpse-reconstruction-oldfox-recognized.md) | 第三卷第243章历史归属回补 |
+| [双虚招撤窗与暗追：气盛神疲，观近威胁感止](early-v03-two-feints-escape-unseenOuter-pursuit-Tianming-near.md) | 第三卷第243章历史归属回补 |
 | [未名丫环求救：记忆中的拐卖与芍药遇害，密报尚是计划](early-v03-foodbox-maid-memory-trafficking-murder-SixDoors-report-plan.md) | 第三卷第242章历史归属回补 |
 | [沈若璇的双亡说：口供与热炭破绽并存](early-v03-ShenRuoxuan-false-mutualdeath-story-charcoal-baby-clue.md) | 第三卷第242章历史归属回补 |
 | [金离活体半外突袭：婴应同族血、第二珠耗后余一](early-v03-JinLi-alive-HalfOuter-baby-sameblood-secondbead.md) | 第三卷第242章历史归属回补 |
