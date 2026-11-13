@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [五百善功实补全：卖镖部分药，完整真意仍待熟练](early-v03-Thunder-completion500-paid-TianyaDart-sold-initialskin.md) | 第三卷第237章历史归属回补 |
+| [青华果首次实领；金离查探已接、报酬未得](early-v03-Qinghua-fruit-actuallyreceived-JinLi-quest-accepted-pending.md) | 第三卷第237章历史归属回补 |
+| [消息屋看旧战与兴云：突破动机是猜，红帖实际到手](early-v03-messagehouse-HeJiu-guess-bladepolicy-actualXingyuninvite.md) | 第三卷第237章历史归属回补 |
 | [变天明确使用的条件：逐步扰心，郁仍能挣脱](early-v03-Biantian-actual-conditioned-priming-Yu-breaks-memory.md) | 第三卷第236章历史归属回补 |
 | [天地倒倾抢救援空隙：郁未及杀招，秦被封穴带走](early-v03-Tiandi-palm-rescue-window-Yu-alive-Qinqing-sealed.md) | 第三卷第236章历史归属回补 |
 | [北冥实际回归：解秦穴抛出，孟青光机制待明](early-v03-Beiming-actual-return-Qinqing-unsealed-M-greenlight-unspecified.md) | 第三卷第236章历史归属回补 |
