@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [母女密传：资源、指教与保住帮手，孟并未听见](early-v03-private-Motherdaughter-transmission-resources-guidance.md) | 第三卷第232章历史归属回补 |
+| [互参雷法意向已答，实际授法仍待脱困](early-v03-Thunder-mutual-guidance-agreed-intent-not-transmission.md) | 第三卷第232章历史归属回补 |
+| [弃车遮痕后毁林逼近：喘息仍非脱险](early-v03-cart-abandoned-tracecover-forest-destruction-blindspot.md) | 第三卷第232章历史归属回补 |
 | [四马雪车真离庄：忠徒缺席佐证，洗月信已发](early-v03-four-snowhorse-cart-actualexit-message-sent-missingallies.md) | 第三卷第231章历史归属回补 |
 | [六扇门药实服伤已复，入微察不到也可能有跟踪](early-v03-SixDoors-medicine-actualhealed-Ruwei-hiddenHalf-limit.md) | 第三卷第231章历史归属回补 |
 | [空中转向双火真伤：青血活着止追，闻被救](early-v03-airturn-real-fire-sword-Qingxue-severeinner-alive-Grescued.md) | 第三卷第231章历史归属回补 |
