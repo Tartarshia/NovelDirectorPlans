@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [吕见与吕火：七窍旧伤的悔不悔，少年向往江湖](early-v03-LvJian-LvHuo-winterinjury-regret-friendwarmth.md) | 第三卷第238章历史归属回补 |
+| [人榜第六实更新，榜上七窍是旧讯，前五是旁人评价](early-v03-Renbang6-public-stale7-real8-Lv-opinion-not-conspiracy.md) | 第三卷第238章历史归属回补 |
+| [文安青衫新面：吕见回忆金离最后雨夜，未证死](early-v03-Wenan-newQingpao-disguise-Lv-JinLi-lastvisit-report.md) | 第三卷第238章历史归属回补 |
 | [五百善功实补全：卖镖部分药，完整真意仍待熟练](early-v03-Thunder-completion500-paid-TianyaDart-sold-initialskin.md) | 第三卷第237章历史归属回补 |
 | [青华果首次实领；金离查探已接、报酬未得](early-v03-Qinghua-fruit-actuallyreceived-JinLi-quest-accepted-pending.md) | 第三卷第237章历史归属回补 |
 | [消息屋看旧战与兴云：突破动机是猜，红帖实际到手](early-v03-messagehouse-HeJiu-guess-bladepolicy-actualXingyuninvite.md) | 第三卷第237章历史归属回补 |
