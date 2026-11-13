@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四马雪车真离庄：忠徒缺席佐证，洗月信已发](early-v03-four-snowhorse-cart-actualexit-message-sent-missingallies.md) | 第三卷第231章历史归属回补 |
+| [六扇门药实服伤已复，入微察不到也可能有跟踪](early-v03-SixDoors-medicine-actualhealed-Ruwei-hiddenHalf-limit.md) | 第三卷第231章历史归属回补 |
+| [空中转向双火真伤：青血活着止追，闻被救](early-v03-airturn-real-fire-sword-Qingxue-severeinner-alive-Grescued.md) | 第三卷第231章历史归属回补 |
 | [两本已毁，母女各记；三封信已有，忠棋尚待察](early-v03-two-books-destroyed-memories-threeletters-trust-check.md) | 第三卷第230章历史归属回补 |
 | [近复后再新伤：右袖毁，金光黯而未破](early-v03-nearly-restored-then-newinjury-sleeve-gold-stillactive.md) | 第三卷第230章历史归属回补 |
 | [告祭换路线，活新郎已挟持，雪车仍待供](early-v03-ancestor-cover-route-living-groom-hostage-carriage-request.md) | 第三卷第230章历史归属回补 |
