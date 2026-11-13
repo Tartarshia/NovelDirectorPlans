@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [陆大专注到自然入微：八窍中迈第一道门](early-v03-natural-Ruwei-LuDa-focus-firstdoor-not-contact.md) | 第三卷第228章历史归属回补 |
+| [两假一真：松刀、空剑、借力接刀与真九雷](early-v03-two-fake-auras-one-real-nineThunder-weapon-retained.md) | 第三卷第228章历史归属回补 |
+| [正面败正常半步：青血仍活，孟已流血精神枯](early-v03-Qingxue-normalHalfOuter-defeated-alive-Meng-empty.md) | 第三卷第228章历史归属回补 |
 | [婚俗考校换逐战：规矩服务救人，群攻风险仍在](early-v03-wedding-proxyduel-rules-face-avoid-groupattack.md) | 第三卷第227章历史归属回补 |
 | [皇甫旧信物展示：六铭雷佩不是玄武佩](early-v03-oldHuangfu-jadeproof-notXuanwu-notnewarts.md) | 第三卷第227章历史归属回补 |
 | [赤眉刀王真交感：主动谨慎，退五步伤未死](early-v03-Chimei-contact-proxyduel-loses-five-steps-alive.md) | 第三卷第227章历史归属回补 |
