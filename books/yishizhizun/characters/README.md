@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾警告与孟权衡：实际搬兴云，齐仍未见](early-v03-Gu-warning-weighed-actual-Xingyun-move-Qi-unmet.md) | 第三卷第248章历史归属回补 |
+| [初见何九：平述战绩的气度与能接笑话](early-v03-HeJiu-firstmeeting-neckbandage-Wolfbattle-report.md) | 第三卷第248章历史归属回补 |
+| [八九前阴再开：八窍追平，金钟九窍仍未来](early-v03-Bajiu-frontyin-actual-eight-Yijin-precision-localguest.md) | 第三卷第248章历史归属回补 |
 | [王载故友重逢：半年前熟稔，地方宴嘉宾已应](early-v03-WangZai-reunion-localbanquet-guestacceptance-not-Xingyun.md) | 第三卷第247章历史归属回补 |
 | [顾小桑与齐正言身份牌：验真物，不自动验真救援](early-v03-Gu-Qi-authentic-token-rescue-claim-unverified.md) | 第三卷第247章历史归属回补 |
 | [逆时生女的笑转折：顾明确说骗你，未来仍未知](early-v03-Gu-futurechild-story-explicitly-withdrawn-Meng-imagining.md) | 第三卷第247章历史归属回补 |
