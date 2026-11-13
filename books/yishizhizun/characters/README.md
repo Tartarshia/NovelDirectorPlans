@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [合一暂境与劈柴开隙：耗神未舍身，双洞脱战狼未死](early-v03-temporary-HeYi-Wolf-qi-Budong-cost-axegap-escape.md) | 第三卷第245章历史归属回补 |
+| [劈柴斩心的私谈：抢丹是狼说，教导关系未定亲属](early-v03-Wolf-Jiesha-private-teaching-bond-audience-not-Mknowledge.md) | 第三卷第245章历史归属回补 |
+| [结案选代炼：1100加320买1300余120，芥子环未到](early-v03-JinLi-case-complete-craftchoice-stone1300-balance120-ringpending.md) | 第三卷第245章历史归属回补 |
 | [右天地倒倾杀蛇、左玉拳杀虎，三妖材料一丹未售](early-v03-twoYao-actualkills-threematerials-one-dan-not-sold.md) | 第三卷第244章历史归属回补 |
 | [戒杀犯戒波动与天命夜察：沈贾一房逃，报官出发](early-v03-Jiesha-killjoy-selfdisgust-Tianming-escape-report-departure.md) | 第三卷第244章历史归属回补 |
 | [狼王铁升暗袭：将开未开的眉玄，入微金莲自然应敌](early-v03-WolfTiesheng-darkambush-brow-not-open-Ruwei-Budong.md) | 第三卷第244章历史归属回补 |
