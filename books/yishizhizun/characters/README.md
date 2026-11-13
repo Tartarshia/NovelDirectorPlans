@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [一月互参：开窍篇大成、天地倒倾八成，两式未成](early-v03-month-mutual-training-Yuxu-opening-Dacheng-Tiandi80.md) | 第三卷第234章历史归属回补 |
+| [天打五雷轰近完整：演示超九霄，尚差凝为一招](early-v03-Thunder-nearly-complete-not-condensed-price-selfestimate.md) | 第三卷第234章历史归属回补 |
+| [玄武佩实到手：古声与六道分开，无忧谷第三步未完成](early-v03-Xuanwu-actually-received-unknown-sigh-SixPaths-step3.md) | 第三卷第234章历史归属回补 |
 | [障目叶终于实耗：三人被罩、效果消失，范围原文不同](early-v03-Leaf-actuallyused-once-expired-three-four-range-difference.md) | 第三卷第233章历史归属回补 |
 | [听毁林规律逃到林外侧洞：没打败洗月，等候才离](early-v03-Xiyue-pattern-escape-sidecave-forest-gone-waitdaynight.md) | 第三卷第233章历史归属回补 |
 | [华远暗记：夏烟云内奸通报，普通院暂住与开口求教](early-v03-Huayuan-XiaYanyun-spy-mark-rental-guidance-start.md) | 第三卷第233章历史归属回补 |
