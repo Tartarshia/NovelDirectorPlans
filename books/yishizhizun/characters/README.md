@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [婚俗考校换逐战：规矩服务救人，群攻风险仍在](early-v03-wedding-proxyduel-rules-face-avoid-groupattack.md) | 第三卷第227章历史归属回补 |
+| [皇甫旧信物展示：六铭雷佩不是玄武佩](early-v03-oldHuangfu-jadeproof-notXuanwu-notnewarts.md) | 第三卷第227章历史归属回补 |
+| [赤眉刀王真交感：主动谨慎，退五步伤未死](early-v03-Chimei-contact-proxyduel-loses-five-steps-alive.md) | 第三卷第227章历史归属回补 |
 | [第七徒钟宁投月：七刀七发，活着让路](early-v03-ZhongNing-seventh-defection-seven-cuts-seven-hairs.md) | 第三卷第226章历史归属回补 |
 | [皇甫菲与母亲：从牺牲保庄到意动，决定未落](early-v03-HuangfuFei-mother-inheritance-choice-stillpending.md) | 第三卷第226章历史归属回补 |
 | [门口超常信任与迎队实至：不填术名，不提前判胜](early-v03-frontgate-unnamed-trust-Qingxue-Chimei-actualarrival.md) | 第三卷第226章历史归属回补 |
