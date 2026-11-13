@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [天秀小舟：孟真随和也爱夸，木片小报复的笑点](early-v03-Tianxiu-boatman-Meng-warmth-vanity-playful-prank.md) | 第三卷第246章历史归属回补 |
+| [严冲与狂刀相认：平起平坐的庄见，浪拍醉船非决斗](early-v03-YanChong-mutual-recognition-riverwave-not-duel.md) | 第三卷第246章历史归属回补 |
+| [顾小桑与红袄女孩：爹是真的叫，亲缘未证](early-v03-Gu-redcoatgirl-Dad-call-parentage-unknown.md) | 第三卷第246章历史归属回补 |
 | [合一暂境与劈柴开隙：耗神未舍身，双洞脱战狼未死](early-v03-temporary-HeYi-Wolf-qi-Budong-cost-axegap-escape.md) | 第三卷第245章历史归属回补 |
 | [劈柴斩心的私谈：抢丹是狼说，教导关系未定亲属](early-v03-Wolf-Jiesha-private-teaching-bond-audience-not-Mknowledge.md) | 第三卷第245章历史归属回补 |
 | [结案选代炼：1100加320买1300余120，芥子环未到](early-v03-JinLi-case-complete-craftchoice-stone1300-balance120-ringpending.md) | 第三卷第245章历史归属回补 |
