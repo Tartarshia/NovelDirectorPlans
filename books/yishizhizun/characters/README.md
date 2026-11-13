@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [月乡敌谱：两半外、两超九与八将资料](early-v03-Moon-fourprotectors-eightgenerals-reported-roster.md) | 第三卷第225章历史归属回补 |
+| [白斩龙被杀后辨名：复合刀法尚差一步](early-v03-BaiZhanlong-compositeblade-dead-identified-afterward.md) | 第三卷第225章历史归属回补 |
+| [晨到聚神庄：提前迎亲与尚待询问的意愿](early-v03-Jushen-morning-arrival-earlywedding-Fei-will-unasked.md) | 第三卷第225章历史归属回补 |
 | [雷言后死、一刀九人与两路伏：战果分时入账](early-v03-roofdeath-onecut9-twoambush-kills-no-loot.md) | 第三卷第224章历史归属回补 |
 | [清源的夸张身世：虚构与秘密边界](early-v03-Qingyuan-fake-cliff-Ganoderma-story-privacy.md) | 第三卷第224章历史归属回补 |
 | [夜行抢消息差，皇甫菲撤庄方案尚未执行](early-v03-night-breakthrough-information-delay-Fei-evacuation-pending.md) | 第三卷第224章历史归属回补 |
