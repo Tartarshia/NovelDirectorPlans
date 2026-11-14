@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐正言的证词：顾确曾解围，七窍重伤尚未全复](early-v03-Qi-rescue-testimony-CifuTianguan-seven-injury-partial.md) | 第三卷第250章历史归属回补 |
+| [顾能听密语：境界未揭、外景威胁只是估计](early-v03-Gu-secret-overhearing-Outer-threat-prediction-plans.md) | 第三卷第250章历史归属回补 |
+| [常辉半师礼与应少卓挑战：指导能力带来的新局面](early-v03-Chang-halfteacher-gratitude-YingShaozhuo-eight-challenge.md) | 第三卷第250章历史归属回补 |
 | [米子敬与楚云羽：地方主事、十九嘉宾与客气的误读](early-v03-MiZijing-ChuYunyu-localroles-ranks-courtesy.md) | 第三卷第249章历史归属回补 |
 | [宋绝与严冲：不是一招破敌，而是发现长期训练盲点](early-v03-SongJue-YanChong-leftteacher-rightbias-correction.md) | 第三卷第249章历史归属回补 |
 | [常辉五招：孟的指导能力由复演验证](early-v03-ChangHui-fiverepairs-handdemo-actual-improvement.md) | 第三卷第249章历史归属回补 |
