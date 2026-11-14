@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [香火佛势：联合的元神与破戒的针对性](early-v03-five-monks-vowBuddha-mental-link-disruption.md) | 第三卷第260章历史归属回补 |
+| [雷罚五义催宝兵：主动隐去法身真意](early-v03-Meng-Thunder-fiveessences-weapon-NOfullfashen.md) | 第三卷第260章历史归属回补 |
+| [十七招胜五僧：借力、指封与刀背留命](early-v03-Meng-seventeen-win-five-monks-alive-no-bet.md) | 第三卷第260章历史归属回补 |
 | [刚十八的自信：不赌，却自愿挑战](early-v03-Meng-age18-autonomy-bet-CANCELED-free-challenge.md) | 第三卷第259章历史归属回补 |
 | [五僧联气：一体合一状态，不是五人各晋半步](early-v03-five-Jingtu-monks-jointqi-HEyi-chant-mechanism.md) | 第三卷第259章历史归属回补 |
 | [借卸出围与凌空红尘刀：本章未分胜负](early-v03-Meng-five-monks-borrowescape-midair-redDust-unresolved.md) | 第三卷第259章历史归属回补 |
