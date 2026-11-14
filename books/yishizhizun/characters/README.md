@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [破关后的所得：百丈范围在253才明确](early-v03-Bai-breakthrough-aftermath-100zhang-late-evidence-path.md) | 第三卷第253章历史归属回补 |
+| [米宅偏院的四人：家族身份与无名侍从](early-v03-MiZiting-BaiWenyuan-JinPrince-attendant-introductions.md) | 第三卷第253章历史归属回补 |
+| [晋亲王赵毅：第三皇子与四位江湖人的不同姿态](early-v03-ZhaoYi-JinPrince-third-Meng-imperial-distance.md) | 第三卷第253章历史归属回补 |
 | [白怜香与米子敬：姨甥实明，迁祖仍活只是传闻](early-v03-BaiLianxiang-Mi-maternalaunt-biography-rumor-boundary.md) | 第三卷第252章历史归属回补 |
 | [白七姑邀双刀破关：气机雷雨与突破层级分开](early-v03-Bai-jointpressure-browbreak-weather-not-Outer-control.md) | 第三卷第252章历史归属回补 |
 | [孟严共同猜何九：由破关经验形成的假设](early-v03-Meng-Yan-shared-He-manyopponents-hypothesis-not-announced.md) | 第三卷第252章历史归属回补 |
