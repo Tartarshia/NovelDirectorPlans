@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [外戚关系与处世性格：圆滑也能是强者](early-v03-Mi-royalcousin-Chu-smoothness-origin-Yan-fairness.md) | 第三卷第254章历史归属回补 |
+| [米宅遇刺：双刀先救，冯公公擒活](early-v03-sworddancer-assassination-MengYan-rescue-Feng-livecapture.md) | 第三卷第254章历史归属回补 |
+| [不上不下的刺客：疑点未能指认主使](early-v03-assassin-level-puzzle-royal-reports-not-mastermindproof.md) | 第三卷第254章历史归属回补 |
 | [破关后的所得：百丈范围在253才明确](early-v03-Bai-breakthrough-aftermath-100zhang-late-evidence-path.md) | 第三卷第253章历史归属回补 |
 | [米宅偏院的四人：家族身份与无名侍从](early-v03-MiZiting-BaiWenyuan-JinPrince-attendant-introductions.md) | 第三卷第253章历史归属回补 |
 | [晋亲王赵毅：第三皇子与四位江湖人的不同姿态](early-v03-ZhaoYi-JinPrince-third-Meng-imperial-distance.md) | 第三卷第253章历史归属回补 |
