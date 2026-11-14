@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [刚十八的自信：不赌，却自愿挑战](early-v03-Meng-age18-autonomy-bet-CANCELED-free-challenge.md) | 第三卷第259章历史归属回补 |
+| [五僧联气：一体合一状态，不是五人各晋半步](early-v03-five-Jingtu-monks-jointqi-HEyi-chant-mechanism.md) | 第三卷第259章历史归属回补 |
+| [借卸出围与凌空红尘刀：本章未分胜负](early-v03-Meng-five-monks-borrowescape-midair-redDust-unresolved.md) | 第三卷第259章历史归属回补 |
 | [江芷微的坦然：误会避寺，却愿直接认错](early-v03-Jiang-candid-misunderstanding-temple-avoidance-politics.md) | 第三卷第258章历史归属回补 |
 | [太子赵谦与华严：有说服力的大愿，尚不等于真成效](early-v03-ZhaoQian-LiangCrown-HuaYan-salvation-power-vow.md) | 第三卷第258章历史归属回补 |
 | [五僧二十招：赌约处于提案阶段](early-v03-Crown-five-monks-twenty-moves-bet-proposal-NOTaccepted.md) | 第三卷第258章历史归属回补 |
