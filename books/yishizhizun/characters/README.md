@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江芷微抵郢：九窍洒然，与孟的通报有先后](early-v03-Jiang-Yingarrival-nine-gated-secret-rescue-disclosure.md) | 第三卷第257章历史归属回补 |
+| [三人围猎的实际结果：王加入，狼已离开](early-v03-Meng-Jiang-Wang-hunt-actual-emptyhouse-not-betrayal.md) | 第三卷第257章历史归属回补 |
+| [狼与西王母私谈：救出与给药，目标仍未名](early-v03-Wolf-Xiwangmu-private-rescue-redpill-held-target-unknown.md) | 第三卷第257章历史归属回补 |
 | [孟奇的狠：刀背震死副舵，求饶并未阻止杀戮](early-v03-Meng-beggars-deputy-bladeback-death-pleaders-killed.md) | 第三卷第256章历史归属回补 |
 | [伤客只是线索，解锁救人是真：别把狼王猜测写成口供](early-v03-wounded-friend-Wolf-guess-captives-actually-unlocked.md) | 第三卷第256章历史归属回补 |
 | [玄真：戒杀分歧与不强人所难的边界](early-v03-XuanZhen-FoxinPalm-noncoercion-escort-accepted.md) | 第三卷第256章历史归属回补 |
