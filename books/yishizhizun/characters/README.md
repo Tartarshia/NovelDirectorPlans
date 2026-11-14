@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [郢城旧都：江的史学讲述与孟的知识缺口](early-v03-Ying-Kang-Han-oldcapital-Jiang-history-Meng-gap.md) | 第三卷第261章历史归属回补 |
+| [卧心王思远：早到、隐势与苏家披露](early-v03-WangSiyuan-Woxin-earlyarrival-Sufamily-Jfirstknows.md) | 第三卷第261章历史归属回补 |
+| [念雪近耳叫爹：转话的笑点与未知幕后](early-v03-NianXue-nearear-Dad-unnamedgirl-report-NOkinship.md) | 第三卷第261章历史归属回补 |
 | [香火佛势：联合的元神与破戒的针对性](early-v03-five-monks-vowBuddha-mental-link-disruption.md) | 第三卷第260章历史归属回补 |
 | [雷罚五义催宝兵：主动隐去法身真意](early-v03-Meng-Thunder-fiveessences-weapon-NOfullfashen.md) | 第三卷第260章历史归属回补 |
 | [十七招胜五僧：借力、指封与刀背留命](early-v03-Meng-seventeen-win-five-monks-alive-no-bet.md) | 第三卷第260章历史归属回补 |
