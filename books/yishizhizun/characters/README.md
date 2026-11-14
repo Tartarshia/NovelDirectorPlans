@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [应少卓选孟：秘传自述与错误的比武算盘](early-v03-YingShaozhuo-choice-garden-report-wrong-scoring.md) | 第三卷第251章历史归属回补 |
+| [孟奇一刀胜：时机、速度与力量，胜而止手](early-v03-Meng-onecut-timing-speedforce-nonfatal-Yingwin.md) | 第三卷第251章历史归属回补 |
+| [白七姑入场：自称四十三，境界尚待揭明](early-v03-BaiQigu-arrival-age43-hypothetical-realm-unrevealed.md) | 第三卷第251章历史归属回补 |
 | [齐正言的证词：顾确曾解围，七窍重伤尚未全复](early-v03-Qi-rescue-testimony-CifuTianguan-seven-injury-partial.md) | 第三卷第250章历史归属回补 |
 | [顾能听密语：境界未揭、外景威胁只是估计](early-v03-Gu-secret-overhearing-Outer-threat-prediction-plans.md) | 第三卷第250章历史归属回补 |
 | [常辉半师礼与应少卓挑战：指导能力带来的新局面](early-v03-Chang-halfteacher-gratitude-YingShaozhuo-eight-challenge.md) | 第三卷第250章历史归属回补 |
