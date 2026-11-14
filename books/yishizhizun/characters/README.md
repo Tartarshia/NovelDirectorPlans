@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [耳力听见之后：王载会自纠，四女配对明示](early-v03-Xiuyue-Dad-overheard-Wang-corrects-4women-pairs.md) | 第三卷第262章历史归属回补 |
+| [怪客线索：念雪证言与孟的老钟推认](early-v03-NianXue-customer-report-Meng-Zhong-inference-two-months.md) | 第三卷第262章历史归属回补 |
+| [前康四说：藏宝、龙台、幼子与联邪仍是传闻](early-v03-Kang-Aidi-four-rumors-NOsword-found-unknownheirs.md) | 第三卷第262章历史归属回补 |
 | [郢城旧都：江的史学讲述与孟的知识缺口](early-v03-Ying-Kang-Han-oldcapital-Jiang-history-Meng-gap.md) | 第三卷第261章历史归属回补 |
 | [卧心王思远：早到、隐势与苏家披露](early-v03-WangSiyuan-Woxin-earlyarrival-Sufamily-Jfirstknows.md) | 第三卷第261章历史归属回补 |
 | [念雪近耳叫爹：转话的笑点与未知幕后](early-v03-NianXue-nearear-Dad-unnamedgirl-report-NOkinship.md) | 第三卷第261章历史归属回补 |
