@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [白怜香与米子敬：姨甥实明，迁祖仍活只是传闻](early-v03-BaiLianxiang-Mi-maternalaunt-biography-rumor-boundary.md) | 第三卷第252章历史归属回补 |
+| [白七姑邀双刀破关：气机雷雨与突破层级分开](early-v03-Bai-jointpressure-browbreak-weather-not-Outer-control.md) | 第三卷第252章历史归属回补 |
+| [孟严共同猜何九：由破关经验形成的假设](early-v03-Meng-Yan-shared-He-manyopponents-hypothesis-not-announced.md) | 第三卷第252章历史归属回补 |
 | [应少卓选孟：秘传自述与错误的比武算盘](early-v03-YingShaozhuo-choice-garden-report-wrong-scoring.md) | 第三卷第251章历史归属回补 |
 | [孟奇一刀胜：时机、速度与力量，胜而止手](early-v03-Meng-onecut-timing-speedforce-nonfatal-Yingwin.md) | 第三卷第251章历史归属回补 |
 | [白七姑入场：自称四十三，境界尚待揭明](early-v03-BaiQigu-arrival-age43-hypothetical-realm-unrevealed.md) | 第三卷第251章历史归属回补 |
