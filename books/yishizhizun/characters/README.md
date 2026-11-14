@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [直索人情：古名是实查，也是公开入衙的路径](early-v03-Mi-favor-ancientnames-publicroute-Baiquery-pending.md) | 第三卷第255章历史归属回补 |
+| [六扇门报告已递：与仍待找的无忧谷分开](early-v03-SixDoors-report-ACTUALLYdelivered-Shenhua-Wolf-Wuyou.md) | 第三卷第255章历史归属回补 |
+| [路见拐童：感知有限，侠心与戒备并存](early-v03-boy-abduction-beggar-denial-Meng-draws-no-rescueyet.md) | 第三卷第255章历史归属回补 |
 | [外戚关系与处世性格：圆滑也能是强者](early-v03-Mi-royalcousin-Chu-smoothness-origin-Yan-fairness.md) | 第三卷第254章历史归属回补 |
 | [米宅遇刺：双刀先救，冯公公擒活](early-v03-sworddancer-assassination-MengYan-rescue-Feng-livecapture.md) | 第三卷第254章历史归属回补 |
 | [不上不下的刺客：疑点未能指认主使](early-v03-assassin-level-puzzle-royal-reports-not-mastermindproof.md) | 第三卷第254章历史归属回补 |
