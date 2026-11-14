@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [流苏初会：青衣酒友、诗与借势](early-v03-LiuSu-Qinglian-wine-control-borrowwaves-NOOuter.md) | 第三卷第263章历史归属回补 |
+| [盗王司空图：失约者与五次平局](early-v03-SikongTu-halfOuter-FIVEold-draws-absent-guest.md) | 第三卷第263章历史归属回补 |
+| [警讯交付分层：江已告、齐仅托、匿名地址待验](early-v03-Jiang-warned-Hong-arrived-Qi-delegated-unknownletter.md) | 第三卷第263章历史归属回补 |
 | [耳力听见之后：王载会自纠，四女配对明示](early-v03-Xiuyue-Dad-overheard-Wang-corrects-4women-pairs.md) | 第三卷第262章历史归属回补 |
 | [怪客线索：念雪证言与孟的老钟推认](early-v03-NianXue-customer-report-Meng-Zhong-inference-two-months.md) | 第三卷第262章历史归属回补 |
 | [前康四说：藏宝、龙台、幼子与联邪仍是传闻](early-v03-Kang-Aidi-four-rumors-NOsword-found-unknownheirs.md) | 第三卷第262章历史归属回补 |
