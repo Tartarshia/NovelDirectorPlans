@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江芷微的坦然：误会避寺，却愿直接认错](early-v03-Jiang-candid-misunderstanding-temple-avoidance-politics.md) | 第三卷第258章历史归属回补 |
+| [太子赵谦与华严：有说服力的大愿，尚不等于真成效](early-v03-ZhaoQian-LiangCrown-HuaYan-salvation-power-vow.md) | 第三卷第258章历史归属回补 |
+| [五僧二十招：赌约处于提案阶段](early-v03-Crown-five-monks-twenty-moves-bet-proposal-NOTaccepted.md) | 第三卷第258章历史归属回补 |
 | [江芷微抵郢：九窍洒然，与孟的通报有先后](early-v03-Jiang-Yingarrival-nine-gated-secret-rescue-disclosure.md) | 第三卷第257章历史归属回补 |
 | [三人围猎的实际结果：王加入，狼已离开](early-v03-Meng-Jiang-Wang-hunt-actual-emptyhouse-not-betrayal.md) | 第三卷第257章历史归属回补 |
 | [狼与西王母私谈：救出与给药，目标仍未名](early-v03-Wolf-Xiwangmu-private-rescue-redpill-held-target-unknown.md) | 第三卷第257章历史归属回补 |
