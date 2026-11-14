@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [米子敬与楚云羽：地方主事、十九嘉宾与客气的误读](early-v03-MiZijing-ChuYunyu-localroles-ranks-courtesy.md) | 第三卷第249章历史归属回补 |
+| [宋绝与严冲：不是一招破敌，而是发现长期训练盲点](early-v03-SongJue-YanChong-leftteacher-rightbias-correction.md) | 第三卷第249章历史归属回补 |
+| [常辉五招：孟的指导能力由复演验证](early-v03-ChangHui-fiverepairs-handdemo-actual-improvement.md) | 第三卷第249章历史归属回补 |
 | [顾警告与孟权衡：实际搬兴云，齐仍未见](early-v03-Gu-warning-weighed-actual-Xingyun-move-Qi-unmet.md) | 第三卷第248章历史归属回补 |
 | [初见何九：平述战绩的气度与能接笑话](early-v03-HeJiu-firstmeeting-neckbandage-Wolfbattle-report.md) | 第三卷第248章历史归属回补 |
 | [八九前阴再开：八窍追平，金钟九窍仍未来](early-v03-Bajiu-frontyin-actual-eight-Yijin-precision-localguest.md) | 第三卷第248章历史归属回补 |
