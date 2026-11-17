@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [真龙台是湖：玺首次借持，剑仍目标](early-v03-TrueLongtai-lake-Seal-ACTUALtoGao-SwordGOAL.md) | 第三卷第274章历史归属回补 |
+| [三步半硬闯与借人道护行](early-v03-HumanDao-road-threehalfsteps-protection-NOrealmbreak.md) | 第三卷第274章历史归属回补 |
+| [古人残气与高览自限的典籍推断](early-v03-Ancient-residuals-Gao-reports-comparisons-UNCERTAIN.md) | 第三卷第274章历史归属回补 |
 | [高览首次报姓名：求名喜剧转沉静](early-v03-Gaolan-FIRSTname-image-comedy-then-silent-depth.md) | 第三卷第273章历史归属回补 |
 | [玺仍孟处，安郡报信有掩饰](early-v03-Seal-KEEPonMeng-NOcollateral-Anjun-actual-message.md) | 第三卷第273章历史归属回补 |
 | [双星耀世的报告与死亡传闻边界](early-v03-DoubleStars-manager-PUBLICdeathrumors-NOTconfirmed.md) | 第三卷第273章历史归属回补 |
