@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [狼左骨折活逃：飞仙只是架势](early-v03-Wolf-LEFTfracture-ALIVEescape-Meng-feigned-Feixian.md) | 第三卷第271章历史归属回补 |
+| [则罗居中原追杀：未知尸与果断恶意](early-v03-Zeluoju-real-Outer-cold-hunt-unknown-deadfighter.md) | 第三卷第271章历史归属回补 |
+| [顾小桑外景揭示：踏莲介入而非此刻晋升](early-v03-Gu-ALREADYOuter-revealed-lotus-intervention-NOmarriage.md) | 第三卷第271章历史归属回补 |
 | [宝兵认主与借合一：黑暗里的感官替换](early-v03-Meng-treasured-weapons-auto-protect-BORROWED-HeYi.md) | 第三卷第270章历史归属回补 |
 | [硬接的代价：真气尚足、实血伤与左肋断](early-v03-Meng-left-rib-fracture-qiample-Wolf-two-kills-GUESS.md) | 第三卷第270章历史归属回补 |
 | [舍身真五雷：完整法身招已用，狼迎刀未决](early-v03-Meng-ACTUAL-Sheshen-full-Fashen-Thunder-Wolf-resultOPEN.md) | 第三卷第270章历史归属回补 |
