@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [宝兵认主与借合一：黑暗里的感官替换](early-v03-Meng-treasured-weapons-auto-protect-BORROWED-HeYi.md) | 第三卷第270章历史归属回补 |
+| [硬接的代价：真气尚足、实血伤与左肋断](early-v03-Meng-left-rib-fracture-qiample-Wolf-two-kills-GUESS.md) | 第三卷第270章历史归属回补 |
+| [舍身真五雷：完整法身招已用，狼迎刀未决](early-v03-Meng-ACTUAL-Sheshen-full-Fashen-Thunder-Wolf-resultOPEN.md) | 第三卷第270章历史归属回补 |
 | [宴后别离：榜升两位与静修计划](early-v03-Jiang-rank-plus2-returnmountain-PLAN-Meng-retreat-notdone.md) | 第三卷第269章历史归属回补 |
 | [魏高得名与太子遭袭：读者所见的四面具](early-v03-Crown-WeiGao-four-masks-READERbattle-relic-survival.md) | 第三卷第269章历史归属回补 |
 | [庄空时的危机：一劫提醒与狼王疑问](early-v03-Meng-empty-manor-blackout-Wolf-QUESTION-unknowntrap.md) | 第三卷第269章历史归属回补 |
