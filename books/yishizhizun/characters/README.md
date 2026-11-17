@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四新人初错：能推理仍缺实战执行](early-v03-Newcomers-first-errors-logic-not-experience-poisoned.md) | 第三卷第279章历史归属回补 |
+| [笑导师的三错课：隔声不全程代管](early-v03-Mentor-three-errors-no-persistent-soundshield.md) | 第三卷第279章历史归属回补 |
+| [两袭者还活：眼门已消，非人是误认](early-v03-Inn-attackers-ALIVE-eye-weakpoint-GONE-notnonhuman.md) | 第三卷第279章历史归属回补 |
 | [制环奖实际到账，三鉴价无兑换](early-v03-Ring-ACTUALarrived-three-appraisals-NOexchange-120.md) | 第三卷第278章历史归属回补 |
 | [四新人初会：名字、外形、理想与境界](early-v03-FourNewcomers-Yuan-Min-Weng-Wu-first-states.md) | 第三卷第278章历史归属回补 |
 | [白衣引领演法与20善功的随口估价](early-v03-Guide-whitepersona-birthmark20-ESTIMATE-task-reported.md) | 第三卷第278章历史归属回补 |
