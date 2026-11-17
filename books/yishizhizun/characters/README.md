@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [真皇玺现物：真话介绍与随身谎言](early-v03-ZhenHuangXi-named-present-Sikong-carried-lie-revealed.md) | 第三卷第265章历史归属回补 |
+| [承因果已成，取秘术仍待：改约的边界](early-v03-Meng-causal-burden-actual-technique-wife-LATER.md) | 第三卷第265章历史归属回补 |
+| [笑看风云：好胜幻想与保命自制](early-v03-Meng-factionwar-fantasy-abandoned-Zhao5trade-PLAN.md) | 第三卷第265章历史归属回补 |
 | [乱坟谷新死者：五僧与无名酒鼻客](early-v03-five-monks-NEWdead-Mi-rednose-corpse-NOTSikong.md) | 第三卷第264章历史归属回补 |
 | [钱楷姓名与三援：认钉不等全案证实](early-v03-QianKai-Outer3-Meihuading-three-backups-searchfails.md) | 第三卷第264章历史归属回补 |
 | [司空图实遇：半身枯伤、无名妖女与待允提案](early-v03-SikongTu-ALIVE-halfbody-injury-unnamedwoman-offer-PENDING.md) | 第三卷第264章历史归属回补 |
