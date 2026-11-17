@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [双人九窍直外景：何雷劫、王借雷克阴火](early-v03-HeJiu-WangSiyuan-NINEdirectOuter-two-trials-SURVIVE.md) | 第三卷第268章历史归属回补 |
+| [护场与施压：洪潜提示、公羊误判、王锐拦意](early-v03-HongQian-GongYangHao-WangRuizhi-protection-misread.md) | 第三卷第268章历史归属回补 |
+| [八窍观双晋：羡嫉、好胜与没做的雷痕念头](early-v03-Meng-eight-envy-battlespirit-THUNDERthought-NOTused.md) | 第三卷第268章历史归属回补 |
 | [何九一敌四：逐次加人、无声眼邀与364穴](early-v03-HeJiu-four-sequential-opponents-364points-EXCEPTbrow.md) | 第三卷第267章历史归属回补 |
 | [玄真实战：须弥掌范围与般若小圆满](early-v03-XuanZhen-Xumi-range-Prajna-smallcomplete-HEyi.md) | 第三卷第267章历史归属回补 |
 | [孟奇第四入：简单刀的时机与精义组合](early-v03-Meng-basicblade-timing-essence-combination-NOnewrealm.md) | 第三卷第267章历史归属回补 |
