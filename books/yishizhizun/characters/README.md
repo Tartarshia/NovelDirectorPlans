@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [因果去断：勇气转向与尚待验证的少林推论](early-v03-Meng-causality-resolve-Ananda-Shaolin-monk-HYPOTHESES.md) | 第三卷第266章历史归属回补 |
+| [王思远知玺非算：未名委托者与大劫说法](early-v03-WangSiyuan-seal-NOTdivination-unknownpatron-Dajie-report.md) | 第三卷第266章历史归属回补 |
+| [除夕兴云正式宴：何九一挑四提案](early-v03-Xingyun-NEWyear-HeJiu-challenges-MengYanXuanLiu-NOfightyet.md) | 第三卷第266章历史归属回补 |
 | [真皇玺现物：真话介绍与随身谎言](early-v03-ZhenHuangXi-named-present-Sikong-carried-lie-revealed.md) | 第三卷第265章历史归属回补 |
 | [承因果已成，取秘术仍待：改约的边界](early-v03-Meng-causal-burden-actual-technique-wife-LATER.md) | 第三卷第265章历史归属回补 |
 | [笑看风云：好胜幻想与保命自制](early-v03-Meng-factionwar-fantasy-abandoned-Zhao5trade-PLAN.md) | 第三卷第265章历史归属回补 |
