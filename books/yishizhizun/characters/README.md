@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [何九一敌四：逐次加人、无声眼邀与364穴](early-v03-HeJiu-four-sequential-opponents-364points-EXCEPTbrow.md) | 第三卷第267章历史归属回补 |
+| [玄真实战：须弥掌范围与般若小圆满](early-v03-XuanZhen-Xumi-range-Prajna-smallcomplete-HEyi.md) | 第三卷第267章历史归属回补 |
+| [孟奇第四入：简单刀的时机与精义组合](early-v03-Meng-basicblade-timing-essence-combination-NOnewrealm.md) | 第三卷第267章历史归属回补 |
 | [因果去断：勇气转向与尚待验证的少林推论](early-v03-Meng-causality-resolve-Ananda-Shaolin-monk-HYPOTHESES.md) | 第三卷第266章历史归属回补 |
 | [王思远知玺非算：未名委托者与大劫说法](early-v03-WangSiyuan-seal-NOTdivination-unknownpatron-Dajie-report.md) | 第三卷第266章历史归属回补 |
 | [除夕兴云正式宴：何九一挑四提案](early-v03-Xingyun-NEWyear-HeJiu-challenges-MengYanXuanLiu-NOfightyet.md) | 第三卷第266章历史归属回补 |
