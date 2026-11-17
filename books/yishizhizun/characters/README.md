@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [醉仙实疗伤与生死女友的知情边界](early-v03-Zuixian-ACTUALheals-drunk-friends-NOTromance.md) | 第三卷第276章历史归属回补 |
+| [秘密脱困的高览：战意、旧人悲歌与结拜起意](early-v03-Gao-secret-release-unnamed-love-grief-song-proposal.md) | 第三卷第276章历史归属回补 |
+| [无名客栈父女与依赖剥气的全队死亡](early-v03-Unnamed-inn-family-unknowncrime-assisted-blade-ALLdead.md) | 第三卷第276章历史归属回补 |
 | [阿难古叹的识推，残痕没有真意收获](early-v03-Ananda-ancient-sigh-INFERRED-NOnew-manualgain.md) | 第三卷第275章历史归属回补 |
 | [首次寻剑无成：半阶止，灰石零收获](early-v03-FirstSwordSearch-FAIL-halfstairs-stone-ZERO.md) | 第三卷第275章历史归属回补 |
 | [两件火中物：高持未知铁条，孟实收疙瘩](early-v03-TWO-fireobjects-Gao-UNKNOWNstrip-Meng-rewardLUMP.md) | 第三卷第275章历史归属回补 |
