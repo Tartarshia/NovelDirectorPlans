@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阿难古叹的识推，残痕没有真意收获](early-v03-Ananda-ancient-sigh-INFERRED-NOnew-manualgain.md) | 第三卷第275章历史归属回补 |
+| [首次寻剑无成：半阶止，灰石零收获](early-v03-FirstSwordSearch-FAIL-halfstairs-stone-ZERO.md) | 第三卷第275章历史归属回补 |
+| [两件火中物：高持未知铁条，孟实收疙瘩](early-v03-TWO-fireobjects-Gao-UNKNOWNstrip-Meng-rewardLUMP.md) | 第三卷第275章历史归属回补 |
 | [真龙台是湖：玺首次借持，剑仍目标](early-v03-TrueLongtai-lake-Seal-ACTUALtoGao-SwordGOAL.md) | 第三卷第274章历史归属回补 |
 | [三步半硬闯与借人道护行](early-v03-HumanDao-road-threehalfsteps-protection-NOrealmbreak.md) | 第三卷第274章历史归属回补 |
 | [古人残气与高览自限的典籍推断](early-v03-Ancient-residuals-Gao-reports-comparisons-UNCERTAIN.md) | 第三卷第274章历史归属回补 |
