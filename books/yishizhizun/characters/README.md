@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [大还丹实际服用与两次被带离](early-v03-Dahuan-ACTUALtaken-Sheshen-EXPIRES-two-carried-departures.md) | 第三卷第272章历史归属回补 |
+| [太子生还与神话未揭主任务](early-v03-Crown-SURVIVED-Shenhua-withdrawal-mainmission-UNKNOWN.md) | 第三卷第272章历史归属回补 |
+| [无名络腮来客与顾一闪惊慌](early-v03-Bearded-stranger-NAMEunknown-Gu-first-seen-panic.md) | 第三卷第272章历史归属回补 |
 | [狼左骨折活逃：飞仙只是架势](early-v03-Wolf-LEFTfracture-ALIVEescape-Meng-feigned-Feixian.md) | 第三卷第271章历史归属回补 |
 | [则罗居中原追杀：未知尸与果断恶意](early-v03-Zeluoju-real-Outer-cold-hunt-unknown-deadfighter.md) | 第三卷第271章历史归属回补 |
 | [顾小桑外景揭示：踏莲介入而非此刻晋升](early-v03-Gu-ALREADYOuter-revealed-lotus-intervention-NOmarriage.md) | 第三卷第271章历史归属回补 |
