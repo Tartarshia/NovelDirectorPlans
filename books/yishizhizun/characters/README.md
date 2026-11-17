@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [制环奖实际到账，三鉴价无兑换](early-v03-Ring-ACTUALarrived-three-appraisals-NOexchange-120.md) | 第三卷第278章历史归属回补 |
+| [四新人初会：名字、外形、理想与境界](early-v03-FourNewcomers-Yuan-Min-Weng-Wu-first-states.md) | 第三卷第278章历史归属回补 |
+| [白衣引领演法与20善功的随口估价](early-v03-Guide-whitepersona-birthmark20-ESTIMATE-task-reported.md) | 第三卷第278章历史归属回补 |
 | [结义礼次晨补证：三弟不等第三个人](early-v03-Brotherhood-ritual-CONFIRMED-third-NOsecondmember.md) | 第三卷第277章历史归属回补 |
 | [半年多九窍：金钟一品圆满、八九追平](early-v03-HALFYEAR-Meng-nine-Goldbell7complete-Busiyin-great.md) | 第三卷第277章历史归属回补 |
 | [金刚印首悟与轮回引领新规则](early-v03-JingangYin-FIRSTderived-art-newcomer-guide-RULES.md) | 第三卷第277章历史归属回补 |
