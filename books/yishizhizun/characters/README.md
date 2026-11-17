@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [高览首次报姓名：求名喜剧转沉静](early-v03-Gaolan-FIRSTname-image-comedy-then-silent-depth.md) | 第三卷第273章历史归属回补 |
+| [玺仍孟处，安郡报信有掩饰](early-v03-Seal-KEEPonMeng-NOcollateral-Anjun-actual-message.md) | 第三卷第273章历史归属回补 |
+| [双星耀世的报告与死亡传闻边界](early-v03-DoubleStars-manager-PUBLICdeathrumors-NOTconfirmed.md) | 第三卷第273章历史归属回补 |
 | [大还丹实际服用与两次被带离](early-v03-Dahuan-ACTUALtaken-Sheshen-EXPIRES-two-carried-departures.md) | 第三卷第272章历史归属回补 |
 | [太子生还与神话未揭主任务](early-v03-Crown-SURVIVED-Shenhua-withdrawal-mainmission-UNKNOWN.md) | 第三卷第272章历史归属回补 |
 | [无名络腮来客与顾一闪惊慌](early-v03-Bearded-stranger-NAMEunknown-Gu-first-seen-panic.md) | 第三卷第272章历史归属回补 |
