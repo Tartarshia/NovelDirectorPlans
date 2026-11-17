@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [结义礼次晨补证：三弟不等第三个人](early-v03-Brotherhood-ritual-CONFIRMED-third-NOsecondmember.md) | 第三卷第277章历史归属回补 |
+| [半年多九窍：金钟一品圆满、八九追平](early-v03-HALFYEAR-Meng-nine-Goldbell7complete-Busiyin-great.md) | 第三卷第277章历史归属回补 |
+| [金刚印首悟与轮回引领新规则](early-v03-JingangYin-FIRSTderived-art-newcomer-guide-RULES.md) | 第三卷第277章历史归属回补 |
 | [醉仙实疗伤与生死女友的知情边界](early-v03-Zuixian-ACTUALheals-drunk-friends-NOTromance.md) | 第三卷第276章历史归属回补 |
 | [秘密脱困的高览：战意、旧人悲歌与结拜起意](early-v03-Gao-secret-release-unnamed-love-grief-song-proposal.md) | 第三卷第276章历史归属回补 |
 | [无名客栈父女与依赖剥气的全队死亡](early-v03-Unnamed-inn-family-unknowncrime-assisted-blade-ALLdead.md) | 第三卷第276章历史归属回补 |
