@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [宴后别离：榜升两位与静修计划](early-v03-Jiang-rank-plus2-returnmountain-PLAN-Meng-retreat-notdone.md) | 第三卷第269章历史归属回补 |
+| [魏高得名与太子遭袭：读者所见的四面具](early-v03-Crown-WeiGao-four-masks-READERbattle-relic-survival.md) | 第三卷第269章历史归属回补 |
+| [庄空时的危机：一劫提醒与狼王疑问](early-v03-Meng-empty-manor-blackout-Wolf-QUESTION-unknowntrap.md) | 第三卷第269章历史归属回补 |
 | [双人九窍直外景：何雷劫、王借雷克阴火](early-v03-HeJiu-WangSiyuan-NINEdirectOuter-two-trials-SURVIVE.md) | 第三卷第268章历史归属回补 |
 | [护场与施压：洪潜提示、公羊误判、王锐拦意](early-v03-HongQian-GongYangHao-WangRuizhi-protection-misread.md) | 第三卷第268章历史归属回补 |
 | [八窍观双晋：羡嫉、好胜与没做的雷痕念头](early-v03-Meng-eight-envy-battlespirit-THUNDERthought-NOTused.md) | 第三卷第268章历史归属回补 |
