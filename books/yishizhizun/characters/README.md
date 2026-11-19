@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [红衣二哥与老六：敬礼、误认与传音](early-v03-RedCamp-second-brother-LaoLiu-bloodline-whisper.md) | 第三卷第282章历史归属回补 |
+| [大宁的本地评级与任务风险](early-v03-Daning-local-grades-Du-and-Zuo-earth-nine-report.md) | 第三卷第282章历史归属回补 |
+| [郭宅调查与巷中合围](early-v03-Guo-mansion-report-wonton-ruse-alley-encirclement.md) | 第三卷第282章历史归属回补 |
 | [四新人获认可与附属队联络](early-v03-FourNewcomers-contact-letter-conditional-merger.md) | 第三卷第281章历史归属回补 |
 | [主队半年后进境与真实拒印](early-v03-Team-reunion-Jiang-resonance-Qi-Ruan-eight.md) | 第三卷第281章历史归属回补 |
 | [流火实升与首演火遁](early-v03-Liuhuo-upgrade-fire-escape-ten-zhang.md) | 第三卷第281章历史归属回补 |
