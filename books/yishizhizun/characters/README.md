@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [元央假瘫反转：蓝星吸毒，三人解药，两人毒死](early-v03-Yuan-FAKEweak-LanXing-antidote-three-actual-two-kills.md) | 第三卷第280章历史归属回补 |
+| [第四日营生碰壁到第六日蛊杀分工](early-v03-Day4-role-fail-Day6-team-LanXing-true-killer.md) | 第三卷第280章历史归属回补 |
+| [三次连鞘剑逼退无名客，堪虚误王与假咳](early-v03-Three-SHEATHED-swords-unnamed-man-Wang-imitation.md) | 第三卷第280章历史归属回补 |
 | [四新人初错：能推理仍缺实战执行](early-v03-Newcomers-first-errors-logic-not-experience-poisoned.md) | 第三卷第279章历史归属回补 |
 | [笑导师的三错课：隔声不全程代管](early-v03-Mentor-three-errors-no-persistent-soundshield.md) | 第三卷第279章历史归属回补 |
 | [两袭者还活：眼门已消，非人是误认](early-v03-Inn-attackers-ALIVE-eye-weakpoint-GONE-notnonhuman.md) | 第三卷第279章历史归属回补 |
