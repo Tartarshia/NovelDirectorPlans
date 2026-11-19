@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [纪陶实名及从自信到崩溃](early-v03-JiTao-name-human-grade-two-captured-killed.md) | 第三卷第283章历史归属回补 |
+| [三异口供与杜怀伤伤遁](early-v03-YinLenghui-three-outsiders-Du-wounded-report.md) | 第三卷第283章历史归属回补 |
+| [纪陶外貌实变，假报计划待入府](early-v03-JiTao-disguise-real-scars-not-yet-returned.md) | 第三卷第283章历史归属回补 |
 | [红衣二哥与老六：敬礼、误认与传音](early-v03-RedCamp-second-brother-LaoLiu-bloodline-whisper.md) | 第三卷第282章历史归属回补 |
 | [大宁的本地评级与任务风险](early-v03-Daning-local-grades-Du-and-Zuo-earth-nine-report.md) | 第三卷第282章历史归属回补 |
 | [郭宅调查与巷中合围](early-v03-Guo-mansion-report-wonton-ruse-alley-encirclement.md) | 第三卷第282章历史归属回补 |
