@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [左寒风审纪与留守府发言秩序](early-v03-ZuoHanfeng-stern-gaze-official-reply-order.md) | 第三卷第286章历史归属回补 |
+| [尹冷辉的刻纹巫术木偶与左助力](early-v03-YinLenghui-carved-wood-puppet-needs-Zuo.md) | 第三卷第286章历史归属回补 |
+| [孟奇逆运变天击地与幻中道人](early-v03-MengQi-reversed-mind-art-simulated-Yuanshi.md) | 第三卷第286章历史归属回补 |
 | [穆安寻人蛊、虫身脱逃与确认死亡](early-v03-MuAn-tracking-gu-many-escapes-finally-dead.md) | 第三卷第285章历史归属回补 |
 | [尹冷辉焚偶与孟实承反噬](early-v03-YinLenghui-doll-black-flame-interrupts-probe.md) | 第三卷第285章历史归属回补 |
 | [左寒风府中现身并召问穆死](early-v03-ZuoHanfeng-first-in-person-grief-meeting.md) | 第三卷第285章历史归属回补 |
