@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [四新人获认可与附属队联络](early-v03-FourNewcomers-contact-letter-conditional-merger.md) | 第三卷第281章历史归属回补 |
+| [主队半年后进境与真实拒印](early-v03-Team-reunion-Jiang-resonance-Qi-Ruan-eight.md) | 第三卷第281章历史归属回补 |
+| [流火实升与首演火遁](early-v03-Liuhuo-upgrade-fire-escape-ten-zhang.md) | 第三卷第281章历史归属回补 |
 | [元央假瘫反转：蓝星吸毒，三人解药，两人毒死](early-v03-Yuan-FAKEweak-LanXing-antidote-three-actual-two-kills.md) | 第三卷第280章历史归属回补 |
 | [第四日营生碰壁到第六日蛊杀分工](early-v03-Day4-role-fail-Day6-team-LanXing-true-killer.md) | 第三卷第280章历史归属回补 |
 | [三次连鞘剑逼退无名客，堪虚误王与假咳](early-v03-Three-SHEATHED-swords-unnamed-man-Wang-imitation.md) | 第三卷第280章历史归属回补 |
