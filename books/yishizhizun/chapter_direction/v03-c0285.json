@@ -71,7 +71,2436 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0158"
+  "reading_batch": "batch-0158",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v03-0285",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v03-0285.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v03-c0285:p0001",
+        "length": 71,
+        "sha256": "7009588279fc7e2231291a18dfc1a3d98aa27797ffdc86dad64d3ad30725748b",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0001:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灰肤异貌在神魔后裔之界并不稀奇；四臂两面路人属环境，没有具体身份。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "灰肤异貌在神魔后裔之界并不稀奇；四臂两面路人属环境，没有具体身份。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灰肤异貌在神魔后裔之界并不稀奇；四臂两面路人属环境，没有具体身份。"
+      },
+      {
+        "reference": "v03-c0285:p0002",
+        "length": 83,
+        "sha256": "35d9629ca900f47778446a43a6d321612d59683ca6cab46eb3c72a563f314d5f",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0002:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "v03c284_mu_an",
+            "surface_identity": "穆安；石人外形到灰白人面蜈蚣",
+            "text_context": "穆只出口叫带路，后是他自恃比纪强、能求援的所思，未已派人通报。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "实际言语",
+            "fact_status": "按逐段事实注",
+            "embodiment": "先使寻人蛊，继虫身多次脱逃，最终黑焰焚灰",
+            "delivery": "起初阴沉自恃，随后中琴与剑无完整口供",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆只出口叫带路，后是他自恃比纪强、能求援的所思，未已派人通报。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0285:p0002:u002",
+            "start": 5,
+            "end": 83,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "穆只出口叫带路，后是他自恃比纪强、能求援的所思，未已派人通报。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆只出口叫带路，后是他自恃比纪强、能求援的所思，未已派人通报。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "穆只出口叫带路，后是他自恃比纪强、能求援的所思，未已派人通报。"
+      },
+      {
+        "reference": "v03-c0285:p0003",
+        "length": 10,
+        "sha256": "ca46a2b7d1bcd1a2b362368693f4605d57c5ef498de95e702d60e57d6f0bcbe2",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0003:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "v03c284_mu_an",
+            "surface_identity": "穆安；石人外形到灰白人面蜈蚣",
+            "text_context": "可反杀是穆想法，尚未成真。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "内心",
+            "fact_status": "按逐段事实注",
+            "embodiment": "先使寻人蛊，继虫身多次脱逃，最终黑焰焚灰",
+            "delivery": "起初阴沉自恃，随后中琴与剑无完整口供",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "可反杀是穆想法，尚未成真。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "可反杀是穆想法，尚未成真。"
+      },
+      {
+        "reference": "v03-c0285:p0004",
+        "length": 69,
+        "sha256": "da66d2a3b4bf88a3a9ed9715c535970a4d0340f66cfe9dd5815ab0a3b86bddc0",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0004:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "八字胡瘦男演恐，实际当前还是江，至10正文确认。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "八字胡瘦男演恐，实际当前还是江，至10正文确认。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "八字胡瘦男演恐，实际当前还是江，至10正文确认。"
+      },
+      {
+        "reference": "v03-c0285:p0005",
+        "length": 39,
+        "sha256": "3bb241601c8cbf9414b69f7fc807a18a99ad4d0f9c98c70b085156debb90a170",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0005:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑色寻人蛊出掌，打转似品气味。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "黑色寻人蛊出掌，打转似品气味。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑色寻人蛊出掌，打转似品气味。"
+      },
+      {
+        "reference": "v03-c0285:p0006",
+        "length": 42,
+        "sha256": "c470c2bed0721e1188865ebb923e62417114b19da2cf271b9726dd35faf496b9",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0006:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "蛊有两对透明翼，鸟鸣般声，不能让人声角色念啾。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "蛊有两对透明翼，鸟鸣般声，不能让人声角色念啾。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "蛊有两对透明翼，鸟鸣般声，不能让人声角色念啾。"
+      },
+      {
+        "reference": "v03-c0285:p0007",
+        "length": 59,
+        "sha256": "d239b3907b4665ee2a2ba6e76a61be2c108523576611b63de11a7b64415d38e8",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0007:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "v03c284_mu_an",
+            "surface_identity": "穆安；石人外形到灰白人面蜈蚣",
+            "text_context": "穆真自语解释限度，繁处气息混会干扰，偏巷可追。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "实际言语",
+            "fact_status": "按逐段事实注",
+            "embodiment": "先使寻人蛊，继虫身多次脱逃，最终黑焰焚灰",
+            "delivery": "起初阴沉自恃，随后中琴与剑无完整口供",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆真自语解释限度，繁处气息混会干扰，偏巷可追。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0285:p0007:u002",
+            "start": 48,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "穆真自语解释限度，繁处气息混会干扰，偏巷可追。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆真自语解释限度，繁处气息混会干扰，偏巷可追。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "穆真自语解释限度，繁处气息混会干扰，偏巷可追。"
+      },
+      {
+        "reference": "v03-c0285:p0008",
+        "length": 66,
+        "sha256": "bec159c7cadf8e6dcae0d2c6b4af0b8ffa68f725a664e8e8604da7a16672480b",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0008:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "穆误认江是纪亲信，为压纪而示术。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆误认江是纪亲信，为压纪而示术。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "穆误认江是纪亲信，为压纪而示术。"
+      },
+      {
+        "reference": "v03-c0285:p0009",
+        "length": 89,
+        "sha256": "1116e3e5de5b454d657e0f1053b9902e032869004717b5b619fa118f05925bac",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0009:u001",
+            "start": 0,
+            "end": 89,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "蛊此前已记青衣少女之气却被闹市干扰，今带往安静处。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "蛊此前已记青衣少女之气却被闹市干扰，今带往安静处。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "蛊此前已记青衣少女之气却被闹市干扰，今带往安静处。"
+      },
+      {
+        "reference": "v03-c0285:p0010",
+        "length": 108,
+        "sha256": "e615096e353fe9bd26ef2ed01c49293feeacc8d72a6c5c0dfead83f186dd3330",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0010:u001",
+            "start": 0,
+            "end": 108,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "正文确认胡男江、本次青女阮；此前284首日青女确是江，别把两天混同。江近身引路，避免暴露气息差。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "正文确认胡男江、本次青女阮；此前284首日青女确是江，别把两天混同。江近身引路，避免暴露气息差。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "正文确认胡男江、本次青女阮；此前284首日青女确是江，别把两天混同。江近身引路，避免暴露气息差。"
+      },
+      {
+        "reference": "v03-c0285:p0011",
+        "length": 58,
+        "sha256": "6e43c86ba5ed75f1348b529ebf7c24e8476f9ae929a6afa4f7ca903d4fa3abca",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0011:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "新人经验对比，不贬元央不会蛊；她不熟血脉能力。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "新人经验对比，不贬元央不会蛊；她不熟血脉能力。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "新人经验对比，不贬元央不会蛊；她不熟血脉能力。"
+      },
+      {
+        "reference": "v03-c0285:p0012",
+        "length": 50,
+        "sha256": "26584b9d382365523c4af000b66fb664c4899af38765d8c198485d49c00d9c30",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0012:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "寻蛊实际带进僻处，并非假线发出后完全不追。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "穆安追蛊入巷",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "寻蛊实际带进僻处，并非假线发出后完全不追。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "寻蛊实际带进僻处，并非假线发出后完全不追。"
+      },
+      {
+        "reference": "v03-c0285:p0013",
+        "length": 26,
+        "sha256": "065b5000a9011caa4279d74efe83753526e13665ffec57a081aa10cb69b88bea",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0013:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "穆感风险寒战，开始戒备。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆感风险寒战，开始戒备。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "穆感风险寒战，开始戒备。"
+      },
+      {
+        "reference": "v03-c0285:p0014",
+        "length": 52,
+        "sha256": "163509894dff44901fefa6747eeca3c46d76cdc28a6b5ac730d79f78a41cfc90",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0014:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "轻鸣引鸟是阮琴出招表征，非九天神鸟实体降临。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "轻鸣引鸟是阮琴出招表征，非九天神鸟实体降临。",
+            "focalizer": "v03c16_whiteclad_qin_girl_nameunknown",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "轻鸣引鸟是阮琴出招表征，非九天神鸟实体降临。"
+      },
+      {
+        "reference": "v03-c0285:p0015",
+        "length": 38,
+        "sha256": "bf84904a1e8791341a634d61689aea0304ed43387f018f123101d0b9701125e1",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0015:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "穆神魂分离、浑噩的实效果；下文证还可逃动。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆神魂分离、浑噩的实效果；下文证还可逃动。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "穆神魂分离、浑噩的实效果；下文证还可逃动。"
+      },
+      {
+        "reference": "v03-c0285:p0016",
+        "length": 16,
+        "sha256": "a18fe83e5d4d7421a65aea995fa2c710fc9e023280b0394c8f71d2de5faa7591",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0016:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "凤鸣九天曲名与十二神音说明是旁白，没有阮喊招。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "凤鸣九天曲名与十二神音说明是旁白，没有阮喊招。",
+            "focalizer": "v03c16_whiteclad_qin_girl_nameunknown",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "凤鸣九天曲名与十二神音说明是旁白，没有阮喊招。"
+      },
+      {
+        "reference": "v03-c0285:p0017",
+        "length": 59,
+        "sha256": "4ae364f59688e2538467a2a956b7a8586bddd8ca2fc2277d6d117d9df0d9bd5f",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0017:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "想活捉情报，故全力围攻；本章结局未留生口。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "想活捉情报，故全力围攻；本章结局未留生口。",
+            "focalizer": "v03c16_whiteclad_qin_girl_nameunknown",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "想活捉情报，故全力围攻；本章结局未留生口。"
+      },
+      {
+        "reference": "v03-c0285:p0018",
+        "length": 33,
+        "sha256": "8a4622fa58fdc244aca599a55addd5583bf876cb7eea5b9092a7a869b638e6d5",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0018:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "周围鸟徘徊低鸣是真，区别拟声和实际口。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "周围鸟徘徊低鸣是真，区别拟声和实际口。",
+            "focalizer": "v03c16_whiteclad_qin_girl_nameunknown",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "周围鸟徘徊低鸣是真，区别拟声和实际口。"
+      },
+      {
+        "reference": "v03-c0285:p0019",
+        "length": 41,
+        "sha256": "a53ade8b633a4c6116f14da849d18472817fd6a152141033d7ac073b65302375",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0019:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江拔剑快准点眉拟锁元神活捉。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "江拔剑快准点眉拟锁元神活捉。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江拔剑快准点眉拟锁元神活捉。"
+      },
+      {
+        "reference": "v03-c0285:p0020",
+        "length": 63,
+        "sha256": "580bfb91e87b8a2459fde0a5cc3f6fdbdc3feba68e448bb2c393e78885912959",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0020:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "穆皮下密突出现，尚未真正解剖活体得样本。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆皮下密突出现，尚未真正解剖活体得样本。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "穆皮下密突出现，尚未真正解剖活体得样本。"
+      },
+      {
+        "reference": "v03-c0285:p0021",
+        "length": 29,
+        "sha256": "4ef44597a6dee3891bab6d71c97092fc71c001fcd4dcefd55c0a4840ac78e9ed",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0021:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "蠕动给藏虫感，下段真虫涌出。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "蠕动给藏虫感，下段真虫涌出。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "蠕动给藏虫感，下段真虫涌出。"
+      },
+      {
+        "reference": "v03-c0285:p0022",
+        "length": 46,
+        "sha256": "d70c8df728c9bdcb291e40c5d887ed07da7936b851868ada2a6b91ab9f083945",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0022:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "鲜虫各带少量穆气向四方，断臂求生为观察推断。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "鲜虫各带少量穆气向四方，断臂求生为观察推断。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鲜虫各带少量穆气向四方，断臂求生为观察推断。"
+      },
+      {
+        "reference": "v03-c0285:p0023",
+        "length": 54,
+        "sha256": "98f3e0d92b2388b9141844a53e4727a834d3b71bc41d1529a0ad9b95a4ea60db",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0023:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "最低阶蛊受凤鸣较少，无音之声只是更合适的说明，本章未施。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "最低阶蛊受凤鸣较少，无音之声只是更合适的说明，本章未施。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "最低阶蛊受凤鸣较少，无音之声只是更合适的说明，本章未施。"
+      },
+      {
+        "reference": "v03-c0285:p0024",
+        "length": 42,
+        "sha256": "7a252d0301a4483920e43c26e034acc994f8d78784de0157fc4515ef54a8234d",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0024:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "眉中剑后肉萎成虫样，不能认为至此已全死。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "眉中剑后肉萎成虫样，不能认为至此已全死。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "眉中剑后肉萎成虫样，不能认为至此已全死。"
+      },
+      {
+        "reference": "v03-c0285:p0025",
+        "length": 38,
+        "sha256": "7a6abca579c14d2fe8c8113dc307ba3b80f07267e2937ee9d012bd7cf1739915",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0025:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "紫色长河为齐紫星河实际压来，非天体改轨。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "紫色长河为齐紫星河实际压来，非天体改轨。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "紫色长河为齐紫星河实际压来，非天体改轨。"
+      },
+      {
+        "reference": "v03-c0285:p0026",
+        "length": 28,
+        "sha256": "29f04e094520a70db7dbfa43d8846c03b48d31b5cbd86135efb86b68f21262bd",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0026:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "外飞的鲜蛊被压碎无逃；后续四黑虫与蜈蚣属于后出现的另波。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "外飞的鲜蛊被压碎无逃；后续四黑虫与蜈蚣属于后出现的另波。",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "外飞的鲜蛊被压碎无逃；后续四黑虫与蜈蚣属于后出现的另波。"
+      },
+      {
+        "reference": "v03-c0285:p0027",
+        "length": 26,
+        "sha256": "91f118003c37d29f8109335f694d24030586930dd27e302c44ff86090ce757da",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0027:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "穆眼口鼻溢血，呆滞又狰狞。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆眼口鼻溢血，呆滞又狰狞。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "穆眼口鼻溢血，呆滞又狰狞。"
+      },
+      {
+        "reference": "v03-c0285:p0028",
+        "length": 19,
+        "sha256": "72bf42bcd5dc4688b1bd77a6c50e877b010662f7f4a05f25b5f00d73177289f4",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0028:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "眉中剑后头自爆，躯体仍有虫形逸逃。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "眉中剑后头自爆，躯体仍有虫形逸逃。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "眉中剑后头自爆，躯体仍有虫形逸逃。"
+      },
+      {
+        "reference": "v03-c0285:p0029",
+        "length": 27,
+        "sha256": "42a0f073bf09e26bbcfd35904c4de599ad50c9b938acf5816b56f87a1399005d",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0029:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "这是对受锁仍能自爆的惊疑，非独立朗诵或完整死亡时点。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "阮江齐压制",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "这是对受锁仍能自爆的惊疑，非独立朗诵或完整死亡时点。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "这是对受锁仍能自爆的惊疑，非独立朗诵或完整死亡时点。"
+      },
+      {
+        "reference": "v03-c0285:p0030",
+        "length": 40,
+        "sha256": "dfc7bc97151d81f638d915fb71dc956517f8deb9fe3e0cd8e21e5f298722d383",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0030:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "无头躯四肢脱离化四黑虫，方向各异。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "无头躯四肢脱离化四黑虫，方向各异。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "无头躯四肢脱离化四黑虫，方向各异。"
+      },
+      {
+        "reference": "v03-c0285:p0031",
+        "length": 42,
+        "sha256": "d52f29b22ca0dfa14dae29f05aee6134eac66eceb9dee884e822a2ff09ad5366",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0031:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江剑剖一，黑血抽搐。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "江剑剖一，黑血抽搐。",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江剑剖一，黑血抽搐。"
+      },
+      {
+        "reference": "v03-c0285:p0032",
+        "length": 60,
+        "sha256": "e731e473972e2be60b0a4ef63b1a292093d75e37aeea2b65abeefd6c8aa8b131",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0032:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赤色剑光似火龙沿地追三，龙只剑气火势，不实召龙。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "赤色剑光似火龙沿地追三，龙只剑气火势，不实召龙。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赤色剑光似火龙沿地追三，龙只剑气火势，不实召龙。"
+      },
+      {
+        "reference": "v03-c0285:p0033",
+        "length": 28,
+        "sha256": "b6bcec63e664302065d7a8007651f50cbe29020ee26c2b89c34c712583bf9110",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0033:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "三黑长虫实烧灰，和江剖开的一共四。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "三黑长虫实烧灰，和江剖开的一共四。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "三黑长虫实烧灰，和江剖开的一共四。"
+      },
+      {
+        "reference": "v03-c0285:p0034",
+        "length": 23,
+        "sha256": "44ba3bff8496c5faf7e5a60d59b45168bec52ab6f932aad72aaa6056c9af8493",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0034:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "围者随战况放弃优先活捉，这时穆仍有后手。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "围者随战况放弃优先活捉，这时穆仍有后手。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "围者随战况放弃优先活捉，这时穆仍有后手。"
+      },
+      {
+        "reference": "v03-c0285:p0035",
+        "length": 43,
+        "sha256": "3129677562240e288e1823e392896f82b2981df7d8a27e84b3fffe57f28d9754",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0035:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙说联手压制却仍能觅逃隙，不无条件自爆后完全复活。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "叙说联手压制却仍能觅逃隙，不无条件自爆后完全复活。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙说联手压制却仍能觅逃隙，不无条件自爆后完全复活。"
+      },
+      {
+        "reference": "v03-c0285:p0036",
+        "length": 33,
+        "sha256": "8d13cc514eef9a7b89ea826a212de896e69e9aeda51ca2ccd2b9a4fad31d6cda",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0036:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "躯干钻出蜈蚣，第三波逃法。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "躯干钻出蜈蚣，第三波逃法。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "躯干钻出蜈蚣，第三波逃法。"
+      },
+      {
+        "reference": "v03-c0285:p0037",
+        "length": 39,
+        "sha256": "c319d436412649153a5a58e68327def6b8102090ccd77645319f5e77906fd323",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0037:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灰白脊骨般体、人面，叙明正是穆。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "灰白脊骨般体、人面，叙明正是穆。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灰白脊骨般体、人面，叙明正是穆。"
+      },
+      {
+        "reference": "v03-c0285:p0038",
+        "length": 21,
+        "sha256": "4856140d2640d2b4ca646751d6c36b62c5bad5d49d1ca33aaac2689d515af5cf",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0038:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "往地钻，土遁只是似有，还未成功遁走。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "往地钻，土遁只是似有，还未成功遁走。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "往地钻，土遁只是似有，还未成功遁走。"
+      },
+      {
+        "reference": "v03-c0285:p0039",
+        "length": 36,
+        "sha256": "4337e13167cf0d0fef0dc545fd226021c6c8c785ca889914912c95dbf28a26cf",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0039:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "淡金火掩面从上来者后明孟，非金刚本尊。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "淡金火掩面从上来者后明孟，非金刚本尊。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "淡金火掩面从上来者后明孟，非金刚本尊。"
+      },
+      {
+        "reference": "v03-c0285:p0040",
+        "length": 45,
+        "sha256": "6a71282b0079f1b8994ec2111da20112e95fe49b915697eddc117f955ba781df",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0040:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "纯力抓拖灰蜈，落地震动。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "纯力抓拖灰蜈，落地震动。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "纯力抓拖灰蜈，落地震动。"
+      },
+      {
+        "reference": "v03-c0285:p0041",
+        "length": 50,
+        "sha256": "324df97e68fd4285aedcc47a9d1cb4229a5b07efedabbeaab2024f2245a46c75",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0041:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "钢钳山峰为受力比喻。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "钢钳山峰为受力比喻。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "钢钳山峰为受力比喻。"
+      },
+      {
+        "reference": "v03-c0285:p0042",
+        "length": 32,
+        "sha256": "2d4b38719644bfbffbd7b01b251dda38cfa0f3424aa4256aef959a5a27434e05",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0042:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "蜈反缠抓挠喷毒实际发生。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "蜈反缠抓挠喷毒实际发生。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "蜈反缠抓挠喷毒实际发生。"
+      },
+      {
+        "reference": "v03-c0285:p0043",
+        "length": 38,
+        "sha256": "4b96153188b7f6af44f2316f452fc35c824518f11582c2477f2ef8d05ca00f6f",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0043:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "这次未伤孟，不能推广到所有毒和神通。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "这次未伤孟，不能推广到所有毒和神通。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "这次未伤孟，不能推广到所有毒和神通。"
+      },
+      {
+        "reference": "v03-c0285:p0044",
+        "length": 58,
+        "sha256": "1611fb9bb64a8fd786b6f443f5d588bc0b7c1d66238ad1b57498c80a160e5a89",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0044:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "将试攻天生九窍时体火烧瓦解，未真命中九窍；不能据此消所有罩门。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "断肢与蜈蚣逃逸",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "将试攻天生九窍时体火烧瓦解，未真命中九窍；不能据此消所有罩门。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "将试攻天生九窍时体火烧瓦解，未真命中九窍；不能据此消所有罩门。"
+      },
+      {
+        "reference": "v03-c0285:p0045",
+        "length": 116,
+        "sha256": "2beb705c818b98541ce1c09616bfa7a670771787f014a912bdd4070a10967e07",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0045:u001",
+            "start": 0,
+            "end": 116,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "此段回叙大半个时辰前孟报蒋并夸蒋贬穆，而非当前将蜈交蒋。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "此段回叙大半个时辰前孟报蒋并夸蒋贬穆，而非当前将蜈交蒋。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "此段回叙大半个时辰前孟报蒋并夸蒋贬穆，而非当前将蜈交蒋。"
+      },
+      {
+        "reference": "v03-c0285:p0046",
+        "length": 23,
+        "sha256": "3317a36b7ca18e0545040eb7cd1ef83002d327f2ba57cf143c226b969d4b7977",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0046:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "蒋实际派假纪帮穆搜，孟能到场有合法掩护。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "蒋实际派假纪帮穆搜，孟能到场有合法掩护。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "蒋实际派假纪帮穆搜，孟能到场有合法掩护。"
+      },
+      {
+        "reference": "v03-c0285:p0047",
+        "length": 41,
+        "sha256": "7b93d7f4226b480e328628a742a98610bd203e18bf8dcdb20fa4b6d89cf7c7d4",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0047:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "气势火神仙佛仅拟象，在此准备用神功审。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "气势火神仙佛仅拟象，在此准备用神功审。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "气势火神仙佛仅拟象，在此准备用神功审。"
+      },
+      {
+        "reference": "v03-c0285:p0048",
+        "length": 62,
+        "sha256": "49594286eb02eaed5938740b48a493e650b380d8c531e05cff7faf7d1a2c8598",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0048:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "穆元神寄蜈，心海金光为记忆。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "穆元神寄蜈，心海金光为记忆。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "穆元神寄蜈，心海金光为记忆。"
+      },
+      {
+        "reference": "v03-c0285:p0049",
+        "length": 54,
+        "sha256": "8e8c14200c8d984abde0608cf4a3bf51e1af0f7cf2e77f6f11d3f0d9fd7cc764",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0049:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "明确施变天击地大法，灰白木偶样花纹是精神所见。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "明确施变天击地大法，灰白木偶样花纹是精神所见。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "明确施变天击地大法，灰白木偶样花纹是精神所见。"
+      },
+      {
+        "reference": "v03-c0285:p0050",
+        "length": 52,
+        "sha256": "ec7b788196001672c87d91f896117d225bd2226edee307dcac2c0daf0c2e17b8",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0050:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "先伤后弱抗、记忆片飞出；没有得全套秘密。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "先伤后弱抗、记忆片飞出；没有得全套秘密。",
+            "focalizer": "v03c284_mu_an",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "先伤后弱抗、记忆片飞出；没有得全套秘密。"
+      },
+      {
+        "reference": "v03-c0285:p0051",
+        "length": 63,
+        "sha256": "d4744c97d9f819d27fee71b6d1e03193384d60d2e151d690c7bdd777ec11566b",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0051:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金片镜中密室黑袍、白脸尖下巴的人影，不是此时真人在巷内。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "审问所见，密室与心海相连",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "金片镜中密室黑袍、白脸尖下巴的人影，不是此时真人在巷内。",
+            "focalizer": "v03c285_yin_lenghui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金片镜中密室黑袍、白脸尖下巴的人影，不是此时真人在巷内。"
+      },
+      {
+        "reference": "v03-c0285:p0052",
+        "length": 13,
+        "sha256": "9490575f7790f69ee11447d17eff8a65c03650951c4ca0293fafc7a99acc90db",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0052:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，九窍；火掩面与纪陶伪装分场",
+            "text_context": "元神震动中的认出，按心内识别处理，未安排队友听到。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "精神探查时的内在识别",
+            "fact_status": "眼前精神体验",
+            "embodiment": "承反噬抽神，后结印护魂并借灶火",
+            "delivery": "短促喝令，避免给感应加外声",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "元神震动中的认出，按心内识别处理，未安排队友听到。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0285:p0052:u002",
+            "start": 6,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "元神震动中的认出，按心内识别处理，未安排队友听到。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "审问所见，密室与心海相连",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "元神震动中的认出，按心内识别处理，未安排队友听到。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "元神震动中的认出，按心内识别处理，未安排队友听到。"
+      },
+      {
+        "reference": "v03-c0285:p0053",
+        "length": 37,
+        "sha256": "b73153397d21ed8e1cc04c932d66a79b1399632b6d4275a44e2b5a206950b925",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0053:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "认出尹冷辉；对坐者看不分明，不可填左或蓝。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "审问所见，密室与心海相连",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "认出尹冷辉；对坐者看不分明，不可填左或蓝。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "认出尹冷辉；对坐者看不分明，不可填左或蓝。"
+      },
+      {
+        "reference": "v03-c0285:p0054",
+        "length": 27,
+        "sha256": "040e40483c1f697a81b4ecf9f2f3f8370f75b123510a229c4472cb6112a7ece3",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0054:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "镜内尹睁眼取灰白布偶。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "审问所见，密室与心海相连",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "镜内尹睁眼取灰白布偶。",
+            "focalizer": "v03c285_yin_lenghui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "镜内尹睁眼取灰白布偶。"
+      },
+      {
+        "reference": "v03-c0285:p0055",
+        "length": 17,
+        "sha256": "70bbc5b589d86c779b539a9cf00b22783921560e024844a43910c7204c965efe",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0055:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "尹掌内黑焰焚偶，56同步引心海黑焰。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "审问所见，密室与心海相连",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "尹掌内黑焰焚偶，56同步引心海黑焰。",
+            "focalizer": "v03c285_yin_lenghui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "尹掌内黑焰焚偶，56同步引心海黑焰。"
+      },
+      {
+        "reference": "v03-c0285:p0056",
+        "length": 36,
+        "sha256": "bdb357196b3a5507722388f276a610a2e070c64c6713481d651461d913493e37",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0056:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "焰包穆元神并向孟蔓，非孟掌火伤回自己。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "审问所见，密室与心海相连",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "焰包穆元神并向孟蔓，非孟掌火伤回自己。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "焰包穆元神并向孟蔓，非孟掌火伤回自己。"
+      },
+      {
+        "reference": "v03-c0285:p0057",
+        "length": 31,
+        "sha256": "be2f049465f7bef3438ae6a1dd430bcbe05e767e6b8c653c5197c3d020bb87b3",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0057:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑焰不出热光却危险，感受有反差。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "黑焰不出热光却危险，感受有反差。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑焰不出热光却危险，感受有反差。"
+      },
+      {
+        "reference": "v03-c0285:p0058",
+        "length": 33,
+        "sha256": "8b113d8045d8bd61b3525017d11606be1d8ff68ec172cc4118a635c72b81c0fb",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0058:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟真承受大法反噬、退出精神并抛蜈，未无伤无代价或继续取全证。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "眼前精神体验",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "孟真承受大法反噬、退出精神并抛蜈，未无伤无代价或继续取全证。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟真承受大法反噬、退出精神并抛蜈，未无伤无代价或继续取全证。"
+      },
+      {
+        "reference": "v03-c0285:p0059",
+        "length": 12,
+        "sha256": "f2bc78f26aa829c78de002cfd1213d1deea365aabe456ffc248598a38445b01d",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0059:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，九窍；火掩面与纪陶伪装分场",
+            "text_context": "孟高声令分头，非无声传音。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "高声喝令同伴散开",
+            "fact_status": "按逐段事实注",
+            "embodiment": "承反噬抽神，后结印护魂并借灶火",
+            "delivery": "短促喝令，避免给感应加外声",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "孟高声令分头，非无声传音。",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v03-c0285:p0059:u002",
+            "start": 6,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟高声令分头，非无声传音。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "孟高声令分头，非无声传音。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟高声令分头，非无声传音。"
+      },
+      {
+        "reference": "v03-c0285:p0060",
+        "length": 22,
+        "sha256": "e3bb814b12f649f2317519a68337c9e183391617587478dc3d8cd89df9022ad1",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0060:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "同伴充分信任即时散开，未此刻背叛或同一方向一起跑。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "回叙与精神审问反噬",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "同伴充分信任即时散开，未此刻背叛或同一方向一起跑。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "同伴充分信任即时散开，未此刻背叛或同一方向一起跑。"
+      },
+      {
+        "reference": "v03-c0285:p0061",
+        "length": 54,
+        "sha256": "2b93451b9b990a960c77566e85174cf43d88f8fc2bff12f42e77617fda05e644",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0061:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "蜈实际焚灰并融黑焰，黑手袭孟；与28人头爆分时。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "蜈实际焚灰并融黑焰，黑手袭孟；与28人头爆分时。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "蜈实际焚灰并融黑焰，黑手袭孟；与28人头爆分时。"
+      },
+      {
+        "reference": "v03-c0285:p0062",
+        "length": 31,
+        "sha256": "381a9e04eefa438436afd823833c3a6084bf583bbc24fb85a46c41e0d4051b88",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0062:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "元神似将被抓出，未实际离体被攫。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "元神似将被抓出，未实际离体被攫。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "元神似将被抓出，未实际离体被攫。"
+      },
+      {
+        "reference": "v03-c0285:p0063",
+        "length": 5,
+        "sha256": "04100f15353075eecfa3b84ec8a30551aba4a729d1abcac238d02def5300dd6d",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0063:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，九窍；火掩面与纪陶伪装分场",
+            "text_context": "孟对效用的短识别，非尹在旁喊招。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "内心",
+            "fact_status": "按逐段事实注",
+            "embodiment": "承反噬抽神，后结印护魂并借灶火",
+            "delivery": "短促喝令，避免给感应加外声",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "孟对效用的短识别，非尹在旁喊招。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟对效用的短识别，非尹在旁喊招。"
+      },
+      {
+        "reference": "v03-c0285:p0064",
+        "length": 52,
+        "sha256": "217d4e54a513be62dc4ae0ff06c64ce735d82c1ee7dfff2d1f41a29019297121",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0064:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "流火围身掩气貌，双手莲状结印。未给新秘印实名。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "流火围身掩气貌，双手莲状结印。未给新秘印实名。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "流火围身掩气貌，双手莲状结印。未给新秘印实名。"
+      },
+      {
+        "reference": "v03-c0285:p0065",
+        "length": 20,
+        "sha256": "f4756a68916fe287bf3c3bba7fb50da395fa78f6fda500c52fc3624fa2996346",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0065:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "连地如山属体感与防护状态，不真变山体。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "连地如山属体感与防护状态，不真变山体。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "连地如山属体感与防护状态，不真变山体。"
+      },
+      {
+        "reference": "v03-c0285:p0066",
+        "length": 69,
+        "sha256": "dbc6ddaae087ded9465faafd660f0f40371ea42fc5d0586ece489077864df7d9",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0066:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "轮印数击黑手并阻抽魂，像提地是效果比喻。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "轮印数击黑手并阻抽魂，像提地是效果比喻。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "轮印数击黑手并阻抽魂，像提地是效果比喻。"
+      },
+      {
+        "reference": "v03-c0285:p0067",
+        "length": 38,
+        "sha256": "1d43163bb57a8fe74863c25cf402c97f0c306c305e86960976aad88cf2a4c2ee",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0067:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑手先散，孟借人灶火实遁现身。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "黑手先散，孟借人灶火实遁现身。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑手先散，孟借人灶火实遁现身。"
+      },
+      {
+        "reference": "v03-c0285:p0068",
+        "length": 25,
+        "sha256": "c07ec4e66aa5af6c76db2e262e42885e2d6909fb612bcfad1b663206fa004ae4",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0068:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "借相隔不远多处火连续远遁，总路程不是单次距离，不改281单次十丈边界。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "借相隔不远多处火连续远遁，总路程不是单次距离，不改281单次十丈边界。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "借相隔不远多处火连续远遁，总路程不是单次距离，不改281单次十丈边界。"
+      },
+      {
+        "reference": "v03-c0285:p0069",
+        "length": 32,
+        "sha256": "75f70f8591a55f20d0af046606e42f9418d939fe4c8e05ca5557fc4f4bd17856",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0069:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "尹少顷本人真到此地，与51镜中形象分开。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "尹少顷本人真到此地，与51镜中形象分开。",
+            "focalizer": "v03c285_yin_lenghui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "尹少顷本人真到此地，与51镜中形象分开。"
+      },
+      {
+        "reference": "v03-c0285:p0070",
+        "length": 34,
+        "sha256": "91611fcf6ba093911969bc22a18433d5a64ea620c9b285ecc682b59470b7091e",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0070:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "尹搜无痕即离，未确定抓到孟。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "挡抽魂并接火远遁",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "尹搜无痕即离，未确定抓到孟。",
+            "focalizer": "v03c285_yin_lenghui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "尹搜无痕即离，未确定抓到孟。"
+      },
+      {
+        "reference": "v03-c0285:p0071",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0071:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "切府内场。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "府内问责",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "切府内场。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "切府内场。"
+      },
+      {
+        "reference": "v03-c0285:p0072",
+        "length": 31,
+        "sha256": "999db83f1915779fdb622f2a689ec6de13f54e7008847e7d5a3bbdb2214c4f09",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0072:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "左因穆死震怒召众，确认穆已亡。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "府内问责",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "左因穆死震怒召众，确认穆已亡。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "左因穆死震怒召众，确认穆已亡。"
+      },
+      {
+        "reference": "v03-c0285:p0073",
+        "length": 33,
+        "sha256": "8fb379905cfd1d7a7b85068d93cab1c03f9fe84b16ea6b47c0c760212d8f9ae4",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0073:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟白布假纪，有外景识破的担忧，尚未说身份被揭。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "府内问责",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "孟白布假纪，有外景识破的担忧，尚未说身份被揭。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟白布假纪，有外景识破的担忧，尚未说身份被揭。"
+      },
+      {
+        "reference": "v03-c0285:p0074",
+        "length": 67,
+        "sha256": "b7e7731085ed24527d29b72c84d939cb1091197f27f1282bc4952b83b9b55d94",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0074:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "尹不到外景却近、部分像西王母是孟的估计，未获确切品级、不揭西王母真实人名。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "府内问责",
+            "channel": "旁白",
+            "fact_status": "可疑实力估计",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "尹不到外景却近、部分像西王母是孟的估计，未获确切品级、不揭西王母真实人名。",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "尹不到外景却近、部分像西王母是孟的估计，未获确切品级、不揭西王母真实人名。"
+      },
+      {
+        "reference": "v03-c0285:p0075",
+        "length": 44,
+        "sha256": "de776ee6081b2dbd381c5a1cc78098e5cb9a02191e8bca2c4df2c5967e5a508f",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0075:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "左本人首次本段露面，眼碧须青，海压与踱步；未实战。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "府内问责",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "左本人首次本段露面，眼碧须青，海压与踱步；未实战。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "左本人首次本段露面，眼碧须青，海压与踱步；未实战。"
+      },
+      {
+        "reference": "v03-c0285:p0076",
+        "length": 36,
+        "sha256": "a7e69f0adad011e3077e30871ee580890c26726866c998478c0a5d1d24047d41",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0076:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "红衣杀独子引恨是叙事背景；儿媳及孙女仍活且在场。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "府内问责",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "红衣杀独子引恨是叙事背景；儿媳及孙女仍活且在场。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "红衣杀独子引恨是叙事背景；儿媳及孙女仍活且在场。"
+      },
+      {
+        "reference": "v03-c0285:p0077",
+        "length": 62,
+        "sha256": "651f8f26529b94fee23e14fed9818332e3206bcf14d1728dfe8e0e6e24fbf8b4",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0077:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "宫装妇约四十来岁，似念亡夫、容貌与左依倩相似，本段无姓名。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "府内问责",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "宫装妇约四十来岁，似念亡夫、容貌与左依倩相似，本段无姓名。",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "宫装妇约四十来岁，似念亡夫、容貌与左依倩相似，本段无姓名。"
+      },
+      {
+        "reference": "v03-c0285:p0078",
+        "length": 31,
+        "sha256": "b140ddbb2622fd63568993aaeab95ea2276213f88348567a6389b3345648885d",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0078:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "尹阴冷指孟伪纪，要问前案。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "府内问责",
+            "channel": "旁白",
+            "fact_status": "按逐段事实注",
+            "embodiment": "",
+            "delivery": "",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "尹阴冷指孟伪纪，要问前案。",
+            "focalizer": "v03c285_yin_lenghui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "尹阴冷指孟伪纪，要问前案。"
+      },
+      {
+        "reference": "v03-c0285:p0079",
+        "length": 35,
+        "sha256": "0339daa744c582fa2c32777f6134cc4a0d7b76a400cc94c7cde0ce2ebbc61400",
+        "units": [
+          {
+            "unit_id": "v03-c0285:p0079:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "v03c285_yin_lenghui",
+            "surface_identity": "尹冷辉；黑袍阴冷",
+            "text_context": "尹真质疑穆死而纪能逃，未宣确认冒名，本章问题未答。",
+            "world_context": "第三卷：寻人蛊与反伏击、穆安虫身、黑焰交锋和府内质问",
+            "stage_context": "府内问责",
+            "channel": "实际言语",
+            "fact_status": "按逐段事实注",
+            "embodiment": "尖下巴白脸黑袍，先镜中焚偶，后亲到再到府",
+            "delivery": "布偶镜像无言，府内直接质问",
+            "information_and_time_boundary": "今日青衣阮扮、胡男江；前日青衣确为江。镜内对坐人未识；尹末只质问。",
+            "vow_friendship_and_loot_boundary": "四黑虫与鲜群、蜈蚣分波。最终无活口，未用绳；多点火遁仍各段接近。",
+            "manual_and_claim_boundary": "凤鸣实用，无音只是更合适；变天击地实用有反噬，抽魂未成；尹的境界为孟估。",
+            "knowledge_boundary": "尹真质疑穆死而纪能逃，未宣确认冒名，本章问题未答。",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "尹真质疑穆死而纪能逃，未宣确认冒名，本章问题未答。"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v03-0285",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V03-S37",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 12,
+        "label": "胡男是江，今日青女是阮",
+        "direction": "穆灰皮石像在此界不稀奇，自恃强过纪而命带路。黑寻人蛊双对透翼、鸟鸣色音，闹市杂气先扰，偏巷成功追今日青女。江确认胡男，阮今日扮青女，使近身者不暴露旧气；昨日酒家青女仍是江。 证据 v03-c0285:p0001–p0012。"
+      },
+      {
+        "paragraph_start": 13,
+        "paragraph_end": 29,
+        "label": "凤鸣分魂、紫河碎蛊，穆自爆头",
+        "direction": "穆开始想退，阮凤鸣九天分魂；江点眉欲锁活擒。鲜虫各携少气逃，低阶不辨凤鸣，文本仅提无音更对症。齐紫星河实碎鲜蛊；穆眉心中剑后头爆，后续尚有虫身。 证据 v03-c0285:p0013–p0029。"
+      },
+      {
+        "paragraph_start": 30,
+        "paragraph_end": 44,
+        "label": "四黑虫与人面蜈蚣分开",
+        "direction": "四肢化四黑长虫，江剖一，赤色火龙状剑光焚三。躯干再钻灰白脊骨状人面蜈蚣，欲遁土未成。孟淡金火遮面，纯力拖住；缠挠喷毒这次无伤，欲攻九窍时被体火烧瓦解，不能概括全部无罩门。 证据 v03-c0285:p0030–p0044。"
+      },
+      {
+        "paragraph_start": 45,
+        "paragraph_end": 60,
+        "label": "回溯受派，审问被焚偶截断",
+        "direction": "孟大半个时辰前奉承蒋并受派助穆，分清插叙与抓蜈当刻。实用变天击地读穆寄蜈元神，圆镜现密室尹及一名难辨对坐者。尹在镜内黑焰焚灰白布偶，心海焰吞穆神并扑孟。孟承反噬抽神、抛蜈、高声令分走，队友信任即遁。 证据 v03-c0285:p0045–p0060。"
+      },
+      {
+        "paragraph_start": 61,
+        "paragraph_end": 70,
+        "label": "阻黑手抽魂，借相邻灶火脱离",
+        "direction": "蜈蚣在半空烧灰，黑焰成大手抽魂。孟火掩面与气息，莲状印连地抗拔，手崩后才灶火实遁。经数处相邻火源远走，单次仍受已知十丈限。尹随后本人到而搜不见线，未追到孟。 证据 v03-c0285:p0061–p0070。"
+      },
+      {
+        "paragraph_start": 72,
+        "paragraph_end": 79,
+        "label": "左寒风露面，尹问纪为何能逃",
+        "direction": "穆死令左震怒召人，碧眼青须海压。叙红衣军杀其独子；宫装未亡妇面哀，孙女左依倩在旁。孟白布假纪担忧被外景辨，估尹部分近西王母是其判断。尹指问前次纪能逃的原因，尚未作答或揭假。 证据 v03-c0285:p0072–p0079。"
+      }
+    ],
+    "knowledge_rule": "今日青女为阮，江胡男。鲜蛊、四黑虫与蜈蚣各波分开，穆最终死。尹镜像与本人分，孟承反噬借多火遁，府内质疑待答。"
+  }
 }

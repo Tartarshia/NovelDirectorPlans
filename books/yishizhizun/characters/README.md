@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [穆安寻人蛊、虫身脱逃与确认死亡](early-v03-MuAn-tracking-gu-many-escapes-finally-dead.md) | 第三卷第285章历史归属回补 |
+| [尹冷辉焚偶与孟实承反噬](early-v03-YinLenghui-doll-black-flame-interrupts-probe.md) | 第三卷第285章历史归属回补 |
+| [左寒风府中现身并召问穆死](early-v03-ZuoHanfeng-first-in-person-grief-meeting.md) | 第三卷第285章历史归属回补 |
 | [蒋盛洪察四友易容，仍接受密探身份](early-v03-JiangShenghong-detects-disguise-accepts-cover.md) | 第三卷第284章历史归属回补 |
 | [孙神医察异常，文成画出错像](early-v03-Sun-pulse-anomaly-WenCheng-false-portraits.md) | 第三卷第284章历史归属回补 |
 | [穆安、蓝蝶与留活枕蛊](early-v03-MuAn-LanDie-pillow-gu-false-information.md) | 第三卷第284章历史归属回补 |
