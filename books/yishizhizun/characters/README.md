@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [活佛败后回到云雁馆，莲印笑泪圆寂](early-v03-Living-Buddha-returns-to-hall-and-dies-in-lotus-seal.md) | 第三卷第310章历史归属回补 |
+| [孟奇借宿并谈内外天地的隔膜](early-v03-MengQi-teaches-principles-and-faint-virtue-qi.md) | 第三卷第310章历史归属回补 |
+| [剑皇以木偶十四剑字邀会，夹一丝外魔气](early-v03-Sword-Emperor-wooden-figurine-letter-invitation.md) | 第三卷第310章历史归属回补 |
 | [孟奇借活佛秘术查宿世](early-v03-MengQi-seeks-Living-Buddha-to-probe-past-lives.md) | 第三卷第309章历史归属回补 |
 | [当代活佛与孟奇同时启精神秘法](early-v03-Living-Buddha-rounds-and-inner-sun.md) | 第三卷第309章历史归属回补 |
 | [孟奇精神佛相与厅中指地指天](early-v03-MengQi-mental-Buddha-echo-and-real-gesture.md) | 第三卷第309章历史归属回补 |
