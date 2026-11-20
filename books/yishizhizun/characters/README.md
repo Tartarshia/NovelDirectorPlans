@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [灵宝天尊现身，青萍剑为古代云中子所仿](early-v03-Lingbao-and-ancient-Yunzhongzi-sword-replica.md) | 第三卷第321章历史归属回补 |
+| [三门与墨玉剑售灵宝，八千买八九外景篇](early-v03-Eight-Nine-exterior-purchase-and-sale-terms.md) | 第三卷第321章历史归属回补 |
+| [避接仙迹神都任务，一个多月后六道另派神都](early-v03-MengQi-skips-local-Shendu-job-and-gets-reincarnation-mission.md) | 第三卷第321章历史归属回补 |
 | [戒杀道人斧落流泪，平静辞天命观](early-v03-Jiesha-leaves-Tianming-after-tears.md) | 第三卷第320章历史归属回补 |
 | [金衣会长因假遗言说出狼王已用尽，杀狼会仍存](early-v03-Gold-chair-reacts-to-Mengs-bluff-and-retains-society.md) | 第三卷第320章历史归属回补 |
 | [孟奇两月稳合一，菩提成粉，赴仙迹问八九外景篇](early-v03-MengQi-unity-rounded-bodhi-spent-and-price-estimate.md) | 第三卷第320章历史归属回补 |
