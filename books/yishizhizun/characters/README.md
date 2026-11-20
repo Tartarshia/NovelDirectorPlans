@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [司空图夫人接遗物、默写秘术，孟了因果](early-v03-Sikong-widow-handover-and-causal-discharge.md) | 第三卷第301章历史归属回补 |
+| [无忧谷线索转向司空图衣冠冢](early-v03-Wuyou-valley-record-cenotaph-lead.md) | 第三卷第301章历史归属回补 |
+| [上官横街战败于宿世冲击，身体未伤](early-v03-ShangguanHeng-past-life-memory-defeat-uninjured.md) | 第三卷第301章历史归属回补 |
 | [乐黎人榜争辩与公众信息的边界](early-v03-LeLi-debates-public-ranked-fighters.md) | 第三卷第300章历史归属回补 |
 | [上官横酒楼出面打断争辩](early-v03-ShangguanHeng-tavern-interruption-before-any-duel.md) | 第三卷第300章历史归属回补 |
 | [司家化姓落脚，孟见子与未亡妇](early-v03-Sikong-household-reached-gifts-not-delivered.md) | 第三卷第300章历史归属回补 |
