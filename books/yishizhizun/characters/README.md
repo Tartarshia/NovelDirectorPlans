@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [左依倩的琴中甜愁与街上试探](early-v03-ZuoYiqian-private-qin-and-fortune-teller-bait.md) | 第三卷第289章历史归属回补 |
+| [阮玉书听琴辨情与尊重同伴隐私](early-v03-RuanYushu-qin-emotional-reading-and-privacy.md) | 第三卷第289章历史归属回补 |
+| [赵恒巡府提分队，孟决定先探杜](early-v03-ZhaoHeng-split-party-option-not-enacted.md) | 第三卷第289章历史归属回补 |
 | [教主借虫传声与杜怀伤交涉](early-v03-secret-cult-leader-buzz-voice-and-du-negotiation.md) | 第三卷第288章历史归属回补 |
 | [眼中异景疑是南荒，老祖疑似血海罗刹](early-v03-XuehaiLuocha-ancestor-resemblance-unconfirmed.md) | 第三卷第288章历史归属回补 |
 | [江芷微已下决心，待任务结束再说](early-v03-JiangZhiwei-decision-kept-until-mission-end.md) | 第三卷第288章历史归属回补 |
