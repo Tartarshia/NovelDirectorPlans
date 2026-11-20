@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [落日峰分层见证，星局与白虹](early-v03-MengQi-and-Sword-Emperor-peak-observers-and-force.md) | 第三卷第312章历史归属回补 |
+| [剑皇见天外飞仙，临阵新剑转白虹成涡](early-v03-Sword-Emperor-sees-flying-immortal-and-invents-defense.md) | 第三卷第312章历史归属回补 |
+| [剑皇捏碎黑皮怪，裂隙石室见青衫男子](early-v03-Sword-Emperor-crushes-black-creature-and-enters-stone-room.md) | 第三卷第312章历史归属回补 |
 | [神剑木偶双面三十字与白绢拓本](early-v03-Sword-puppet-two-inscriptions-and-rubbing.md) | 第三卷第311章历史归属回补 |
 | [剑皇传宋明木偶，只补自身剑法窍路](early-v03-Sword-Emperor-passes-puppet-to-Song-Ming.md) | 第三卷第311章历史归属回补 |
 | [孟奇于落日峰察外魔藏在剑皇体内](early-v03-Sword-Emperor-holds-Mengs-outer-demon.md) | 第三卷第311章历史归属回补 |
