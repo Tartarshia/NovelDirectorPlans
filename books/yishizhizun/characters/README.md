@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [大宁主线正式结算与疗伤](early-v03-Daning-turn-in-and-healing.md) | 第三卷第296章历史归属回补 |
+| [周遗物和蓝螭之爪分账，孟留大还丹](early-v03-blue-chilong-claw-and-Zhou-property-sold.md) | 第三卷第296章历史归属回补 |
+| [江芷微宣布坐死关，计划延后轮回](early-v03-JiangZhiwei-announces-dead-seclusion.md) | 第三卷第296章历史归属回补 |
 | [赵恒祭九龙纹金印，来源未证](early-v03-ZhaoHeng-nine-dragon-seal-actual-use-source-unproved.md) | 第三卷第295章历史归属回补 |
 | [蒋盛洪复援，落风后被斩首](early-v03-JiangShenghong-loyal-aid-final-beheading.md) | 第三卷第295章历史归属回补 |
 | [孟奇借首级与龙爪震慑亲兵，护杜出城](early-v03-MengQi-offers-surrender-to-get-Du-out.md) | 第三卷第295章历史归属回补 |
