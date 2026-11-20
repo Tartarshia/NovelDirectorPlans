@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇取得五百年菩提子并选合击](early-v03-MengQi-bodhi-pendant-and-yinyang-selection.md) | 第三卷第298章历史归属回补 |
+| [高览从打趣转认真，带孟赴洗剑阁](early-v03-GaoLan-transports-Meng-for-farewell.md) | 第三卷第298章历史归属回补 |
+| [江芷微鹅黄赴约，半山亭说明自己最想要的路](early-v03-JiangZhiwei-goose-yellow-farewell-sword-poem.md) | 第三卷第298章历史归属回补 |
 | [江芷微按己之道，付费延一年](early-v03-JiangZhiwei-pays-one-year-no-borrowing.md) | 第三卷第297章历史归属回补 |
 | [赵恒均分公物并以龙华佩和善功得玺](early-v03-ZhaoHeng-shares-loot-equally-and-acquires-true-seal.md) | 第三卷第297章历史归属回补 |
 | [换物分途，团体能力仍待修炼](early-v03-team-split-cultivation-exchanges-before-home-task.md) | 第三卷第297章历史归属回补 |
