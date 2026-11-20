@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [神都正式发布狂刀第一，樊长苗仍只在闲谈中](early-v03-Shendu-public-ranking-and-tavern-rumors.md) | 第三卷第322章历史归属回补 |
+| [魏王赵恒与孟重会，借互换玩笑舒压](early-v03-Zhao-Heng-plain-clothes-and-Mengs-role-swap-joke.md) | 第三卷第322章历史归属回补 |
+| [孟奇托赵恒查杨无量和顾长青](early-v03-MengQi-asks-about-Yang-Wuliang-and-Gu-Changqing.md) | 第三卷第322章历史归属回补 |
 | [灵宝天尊现身，青萍剑为古代云中子所仿](early-v03-Lingbao-and-ancient-Yunzhongzi-sword-replica.md) | 第三卷第321章历史归属回补 |
 | [三门与墨玉剑售灵宝，八千买八九外景篇](early-v03-Eight-Nine-exterior-purchase-and-sale-terms.md) | 第三卷第321章历史归属回补 |
 | [避接仙迹神都任务，一个多月后六道另派神都](early-v03-MengQi-skips-local-Shendu-job-and-gets-reincarnation-mission.md) | 第三卷第321章历史归属回补 |
