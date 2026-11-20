@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [教主借虫传声与杜怀伤交涉](early-v03-secret-cult-leader-buzz-voice-and-du-negotiation.md) | 第三卷第288章历史归属回补 |
+| [眼中异景疑是南荒，老祖疑似血海罗刹](early-v03-XuehaiLuocha-ancestor-resemblance-unconfirmed.md) | 第三卷第288章历史归属回补 |
+| [江芷微已下决心，待任务结束再说](early-v03-JiangZhiwei-decision-kept-until-mission-end.md) | 第三卷第288章历史归属回补 |
 | [文成接密探，假纪转外府巡警](early-v03-WenCheng-swaps-role-with-disguised-JiTao.md) | 第三卷第287章历史归属回补 |
 | [秘教的闭眼教主与被称为老祖的声音](early-v03-secret-cult-leader-closed-eyes-ancestor-medium.md) | 第三卷第287章历史归属回补 |
 | [蓝蝶称老祖，待尹离开后提两门功法](early-v03-LanDie-recognizes-two-manual-names.md) | 第三卷第287章历史归属回补 |
