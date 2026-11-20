@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [赵恒祭九龙纹金印，来源未证](early-v03-ZhaoHeng-nine-dragon-seal-actual-use-source-unproved.md) | 第三卷第295章历史归属回补 |
+| [蒋盛洪复援，落风后被斩首](early-v03-JiangShenghong-loyal-aid-final-beheading.md) | 第三卷第295章历史归属回补 |
+| [孟奇借首级与龙爪震慑亲兵，护杜出城](early-v03-MengQi-offers-surrender-to-get-Du-out.md) | 第三卷第295章历史归属回补 |
 | [阮玉书咬舌血祭栖凤，仍留碧落仙符](early-v03-RuanYushu-blood-fed-qin-keeps-jade-talisman.md) | 第三卷第294章历史归属回补 |
 | [仿阴阳镜阴面实照，随螭龙相而碎](early-v03-MengQi-mirror-yin-side-spent-on-dragon-form.md) | 第三卷第294章历史归属回补 |
 | [左寒风舍相、断臂、碎肉重凝](early-v03-ZuoHanfeng-arm-loss-and-reconstitution-alive.md) | 第三卷第294章历史归属回补 |
