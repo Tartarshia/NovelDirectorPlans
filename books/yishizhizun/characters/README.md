@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江芷微按己之道，付费延一年](early-v03-JiangZhiwei-pays-one-year-no-borrowing.md) | 第三卷第297章历史归属回补 |
+| [赵恒均分公物并以龙华佩和善功得玺](early-v03-ZhaoHeng-shares-loot-equally-and-acquires-true-seal.md) | 第三卷第297章历史归属回补 |
+| [换物分途，团体能力仍待修炼](early-v03-team-split-cultivation-exchanges-before-home-task.md) | 第三卷第297章历史归属回补 |
 | [大宁主线正式结算与疗伤](early-v03-Daning-turn-in-and-healing.md) | 第三卷第296章历史归属回补 |
 | [周遗物和蓝螭之爪分账，孟留大还丹](early-v03-blue-chilong-claw-and-Zhou-property-sold.md) | 第三卷第296章历史归属回补 |
 | [江芷微宣布坐死关，计划延后轮回](early-v03-JiangZhiwei-announces-dead-seclusion.md) | 第三卷第296章历史归属回补 |
