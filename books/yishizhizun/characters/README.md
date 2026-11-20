@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [玉原峰顶的未名奇人，上官曾到访](early-v03-unnamed-Yuyuan-peak-thinker-ever-visited.md) | 第三卷第304章历史归属回补 |
+| [上官横遇冰壁崩塌，后来真正道谢](early-v03-ShangguanHeng-cliff-rescue-moves-to-thanks.md) | 第三卷第304章历史归属回补 |
+| [两处雪莲要分开，路过不夺与被抛残莲](early-v03-Yuyuan-two-separate-lotuses.md) | 第三卷第304章历史归属回补 |
 | [孟奇两日读经，以大能招浅层认识互比](early-v03-MengQi-reads-classics-compares-cosmologies.md) | 第三卷第303章历史归属回补 |
 | [上官横从战绩和外景持宝说明路上少敌](early-v03-ShangguanHeng-local-reasons-for-few-challenges.md) | 第三卷第303章历史归属回补 |
 | [上官横问敢否见思天地奇人](early-v03-ShangguanHeng-invites-Meng-to-unnamed-thinker.md) | 第三卷第303章历史归属回补 |
