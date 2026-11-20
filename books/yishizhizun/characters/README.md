@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [高览旧恋、自责与醉评法身](early-v03-GaoLan-drinking-grief-and-peer-opinions.md) | 第三卷第299章历史归属回补 |
+| [高览谈陆大时改称寡人，压孟后离](early-v03-GaoLan-changes-self-address-and-departs.md) | 第三卷第299章历史归属回补 |
+| [江入死关的外部消息与榜单改次](early-v03-ranking-Jiang-removed-Langwang-one-Sumeng-two.md) | 第三卷第299章历史归属回补 |
 | [孟奇取得五百年菩提子并选合击](early-v03-MengQi-bodhi-pendant-and-yinyang-selection.md) | 第三卷第298章历史归属回补 |
 | [高览从打趣转认真，带孟赴洗剑阁](early-v03-GaoLan-transports-Meng-for-farewell.md) | 第三卷第298章历史归属回补 |
 | [江芷微鹅黄赴约，半山亭说明自己最想要的路](early-v03-JiangZhiwei-goose-yellow-farewell-sword-poem.md) | 第三卷第298章历史归属回补 |
