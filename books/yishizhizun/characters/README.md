@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阿古拉因儿阿尔斯楞遇害秘密入会](early-v03-Agula-son-killed-wolf-society-reason.md) | 第三卷第314章历史归属回补 |
+| [巴图误认为狼王，阿古拉看清哲别跟步](early-v03-Batu-perception-and-Agula-sees-Meng-following.md) | 第三卷第314章历史归属回补 |
+| [准入待萨满见证，孟感图腾因果线](early-v03-Society-oath-conditions-and-totem-link.md) | 第三卷第314章历史归属回补 |
 | [孟奇短暂天人合一，返初冬后退回交感](early-v03-MengQi-brief-unity-resumes-contact-and-tests-path.md) | 第三卷第313章历史归属回补 |
 | [老乌恩在白灾中营酒帐，兼六扇青绶](early-v03-Old-Wuen-wine-tent-and-six-doors.md) | 第三卷第313章历史归属回补 |
 | [孟奇搜狼王，老乌恩提供杀狼会线索](early-v03-Wolf-King-clues-and-request-for-introduction.md) | 第三卷第313章历史归属回补 |
