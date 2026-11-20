@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇两日读经，以大能招浅层认识互比](early-v03-MengQi-reads-classics-compares-cosmologies.md) | 第三卷第303章历史归属回补 |
+| [上官横从战绩和外景持宝说明路上少敌](early-v03-ShangguanHeng-local-reasons-for-few-challenges.md) | 第三卷第303章历史归属回补 |
+| [上官横问敢否见思天地奇人](early-v03-ShangguanHeng-invites-Meng-to-unnamed-thinker.md) | 第三卷第303章历史归属回补 |
 | [古书推无忧谷在播密，入口仍未知](early-v03-Wuyou-valley-Bomi-lead-entry-unknown.md) | 第三卷第302章历史归属回补 |
 | [上官横跟随孟奇，等待想到防刀法](early-v03-ShangguanHeng-follows-without-allegiance.md) | 第三卷第302章历史归属回补 |
 | [孟奇收罡走雨泥，以天问审视所感天地](early-v03-MengQi-observes-rain-and-questions-world.md) | 第三卷第302章历史归属回补 |
