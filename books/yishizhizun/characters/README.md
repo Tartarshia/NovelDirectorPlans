@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黄粱在小冰屋自述非此界](early-v03-Huangliang-peak-self-reported-other-world.md) | 第三卷第305章历史归属回补 |
+| [孟奇以原位归还千年莲，修持不违本心](early-v03-MengQi-returns-lotus-restages-pursuit.md) | 第三卷第305章历史归属回补 |
+| [孟奇活用不死七幻，掌刀与指剑连换](early-v03-MengQi-real-as-empty-Seven-Illusions-use.md) | 第三卷第305章历史归属回补 |
 | [玉原峰顶的未名奇人，上官曾到访](early-v03-unnamed-Yuyuan-peak-thinker-ever-visited.md) | 第三卷第304章历史归属回补 |
 | [上官横遇冰壁崩塌，后来真正道谢](early-v03-ShangguanHeng-cliff-rescue-moves-to-thanks.md) | 第三卷第304章历史归属回补 |
 | [两处雪莲要分开，路过不夺与被抛残莲](early-v03-Yuyuan-two-separate-lotuses.md) | 第三卷第304章历史归属回补 |
