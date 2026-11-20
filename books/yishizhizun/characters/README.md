@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾长青负伤救师，孟以雷言解围](early-v03-Gu-Changqing-fights-to-protect-Shi-and-Meng-arrives.md) | 第三卷第325章历史归属回补 |
+| [师怀黑木盒归顾长青，所护物像半块令牌](early-v03-black-box-fragment-passed-to-Gu-Changqing.md) | 第三卷第325章历史归属回补 |
+| [顾长青受邀想仇后人生，传承只问意愿](early-v03-Gu-Changqing-considers-life-after-revenge.md) | 第三卷第325章历史归属回补 |
 | [阮玉书与齐正言抵神都，各报告自己的阶段](early-v03-Ruan-and-Qi-rejoin-with-separate-practice-states.md) | 第三卷第324章历史归属回补 |
 | [四人主线一成，琼华宴任务二出现](early-v03-Qionghua-banquet-objective-and-Su-Li-organizer.md) | 第三卷第324章历史归属回补 |
 | [顾长青在京畿夜押镖队，七窍初成内天地](early-v03-Gu-Changqing-escort-encircled-at-capital-edge.md) | 第三卷第324章历史归属回补 |
