@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [胡斗在雅间外感空，魏王面见孟奇并报两线](early-v03-Hu-Dou-cannot-sense-Meng-and-Zhao-reports-two-leads.md) | 第三卷第323章历史归属回补 |
+| [杨无量在侧门遭遇孟奇，内景与落掌同轨](early-v03-Yang-Wuliang-falls-with-inner-and-outer-palm-in-sync.md) | 第三卷第323章历史归属回补 |
+| [冯征追失气息，孟奇按约出现在魏王府](early-v03-Zhao-reception-and-Feng-loses-trace.md) | 第三卷第323章历史归属回补 |
 | [神都正式发布狂刀第一，樊长苗仍只在闲谈中](early-v03-Shendu-public-ranking-and-tavern-rumors.md) | 第三卷第322章历史归属回补 |
 | [魏王赵恒与孟重会，借互换玩笑舒压](early-v03-Zhao-Heng-plain-clothes-and-Mengs-role-swap-joke.md) | 第三卷第322章历史归属回补 |
 | [孟奇托赵恒查杨无量和顾长青](early-v03-MengQi-asks-about-Yang-Wuliang-and-Gu-Changqing.md) | 第三卷第322章历史归属回补 |
