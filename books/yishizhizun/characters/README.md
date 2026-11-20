@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [周永实名与秘宝的读者边界](early-v03-ZhouYong-named-has-private-treasure.md) | 第三卷第291章历史归属回补 |
+| [左依倩拟索誓，进空室才得知杜离开](early-v03-ZuoYiqian-intends-vow-but-room-empty.md) | 第三卷第291章历史归属回补 |
+| [目标是使左离阵，末案先制周](early-v03-party-lures-out-arrays-and-switches-first-target.md) | 第三卷第291章历史归属回补 |
 | [杜怀伤辨红衣信物并被扶离绣楼](early-v03-DuHuaishang-secret-room-sign-and-rescue.md) | 第三卷第290章历史归属回补 |
 | [杜怀伤讲血海莲花之梦，尚无前世定论](early-v03-DuHuaishang-blood-lotus-dream-not-proof.md) | 第三卷第290章历史归属回补 |
 | [杜自逼蛊，赵孟驱，阮显线，江斩连](early-v03-five-person-alliance-gu-removal-and-cut-link.md) | 第三卷第290章历史归属回补 |
