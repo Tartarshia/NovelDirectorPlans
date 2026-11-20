@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇短暂天人合一，返初冬后退回交感](early-v03-MengQi-brief-unity-resumes-contact-and-tests-path.md) | 第三卷第313章历史归属回补 |
+| [老乌恩在白灾中营酒帐，兼六扇青绶](early-v03-Old-Wuen-wine-tent-and-six-doors.md) | 第三卷第313章历史归属回补 |
+| [孟奇搜狼王，老乌恩提供杀狼会线索](early-v03-Wolf-King-clues-and-request-for-introduction.md) | 第三卷第313章历史归属回补 |
 | [落日峰分层见证，星局与白虹](early-v03-MengQi-and-Sword-Emperor-peak-observers-and-force.md) | 第三卷第312章历史归属回补 |
 | [剑皇见天外飞仙，临阵新剑转白虹成涡](early-v03-Sword-Emperor-sees-flying-immortal-and-invents-defense.md) | 第三卷第312章历史归属回补 |
 | [剑皇捏碎黑皮怪，裂隙石室见青衫男子](early-v03-Sword-Emperor-crushes-black-creature-and-enters-stone-room.md) | 第三卷第312章历史归属回补 |
