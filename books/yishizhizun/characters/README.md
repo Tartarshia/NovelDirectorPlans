@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [杜怀伤危急催虚幻金乌法相](early-v03-DuHuaishang-urgent-golden-crow-manifestation.md) | 第三卷第293章历史归属回补 |
+| [尹冷辉在阮赵齐协同后元神冻结身死](early-v03-YinLenghui-dead-frozen-spirit-cause-unresolved.md) | 第三卷第293章历史归属回补 |
+| [仿阴阳镜到手后须破禁](early-v03-MengQi-releases-mirror-restrictions-not-used.md) | 第三卷第293章历史归属回补 |
 | [赵恒自断左臂阻蛊并继续牵制](early-v03-ZhaoHeng-self-severs-left-arm-and-fights-on.md) | 第三卷第292章历史归属回补 |
 | [周永中绳，掌中宝未用，身死](early-v03-ZhouYong-bound-and-killed-mirror-unused.md) | 第三卷第292章历史归属回补 |
 | [左寒风的龙血弱点、护主宝兵及未成秘功](early-v03-ZuoHanfeng-dragon-blood-freeze-and-runes.md) | 第三卷第292章历史归属回补 |
