@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阿古拉夜惧，孟奇于岩壁近合一](early-v03-Agula-night-fears-and-MengQi-nearly-unified.md) | 第三卷第318章历史归属回补 |
+| [狼王短移快，孟奇凭感应护罩门并反攻](early-v03-MengQi-holds-line-against-Wolf-King-short-speed.md) | 第三卷第318章历史归属回补 |
+| [狼王左手骨剑破假紫雷，孟先实出天外飞仙](early-v03-Wolf-King-bone-sword-pierces-feint-and-retreats.md) | 第三卷第318章历史归属回补 |
 | [暗见达日阿赤夜访那日苏，翌时亲见其死](early-v03-Dari-Achi-seen-at-Nari-Su-and-found-dead.md) | 第三卷第317章历史归属回补 |
 | [那日苏指巴彦谷，土屋裂物使孟联想到戒杀道人](early-v03-Bayan-Valley-hut-and-Jiesha-hypothesis.md) | 第三卷第317章历史归属回补 |
 | [孟奇自十一月守至三月初，动摇后再定](early-v03-MengQi-months-wait-doubt-and-draw.md) | 第三卷第317章历史归属回补 |
