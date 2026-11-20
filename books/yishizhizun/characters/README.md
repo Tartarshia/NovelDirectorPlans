@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [赵恒自断左臂阻蛊并继续牵制](early-v03-ZhaoHeng-self-severs-left-arm-and-fights-on.md) | 第三卷第292章历史归属回补 |
+| [周永中绳，掌中宝未用，身死](early-v03-ZhouYong-bound-and-killed-mirror-unused.md) | 第三卷第292章历史归属回补 |
+| [左寒风的龙血弱点、护主宝兵及未成秘功](early-v03-ZuoHanfeng-dragon-blood-freeze-and-runes.md) | 第三卷第292章历史归属回补 |
 | [周永实名与秘宝的读者边界](early-v03-ZhouYong-named-has-private-treasure.md) | 第三卷第291章历史归属回补 |
 | [左依倩拟索誓，进空室才得知杜离开](early-v03-ZuoYiqian-intends-vow-but-room-empty.md) | 第三卷第291章历史归属回补 |
 | [目标是使左离阵，末案先制周](early-v03-party-lures-out-arrays-and-switches-first-target.md) | 第三卷第291章历史归属回补 |
