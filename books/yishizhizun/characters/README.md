@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [戒杀道人斧落流泪，平静辞天命观](early-v03-Jiesha-leaves-Tianming-after-tears.md) | 第三卷第320章历史归属回补 |
+| [金衣会长因假遗言说出狼王已用尽，杀狼会仍存](early-v03-Gold-chair-reacts-to-Mengs-bluff-and-retains-society.md) | 第三卷第320章历史归属回补 |
+| [孟奇两月稳合一，菩提成粉，赴仙迹问八九外景篇](early-v03-MengQi-unity-rounded-bodhi-spent-and-price-estimate.md) | 第三卷第320章历史归属回补 |
 | [狼王铁升临战突破完美半步，于巴彦谷身死](early-v03-Wolf-King-perfect-halfstep-and-death-at-Bayan.md) | 第三卷第319章历史归属回补 |
 | [孟奇决战重伤，天人合一这次不再褪](early-v03-MengQi-enduring-unity-after-beating-Wolf-King.md) | 第三卷第319章历史归属回补 |
 | [阿古拉辨首，神都捕头见巴彦急报](early-v03-Agula-recognizes-Wolf-head-and-capital-urgent-report.md) | 第三卷第319章历史归属回补 |
