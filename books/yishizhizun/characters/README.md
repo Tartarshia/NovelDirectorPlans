@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [文成接密探，假纪转外府巡警](early-v03-WenCheng-swaps-role-with-disguised-JiTao.md) | 第三卷第287章历史归属回补 |
+| [秘教的闭眼教主与被称为老祖的声音](early-v03-secret-cult-leader-closed-eyes-ancestor-medium.md) | 第三卷第287章历史归属回补 |
+| [蓝蝶称老祖，待尹离开后提两门功法](early-v03-LanDie-recognizes-two-manual-names.md) | 第三卷第287章历史归属回补 |
 | [左寒风审纪与留守府发言秩序](early-v03-ZuoHanfeng-stern-gaze-official-reply-order.md) | 第三卷第286章历史归属回补 |
 | [尹冷辉的刻纹巫术木偶与左助力](early-v03-YinLenghui-carved-wood-puppet-needs-Zuo.md) | 第三卷第286章历史归属回补 |
 | [孟奇逆运变天击地与幻中道人](early-v03-MengQi-reversed-mind-art-simulated-Yuanshi.md) | 第三卷第286章历史归属回补 |
