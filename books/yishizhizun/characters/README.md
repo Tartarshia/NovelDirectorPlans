@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [乐黎人榜争辩与公众信息的边界](early-v03-LeLi-debates-public-ranked-fighters.md) | 第三卷第300章历史归属回补 |
+| [上官横酒楼出面打断争辩](early-v03-ShangguanHeng-tavern-interruption-before-any-duel.md) | 第三卷第300章历史归属回补 |
+| [司家化姓落脚，孟见子与未亡妇](early-v03-Sikong-household-reached-gifts-not-delivered.md) | 第三卷第300章历史归属回补 |
 | [高览旧恋、自责与醉评法身](early-v03-GaoLan-drinking-grief-and-peer-opinions.md) | 第三卷第299章历史归属回补 |
 | [高览谈陆大时改称寡人，压孟后离](early-v03-GaoLan-changes-self-address-and-departs.md) | 第三卷第299章历史归属回补 |
 | [江入死关的外部消息与榜单改次](early-v03-ranking-Jiang-removed-Langwang-one-Sumeng-two.md) | 第三卷第299章历史归属回补 |
