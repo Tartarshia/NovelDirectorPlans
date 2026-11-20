@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇推肉身因果或影响突破，尚未查看旧屋](early-v03-MengQi-original-bodys-unfinished-wish-and-causality.md) | 第三卷第329章历史归属回补 |
+| [钟维报段瑞疑讯，阮玉书让大伯当天见孟](early-v03-Zhong-Wei-and-Ruan-private-support.md) | 第三卷第329章历史归属回补 |
+| [王文宪愿护顾，孟回程遇面具雷袭](early-v03-Wang-Wenxian-offers-help-before-riverside-ambush.md) | 第三卷第329章历史归属回补 |
 | [孟奇实祭唐氏，苏子华拜后低警五叔](early-v03-Meng-honors-Tang-and-Su-Zihua-warns.md) | 第三卷第328章历史归属回补 |
 | [白景罗先赞，柯卫蓝旧事激起厅中交锋](early-v03-Bai-Jingluo-and-Ke-conflict-viewpoint.md) | 第三卷第328章历史归属回补 |
 | [王户部与琅琊侯府的帖子改变苏家目光](early-v03-two-dinner-invitations-from-Wang-and-Ruan.md) | 第三卷第328章历史归属回补 |
