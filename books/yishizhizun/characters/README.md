@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黄金鹰誓线转附萨满，阿古拉接纳哲别](early-v03-Oath-golden-eagle-line-transferred-to-shaman.md) | 第三卷第315章历史归属回补 |
+| [特木尔与达日阿赤，杀狼会互助及猎目标资料](early-v03-Temur-Dari-Achi-and-wolf-society-network.md) | 第三卷第315章历史归属回补 |
+| [那日苏列为三疑者之一，哲别与特木尔夜伏](early-v03-Nari-Su-suspect-and-snow-stakeout.md) | 第三卷第315章历史归属回补 |
 | [阿古拉因儿阿尔斯楞遇害秘密入会](early-v03-Agula-son-killed-wolf-society-reason.md) | 第三卷第314章历史归属回补 |
 | [巴图误认为狼王，阿古拉看清哲别跟步](early-v03-Batu-perception-and-Agula-sees-Meng-following.md) | 第三卷第314章历史归属回补 |
 | [准入待萨满见证，孟感图腾因果线](early-v03-Society-oath-conditions-and-totem-link.md) | 第三卷第314章历史归属回补 |
