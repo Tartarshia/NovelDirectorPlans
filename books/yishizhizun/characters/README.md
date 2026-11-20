@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇确认交感、初构内天地](early-v03-MengQi-contact-and-inner-world-first-layout.md) | 第三卷第307章历史归属回补 |
+| [孟奇突见圆觉寺，旧遗皮见风自焚](early-v03-MengQi-Yuanjue-outer-skin-burns.md) | 第三卷第307章历史归属回补 |
+| [白纱魔后与孟奇重逢于圆觉寺](early-v03-Mohou-at-Yuanjue-asks-about-Sword-Emperor.md) | 第三卷第307章历史归属回补 |
 | [黄粱自述破虚，提出真实界学说](early-v03-Huangliang-breaks-void-and-true-world-theory.md) | 第三卷第306章历史归属回补 |
 | [孟奇取黄粱见闻作旁证，保留自己的问题](early-v03-MengQi-uses-testimony-without-adopting-theory.md) | 第三卷第306章历史归属回补 |
 | [天界山晨光见交感征象，上官横告别](early-v03-Tianjie-dawn-Shangguan-leaves-without-rematch.md) | 第三卷第306章历史归属回补 |
