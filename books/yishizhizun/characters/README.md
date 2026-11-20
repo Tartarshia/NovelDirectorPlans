@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [暗见达日阿赤夜访那日苏，翌时亲见其死](early-v03-Dari-Achi-seen-at-Nari-Su-and-found-dead.md) | 第三卷第317章历史归属回补 |
+| [那日苏指巴彦谷，土屋裂物使孟联想到戒杀道人](early-v03-Bayan-Valley-hut-and-Jiesha-hypothesis.md) | 第三卷第317章历史归属回补 |
+| [孟奇自十一月守至三月初，动摇后再定](early-v03-MengQi-months-wait-doubt-and-draw.md) | 第三卷第317章历史归属回补 |
 | [那日苏监视延续，缺耳与独眼分线](early-v03-Nari-Su-watch-and-two-retainers.md) | 第三卷第316章历史归属回补 |
 | [冰湖边发现独眼死，异常香囊引线索](early-v03-OneEye-dead-at-frozen-lake-and-scent-sachet.md) | 第三卷第316章历史归属回补 |
 | [孟奇沿滞香与气机追狼，断牵引后跟丢](early-v03-MengQi-loses-Wolf-King-when-qi-severs.md) | 第三卷第316章历史归属回补 |
