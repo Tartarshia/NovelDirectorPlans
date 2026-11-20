@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮玉书与齐正言抵神都，各报告自己的阶段](early-v03-Ruan-and-Qi-rejoin-with-separate-practice-states.md) | 第三卷第324章历史归属回补 |
+| [四人主线一成，琼华宴任务二出现](early-v03-Qionghua-banquet-objective-and-Su-Li-organizer.md) | 第三卷第324章历史归属回补 |
+| [顾长青在京畿夜押镖队，七窍初成内天地](early-v03-Gu-Changqing-escort-encircled-at-capital-edge.md) | 第三卷第324章历史归属回补 |
 | [胡斗在雅间外感空，魏王面见孟奇并报两线](early-v03-Hu-Dou-cannot-sense-Meng-and-Zhao-reports-two-leads.md) | 第三卷第323章历史归属回补 |
 | [杨无量在侧门遭遇孟奇，内景与落掌同轨](early-v03-Yang-Wuliang-falls-with-inner-and-outer-palm-in-sync.md) | 第三卷第323章历史归属回补 |
 | [冯征追失气息，孟奇按约出现在魏王府](early-v03-Zhao-reception-and-Feng-loses-trace.md) | 第三卷第323章历史归属回补 |
