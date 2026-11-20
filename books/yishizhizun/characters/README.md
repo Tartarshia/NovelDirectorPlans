@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [那日苏监视延续，缺耳与独眼分线](early-v03-Nari-Su-watch-and-two-retainers.md) | 第三卷第316章历史归属回补 |
+| [冰湖边发现独眼死，异常香囊引线索](early-v03-OneEye-dead-at-frozen-lake-and-scent-sachet.md) | 第三卷第316章历史归属回补 |
+| [孟奇沿滞香与气机追狼，断牵引后跟丢](early-v03-MengQi-loses-Wolf-King-when-qi-severs.md) | 第三卷第316章历史归属回补 |
 | [黄金鹰誓线转附萨满，阿古拉接纳哲别](early-v03-Oath-golden-eagle-line-transferred-to-shaman.md) | 第三卷第315章历史归属回补 |
 | [特木尔与达日阿赤，杀狼会互助及猎目标资料](early-v03-Temur-Dari-Achi-and-wolf-society-network.md) | 第三卷第315章历史归属回补 |
 | [那日苏列为三疑者之一，哲别与特木尔夜伏](early-v03-Nari-Su-suspect-and-snow-stakeout.md) | 第三卷第315章历史归属回补 |
