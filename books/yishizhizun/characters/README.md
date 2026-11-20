@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [杜怀伤辨红衣信物并被扶离绣楼](early-v03-DuHuaishang-secret-room-sign-and-rescue.md) | 第三卷第290章历史归属回补 |
+| [杜怀伤讲血海莲花之梦，尚无前世定论](early-v03-DuHuaishang-blood-lotus-dream-not-proof.md) | 第三卷第290章历史归属回补 |
+| [杜自逼蛊，赵孟驱，阮显线，江斩连](early-v03-five-person-alliance-gu-removal-and-cut-link.md) | 第三卷第290章历史归属回补 |
 | [左依倩的琴中甜愁与街上试探](early-v03-ZuoYiqian-private-qin-and-fortune-teller-bait.md) | 第三卷第289章历史归属回补 |
 | [阮玉书听琴辨情与尊重同伴隐私](early-v03-RuanYushu-qin-emotional-reading-and-privacy.md) | 第三卷第289章历史归属回补 |
 | [赵恒巡府提分队，孟决定先探杜](early-v03-ZhaoHeng-split-party-option-not-enacted.md) | 第三卷第289章历史归属回补 |

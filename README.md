@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第三卷归属回补：第290章](books/yishizhizun/reviews/review-backfill-v03-0290.md)：新全文复读106段162单元；归属已1228章、待182，可用复读回执待0。
 - [第三卷归属回补：第289章](books/yishizhizun/reviews/review-backfill-v03-0289.md)：新全文复读82段133单元；归属已1227章、待183，可用复读回执待0。
 - [第三卷归属回补：第288章](books/yishizhizun/reviews/review-backfill-v03-0288.md)：新全文复读70段128单元；归属已1226章、待184，可用复读回执待0。
 - [第三卷归属回补：第287章](books/yishizhizun/reviews/review-backfill-v03-0287.md)：新全文复读80段113单元；归属已1225章、待185，可用复读回执待0。
