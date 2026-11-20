@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黄粱自述破虚，提出真实界学说](early-v03-Huangliang-breaks-void-and-true-world-theory.md) | 第三卷第306章历史归属回补 |
+| [孟奇取黄粱见闻作旁证，保留自己的问题](early-v03-MengQi-uses-testimony-without-adopting-theory.md) | 第三卷第306章历史归属回补 |
+| [天界山晨光见交感征象，上官横告别](early-v03-Tianjie-dawn-Shangguan-leaves-without-rematch.md) | 第三卷第306章历史归属回补 |
 | [黄粱在小冰屋自述非此界](early-v03-Huangliang-peak-self-reported-other-world.md) | 第三卷第305章历史归属回补 |
 | [孟奇以原位归还千年莲，修持不违本心](early-v03-MengQi-returns-lotus-restages-pursuit.md) | 第三卷第305章历史归属回补 |
 | [孟奇活用不死七幻，掌刀与指剑连换](early-v03-MengQi-real-as-empty-Seven-Illusions-use.md) | 第三卷第305章历史归属回补 |
