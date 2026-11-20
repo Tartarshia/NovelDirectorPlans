@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [狼王铁升临战突破完美半步，于巴彦谷身死](early-v03-Wolf-King-perfect-halfstep-and-death-at-Bayan.md) | 第三卷第319章历史归属回补 |
+| [孟奇决战重伤，天人合一这次不再褪](early-v03-MengQi-enduring-unity-after-beating-Wolf-King.md) | 第三卷第319章历史归属回补 |
+| [阿古拉辨首，神都捕头见巴彦急报](early-v03-Agula-recognizes-Wolf-head-and-capital-urgent-report.md) | 第三卷第319章历史归属回补 |
 | [阿古拉夜惧，孟奇于岩壁近合一](early-v03-Agula-night-fears-and-MengQi-nearly-unified.md) | 第三卷第318章历史归属回补 |
 | [狼王短移快，孟奇凭感应护罩门并反攻](early-v03-MengQi-holds-line-against-Wolf-King-short-speed.md) | 第三卷第318章历史归属回补 |
 | [狼王左手骨剑破假紫雷，孟先实出天外飞仙](early-v03-Wolf-King-bone-sword-pierces-feint-and-retreats.md) | 第三卷第318章历史归属回补 |
