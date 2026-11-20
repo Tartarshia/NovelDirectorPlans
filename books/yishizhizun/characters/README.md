@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [晋王访安泰楼，冯由轻视到重评孟](early-v03-Zhao-Yi-reassesses-Meng-over-tea.md) | 第三卷第326章历史归属回补 |
+| [钱千夜问路获答并断剑，杜林夕自退](early-v03-Qian-Qian-broken-sword-and-Du-Linxi-retreats.md) | 第三卷第326章历史归属回补 |
+| [听雨过夜后苏氏来邀，孟睁眼](early-v03-Su-family-invitation-delivered-at-morning.md) | 第三卷第326章历史归属回补 |
 | [顾长青负伤救师，孟以雷言解围](early-v03-Gu-Changqing-fights-to-protect-Shi-and-Meng-arrives.md) | 第三卷第325章历史归属回补 |
 | [师怀黑木盒归顾长青，所护物像半块令牌](early-v03-black-box-fragment-passed-to-Gu-Changqing.md) | 第三卷第325章历史归属回补 |
 | [顾长青受邀想仇后人生，传承只问意愿](early-v03-Gu-Changqing-considers-life-after-revenge.md) | 第三卷第325章历史归属回补 |
