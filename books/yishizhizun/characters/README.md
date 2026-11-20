@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [魔后识剑与合一，告活佛已来京](early-v03-Mohou-asks-about-sword-warns-of-Living-Buddha.md) | 第三卷第308章历史归属回补 |
+| [长孙景与如意僧沙场相知，见故人重临](early-v03-ChangsunJing-and-Ruyi-war-bond-and-Meng-reunion.md) | 第三卷第308章历史归属回补 |
+| [长孙景口述局势，孟奇邀往云雁馆](early-v03-Yunyan-lead-sword-emperor-and-living-buddha-claims.md) | 第三卷第308章历史归属回补 |
 | [孟奇确认交感、初构内天地](early-v03-MengQi-contact-and-inner-world-first-layout.md) | 第三卷第307章历史归属回补 |
 | [孟奇突见圆觉寺，旧遗皮见风自焚](early-v03-MengQi-Yuanjue-outer-skin-burns.md) | 第三卷第307章历史归属回补 |
 | [白纱魔后与孟奇重逢于圆觉寺](early-v03-Mohou-at-Yuanjue-asks-about-Sword-Emperor.md) | 第三卷第307章历史归属回补 |
