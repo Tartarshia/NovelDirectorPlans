@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇实祭唐氏，苏子华拜后低警五叔](early-v03-Meng-honors-Tang-and-Su-Zihua-warns.md) | 第三卷第328章历史归属回补 |
+| [白景罗先赞，柯卫蓝旧事激起厅中交锋](early-v03-Bai-Jingluo-and-Ke-conflict-viewpoint.md) | 第三卷第328章历史归属回补 |
+| [王户部与琅琊侯府的帖子改变苏家目光](early-v03-two-dinner-invitations-from-Wang-and-Ruan.md) | 第三卷第328章历史归属回补 |
 | [钟叔亲来请，孟奇真心念唐氏墓](early-v03-Uncle-Zhong-brings-Meng-to-Su-estate.md) | 第三卷第327章历史归属回补 |
 | [苏子玉过继，苏子悦是孟嫡亲妹妹](early-v03-Su-Ziyu-adoption-and-Su-Ziyue-introduction.md) | 第三卷第327章历史归属回补 |
 | [苏家厅疑孟争爵，孟说琼华与武道](early-v03-Su-hall-succession-suspicion-and-Mengs-intent.md) | 第三卷第327章历史归属回补 |
