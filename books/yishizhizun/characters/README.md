@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇借活佛秘术查宿世](early-v03-MengQi-seeks-Living-Buddha-to-probe-past-lives.md) | 第三卷第309章历史归属回补 |
+| [当代活佛与孟奇同时启精神秘法](early-v03-Living-Buddha-rounds-and-inner-sun.md) | 第三卷第309章历史归属回补 |
+| [孟奇精神佛相与厅中指地指天](early-v03-MengQi-mental-Buddha-echo-and-real-gesture.md) | 第三卷第309章历史归属回补 |
 | [魔后识剑与合一，告活佛已来京](early-v03-Mohou-asks-about-sword-warns-of-Living-Buddha.md) | 第三卷第308章历史归属回补 |
 | [长孙景与如意僧沙场相知，见故人重临](early-v03-ChangsunJing-and-Ruyi-war-bond-and-Meng-reunion.md) | 第三卷第308章历史归属回补 |
 | [长孙景口述局势，孟奇邀往云雁馆](early-v03-Yunyan-lead-sword-emperor-and-living-buddha-claims.md) | 第三卷第308章历史归属回补 |
