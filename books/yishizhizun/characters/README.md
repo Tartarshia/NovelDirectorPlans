@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [钟叔亲来请，孟奇真心念唐氏墓](early-v03-Uncle-Zhong-brings-Meng-to-Su-estate.md) | 第三卷第327章历史归属回补 |
+| [苏子玉过继，苏子悦是孟嫡亲妹妹](early-v03-Su-Ziyu-adoption-and-Su-Ziyue-introduction.md) | 第三卷第327章历史归属回补 |
+| [苏家厅疑孟争爵，孟说琼华与武道](early-v03-Su-hall-succession-suspicion-and-Mengs-intent.md) | 第三卷第327章历史归属回补 |
 | [晋王访安泰楼，冯由轻视到重评孟](early-v03-Zhao-Yi-reassesses-Meng-over-tea.md) | 第三卷第326章历史归属回补 |
 | [钱千夜问路获答并断剑，杜林夕自退](early-v03-Qian-Qian-broken-sword-and-Du-Linxi-retreats.md) | 第三卷第326章历史归属回补 |
 | [听雨过夜后苏氏来邀，孟睁眼](early-v03-Su-family-invitation-delivered-at-morning.md) | 第三卷第326章历史归属回补 |
