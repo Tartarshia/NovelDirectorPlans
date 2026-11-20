@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮玉书咬舌血祭栖凤，仍留碧落仙符](early-v03-RuanYushu-blood-fed-qin-keeps-jade-talisman.md) | 第三卷第294章历史归属回补 |
+| [仿阴阳镜阴面实照，随螭龙相而碎](early-v03-MengQi-mirror-yin-side-spent-on-dragon-form.md) | 第三卷第294章历史归属回补 |
+| [左寒风舍相、断臂、碎肉重凝](early-v03-ZuoHanfeng-arm-loss-and-reconstitution-alive.md) | 第三卷第294章历史归属回补 |
 | [杜怀伤危急催虚幻金乌法相](early-v03-DuHuaishang-urgent-golden-crow-manifestation.md) | 第三卷第293章历史归属回补 |
 | [尹冷辉在阮赵齐协同后元神冻结身死](early-v03-YinLenghui-dead-frozen-spirit-cause-unresolved.md) | 第三卷第293章历史归属回补 |
 | [仿阴阳镜到手后须破禁](early-v03-MengQi-releases-mirror-restrictions-not-used.md) | 第三卷第293章历史归属回补 |
