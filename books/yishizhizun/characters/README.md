@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [神剑木偶双面三十字与白绢拓本](early-v03-Sword-puppet-two-inscriptions-and-rubbing.md) | 第三卷第311章历史归属回补 |
+| [剑皇传宋明木偶，只补自身剑法窍路](early-v03-Sword-Emperor-passes-puppet-to-Song-Ming.md) | 第三卷第311章历史归属回补 |
+| [孟奇于落日峰察外魔藏在剑皇体内](early-v03-Sword-Emperor-holds-Mengs-outer-demon.md) | 第三卷第311章历史归属回补 |
 | [活佛败后回到云雁馆，莲印笑泪圆寂](early-v03-Living-Buddha-returns-to-hall-and-dies-in-lotus-seal.md) | 第三卷第310章历史归属回补 |
 | [孟奇借宿并谈内外天地的隔膜](early-v03-MengQi-teaches-principles-and-faint-virtue-qi.md) | 第三卷第310章历史归属回补 |
 | [剑皇以木偶十四剑字邀会，夹一丝外魔气](early-v03-Sword-Emperor-wooden-figurine-letter-invitation.md) | 第三卷第310章历史归属回补 |
