@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾小桑向柳说明刻意泄露端倪和玉家安排](early-v03-Gu-explains-leaking-Yu-identity-through-Liu.md) | 第三卷第340章历史归属回补 |
+| [柳作为流罗应身签下不超三事的黄纸契约](early-v03-Liu-signs-three-requests-agreement-with-Gu.md) | 第三卷第340章历史归属回补 |
+| [崔辙乘追失之车来请孟过府](early-v03-Cui-Zhe-returns-with-lost-carriage-and-invites-Meng.md) | 第三卷第340章历史归属回补 |
 | [斗姆自报叶玉琦，辨看木雕后归还](early-v03-Ye-Yuqi-reveals-herself-and-returns-Lu-wood-carving.md) | 第三卷第339章历史归属回补 |
 | [叶明广成即袁离火，六扇问讯暗交一符](early-v03-Yuan-Lihuo-confirmed-as-Guangcheng-receives-one-talisman.md) | 第三卷第339章历史归属回补 |
 | [柳漱玉认顾小桑，被点应身，屏后小女孩探头](early-v03-Liu-Shuyu-confronted-by-Gu-and-screen-child.md) | 第三卷第339章历史归属回补 |
