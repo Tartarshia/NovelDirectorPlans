@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [播密四月约与孟奇闭关离府](early-v04-Wuyou-agreement-and-closed-door-cover.md) | 第四卷第3章历史归属回补 |
+| [云中子说明封神资料门槛并安排考核](early-v04-Yun-Zhongzi-and-Yang-Zhenchan-trial.md) | 第四卷第3章历史归属回补 |
+| [十九日到流沙集，意外见瞿九娘](early-v04-Meng-nineteen-days-to-Liusha.md) | 第四卷第3章历史归属回补 |
 | [六道述封神，孟奇猜佛道对应](early-v04-investiture-account-and-buddha-identification.md) | 第四卷第2章历史归属回补 |
 | [皇太弟受掣肘，赵恒升鱼龙剑](early-v04-Zhao-Yulong-and-secret-treasure-budget.md) | 第四卷第2章历史归属回补 |
 | [齐正言自定进境，升寒螭剑并换时间](early-v04-Qi-Hanchi-upgrade-and-training-time.md) | 第四卷第2章历史归属回补 |
