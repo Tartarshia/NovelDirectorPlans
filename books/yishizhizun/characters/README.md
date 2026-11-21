@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [苏离祠堂陈情，孟奇了解送少林缘由](early-v03-Su-Li-ancestral-hall-confession-and-family-survival.md) | 第三卷第351章历史归属回补 |
+| [苏子悦唐氏出身揭晓，兄妹月下谈一步登天](early-v03-Su-Ziyue-Tang-family-origin-and-night-question.md) | 第三卷第351章历史归属回补 |
+| [别院宴请众观礼，异象从黑暗转群星](early-v03-observation-banquet-opens-with-capital-stars.md) | 第三卷第351章历史归属回补 |
 | [孟奇命名开天辟地，主动留待稳基晋升](early-v03-Meng-names-Kaitian-and-chooses-to-defer-breakthrough.md) | 第三卷第350章历史归属回补 |
 | [六灭现回樊长苗，临终仍未答动机](early-v03-Fan-Changmiao-identified-and-dies-after-duel.md) | 第三卷第350章历史归属回补 |
 | [赵明宇被天帝刀催老，闻齐王劫声消歇而亡](early-v03-Zhao-Mingyu-dies-as-palace-lightning-fades.md) | 第三卷第350章历史归属回补 |
