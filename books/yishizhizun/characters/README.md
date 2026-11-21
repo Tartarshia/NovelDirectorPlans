@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [玉简实传，阴阳印只初悟，三宝仍需三德气](early-v04-Yinyang-initiation-and-Ruyi-qi-requirement.md) | 第四卷第20章历史归属回补 |
+| [斗姆谈报身净土并赠表层线路玉简](early-v04-reward-body-and-Xianji-route-tablet.md) | 第四卷第20章历史归属回补 |
+| [六道鉴旗和黄泉骨](early-v04-Xuanshui-limit-and-confirmed-Huangquan-bone.md) | 第四卷第20章历史归属回补 |
 | [看门人照约离洞，仍带铁链](early-v04-gatekeeper-released-and-taoist-description.md) | 第四卷第19章历史归属回补 |
 | [元始之眼换领，孟完成正式成员手续](early-v04-Xianji-formal-entry-and-eye-of-Yuanshi.md) | 第四卷第19章历史归属回补 |
 | [明确挑阴阳印，点头听三宝如意拳建议](early-v04-Yinyang-seal-and-Ruyi-fist-selection.md) | 第四卷第19章历史归属回补 |
