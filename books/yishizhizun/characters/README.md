@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [谢愿成贤才、欧阳担忧度牒](early-v04-Xie-Ouyang-aspirations-and-local-paths.md) | 第四卷第25章历史归属回补 |
+| [欧阳自报万象门并述墨宫远来](early-v04-Wanxiang-sect-and-overseas-Mo-migration.md) | 第四卷第25章历史归属回补 |
+| [常欢与林氏剑修接匣客，赤丸破封](early-v04-Chang-Lin-and-unclaimed-finger-deflection.md) | 第四卷第25章历史归属回补 |
 | [谢弦改机关牛，想为小狗换更好的木腿](early-v04-Xie-Xian-village-mechanisms-and-dog.md) | 第四卷第24章历史归属回补 |
 | [欧阳警告邪魔，谢述岩浆旧闻](early-v04-fire-mist-mountain-and-Ouyang-warning.md) | 第四卷第24章历史归属回补 |
 | [买墨车票向永周，遇剑匣人](early-v04-Moche-ticket-and-sword-case-traveller.md) | 第四卷第24章历史归属回补 |
