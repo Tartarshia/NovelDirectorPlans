@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮玉书转述赵氏强者，推露痕引敌和阵中限制](early-v03-Ruan-reports-Zhao-house-capacity-and-formation-inference.md) | 第三卷第335章历史归属回补 |
+| [钱楷调总部换紫绶，邀宴未获实约](early-v03-Qian-Kai-returns-with-purple-cord-and-invites-Meng.md) | 第三卷第335章历史归属回补 |
+| [朱衣楼会龙爪、紫鹏、皇帝和司马石](early-v03-Meng-meets-two-catchers-emperor-and-Sima-at-Zhuyi.md) | 第三卷第335章历史归属回补 |
 | [王文宪安置顾长青，依痕初判幻灭和六灭](early-v03-Wang-Wenxian-shelters-Gu-and-reads-corpse-evidence.md) | 第三卷第334章历史归属回补 |
 | [阮玉书协助孟奇借家仆混出](early-v03-Ruan-helps-Meng-leave-with-household-servants.md) | 第三卷第334章历史归属回补 |
 | [广成面具人亲认夺镖，说用途似圣皇魔令](early-v03-Guangcheng-confirms-taking-consignment-and-compares-token.md) | 第三卷第334章历史归属回补 |
