@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [介绍贾真，孟衡量杨的威胁](early-v04-Jia-Zhen-introduction-and-Yang-evaluation.md) | 第四卷第11章历史归属回补 |
+| [共刻阵图，推生死门对换](early-v04-five-elements-array-and-yin-temple-entry.md) | 第四卷第11章历史归属回补 |
+| [苍白掌来历未明，厅见黄泉壁画](early-v04-unclaimed-palm-and-Huangquan-mural.md) | 第四卷第11章历史归属回补 |
 | [毒手叙折返，孟联想到真武疑冢](early-v04-dushou-return-and-Mengs-attachment-hypothesis.md) | 第四卷第10章历史归属回补 |
 | [大日散人申豹假称和他心通](early-v04-Shen-Bao-cover-and-mind-hearing.md) | 第四卷第10章历史归属回补 |
 | [杨真禅出现，同行文士仍待辨](early-v04-Yang-arrives-with-unidentified-scholar.md) | 第四卷第10章历史归属回补 |
