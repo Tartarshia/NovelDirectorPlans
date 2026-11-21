@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [方华吟与万宇留下追车](early-v04-fang-huayin-and-wan-yu-choose-to-stay.md) | 第四卷第31章历史归属回补 |
+| [方万护车，方临险闻一剑提示](early-v04-black-curtain-ambush-and-first-guidance.md) | 第四卷第31章历史归属回补 |
+| [黑帘马车传闻和路上再战](early-v04-carriage-rumors-and-estate-arrival.md) | 第四卷第31章历史归属回补 |
 | [云鹤惊闻佛祖镇魔佛，孟述公开天榜](early-v04-yunhe-reacts-to-Buddha-and-known-dharmakayas.md) | 第四卷第30章历史归属回补 |
 | [少华旧名引出阿难传闻](early-v04-Shaohua-and-Ananda-unresolved-history.md) | 第四卷第30章历史归属回补 |
 | [初议物资和送信，允留炼气道统](early-v04-Wanxiang-exchange-and-Yingmo-departure.md) | 第四卷第30章历史归属回补 |
