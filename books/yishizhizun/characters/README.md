@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [瀚海方丈外貌者得三骨](early-v04-outer-Abbot-and-the-three-bones.md) | 第四卷第58章历史归属回补 |
+| [牢中人托求援与述韩广法身](early-v04-kong-wen-requests-Lanke-and-Lu-Da.md) | 第四卷第58章历史归属回补 |
+| [太上忘情破隔界，沾因果实战](early-v04-Jiang-escapes-and-Meng-uses-Zhan-Yinguo.md) | 第四卷第58章历史归属回补 |
 | [牢中解释宙光碎片与暗处法身](early-v04-kong-wen-explains-fragments-and-hidden-dharma-body.md) | 第四卷第57章历史归属回补 |
 | [达摩封门与韩广冒名动机的解释](early-v04-dharma-seal-and-Han-Guang-inference.md) | 第四卷第57章历史归属回补 |
 | [真正净土失木雕，王队转身](early-v04-wang-siyuan-withdraws-after-the-wood-carving-breaks.md) | 第四卷第57章历史归属回补 |
