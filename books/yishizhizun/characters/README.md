@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [未戴面具的叶玉琦入场，冥皇元神逃](early-v04-Ye-unmasked-and-minghuang-spirit-escape.md) | 第四卷第14章历史归属回补 |
+| [钟头拒屈膝，随后阴火吞身，手骨交孟](early-v04-Lao-Zhongtou-fire-and-hand-bone-transfer.md) | 第四卷第14章历史归属回补 |
+| [进入无忧谷，阴灵各还一具干尸](early-v04-Wuyou-dried-bodies-and-returning-patrol.md) | 第四卷第14章历史归属回补 |
 | [毒手断口平齐且失水，孟自查未见异物](early-v04-dushou-corpse-examination-and-Meng-self-check.md) | 第四卷第13章历史归属回补 |
 | [贾真以老钟头真貌现身，天魔金身解释旧刺](early-v04-Jia-Zhen-cover-revealed-as-Lao-Zhongtou.md) | 第四卷第13章历史归属回补 |
 | [祖灵与黑袍来人实同场，后者被呼冥皇](early-v04-ancestral-spirit-pulled-out-by-minghuang.md) | 第四卷第13章历史归属回补 |
