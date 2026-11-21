@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [王文宪安置顾长青，依痕初判幻灭和六灭](early-v03-Wang-Wenxian-shelters-Gu-and-reads-corpse-evidence.md) | 第三卷第334章历史归属回补 |
+| [阮玉书协助孟奇借家仆混出](early-v03-Ruan-helps-Meng-leave-with-household-servants.md) | 第三卷第334章历史归属回补 |
+| [广成面具人亲认夺镖，说用途似圣皇魔令](early-v03-Guangcheng-confirms-taking-consignment-and-compares-token.md) | 第三卷第334章历史归属回补 |
 | [苏越传达琼华宴前后神都大阵的调度](early-v03-Su-Yue-announces-capital-formation-adjustment.md) | 第三卷第333章历史归属回补 |
 | [斗笠客取镖未果，马车脱离孟奇锁定](early-v03-hatted-claimant-carriage-eludes-pursuit.md) | 第三卷第333章历史归属回补 |
 | [顾长青自述被取走镖物](early-v03-Gu-Changqing-reports-Guangcheng-tianzun-robbery.md) | 第三卷第333章历史归属回补 |
