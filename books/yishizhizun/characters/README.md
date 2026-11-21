@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇同点破刃与吉善首次同阶吃亏](early-v04-Meng-Qi-and-Jishan-blade-notch.md) | 第四卷第41章历史归属回补 |
+| [坑底未封的黄泉手骨与阴影](early-v04-unsealed-Huangquan-hand-bone-in-the-pit.md) | 第四卷第41章历史归属回补 |
+| [流沙集外的残骸与仙迹集议](early-v04-Lingbao-opens-Fish-Sea-council.md) | 第四卷第41章历史归属回补 |
 | [空客栈与瀚海边缘异状](early-v04-Liusha-empty-inn-and-unconfirmed-pattern.md) | 第四卷第40章历史归属回补 |
 | [金刚寺吉善逼随行与孟奇迎战](early-v04-Jishan-presses-Shen-Bao.md) | 第四卷第40章历史归属回补 |
 | [梁王赵谦与魏高远观试剑](early-v04-Zhao-Qian-and-Wei-Gao-watch-the-sun-sword.md) | 第四卷第40章历史归属回补 |
