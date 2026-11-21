@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [瞿九娘以江东地契换哭老人情报](early-v04-Quniang-land-deed-and-crying-old-man-news.md) | 第四卷第4章历史归属回补 |
+| [则罗居忌孟成长，谋求师助](early-v04-Ze-Luoju-fears-the-four-tribulations.md) | 第四卷第4章历史归属回补 |
+| [哈勒酒馆掌柜交情报，孟维持沙客身份](early-v04-Hale-keeper-and-Meng-cover.md) | 第四卷第4章历史归属回补 |
 | [播密四月约与孟奇闭关离府](early-v04-Wuyou-agreement-and-closed-door-cover.md) | 第四卷第3章历史归属回补 |
 | [云中子说明封神资料门槛并安排考核](early-v04-Yun-Zhongzi-and-Yang-Zhenchan-trial.md) | 第四卷第3章历史归属回补 |
 | [十九日到流沙集，意外见瞿九娘](early-v04-Meng-nineteen-days-to-Liusha.md) | 第四卷第3章历史归属回补 |
