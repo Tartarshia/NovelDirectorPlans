@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [刀疤男探问，口头叙事连朝局与四劫](early-v04-storyteller-political-transition-and-four-tribulations.md) | 第四卷第1章历史归属回补 |
+| [孟传七真经，顾长青立元神誓](early-v04-Meng-teaches-Qizhen-to-Gu-and-Ziyue.md) | 第四卷第1章历史归属回补 |
+| [江与孟在轮回广场互贺，阮与江低语](early-v04-Jiang-and-Meng-meet-and-congratulate-tribulations.md) | 第四卷第1章历史归属回补 |
 | [孟奇历青雷、阴火、金风、混沌后一步登天](early-v03-Meng-four-tribulations-and-Origin-form.md) | 第三卷第352章历史归属回补 |
 | [江芷微在洗剑阁剑斩金风](early-v03-Jiang-defeats-golden-wind-in-Xijian.md) | 第三卷第352章历史归属回补 |
 | [流苏于四秀山从本性择完美半步](early-v03-Liu-Su-chooses-perfect-half-step-and-recites.md) | 第三卷第352章历史归属回补 |
