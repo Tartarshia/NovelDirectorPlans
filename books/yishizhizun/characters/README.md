@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [皇帝亲授银章，齐王赵无言屏后评价](early-v03-emperor-gives-silver-badge-and-Qi-prince-evaluates-truth.md) | 第三卷第336章历史归属回补 |
+| [孟奇选外景护符并佩胸前](early-v03-Meng-selects-and-wears-Jiushu-protective-talisman.md) | 第三卷第336章历史归属回补 |
+| [玉珑紫随客来，玉旁丫环与林中道人分镜](early-v03-Yu-Longzi-carriage-and-roadside-daoist-recognition.md) | 第三卷第336章历史归属回补 |
 | [阮玉书转述赵氏强者，推露痕引敌和阵中限制](early-v03-Ruan-reports-Zhao-house-capacity-and-formation-inference.md) | 第三卷第335章历史归属回补 |
 | [钱楷调总部换紫绶，邀宴未获实约](early-v03-Qian-Kai-returns-with-purple-cord-and-invites-Meng.md) | 第三卷第335章历史归属回补 |
 | [朱衣楼会龙爪、紫鹏、皇帝和司马石](early-v03-Meng-meets-two-catchers-emperor-and-Sima-at-Zhuyi.md) | 第三卷第335章历史归属回补 |
