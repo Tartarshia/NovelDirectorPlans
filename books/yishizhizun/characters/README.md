@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [周秋山记忆闪回、黑焰身死与芥子环](early-v04-Zhou-Qiushan-memory-and-black-flame.md) | 第四卷第45章历史归属回补 |
+| [从贪汗救瞿与借阵图耗尽](early-v04-Qu-Jiuniang-rescue-and-borrowed-array-expended.md) | 第四卷第45章历史归属回补 |
+| [暗河替身和天帝面具](early-v04-false-Qu-and-Tiandi-mask.md) | 第四卷第45章历史归属回补 |
 | [言无我化沙探地与八宗师密报](early-v04-Yan-Wuwo-sand-escape-and-eight-grandmasters.md) | 第四卷第44章历史归属回补 |
 | [瞿九娘受封禁及营救前的伏击风险](early-v04-Qu-Jiuniang-sealed-and-possible-ambush.md) | 第四卷第44章历史归属回补 |
 | [申豹表层身份与周秋山被带走](early-v04-Shen-Bao-seals-and-removes-Zhou-Qiushan.md) | 第四卷第44章历史归属回补 |
