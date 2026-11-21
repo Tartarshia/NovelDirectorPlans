@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [犬环辨物、人族残躯及江孟分别](early-v04-meng-jiang-appraise-the-hound-and-part-ways.md) | 第四卷第60章历史归属回补 |
+| [碧游暂封门、七件玉柱鉴定](early-v04-seven-treasure-appraisals-and-sealed-door.md) | 第四卷第60章历史归属回补 |
+| [灵宝以五色神掌推孔雀妖王太离](early-v04-Lingbao-infers-Taili-and-the-other-dharma-body.md) | 第四卷第60章历史归属回补 |
 | [九天雷神旧缘与孟所担绝刀因果](early-v04-Thunder-God-backstory-and-overlord-blade-obligation.md) | 第四卷第59章历史归属回补 |
 | [玄女两身撤退与两仪分界帕易手](early-v04-Xuannv-retreats-and-the-cloth-passes-to-Yunhe.md) | 第四卷第59章历史归属回补 |
 | [江还森罗门、拒领战利品并准备回师门](early-v04-Jiang-declines-the-spoils-and-returns-the-door.md) | 第四卷第59章历史归属回补 |
