@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [石室龟蛇纹与画门凹槽](early-v04-painted-door-and-tortoise-snake-mark.md) | 第四卷第16章历史归属回补 |
+| [青棺老人被唤播密国师，半透同貌者融入](early-v04-Bomi-preceptor-and-minghuang-likeness.md) | 第四卷第16章历史归属回补 |
+| [国师自述众生归一，剑令转言驳斥](early-v04-preceptor-self-account-and-sword-token-rebuttal.md) | 第四卷第16章历史归属回补 |
 | [叶读皮纸与册，旧国记录从报喜转向国师发疯](early-v04-Bomi-parchment-mad-preceptor-and-record.md) | 第四卷第15章历史归属回补 |
 | [九幽黑雾切断感应，阴鬼变完善后渡过](early-v04-Jiuyou-fissure-and-refined-ghost-form.md) | 第四卷第15章历史归属回补 |
 | [两名旧敌已为干尸，冥皇表相回望一笑](early-v04-Wuyou-linked-corpses-and-minghuang-smile.md) | 第四卷第15章历史归属回补 |
