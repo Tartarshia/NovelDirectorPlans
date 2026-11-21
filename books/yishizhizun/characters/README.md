@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [清源道人变蟒破车并化出两头四臂](early-v03-Qingyuan-daoist-chariot-clash-and-additional-head-and-arms.md) | 第三卷第337章历史归属回补 |
+| [顾小桑从玉旁丫环形态显相，率五外景抵斗姆](early-v03-Gu-Xiaosang-reveals-face-and-Brings-Five-Into-Formation.md) | 第三卷第337章历史归属回补 |
+| [孟挡车夫、送妹妹脱战并受未名紫电袭向背后](early-v03-Meng-holds-coachman-sees-siblings-and-hears-third-attacker.md) | 第三卷第337章历史归属回补 |
 | [皇帝亲授银章，齐王赵无言屏后评价](early-v03-emperor-gives-silver-badge-and-Qi-prince-evaluates-truth.md) | 第三卷第336章历史归属回补 |
 | [孟奇选外景护符并佩胸前](early-v03-Meng-selects-and-wears-Jiushu-protective-talisman.md) | 第三卷第336章历史归属回补 |
 | [玉珑紫随客来，玉旁丫环与林中道人分镜](early-v03-Yu-Longzi-carriage-and-roadside-daoist-recognition.md) | 第三卷第336章历史归属回补 |
