@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [洞老自述守炭画门一甲子](early-v04-chained-gatekeepers-sixty-years-and-painted-door.md) | 第四卷第17章历史归属回补 |
+| [国师分神失忆，陆大借剑令斩崩节点](early-v04-preceptor-fragment-and-luda-one-sword.md) | 第四卷第17章历史归属回补 |
+| [叶获得血黄珠，黯淡剑令待温养](early-v04-yellow-red-pearl-and-token-warming.md) | 第四卷第17章历史归属回补 |
 | [石室龟蛇纹与画门凹槽](early-v04-painted-door-and-tortoise-snake-mark.md) | 第四卷第16章历史归属回补 |
 | [青棺老人被唤播密国师，半透同貌者融入](early-v04-Bomi-preceptor-and-minghuang-likeness.md) | 第四卷第16章历史归属回补 |
 | [国师自述众生归一，剑令转言驳斥](early-v04-preceptor-self-account-and-sword-token-rebuttal.md) | 第四卷第16章历史归属回补 |
