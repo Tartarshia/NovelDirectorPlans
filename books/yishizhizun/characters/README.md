@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [因果刀灌体2400与其承担风险](early-v04-karma-blade-infusion-and-all-debts.md) | 第四卷第22章历史归属回补 |
+| [实购紫雷五击与复原日陨](early-v04-purple-thunder-and-reconstructed-sunfall.md) | 第四卷第22章历史归属回补 |
+| [元央邀半年后江东会，孟实兑丹和袍](early-v04-Yuan-Yang-letter-Qingyuan-robe-and-medicine.md) | 第四卷第22章历史归属回补 |
 | [六道答法身物规则及手骨共享](early-v04-Huangquan-bone-temporary-party-and-kept-flag.md) | 第四卷第21章历史归属回补 |
 | [恶鬼索命石实售2800，批兑后12645](early-v04-ghost-stone-trade-and-12645-merit.md) | 第四卷第21章历史归属回补 |
 | [安国邪普通钥卖800，付费知院与令牌](early-v04-Yuhai-address-and-Senluo-token.md) | 第四卷第21章历史归属回补 |
