@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟初掌法天象地，实抡朱龙落地](early-v04-Meng-first-Fatian-Xiangdi-and-zhulong.md) | 第四卷第28章历史归属回补 |
+| [五武者下跪但话未出，孟回房](early-v04-five-warriors-kneel-and-unsaid-request.md) | 第四卷第28章历史归属回补 |
+| [墨宫议招与外来猜测，山中门未启](early-v04-Mo-council-and-unopened-mountain-door.md) | 第四卷第28章历史归属回补 |
 | [朱龙宗者祝奎与郭飞虎到驿馆](early-v04-Zhu-Kui-Guo-Feihu-arrivals.md) | 第四卷第27章历史归属回补 |
 | [由全力一击改验内景外显](early-v04-Yongzhou-inner-landscape-test-negotiation.md) | 第四卷第27章历史归属回补 |
 | [孟外显内景，五种天象实际变](early-v04-wind-cloud-thunder-rain-clear-demonstration.md) | 第四卷第27章历史归属回补 |
