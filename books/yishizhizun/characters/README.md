@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [借魂灯寻瞿、阵图轮回符与两珠推断](early-v04-soul-lamp-search-and-borrowed-sword-diagram.md) | 第四卷第43章历史归属回补 |
+| [真慧暂避瀚海，与弘能筑寺](early-v04-Zhen-Hui-and-Hong-Neng-build-a-temple.md) | 第四卷第43章历史归属回补 |
+| [沙鼠入幻阵，找到未救的瞿九娘](early-v04-Qu-Jiuniang-found-but-unrescued.md) | 第四卷第43章历史归属回补 |
 | [仙迹六人会面及现实身份](early-v04-Xianji-real-identities-Fish-Sea-council.md) | 第四卷第42章历史归属回补 |
 | [纯阳子逃脱与碧霞元君魂灯](early-v04-Chunyangzi-escaped-and-Bixia-soul-lamp.md) | 第四卷第42章历史归属回补 |
 | [冲和拟会守静并联络何七、崔清河](early-v04-Chonghe-proposes-Fish-Sea-coalition.md) | 第四卷第42章历史归属回补 |
