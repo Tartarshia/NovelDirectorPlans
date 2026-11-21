@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [仙迹六人会面及现实身份](early-v04-Xianji-real-identities-Fish-Sea-council.md) | 第四卷第42章历史归属回补 |
+| [纯阳子逃脱与碧霞元君魂灯](early-v04-Chunyangzi-escaped-and-Bixia-soul-lamp.md) | 第四卷第42章历史归属回补 |
+| [冲和拟会守静并联络何七、崔清河](early-v04-Chonghe-proposes-Fish-Sea-coalition.md) | 第四卷第42章历史归属回补 |
 | [孟奇同点破刃与吉善首次同阶吃亏](early-v04-Meng-Qi-and-Jishan-blade-notch.md) | 第四卷第41章历史归属回补 |
 | [坑底未封的黄泉手骨与阴影](early-v04-unsealed-Huangquan-hand-bone-in-the-pit.md) | 第四卷第41章历史归属回补 |
 | [流沙集外的残骸与仙迹集议](early-v04-Lingbao-opens-Fish-Sea-council.md) | 第四卷第41章历史归属回补 |
