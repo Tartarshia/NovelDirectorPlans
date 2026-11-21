@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇命名开天辟地，主动留待稳基晋升](early-v03-Meng-names-Kaitian-and-chooses-to-defer-breakthrough.md) | 第三卷第350章历史归属回补 |
+| [六灭现回樊长苗，临终仍未答动机](early-v03-Fan-Changmiao-identified-and-dies-after-duel.md) | 第三卷第350章历史归属回补 |
+| [赵明宇被天帝刀催老，闻齐王劫声消歇而亡](early-v03-Zhao-Mingyu-dies-as-palace-lightning-fades.md) | 第三卷第350章历史归属回补 |
 | [阮玉书弹裂天变地曲首段，赵恒循声来援](early-v03-Ruan-plays-first-passage-and-Zhao-reaches-her.md) | 第三卷第349章历史归属回补 |
 | [齐与念珠僧同时被寻到，齐自行断气奔声](early-v03-Qi-breaks-connection-and-runs-toward-qin.md) | 第三卷第349章历史归属回补 |
 | [孟故入下风，显示外景气息后一刀开混沌](early-v03-Meng-accepts-pressure-and-cleaves-destruction.md) | 第三卷第349章历史归属回补 |
