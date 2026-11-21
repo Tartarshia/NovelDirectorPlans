@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [少华祭奠和孟奇七日自限](early-v04-Shaohua-memorial-local-memory-and-seven-days.md) | 第四卷第49章历史归属回补 |
+| [古迹推演与用沾因果过门](early-v04-Shaohua-inscription-and-passing-the-stone-door.md) | 第四卷第49章历史归属回补 |
+| [莲台后山王思远与第二处同题门](early-v04-Liantai-second-inscription-and-Wang-Siyuan.md) | 第四卷第49章历史归属回补 |
 | [啸月神犬之死与雷神收残环](early-v04-Xiaoyue-dies-and-thunder-god-collects-ring.md) | 第四卷第48章历史归属回补 |
 | [代身符耗用、两头四臂与法天象地](early-v04-Meng-Qi-exhausts-fighting-treasures.md) | 第四卷第48章历史归属回补 |
 | [六道之面限进广场与朵儿察选择](early-v04-six-paths-redirect-to-Duoercha.md) | 第四卷第48章历史归属回补 |
