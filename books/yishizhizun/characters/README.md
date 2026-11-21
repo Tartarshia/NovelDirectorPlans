@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [顾离太极殿，点柳曾任素女道护法](early-v03-Gu-leaves-palace-and-Liu-previous-role-revealed.md) | 第三卷第347章历史归属回补 |
+| [齐王法相进肉身，赵明宇自述转力反噬](early-v03-Zhao-Wuyan-at-critical-step-and-Mingyu-admits-sacrifice.md) | 第三卷第347章历史归属回补 |
+| [苑阵外扩拖住援手，拟阮者掌打孟](early-v03-expanded-array-binds-elders-and-Ruan-lookalike-strikes.md) | 第三卷第347章历史归属回补 |
 | [孟夺五人势，长辈实拉出五人](early-v03-Meng-canyon-five-pulled-out-by-senior-relatives.md) | 第三卷第346章历史归属回补 |
 | [白怜香地力束孟，刀拳暂相抗后同退](early-v03-Bai-Lianxiang-earth-restriction-and-unresolved-exchange.md) | 第三卷第346章历史归属回补 |
 | [高览对玄女称魔令先助暗证，已转幻灭天魔](early-v03-Gao-Lan-confirms-previous-transfer-of-token-to-Huanmie.md) | 第三卷第346章历史归属回补 |

@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第三卷归属回补：第347章](books/yishizhizun/reviews/review-backfill-v03-0347.md)：新全文复读80段114单元；归属已1285章、待125，可用复读回执待0。
 - [第三卷归属回补：第346章](books/yishizhizun/reviews/review-backfill-v03-0346.md)：新全文复读103段132单元；归属已1284章、待126，可用复读回执待0。
 - [第三卷归属回补：第345章](books/yishizhizun/reviews/review-backfill-v03-0345.md)：新全文复读190段237单元；归属已1283章、待127，可用复读回执待0。
 - [第三卷归属回补：第344章](books/yishizhizun/reviews/review-backfill-v03-0344.md)：新全文复读77段111单元；归属已1282章、待128，可用复读回执待0。
