@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [六道述封神，孟奇猜佛道对应](early-v04-investiture-account-and-buddha-identification.md) | 第四卷第2章历史归属回补 |
+| [皇太弟受掣肘，赵恒升鱼龙剑](early-v04-Zhao-Yulong-and-secret-treasure-budget.md) | 第四卷第2章历史归属回补 |
+| [齐正言自定进境，升寒螭剑并换时间](early-v04-Qi-Hanchi-upgrade-and-training-time.md) | 第四卷第2章历史归属回补 |
 | [刀疤男探问，口头叙事连朝局与四劫](early-v04-storyteller-political-transition-and-four-tribulations.md) | 第四卷第1章历史归属回补 |
 | [孟传七真经，顾长青立元神誓](early-v04-Meng-teaches-Qizhen-to-Gu-and-Ziyue.md) | 第四卷第1章历史归属回补 |
 | [江与孟在轮回广场互贺，阮与江低语](early-v04-Jiang-and-Meng-meet-and-congratulate-tribulations.md) | 第四卷第1章历史归属回补 |
