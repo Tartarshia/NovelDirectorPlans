@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [领头女子陈述困境，余四人同声叩拜](early-v04-five-warriors-petition-without-coercion.md) | 第四卷第29章历史归属回补 |
+| [云鹤请出神符，携郭夜访](early-v04-yunhe-divine-talisman-and-night-visit.md) | 第四卷第29章历史归属回补 |
+| [万象洞天与来往门旧事](early-v04-wanxiang-grotto-and-three-door-histories.md) | 第四卷第29章历史归属回补 |
 | [孟初掌法天象地，实抡朱龙落地](early-v04-Meng-first-Fatian-Xiangdi-and-zhulong.md) | 第四卷第28章历史归属回补 |
 | [五武者下跪但话未出，孟回房](early-v04-five-warriors-kneel-and-unsaid-request.md) | 第四卷第28章历史归属回补 |
 | [墨宫议招与外来猜测，山中门未启](early-v04-Mo-council-and-unopened-mountain-door.md) | 第四卷第28章历史归属回补 |
