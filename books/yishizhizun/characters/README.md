@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [雪冷钊破心障并提醒离鱼海](early-v04-Xue-Lengzhao-warning-and-recovery.md) | 第四卷第39章历史归属回补 |
+| [云鹤实助战与战利品移交](early-v04-Yunhe-intervention-and-loot-division.md) | 第四卷第39章历史归属回补 |
+| [羊皮地图、另珠与空流沙集](early-v04-Fish-Sea-marked-map-and-empty-Liusha.md) | 第四卷第39章历史归属回补 |
 | [空闻带空见、无净而留阿难刀镇寺](early-v04-Kong-Wen-chooses-retinue-and-leaves-the-blade.md) | 第四卷第38章历史归属回补 |
 | [江芷微将断未来用作防守](early-v04-Jiang-Zhiwei-pivots-Duan-Weilai-to-defense.md) | 第四卷第38章历史归属回补 |
 | [森罗门开与十心身死](early-v04-Senluo-door-opens-on-Shixin.md) | 第四卷第38章历史归属回补 |
