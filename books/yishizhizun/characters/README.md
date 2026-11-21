@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [言无我化沙探地与八宗师密报](early-v04-Yan-Wuwo-sand-escape-and-eight-grandmasters.md) | 第四卷第44章历史归属回补 |
+| [瞿九娘受封禁及营救前的伏击风险](early-v04-Qu-Jiuniang-sealed-and-possible-ambush.md) | 第四卷第44章历史归属回补 |
+| [申豹表层身份与周秋山被带走](early-v04-Shen-Bao-seals-and-removes-Zhou-Qiushan.md) | 第四卷第44章历史归属回补 |
 | [借魂灯寻瞿、阵图轮回符与两珠推断](early-v04-soul-lamp-search-and-borrowed-sword-diagram.md) | 第四卷第43章历史归属回补 |
 | [真慧暂避瀚海，与弘能筑寺](early-v04-Zhen-Hui-and-Hong-Neng-build-a-temple.md) | 第四卷第43章历史归属回补 |
 | [沙鼠入幻阵，找到未救的瞿九娘](early-v04-Qu-Jiuniang-found-but-unrescued.md) | 第四卷第43章历史归属回补 |
