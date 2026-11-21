@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮玉书弹琴引百鸟，获首题及御酒](early-v03-Ruan-Qionghua-qin-draws-birds-and-wins-first-question.md) | 第三卷第344章历史归属回补 |
+| [第二题无字碑，严冲与太子引异象](early-v03-inscriptionless-stele-trial-Yan-and-prince-manifest.md) | 第三卷第344章历史归属回补 |
+| [斗姆与清源易容在皇城外驻候](early-v03-Doumu-and-Qingyuan-wait-outside-imperial-city.md) | 第三卷第344章历史归属回补 |
 | [严冲实演茶道，由动求静](early-v03-Yan-Chong-tea-demonstrates-moving-into-tranquility.md) | 第三卷第343章历史归属回补 |
 | [玄真临空挥墨，佛门劝说与世家反应](early-v03-Xuanzhen-written-sutra-and-unresolved-house-opposition.md) | 第三卷第343章历史归属回补 |
 | [孟静雕帝像后赠帝，阮抱琴下台](early-v03-Meng-carves-emperor-in-tranquil-focus-and-Ruan-enters.md) | 第三卷第343章历史归属回补 |
