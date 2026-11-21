@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [云鹤惊闻佛祖镇魔佛，孟述公开天榜](early-v04-yunhe-reacts-to-Buddha-and-known-dharmakayas.md) | 第四卷第30章历史归属回补 |
+| [少华旧名引出阿难传闻](early-v04-Shaohua-and-Ananda-unresolved-history.md) | 第四卷第30章历史归属回补 |
+| [初议物资和送信，允留炼气道统](early-v04-Wanxiang-exchange-and-Yingmo-departure.md) | 第四卷第30章历史归属回补 |
 | [领头女子陈述困境，余四人同声叩拜](early-v04-five-warriors-petition-without-coercion.md) | 第四卷第29章历史归属回补 |
 | [云鹤请出神符，携郭夜访](early-v04-yunhe-divine-talisman-and-night-visit.md) | 第四卷第29章历史归属回补 |
 | [万象洞天与来往门旧事](early-v04-wanxiang-grotto-and-three-door-histories.md) | 第四卷第29章历史归属回补 |
