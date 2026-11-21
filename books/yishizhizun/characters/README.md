@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [谢弦改机关牛，想为小狗换更好的木腿](early-v04-Xie-Xian-village-mechanisms-and-dog.md) | 第四卷第24章历史归属回补 |
+| [欧阳警告邪魔，谢述岩浆旧闻](early-v04-fire-mist-mountain-and-Ouyang-warning.md) | 第四卷第24章历史归属回补 |
+| [买墨车票向永周，遇剑匣人](early-v04-Moche-ticket-and-sword-case-traveller.md) | 第四卷第24章历史归属回补 |
 | [九娘讲封神诸侯与秘宝旧例](early-v04-Fengshen-reports-and-Bixia-personal-warning.md) | 第四卷第23章历史归属回补 |
 | [孟在播密外修法，江两月后出现](early-v04-Bomi-cultivation-and-Jiang-rendezvous.md) | 第四卷第23章历史归属回补 |
 | [双钥分别开层，森罗门令实启孤门](early-v04-Yuhai-two-keys-Senluo-and-volcano.md) | 第四卷第23章历史归属回补 |
