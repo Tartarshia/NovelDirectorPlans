@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [空闻带空见、无净而留阿难刀镇寺](early-v04-Kong-Wen-chooses-retinue-and-leaves-the-blade.md) | 第四卷第38章历史归属回补 |
+| [江芷微将断未来用作防守](early-v04-Jiang-Zhiwei-pivots-Duan-Weilai-to-defense.md) | 第四卷第38章历史归属回补 |
+| [森罗门开与十心身死](early-v04-Senluo-door-opens-on-Shixin.md) | 第四卷第38章历史归属回补 |
 | [雪冷钊重修、创伤与十心现身](early-v04-Xue-Lengzhao-and-Shixin-reappearance.md) | 第四卷第37章历史归属回补 |
 | [云鹤先旁观及助战分成](early-v04-Yunhe-conditional-alliance-and-spoils.md) | 第四卷第37章历史归属回补 |
 | [佛光引出的三处选择](early-v04-Fish-Sea-light-and-three-choices.md) | 第四卷第37章历史归属回补 |
