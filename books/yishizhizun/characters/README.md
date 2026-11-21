@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [则罗居护身绿石和眼罩邪光](early-v04-zeluoju-protection-and-spirit-death.md) | 第四卷第5章历史归属回补 |
+| [孟奇外景初战受伤，收邪刀与黑袋](early-v04-Meng-first-outer-battle-wounds-and-objects.md) | 第四卷第5章历史归属回补 |
+| [乌孙奇见焦字并搜城，哭老人一月后归](early-v04-wusun-inscription-and-one-month-search.md) | 第四卷第5章历史归属回补 |
 | [瞿九娘以江东地契换哭老人情报](early-v04-Quniang-land-deed-and-crying-old-man-news.md) | 第四卷第4章历史归属回补 |
 | [则罗居忌孟成长，谋求师助](early-v04-Ze-Luoju-fears-the-four-tribulations.md) | 第四卷第4章历史归属回补 |
 | [哈勒酒馆掌柜交情报，孟维持沙客身份](early-v04-Hale-keeper-and-Meng-cover.md) | 第四卷第4章历史归属回补 |
