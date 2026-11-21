@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [赵恒观碑真龙成印，得皇帝褒赞](early-v03-Zhao-Heng-gold-dragon-insight-and-imperial-praise.md) | 第三卷第345章历史归属回补 |
+| [齐正言借碑融浑天与浣花诗剑](early-v03-Qi-Zhengyan-combines-Huntian-with-Huanhua-and-creates-move.md) | 第三卷第345章历史归属回补 |
+| [孟演元始，离碑之后深裂而获第二题](early-v03-Meng-contemplates-Origin-stele-cracks-and-second-question-won.md) | 第三卷第345章历史归属回补 |
 | [阮玉书弹琴引百鸟，获首题及御酒](early-v03-Ruan-Qionghua-qin-draws-birds-and-wins-first-question.md) | 第三卷第344章历史归属回补 |
 | [第二题无字碑，严冲与太子引异象](early-v03-inscriptionless-stele-trial-Yan-and-prince-manifest.md) | 第三卷第344章历史归属回补 |
 | [斗姆与清源易容在皇城外驻候](early-v03-Doumu-and-Qingyuan-wait-outside-imperial-city.md) | 第三卷第344章历史归属回补 |
