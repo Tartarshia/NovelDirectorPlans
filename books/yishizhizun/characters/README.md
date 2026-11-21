@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [九娘自述遇袭、失环与辨真](early-v04-Qu-Jiuniang-recounts-yellow-palm-and-theft.md) | 第四卷第46章历史归属回补 |
+| [仙迹借善功、托货以及周的芥子环](early-v04-Xianji-good-deeds-and-materials-consignment.md) | 第四卷第46章历史归属回补 |
+| [九天雷神、啸月神犬与两界分割](early-v04-Thunder-God-and-Xiaoyue-ambush.md) | 第四卷第46章历史归属回补 |
 | [周秋山记忆闪回、黑焰身死与芥子环](early-v04-Zhou-Qiushan-memory-and-black-flame.md) | 第四卷第45章历史归属回补 |
 | [从贪汗救瞿与借阵图耗尽](early-v04-Qu-Jiuniang-rescue-and-borrowed-array-expended.md) | 第四卷第45章历史归属回补 |
 | [暗河替身和天帝面具](early-v04-false-Qu-and-Tiandi-mask.md) | 第四卷第45章历史归属回补 |
