@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [空客栈与瀚海边缘异状](early-v04-Liusha-empty-inn-and-unconfirmed-pattern.md) | 第四卷第40章历史归属回补 |
+| [金刚寺吉善逼随行与孟奇迎战](early-v04-Jishan-presses-Shen-Bao.md) | 第四卷第40章历史归属回补 |
+| [梁王赵谦与魏高远观试剑](early-v04-Zhao-Qian-and-Wei-Gao-watch-the-sun-sword.md) | 第四卷第40章历史归属回补 |
 | [雪冷钊破心障并提醒离鱼海](early-v04-Xue-Lengzhao-warning-and-recovery.md) | 第四卷第39章历史归属回补 |
 | [云鹤实助战与战利品移交](early-v04-Yunhe-intervention-and-loot-division.md) | 第四卷第39章历史归属回补 |
 | [羊皮地图、另珠与空流沙集](early-v04-Fish-Sea-marked-map-and-empty-Liusha.md) | 第四卷第39章历史归属回补 |
