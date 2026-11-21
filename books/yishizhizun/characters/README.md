@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [毒手叙折返，孟联想到真武疑冢](early-v04-dushou-return-and-Mengs-attachment-hypothesis.md) | 第四卷第10章历史归属回补 |
+| [大日散人申豹假称和他心通](early-v04-Shen-Bao-cover-and-mind-hearing.md) | 第四卷第10章历史归属回补 |
+| [杨真禅出现，同行文士仍待辨](early-v04-Yang-arrives-with-unidentified-scholar.md) | 第四卷第10章历史归属回补 |
 | [毒手与夜叉联手，孟化焦石旁听](early-v04-Bomi-two-ambushers-and-stone-transformation.md) | 第四卷第9章历史归属回补 |
 | [双庙分开，孟首次听见冥皇](early-v04-twin-temples-and-first-report-of-minghuang.md) | 第四卷第9章历史归属回补 |
 | [神庙无形之险，毒手外貌如前返回](early-v04-temple-waterlike-hazard-and-dushou-return.md) | 第四卷第9章历史归属回补 |
