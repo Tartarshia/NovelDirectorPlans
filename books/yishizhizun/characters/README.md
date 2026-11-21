@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [贾真叩壁画开启下行入口，五人见花](early-v04-Jia-bows-and-Wuyou-flowers.md) | 第四卷第12章历史归属回补 |
+| [杨真禅临死反刺，流火实升上品](early-v04-Yang-counterthrust-and-Liuhuo-upgrade.md) | 第四卷第12章历史归属回补 |
+| [杨尸剑骤腐，下一阵又见毒手尸](early-v04-rapid-corrosion-and-dushou-corpse.md) | 第四卷第12章历史归属回补 |
 | [介绍贾真，孟衡量杨的威胁](early-v04-Jia-Zhen-introduction-and-Yang-evaluation.md) | 第四卷第11章历史归属回补 |
 | [共刻阵图，推生死门对换](early-v04-five-elements-array-and-yin-temple-entry.md) | 第四卷第11章历史归属回补 |
 | [苍白掌来历未明，厅见黄泉壁画](early-v04-unclaimed-palm-and-Huangquan-mural.md) | 第四卷第11章历史归属回补 |
