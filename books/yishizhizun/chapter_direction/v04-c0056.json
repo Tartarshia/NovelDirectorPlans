@@ -61,7 +61,2706 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0226"
+  "reading_batch": "batch-0226",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0056",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0056.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0056:p0001",
+        "length": 37,
+        "sha256": "372eaaffe02c1834c8e0044b4caa9da827170f6ee4a158b869142c91be62a14e",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0001:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c038_tomb_attendant",
+            "surface_identity": "v04c038_tomb_attendant",
+            "text_context": "雾男望灭灯惊，半声即断",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "实际言语",
+            "embodiment": "黄雾中失声盯灯",
+            "delivery": "一个受惊中断的短音",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "雾男望灭灯惊，半声即断",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0001:u002",
+            "start": 5,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雾男望灭灯惊，半声即断",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "雾男望灭灯惊，半声即断",
+            "focalizer": "v04c038_tomb_attendant",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雾男望灭灯惊，半声即断"
+      },
+      {
+        "reference": "v04-c0056:p0002",
+        "length": 13,
+        "sha256": "5352ffb487a04466c676054ef60c9718dbe4749ef150a0779452fd007346ce95",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0002:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "v04c038_tomb_attendant",
+            "surface_identity": "v04c038_tomb_attendant",
+            "text_context": "三灯对应三长老是雾男据计划及灯灭的判断",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "内心",
+            "embodiment": "黄雾中失声盯灯",
+            "delivery": "一个受惊中断的短音",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "三灯对应三长老是雾男据计划及灯灭的判断",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "三灯对应三长老是雾男据计划及灯灭的判断"
+      },
+      {
+        "reference": "v04-c0056:p0003",
+        "length": 41,
+        "sha256": "b8c44c6ee510b3f81b6d9258022c58ad763c6743a25587954c373bdd9a5406d8",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0003:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "inner_speech",
+            "speaker": "v04c038_tomb_attendant",
+            "surface_identity": "v04c038_tomb_attendant",
+            "text_context": "他不知道何时交手，只惊同时亡",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "内心",
+            "embodiment": "黄雾中失声盯灯",
+            "delivery": "一个受惊中断的短音",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "他不知道何时交手，只惊同时亡",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "他不知道何时交手，只惊同时亡"
+      },
+      {
+        "reference": "v04-c0056:p0004",
+        "length": 142,
+        "sha256": "85073f52908cc3facb409ee3c7111b0f45c38df7375c9cf9650d0ed80a78768d",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0004:u001",
+            "start": 0,
+            "end": 128,
+            "kind": "inner_speech",
+            "speaker": "v04c038_tomb_attendant",
+            "surface_identity": "v04c038_tomb_attendant",
+            "text_context": "雾男内估三巅峰、三骨与练几十年布阵，以旧判空闻弱推出不可思议",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "内心",
+            "embodiment": "黄雾中失声盯灯",
+            "delivery": "一个受惊中断的短音",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "雾男内估三巅峰、三骨与练几十年布阵，以旧判空闻弱推出不可思议",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0004:u002",
+            "start": 128,
+            "end": 142,
+            "kind": "inner_speech",
+            "speaker": "v04c038_tomb_attendant",
+            "surface_identity": "v04c038_tomb_attendant",
+            "text_context": "雾男内估三巅峰、三骨与练几十年布阵，以旧判空闻弱推出不可思议",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "内心",
+            "embodiment": "黄雾中失声盯灯",
+            "delivery": "一个受惊中断的短音",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "雾男内估三巅峰、三骨与练几十年布阵，以旧判空闻弱推出不可思议",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雾男内估三巅峰、三骨与练几十年布阵，以旧判空闻弱推出不可思议"
+      },
+      {
+        "reference": "v04-c0056:p0005",
+        "length": 40,
+        "sha256": "7b231662c693c3ef7010d416af5618c8e46428eca9f708afe7fa31cd5009a413",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0005:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "棺飞灯、掀盖，黄雾实弥",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "棺飞灯、掀盖，黄雾实弥",
+            "focalizer": "v04c038_coffin_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0005:u002",
+            "start": 2,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "棺飞灯、掀盖，黄雾实弥",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "棺飞灯、掀盖，黄雾实弥",
+            "focalizer": "v04c038_coffin_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "棺飞灯、掀盖，黄雾实弥"
+      },
+      {
+        "reference": "v04-c0056:p0006",
+        "length": 32,
+        "sha256": "f9b271b0babf87d20bb5d1586dacdd3f4a49068d66ab524ae8999a592e1c2b57",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0006:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "坐起者气息似贯三时",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "坐起者气息似贯三时",
+            "focalizer": "v04c038_coffin_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "坐起者气息似贯三时"
+      },
+      {
+        "reference": "v04-c0056:p0007",
+        "length": 38,
+        "sha256": "55c8c37416ad5c997b2b88c323ef864b67b4310d1f4eca57ee3fd03611921459",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0007:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "白骨身少四根骨含手骨",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "白骨身少四根骨含手骨",
+            "focalizer": "v04c038_coffin_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "白骨身少四根骨含手骨"
+      },
+      {
+        "reference": "v04-c0056:p0008",
+        "length": 37,
+        "sha256": "32d9d54d638e7e13697c0cde3721bb02581f91e316b268cd48b14077cbc1ae46",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0008:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "薄血肉是旧残还是新生未知",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "薄血肉是旧残还是新生未知",
+            "focalizer": "v04c038_coffin_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "薄血肉是旧残还是新生未知"
+      },
+      {
+        "reference": "v04-c0056:p0009",
+        "length": 25,
+        "sha256": "c6dc462eda23c77250985a40baf64a7c2738c2ab8a3d2766ae1be909530484c6",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0009:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c038_coffin_leader",
+            "surface_identity": "v04c038_coffin_leader",
+            "text_context": "棺中人实际低吼",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "实际言语",
+            "embodiment": "白骨坐棺，四骨缺",
+            "delivery": "低吼后在内怀疑旧判",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "棺中人实际低吼",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0009:u002",
+            "start": 5,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "棺中人实际低吼",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "棺中人实际低吼",
+            "focalizer": "v04c038_coffin_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "棺中人实际低吼"
+      },
+      {
+        "reference": "v04-c0056:p0010",
+        "length": 10,
+        "sha256": "5dd1c3b555560285f4750535ea1552699351de267b38454199ec3b1f997161c9",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0010:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "v04c038_coffin_leader",
+            "surface_identity": "v04c038_coffin_leader",
+            "text_context": "宗主内疑空闻没有跌落",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "内心",
+            "embodiment": "白骨坐棺，四骨缺",
+            "delivery": "低吼后在内怀疑旧判",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "宗主内疑空闻没有跌落",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "宗主内疑空闻没有跌落"
+      },
+      {
+        "reference": "v04-c0056:p0011",
+        "length": 34,
+        "sha256": "c0b1ed73c1a429f502291fb9c7a87dcec3708dd167fab4df53163232daf8db58",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0011:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "v04c038_coffin_leader",
+            "surface_identity": "v04c038_coffin_leader",
+            "text_context": "疑旧线索皆伪装及其用意",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "内心",
+            "embodiment": "白骨坐棺，四骨缺",
+            "delivery": "低吼后在内怀疑旧判",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "疑旧线索皆伪装及其用意",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0011:u002",
+            "start": 26,
+            "end": 34,
+            "kind": "inner_speech",
+            "speaker": "v04c038_coffin_leader",
+            "surface_identity": "v04c038_coffin_leader",
+            "text_context": "疑旧线索皆伪装及其用意",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "内心",
+            "embodiment": "白骨坐棺，四骨缺",
+            "delivery": "低吼后在内怀疑旧判",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "疑旧线索皆伪装及其用意",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "疑旧线索皆伪装及其用意"
+      },
+      {
+        "reference": "v04-c0056:p0012",
+        "length": 89,
+        "sha256": "b4d63e2971b2e3e31bc5799ee9bf685d6a1bdc8fc88b4ffc2f5f8d0b04c6c729",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0012:u001",
+            "start": 0,
+            "end": 89,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙述列近半高层与三骨损失，随宗主震怒",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "棺启与三骨损失",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "叙述列近半高层与三骨损失，随宗主震怒",
+            "focalizer": "v04c038_coffin_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙述列近半高层与三骨损失，随宗主震怒"
+      },
+      {
+        "reference": "v04-c0056:p0013",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0013:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "停顿切牢旁",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "停顿切牢旁",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "停顿切牢旁"
+      },
+      {
+        "reference": "v04-c0056:p0014",
+        "length": 7,
+        "sha256": "4805e4c26ebf97ba1a6d711ffea8a102215cd19c3c7d72f72c6d179ec4d7e4ca",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0014:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "孟在心中重现上一章自报名，没有第二次开口",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "孟心中回响上一章困者所报",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟在心中重现上一章自报名，没有第二次开口",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟在心中重现上一章自报名，没有第二次开口"
+      },
+      {
+        "reference": "v04-c0056:p0015",
+        "length": 23,
+        "sha256": "b79b67d29d2b1186d7091debc4ebd17323350b516fa63316801722512ca1e991",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0015:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "重复四字令孟心惊",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "重复四字令孟心惊",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "重复四字令孟心惊"
+      },
+      {
+        "reference": "v04-c0056:p0016",
+        "length": 22,
+        "sha256": "944df5909994fcad6a5a2b41dd16bcf6065f67d169dcf51bcd0ca7572e13c137",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0016:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灵台破裂为心绪比拟",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "灵台破裂为心绪比拟",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灵台破裂为心绪比拟"
+      },
+      {
+        "reference": "v04-c0056:p0017",
+        "length": 27,
+        "sha256": "10bb440702e9868d58f1553285e2c279fc2833a54911ef582000a143dfadb2c6",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0017:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟疑困者真少林方丈吗",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟疑困者真少林方丈吗",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟疑困者真少林方丈吗"
+      },
+      {
+        "reference": "v04-c0056:p0018",
+        "length": 15,
+        "sha256": "820dcfae51bccb5a3e3bfc6d0c788d288215abb994eb4069279c157206da066f",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0018:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "若真寺中者谁是内问",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "若真寺中者谁是内问",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "若真寺中者谁是内问"
+      },
+      {
+        "reference": "v04-c0056:p0019",
+        "length": 36,
+        "sha256": "3040f580182e83e8a11ea0fba6ec957714475496c2566b1a46a3b3f6a760655f",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0019:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟回想近期没有公开法身出事及灵宝预期",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟回想近期没有公开法身出事及灵宝预期",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟回想近期没有公开法身出事及灵宝预期"
+      },
+      {
+        "reference": "v04-c0056:p0020",
+        "length": 19,
+        "sha256": "6c02e376352a7637b3c7c285aed99e29d0bf3336b965b01e21bf4b233a9f7b78",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0020:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "回忆所历空闻魔师因果段",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "回忆所历空闻魔师因果段",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "回忆所历空闻魔师因果段"
+      },
+      {
+        "reference": "v04-c0056:p0021",
+        "length": 21,
+        "sha256": "7b786058dadb6357f6f9e2764baeb52e6c489ed11d18eb687d95ced23501a9fd",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0021:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "回忆外魔踏碎灯影",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "回忆外魔踏碎灯影",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "回忆外魔踏碎灯影"
+      },
+      {
+        "reference": "v04-c0056:p0022",
+        "length": 37,
+        "sha256": "23cad2aba892fb135bc300f030d507d6177c411fcfe8488956dc9a22f91bbbed",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0022:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "回忆戚夏遇害时外方丈风采被质疑",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "回忆戚夏遇害时外方丈风采被质疑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "回忆戚夏遇害时外方丈风采被质疑"
+      },
+      {
+        "reference": "v04-c0056:p0023",
+        "length": 44,
+        "sha256": "a54dc1ec9c40dc175332e6110a23f122a7c3027925fca365b6829bfd6b03bf18",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0023:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "回忆清景遇害、外方丈从疑嫌洗脱",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "回忆清景遇害、外方丈从疑嫌洗脱",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "回忆清景遇害、外方丈从疑嫌洗脱"
+      },
+      {
+        "reference": "v04-c0056:p0024",
+        "length": 28,
+        "sha256": "81e447f0c6e073022428b38cba74f721b2a5a8d16d8ef12835cc86cbc00780a5",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0024:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "回忆杀仙迹太乙天尊、关联现实身份的外方丈，不混太乙真人",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "回忆杀仙迹太乙天尊、关联现实身份的外方丈，不混太乙真人",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "回忆杀仙迹太乙天尊、关联现实身份的外方丈，不混太乙真人"
+      },
+      {
+        "reference": "v04-c0056:p0025",
+        "length": 25,
+        "sha256": "b1e507ca445ee6555dd45477766f1bc0573dc755a8ca3a18632a1c1835ab35e5",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0025:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "段瑞及义父逆练牵幕后人为旧疑线",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "段瑞及义父逆练牵幕后人为旧疑线",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "段瑞及义父逆练牵幕后人为旧疑线"
+      },
+      {
+        "reference": "v04-c0056:p0026",
+        "length": 23,
+        "sha256": "933597d649700d093251ab6e63fc9c1e099466027a0a264e97b0fe1a400b4e09",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0026:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "段看守莫名亡无痕是旧疑线",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "段看守莫名亡无痕是旧疑线",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "段看守莫名亡无痕是旧疑线"
+      },
+      {
+        "reference": "v04-c0056:p0027",
+        "length": 16,
+        "sha256": "c5586b517574ecccc551e431367e9a47bc7ba958b3b79d482e1daf3573ce7803",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0027:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "真常盗经旧疑",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "真常盗经旧疑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真常盗经旧疑"
+      },
+      {
+        "reference": "v04-c0056:p0028",
+        "length": 20,
+        "sha256": "1ff792ca60ee1722971111fec1c52dec018a71d6f3538b0f07766e6807f0c1e0",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0028:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "少林支持太子与净土往来的变化",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "少林支持太子与净土往来的变化",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "少林支持太子与净土往来的变化"
+      },
+      {
+        "reference": "v04-c0056:p0029",
+        "length": 94,
+        "sha256": "da6716bb755d54b7f12b7ff47d0f5d8d88bdc3d04db2112d8ca113becc94541c",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0029:u001",
+            "start": 0,
+            "end": 84,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟认可逐己符合戒律，存疑无净急办",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟认可逐己符合戒律，存疑无净急办",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0029:u002",
+            "start": 84,
+            "end": 94,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟认可逐己符合戒律，存疑无净急办",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟认可逐己符合戒律，存疑无净急办",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟认可逐己符合戒律，存疑无净急办"
+      },
+      {
+        "reference": "v04-c0056:p0030",
+        "length": 15,
+        "sha256": "4e60b39a50eab075a1be555c2327df165cc694d0af643f24a284e6af5c4a96d8",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0030:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟心归纳近年多怪事",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟心归纳近年多怪事",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心归纳近年多怪事"
+      },
+      {
+        "reference": "v04-c0056:p0031",
+        "length": 33,
+        "sha256": "daf94aa35f0158dfff816f3df14bfd811982a3988c218a9a0fa49d53641eb61d",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0031:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙述串起线索孕猜",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "叙述串起线索孕猜",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙述串起线索孕猜"
+      },
+      {
+        "reference": "v04-c0056:p0032",
+        "length": 21,
+        "sha256": "dfedbf828b68290b7e6d1f5b83374fe8de452de4b6d3ad534c32aae80ce65f92",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0032:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟疑现方丈由韩广扮",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟疑现方丈由韩广扮",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟疑现方丈由韩广扮"
+      },
+      {
+        "reference": "v04-c0056:p0033",
+        "length": 28,
+        "sha256": "64147f0f0064551cf48d2c90f853c7aa7fa2c2182155c37b1d6cd50fcada62e5",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0033:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "此猜连自己都惊",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "此猜连自己都惊",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "此猜连自己都惊"
+      },
+      {
+        "reference": "v04-c0056:p0034",
+        "length": 33,
+        "sha256": "3de7ff8ebf16a5d718cd5cb0eacae5daeb08932ec2f2eb3a49e08e13affb3059",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0034:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "可能魔道混成掌门让孟不敢信",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "可能魔道混成掌门让孟不敢信",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "可能魔道混成掌门让孟不敢信"
+      },
+      {
+        "reference": "v04-c0056:p0035",
+        "length": 80,
+        "sha256": "11c472ce2721e521adcea59e1effef067c96db6e15060e9dd01ddd221d686db4",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0035:u001",
+            "start": 0,
+            "end": 80,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "善恶分体、时线不同等替代解释仍在孟内",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "困者名字启猜",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "善恶分体、时线不同等替代解释仍在孟内",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "善恶分体、时线不同等替代解释仍在孟内"
+      },
+      {
+        "reference": "v04-c0056:p0036",
+        "length": 40,
+        "sha256": "ed70bf7f07c59c1e82087cfa21a600eecedd4839f4de9ec5bccbcefe37f5fbbf",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0036:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟循猜测发现更多旧疑可通",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟循猜测发现更多旧疑可通",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟循猜测发现更多旧疑可通"
+      },
+      {
+        "reference": "v04-c0056:p0037",
+        "length": 52,
+        "sha256": "5cac6172586b7dff77e289974f9f8a8084a14e6b94070c1f2fd887c47699cbf2",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0037:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "琼华宴时六灭人魔似等援，九天雷神来，联手是孟推",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "琼华宴时六灭人魔似等援，九天雷神来，联手是孟推",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "琼华宴时六灭人魔似等援，九天雷神来，联手是孟推"
+      },
+      {
+        "reference": "v04-c0056:p0038",
+        "length": 32,
+        "sha256": "8a4bc14393b0c513db7a02a09fb34b3098688df3e9c8b9e20342d3b68f12b47b",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0038:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "天帝介入神都赵氏关键事为旧忆",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "天帝介入神都赵氏关键事为旧忆",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "天帝介入神都赵氏关键事为旧忆"
+      },
+      {
+        "reference": "v04-c0056:p0039",
+        "length": 23,
+        "sha256": "b9a0d4776aec7570b0119655ea78a7ac582831b2a334ff9cc7aac94433e0c5e7",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0039:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "当时神话少人似私人任务，是推",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "当时神话少人似私人任务，是推",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "当时神话少人似私人任务，是推"
+      },
+      {
+        "reference": "v04-c0056:p0040",
+        "length": 46,
+        "sha256": "97db46285a5ab4d4868b59bdd6d92a8d843ddd96b907a19c207751e4ab9e2caf",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0040:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "六灭人魔可瞒境界是孟已知",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "六灭人魔可瞒境界是孟已知",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六灭人魔可瞒境界是孟已知"
+      },
+      {
+        "reference": "v04-c0056:p0041",
+        "length": 9,
+        "sha256": "ee77b2c346d66293f4dc037e57f02f40083caa6d62e76ca4011b00fd2ec5389a",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0041:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "假九娘与天帝面具通过事迹联想，孟非亲见终变身",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "假九娘与天帝面具通过事迹联想，孟非亲见终变身",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "假九娘与天帝面具通过事迹联想，孟非亲见终变身"
+      },
+      {
+        "reference": "v04-c0056:p0042",
+        "length": 57,
+        "sha256": "e4352bc9561e6c1f947d585368b8e5b57d7c5da34f085ed9f48caeda0888d4a0",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0042:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "十多年未见方丈同级、神兵由看守轮守是孟综合旧信息",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "十多年未见方丈同级、神兵由看守轮守是孟综合旧信息",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "十多年未见方丈同级、神兵由看守轮守是孟综合旧信息"
+      },
+      {
+        "reference": "v04-c0056:p0043",
+        "length": 34,
+        "sha256": "b79527922b58d399bfec8912a026adba85155f6a49a02444ccdd6e95bba6b103",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0043:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "强烈判断铺垫",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "强烈判断铺垫",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "强烈判断铺垫"
+      },
+      {
+        "reference": "v04-c0056:p0044",
+        "length": 16,
+        "sha256": "bf2a42d188610f5c2aed6013d9af5e943b0b755e70c119a12bc2252720f9e9e1",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0044:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "外间方丈就是韩广，仍孟此时推断",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "外间方丈就是韩广，仍孟此时推断",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "外间方丈就是韩广，仍孟此时推断"
+      },
+      {
+        "reference": "v04-c0056:p0045",
+        "length": 16,
+        "sha256": "3732dbb36bc4ea88da510ab0779b8406267cbd9815d61076e4f68662a82aa0a6",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0045:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "韩广等天帝也是孟综合推断",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "韩广等天帝也是孟综合推断",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "韩广等天帝也是孟综合推断"
+      },
+      {
+        "reference": "v04-c0056:p0046",
+        "length": 100,
+        "sha256": "1d78579ab9be4f58179a9f0eb7c8ffd1e9701789290d76334f266ee8057bd871",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0046:u001",
+            "start": 0,
+            "end": 100,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟忆顾在邺城说真皇玺钓韩广求合作，不知全意",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟忆顾在邺城说真皇玺钓韩广求合作，不知全意",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟忆顾在邺城说真皇玺钓韩广求合作，不知全意"
+      },
+      {
+        "reference": "v04-c0056:p0047",
+        "length": 17,
+        "sha256": "413840ab242281f37639e045c6c4c46ea04b4452513db76a934c2a6115529bab",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0047:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟记实际到者为神话成员",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟记实际到者为神话成员",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟记实际到者为神话成员"
+      },
+      {
+        "reference": "v04-c0056:p0048",
+        "length": 121,
+        "sha256": "66c6c4356584efb5db9b2a44dd6b07276e54c4da1da366a75016e02b53ce4f1a",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0048:u001",
+            "start": 0,
+            "end": 121,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟条件解释伪装会限行动，故经由神话",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟条件解释伪装会限行动，故经由神话",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟条件解释伪装会限行动，故经由神话"
+      },
+      {
+        "reference": "v04-c0056:p0049",
+        "length": 34,
+        "sha256": "fefa20150bf05d20b14223e732b2b4ebcb10d0e828d63d0920850395366cf11e",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0049:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "幕后没全力追孟的理由在他内推",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "幕后没全力追孟的理由在他内推",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "幕后没全力追孟的理由在他内推"
+      },
+      {
+        "reference": "v04-c0056:p0050",
+        "length": 5,
+        "sha256": "81b8d6378c82e432d21cf2aa1c131212f6c0fee7d4eadc959f9660476fbbf0e0",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0050:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟给出分身乏术一因",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟给出分身乏术一因",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟给出分身乏术一因"
+      },
+      {
+        "reference": "v04-c0056:p0051",
+        "length": 26,
+        "sha256": "97b647d6f58f9642042fb62121291280faa586cbf3cd38f194db5753d1c2e10c",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0051:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "公开用灭天门属下易露馅，属孟推",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "公开用灭天门属下易露馅，属孟推",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公开用灭天门属下易露馅，属孟推"
+      },
+      {
+        "reference": "v04-c0056:p0052",
+        "length": 62,
+        "sha256": "5acf629ca98225f9021d6e7c3e305b16390dd3701aabfb4f95a133c2b653817f",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0052:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟猜顾既确认首领状态又怀疑韩身份",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟猜顾既确认首领状态又怀疑韩身份",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0052:u002",
+            "start": 12,
+            "end": 62,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟猜顾既确认首领状态又怀疑韩身份",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟猜顾既确认首领状态又怀疑韩身份",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟猜顾既确认首领状态又怀疑韩身份"
+      },
+      {
+        "reference": "v04-c0056:p0053",
+        "length": 31,
+        "sha256": "6aae73c79363c45d71ea1262f4e995b10f722547212c274b2b85793f70166c88",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0053:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内怨顾所说有骗或省略",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟内怨顾所说有骗或省略",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内怨顾所说有骗或省略"
+      },
+      {
+        "reference": "v04-c0056:p0054",
+        "length": 26,
+        "sha256": "b3efe3fcd32cec006df177324523e05328d269a7cd2d79224212342d3094a242",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0054:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内评价顾借教事达到个人目的",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟内评价顾借教事达到个人目的",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内评价顾借教事达到个人目的"
+      },
+      {
+        "reference": "v04-c0056:p0055",
+        "length": 98,
+        "sha256": "a68a8b38a521413155616e6c4fae4a8fd7643a2517ef01efcb0e75386570598a",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0055:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟类比玄女一事猜空闻被坑，又假设封神秘宝及帮手",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟类比玄女一事猜空闻被坑，又假设封神秘宝及帮手",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0055:u002",
+            "start": 7,
+            "end": 98,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟类比玄女一事猜空闻被坑，又假设封神秘宝及帮手",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟类比玄女一事猜空闻被坑，又假设封神秘宝及帮手",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟类比玄女一事猜空闻被坑，又假设封神秘宝及帮手"
+      },
+      {
+        "reference": "v04-c0056:p0056",
+        "length": 83,
+        "sha256": "4bc4d0c3b9fd5c852a12c8e3afb1d6eff914a1db919b5411c81e2a0b3b4ed3e0",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0056:u001",
+            "start": 0,
+            "end": 83,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "以世代主角比较韩高是孟内评价",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "以世代主角比较韩高是孟内评价",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "以世代主角比较韩高是孟内评价"
+      },
+      {
+        "reference": "v04-c0056:p0057",
+        "length": 31,
+        "sha256": "762369bcbc32a0cc029767d0b4019d79604c179744a8120e04acafebfeeb7bb4",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0057:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "他承认未见高冷性一面，不能就比定",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "他承认未见高冷性一面，不能就比定",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "他承认未见高冷性一面，不能就比定"
+      },
+      {
+        "reference": "v04-c0056:p0058",
+        "length": 35,
+        "sha256": "f50599c00392656451e576b0e01b65c2218a99bc02e01c4da32318ba2d743e7f",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0058:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟看上代突出者是苏无名",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "少林神都邺城诸线相合",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟看上代突出者是苏无名",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟看上代突出者是苏无名"
+      },
+      {
+        "reference": "v04-c0056:p0059",
+        "length": 20,
+        "sha256": "c4470f8e711d2a9f241146c869dd74fdfc9a3fba61c1a1ea0bdba80fe3268f2f",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0059:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "吐气收猜测并静下",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "吐气收猜测并静下",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "吐气收猜测并静下"
+      },
+      {
+        "reference": "v04-c0056:p0060",
+        "length": 52,
+        "sha256": "9f363cd9376d2279834eb190449bec7240926f82a647d28194ed297e990bf2b5",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0060:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "未确认困者真身，亦可疑韩诱救",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "未确认困者真身，亦可疑韩诱救",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0060:u002",
+            "start": 35,
+            "end": 44,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "未确认困者真身，亦可疑韩诱救",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "未确认困者真身，亦可疑韩诱救",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0060:u003",
+            "start": 44,
+            "end": 52,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "未确认困者真身，亦可疑韩诱救",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "未确认困者真身，亦可疑韩诱救",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未确认困者真身，亦可疑韩诱救"
+      },
+      {
+        "reference": "v04-c0056:p0061",
+        "length": 98,
+        "sha256": "cf300c420f34b1bdb010f43b9fd249f322500e1939bd1559b12e87d8e7da206c",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0061:u001",
+            "start": 0,
+            "end": 98,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "早有散线，自报空闻才触发串联",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "早有散线，自报空闻才触发串联",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "早有散线，自报空闻才触发串联"
+      },
+      {
+        "reference": "v04-c0056:p0062",
+        "length": 31,
+        "sha256": "c8a015fcb6c5c2dd8797dc7f3035abd81f981aecd731fc290f3cb2563bd97f7f",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0062:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实问是不是降龙罗汉空闻",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟实问是不是降龙罗汉空闻",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0062:u002",
+            "start": 15,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实问是不是降龙罗汉空闻",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "实际言语",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟实问是不是降龙罗汉空闻",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实问是不是降龙罗汉空闻"
+      },
+      {
+        "reference": "v04-c0056:p0063",
+        "length": 16,
+        "sha256": "3b0c6206de92739fa94770000e31c655107a08fe18730d54b46457b455fa81c4",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0063:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "凝目见似僧",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "凝目见似僧",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "凝目见似僧"
+      },
+      {
+        "reference": "v04-c0056:p0064",
+        "length": 21,
+        "sha256": "5eddbd26f9308c9f59111e5a36a3af1aa71910159f9330abeb8ae230ad009a9d",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0064:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者声音不躁，实认",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者声音不躁，实认",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0064:u002",
+            "start": 7,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "困者声音不躁，实认",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者声音不躁，实认",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "困者声音不躁，实认"
+      },
+      {
+        "reference": "v04-c0056:p0065",
+        "length": 34,
+        "sha256": "5b88c1b72d15950a3f3db1b4e7ee0231a265e6181bdd9b8d9d3e4343c2e7dde3",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0065:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "困者顿问身份为何入少林后山",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者顿问身份为何入少林后山",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0065:u002",
+            "start": 17,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者顿问身份为何入少林后山",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者顿问身份为何入少林后山",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0065:u003",
+            "start": 23,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者顿问身份为何入少林后山",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者顿问身份为何入少林后山",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "困者顿问身份为何入少林后山"
+      },
+      {
+        "reference": "v04-c0056:p0066",
+        "length": 77,
+        "sha256": "097ffb5e526d5ea24f1f0888193a8d5a526f1e50fa13abbc1ef568f241ce2437",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0066:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内纳闷对方称少林，实际自报苏孟、弃徒、玄悲门下",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟内纳闷对方称少林，实际自报苏孟、弃徒、玄悲门下",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0066:u002",
+            "start": 16,
+            "end": 36,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内纳闷对方称少林，实际自报苏孟、弃徒、玄悲门下",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟内纳闷对方称少林，实际自报苏孟、弃徒、玄悲门下",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0066:u003",
+            "start": 36,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内纳闷对方称少林，实际自报苏孟、弃徒、玄悲门下",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟内纳闷对方称少林，实际自报苏孟、弃徒、玄悲门下",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0066:u004",
+            "start": 53,
+            "end": 77,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内纳闷对方称少林，实际自报苏孟、弃徒、玄悲门下",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "实际言语",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟内纳闷对方称少林，实际自报苏孟、弃徒、玄悲门下",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内纳闷对方称少林，实际自报苏孟、弃徒、玄悲门下"
+      },
+      {
+        "reference": "v04-c0056:p0067",
+        "length": 69,
+        "sha256": "21382e16c4d0165d725c70235b6763fe8a49bbbbe67381f925e03cb550fa574b",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0067:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟以不漏六道为界先听证言",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟以不漏六道为界先听证言",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟以不漏六道为界先听证言"
+      },
+      {
+        "reference": "v04-c0056:p0068",
+        "length": 62,
+        "sha256": "db29e704c18523f193b449bacdcf7fcfd16970b670eb2727445395ab6dafed15",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0068:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "暂不救，除真假难定也实力不及",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "暂不救，除真假难定也实力不及",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "暂不救，除真假难定也实力不及"
+      },
+      {
+        "reference": "v04-c0056:p0069",
+        "length": 26,
+        "sha256": "65b23cd2fe1252b4783f2e72ac483e1a949a6efed4974594f7376bbcf204e59c",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0069:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实模拟金钟罩，暗金佛相佐少林缘",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "实模拟金钟罩，暗金佛相佐少林缘",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实模拟金钟罩，暗金佛相佐少林缘"
+      },
+      {
+        "reference": "v04-c0056:p0070",
+        "length": 52,
+        "sha256": "b771838884cc64534c0a3f254ede96c6a7638e0435464e621f7feacebf25d350",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0070:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者叹只教玄悲不久就困，实问其近况",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者叹只教玄悲不久就困，实问其近况",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0070:u002",
+            "start": 8,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "困者叹只教玄悲不久就困，实问其近况",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者叹只教玄悲不久就困，实问其近况",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0070:u003",
+            "start": 17,
+            "end": 52,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者叹只教玄悲不久就困，实问其近况",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者叹只教玄悲不久就困，实问其近况",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "困者叹只教玄悲不久就困，实问其近况"
+      },
+      {
+        "reference": "v04-c0056:p0071",
+        "length": 25,
+        "sha256": "bb865d475a7c3f5b5817a640fad179d8447a2de77b889ec0db0baaeda5fd4d3e",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0071:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄悲入门与魔师战相隔数年为旧记",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "玄悲入门与魔师战相隔数年为旧记",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄悲入门与魔师战相隔数年为旧记"
+      },
+      {
+        "reference": "v04-c0056:p0072",
+        "length": 85,
+        "sha256": "8b63d15ab6545ee0be36a145fd79e3080a54d7a00ec7032308fd447a80ec5e5f",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0072:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实述玄悲境界与寺中仍有空闻指导",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟实述玄悲境界与寺中仍有空闻指导",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0072:u002",
+            "start": 24,
+            "end": 85,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实述玄悲境界与寺中仍有空闻指导",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "复核身份而暂不解困",
+            "channel": "实际言语",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟实述玄悲境界与寺中仍有空闻指导",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实述玄悲境界与寺中仍有空闻指导"
+      },
+      {
+        "reference": "v04-c0056:p0073",
+        "length": 49,
+        "sha256": "0eb77903eb2b82b858db01814459d60768edad695657e030e8c80e2e1238ff9f",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0073:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者听出韩广，推未杀自己为其代价及魂灯不能灭",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者听出韩广，推未杀自己为其代价及魂灯不能灭",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0073:u002",
+            "start": 6,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "困者听出韩广，推未杀自己为其代价及魂灯不能灭",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者听出韩广，推未杀自己为其代价及魂灯不能灭",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0073:u003",
+            "start": 17,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者听出韩广，推未杀自己为其代价及魂灯不能灭",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者听出韩广，推未杀自己为其代价及魂灯不能灭",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "困者听出韩广，推未杀自己为其代价及魂灯不能灭"
+      },
+      {
+        "reference": "v04-c0056:p0074",
+        "length": 11,
+        "sha256": "368d0305132ccb7c1fcfb2bca5a10f87f5fb68e38b601af44b04fe401f623d0a",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0074:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟对他们二字开口问",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "实际言语",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟对他们二字开口问",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0074:u002",
+            "start": 5,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟对他们二字开口问",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟对他们二字开口问",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟对他们二字开口问"
+      },
+      {
+        "reference": "v04-c0056:p0075",
+        "length": 15,
+        "sha256": "c2ff9f018213d0ff5fdbf69cebcb87aab28c247a61e3d691af5ea16d482af72a",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0075:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "是否神话成员参与仍孟内疑",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "是否神话成员参与仍孟内疑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "是否神话成员参与仍孟内疑"
+      },
+      {
+        "reference": "v04-c0056:p0076",
+        "length": 83,
+        "sha256": "1493d73a3d3df15cdb935e389d0b54f6a050820344c4f98240acfe2252f90d08",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0076:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "困者自述带元空舍利入局、留不合功法阿难刀",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者自述带元空舍利入局、留不合功法阿难刀",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0076:u002",
+            "start": 16,
+            "end": 83,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者自述带元空舍利入局、留不合功法阿难刀",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者自述带元空舍利入局、留不合功法阿难刀",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "困者自述带元空舍利入局、留不合功法阿难刀"
+      },
+      {
+        "reference": "v04-c0056:p0077",
+        "length": 35,
+        "sha256": "4b782928f465382fbffddba6b3ed0fab22b5f47ade9c3ca9035615805fa0f6b8",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0077:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者说占上风后韩广祭物强行拉来",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者说占上风后韩广祭物强行拉来",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "困者说占上风后韩广祭物强行拉来"
+      },
+      {
+        "reference": "v04-c0056:p0078",
+        "length": 46,
+        "sha256": "a3dbf1e4692bf2b853ab408ae827a7ce6cf58fe0f58ec842121c991f6978385b",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0078:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "牢中自报空闻者，作第一人称口述",
+            "text_context": "困者自述阵与另一法身协助韩，故只求自保被困",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "实际言语",
+            "embodiment": "帘内声平，听玄悲后感慨",
+            "delivery": "否躁，逐步吐露旧困经过",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "困者自述阵与另一法身协助韩，故只求自保被困",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "困者自述阵与另一法身协助韩，故只求自保被困"
+      },
+      {
+        "reference": "v04-c0056:p0079",
+        "length": 16,
+        "sha256": "74d6c57d9711104755a8ba0ac2cfb899fbbffdb1b351503ac7cfd0e787175cb2",
+        "units": [
+          {
+            "unit_id": "v04-c0056:p0079:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟得知另有法身而惊，未点人名",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟得知另有法身而惊，未点人名",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0056:p0079:u002",
+            "start": 9,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟得知另有法身而惊，未点人名",
+            "world_context": "第四卷：古墓三灯后证、少林旧线索串联与牢中口述",
+            "stage_context": "另一法身参与的口述",
+            "channel": "内心",
+            "embodiment": "从震惊到深吸收猜，模拟金钟罩佐证师承",
+            "delivery": "对外仅谨问与自述，身份链放内心",
+            "vow_friendship_and_loot_boundary": "三位太上长老死亡有墓中后证；假扮身份链未独立核验。孟未解牢，另一法身未具名。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "孟的强判断与不同假设同属内心。困者就旧战讲来龙去脉，不前置下一章证言，也不把太乙天尊与太乙真人混同。",
+            "knowledge_boundary": "孟得知另有法身而惊，未点人名",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟得知另有法身而惊，未点人名"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0056",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S08",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 12,
+        "label": "三灯后果与棺中宗主",
+        "direction": "从雾男仅能出半声，接他无从知交手时间却据灯判三长老同亡。棺开后才见骨身少四根，怒声之后是宗主对旧情报的怀疑。三骨损失与死者的关系在此补足。 证据 v04-c0056:p0001–p0012。"
+      },
+      {
+        "paragraph_start": 14,
+        "paragraph_end": 35,
+        "label": "听空闻自报，少林旧事闪回",
+        "direction": "把自报名作上一章的回声，跟着孟的震惊剪入因果拳、踏灯、少林诸事。太乙天尊是此处旧疑线的死者，区别仙迹现身的太乙真人。猜韩广和另外解释均是孟的心绪。 证据 v04-c0056:p0014–p0035。"
+      },
+      {
+        "paragraph_start": 36,
+        "paragraph_end": 58,
+        "label": "由神都旧事连到邺城",
+        "direction": "按照孟的想法串琼华宴、神都天帝、假九娘与真皇玺，不改变各条证据原有来源。两个身份等式是孟此刻的推断；顾小桑对韩身份的怀疑也只从孟口径呈现。 证据 v04-c0056:p0036–p0058。"
+      },
+      {
+        "paragraph_start": 59,
+        "paragraph_end": 72,
+        "label": "问证与自报师承",
+        "direction": "孟先深吸气，现实听见困者声平、再谈彼此身份。自称少林弃徒，加模拟金钟罩和玄悲近况为佐，保留不泄六道、不直接救人的决定。 证据 v04-c0056:p0059–p0072。"
+      },
+      {
+        "paragraph_start": 73,
+        "paragraph_end": 79,
+        "label": "困者交代舍利及被困",
+        "direction": "从他听到寺里还有方丈才认出韩的目的，留阿难刀、持舍利与占上风为第一人称回述。扭转在于被宝物拉入阵，再有另一法身助韩，孟惊于其存在而未得到名字。 证据 v04-c0056:p0073–p0079。"
+      }
+    ],
+    "knowledge_rule": "身份判断、困者口述与事件所见各自留界。第13段是分隔符，未改原分场。"
+  }
 }

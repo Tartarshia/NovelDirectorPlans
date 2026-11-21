@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [三灯对应长老与棺中白骨形身](early-v04-tomb-lamps-and-missing-Huangquan-bones.md) | 第四卷第56章历史归属回补 |
+| [孟奇串疑线推外间空闻、韩广和天帝](early-v04-Meng-Qi-links-the-Shaolin-imposture.md) | 第四卷第56章历史归属回补 |
+| [牢中自称空闻者口述舍利、阵法与另一法身](early-v04-captive-Kong-Wen-account-of-the-ambush.md) | 第四卷第56章历史归属回补 |
 | [赤线旧痕中的妖圣凤兮与阿难](early-v04-red-causal-thread-Feng-Xi-and-Ananda.md) | 第四卷第55章历史归属回补 |
 | [木雕见左右异相，沾因果初成](early-v04-Meng-Qi-initial-complete-Zhan-Yinguo.md) | 第四卷第55章历史归属回补 |
 | [两处空闻与古墓三灯熄灭](early-v04-two-Kong-Wen-appearances-and-three-lamps-out.md) | 第四卷第55章历史归属回补 |
