@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [太极殿报天子赵明宇实名，高进忠扶帝](early-v03-Zhao-Mingyu-named-and-Gao-Jinzhong-seen.md) | 第三卷第342章历史归属回补 |
+| [气息符热指宫，孟和袁不出声](early-v03-Meng-and-Yuan-share-palace-talisman-cue-without-words.md) | 第三卷第342章历史归属回补 |
+| [太子伴僧令众惊，首试琴棋书画](early-v03-Qionghua-crown-prince-monks-and-first-arts-question.md) | 第三卷第342章历史归属回补 |
 | [崔清羽解释王文宪受请跟踪和镖局密信](early-v03-Cui-Qingyu-explains-commission-and-late-half-token-recognition.md) | 第三卷第341章历史归属回补 |
 | [齐正言传音给出疑似赐福天官线索](early-v03-Qi-Zhengyan-reports-possible-Tianguan-in-private.md) | 第三卷第341章历史归属回补 |
 | [樊长苗平声邀琼华比试，围观误读打趣](early-v03-Fan-Changmiao-invites-Meng-to-compete-at-Qionghua.md) | 第三卷第341章历史归属回补 |
