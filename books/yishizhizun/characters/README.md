@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [九枢避劫符耗去，孟由钻心钉认袭者](early-v03-Meng-talisman-consumed-by-heart-piercing-nail.md) | 第三卷第338章历史归属回补 |
+| [赵无言取半令，斗姆舍令遁后藏身柴房](early-v03-Zhao-Wuyan-takes-half-token-while-Doumu-breaks-away.md) | 第三卷第338章历史归属回补 |
+| [司马石命追两派，苏家回府候审](early-v03-Sima-orders-pursuit-and-Su-house-awaits-questioning.md) | 第三卷第338章历史归属回补 |
 | [清源道人变蟒破车并化出两头四臂](early-v03-Qingyuan-daoist-chariot-clash-and-additional-head-and-arms.md) | 第三卷第337章历史归属回补 |
 | [顾小桑从玉旁丫环形态显相，率五外景抵斗姆](early-v03-Gu-Xiaosang-reveals-face-and-Brings-Five-Into-Formation.md) | 第三卷第337章历史归属回补 |
 | [孟挡车夫、送妹妹脱战并受未名紫电袭向背后](early-v03-Meng-holds-coachman-sees-siblings-and-hears-third-attacker.md) | 第三卷第337章历史归属回补 |
