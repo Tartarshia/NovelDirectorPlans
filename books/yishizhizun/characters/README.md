@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [严冲实演茶道，由动求静](early-v03-Yan-Chong-tea-demonstrates-moving-into-tranquility.md) | 第三卷第343章历史归属回补 |
+| [玄真临空挥墨，佛门劝说与世家反应](early-v03-Xuanzhen-written-sutra-and-unresolved-house-opposition.md) | 第三卷第343章历史归属回补 |
+| [孟静雕帝像后赠帝，阮抱琴下台](early-v03-Meng-carves-emperor-in-tranquil-focus-and-Ruan-enters.md) | 第三卷第343章历史归属回补 |
 | [太极殿报天子赵明宇实名，高进忠扶帝](early-v03-Zhao-Mingyu-named-and-Gao-Jinzhong-seen.md) | 第三卷第342章历史归属回补 |
 | [气息符热指宫，孟和袁不出声](early-v03-Meng-and-Yuan-share-palace-talisman-cue-without-words.md) | 第三卷第342章历史归属回补 |
 | [太子伴僧令众惊，首试琴棋书画](early-v03-Qionghua-crown-prince-monks-and-first-arts-question.md) | 第三卷第342章历史归属回补 |
