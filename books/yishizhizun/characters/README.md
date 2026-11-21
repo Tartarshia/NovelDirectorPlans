@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [崔清羽解释王文宪受请跟踪和镖局密信](early-v03-Cui-Qingyu-explains-commission-and-late-half-token-recognition.md) | 第三卷第341章历史归属回补 |
+| [齐正言传音给出疑似赐福天官线索](early-v03-Qi-Zhengyan-reports-possible-Tianguan-in-private.md) | 第三卷第341章历史归属回补 |
+| [樊长苗平声邀琼华比试，围观误读打趣](early-v03-Fan-Changmiao-invites-Meng-to-compete-at-Qionghua.md) | 第三卷第341章历史归属回补 |
 | [顾小桑向柳说明刻意泄露端倪和玉家安排](early-v03-Gu-explains-leaking-Yu-identity-through-Liu.md) | 第三卷第340章历史归属回补 |
 | [柳作为流罗应身签下不超三事的黄纸契约](early-v03-Liu-signs-three-requests-agreement-with-Gu.md) | 第三卷第340章历史归属回补 |
 | [崔辙乘追失之车来请孟过府](early-v03-Cui-Zhe-returns-with-lost-carriage-and-invites-Meng.md) | 第三卷第340章历史归属回补 |
