@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟公开传授本地武道门径](early-v04-public-teaching-from-the-black-curtain-carriage.md) | 第四卷第32章历史归属回补 |
+| [方华吟踏云后记名，实领无名书](early-v04-Fang-Huayin-registered-disciple-and-unnamed-manual.md) | 第四卷第32章历史归属回补 |
+| [孟确进外景二重，墨宫提出青华灵木](early-v04-second-Outer-heaven-and-Yingmo-commission.md) | 第四卷第32章历史归属回补 |
 | [方华吟与万宇留下追车](early-v04-fang-huayin-and-wan-yu-choose-to-stay.md) | 第四卷第31章历史归属回补 |
 | [方万护车，方临险闻一剑提示](early-v04-black-curtain-ambush-and-first-guidance.md) | 第四卷第31章历史归属回补 |
 | [黑帘马车传闻和路上再战](early-v04-carriage-rumors-and-estate-arrival.md) | 第四卷第31章历史归属回补 |
