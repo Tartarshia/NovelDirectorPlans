@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [楼伽与雪冷钊在鱼海止战](early-v04-Lou-Jia-and-Xue-Lengzhao.md) | 第四卷第35章历史归属回补 |
+| [钱楷邀请表层身份申豹](early-v04-Qian-Kai-recruits-Shen-Bao.md) | 第四卷第35章历史归属回补 |
+| [周秋山、可疑相貌与黑念珠](early-v04-Zhou-Qiushan-and-the-black-bead.md) | 第四卷第35章历史归属回补 |
 | [白衣玄女隔绝鱼海闹市](early-v04-Xuannv-isolates-the-Fish-Sea-street.md) | 第四卷第34章历史归属回补 |
 | [孟奇以沾因果威慑玄女](early-v04-Meng-Qi-bluffs-with-karma.md) | 第四卷第34章历史归属回补 |
 | [洞天请托与鱼海疏散](early-v04-Fish-Sea-evacuation-and-grotto-request.md) | 第四卷第34章历史归属回补 |
