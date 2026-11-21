@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [雪冷钊重修、创伤与十心现身](early-v04-Xue-Lengzhao-and-Shixin-reappearance.md) | 第四卷第37章历史归属回补 |
+| [云鹤先旁观及助战分成](early-v04-Yunhe-conditional-alliance-and-spoils.md) | 第四卷第37章历史归属回补 |
+| [佛光引出的三处选择](early-v04-Fish-Sea-light-and-three-choices.md) | 第四卷第37章历史归属回补 |
 | [余生居士卢江与播密看门人](early-v04-Lu-Jiang-gatekeeper-recognizes-Shen-Bao.md) | 第四卷第36章历史归属回补 |
 | [孟奇谢绝同行与主动求证](early-v04-Meng-Qi-refuses-the-Fish-Sea-party.md) | 第四卷第36章历史归属回补 |
 | [老曹酒店毁损与谢酒鬼不见](early-v04-destroyed-tavern-and-missing-Xie.md) | 第四卷第36章历史归属回补 |
