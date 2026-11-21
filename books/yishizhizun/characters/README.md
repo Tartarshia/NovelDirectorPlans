@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [王思远、段瑞与莲台门敞开](early-v04-Wang-Duan-Rui-and-the-Liantai-door.md) | 第四卷第50章历史归属回补 |
+| [孟奇穿过尸地进入破禅林](early-v04-Meng-Qi-enters-a-ruined-Buddhist-grove.md) | 第四卷第50章历史归属回补 |
+| [溪中反照与沙哑声音的自述](early-v04-reflection-voice-accuses-Meng-Qi.md) | 第四卷第50章历史归属回补 |
 | [少华祭奠和孟奇七日自限](early-v04-Shaohua-memorial-local-memory-and-seven-days.md) | 第四卷第49章历史归属回补 |
 | [古迹推演与用沾因果过门](early-v04-Shaohua-inscription-and-passing-the-stone-door.md) | 第四卷第49章历史归属回补 |
 | [莲台后山王思远与第二处同题门](early-v04-Liantai-second-inscription-and-Wang-Siyuan.md) | 第四卷第49章历史归属回补 |
