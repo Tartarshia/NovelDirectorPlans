@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [叶读皮纸与册，旧国记录从报喜转向国师发疯](early-v04-Bomi-parchment-mad-preceptor-and-record.md) | 第四卷第15章历史归属回补 |
+| [九幽黑雾切断感应，阴鬼变完善后渡过](early-v04-Jiuyou-fissure-and-refined-ghost-form.md) | 第四卷第15章历史归属回补 |
+| [两名旧敌已为干尸，冥皇表相回望一笑](early-v04-Wuyou-linked-corpses-and-minghuang-smile.md) | 第四卷第15章历史归属回补 |
 | [未戴面具的叶玉琦入场，冥皇元神逃](early-v04-Ye-unmasked-and-minghuang-spirit-escape.md) | 第四卷第14章历史归属回补 |
 | [钟头拒屈膝，随后阴火吞身，手骨交孟](early-v04-Lao-Zhongtou-fire-and-hand-bone-transfer.md) | 第四卷第14章历史归属回补 |
 | [进入无忧谷，阴灵各还一具干尸](early-v04-Wuyou-dried-bodies-and-returning-patrol.md) | 第四卷第14章历史归属回补 |
