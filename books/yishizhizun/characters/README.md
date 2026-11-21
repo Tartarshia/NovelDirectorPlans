@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇历青雷、阴火、金风、混沌后一步登天](early-v03-Meng-four-tribulations-and-Origin-form.md) | 第三卷第352章历史归属回补 |
+| [江芷微在洗剑阁剑斩金风](early-v03-Jiang-defeats-golden-wind-in-Xijian.md) | 第三卷第352章历史归属回补 |
+| [流苏于四秀山从本性择完美半步](early-v03-Liu-Su-chooses-perfect-half-step-and-recites.md) | 第三卷第352章历史归属回补 |
 | [苏离祠堂陈情，孟奇了解送少林缘由](early-v03-Su-Li-ancestral-hall-confession-and-family-survival.md) | 第三卷第351章历史归属回补 |
 | [苏子悦唐氏出身揭晓，兄妹月下谈一步登天](early-v03-Su-Ziyue-Tang-family-origin-and-night-question.md) | 第三卷第351章历史归属回补 |
 | [别院宴请众观礼，异象从黑暗转群星](early-v03-observation-banquet-opens-with-capital-stars.md) | 第三卷第351章历史归属回补 |
