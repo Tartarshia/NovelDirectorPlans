@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [啸月神犬之死与雷神收残环](early-v04-Xiaoyue-dies-and-thunder-god-collects-ring.md) | 第四卷第48章历史归属回补 |
+| [代身符耗用、两头四臂与法天象地](early-v04-Meng-Qi-exhausts-fighting-treasures.md) | 第四卷第48章历史归属回补 |
+| [六道之面限进广场与朵儿察选择](early-v04-six-paths-redirect-to-Duoercha.md) | 第四卷第48章历史归属回补 |
 | [指人盘、江芷微与云鹤寻人](early-v04-Yunhe-finds-the-watchers-by-zhiren-compass.md) | 第四卷第47章历史归属回补 |
 | [玄女本尊与应身分处两边](early-v04-Xuannv-main-body-and-incarnation-separate.md) | 第四卷第47章历史归属回补 |
 | [帕内雷池与孟奇首用九眼轮回珠配旧法](early-v04-Thunder-pool-and-nine-eyed-beads-used.md) | 第四卷第47章历史归属回补 |
