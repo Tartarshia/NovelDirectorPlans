@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [朱龙宗者祝奎与郭飞虎到驿馆](early-v04-Zhu-Kui-Guo-Feihu-arrivals.md) | 第四卷第27章历史归属回补 |
+| [由全力一击改验内景外显](early-v04-Yongzhou-inner-landscape-test-negotiation.md) | 第四卷第27章历史归属回补 |
+| [孟外显内景，五种天象实际变](early-v04-wind-cloud-thunder-rain-clear-demonstration.md) | 第四卷第27章历史归属回补 |
 | [确认孟弹走剑丸，以南海练气士自称](early-v04-Meng-finger-deflection-and-southern-cover.md) | 第四卷第26章历史归属回补 |
 | [孟借江轮回符，五武者在驿馆外等](early-v04-Jiang-loaned-talisman-and-five-seekers.md) | 第四卷第26章历史归属回补 |
 | [墨宫宗者和万象郭天师各拟试探](early-v04-Yongzhou-Mo-and-Wanxiang-probes.md) | 第四卷第26章历史归属回补 |
