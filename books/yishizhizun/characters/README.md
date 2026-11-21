@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮玉书弹裂天变地曲首段，赵恒循声来援](early-v03-Ruan-plays-first-passage-and-Zhao-reaches-her.md) | 第三卷第349章历史归属回补 |
+| [齐与念珠僧同时被寻到，齐自行断气奔声](early-v03-Qi-breaks-connection-and-runs-toward-qin.md) | 第三卷第349章历史归属回补 |
+| [孟故入下风，显示外景气息后一刀开混沌](early-v03-Meng-accepts-pressure-and-cleaves-destruction.md) | 第三卷第349章历史归属回补 |
 | [阮玉书没随阮康脱阵，以栖凤迎迫近雷神](early-v03-Ruan-stays-with-friends-after-Kang-finds-her.md) | 第三卷第348章历史归属回补 |
 | [拟阮者为六灭人魔，黑掌阻孟合一回补](early-v03-Meng-identifies-six-destructions-and-loses-recovery.md) | 第三卷第348章历史归属回补 |
 | [赵识失援遭围，齐与太子随从念珠僧相持](early-v03-Zhao-and-Qi-separated-in-trial-when-evacuation-fails.md) | 第三卷第348章历史归属回补 |
