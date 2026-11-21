@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [牢中解释宙光碎片与暗处法身](early-v04-kong-wen-explains-fragments-and-hidden-dharma-body.md) | 第四卷第57章历史归属回补 |
+| [达摩封门与韩广冒名动机的解释](early-v04-dharma-seal-and-Han-Guang-inference.md) | 第四卷第57章历史归属回补 |
+| [真正净土失木雕，王队转身](early-v04-wang-siyuan-withdraws-after-the-wood-carving-breaks.md) | 第四卷第57章历史归属回补 |
 | [三灯对应长老与棺中白骨形身](early-v04-tomb-lamps-and-missing-Huangquan-bones.md) | 第四卷第56章历史归属回补 |
 | [孟奇串疑线推外间空闻、韩广和天帝](early-v04-Meng-Qi-links-the-Shaolin-imposture.md) | 第四卷第56章历史归属回补 |
 | [牢中自称空闻者口述舍利、阵法与另一法身](early-v04-captive-Kong-Wen-account-of-the-ambush.md) | 第四卷第56章历史归属回补 |
