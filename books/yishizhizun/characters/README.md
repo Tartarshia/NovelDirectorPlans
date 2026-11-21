@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [六道答法身物规则及手骨共享](early-v04-Huangquan-bone-temporary-party-and-kept-flag.md) | 第四卷第21章历史归属回补 |
+| [恶鬼索命石实售2800，批兑后12645](early-v04-ghost-stone-trade-and-12645-merit.md) | 第四卷第21章历史归属回补 |
+| [安国邪普通钥卖800，付费知院与令牌](early-v04-Yuhai-address-and-Senluo-token.md) | 第四卷第21章历史归属回补 |
 | [玉简实传，阴阳印只初悟，三宝仍需三德气](early-v04-Yinyang-initiation-and-Ruyi-qi-requirement.md) | 第四卷第20章历史归属回补 |
 | [斗姆谈报身净土并赠表层线路玉简](early-v04-reward-body-and-Xianji-route-tablet.md) | 第四卷第20章历史归属回补 |
 | [六道鉴旗和黄泉骨](early-v04-Xuanshui-limit-and-confirmed-Huangquan-bone.md) | 第四卷第20章历史归属回补 |
