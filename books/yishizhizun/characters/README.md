@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [苏越传达琼华宴前后神都大阵的调度](early-v03-Su-Yue-announces-capital-formation-adjustment.md) | 第三卷第333章历史归属回补 |
+| [斗笠客取镖未果，马车脱离孟奇锁定](early-v03-hatted-claimant-carriage-eludes-pursuit.md) | 第三卷第333章历史归属回补 |
+| [顾长青自述被取走镖物](early-v03-Gu-Changqing-reports-Guangcheng-tianzun-robbery.md) | 第三卷第333章历史归属回补 |
 | [柯长吉半步已成，孟奇以玄关无悔夺势](early-v03-Ke-Changji-halfstep-and-regret-before-gate.md) | 第三卷第332章历史归属回补 |
 | [柯长庆听束声昏倒，柯长乐被无形返力击倒](early-v03-Ke-two-younger-men-lose-to-thunder-and-rebound.md) | 第三卷第332章历史归属回补 |
 | [柯长吉真败幻胜，柳漱玉说眼力源玉珑紫来信](early-v03-Ke-Changji-delusion-and-Liu-mentions-Yu-Longzi.md) | 第三卷第332章历史归属回补 |
