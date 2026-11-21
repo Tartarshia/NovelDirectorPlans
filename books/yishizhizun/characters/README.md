@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [段瑞幻见冯元静与王队完整的阵物](early-v04-Duan-Rui-illusion-and-intact-array-objects.md) | 第四卷第52章历史归属回补 |
+| [孟奇识破落红尘并推演山层](early-v04-Meng-Qi-identifies-the-peak-formations.md) | 第四卷第52章历史归属回补 |
+| [邪达摩与踏灯中年影像](early-v04-two-separate-outer-demon-encounters.md) | 第四卷第52章历史归属回补 |
 | [孟奇从羞怒到自省并驾驭反照](early-v04-Meng-Qi-faces-and-guides-his-shadow.md) | 第四卷第51章历史归属回补 |
 | [王氏三人争吵、段瑞见自身反照](early-v04-Wang-party-and-Duan-Rui-reflections.md) | 第四卷第51章历史归属回补 |
 | [七层山幻影及碎佛珠](early-v04-Meng-Qi-on-the-seven-level-peak.md) | 第四卷第51章历史归属回补 |
