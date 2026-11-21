@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [余生居士卢江与播密看门人](early-v04-Lu-Jiang-gatekeeper-recognizes-Shen-Bao.md) | 第四卷第36章历史归属回补 |
+| [孟奇谢绝同行与主动求证](early-v04-Meng-Qi-refuses-the-Fish-Sea-party.md) | 第四卷第36章历史归属回补 |
+| [老曹酒店毁损与谢酒鬼不见](early-v04-destroyed-tavern-and-missing-Xie.md) | 第四卷第36章历史归属回补 |
 | [楼伽与雪冷钊在鱼海止战](early-v04-Lou-Jia-and-Xue-Lengzhao.md) | 第四卷第35章历史归属回补 |
 | [钱楷邀请表层身份申豹](early-v04-Qian-Kai-recruits-Shen-Bao.md) | 第四卷第35章历史归属回补 |
 | [周秋山、可疑相貌与黑念珠](early-v04-Zhou-Qiushan-and-the-black-bead.md) | 第四卷第35章历史归属回补 |
