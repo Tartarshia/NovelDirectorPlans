@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阮玉书没随阮康脱阵，以栖凤迎迫近雷神](early-v03-Ruan-stays-with-friends-after-Kang-finds-her.md) | 第三卷第348章历史归属回补 |
+| [拟阮者为六灭人魔，黑掌阻孟合一回补](early-v03-Meng-identifies-six-destructions-and-loses-recovery.md) | 第三卷第348章历史归属回补 |
+| [赵识失援遭围，齐与太子随从念珠僧相持](early-v03-Zhao-and-Qi-separated-in-trial-when-evacuation-fails.md) | 第三卷第348章历史归属回补 |
 | [顾离太极殿，点柳曾任素女道护法](early-v03-Gu-leaves-palace-and-Liu-previous-role-revealed.md) | 第三卷第347章历史归属回补 |
 | [齐王法相进肉身，赵明宇自述转力反噬](early-v03-Zhao-Wuyan-at-critical-step-and-Mingyu-admits-sacrifice.md) | 第三卷第347章历史归属回补 |
 | [苑阵外扩拖住援手，拟阮者掌打孟](early-v03-expanded-array-binds-elders-and-Ruan-lookalike-strikes.md) | 第三卷第347章历史归属回补 |
