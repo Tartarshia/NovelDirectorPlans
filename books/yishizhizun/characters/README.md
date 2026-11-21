@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江芷微议价与青华灵木条件](early-v04-Qinghua-wood-conditional-payment.md) | 第四卷第33章历史归属回补 |
+| [明虚、明光出洞与代身符](early-v04-Mingxu-Mingguang-and-substitute-talismans.md) | 第四卷第33章历史归属回补 |
+| [鱼海总纲消息与白衣来客](early-v04-Fish-Sea-rumor-and-white-robed-encounter.md) | 第四卷第33章历史归属回补 |
 | [孟公开传授本地武道门径](early-v04-public-teaching-from-the-black-curtain-carriage.md) | 第四卷第32章历史归属回补 |
 | [方华吟踏云后记名，实领无名书](early-v04-Fang-Huayin-registered-disciple-and-unnamed-manual.md) | 第四卷第32章历史归属回补 |
 | [孟确进外景二重，墨宫提出青华灵木](early-v04-second-Outer-heaven-and-Yingmo-commission.md) | 第四卷第32章历史归属回补 |
