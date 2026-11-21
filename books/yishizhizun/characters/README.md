@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇从羞怒到自省并驾驭反照](early-v04-Meng-Qi-faces-and-guides-his-shadow.md) | 第四卷第51章历史归属回补 |
+| [王氏三人争吵、段瑞见自身反照](early-v04-Wang-party-and-Duan-Rui-reflections.md) | 第四卷第51章历史归属回补 |
+| [七层山幻影及碎佛珠](early-v04-Meng-Qi-on-the-seven-level-peak.md) | 第四卷第51章历史归属回补 |
 | [王思远、段瑞与莲台门敞开](early-v04-Wang-Duan-Rui-and-the-Liantai-door.md) | 第四卷第50章历史归属回补 |
 | [孟奇穿过尸地进入破禅林](early-v04-Meng-Qi-enters-a-ruined-Buddhist-grove.md) | 第四卷第50章历史归属回补 |
 | [溪中反照与沙哑声音的自述](early-v04-reflection-voice-accuses-Meng-Qi.md) | 第四卷第50章历史归属回补 |
