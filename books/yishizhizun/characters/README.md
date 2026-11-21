@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [看门人照约离洞，仍带铁链](early-v04-gatekeeper-released-and-taoist-description.md) | 第四卷第19章历史归属回补 |
+| [元始之眼换领，孟完成正式成员手续](early-v04-Xianji-formal-entry-and-eye-of-Yuanshi.md) | 第四卷第19章历史归属回补 |
+| [明确挑阴阳印，点头听三宝如意拳建议](early-v04-Yinyang-seal-and-Ruyi-fist-selection.md) | 第四卷第19章历史归属回补 |
 | [玄武佩吻合并碎，墨门成实体](early-v04-Xuanwu-pendant-opened-and-consumed.md) | 第四卷第18章历史归属回补 |
 | [真武碑证，黄泉棺空，手骨吸气](early-v04-empty-Huangquan-coffin-and-bone-absorption.md) | 第四卷第18章历史归属回补 |
 | [真武留言，孟得玄水旗并出洞门](early-v04-Zhenwu-note-Xuanshui-flag-and-cave-exit.md) | 第四卷第18章历史归属回补 |
