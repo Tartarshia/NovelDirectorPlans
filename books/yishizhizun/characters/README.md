@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [确认孟弹走剑丸，以南海练气士自称](early-v04-Meng-finger-deflection-and-southern-cover.md) | 第四卷第26章历史归属回补 |
+| [孟借江轮回符，五武者在驿馆外等](early-v04-Jiang-loaned-talisman-and-five-seekers.md) | 第四卷第26章历史归属回补 |
+| [墨宫宗者和万象郭天师各拟试探](early-v04-Yongzhou-Mo-and-Wanxiang-probes.md) | 第四卷第26章历史归属回补 |
 | [谢愿成贤才、欧阳担忧度牒](early-v04-Xie-Ouyang-aspirations-and-local-paths.md) | 第四卷第25章历史归属回补 |
 | [欧阳自报万象门并述墨宫远来](early-v04-Wanxiang-sect-and-overseas-Mo-migration.md) | 第四卷第25章历史归属回补 |
 | [常欢与林氏剑修接匣客，赤丸破封](early-v04-Chang-Lin-and-unclaimed-finger-deflection.md) | 第四卷第25章历史归属回补 |
