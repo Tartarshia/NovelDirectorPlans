@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [九天雷神旧缘与孟所担绝刀因果](early-v04-Thunder-God-backstory-and-overlord-blade-obligation.md) | 第四卷第59章历史归属回补 |
+| [玄女两身撤退与两仪分界帕易手](early-v04-Xuannv-retreats-and-the-cloth-passes-to-Yunhe.md) | 第四卷第59章历史归属回补 |
+| [江还森罗门、拒领战利品并准备回师门](early-v04-Jiang-declines-the-spoils-and-returns-the-door.md) | 第四卷第59章历史归属回补 |
 | [瀚海方丈外貌者得三骨](early-v04-outer-Abbot-and-the-three-bones.md) | 第四卷第58章历史归属回补 |
 | [牢中人托求援与述韩广法身](early-v04-kong-wen-requests-Lanke-and-Lu-Da.md) | 第四卷第58章历史归属回补 |
 | [太上忘情破隔界，沾因果实战](early-v04-Jiang-escapes-and-Meng-uses-Zhan-Yinguo.md) | 第四卷第58章历史归属回补 |
