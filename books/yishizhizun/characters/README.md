@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [播密互市两笔实成的交换](early-v04-Wang-divination-plate-and-ghost-face-jade-trades.md) | 第四卷第8章历史归属回补 |
+| [黑甲阴灵直趋孟，剑光消融](early-v04-unusual-armored-spirit-and-sun-sword.md) | 第四卷第8章历史归属回补 |
+| [七曜报第五谷有杨、毒手见面](early-v04-qiyao-fifth-canyon-and-gatekeeper-report.md) | 第四卷第8章历史归属回补 |
 | [黑袍老者见画眉令，孟见其足链](early-v04-Bomi-chained-elder-and-gatekeeper-call.md) | 第四卷第7章历史归属回补 |
 | [杨真禅两次被见，七曜邪神是下一个线人](early-v04-Qiyao-sightings-and-Bomi-market.md) | 第四卷第7章历史归属回补 |
 | [互市父女凭气象认人，少女误认孟](early-v04-Bomi-caravan-daughter-mist-identifications.md) | 第四卷第7章历史归属回补 |
