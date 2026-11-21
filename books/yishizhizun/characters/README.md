@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [毒手与夜叉联手，孟化焦石旁听](early-v04-Bomi-two-ambushers-and-stone-transformation.md) | 第四卷第9章历史归属回补 |
+| [双庙分开，孟首次听见冥皇](early-v04-twin-temples-and-first-report-of-minghuang.md) | 第四卷第9章历史归属回补 |
+| [神庙无形之险，毒手外貌如前返回](early-v04-temple-waterlike-hazard-and-dushou-return.md) | 第四卷第9章历史归属回补 |
 | [播密互市两笔实成的交换](early-v04-Wang-divination-plate-and-ghost-face-jade-trades.md) | 第四卷第8章历史归属回补 |
 | [黑甲阴灵直趋孟，剑光消融](early-v04-unusual-armored-spirit-and-sun-sword.md) | 第四卷第8章历史归属回补 |
 | [七曜报第五谷有杨、毒手见面](early-v04-qiyao-fifth-canyon-and-gatekeeper-report.md) | 第四卷第8章历史归属回补 |
