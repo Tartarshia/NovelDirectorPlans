@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黑袍老者见画眉令，孟见其足链](early-v04-Bomi-chained-elder-and-gatekeeper-call.md) | 第四卷第7章历史归属回补 |
+| [杨真禅两次被见，七曜邪神是下一个线人](early-v04-Qiyao-sightings-and-Bomi-market.md) | 第四卷第7章历史归属回补 |
+| [互市父女凭气象认人，少女误认孟](early-v04-Bomi-caravan-daughter-mist-identifications.md) | 第四卷第7章历史归属回补 |
 | [商队误解突进，孟实在哈勒养伤二十来日](early-v04-Hale-evil-eye-recovery-and-caravan-talk.md) | 第四卷第6章历史归属回补 |
 | [实开黑袋，鉴秘宝和双钥](early-v04-black-pouch-loot-and-twin-brass-keys.md) | 第四卷第6章历史归属回补 |
 | [红雾中的播密与阴兵巡向](early-v04-Bomi-red-mist-and-undead-orientation.md) | 第四卷第6章历史归属回补 |
