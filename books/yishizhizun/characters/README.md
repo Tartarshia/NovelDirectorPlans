@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [柯长吉半步已成，孟奇以玄关无悔夺势](early-v03-Ke-Changji-halfstep-and-regret-before-gate.md) | 第三卷第332章历史归属回补 |
+| [柯长庆听束声昏倒，柯长乐被无形返力击倒](early-v03-Ke-two-younger-men-lose-to-thunder-and-rebound.md) | 第三卷第332章历史归属回补 |
+| [柯长吉真败幻胜，柳漱玉说眼力源玉珑紫来信](early-v03-Ke-Changji-delusion-and-Liu-mentions-Yu-Longzi.md) | 第三卷第332章历史归属回补 |
 | [苏子悦撮合柳漱玉，孟奇讲希望并肩](early-v03-Su-Ziyue-describes-Liu-and-Mengs-views-on-marriage.md) | 第三卷第331章历史归属回补 |
 | [孟奇触木剑揣原身愿，实际祭祖后少一分束缚](early-v03-Meng-old-room-and-ancestral-rite-partial-relief.md) | 第三卷第331章历史归属回补 |
 | [苏越可携孟入宴，柯长吉现场显半步](early-v03-Su-Yue-banquet-route-and-Ke-Changji-halfstep.md) | 第三卷第331章历史归属回补 |
