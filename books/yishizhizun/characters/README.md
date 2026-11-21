@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [斗姆自报叶玉琦，辨看木雕后归还](early-v03-Ye-Yuqi-reveals-herself-and-returns-Lu-wood-carving.md) | 第三卷第339章历史归属回补 |
+| [叶明广成即袁离火，六扇问讯暗交一符](early-v03-Yuan-Lihuo-confirmed-as-Guangcheng-receives-one-talisman.md) | 第三卷第339章历史归属回补 |
+| [柳漱玉认顾小桑，被点应身，屏后小女孩探头](early-v03-Liu-Shuyu-confronted-by-Gu-and-screen-child.md) | 第三卷第339章历史归属回补 |
 | [九枢避劫符耗去，孟由钻心钉认袭者](early-v03-Meng-talisman-consumed-by-heart-piercing-nail.md) | 第三卷第338章历史归属回补 |
 | [赵无言取半令，斗姆舍令遁后藏身柴房](early-v03-Zhao-Wuyan-takes-half-token-while-Doumu-breaks-away.md) | 第三卷第338章历史归属回补 |
 | [司马石命追两派，苏家回府候审](early-v03-Sima-orders-pursuit-and-Su-house-awaits-questioning.md) | 第三卷第338章历史归属回补 |

@@ -2,12 +2,13 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：顺序精读至番外第12篇，1410 / 1410 个目录条目，约442.6万字；20条原缺回执已有新复读材料补足，原缺名单保留；全书终审未完成。第一至六卷已有卷末汇总；全书复核与逐句归属尚未完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**当前为进行中草案：顺序精读至番外第12篇，1410 / 1410 个目录条目，约442.6万字；20条原缺回执已有新复读材料补足，原缺名单保留。正文八卷和番外均已形成分卷导演草案，逐段归属回补与全书连续性终审仍待完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
 ## 阅读入口
 
+- [第三卷归属回补：第339章](books/yishizhizun/reviews/review-backfill-v03-0339.md)：新全文复读81段135单元；归属已1277章、待133，可用复读回执待0。
 - [第三卷归属回补：第338章](books/yishizhizun/reviews/review-backfill-v03-0338.md)：新全文复读88段104单元；归属已1276章、待134，可用复读回执待0。
 - [第三卷归属回补：第337章](books/yishizhizun/reviews/review-backfill-v03-0337.md)：新全文复读85段100单元；归属已1275章、待135，可用复读回执待0。
 - [第三卷归属回补：第336章](books/yishizhizun/reviews/review-backfill-v03-0336.md)：新全文复读75段111单元；归属已1274章、待136，可用复读回执待0。
