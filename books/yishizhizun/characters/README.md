@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [白衣玄女隔绝鱼海闹市](early-v04-Xuannv-isolates-the-Fish-Sea-street.md) | 第四卷第34章历史归属回补 |
+| [孟奇以沾因果威慑玄女](early-v04-Meng-Qi-bluffs-with-karma.md) | 第四卷第34章历史归属回补 |
+| [洞天请托与鱼海疏散](early-v04-Fish-Sea-evacuation-and-grotto-request.md) | 第四卷第34章历史归属回补 |
 | [江芷微议价与青华灵木条件](early-v04-Qinghua-wood-conditional-payment.md) | 第四卷第33章历史归属回补 |
 | [明虚、明光出洞与代身符](early-v04-Mingxu-Mingguang-and-substitute-talismans.md) | 第四卷第33章历史归属回补 |
 | [鱼海总纲消息与白衣来客](early-v04-Fish-Sea-rumor-and-white-robed-encounter.md) | 第四卷第33章历史归属回补 |
