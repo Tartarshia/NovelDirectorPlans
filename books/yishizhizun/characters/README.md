@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [九娘讲封神诸侯与秘宝旧例](early-v04-Fengshen-reports-and-Bixia-personal-warning.md) | 第四卷第23章历史归属回补 |
+| [孟在播密外修法，江两月后出现](early-v04-Bomi-cultivation-and-Jiang-rendezvous.md) | 第四卷第23章历史归属回补 |
+| [双钥分别开层，森罗门令实启孤门](early-v04-Yuhai-two-keys-Senluo-and-volcano.md) | 第四卷第23章历史归属回补 |
 | [因果刀灌体2400与其承担风险](early-v04-karma-blade-infusion-and-all-debts.md) | 第四卷第22章历史归属回补 |
 | [实购紫雷五击与复原日陨](early-v04-purple-thunder-and-reconstructed-sunfall.md) | 第四卷第22章历史归属回补 |
 | [元央邀半年后江东会，孟实兑丹和袍](early-v04-Yuan-Yang-letter-Qingyuan-robe-and-medicine.md) | 第四卷第22章历史归属回补 |
