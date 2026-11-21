@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [商队误解突进，孟实在哈勒养伤二十来日](early-v04-Hale-evil-eye-recovery-and-caravan-talk.md) | 第四卷第6章历史归属回补 |
+| [实开黑袋，鉴秘宝和双钥](early-v04-black-pouch-loot-and-twin-brass-keys.md) | 第四卷第6章历史归属回补 |
+| [红雾中的播密与阴兵巡向](early-v04-Bomi-red-mist-and-undead-orientation.md) | 第四卷第6章历史归属回补 |
 | [则罗居护身绿石和眼罩邪光](early-v04-zeluoju-protection-and-spirit-death.md) | 第四卷第5章历史归属回补 |
 | [孟奇外景初战受伤，收邪刀与黑袋](early-v04-Meng-first-outer-battle-wounds-and-objects.md) | 第四卷第5章历史归属回补 |
 | [乌孙奇见焦字并搜城，哭老人一月后归](early-v04-wusun-inscription-and-one-month-search.md) | 第四卷第5章历史归属回补 |
