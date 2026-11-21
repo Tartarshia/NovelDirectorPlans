@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [首条因果中的空闻与中年视点](early-v04-first-causal-thread-Kong-Wen-and-the-middle-aged-figure.md) | 第四卷第54章历史归属回补 |
+| [第二因果中的数圣与灰袍僧](early-v04-second-causal-thread-and-the-Wang-ancestor.md) | 第四卷第54章历史归属回补 |
+| [参见完整沾因果，抵阵眼赤线](early-v04-Meng-Qi-reaches-the-red-thread.md) | 第四卷第54章历史归属回补 |
 | [孟奇变阴身与破幻掌](early-v04-Meng-Qi-shifts-to-yin-against-the-apparition.md) | 第四卷第53章历史归属回补 |
 | [王秉宁、王德钟及两线八卦图](early-v04-Wang-Bingning-Wang-Dezhong-and-the-trigrams.md) | 第四卷第53章历史归属回补 |
 | [孟涉业火与古墓谋空闻](early-v04-karma-lotus-and-the-plot-against-Kong-Wen.md) | 第四卷第53章历史归属回补 |
