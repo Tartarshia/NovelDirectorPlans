@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇受伤撑过雷神三击，内功已经够到相应招式品阶](early-v03-Meng-survives-Three-Thunder-God-strikes.md) | 第三卷第330章历史归属回补 |
+| [六扇门拟升银章与斩狼奖，旧俸扣除](early-v03-Silver-seal-and-Wolf-King-reward-are-pending.md) | 第三卷第330章历史归属回补 |
+| [苏子悦先慕三击，再问伤并报柯家挑战](early-v03-Su-Ziyue-asks-about-injury-and-announces-Ke-challenge.md) | 第三卷第330章历史归属回补 |
 | [孟奇推肉身因果或影响突破，尚未查看旧屋](early-v03-MengQi-original-bodys-unfinished-wish-and-causality.md) | 第三卷第329章历史归属回补 |
 | [钟维报段瑞疑讯，阮玉书让大伯当天见孟](early-v03-Zhong-Wei-and-Ruan-private-support.md) | 第三卷第329章历史归属回补 |
 | [王文宪愿护顾，孟回程遇面具雷袭](early-v03-Wang-Wenxian-offers-help-before-riverside-ambush.md) | 第三卷第329章历史归属回补 |
