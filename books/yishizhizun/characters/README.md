@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [玄武佩吻合并碎，墨门成实体](early-v04-Xuanwu-pendant-opened-and-consumed.md) | 第四卷第18章历史归属回补 |
+| [真武碑证，黄泉棺空，手骨吸气](early-v04-empty-Huangquan-coffin-and-bone-absorption.md) | 第四卷第18章历史归属回补 |
+| [真武留言，孟得玄水旗并出洞门](early-v04-Zhenwu-note-Xuanshui-flag-and-cave-exit.md) | 第四卷第18章历史归属回补 |
 | [洞老自述守炭画门一甲子](early-v04-chained-gatekeepers-sixty-years-and-painted-door.md) | 第四卷第17章历史归属回补 |
 | [国师分神失忆，陆大借剑令斩崩节点](early-v04-preceptor-fragment-and-luda-one-sword.md) | 第四卷第17章历史归属回补 |
 | [叶获得血黄珠，黯淡剑令待温养](early-v04-yellow-red-pearl-and-token-warming.md) | 第四卷第17章历史归属回补 |
