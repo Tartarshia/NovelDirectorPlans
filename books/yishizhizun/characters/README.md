@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [赤线旧痕中的妖圣凤兮与阿难](early-v04-red-causal-thread-Feng-Xi-and-Ananda.md) | 第四卷第55章历史归属回补 |
+| [木雕见左右异相，沾因果初成](early-v04-Meng-Qi-initial-complete-Zhan-Yinguo.md) | 第四卷第55章历史归属回补 |
+| [两处空闻与古墓三灯熄灭](early-v04-two-Kong-Wen-appearances-and-three-lamps-out.md) | 第四卷第55章历史归属回补 |
 | [首条因果中的空闻与中年视点](early-v04-first-causal-thread-Kong-Wen-and-the-middle-aged-figure.md) | 第四卷第54章历史归属回补 |
 | [第二因果中的数圣与灰袍僧](early-v04-second-causal-thread-and-the-Wang-ancestor.md) | 第四卷第54章历史归属回补 |
 | [参见完整沾因果，抵阵眼赤线](early-v04-Meng-Qi-reaches-the-red-thread.md) | 第四卷第54章历史归属回补 |
