@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [毒手断口平齐且失水，孟自查未见异物](early-v04-dushou-corpse-examination-and-Meng-self-check.md) | 第四卷第13章历史归属回补 |
+| [贾真以老钟头真貌现身，天魔金身解释旧刺](early-v04-Jia-Zhen-cover-revealed-as-Lao-Zhongtou.md) | 第四卷第13章历史归属回补 |
+| [祖灵与黑袍来人实同场，后者被呼冥皇](early-v04-ancestral-spirit-pulled-out-by-minghuang.md) | 第四卷第13章历史归属回补 |
 | [贾真叩壁画开启下行入口，五人见花](early-v04-Jia-bows-and-Wuyou-flowers.md) | 第四卷第12章历史归属回补 |
 | [杨真禅临死反刺，流火实升上品](early-v04-Yang-counterthrust-and-Liuhuo-upgrade.md) | 第四卷第12章历史归属回补 |
 | [杨尸剑骤腐，下一阵又见毒手尸](early-v04-rapid-corrosion-and-dushou-corpse.md) | 第四卷第12章历史归属回补 |
