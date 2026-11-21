@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [苏子悦撮合柳漱玉，孟奇讲希望并肩](early-v03-Su-Ziyue-describes-Liu-and-Mengs-views-on-marriage.md) | 第三卷第331章历史归属回补 |
+| [孟奇触木剑揣原身愿，实际祭祖后少一分束缚](early-v03-Meng-old-room-and-ancestral-rite-partial-relief.md) | 第三卷第331章历史归属回补 |
+| [苏越可携孟入宴，柯长吉现场显半步](early-v03-Su-Yue-banquet-route-and-Ke-Changji-halfstep.md) | 第三卷第331章历史归属回补 |
 | [孟奇受伤撑过雷神三击，内功已经够到相应招式品阶](early-v03-Meng-survives-Three-Thunder-God-strikes.md) | 第三卷第330章历史归属回补 |
 | [六扇门拟升银章与斩狼奖，旧俸扣除](early-v03-Silver-seal-and-Wolf-King-reward-are-pending.md) | 第三卷第330章历史归属回补 |
 | [苏子悦先慕三击，再问伤并报柯家挑战](early-v03-Su-Ziyue-asks-about-injury-and-announces-Ke-challenge.md) | 第三卷第330章历史归属回补 |
