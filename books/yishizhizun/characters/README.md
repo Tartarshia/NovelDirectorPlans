@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇变阴身与破幻掌](early-v04-Meng-Qi-shifts-to-yin-against-the-apparition.md) | 第四卷第53章历史归属回补 |
+| [王秉宁、王德钟及两线八卦图](early-v04-Wang-Bingning-Wang-Dezhong-and-the-trigrams.md) | 第四卷第53章历史归属回补 |
+| [孟涉业火与古墓谋空闻](early-v04-karma-lotus-and-the-plot-against-Kong-Wen.md) | 第四卷第53章历史归属回补 |
 | [段瑞幻见冯元静与王队完整的阵物](early-v04-Duan-Rui-illusion-and-intact-array-objects.md) | 第四卷第52章历史归属回补 |
 | [孟奇识破落红尘并推演山层](early-v04-Meng-Qi-identifies-the-peak-formations.md) | 第四卷第52章历史归属回补 |
 | [邪达摩与踏灯中年影像](early-v04-two-separate-outer-demon-encounters.md) | 第四卷第52章历史归属回补 |
