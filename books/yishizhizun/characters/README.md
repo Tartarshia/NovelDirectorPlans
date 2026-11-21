@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [指人盘、江芷微与云鹤寻人](early-v04-Yunhe-finds-the-watchers-by-zhiren-compass.md) | 第四卷第47章历史归属回补 |
+| [玄女本尊与应身分处两边](early-v04-Xuannv-main-body-and-incarnation-separate.md) | 第四卷第47章历史归属回补 |
+| [帕内雷池与孟奇首用九眼轮回珠配旧法](early-v04-Thunder-pool-and-nine-eyed-beads-used.md) | 第四卷第47章历史归属回补 |
 | [九娘自述遇袭、失环与辨真](early-v04-Qu-Jiuniang-recounts-yellow-palm-and-theft.md) | 第四卷第46章历史归属回补 |
 | [仙迹借善功、托货以及周的芥子环](early-v04-Xianji-good-deeds-and-materials-consignment.md) | 第四卷第46章历史归属回补 |
 | [九天雷神、啸月神犬与两界分割](early-v04-Thunder-God-and-Xiaoyue-ambush.md) | 第四卷第46章历史归属回补 |

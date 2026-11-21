@@ -61,7 +61,2620 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0217"
+  "reading_batch": "batch-0217",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0047",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0047.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0047:p0001",
+        "length": 52,
+        "sha256": "21e1f7a9364828df90e54e10823b51fac2419a61e0f84c62ce81eeea54bf19a2",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0001:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "夜空星辉和鱼海空廓依旧",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "夜空星辉和鱼海空廓依旧",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "夜空星辉和鱼海空廓依旧"
+      },
+      {
+        "reference": "v04-c0047:p0002",
+        "length": 56,
+        "sha256": "964269c9bf7d87d1344e193036d83a3bd97ff7d595e3ad959f458cb53d784629",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0002:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "yunhe_zhenren",
+            "surface_identity": "yunhe_zhenren",
+            "text_context": "云鹤持罗盘与江暗行，说先观察的两人为对付孟",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "实际言语",
+            "embodiment": "先罗盘八卦，后五行与神符",
+            "delivery": "处变不惊到认神兵变色",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤持罗盘与江暗行，说先观察的两人为对付孟",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0002:u002",
+            "start": 25,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云鹤持罗盘与江暗行，说先观察的两人为对付孟",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤持罗盘与江暗行，说先观察的两人为对付孟",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云鹤持罗盘与江暗行，说先观察的两人为对付孟"
+      },
+      {
+        "reference": "v04-c0047:p0003",
+        "length": 36,
+        "sha256": "1bb4e424c02299a3a4fbdb42d097337cd195ea23ad2c61a81d34d2e3ed279829",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0003:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江此前不知二人，惊问为何不先给辨",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "江此前不知二人，惊问为何不先给辨",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0003:u002",
+            "start": 17,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "jiang_zhiwei",
+            "text_context": "江此前不知二人，惊问为何不先给辨",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "实际言语",
+            "embodiment": "受扰不拔到深吸后出鞘，剑向边缘",
+            "delivery": "愕问到定心不说话",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "江此前不知二人，惊问为何不先给辨",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江此前不知二人，惊问为何不先给辨"
+      },
+      {
+        "reference": "v04-c0047:p0004",
+        "length": 81,
+        "sha256": "a86ffbb8269d34a8cf78259539626218068e8c8c389e4a369dfbefa3c70b92ad",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0004:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "yunhe_zhenren",
+            "surface_identity": "yunhe_zhenren",
+            "text_context": "云鹤说窥者多且二人伪装变动，指人盘逐个收气方觉",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "实际言语",
+            "embodiment": "先罗盘八卦，后五行与神符",
+            "delivery": "处变不惊到认神兵变色",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤说窥者多且二人伪装变动，指人盘逐个收气方觉",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0004:u002",
+            "start": 26,
+            "end": 71,
+            "kind": "spoken_dialogue",
+            "speaker": "yunhe_zhenren",
+            "surface_identity": "yunhe_zhenren",
+            "text_context": "云鹤说窥者多且二人伪装变动，指人盘逐个收气方觉",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "实际言语",
+            "embodiment": "先罗盘八卦，后五行与神符",
+            "delivery": "处变不惊到认神兵变色",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤说窥者多且二人伪装变动，指人盘逐个收气方觉",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0004:u003",
+            "start": 71,
+            "end": 81,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云鹤说窥者多且二人伪装变动，指人盘逐个收气方觉",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤说窥者多且二人伪装变动，指人盘逐个收气方觉",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云鹤说窥者多且二人伪装变动，指人盘逐个收气方觉"
+      },
+      {
+        "reference": "v04-c0047:p0005",
+        "length": 69,
+        "sha256": "d291b59224a461b838be884dc03e3ee12ad799487beeacf580603fe61f4b9cc8",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0005:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真人白天未出来，但曾嘱江盯这两息，后来找孟暗记",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "真人白天未出来，但曾嘱江盯这两息，后来找孟暗记",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真人白天未出来，但曾嘱江盯这两息，后来找孟暗记"
+      },
+      {
+        "reference": "v04-c0047:p0006",
+        "length": 24,
+        "sha256": "b495d8babe15b9208454e18f284859cbceb7853d4a6ca3cdf4f0c916f8135f20",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0006:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江察附近实问去处",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "江察附近实问去处",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0006:u002",
+            "start": 13,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "jiang_zhiwei",
+            "text_context": "江察附近实问去处",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "实际言语",
+            "embodiment": "受扰不拔到深吸后出鞘，剑向边缘",
+            "delivery": "愕问到定心不说话",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "江察附近实问去处",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江察附近实问去处"
+      },
+      {
+        "reference": "v04-c0047:p0007",
+        "length": 54,
+        "sha256": "c85501266d16c126c2ba1fd3c085636d65a3f5a48f4946f2b9d44b62dbcbe7ff",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0007:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "yunhe_zhenren",
+            "surface_identity": "yunhe_zhenren",
+            "text_context": "云鹤指最后出现位置，猜隔绝阵法秘宝，并显八卦寻找",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "实际言语",
+            "embodiment": "先罗盘八卦，后五行与神符",
+            "delivery": "处变不惊到认神兵变色",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤指最后出现位置，猜隔绝阵法秘宝，并显八卦寻找",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0007:u002",
+            "start": 28,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云鹤指最后出现位置，猜隔绝阵法秘宝，并显八卦寻找",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤指最后出现位置，猜隔绝阵法秘宝，并显八卦寻找",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云鹤指最后出现位置，猜隔绝阵法秘宝，并显八卦寻找"
+      },
+      {
+        "reference": "v04-c0047:p0008",
+        "length": 22,
+        "sha256": "7ebcbd6cfb4b414ed53f9bc9d9f0610e401ede828164a6654e06a2028bad2fce",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0008:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "搜踪时环境突变",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "江云沿气息寻孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "搜踪时环境突变",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "搜踪时环境突变"
+      },
+      {
+        "reference": "v04-c0047:p0009",
+        "length": 43,
+        "sha256": "109cc49bac456b1bea3357b9c7fec8f5124fa4571572faeaf0f9bf18fd754469",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0009:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "白云作地及霞光成仙境",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "白云作地及霞光成仙境",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "白云作地及霞光成仙境"
+      },
+      {
+        "reference": "v04-c0047:p0010",
+        "length": 16,
+        "sha256": "b3f41c7a62c1e3aff842d359f9a0993f4e53d2d71ea85b88eee40dd19d0d69c9",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0010:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云鹤变色实认素女仙界",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤变色实认素女仙界",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0010:u002",
+            "start": 9,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "yunhe_zhenren",
+            "surface_identity": "yunhe_zhenren",
+            "text_context": "云鹤变色实认素女仙界",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "实际言语",
+            "embodiment": "先罗盘八卦，后五行与神符",
+            "delivery": "处变不惊到认神兵变色",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤变色实认素女仙界",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云鹤变色实认素女仙界"
+      },
+      {
+        "reference": "v04-c0047:p0011",
+        "length": 22,
+        "sha256": "2b15acc9c6e4ed47b51ce88954c2e04bf87ca0d708337579146607ef4da3de31",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0011:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙述说明上古知名",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "叙述说明上古知名",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙述说明上古知名"
+      },
+      {
+        "reference": "v04-c0047:p0012",
+        "length": 46,
+        "sha256": "b1e216a0dc5e5324f22a587607314b47c4be7fe8ed42cc82c17532c84f943f99",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0012:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江感法理与元气变化，难勾动外天地",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "江感法理与元气变化，难勾动外天地",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江感法理与元气变化，难勾动外天地"
+      },
+      {
+        "reference": "v04-c0047:p0013",
+        "length": 26,
+        "sha256": "8289a155ad6d4f0e6bc761b78fac682bf1058eed0bf2d6c8167231f2abebe4e6",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0013:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "女子从白云霞光中出现",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "女子从白云霞光中出现",
+            "focalizer": "v04c047_xuannv_benzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "女子从白云霞光中出现"
+      },
+      {
+        "reference": "v04-c0047:p0014",
+        "length": 108,
+        "sha256": "50a444f64a8efd8b24c812457c036803f432670f42c8a5c1534c7ae6ff8f82d9",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0014:u001",
+            "start": 0,
+            "end": 108,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "白纱清雅且异极美，江几难拔剑",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "白纱清雅且异极美，江几难拔剑",
+            "focalizer": "v04c047_xuannv_benzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "白纱清雅且异极美，江几难拔剑"
+      },
+      {
+        "reference": "v04-c0047:p0015",
+        "length": 6,
+        "sha256": "5b432b0d7941a01468e95dbb73a050847d62761ecc038f84fd5ae4a4f00de34b",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0015:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "jiang_zhiwei",
+            "text_context": "江内辨熟感",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "内心",
+            "embodiment": "受扰不拔到深吸后出鞘，剑向边缘",
+            "delivery": "愕问到定心不说话",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "江内辨熟感",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江内辨熟感"
+      },
+      {
+        "reference": "v04-c0047:p0016",
+        "length": 5,
+        "sha256": "346e8bf640ff0033ace0131908eca6f5b73838f9d4f33bb516ecc978ae6056bd",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0016:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c047_xuannv_exclamation_unassigned",
+            "surface_identity": "v04c047_xuannv_exclamation_unassigned",
+            "text_context": "玄女识名有引号，未逐名分发话人",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "场中惊呼式识别，个体或出声方式未标",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "玄女识名有引号，未逐名分发话人",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄女识名有引号，未逐名分发话人"
+      },
+      {
+        "reference": "v04-c0047:p0017",
+        "length": 7,
+        "sha256": "5835b47103de5fef4e2d1b699c548ba7531f61624fc849ede4900ff4a49de991",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0017:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c047_xuannv_exclamation_unassigned",
+            "surface_identity": "v04c047_xuannv_exclamation_unassigned",
+            "text_context": "本尊识名仍未逐名分发话人",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "场中惊呼式识别，个体或出声方式未标",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "本尊识名仍未逐名分发话人",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "本尊识名仍未逐名分发话人"
+      },
+      {
+        "reference": "v04-c0047:p0018",
+        "length": 98,
+        "sha256": "5d8c984d06ad4c267327b784a8b55b68feedf55bc35c96fc4807174ab710d23f",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0018:u001",
+            "start": 0,
+            "end": 98,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "应身常不为人识是背景；本尊半步法身之感为当场观感",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "应身常不为人识是背景；本尊半步法身之感为当场观感",
+            "focalizer": "v04c047_xuannv_benzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "应身常不为人识是背景；本尊半步法身之感为当场观感"
+      },
+      {
+        "reference": "v04-c0047:p0019",
+        "length": 63,
+        "sha256": "d11afc63f04692b1f4fec7c22e88c84223aafa2afbb543a35c0639b96880d155",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0019:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c047_xuannv_benzun",
+            "surface_identity": "素女仙界中的玄女本尊",
+            "text_context": "本尊实称孟背后有近阳神符修，近成是她观察",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "实际言语",
+            "embodiment": "白纱本尊，以九叶竹枝改法理",
+            "delivery": "清雅告知筹划，认符后一度失声",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "本尊实称孟背后有近阳神符修，近成是她观察",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0019:u002",
+            "start": 32,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "本尊实称孟背后有近阳神符修，近成是她观察",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "本尊实称孟背后有近阳神符修，近成是她观察",
+            "focalizer": "v04c047_xuannv_benzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "本尊实称孟背后有近阳神符修，近成是她观察"
+      },
+      {
+        "reference": "v04-c0047:p0020",
+        "length": 41,
+        "sha256": "6f7233674896324d199a152d9890fcb7fa540f183090abaa2ed982f2d91366ae",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0020:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云鹤说玄女有传承并问二人是否奉她派遣",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤说玄女有传承并问二人是否奉她派遣",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0020:u002",
+            "start": 9,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "yunhe_zhenren",
+            "surface_identity": "yunhe_zhenren",
+            "text_context": "云鹤说玄女有传承并问二人是否奉她派遣",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "实际言语",
+            "embodiment": "先罗盘八卦，后五行与神符",
+            "delivery": "处变不惊到认神兵变色",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤说玄女有传承并问二人是否奉她派遣",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云鹤说玄女有传承并问二人是否奉她派遣"
+      },
+      {
+        "reference": "v04-c0047:p0021",
+        "length": 111,
+        "sha256": "953df2e729825abae21c1c09128b056f1f1126316daf72368d4177b51682e2f4",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0021:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "本尊承认故意漏消息、让帕借出、借用神犬找踪，仍由她自己讲",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "本尊承认故意漏消息、让帕借出、借用神犬找踪，仍由她自己讲",
+            "focalizer": "v04c047_xuannv_benzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0021:u002",
+            "start": 7,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c047_xuannv_benzun",
+            "surface_identity": "素女仙界中的玄女本尊",
+            "text_context": "本尊承认故意漏消息、让帕借出、借用神犬找踪，仍由她自己讲",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "实际言语",
+            "embodiment": "白纱本尊，以九叶竹枝改法理",
+            "delivery": "清雅告知筹划，认符后一度失声",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "本尊承认故意漏消息、让帕借出、借用神犬找踪，仍由她自己讲",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0021:u003",
+            "start": 50,
+            "end": 83,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c047_xuannv_benzun",
+            "surface_identity": "素女仙界中的玄女本尊",
+            "text_context": "本尊承认故意漏消息、让帕借出、借用神犬找踪，仍由她自己讲",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "实际言语",
+            "embodiment": "白纱本尊，以九叶竹枝改法理",
+            "delivery": "清雅告知筹划，认符后一度失声",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "本尊承认故意漏消息、让帕借出、借用神犬找踪，仍由她自己讲",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0021:u004",
+            "start": 83,
+            "end": 111,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c047_xuannv_benzun",
+            "surface_identity": "素女仙界中的玄女本尊",
+            "text_context": "本尊承认故意漏消息、让帕借出、借用神犬找踪，仍由她自己讲",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "实际言语",
+            "embodiment": "白纱本尊，以九叶竹枝改法理",
+            "delivery": "清雅告知筹划，认符后一度失声",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "本尊承认故意漏消息、让帕借出、借用神犬找踪，仍由她自己讲",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "本尊承认故意漏消息、让帕借出、借用神犬找踪，仍由她自己讲"
+      },
+      {
+        "reference": "v04-c0047:p0022",
+        "length": 35,
+        "sha256": "42064d846755eb456cd350c944158033ec291fed8e651e7f04bf2ec2d87b82f2",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0022:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江深吸气克服不忍，确拔剑",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "江深吸气克服不忍，确拔剑",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江深吸气克服不忍，确拔剑"
+      },
+      {
+        "reference": "v04-c0047:p0023",
+        "length": 51,
+        "sha256": "8537e78885363d81ef2bf78cf5f3fbc005b3c90ca99533f7a5b9c42d03b3bad6",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0023:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江剑意对仙界边缘，打算真人拖本尊自己找孟",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "江剑意对仙界边缘，打算真人拖本尊自己找孟",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江剑意对仙界边缘，打算真人拖本尊自己找孟"
+      },
+      {
+        "reference": "v04-c0047:p0024",
+        "length": 27,
+        "sha256": "287f531fa7f095e6cc71b8c892d25df041cce4b8e9dc94bcb112df223314ea53",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0024:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "以确知帕名推有路寻是江在当前的筹划",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "玄女本尊现形并述借势",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "以确知帕名推有路寻是江在当前的筹划",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "以确知帕名推有路寻是江在当前的筹划"
+      },
+      {
+        "reference": "v04-c0047:p0025",
+        "length": 34,
+        "sha256": "8bbbf1fe4f5e3e13ebc67abafd4bac52546deda2ef63d8cca93cae3b8351ce12",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0025:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云鹤叹疏忽对方",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤叹疏忽对方",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0025:u002",
+            "start": 10,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "yunhe_zhenren",
+            "surface_identity": "yunhe_zhenren",
+            "text_context": "云鹤叹疏忽对方",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "实际言语",
+            "embodiment": "先罗盘八卦，后五行与神符",
+            "delivery": "处变不惊到认神兵变色",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤叹疏忽对方",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云鹤叹疏忽对方"
+      },
+      {
+        "reference": "v04-c0047:p0026",
+        "length": 54,
+        "sha256": "fdc37e4990e47c67c3b96ce24d7133b067b549181ade5577681f92908b7411af",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0026:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "话后突放紫蓝火朱雀",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "话后突放紫蓝火朱雀",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "话后突放紫蓝火朱雀"
+      },
+      {
+        "reference": "v04-c0047:p0027",
+        "length": 35,
+        "sha256": "9861926b048b6277064f0bd90b5e9425bf51840b784c7be29a71818a267d7a7a",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0027:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "青藤剑气大地同时束玄女",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "青藤剑气大地同时束玄女",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "青藤剑气大地同时束玄女"
+      },
+      {
+        "reference": "v04-c0047:p0028",
+        "length": 32,
+        "sha256": "2ec82a9b21e05cddac0610de3d0ee21d4feef3bb86c67e68ea0f95d62d83a1eb",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0028:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "自作水位形成五行阵，是当下法术",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "自作水位形成五行阵，是当下法术",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "自作水位形成五行阵，是当下法术"
+      },
+      {
+        "reference": "v04-c0047:p0029",
+        "length": 78,
+        "sha256": "40f2e30ddcc1071df34eea39e2de531802bb6ddd74a9c23d703588772749ac29",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0029:u001",
+            "start": 0,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄女用九叶竹枝改法理、解朱雀青藤与束缚",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "玄女用九叶竹枝改法理、解朱雀青藤与束缚",
+            "focalizer": "v04c047_xuannv_benzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄女用九叶竹枝改法理、解朱雀青藤与束缚"
+      },
+      {
+        "reference": "v04-c0047:p0030",
+        "length": 14,
+        "sha256": "6e1649c63abb757728b13b5c4f59262745cd48a183dfcc5601e0101d2dbaebc3",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0030:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "yunhe_zhenren",
+            "surface_identity": "yunhe_zhenren",
+            "text_context": "云鹤变色识神兵",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "实际言语",
+            "embodiment": "先罗盘八卦，后五行与神符",
+            "delivery": "处变不惊到认神兵变色",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤变色识神兵",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0030:u002",
+            "start": 5,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云鹤变色识神兵",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "云鹤变色识神兵",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云鹤变色识神兵"
+      },
+      {
+        "reference": "v04-c0047:p0031",
+        "length": 61,
+        "sha256": "30ce7829f5f5d15294e13d2c2b9c50fc94598a5f2d2fad859c701faaaf1a8f5e",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0031:u001",
+            "start": 0,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "混沌符以古篆定仙界法理",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "混沌符以古篆定仙界法理",
+            "focalizer": "yunhe_zhenren",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "混沌符以古篆定仙界法理"
+      },
+      {
+        "reference": "v04-c0047:p0032",
+        "length": 29,
+        "sha256": "c425444c778be23e0c7faa003643c8dc369b33a9cd531f72bd04f967888be82b",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0032:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c047_xuannv_benzun",
+            "surface_identity": "素女仙界中的玄女本尊",
+            "text_context": "玄女略失声认上清神符与万象传承",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "实际言语",
+            "embodiment": "白纱本尊，以九叶竹枝改法理",
+            "delivery": "清雅告知筹划，认符后一度失声",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "玄女略失声认上清神符与万象传承",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0032:u002",
+            "start": 12,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "玄女略失声认上清神符与万象传承",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "玄女略失声认上清神符与万象传承",
+            "focalizer": "v04c047_xuannv_benzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0032:u003",
+            "start": 19,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c047_xuannv_benzun",
+            "surface_identity": "素女仙界中的玄女本尊",
+            "text_context": "玄女略失声认上清神符与万象传承",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "实际言语",
+            "embodiment": "白纱本尊，以九叶竹枝改法理",
+            "delivery": "清雅告知筹划，认符后一度失声",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "玄女略失声认上清神符与万象传承",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "玄女略失声认上清神符与万象传承"
+      },
+      {
+        "reference": "v04-c0047:p0033",
+        "length": 59,
+        "sha256": "1ca30dbfc30fd26d2825f1693081523f060f2a6331e8cf44dabccd0c8f9a3986",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0033:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江身剑合斩向边缘，章内未见破出",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "江身剑合斩向边缘，章内未见破出",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江身剑合斩向边缘，章内未见破出"
+      },
+      {
+        "reference": "v04-c0047:p0034",
+        "length": 47,
+        "sha256": "672b6d453a114278e74c1b70c29f1ae95ebe666845a41fc408caa0db0a642e43",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0034:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仙界外另见前遇玄女应身，正文区分",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "仙界外另见前遇玄女应身，正文区分",
+            "focalizer": "v04c033_contemporary_xuannv",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仙界外另见前遇玄女应身，正文区分"
+      },
+      {
+        "reference": "v04-c0047:p0035",
+        "length": 31,
+        "sha256": "534bdde65d0ce34cf72a02a599f11541c59fac1df508eb28bc13f8b7146f6a0a",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0035:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "应身等出手掳人的时机，目标院外观无异",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "应身等出手掳人的时机，目标院外观无异",
+            "focalizer": "v04c033_contemporary_xuannv",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "应身等出手掳人的时机，目标院外观无异"
+      },
+      {
+        "reference": "v04-c0047:p0036",
+        "length": 21,
+        "sha256": "97b6e145a73b879638e6f39e9c8ed9b194f4c77baeda7b546e388dc4884e7187",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0036:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "若无云鹤已成是叙述反事实",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "五行术和宗门神兵相抗",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "若无云鹤已成是叙述反事实",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "若无云鹤已成是叙述反事实"
+      },
+      {
+        "reference": "v04-c0047:p0037",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0037:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "转场",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "转场",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "转场"
+      },
+      {
+        "reference": "v04-c0047:p0038",
+        "length": 9,
+        "sha256": "a4d303b5f71fd3b724ed631fc9d271c76a6b920690f2f89151b058935d524cd3",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0038:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "明确不是同一个隔界，转入两仪分界帕",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "明确不是同一个隔界，转入两仪分界帕",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "明确不是同一个隔界，转入两仪分界帕"
+      },
+      {
+        "reference": "v04-c0047:p0039",
+        "length": 100,
+        "sha256": "9f06ba7568b1056e594dc29ec17e22675c6831a42e56d806fa29f9de68012c16",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0039:u001",
+            "start": 0,
+            "end": 100,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷神显古铜长刀巨人相，脚踏二龙暗紫闪",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "雷神显古铜长刀巨人相，脚踏二龙暗紫闪",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷神显古铜长刀巨人相，脚踏二龙暗紫闪"
+      },
+      {
+        "reference": "v04-c0047:p0040",
+        "length": 55,
+        "sha256": "69fc04963cff34d6b47dc5d3f544635e42af35038b7e2b7ca134cc86e93490c2",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0040:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷纹分枝遍体",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "雷纹分枝遍体",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷纹分枝遍体"
+      },
+      {
+        "reference": "v04-c0047:p0041",
+        "length": 60,
+        "sha256": "a3bd02e621ae09fd30f20dc1b3533c1a914b7f322bc3ecb23e4368eda72b846b",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0041:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟感元气变青紫雷池，诸力被排压",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟感元气变青紫雷池，诸力被排压",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟感元气变青紫雷池，诸力被排压"
+      },
+      {
+        "reference": "v04-c0047:p0042",
+        "length": 15,
+        "sha256": "6a383a9a192e695eb75e1d1200e8efca6291abdba23b4f69794428aebe57fda1",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0042:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "法相交织法理是能力说明，非喊话",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "法相交织法理是能力说明，非喊话",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "法相交织法理是能力说明，非喊话"
+      },
+      {
+        "reference": "v04-c0047:p0043",
+        "length": 58,
+        "sha256": "51da742b9bceb1f7067e3542c590728536ee42510cac56e1502ae0368db414e1",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0043:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟拟紫雷劲刀法也受压",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟拟紫雷劲刀法也受压",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟拟紫雷劲刀法也受压"
+      },
+      {
+        "reference": "v04-c0047:p0044",
+        "length": 28,
+        "sha256": "e873918af43a8d4b6c7469f391d21d4ab4789494fbd65b80ef7c962c0bb4869b",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0044:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟手背实显紫雷痕",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟手背实显紫雷痕",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟手背实显紫雷痕"
+      },
+      {
+        "reference": "v04-c0047:p0045",
+        "length": 37,
+        "sha256": "3dbf3a76626625f53f3ef1c6501f6292a1d98ceac45329f47295fb52f69c87d6",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0045:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷池随痕改，压制降低到不影响雷性刀",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "雷池随痕改，压制降低到不影响雷性刀",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷池随痕改，压制降低到不影响雷性刀"
+      },
+      {
+        "reference": "v04-c0047:p0046",
+        "length": 21,
+        "sha256": "557829d0e6bb3b3310b3f63182aff1937f1bf976ac95f12737878ea469ae2629",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0046:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷神见痕而贪、杀意明显",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "雷神见痕而贪、杀意明显",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷神见痕而贪、杀意明显"
+      },
+      {
+        "reference": "v04-c0047:p0047",
+        "length": 53,
+        "sha256": "1f698d0af600c38f3695fa768832fd79e88840f696061dc193071fc73e6a3b59",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0047:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "神犬长啸，狗头人形实际变三丈黑犬",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "神犬长啸，狗头人形实际变三丈黑犬",
+            "focalizer": "v04c046_xiaoyue_shenquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "神犬长啸，狗头人形实际变三丈黑犬"
+      },
+      {
+        "reference": "v04-c0047:p0048",
+        "length": 20,
+        "sha256": "85790b90b3820ca105b15cb8489ec83b64fba75c923d152fe9b7c24ee720cf9a",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0048:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "巨犬张口扑咬",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "巨犬张口扑咬",
+            "focalizer": "v04c046_xiaoyue_shenquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "巨犬张口扑咬"
+      },
+      {
+        "reference": "v04-c0047:p0049",
+        "length": 17,
+        "sha256": "5b4cf8bf975331e685449e2cf2ee83c86ddfd7318abb7f79c11be0c3b2efe292",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0049:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "口内幽暗似吞月，是视觉意象",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "口内幽暗似吞月，是视觉意象",
+            "focalizer": "v04c046_xiaoyue_shenquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "口内幽暗似吞月，是视觉意象"
+      },
+      {
+        "reference": "v04-c0047:p0050",
+        "length": 51,
+        "sha256": "df0d50f618f685a60c45a489fde1233d98c87e1c47b8e45ada3ee1d1fa42f325",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0050:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟认妖、感元神震荡，凭内显元始相维持",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "内心",
+            "embodiment": "手背雷痕显，合身扑出再跃起，眉心竖眼",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟认妖、感元神震荡，凭内显元始相维持",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0047:p0050:u002",
+            "start": 6,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟认妖、感元神震荡，凭内显元始相维持",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟认妖、感元神震荡，凭内显元始相维持",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟认妖、感元神震荡，凭内显元始相维持"
+      },
+      {
+        "reference": "v04-c0047:p0051",
+        "length": 20,
+        "sha256": "3b282fae6c34bd2f2bca996240da03aa0e23fd390f0feebfc823cf831e1cba7e",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0051:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "战局条件逐步归心",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "战局条件逐步归心",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "战局条件逐步归心"
+      },
+      {
+        "reference": "v04-c0047:p0052",
+        "length": 59,
+        "sha256": "3066a7a4b663fba7fab4275311bae1307779af5963347d6b0a40e2bffa02eab3",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0052:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟想起旧山神庙遇围作比较",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟想起旧山神庙遇围作比较",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟想起旧山神庙遇围作比较"
+      },
+      {
+        "reference": "v04-c0047:p0053",
+        "length": 88,
+        "sha256": "e6f3e30f09614722586169e1a37a4c9c8034610b49a236680bad5a0a8b4825ab",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0053:u001",
+            "start": 0,
+            "end": 88,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旧敌有伤、修为和配合不足，是他归纳",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "旧敌有伤、修为和配合不足，是他归纳",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旧敌有伤、修为和配合不足，是他归纳"
+      },
+      {
+        "reference": "v04-c0047:p0054",
+        "length": 113,
+        "sha256": "d53916988a071334930261b6c7e17b00bb1584f6393aa681bd7209785f3c4971",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0054:u001",
+            "start": 0,
+            "end": 113,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "现两敌都过天梯、态势较齐心，是他的战情估量",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "现两敌都过天梯、态势较齐心，是他的战情估量",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "现两敌都过天梯、态势较齐心，是他的战情估量"
+      },
+      {
+        "reference": "v04-c0047:p0055",
+        "length": 19,
+        "sha256": "b5f5a026f398f6cc827102673a3bbd4c886626574853dd6c30a086f2fdd77654",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0055:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟唯一念头铺垫",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟唯一念头铺垫",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟唯一念头铺垫"
+      },
+      {
+        "reference": "v04-c0047:p0056",
+        "length": 24,
+        "sha256": "7f9c0d4738d2a383b3cb7a4ca79ec3f84b7aefb659473c4d6002d75a8d9c8afb",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0056:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟决断先拼掉一敌",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "内心",
+            "embodiment": "手背雷痕显，合身扑出再跃起，眉心竖眼",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟决断先拼掉一敌",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟决断先拼掉一敌"
+      },
+      {
+        "reference": "v04-c0047:p0057",
+        "length": 34,
+        "sha256": "98d077a454e5fb3e3637c4c113244692f746de45f57cfb99e05d9ca1c1a8b538",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0057:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟顾虑晚则可能连符也用不出",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "内心",
+            "embodiment": "手背雷痕显，合身扑出再跃起，眉心竖眼",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟顾虑晚则可能连符也用不出",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟顾虑晚则可能连符也用不出"
+      },
+      {
+        "reference": "v04-c0047:p0058",
+        "length": 73,
+        "sha256": "d079d91bae75d30708c25c8c40c3f8923a94eaf27619a5d654d0d9920a9cadea",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0058:u001",
+            "start": 0,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "不考虑援手，实向雷神方向扑出",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "帕内双敌与孟的决断",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "不考虑援手，实向雷神方向扑出",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "不考虑援手，实向雷神方向扑出"
+      },
+      {
+        "reference": "v04-c0047:p0059",
+        "length": 67,
+        "sha256": "bbeca9fd7c0c0d15a062a1488a007b94764c26471d345b396c0b6d7af9b08af5",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0059:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "流火耀日令雷神自觉避无可避",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "流火耀日令雷神自觉避无可避",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "流火耀日令雷神自觉避无可避"
+      },
+      {
+        "reference": "v04-c0047:p0060",
+        "length": 61,
+        "sha256": "6cf0e9dc241915ef7a8ce962b9629b6b59542911785d09563c811b1d95565173",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0060:u001",
+            "start": 0,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷神法相与神犬成掎角，眼色转静",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "雷神法相与神犬成掎角，眼色转静",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷神法相与神犬成掎角，眼色转静"
+      },
+      {
+        "reference": "v04-c0047:p0061",
+        "length": 26,
+        "sha256": "356dddeb734adbbe78991629806064b990b01ac0d446458c60dad8e148331c04",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0061:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "犬紧追后方将咬到",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "犬紧追后方将咬到",
+            "focalizer": "v04c046_xiaoyue_shenquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "犬紧追后方将咬到"
+      },
+      {
+        "reference": "v04-c0047:p0062",
+        "length": 45,
+        "sha256": "f5b7802420919918872e7ac4c7cfd49dc40ab758fdb139366fa7ca6816ec58f1",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0062:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷神本人和法相虚实刀同劈",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "雷神本人和法相虚实刀同劈",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷神本人和法相虚实刀同劈"
+      },
+      {
+        "reference": "v04-c0047:p0063",
+        "length": 3,
+        "sha256": "c0f53a24cd9a01d99bf83a86d7637bb6abdcd2abae3cfde818a4af67bb5b9544",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0063:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷爆声无对白",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "雷爆声无对白",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷爆声无对白"
+      },
+      {
+        "reference": "v04-c0047:p0064",
+        "length": 57,
+        "sha256": "c25174650ef862b3b29b64c128bbbe1ff0c75a4430ee0a235afa85799c86c59d",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0064:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷光聚爆压声音，蘑菇云为像",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "雷光聚爆压声音，蘑菇云为像",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷光聚爆压声音，蘑菇云为像"
+      },
+      {
+        "reference": "v04-c0047:p0065",
+        "length": 7,
+        "sha256": "af855fd276ead149f9bc0e24b886fc4d44f48b68dab9758be33c06938d39be22",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0065:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "出招名属描述，无角色喊出",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "出招名属描述，无角色喊出",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "出招名属描述，无角色喊出"
+      },
+      {
+        "reference": "v04-c0047:p0066",
+        "length": 3,
+        "sha256": "c0f53a24cd9a01d99bf83a86d7637bb6abdcd2abae3cfde818a4af67bb5b9544",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0066:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "又一重爆声",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "又一重爆声",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "又一重爆声"
+      },
+      {
+        "reference": "v04-c0047:p0067",
+        "length": 13,
+        "sha256": "39f8130bb1d7278fb1c4d5248658ecc476dea6d06c617de294ccaea0158988de",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0067:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "紫雷劈破火海太阳",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "紫雷劈破火海太阳",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "紫雷劈破火海太阳"
+      },
+      {
+        "reference": "v04-c0047:p0068",
+        "length": 25,
+        "sha256": "2572bbd84113191b250df1cdae237306172f1ca44b7eccc6321d879eef088431",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0068:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "发现火招无力",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "发现火招无力",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "发现火招无力"
+      },
+      {
+        "reference": "v04-c0047:p0069",
+        "length": 6,
+        "sha256": "fb0805559a62b3db63f46c77d82a8561182a75493fffa0d4515ace2c658a3ddd",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0069:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "虚招反转由叙述指出",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "虚招反转由叙述指出",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "虚招反转由叙述指出"
+      },
+      {
+        "reference": "v04-c0047:p0070",
+        "length": 14,
+        "sha256": "d90c60b5955e4522c44be044ec36bbf24f692b192f3e07989233bd4407da68ee",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0070:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "八九变化欺瞒造成虚招，属解释",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "八九变化欺瞒造成虚招，属解释",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "八九变化欺瞒造成虚招，属解释"
+      },
+      {
+        "reference": "v04-c0047:p0071",
+        "length": 41,
+        "sha256": "e045c9dd93fa3703c275cd145e44d3112f9ee89f2e668c66c3914325f4b8d9a9",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0071:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟先腾高，受余波但避开刀犬主势",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟先腾高，受余波但避开刀犬主势",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟先腾高，受余波但避开刀犬主势"
+      },
+      {
+        "reference": "v04-c0047:p0072",
+        "length": 39,
+        "sha256": "d5b9ff15648c44dda039c76341355a75abbbd4c112e59a1772056c188aa30b8d",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0072:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实抛天之伤，改持串珠",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "实抛天之伤，改持串珠",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实抛天之伤，改持串珠"
+      },
+      {
+        "reference": "v04-c0047:p0073",
+        "length": 24,
+        "sha256": "5fbde4b12284439393eb1b6db0b37bd681c15d29e275dca31f0b6157e4b3fdee",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0073:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "九眼珠实际亮，摄惑心灵",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "九眼珠实际亮，摄惑心灵",
+            "focalizer": "v04c046_xiaoyue_shenquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "九眼珠实际亮，摄惑心灵"
+      },
+      {
+        "reference": "v04-c0047:p0074",
+        "length": 47,
+        "sha256": "a112f51bbd2f8cea68cb338d425a6356e938675d8d43a40a82adae7d23425bf3",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0074:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "虚空暗成幻境，表精神受扰",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "虚空暗成幻境，表精神受扰",
+            "focalizer": "v04c046_xiaoyue_shenquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "虚空暗成幻境，表精神受扰"
+      },
+      {
+        "reference": "v04-c0047:p0075",
+        "length": 12,
+        "sha256": "3102c802c0297370ec14fc56452def1708569ab6d9efb76e46ddf6c71de5abed",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0075:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑犬出现一时呆滞",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "黑犬出现一时呆滞",
+            "focalizer": "v04c046_xiaoyue_shenquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑犬出现一时呆滞"
+      },
+      {
+        "reference": "v04-c0047:p0076",
+        "length": 19,
+        "sha256": "5e19c657532ebee578f2b452f7db59b2e524e7e86542eb154ec79409f6da593f",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0076:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟开眉心竖眼",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "孟开眉心竖眼",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟开眉心竖眼"
+      },
+      {
+        "reference": "v04-c0047:p0077",
+        "length": 17,
+        "sha256": "1dfb372c3d55c1a2de685f8c996d435649b00bb71c0746701e068384758f22f5",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0077:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "九眼珠与变天击地实际合用，术名未喊",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "九眼珠与变天击地实际合用，术名未喊",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "九眼珠与变天击地实际合用，术名未喊"
+      },
+      {
+        "reference": "v04-c0047:p0078",
+        "length": 58,
+        "sha256": "c59be23b3b1359f3e990a1c9d952fdab5c611c39dee42587b44e9427e7d2684a",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0078:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "目标犬因更强且能追，避雷神可能先用秘宝者是孟战前选择",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "目标犬因更强且能追，避雷神可能先用秘宝者是孟战前选择",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "目标犬因更强且能追，避雷神可能先用秘宝者是孟战前选择"
+      },
+      {
+        "reference": "v04-c0047:p0079",
+        "length": 53,
+        "sha256": "bda70e82de5410ff09f7b6547afa2b814727d8946a15cc7dddbc730167791684",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0079:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雷神实捏左手所藏之物，哈是虚空发声，黄气向孟",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "雷神实捏左手所藏之物，哈是虚空发声，黄气向孟",
+            "focalizer": "thunder_god",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雷神实捏左手所藏之物，哈是虚空发声，黄气向孟"
+      },
+      {
+        "reference": "v04-c0047:p0080",
+        "length": 23,
+        "sha256": "d63ff8279d0d4cbbbc4903aa304a045d76360b19dfbda455735008f8b6ef09ac",
+        "units": [
+          {
+            "unit_id": "v04-c0047:p0080:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "收在黄气来及搏命开端，胜负未分",
+            "world_context": "第四卷：素女仙界与两仪分界帕、玄女本尊应身分工、雷池攻防",
+            "stage_context": "虚招夺位，九眼珠和黄气",
+            "channel": "旁白",
+            "embodiment": "",
+            "delivery": "",
+            "vow_friendship_and_loot_boundary": "九眼珠实用配旧法、并未损毁；轮回符未用。黄气出现，作用与犬死活都未确认。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "两处界限各指一件事，竹枝神兵、符篆和帕勿混称；明见应身不与本尊共享台词，帕内也未见来援者。",
+            "knowledge_boundary": "收在黄气来及搏命开端，胜负未分",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "收在黄气来及搏命开端，胜负未分"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0047",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S07",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 8,
+        "label": "夜查两道气息",
+        "direction": "先给鱼海空城和江云潜行，再从指人盘和暗记了解云鹤如何察觉。江第一次听说跟梢，云鹤猜隔绝的手段并显八卦，未入围杀之地。 证据 v04-c0047:p0001–p0008。"
+      },
+      {
+        "paragraph_start": 9,
+        "paragraph_end": 24,
+        "label": "素女仙界中见本尊",
+        "direction": "白云霞光压住江的气机。惊呼名段保留个体归属未标；本尊自己讲借雷神与神犬找到孟。江克服不忍拔剑，剑只朝仙界边缘，目标是脱围去救。 证据 v04-c0047:p0009–p0024。"
+      },
+      {
+        "paragraph_start": 25,
+        "paragraph_end": 36,
+        "label": "竹枝、神符与应身等候",
+        "direction": "云鹤以自身为水起五行，玄女点九叶竹枝反转仙界法理。云鹤再出上清神符，江化剑光斩边。外景另给此前所见应身等待，把她与本尊的行动分开。 证据 v04-c0047:p0025–p0036。"
+      },
+      {
+        "paragraph_start": 37,
+        "paragraph_end": 58,
+        "label": "帕内雷池与孟的选择",
+        "direction": "切另一处隔界，雷神古铜巨相和黑犬先后成形，孟手背雷痕降低法理对雷性刀法的压制。元始相稳住心神后，孟把旧战比较转为立即抢攻的决定。 证据 v04-c0047:p0037–p0058。"
+      },
+      {
+        "paragraph_start": 59,
+        "paragraph_end": 80,
+        "label": "烈日虚招与黑犬受摄",
+        "direction": "先让雷神与神犬把注意投向火海太阳，再由雷爆破空揭出虚招。孟早已跃离，抛刀并用九眼珠加精神旧法使犬呆住；雷神捏碎藏物，黄气喷来便收。 证据 v04-c0047:p0059–p0080。"
+      }
+    ],
+    "knowledge_rule": "惊呼归属仍未标人；本尊应身各自角色状态。气机仙界与黑帕分开，黄气作用和脱困留待后证。"
+  }
 }
