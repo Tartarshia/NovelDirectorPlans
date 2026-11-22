@@ -51,7 +51,2682 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0231"
+  "reading_batch": "batch-0231",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0061",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0061.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0061:p0001",
+        "length": 8,
+        "sha256": "5cf3ac4748058a0779e258b531f4215107a712ee83a3bc93f9731e8f098470ae",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0001:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "碧游密室承上",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "碧游密室承上",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "碧游密室承上"
+      },
+      {
+        "reference": "v04-c0061:p0002",
+        "length": 102,
+        "sha256": "45b367ba3104e06861109d258899935e0cb0be1bf7e9ece868c81aaa13447831",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0002:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灵宝踱步自语，推太离必有对策及妖王数量未明",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝踱步自语，推太离必有对策及妖王数量未明",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0002:u002",
+            "start": 18,
+            "end": 83,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "灵宝踱步自语，推太离必有对策及妖王数量未明",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "灵宝踱步喃喃，近旁孟可闻",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝踱步自语，推太离必有对策及妖王数量未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0002:u003",
+            "start": 83,
+            "end": 91,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "灵宝踱步自语，推太离必有对策及妖王数量未明",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "灵宝踱步喃喃，近旁孟可闻",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝踱步自语，推太离必有对策及妖王数量未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0002:u004",
+            "start": 91,
+            "end": 102,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "灵宝踱步自语，推太离必有对策及妖王数量未明",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "灵宝踱步喃喃，近旁孟可闻",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝踱步自语，推太离必有对策及妖王数量未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灵宝踱步自语，推太离必有对策及妖王数量未明"
+      },
+      {
+        "reference": "v04-c0061:p0003",
+        "length": 21,
+        "sha256": "0409455f721545a315599ed4f86cc3cbc4aa8c929e90fd8405935bcd81dc2d16",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0003:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙似问孟又似理思路",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "叙似问孟又似理思路",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙似问孟又似理思路"
+      },
+      {
+        "reference": "v04-c0061:p0004",
+        "length": 83,
+        "sha256": "2f18ea8b7b6d4a08492bd256bc1cdd3eae96e1868130fbe9b79991d41617b50a",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0004:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灵宝认为韩难知囚人遇孟，可提防",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝认为韩难知囚人遇孟，可提防",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0004:u002",
+            "start": 18,
+            "end": 83,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "灵宝认为韩难知囚人遇孟，可提防",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝认为韩难知囚人遇孟，可提防",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灵宝认为韩难知囚人遇孟，可提防"
+      },
+      {
+        "reference": "v04-c0061:p0005",
+        "length": 102,
+        "sha256": "582cbc365d2ac18120883543be79f7689ff164984d45fea0e1f1f93bab90df37",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0005:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灵宝许事后择一式八九法身招，未发下",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝许事后择一式八九法身招，未发下",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0005:u002",
+            "start": 21,
+            "end": 70,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "灵宝许事后择一式八九法身招，未发下",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝许事后择一式八九法身招，未发下",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0005:u003",
+            "start": 70,
+            "end": 102,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "灵宝许事后择一式八九法身招，未发下",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝许事后择一式八九法身招，未发下",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灵宝许事后择一式八九法身招，未发下"
+      },
+      {
+        "reference": "v04-c0061:p0006",
+        "length": 64,
+        "sha256": "a5c53479a6a66044dc46474a069cc3a8f52f2e951ce89dfae0202fd590f158a1",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0006:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内想马上挑，实听灵宝先需救人辨真",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内想马上挑，实听灵宝先需救人辨真",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0006:u002",
+            "start": 19,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内想马上挑，实听灵宝先需救人辨真",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内想马上挑，实听灵宝先需救人辨真",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0006:u003",
+            "start": 45,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "孟内想马上挑，实听灵宝先需救人辨真",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内想马上挑，实听灵宝先需救人辨真",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内想马上挑，实听灵宝先需救人辨真"
+      },
+      {
+        "reference": "v04-c0061:p0007",
+        "length": 60,
+        "sha256": "623e9cdc75fd3396f82d2b1f64c3c9c5644f3146957be988dad9b2e4f5a2487e",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0007:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内承认事未确认，实说困人似不信灵宝",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内承认事未确认，实说困人似不信灵宝",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0007:u002",
+            "start": 18,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内承认事未确认，实说困人似不信灵宝",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内承认事未确认，实说困人似不信灵宝",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0007:u003",
+            "start": 30,
+            "end": 60,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内承认事未确认，实说困人似不信灵宝",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内承认事未确认，实说困人似不信灵宝",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内承认事未确认，实说困人似不信灵宝"
+      },
+      {
+        "reference": "v04-c0061:p0008",
+        "length": 95,
+        "sha256": "9d8a71fa63ec8e762b4245006ecf08648b43980149af1a5722d225b0a71a12c6",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0008:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灵宝说多年相交可能被窥，建议去找陆大以防囚人假",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝说多年相交可能被窥，建议去找陆大以防囚人假",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0008:u002",
+            "start": 16,
+            "end": 95,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "灵宝说多年相交可能被窥，建议去找陆大以防囚人假",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝说多年相交可能被窥，建议去找陆大以防囚人假",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灵宝说多年相交可能被窥，建议去找陆大以防囚人假"
+      },
+      {
+        "reference": "v04-c0061:p0009",
+        "length": 68,
+        "sha256": "5d1d5ae9f4838053fe459309241df257915353325518d545231a3c191dd52bf7",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0009:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内疑二人都高看陆，实问如何找到碎片",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内疑二人都高看陆，实问如何找到碎片",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0009:u002",
+            "start": 29,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内疑二人都高看陆，实问如何找到碎片",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内疑二人都高看陆，实问如何找到碎片",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0009:u003",
+            "start": 41,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内疑二人都高看陆，实问如何找到碎片",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内疑二人都高看陆，实问如何找到碎片",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内疑二人都高看陆，实问如何找到碎片"
+      },
+      {
+        "reference": "v04-c0061:p0010",
+        "length": 78,
+        "sha256": "e8b419df21ed81eb0bcd72399525ab57f2e5585ab30a7e0cf167ea66666b3667",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0010:u001",
+            "start": 0,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "法身难定位及同用符方案是孟内权衡",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "法身难定位及同用符方案是孟内权衡",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "法身难定位及同用符方案是孟内权衡"
+      },
+      {
+        "reference": "v04-c0061:p0011",
+        "length": 22,
+        "sha256": "9fc24ef3cbe93a6d64a73111c2e17c65da48a0cc9afd5336ceb05c99029e9c02",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0011:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灵宝笑称陆自有办法",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝笑称陆自有办法",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0011:u002",
+            "start": 9,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "灵宝笑称陆自有办法",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝笑称陆自有办法",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灵宝笑称陆自有办法"
+      },
+      {
+        "reference": "v04-c0061:p0012",
+        "length": 59,
+        "sha256": "00f851e5d1064bc2d5713a0b439bbdc8e46f54ae5c965462477dc8e726efa2a1",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0012:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "开门吩咐瞿独寻欢喜庙，自己暗跟防妖",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "开门吩咐瞿独寻欢喜庙，自己暗跟防妖",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0012:u002",
+            "start": 23,
+            "end": 59,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "开门吩咐瞿独寻欢喜庙，自己暗跟防妖",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "开门吩咐瞿独寻欢喜庙，自己暗跟防妖",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "开门吩咐瞿独寻欢喜庙，自己暗跟防妖"
+      },
+      {
+        "reference": "v04-c0061:p0013",
+        "length": 28,
+        "sha256": "13cf984a713916a1bfca9f4a065f0699ad6feee90e740c811f1ce3905b0ac2d4",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0013:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "qu_jiuniang",
+            "text_context": "瞿先愣后咬牙识太离",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "面具之下由愣转咬牙，搜魂后迅速站起",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "瞿先愣后咬牙识太离",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0013:u002",
+            "start": 5,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿先愣后咬牙识太离",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "瞿先愣后咬牙识太离",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0013:u003",
+            "start": 23,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "qu_jiuniang",
+            "text_context": "瞿先愣后咬牙识太离",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "实际言语",
+            "embodiment": "面具之下由愣转咬牙，搜魂后迅速站起",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "瞿先愣后咬牙识太离",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿先愣后咬牙识太离"
+      },
+      {
+        "reference": "v04-c0061:p0014",
+        "length": 54,
+        "sha256": "db3ceef1650d3b668609170ab5408c90869887a9347619282323d0f5d8cbed3d",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0014:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "由提妖及掌法想到原盲区",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "由提妖及掌法想到原盲区",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "由提妖及掌法想到原盲区"
+      },
+      {
+        "reference": "v04-c0061:p0015",
+        "length": 59,
+        "sha256": "51d33f87772112d544890115c175e07d706103ee5c8ec55e07376a8533282977",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0015:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿私心想获财又改口式自念除魔，未说",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "瞿私心想获财又改口式自念除魔，未说",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0015:u002",
+            "start": 24,
+            "end": 59,
+            "kind": "inner_speech",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "qu_jiuniang",
+            "text_context": "瞿私心想获财又改口式自念除魔，未说",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "内心",
+            "embodiment": "面具之下由愣转咬牙，搜魂后迅速站起",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "瞿私心想获财又改口式自念除魔，未说",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿私心想获财又改口式自念除魔，未说"
+      },
+      {
+        "reference": "v04-c0061:p0016",
+        "length": 29,
+        "sha256": "a4cb0bbf6e12623f53bb27a2944b9f7f9a6ec9b12dbcd7f9daba5dba2c05b92a",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0016:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "inner_speech",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "qu_jiuniang",
+            "text_context": "瞿内觉跟灵宝不用另分成",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "内心",
+            "embodiment": "面具之下由愣转咬牙，搜魂后迅速站起",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "瞿内觉跟灵宝不用另分成",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿内觉跟灵宝不用另分成"
+      },
+      {
+        "reference": "v04-c0061:p0017",
+        "length": 73,
+        "sha256": "6c230b2bdef08da766cdeab5848d5c5f382caf119f3a82f03aa8d9ed796965b0",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0017:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟从神态猜瞿振作，内以谈钱的云鹤比灵宝",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟从神态猜瞿振作，内以谈钱的云鹤比灵宝",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0017:u002",
+            "start": 40,
+            "end": 69,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟从神态猜瞿振作，内以谈钱的云鹤比灵宝",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟从神态猜瞿振作，内以谈钱的云鹤比灵宝",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0017:u003",
+            "start": 69,
+            "end": 73,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟从神态猜瞿振作，内以谈钱的云鹤比灵宝",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "仙迹定求援与暗护余事",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟从神态猜瞿振作，内以谈钱的云鹤比灵宝",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟从神态猜瞿振作，内以谈钱的云鹤比灵宝"
+      },
+      {
+        "reference": "v04-c0061:p0018",
+        "length": 64,
+        "sha256": "87baa22f931070c87d9b67d5ea34122a4b88525ca34ee807a19e494cb1f9e228",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0018:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿灵宝离，孟实去坊挂7件材料求换",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "瞿灵宝离，孟实去坊挂7件材料求换",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿灵宝离，孟实去坊挂7件材料求换"
+      },
+      {
+        "reference": "v04-c0061:p0019",
+        "length": 38,
+        "sha256": "a341f05077b970b8240936790f8f2650e1000c80729b9e1b84ce4e23fb5dd0bd",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0019:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实兑元金棍、掌福天刀、两只芥子环得6200",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟实兑元金棍、掌福天刀、两只芥子环得6200",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实兑元金棍、掌福天刀、两只芥子环得6200"
+      },
+      {
+        "reference": "v04-c0061:p0020",
+        "length": 102,
+        "sha256": "ce852063194d6a789765ca0586a6a1a0eb8b827c13fe654544c97a9984156b88",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0020:u001",
+            "start": 0,
+            "end": 102,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "留紫电雷刀备用，六臂三刀剑是孟畅想",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "留紫电雷刀备用，六臂三刀剑是孟畅想",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "留紫电雷刀备用，六臂三刀剑是孟畅想"
+      },
+      {
+        "reference": "v04-c0061:p0021",
+        "length": 29,
+        "sha256": "1006f787adc1c13f7ff95e6098a9275a4630c573ae2fb1a62b60c7e8396a31fb",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0021:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "曾弃潇洒剑客路，另类向往由叙述",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "曾弃潇洒剑客路，另类向往由叙述",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "曾弃潇洒剑客路，另类向往由叙述"
+      },
+      {
+        "reference": "v04-c0061:p0022",
+        "length": 183,
+        "sha256": "4d0580ea116134cabb462b0fc5ec985c08bf8d292381f9483a8ad197673198d3",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0022:u001",
+            "start": 0,
+            "end": 183,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "保留阴雷白莲心丹和福珠，留一环想低价给附队，未卖",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "保留阴雷白莲心丹和福珠，留一环想低价给附队，未卖",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "保留阴雷白莲心丹和福珠，留一环想低价给附队，未卖"
+      },
+      {
+        "reference": "v04-c0061:p0023",
+        "length": 57,
+        "sha256": "ae390b64c1b0ef8febae196d883ee0b51f1ca52d2dc60980d5972aafe3eaa0c9",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0023:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实把青华果、犬环辅材与自有丹方投玉柱",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "实把青华果、犬环辅材与自有丹方投玉柱",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实把青华果、犬环辅材与自有丹方投玉柱"
+      },
+      {
+        "reference": "v04-c0061:p0024",
+        "length": 81,
+        "sha256": "2ce7ad950c24b4fd453e72e6eee0515603de9e1dd823e509953b4c082080dd40",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0024:u001",
+            "start": 0,
+            "end": 81,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "怕一炉失败，选六道而非抱朴子",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "怕一炉失败，选六道而非抱朴子",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "怕一炉失败，选六道而非抱朴子"
+      },
+      {
+        "reference": "v04-c0061:p0025",
+        "length": 63,
+        "sha256": "7245d4a275a106962e0328fee0d98047893f0d5189e8aef13a47b1512858a9fd",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0025:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实付500补料2000炼费，玉柱升云香",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "实付500补料2000炼费，玉柱升云香",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实付500补料2000炼费，玉柱升云香"
+      },
+      {
+        "reference": "v04-c0061:p0026",
+        "length": 93,
+        "sha256": "6d787635acc33b7e6bab59e4268696946e1507e841dd5618e0addd3bbed1e598",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0026:u001",
+            "start": 0,
+            "end": 93,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实际三丹成，青翠龙眼大；闻香多活数日是体感",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "实际三丹成，青翠龙眼大；闻香多活数日是体感",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际三丹成，青翠龙眼大；闻香多活数日是体感"
+      },
+      {
+        "reference": "v04-c0061:p0027",
+        "length": 53,
+        "sha256": "1a866f98e05b37ce39eac7d5c8881c6b65c6e293708c8bed4f7d0918ab7b7587",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0027:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内赞后实花1200买瓶储丹",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内赞后实花1200买瓶储丹",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0027:u002",
+            "start": 12,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内赞后实花1200买瓶储丹",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内赞后实花1200买瓶储丹",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内赞后实花1200买瓶储丹"
+      },
+      {
+        "reference": "v04-c0061:p0028",
+        "length": 48,
+        "sha256": "0cb6b7b36f01d117c76e67df75139a46711aff8f3b0790b85bdd091e8eef2cba",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0028:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "全部近四千善功且另有材料成本",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "全部近四千善功且另有材料成本",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "全部近四千善功且另有材料成本"
+      },
+      {
+        "reference": "v04-c0061:p0029",
+        "length": 75,
+        "sha256": "172f580be1817975a49479c928be2f07046da51decfa508fc223b66905958551",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0029:u001",
+            "start": 0,
+            "end": 75,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "一般兑换延寿丹方每炼消耗，持自有方可复用",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "一般兑换延寿丹方每炼消耗，持自有方可复用",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "一般兑换延寿丹方每炼消耗，持自有方可复用"
+      },
+      {
+        "reference": "v04-c0061:p0030",
+        "length": 20,
+        "sha256": "c23c9eaf3d8aa713d631dc29c20b2bd4f61f33cacfd75c72f07310e4dfd9aa10",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0030:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "肉痛但内认可投资期回报",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "肉痛但内认可投资期回报",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "肉痛但内认可投资期回报"
+      },
+      {
+        "reference": "v04-c0061:p0031",
+        "length": 69,
+        "sha256": "4c27640fc528ec0d82aa78ff02ba24618ac045765b1dbdf38b8d3d58f363620c",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0031:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "丹可延一甲子，兼疗伤，按世界叙述",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "丹可延一甲子，兼疗伤，按世界叙述",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "丹可延一甲子，兼疗伤，按世界叙述"
+      },
+      {
+        "reference": "v04-c0061:p0032",
+        "length": 52,
+        "sha256": "74e124c9fec9d3e07264d18157189e915b7d0eee2931660471bb23e422b5eb2b",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0032:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "兑换丹药转手限制及若无可扩人手是孟看法",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "兑换丹药转手限制及若无可扩人手是孟看法",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "兑换丹药转手限制及若无可扩人手是孟看法"
+      },
+      {
+        "reference": "v04-c0061:p0033",
+        "length": 26,
+        "sha256": "795b1692bb5a5a455f5a2aa4e21b0e918b4fae930ea6606644a4a53ac6061622",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0033:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟看瓶而心起",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟看瓶而心起",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟看瓶而心起"
+      },
+      {
+        "reference": "v04-c0061:p0034",
+        "length": 23,
+        "sha256": "ad528e358f63d377ae61779419c0fa82dc8023ea5c4adfe4c618ad4d9e458756",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0034:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "内惊三枚超预期",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "内惊三枚超预期",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "内惊三枚超预期"
+      },
+      {
+        "reference": "v04-c0061:p0035",
+        "length": 16,
+        "sha256": "7777543c13f2c0c3ef52a53ea3009c259f496eefad04ed2e24f3657869dc8eaf",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0035:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "保留一枚仍有两枚可售仅安排",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "保留一枚仍有两枚可售仅安排",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "保留一枚仍有两枚可售仅安排"
+      },
+      {
+        "reference": "v04-c0061:p0036",
+        "length": 19,
+        "sha256": "35a3c1b0731a0d1b54bc43efccbf1db0fc127ddfa8def89a6698658ddce6330a",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0036:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "内作财心宣言",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "内作财心宣言",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "内作财心宣言"
+      },
+      {
+        "reference": "v04-c0061:p0037",
+        "length": 58,
+        "sha256": "0b6f5548e700d0623ff56a35a8787b8445832cbdfeb0be8f0c81c93b136c0625",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0037:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "想留一为死亡任务保命，未吞服",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "想留一为死亡任务保命，未吞服",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "想留一为死亡任务保命，未吞服"
+      },
+      {
+        "reference": "v04-c0061:p0038",
+        "length": 31,
+        "sha256": "e4836f9cfdde89b79f922a1e196fc94894739e81fd85fab0566edfce4157eb30",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0038:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "由单想暂补修炼料转为看重回报",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "由单想暂补修炼料转为看重回报",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "由单想暂补修炼料转为看重回报"
+      },
+      {
+        "reference": "v04-c0061:p0039",
+        "length": 133,
+        "sha256": "2bb4cdc43f26547740d0a12fba0f8ace984f7ec8bf17a24e02113ee775405de8",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0039:u001",
+            "start": 0,
+            "end": 117,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "比较潜在买主，估非轮回老外景愿花大钱，属暗想",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "比较潜在买主，估非轮回老外景愿花大钱，属暗想",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0039:u002",
+            "start": 117,
+            "end": 133,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "比较潜在买主，估非轮回老外景愿花大钱，属暗想",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "比较潜在买主，估非轮回老外景愿花大钱，属暗想",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "比较潜在买主，估非轮回老外景愿花大钱，属暗想"
+      },
+      {
+        "reference": "v04-c0061:p0040",
+        "length": 38,
+        "sha256": "e71ffa069a9e01cc2e61f0b7717920a93ad86afd4857b4e58505b991d5f2c6d8",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0040:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "内虑不宜密卖贬值",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "内虑不宜密卖贬值",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "内虑不宜密卖贬值"
+      },
+      {
+        "reference": "v04-c0061:p0041",
+        "length": 29,
+        "sha256": "674f413306f167b95b84c92307ee5eeefcfc76aabbcfbe47d5701bcf5875ff52",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0041:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "请灵宝坐镇拍卖会仅内设想",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "请灵宝坐镇拍卖会仅内设想",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "请灵宝坐镇拍卖会仅内设想"
+      },
+      {
+        "reference": "v04-c0061:p0042",
+        "length": 16,
+        "sha256": "83a7043fe56b4f309ff2c6223c9934f3934b7ed0fee1d21e77380b09150431ae",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0042:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "开拍卖会想法未实施",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "换善功及炼成三丹",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "开拍卖会想法未实施",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "开拍卖会想法未实施"
+      },
+      {
+        "reference": "v04-c0061:p0043",
+        "length": 37,
+        "sha256": "c47caa2f8ffa0cfd8b9091351aa64cab99fdf797e908cf11af8fe006d121e825",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0043:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实从卢龙映月潭出口去画眉山庄",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟实从卢龙映月潭出口去画眉山庄",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实从卢龙映月潭出口去画眉山庄"
+      },
+      {
+        "reference": "v04-c0061:p0044",
+        "length": 82,
+        "sha256": "2aae8ffe48af982995cc36e9e0c43dea513ee82d770a87966837be9716d73bd2",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0044:u001",
+            "start": 0,
+            "end": 82,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "山庄陆创建积累少而威慑足，背景",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "山庄陆创建积累少而威慑足，背景",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "山庄陆创建积累少而威慑足，背景"
+      },
+      {
+        "reference": "v04-c0061:p0045",
+        "length": 72,
+        "sha256": "c81a6865a8426110e01a02b9846f7957a77a772db976a04300169fb977f99025",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0045:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "命名两说，画眉鸟饰物为既有",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "命名两说，画眉鸟饰物为既有",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "命名两说，画眉鸟饰物为既有"
+      },
+      {
+        "reference": "v04-c0061:p0046",
+        "length": 41,
+        "sha256": "b8874f36d931e861495a27cff7939c3bad254e6fec3e5b215d364220057a5d7e",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0046:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟见北地山水秀若江东",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟见北地山水秀若江东",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟见北地山水秀若江东"
+      },
+      {
+        "reference": "v04-c0061:p0047",
+        "length": 40,
+        "sha256": "3df950ee321328bd00dbbae277ef260cb9bd6c56574ac6fde67691e985f02023",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0047:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黄衫弟子见佩刀来客上前",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "黄衫弟子见佩刀来客上前",
+            "focalizer": "v04c061_huamei_gate_disciples",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黄衫弟子见佩刀来客上前"
+      },
+      {
+        "reference": "v04-c0061:p0048",
+        "length": 27,
+        "sha256": "0e4b9467fcaf4cfe33009a7e4276ed21b4a637aa90704a00e8bbeace4e1da1cc",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0048:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实自报苏孟、诈称与寒冰仙子有约以便通传",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟实自报苏孟、诈称与寒冰仙子有约以便通传",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0048:u002",
+            "start": 7,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实自报苏孟、诈称与寒冰仙子有约以便通传",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "实际言语",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟实自报苏孟、诈称与寒冰仙子有约以便通传",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实自报苏孟、诈称与寒冰仙子有约以便通传"
+      },
+      {
+        "reference": "v04-c0061:p0049",
+        "length": 43,
+        "sha256": "41d7c6d3a7558150d24aa59ee813a1efcc08d718d6968304b898ae85093a3e5a",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0049:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "考量陆隐居，叶为会见入口",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "考量陆隐居，叶为会见入口",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "考量陆隐居，叶为会见入口"
+      },
+      {
+        "reference": "v04-c0061:p0050",
+        "length": 32,
+        "sha256": "02f1d8a41e9998d895ef7cba385a6ff87bc3ed9ef0eee95fd9d726b5802e6135",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0050:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "说有约为策略，未确有约",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "说有约为策略，未确有约",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "说有约为策略，未确有约"
+      },
+      {
+        "reference": "v04-c0061:p0051",
+        "length": 32,
+        "sha256": "cc4b7775168d5bd4aa4b18285dee50e8586e70138044720f97afc3208fefcdfd",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0051:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c061_huamei_gate_disciples",
+            "surface_identity": "v04c061_huamei_gate_disciples",
+            "text_context": "诸弟子同感吃惊，发问个人未标",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "几名弟子的反应，个人未分别署名",
+            "embodiment": "黄衫袖画眉，惊后恭敬",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "诸弟子同感吃惊，发问个人未标",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0051:u002",
+            "start": 4,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c061_huamei_gate_disciples",
+            "surface_identity": "v04c061_huamei_gate_disciples",
+            "text_context": "诸弟子同感吃惊，发问个人未标",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "几名弟子的反应，个人未分别署名",
+            "embodiment": "黄衫袖画眉，惊后恭敬",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "诸弟子同感吃惊，发问个人未标",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0051:u003",
+            "start": 12,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "诸弟子同感吃惊，发问个人未标",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "诸弟子同感吃惊，发问个人未标",
+            "focalizer": "v04c061_huamei_gate_disciples",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "诸弟子同感吃惊，发问个人未标"
+      },
+      {
+        "reference": "v04-c0061:p0052",
+        "length": 10,
+        "sha256": "1e6d1fbcdda577916939a0b39ce2638b7127dd322155c9fd5198e7eb58a27b56",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0052:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "v04c061_huamei_gate_disciples",
+            "surface_identity": "v04c061_huamei_gate_disciples",
+            "text_context": "曾人榜第一为他们认知",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "几名弟子的反应，个人未分别署名",
+            "embodiment": "黄衫袖画眉，惊后恭敬",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "曾人榜第一为他们认知",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "曾人榜第一为他们认知"
+      },
+      {
+        "reference": "v04-c0061:p0053",
+        "length": 14,
+        "sha256": "2fa20febf44b5a764e8798101fc6d9698e30ab7eb481758f6b32c241564ae559",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0053:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "v04c061_huamei_gate_disciples",
+            "surface_identity": "v04c061_huamei_gate_disciples",
+            "text_context": "四劫狂刀仍是群体内反应",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "几名弟子的反应，个人未分别署名",
+            "embodiment": "黄衫袖画眉，惊后恭敬",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "四劫狂刀仍是群体内反应",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "四劫狂刀仍是群体内反应"
+      },
+      {
+        "reference": "v04-c0061:p0054",
+        "length": 26,
+        "sha256": "3bf6729f65919b924689553d83674376cb7e098ef47b17d4719b3b5eabf22d9d",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0054:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "v04c061_huamei_gate_disciples",
+            "surface_identity": "v04c061_huamei_gate_disciples",
+            "text_context": "新外景杀积年外景印象是他们所闻",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "几名弟子的反应，个人未分别署名",
+            "embodiment": "黄衫袖画眉，惊后恭敬",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "新外景杀积年外景印象是他们所闻",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "新外景杀积年外景印象是他们所闻"
+      },
+      {
+        "reference": "v04-c0061:p0055",
+        "length": 65,
+        "sha256": "2a3390cbbd6182a34dc7da9563a0dfc91e825a8b351d1877d40c4c5d53c77929",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0055:u001",
+            "start": 0,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "弟子对不满一年落差的感受",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "弟子对不满一年落差的感受",
+            "focalizer": "v04c061_huamei_gate_disciples",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "弟子对不满一年落差的感受"
+      },
+      {
+        "reference": "v04-c0061:p0056",
+        "length": 26,
+        "sha256": "21e2c84d96f33285c6f0e1dcf03d0939c81c0bdabd8edddc09acde8ec7bd72ab",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0056:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "为首弟子实承通传",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "为首弟子实承通传",
+            "focalizer": "v04c061_huamei_leading_disciple",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0056:u002",
+            "start": 11,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c061_huamei_leading_disciple",
+            "surface_identity": "v04c061_huamei_leading_disciple",
+            "text_context": "为首弟子实承通传",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "为首弟子实承通传",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "为首弟子实承通传"
+      },
+      {
+        "reference": "v04-c0061:p0057",
+        "length": 22,
+        "sha256": "44956164dc90dc7df4c2fc2ede710b4bb65284218cdcdb7065a72d880f4a39aa",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0057:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实微笑点头",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟实微笑点头",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实微笑点头"
+      },
+      {
+        "reference": "v04-c0061:p0058",
+        "length": 41,
+        "sha256": "d21cea1e5059d3093add8574b87f5d3cc3faf15fae23a77d193ffa288fbc97c5",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0058:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叶寒风赶下直接卷孟返回",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "叶寒风赶下直接卷孟返回",
+            "focalizer": "ye_yuqi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叶寒风赶下直接卷孟返回"
+      },
+      {
+        "reference": "v04-c0061:p0059",
+        "length": 16,
+        "sha256": "644c476120ff4e871af720c0e4fe62170ea79a9f1a19bcf48d85022721ccb7c7",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0059:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "ye_yuqi",
+            "surface_identity": "ye_yuqi",
+            "text_context": "叶正色问何事",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "实际言语",
+            "embodiment": "寒风卷来，闻信转凝重",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "叶正色问何事",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0059:u002",
+            "start": 8,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叶正色问何事",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "叶正色问何事",
+            "focalizer": "ye_yuqi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叶正色问何事"
+      },
+      {
+        "reference": "v04-c0061:p0060",
+        "length": 10,
+        "sha256": "09ed4fb793032b27bdffbb53a888d38dfea7b708fa4ba5d330cbdccdae845176",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0060:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "她以为仙迹出事，旁白",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "她以为仙迹出事，旁白",
+            "focalizer": "ye_yuqi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "她以为仙迹出事，旁白"
+      },
+      {
+        "reference": "v04-c0061:p0061",
+        "length": 19,
+        "sha256": "2da6f79c43bec110b455bfa82ad0338f91926afe223b385ade8bb8d72348446d",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0061:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际传音全述脉络，原话没给",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟实际传音全述脉络，原话没给",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际传音全述脉络，原话没给"
+      },
+      {
+        "reference": "v04-c0061:p0062",
+        "length": 46,
+        "sha256": "a0151edb074663dafe23c64d577939f6ba8c47049f465f513132cce073a7f3f1",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0062:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叶神情震动后改向后山",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "叶神情震动后改向后山",
+            "focalizer": "ye_yuqi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叶神情震动后改向后山"
+      },
+      {
+        "reference": "v04-c0061:p0063",
+        "length": 29,
+        "sha256": "e0623ccdb3892fd8e90248c50f50c7d5d46fdbd3952dceb526353441baeb0239",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0063:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实到坟茔花与草庐",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "实到坟茔花与草庐",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实到坟茔花与草庐"
+      },
+      {
+        "reference": "v04-c0061:p0064",
+        "length": 37,
+        "sha256": "19925be1ebc29de7b5d695daff851addf4d1a8f99eab1b694f505bad57ac1427",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0064:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陆青衫躬耕，专注虔诚",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "陆青衫躬耕，专注虔诚",
+            "focalizer": "lu_da",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陆青衫躬耕，专注虔诚"
+      },
+      {
+        "reference": "v04-c0061:p0065",
+        "length": 23,
+        "sha256": "e2c4525168f879a492d266dffd4bc74dfed1e780c4f0d23e8a406810ae689d47",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0065:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叶将事直接开口告陆，不补逐字",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "叶将事直接开口告陆，不补逐字",
+            "focalizer": "ye_yuqi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叶将事直接开口告陆，不补逐字"
+      },
+      {
+        "reference": "v04-c0061:p0066",
+        "length": 50,
+        "sha256": "e5534ecf8f73bae51bd4b891adb497a9937d9b2ddfb49173c2658c360b700787",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0066:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陆早停耕，听后实取一剑且叹",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "陆早停耕，听后实取一剑且叹",
+            "focalizer": "lu_da",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陆早停耕，听后实取一剑且叹"
+      },
+      {
+        "reference": "v04-c0061:p0067",
+        "length": 15,
+        "sha256": "22ae3dac777052393167466f501cba19cf80ca014f947f009a2b88c4f4a84253",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0067:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "lu_da",
+            "surface_identity": "lu_da",
+            "text_context": "实际邀苏小友同去少林",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "实际言语",
+            "embodiment": "躬耕停手，得剑邀请",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "实际邀苏小友同去少林",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际邀苏小友同去少林"
+      },
+      {
+        "reference": "v04-c0061:p0068",
+        "length": 31,
+        "sha256": "9a1f75f3fe192408b5ff2713b05cc4bee8d27ad2aa2ca373ad5e04ff1688a23c",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0068:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内明白陆可能利用碎片和原地联系",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "内心",
+            "embodiment": "眉飞色舞又转忧，后佩刀出访",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内明白陆可能利用碎片和原地联系",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0068:u002",
+            "start": 24,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内明白陆可能利用碎片和原地联系",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "画眉门报约，见陆并赴少林",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "孟内明白陆可能利用碎片和原地联系",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内明白陆可能利用碎片和原地联系"
+      },
+      {
+        "reference": "v04-c0061:p0069",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0069:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "分隔",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "分隔"
+      },
+      {
+        "reference": "v04-c0061:p0070",
+        "length": 32,
+        "sha256": "54fd632c259dc12256cf8f3cf2c72b3db3f139e6eebc176611eaf2249869f2e4",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0070:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "欢喜庙两外景倒地，未定位尸或尚活",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "欢喜庙两外景倒地，未定位尸或尚活",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "欢喜庙两外景倒地，未定位尸或尚活"
+      },
+      {
+        "reference": "v04-c0061:p0071",
+        "length": 49,
+        "sha256": "0d47224370a2da6b1541e5dc10c5661f29b7c147fff6232a8dc04edfcfe0d927",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0071:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "qu_jiuniang",
+            "text_context": "瞿边搜物发话，毫无怒调并实搜魂",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "实际言语",
+            "embodiment": "面具之下由愣转咬牙，搜魂后迅速站起",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "瞿边搜物发话，毫无怒调并实搜魂",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0071:u002",
+            "start": 22,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿边搜物发话，毫无怒调并实搜魂",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "瞿边搜物发话，毫无怒调并实搜魂",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿边搜物发话，毫无怒调并实搜魂"
+      },
+      {
+        "reference": "v04-c0061:p0072",
+        "length": 28,
+        "sha256": "155710878d194a2b821b73629c191b24e6a80fcfec24f9cb93167b5605e70770",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0072:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "搜后站起低声报阵眼鱼海",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "搜后站起低声报阵眼鱼海",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0072:u002",
+            "start": 13,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "qu_jiuniang",
+            "text_context": "搜后站起低声报阵眼鱼海",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "瞿低声向在场同伴说",
+            "embodiment": "面具之下由愣转咬牙，搜魂后迅速站起",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "搜后站起低声报阵眼鱼海",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "搜后站起低声报阵眼鱼海"
+      },
+      {
+        "reference": "v04-c0061:p0073",
+        "length": 14,
+        "sha256": "6101ba2447fa862a3f25f196215cda8c3d0446bf52f9915a4a85a775521f0df0",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0073:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "灵宝望远，鱼海是其内反问",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "内心",
+            "embodiment": "踱步转安慰，随瞿暗护",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝望远，鱼海是其内反问",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0061:p0073:u002",
+            "start": 3,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灵宝望远，鱼海是其内反问",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "灵宝望远，鱼海是其内反问",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灵宝望远，鱼海是其内反问"
+      },
+      {
+        "reference": "v04-c0061:p0074",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0074:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "分隔",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "分隔"
+      },
+      {
+        "reference": "v04-c0061:p0075",
+        "length": 26,
+        "sha256": "6887aa091b91080560846421927ac83c7eabcf9b91db7ac89c0fa8fec7f63c44",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0075:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "另场鱼海几喇嘛袍僧浮空",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "另场鱼海几喇嘛袍僧浮空",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "另场鱼海几喇嘛袍僧浮空"
+      },
+      {
+        "reference": "v04-c0061:p0076",
+        "length": 20,
+        "sha256": "79cbabbda1bbdcb5fcbc27322a18c97edf5d89948cd4a0082935f974f0f2b225",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0076:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "数人对视点头，首者沉声欲说",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "数人对视点头，首者沉声欲说",
+            "focalizer": "v04c061_lama_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "数人对视点头，首者沉声欲说"
+      },
+      {
+        "reference": "v04-c0061:p0077",
+        "length": 6,
+        "sha256": "1244452d9a45dcc0a28ba12da87f9d60a7a36dd4fa0a88f46e23effc484a62eb",
+        "units": [
+          {
+            "unit_id": "v04-c0061:p0077:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c061_lama_leader",
+            "surface_identity": "v04c061_lama_leader",
+            "text_context": "无名首者实说开始，具体手段还没呈现",
+            "world_context": "第四卷：救空闻分工、三丹实成、求陆与鱼海阵眼",
+            "stage_context": "搜魂报鱼海及喇嘛开令",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "6200已到账，3700用于补料炼制及玉瓶，三丹已成，未服未卖；奖式未发，陆答应同行。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "搜魂所得指阵眼鱼海，另一场僧人只下开始令。可见三丹和预想交流分别记录，不在章末补第二次出山细节。",
+            "knowledge_boundary": "无名首者实说开始，具体手段还没呈现",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "无名首者实说开始，具体手段还没呈现"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0061",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S09",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 17,
+        "label": "密室分工与奖约",
+        "direction": "灵宝踱步盘算妖族应对，站定后才交代用韩广不知被发现的优势。许献一式八九法身招系事后条件，孟想落袋只在心里。开门后令九娘明面搜寻，自己暗护。 证据 v04-c0061:p0001–p0017。"
+      },
+      {
+        "paragraph_start": 18,
+        "paragraph_end": 42,
+        "label": "三枚长生丹实成",
+        "direction": "先放已成交物与留用品的取舍，再以药香和玉柱升云显示实际炼成。把三枚的惊喜、成本和想象中的收益分拍，拍卖会仍留在内心。 证据 v04-c0061:p0018–p0042。"
+      },
+      {
+        "paragraph_start": 43,
+        "paragraph_end": 68,
+        "label": "画眉山庄见陆大",
+        "direction": "佩刀孟用有约取得门人通传。叶乘寒风而至，听传音即改向坟旁草庐；不补未给出的叙事对白。陆停耕、得剑、邀苏同去少林，孟在内心把去处与碎片联系起来。 证据 v04-c0061:p0043–p0068。"
+      },
+      {
+        "paragraph_start": 70,
+        "paragraph_end": 77,
+        "label": "搜魂报阵眼，鱼海另场开令",
+        "direction": "两僧已倒地，瞿搜物搜魂后低声报阵眼鱼海，灵宝转看。独立一拍给鱼海上空几名喇嘛互视，首者下令，尚不揭如何行动。 证据 v04-c0061:p0070–p0077。"
+      }
+    ],
+    "knowledge_rule": "第69、74段为分隔。明确奖励与拍卖尚未发生，三丹已成；识阵眼来自瞿的搜魂与口述。"
+  }
 }

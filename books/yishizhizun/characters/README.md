@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [仙迹分援及孟奇求画眉山庄](early-v04-Xianji-divides-the-Kong-Wen-rescue.md) | 第四卷第61章历史归属回补 |
+| [六千二百善功到账与三枚东极长生丹](early-v04-three-Dongji-longevity-pills.md) | 第四卷第61章历史归属回补 |
+| [瞿九娘搜魂所得阵眼鱼海](early-v04-Jiuniang-learns-the-Fish-Sea-array-eye.md) | 第四卷第61章历史归属回补 |
 | [犬环辨物、人族残躯及江孟分别](early-v04-meng-jiang-appraise-the-hound-and-part-ways.md) | 第四卷第60章历史归属回补 |
 | [碧游暂封门、七件玉柱鉴定](early-v04-seven-treasure-appraisals-and-sealed-door.md) | 第四卷第60章历史归属回补 |
 | [灵宝以五色神掌推孔雀妖王太离](early-v04-Lingbao-infers-Taili-and-the-other-dharma-body.md) | 第四卷第60章历史归属回补 |
