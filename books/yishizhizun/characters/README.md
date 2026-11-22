@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [空闻、陆大与孟在峰顶感霸王余息](early-v04-overlord-trace-at-the-fragment-summit.md) | 第四卷第63章历史归属回补 |
+| [总纲现为枯荣菩提，诸法身争取](early-v04-Fish-Sea-Pipal-tree-emerges.md) | 第四卷第63章历史归属回补 |
+| [韩广显帝相，冲和一人立诛仙剑阵](early-v04-Han-Guang-revealed-and-Chonghe-sword-formation.md) | 第四卷第63章历史归属回补 |
 | [十二因缘结界成金刚及诸派实入局](early-v04-Fish-Sea-vajra-and-sect-forces-arrive.md) | 第四卷第62章历史归属回补 |
 | [太离五色发与三妖王对峙](early-v04-Tai-Li-and-the-dharma-body-standoff.md) | 第四卷第62章历史归属回补 |
 | [陆大入碎片，一剑救出真空闻](early-v04-Lu-Da-breaks-the-prison-and-confirms-Kong-Wen.md) | 第四卷第62章历史归属回补 |
