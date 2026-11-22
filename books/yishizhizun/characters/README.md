@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [十二因缘结界成金刚及诸派实入局](early-v04-Fish-Sea-vajra-and-sect-forces-arrive.md) | 第四卷第62章历史归属回补 |
+| [太离五色发与三妖王对峙](early-v04-Tai-Li-and-the-dharma-body-standoff.md) | 第四卷第62章历史归属回补 |
+| [陆大入碎片，一剑救出真空闻](early-v04-Lu-Da-breaks-the-prison-and-confirms-Kong-Wen.md) | 第四卷第62章历史归属回补 |
 | [仙迹分援及孟奇求画眉山庄](early-v04-Xianji-divides-the-Kong-Wen-rescue.md) | 第四卷第61章历史归属回补 |
 | [六千二百善功到账与三枚东极长生丹](early-v04-three-Dongji-longevity-pills.md) | 第四卷第61章历史归属回补 |
 | [瞿九娘搜魂所得阵眼鱼海](early-v04-Jiuniang-learns-the-Fish-Sea-array-eye.md) | 第四卷第61章历史归属回补 |
