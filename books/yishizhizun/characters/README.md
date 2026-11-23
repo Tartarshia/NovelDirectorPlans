@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟中断任务求助，灵宝带他强入](early-v04-Meng-aborts-mission-and-Lingbao-forces-entry.md) | 第四卷第75章历史归属回补 |
+| [药精领路，孟开金门并见规定碑](early-v04-Kunlun-gold-gates-and-world-rule-steles.md) | 第四卷第75章历史归属回补 |
+| [末碑空白处留玉虚门下杨戬落款](early-v04-Yang-Jian-signature-on-the-final-stele.md) | 第四卷第75章历史归属回补 |
 | [孟奇以小成阴阳变反转血日](early-v04-Yin-Yang-Reversal-against-Chen-Wendeng.md) | 第四卷第74章历史归属回补 |
 | [方不同体内之物自称昆仑灵药](early-v04-Kunlun-medicine-spirit-speaks-through-Fang.md) | 第四卷第74章历史归属回补 |
 | [封印位置问得，孟奇决定另请灵宝](early-v04-Sealed-site-claims-and-Meng-plans-to-bring-Lingbao.md) | 第四卷第74章历史归属回补 |
