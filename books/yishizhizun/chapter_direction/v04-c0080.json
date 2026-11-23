@@ -61,7 +61,2291 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0248"
+  "reading_batch": "batch-0248",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0080",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0080.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0080:p0001",
+        "length": 34,
+        "sha256": "bc784edc5047b776acc7f5b0e2b56c51d071bbebe959876a94f91471c0e5284c",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0001:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟在人群实际改貌，与船内前辈分开",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "孟在人群实际改貌，与船内前辈分开",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟在人群实际改貌，与船内前辈分开"
+      },
+      {
+        "reference": "v04-c0080:p0002",
+        "length": 57,
+        "sha256": "fc9843c93070ddc37835f21ae86d418b9c1d109e99bedaebab272e73dfa9e1b7",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0002:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "为避王氏耳目，没公开以狂刀身份见附属队",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "为避王氏耳目，没公开以狂刀身份见附属队",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "为避王氏耳目，没公开以狂刀身份见附属队"
+      },
+      {
+        "reference": "v04-c0080:p0003",
+        "length": 107,
+        "sha256": "94f92fc94dc53384b1c53abd6189003ca5557c22cdcf34f9ca6a95656654d250",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0003:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟决定暂不处理匿名信，给三位法身透露只是备选",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "孟决定暂不处理匿名信，给三位法身透露只是备选",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0003:u002",
+            "start": 43,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟决定暂不处理匿名信，给三位法身透露只是备选",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "孟决定暂不处理匿名信，给三位法身透露只是备选",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0003:u003",
+            "start": 69,
+            "end": 107,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟决定暂不处理匿名信，给三位法身透露只是备选",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "孟决定暂不处理匿名信，给三位法身透露只是备选",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟决定暂不处理匿名信，给三位法身透露只是备选"
+      },
+      {
+        "reference": "v04-c0080:p0004",
+        "length": 115,
+        "sha256": "5e2f8f9a43b2a62bcef4a2894f3d8c3ec135cdacc8bb07f41747002779cc1fc4",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0004:u001",
+            "start": 0,
+            "end": 115,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟复盘匿名寄者知情程度，没定来源",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "孟复盘匿名寄者知情程度，没定来源",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟复盘匿名寄者知情程度，没定来源"
+      },
+      {
+        "reference": "v04-c0080:p0005",
+        "length": 116,
+        "sha256": "54a3459339d9bb4929d6ce11e88806070cbf870cc585d7269774e91c338851f3",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0005:u001",
+            "start": 0,
+            "end": 116,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟猜韩广或王思远合伙者、王家反水者，皆未证",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "孟猜韩广或王思远合伙者、王家反水者，皆未证",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟猜韩广或王思远合伙者、王家反水者，皆未证"
+      },
+      {
+        "reference": "v04-c0080:p0006",
+        "length": 72,
+        "sha256": "4e17eb5babc6249431dae9aec0bdc328d8be70eb3e9d1ea125df8f16e10113d4",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0006:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟放下石门之疑，实际转筹拍卖",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "孟放下石门之疑，实际转筹拍卖",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0006:u002",
+            "start": 49,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟放下石门之疑，实际转筹拍卖",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "孟放下石门之疑，实际转筹拍卖",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟放下石门之疑，实际转筹拍卖"
+      },
+      {
+        "reference": "v04-c0080:p0007",
+        "length": 74,
+        "sha256": "0f20886be7fdf83d7e43e67be7b310b455da2ab3cf2e08b3fced79b931f8252a",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0007:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "计划用两粒东极长生丹并其他万象延寿物支撑拍卖，未成交",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "计划用两粒东极长生丹并其他万象延寿物支撑拍卖，未成交",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "计划用两粒东极长生丹并其他万象延寿物支撑拍卖，未成交"
+      },
+      {
+        "reference": "v04-c0080:p0008",
+        "length": 86,
+        "sha256": "ba3f1a517d9c907ef12ab9dede8539fb6cec3668b5a5cc0474f5cd4a2e3fc29f",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0008:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "因灵宝在查药精与六道，孟锁定仙迹同伴言无我镇场",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "因灵宝在查药精与六道，孟锁定仙迹同伴言无我镇场",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "因灵宝在查药精与六道，孟锁定仙迹同伴言无我镇场"
+      },
+      {
+        "reference": "v04-c0080:p0009",
+        "length": 116,
+        "sha256": "63595b8be4aff28258cd1f53425a328eb7fe6f9567792347e0cc351d3bc13aa4",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0009:u001",
+            "start": 0,
+            "end": 116,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实际奔岁鬼山，芥子环留身；下次专属渠道寄卖未发生",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "转筹延寿丹拍卖",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "实际奔岁鬼山，芥子环留身；下次专属渠道寄卖未发生",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际奔岁鬼山，芥子环留身；下次专属渠道寄卖未发生"
+      },
+      {
+        "reference": "v04-c0080:p0010",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0010:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0080:p0011",
+        "length": 19,
+        "sha256": "b288f177d15b801c12e21e6c0534d1402136706c061015cf4aa79d399b3de37c",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0011:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真武山螣蛇峰静室",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "真武山螣蛇峰静室",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真武山螣蛇峰静室"
+      },
+      {
+        "reference": "v04-c0080:p0012",
+        "length": 71,
+        "sha256": "c68fc75b0b0a468a58288796ab497c0e6a2e0e2f899b1bd1855fc1015ddc4440",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0012:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "白眉须老者盘坐汲寒，泥丸上道冠垂赤焰",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "白眉须老者盘坐汲寒，泥丸上道冠垂赤焰",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "白眉须老者盘坐汲寒，泥丸上道冠垂赤焰"
+      },
+      {
+        "reference": "v04-c0080:p0013",
+        "length": 51,
+        "sha256": "d939650eeedee06d20d5fcdf35462ace32d3f315e04a36ec4ca1ff7f2a855bf4",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0013:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阴阳鱼同时纳寒热，龟背太极为比喻",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阴阳鱼同时纳寒热，龟背太极为比喻",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阴阳鱼同时纳寒热，龟背太极为比喻"
+      },
+      {
+        "reference": "v04-c0080:p0014",
+        "length": 34,
+        "sha256": "a4a737f677245958fd072e22ff8d70f664e729c553a90fb143e843e84e9db7d9",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0014:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阴阳鱼开始与肉身重叠，非一般归回",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阴阳鱼开始与肉身重叠，非一般归回",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阴阳鱼开始与肉身重叠，非一般归回"
+      },
+      {
+        "reference": "v04-c0080:p0015",
+        "length": 46,
+        "sha256": "b080a9e9336945545915546bfc1c9f358d55929733970e7d57904541516765b7",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0015:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "静室声闷、皮龟纹一亮复暗",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "静室声闷、皮龟纹一亮复暗",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "静室声闷、皮龟纹一亮复暗"
+      },
+      {
+        "reference": "v04-c0080:p0016",
+        "length": 17,
+        "sha256": "8f23f3102b5a2a966ce110877ed6685f57ca8e0878ce888771ac71aac306bb08",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0016:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "太极图钻入身体",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "太极图钻入身体",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "太极图钻入身体"
+      },
+      {
+        "reference": "v04-c0080:p0017",
+        "length": 21,
+        "sha256": "46766bca260b680c2037aabf4517f5405ababa38ac9b8b89d6c72b1009e5f262",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0017:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者嘴角溢血，突破未成功",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老者嘴角溢血，突破未成功",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者嘴角溢血，突破未成功"
+      },
+      {
+        "reference": "v04-c0080:p0018",
+        "length": 10,
+        "sha256": "019ecb099a08d3d0d13b7e013c5273bdd7ce5205cda28a9e676dff1bef50d007",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0018:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "老者自叹太急，非对别人讲话",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "实际言语",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老者自叹太急，非对别人讲话",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者自叹太急，非对别人讲话"
+      },
+      {
+        "reference": "v04-c0080:p0019",
+        "length": 93,
+        "sha256": "a7550c322b743aca5985d625b0dac52b7fb6d9a4671271350f99e1a96eb7067b",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0019:u001",
+            "start": 0,
+            "end": 93,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "106岁成宗师、过五十余年仅进一重，寿元家忧",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "106岁成宗师、过五十余年仅进一重，寿元家忧",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "106岁成宗师、过五十余年仅进一重，寿元家忧"
+      },
+      {
+        "reference": "v04-c0080:p0020",
+        "length": 103,
+        "sha256": "bae5c0421350675f2587f0e9b8594ca53ec5445dd47cc3ae0c5cae9f55534947",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0020:u001",
+            "start": 0,
+            "end": 103,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "延寿药已经多服，外景两至三甲子为背景范围",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "延寿药已经多服，外景两至三甲子为背景范围",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "延寿药已经多服，外景两至三甲子为背景范围"
+      },
+      {
+        "reference": "v04-c0080:p0021",
+        "length": 42,
+        "sha256": "5cec6cf99c613a1130d45984c34f16a6453be41de695abc7d099d1d6ce805c78",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0021:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "老祖自言不突破最多二十年",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "实际言语",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖自言不突破最多二十年",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0021:u002",
+            "start": 20,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老祖自言不突破最多二十年",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖自言不突破最多二十年",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖自言不突破最多二十年"
+      },
+      {
+        "reference": "v04-c0080:p0022",
+        "length": 57,
+        "sha256": "ed0b8b2c34628cb5cfd865b8c9a2c509c37059dee84f3c0be67c77fdfed21ff8",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0022:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "晋半步法身约再十年，死生两化丹增三十但有资格限制",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "晋半步法身约再十年，死生两化丹增三十但有资格限制",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "晋半步法身约再十年，死生两化丹增三十但有资格限制"
+      },
+      {
+        "reference": "v04-c0080:p0023",
+        "length": 96,
+        "sha256": "ba237c73eacaf24fff8874059c87b6084b50061483776c2c07d592e61f562bcd",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0023:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "自语乐观可再四十加二十，仍知无机缘难成",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "实际言语",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "自语乐观可再四十加二十，仍知无机缘难成",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0023:u002",
+            "start": 35,
+            "end": 96,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "自语乐观可再四十加二十，仍知无机缘难成",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "自语乐观可再四十加二十，仍知无机缘难成",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "自语乐观可再四十加二十，仍知无机缘难成"
+      },
+      {
+        "reference": "v04-c0080:p0024",
+        "length": 37,
+        "sha256": "517f07f371e2bd36da3a35fe2e45d4b2e81fa7b5f7d00380936a678fe49e8bce",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0024:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "颤手显哀伤",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "颤手显哀伤",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "颤手显哀伤"
+      },
+      {
+        "reference": "v04-c0080:p0025",
+        "length": 64,
+        "sha256": "9954cc127b19d98b493e39083a96eb3449213eb13f079c1e552321f52ec82567",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0025:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "老祖自言假想张远山若不死的成长",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "实际言语",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖自言假想张远山若不死的成长",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖自言假想张远山若不死的成长"
+      },
+      {
+        "reference": "v04-c0080:p0026",
+        "length": 28,
+        "sha256": "405ca4bcfd6786f7a551e1deca08f5f1b8167efe0c572a5e5c1e2d3f29d776f4",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0026:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "老祖实怒说若查到凶手必报，凶手未明",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "实际言语",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖实怒说若查到凶手必报，凶手未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖实怒说若查到凶手必报，凶手未明"
+      },
+      {
+        "reference": "v04-c0080:p0027",
+        "length": 131,
+        "sha256": "8183bf9535b281194d1f6a50464949d40fde832998c4809163731ae11ce74151",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0027:u001",
+            "start": 0,
+            "end": 131,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁叙张家青黄不接、张远山游历中横死为家方所知",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "旁叙张家青黄不接、张远山游历中横死为家方所知",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁叙张家青黄不接、张远山游历中横死为家方所知"
+      },
+      {
+        "reference": "v04-c0080:p0028",
+        "length": 62,
+        "sha256": "6d603c46fdc0802c51716157df23d853cd16bda07e5035d18b9f4d15909cf81d",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0028:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "老祖实自劝晚成后辈仍可能",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "实际言语",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖实自劝晚成后辈仍可能",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0028:u002",
+            "start": 50,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老祖实自劝晚成后辈仍可能",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家老祖试突破与惜远山",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖实自劝晚成后辈仍可能",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖实自劝晚成后辈仍可能"
+      },
+      {
+        "reference": "v04-c0080:p0029",
+        "length": 26,
+        "sha256": "f658f81558720e78804182cb70cae1e359352f62c4cd907744feef19a7b4efa2",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0029:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "磬钟实响唤祖",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "磬钟实响唤祖",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "磬钟实响唤祖"
+      },
+      {
+        "reference": "v04-c0080:p0030",
+        "length": 41,
+        "sha256": "e87509ea114ddfd9cdbcac207cda3e6fc60bd505ceaef2a507beee49e524ab03",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0030:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "祖内疑事，开门见张亭斋",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "内心",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "祖内疑事，开门见张亭斋",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0030:u002",
+            "start": 6,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "祖内疑事，开门见张亭斋",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "祖内疑事，开门见张亭斋",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "祖内疑事，开门见张亭斋"
+      },
+      {
+        "reference": "v04-c0080:p0031",
+        "length": 34,
+        "sha256": "5a51f17b6772345fffc63838fcc6f4232ae580bc9d469d0209241f580bc144b7",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0031:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_tingzhai",
+            "surface_identity": "zhang_tingzhai",
+            "text_context": "张亭斋实际恭递暗红请柬",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "张亭斋实际恭递暗红请柬",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0031:u002",
+            "start": 18,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张亭斋实际恭递暗红请柬",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "张亭斋实际恭递暗红请柬",
+            "focalizer": "zhang_tingzhai",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张亭斋实际恭递暗红请柬"
+      },
+      {
+        "reference": "v04-c0080:p0032",
+        "length": 31,
+        "sha256": "47b4ac501717ceb5b88f7562c9629781c5b11491562ff68102e0aea9cc1cda81",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0032:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "祖对请柬疑问，未明确是出声",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "张老祖疑问，出声方式未明",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "祖对请柬疑问，未明确是出声",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0032:u002",
+            "start": 5,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "祖对请柬疑问，未明确是出声",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "祖对请柬疑问，未明确是出声",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "祖对请柬疑问，未明确是出声"
+      },
+      {
+        "reference": "v04-c0080:p0033",
+        "length": 21,
+        "sha256": "2559e1c3d7480bad7b5b70fbd72624d7ec549b1eb50f27864bb67a06fefe7e6a",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0033:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "祖检查后展开，下面为请柬文字",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "祖检查后展开，下面为请柬文字",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "祖检查后展开，下面为请柬文字"
+      },
+      {
+        "reference": "v04-c0080:p0034",
+        "length": 60,
+        "sha256": "4cded4d423e10d45170597616e278de805831a01a3a3bf9b0bbb517e59ec01e4",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0034:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张家版写六月十五月圆前东海望潮石竞价，并指定楼兰石蜃龙草等",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "请柬书面文字，无现场读声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "张家版写六月十五月圆前东海望潮石竞价，并指定楼兰石蜃龙草等",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张家版写六月十五月圆前东海望潮石竞价，并指定楼兰石蜃龙草等"
+      },
+      {
+        "reference": "v04-c0080:p0035",
+        "length": 32,
+        "sha256": "81a80d5b5995486e18637d7eed6850cdb80f16206dc158967fc9b559ceb15336",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0035:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "老祖认丹惊动，手青筋突起",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "内心",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖认丹惊动，手青筋突起",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0035:u002",
+            "start": 6,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老祖认丹惊动，手青筋突起",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖认丹惊动，手青筋突起",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖认丹惊动，手青筋突起"
+      },
+      {
+        "reference": "v04-c0080:p0036",
+        "length": 52,
+        "sha256": "14722ed0e7bd429e40b52727365b08bd00c21c20861a1bc110c3d3d71d90f37e",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0036:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老祖所知青帝药与可延一甲子，疗效未实试",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖所知青帝药与可延一甲子，疗效未实试",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖所知青帝药与可延一甲子，疗效未实试"
+      },
+      {
+        "reference": "v04-c0080:p0037",
+        "length": 48,
+        "sha256": "6c3e80628dff72821bdf252d41043551f5e36ccbba3bbc59d0f2d60082db6b0d",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0037:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "他以内心一甲子盘算见希望",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "内心",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "他以内心一甲子盘算见希望",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0037:u002",
+            "start": 19,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "他以内心一甲子盘算见希望",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "他以内心一甲子盘算见希望",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "他以内心一甲子盘算见希望"
+      },
+      {
+        "reference": "v04-c0080:p0038",
+        "length": 60,
+        "sha256": "3f37a82c2bd2f7b13a5b93e5dbf1cb03d620338d9042dc64d9a7ef0cb5c18674",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0038:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "inner_speech",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "老祖决定即使可能为骗局仍愿试，逃脱是估计",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "内心",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖决定即使可能为骗局仍愿试，逃脱是估计",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖决定即使可能为骗局仍愿试，逃脱是估计"
+      },
+      {
+        "reference": "v04-c0080:p0039",
+        "length": 47,
+        "sha256": "4b5f4f1bdb572034f647f74864894cd006bd4f90e7a6291176e1ae75f585206f",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0039:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "老祖疑请柬点名带多项材料",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "内心",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖疑请柬点名带多项材料",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0039:u002",
+            "start": 24,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老祖疑请柬点名带多项材料",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老祖疑请柬点名带多项材料",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老祖疑请柬点名带多项材料"
+      },
+      {
+        "reference": "v04-c0080:p0040",
+        "length": 17,
+        "sha256": "efa8039f013c7dad43c520ebd03c74865d9987aa5db7ca2460633e99aac350ea",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0040:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "目光移到署名",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "目光移到署名",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "目光移到署名"
+      },
+      {
+        "reference": "v04-c0080:p0041",
+        "length": 12,
+        "sha256": "bc157ef9e2b7bde1f7a2923e3f7d45ff94db62f0f25e944bfc2a052c2f4228ae",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0041:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "请柬署行善积德家有余庆，非一句台词",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "请柬书面文字，无现场读声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "请柬署行善积德家有余庆，非一句台词",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "请柬署行善积德家有余庆，非一句台词"
+      },
+      {
+        "reference": "v04-c0080:p0042",
+        "length": 75,
+        "sha256": "b30a53e1920f1406a97b72f77df23723ad90e462194528eb5d7a0027786d3498",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0042:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "祖不能由署名认人，实决心筹材料",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "内心",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "祖不能由署名认人，实决心筹材料",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0042:u002",
+            "start": 19,
+            "end": 75,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "祖不能由署名认人，实决心筹材料",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "祖不能由署名认人，实决心筹材料",
+            "focalizer": "zhang_family_ancestor",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "祖不能由署名认人，实决心筹材料"
+      },
+      {
+        "reference": "v04-c0080:p0043",
+        "length": 31,
+        "sha256": "0d6ce93a0b059be7de6f142c1abc6f52142b1b8848c936e0ef9d32c69b4e6b81",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0043:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "inner_speech",
+            "speaker": "zhang_family_ancestor",
+            "surface_identity": "真武派张家老祖，本章无实名",
+            "text_context": "背靠真武一个多月或可凑，未凑齐",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "张家请柬及筹料",
+            "channel": "内心",
+            "embodiment": "龟纹黯淡吐血，后手青筋和悲怆",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "背靠真武一个多月或可凑，未凑齐",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "背靠真武一个多月或可凑，未凑齐"
+      },
+      {
+        "reference": "v04-c0080:p0044",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0044:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0080:p0045",
+        "length": 8,
+        "sha256": "fa029097afc657fd174848ad6b0e45461b071993be2625141fd7efaf918e069e",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0045:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "琅琊阮氏祖宅",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "琅琊阮氏祖宅",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "琅琊阮氏祖宅"
+      },
+      {
+        "reference": "v04-c0080:p0046",
+        "length": 27,
+        "sha256": "5aa93ce1cf54399265f5fab9a01891705495f457b01486b92a0e9a114b79e2c8",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0046:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮老爷子闭眼听弦，精神未显老态",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮老爷子闭眼听弦，精神未显老态",
+            "focalizer": "ruan_family_grandfather",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮老爷子闭眼听弦，精神未显老态"
+      },
+      {
+        "reference": "v04-c0080:p0047",
+        "length": 29,
+        "sha256": "7f0f3606d325d536833fe63de458411217648b5926863d912ff0d58cd38c4223",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0047:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮管家实送指名请帖",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮管家实送指名请帖",
+            "focalizer": "v04c080_ruan_butler",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0047:u002",
+            "start": 12,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c080_ruan_butler",
+            "surface_identity": "v04c080_ruan_butler",
+            "text_context": "阮管家实送指名请帖",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮管家实送指名请帖",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮管家实送指名请帖"
+      },
+      {
+        "reference": "v04-c0080:p0048",
+        "length": 33,
+        "sha256": "091858908464b069fd73a7cb75160c7d8130452da6e28f617eb022874eccdc4c",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0048:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮示意晚辈退下，遥摄请帖",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮示意晚辈退下，遥摄请帖",
+            "focalizer": "ruan_family_grandfather",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮示意晚辈退下，遥摄请帖"
+      },
+      {
+        "reference": "v04-c0080:p0049",
+        "length": 47,
+        "sha256": "6de8c100f608486c6be4a1b050440c9944c3ba66517f7bdd739f8bfde29f9b9d",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0049:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮版请帖时地竞价同，未列张家所需材料",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "请柬书面文字，无现场读声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮版请帖时地竞价同，未列张家所需材料",
+            "focalizer": "ruan_family_grandfather",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮版请帖时地竞价同，未列张家所需材料"
+      },
+      {
+        "reference": "v04-c0080:p0050",
+        "length": 12,
+        "sha256": "bc157ef9e2b7bde1f7a2923e3f7d45ff94db62f0f25e944bfc2a052c2f4228ae",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0050:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮版同署行善积德家有余庆，未朗读",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "请柬书面文字，无现场读声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮版同署行善积德家有余庆，未朗读",
+            "focalizer": "ruan_family_grandfather",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮版同署行善积德家有余庆，未朗读"
+      },
+      {
+        "reference": "v04-c0080:p0051",
+        "length": 73,
+        "sha256": "0eecac53690a44e7b97ba6e4c0d849d034cdf3a007f75265fbde8f365b4dd55d",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0051:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_family_grandfather",
+            "surface_identity": "琅琊阮老爷子",
+            "text_context": "老爷子实让三郎代行、多买其它延寿丹，自己此刻不用",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "实际言语",
+            "embodiment": "悠然听琴后遣退晚辈，言柔而自责",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老爷子实让三郎代行、多买其它延寿丹，自己此刻不用",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0051:u002",
+            "start": 8,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老爷子实让三郎代行、多买其它延寿丹，自己此刻不用",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老爷子实让三郎代行、多买其它延寿丹，自己此刻不用",
+            "focalizer": "ruan_family_grandfather",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0051:u003",
+            "start": 17,
+            "end": 73,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_family_grandfather",
+            "surface_identity": "琅琊阮老爷子",
+            "text_context": "老爷子实让三郎代行、多买其它延寿丹，自己此刻不用",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "实际言语",
+            "embodiment": "悠然听琴后遣退晚辈，言柔而自责",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "老爷子实让三郎代行、多买其它延寿丹，自己此刻不用",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老爷子实让三郎代行、多买其它延寿丹，自己此刻不用"
+      },
+      {
+        "reference": "v04-c0080:p0052",
+        "length": 52,
+        "sha256": "ca4052bf9bc8374f3ae1ac476a10a20cb9e5b196315a76688ca572a83cf8bb25",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0052:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮家先凑料一年，三炉失败后成过一炉",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮家先凑料一年，三炉失败后成过一炉",
+            "focalizer": "ruan_family_grandfather",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮家先凑料一年，三炉失败后成过一炉"
+      },
+      {
+        "reference": "v04-c0080:p0053",
+        "length": 17,
+        "sha256": "e0b3e90d1a9a633c9c8559a5160dcba8b9ff697ea7ab32215a8c80ec90314e2b",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0053:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c080_ruan_butler",
+            "surface_identity": "v04c080_ruan_butler",
+            "text_context": "管家惊问三爷",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "管家惊问三爷",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0053:u002",
+            "start": 5,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "管家惊问三爷",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "管家惊问三爷",
+            "focalizer": "v04c080_ruan_butler",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "管家惊问三爷"
+      },
+      {
+        "reference": "v04-c0080:p0054",
+        "length": 32,
+        "sha256": "5a14a1fd95afe43f9cb51e65e93178ce87cac90311d863a0849a4e43ab66e97c",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0054:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮实说当年三郎是过失非主责，自己曾迁怒",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮实说当年三郎是过失非主责，自己曾迁怒",
+            "focalizer": "ruan_family_grandfather",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0054:u002",
+            "start": 9,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_family_grandfather",
+            "surface_identity": "琅琊阮老爷子",
+            "text_context": "阮实说当年三郎是过失非主责，自己曾迁怒",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "实际言语",
+            "embodiment": "悠然听琴后遣退晚辈，言柔而自责",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮实说当年三郎是过失非主责，自己曾迁怒",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮实说当年三郎是过失非主责，自己曾迁怒"
+      },
+      {
+        "reference": "v04-c0080:p0055",
+        "length": 71,
+        "sha256": "a8394888fbf96fbe4fd24931f483651d7e6534707ee64d46b3320c9cecbcf8cc",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0055:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_family_grandfather",
+            "surface_identity": "琅琊阮老爷子",
+            "text_context": "阮实说阮二十一长成人榜前十，要解决弥补，旧事细节未知",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "实际言语",
+            "embodiment": "悠然听琴后遣退晚辈，言柔而自责",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮实说阮二十一长成人榜前十，要解决弥补，旧事细节未知",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0055:u002",
+            "start": 41,
+            "end": 71,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_family_grandfather",
+            "surface_identity": "琅琊阮老爷子",
+            "text_context": "阮实说阮二十一长成人榜前十，要解决弥补，旧事细节未知",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "实际言语",
+            "embodiment": "悠然听琴后遣退晚辈，言柔而自责",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "阮实说阮二十一长成人榜前十，要解决弥补，旧事细节未知",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮实说阮二十一长成人榜前十，要解决弥补，旧事细节未知"
+      },
+      {
+        "reference": "v04-c0080:p0056",
+        "length": 43,
+        "sha256": "56c9644c74e7715dffcbc52705205b15a14893a92b9a2654b05f8325f642def1",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0056:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "管家欣喜三爷脱困，称是未给逐字",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "阮家请柬和派三郎",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "管家欣喜三爷脱困，称是未给逐字",
+            "focalizer": "v04c080_ruan_butler",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "管家欣喜三爷脱困，称是未给逐字"
+      },
+      {
+        "reference": "v04-c0080:p0057",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0057:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0080:p0058",
+        "length": 36,
+        "sha256": "edba35c3622373087a6dc64c570b31142a3ed233414035ad85de49234b7b7069",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0058:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c080_tomb_elder",
+            "surface_identity": "v04c080_tomb_elder",
+            "text_context": "墓室干瘦老人实疑问丹，实捏碎太阳神石，未明姓名",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "更多临寿尽外景动身",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "墓室干瘦老人实疑问丹，实捏碎太阳神石，未明姓名",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0058:u002",
+            "start": 8,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "墓室干瘦老人实疑问丹，实捏碎太阳神石，未明姓名",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "更多临寿尽外景动身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "墓室干瘦老人实疑问丹，实捏碎太阳神石，未明姓名",
+            "focalizer": "v04c080_tomb_elder",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "墓室干瘦老人实疑问丹，实捏碎太阳神石，未明姓名"
+      },
+      {
+        "reference": "v04-c0080:p0059",
+        "length": 51,
+        "sha256": "6a89f28babcb2c1062bc6552239b9f5b19dff8cf5434846dd633015fc7b92ad0",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0059:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c080_bare_boned_hands",
+            "surface_identity": "v04c080_bare_boned_hands",
+            "text_context": "破庙骨手高瘦者实疑问同丹，姓名未明",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "更多临寿尽外景动身",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "破庙骨手高瘦者实疑问同丹，姓名未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0059:u002",
+            "start": 8,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "破庙骨手高瘦者实疑问同丹，姓名未明",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "更多临寿尽外景动身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "破庙骨手高瘦者实疑问同丹，姓名未明",
+            "focalizer": "v04c080_bare_boned_hands",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "破庙骨手高瘦者实疑问同丹，姓名未明"
+      },
+      {
+        "reference": "v04-c0080:p0060",
+        "length": 46,
+        "sha256": "fd52ec25ce914a794f6ba0e8cc069e4db24165bd458c6e71904aebacf61774db",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0060:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "诸地临寿尽外景暗往望潮石",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "更多临寿尽外景动身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "诸地临寿尽外景暗往望潮石",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "诸地临寿尽外景暗往望潮石"
+      },
+      {
+        "reference": "v04-c0080:p0061",
+        "length": 29,
+        "sha256": "3c4f7544b2038ca2ae0b54f743c9dcd6611c692458891f7da5a04fc49248d4af",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0061:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "与法身半步法身神兵牵连者获邀很少",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "更多临寿尽外景动身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "与法身半步法身神兵牵连者获邀很少",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "与法身半步法身神兵牵连者获邀很少"
+      },
+      {
+        "reference": "v04-c0080:p0062",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0062:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0080:p0063",
+        "length": 49,
+        "sha256": "3abc7f10827dd31bd9eeac41b520385a28052df808d9d35c7fa2cc537c8b9213",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0063:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "腐朽来者实到望潮石，看普通楼船并感旱热死寂",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "望潮石楼船与看船人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "腐朽来者实到望潮石，看普通楼船并感旱热死寂",
+            "focalizer": "v04c080_black_robed_arrival",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "腐朽来者实到望潮石，看普通楼船并感旱热死寂"
+      },
+      {
+        "reference": "v04-c0080:p0064",
+        "length": 22,
+        "sha256": "c9534fbe66cb8d713c77d8461eec7e15b2129aab5bfe6bfe8a78382a331dfa6b",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0064:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c080_black_robed_arrival",
+            "surface_identity": "未实名黑袍腐朽身影",
+            "text_context": "黑袍者对船内实叫老僵尸并惊",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "望潮石楼船与看船人",
+            "channel": "实际言语",
+            "embodiment": "声苍老，听老僵尸看船时目缩",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "黑袍者对船内实叫老僵尸并惊",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0064:u002",
+            "start": 9,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑袍者对船内实叫老僵尸并惊",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "望潮石楼船与看船人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "黑袍者对船内实叫老僵尸并惊",
+            "focalizer": "v04c080_black_robed_arrival",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑袍者对船内实叫老僵尸并惊"
+      },
+      {
+        "reference": "v04-c0080:p0065",
+        "length": 52,
+        "sha256": "c5fdffedf796ff7fc1f77e9cdbf80eeb764bf28dc3805ef63605f54c89472bff",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0065:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wuwo",
+            "surface_identity": "飞天夜叉，仅闻船内声、由来者识出",
+            "text_context": "船内人实称受托看船，不记得邀此人；按来客识别为言无我",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "望潮石楼船与看船人",
+            "channel": "楼船内传声，来者识为言无我",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "船内人实称受托看船，不记得邀此人；按来客识别为言无我",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0065:u002",
+            "start": 16,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "船内人实称受托看船，不记得邀此人；按来客识别为言无我",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "望潮石楼船与看船人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "船内人实称受托看船，不记得邀此人；按来客识别为言无我",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0065:u003",
+            "start": 36,
+            "end": 52,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wuwo",
+            "surface_identity": "飞天夜叉，仅闻船内声、由来者识出",
+            "text_context": "船内人实称受托看船，不记得邀此人；按来客识别为言无我",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "望潮石楼船与看船人",
+            "channel": "楼船内传声，来者识为言无我",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "船内人实称受托看船，不记得邀此人；按来客识别为言无我",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "船内人实称受托看船，不记得邀此人；按来客识别为言无我"
+      },
+      {
+        "reference": "v04-c0080:p0066",
+        "length": 53,
+        "sha256": "7d8ed70228164639d57f9690e34ffac453acab5a6a5bcf5e16af1b5d8c5214a5",
+        "units": [
+          {
+            "unit_id": "v04-c0080:p0066:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "v04c080_black_robed_arrival",
+            "surface_identity": "未实名黑袍腐朽身影",
+            "text_context": "黑袍者只识护卫飞天夜叉，推主办方神秘，未认孟",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "望潮石楼船与看船人",
+            "channel": "内心",
+            "embodiment": "声苍老，听老僵尸看船时目缩",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "黑袍者只识护卫飞天夜叉，推主办方神秘，未认孟",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0080:p0066:u002",
+            "start": 8,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑袍者只识护卫飞天夜叉，推主办方神秘，未认孟",
+            "world_context": "第四卷：寿丹筹拍、真武和阮家收到请柬、望潮石楼船",
+            "stage_context": "望潮石楼船与看船人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两粒东极丹待拍。张决议筹料、阮打算派三郎，未见两方交易。望潮石来者未被认邀，船内称受托看船。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "匿名来信作者仍是孟的猜想。邀请文本不是朗诵，张家版有材料要求，阮家版没有这行。",
+            "knowledge_boundary": "黑袍者只识护卫飞天夜叉，推主办方神秘，未认孟",
+            "focalizer": "v04c080_black_robed_arrival",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑袍者只识护卫飞天夜叉，推主办方神秘，未认孟"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0080",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S11",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 9,
+        "label": "改貌离开广陵，安排寿丹拍卖",
+        "direction": "孟混入人群改貌，心里重新盘信，停在不介入和留待或向法身转述的决策。让拍卖库存与需镇场的原因由旁白说明，然后背手转官道奔岁鬼山。 证据 v04-c0080:p0001–p0009。"
+      },
+      {
+        "paragraph_start": 11,
+        "paragraph_end": 28,
+        "label": "张家老祖试突破，伤后忧远山",
+        "direction": "暗室以寒气、赤焰和太极重叠起，龟纹亮后转暗、嘴角溢血。先低声叹心急，再自语寿限和家族。念到张远山时给颤手与语气骤重，杀害者此刻仍不明。 证据 v04-c0080:p0011–p0028。"
+      },
+      {
+        "paragraph_start": 29,
+        "paragraph_end": 43,
+        "label": "张版请柬，老祖决定筹料",
+        "direction": "磬钟打断静室，张亭斋递暗红函。按展开顺序显邀约、指定材料和署名，从手上青筋看到眼中又有希望。老祖仍虑骗局，决定去筹料。 证据 v04-c0080:p0029–p0043。"
+      },
+      {
+        "paragraph_start": 45,
+        "paragraph_end": 56,
+        "label": "阮版请柬，准三郎代赴",
+        "direction": "从老爷子听琴引到遣退晚辈后遥摄请帖。地点时间和署名与张版相同，这份不列材料。祖父用平和语气承认曾迁怒，说让三郎代往，管家的惊喜另给反应。 证据 v04-c0080:p0045–p0056。"
+      },
+      {
+        "paragraph_start": 58,
+        "paragraph_end": 66,
+        "label": "赴约者群像，言无我在船内",
+        "direction": "墓室捏石与破庙骨手各只给一问和可见特征，再到寿尽外景散赴东海。分隔后从黑袍人的视点看普通楼船，先闻言无我声再以其目光收缩，表明他只识看船人。 证据 v04-c0080:p0058–p0066。"
+      }
+    ],
+    "knowledge_rule": "来信作者未查。两份请柬各按原文展示，以六月十五月圆前同约望潮石；张版有材料指定，阮版无此行。章内未见寿丹成交。"
+  }
 }

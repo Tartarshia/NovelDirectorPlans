@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [张家老祖突破未遂，决意依请柬筹料](early-v04-Zhang-ancestor-lifespan-and-auction-invitation.md) | 第四卷第80章历史归属回补 |
+| [阮老爷子安排三郎代往寿丹拍卖](early-v04-Ruan-grandfather-sends-third-son-to-auction.md) | 第四卷第80章历史归属回补 |
+| [望潮石寿丹竞价，飞天夜叉受托看船](early-v04-Wangchao-auction-and-Yan-Wuwo-guarding-boat.md) | 第四卷第80章历史归属回补 |
 | [五名小队同伴首次在现实聚齐](early-v04-Guangling-team-meets-and-watches-ranked-duel.md) | 第四卷第79章历史归属回补 |
 | [改容白衣公子在舱内指点五人](early-v04-Meng-visits-the-team-as-the-white-robed-senior.md) | 第四卷第79章历史归属回补 |
 | [翁演雁回祝融，孟衍四招并留茶谱](early-v04-Weng-shows-one-strike-and-Meng-derives-four.md) | 第四卷第79章历史归属回补 |
