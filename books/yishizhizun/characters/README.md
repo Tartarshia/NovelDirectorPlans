@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [严宽自报姓名，有职司的隐秘墨者](early-v04-Yan-Kuan-named-as-a-secret-Mohist.md) | 第四卷第98章历史归属回补 |
+| [严宅经过一轮搜查，孟拟把追索引到城外](early-v04-Yan-house-searched-and-Meng-plans-to-leave.md) | 第四卷第98章历史归属回补 |
+| [田括说得狱中老道士提醒而查到阴谋](early-v04-Tian-Kuo-learned-from-an-unnamed-jailed-daoist.md) | 第四卷第98章历史归属回补 |
 | [齐展仿杏黄旗削首箭，江敲落魂钟乱次箭](early-v04-Qi-flag-and-Jiang-bell-against-two-arrows.md) | 第四卷第97章历史归属回补 |
 | [宫中弓手明为金光洞宗师，追令更急](early-v04-Jinguang-cave-master-orders-search.md) | 第四卷第97章历史归属回补 |
 | [孟左臂在厨房再生，墨者掩护孟齐](early-v04-Meng-regrows-arm-and-a-Mohist-shelters-two.md) | 第四卷第97章历史归属回补 |
