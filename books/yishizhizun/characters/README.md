@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [西山抖图后公羊增被锁，孟杀之并遥祭](early-v04-Gongyang-Zeng-dies-at-West-Hill.md) | 第四卷第102章历史归属回补 |
+| [魂灯熄消息令赤霞变更封城安排](early-v04-Chixia-revises-orders-after-soul-lamp-report.md) | 第四卷第102章历史归属回补 |
+| [对面狱中老道愿帮救人但需苏施主允诺](early-v04-Jailed-daoist-offers-help-with-a-condition.md) | 第四卷第102章历史归属回补 |
 | [江阮入牢一层，老道看相突然收声](early-v04-First-floor-prison-and-the-quiet-daoist.md) | 第四卷第101章历史归属回补 |
 | [公羊薄在画卷内遇袭身死](early-v04-Gongyang-Bo-dies-inside-the-replica-scroll.md) | 第四卷第101章历史归属回补 |
 | [公羊增抱尸后被图所困，孟以其形出府](early-v04-Gongyang-Zeng-captured-and-Meng-leaves-in-his-form.md) | 第四卷第101章历史归属回补 |
