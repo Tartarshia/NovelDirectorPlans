@@ -61,7 +61,3008 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0269"
+  "reading_batch": "batch-0269",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0101",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0101.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0101:p0001",
+        "length": 5,
+        "sha256": "1756536b58399d019adf1023bdc263723ab1e4e430b06f099391ed7f16fdb8fb",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0001:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "明示切上营大牢",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "明示切上营大牢",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "明示切上营大牢"
+      },
+      {
+        "reference": "v04-c0101:p0002",
+        "length": 61,
+        "sha256": "4de79c76fbda2f4ad47ccd8bbd9c753c0f6ad334aecb5317e7d4a3a9dacc33a6",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0002:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮实押来，吕文当值喝问有无将佐",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮实押来，吕文当值喝问有无将佐",
+            "focalizer": "lu_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0002:u002",
+            "start": 52,
+            "end": 61,
+            "kind": "spoken_dialogue",
+            "speaker": "lu_wen",
+            "surface_identity": "lu_wen",
+            "text_context": "江阮实押来，吕文当值喝问有无将佐",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮实押来，吕文当值喝问有无将佐",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮实押来，吕文当值喝问有无将佐"
+      },
+      {
+        "reference": "v04-c0101:p0003",
+        "length": 46,
+        "sha256": "d3214ee4ea53d59494a26752f5bbc8b5ed77d319ede1df299916b2428ea6fbf3",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0003:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "押解将佐确实报告为姜行一伙，并呈手令和腰牌",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "押解将佐确实报告为姜行一伙，并呈手令和腰牌",
+            "focalizer": "v04c0101_escort_officer",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0003:u002",
+            "start": 22,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c0101_escort_officer",
+            "surface_identity": "v04c0101_escort_officer",
+            "text_context": "押解将佐确实报告为姜行一伙，并呈手令和腰牌",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "押解将佐确实报告为姜行一伙，并呈手令和腰牌",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "押解将佐确实报告为姜行一伙，并呈手令和腰牌"
+      },
+      {
+        "reference": "v04-c0101:p0004",
+        "length": 53,
+        "sha256": "2b556a1e12915b6be0f03601c6be3d4c88d337679bcec458b482d7e38cf54f10",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0004:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "吕文验讫开口轻嘲姜行，底本此处称腰佩",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "吕文验讫开口轻嘲姜行，底本此处称腰佩",
+            "focalizer": "lu_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0004:u002",
+            "start": 30,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "lu_wen",
+            "surface_identity": "lu_wen",
+            "text_context": "吕文验讫开口轻嘲姜行，底本此处称腰佩",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "吕文验讫开口轻嘲姜行，底本此处称腰佩",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0004:u003",
+            "start": 34,
+            "end": 53,
+            "kind": "spoken_dialogue",
+            "speaker": "lu_wen",
+            "surface_identity": "lu_wen",
+            "text_context": "吕文验讫开口轻嘲姜行，底本此处称腰佩",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "吕文验讫开口轻嘲姜行，底本此处称腰佩",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "吕文验讫开口轻嘲姜行，底本此处称腰佩"
+      },
+      {
+        "reference": "v04-c0101:p0005",
+        "length": 117,
+        "sha256": "18223a0787a9a4f7cf1feb73ebbf5abc2b9a0333f431064c56b6965f1a052e40",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0005:u001",
+            "start": 0,
+            "end": 117,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "姜行确属外景，此时元神被禁，没有对白",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "姜行确属外景，此时元神被禁，没有对白",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "姜行确属外景，此时元神被禁，没有对白"
+      },
+      {
+        "reference": "v04-c0101:p0006",
+        "length": 91,
+        "sha256": "f4f855c8e12ac319fb4a0bcd1b5f1910847098febfe62914bfff21b7ff160fdb",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0006:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "吕文令姜行下五层，余押一层并抽问线索",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "吕文令姜行下五层，余押一层并抽问线索",
+            "focalizer": "lu_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0006:u002",
+            "start": 21,
+            "end": 91,
+            "kind": "spoken_dialogue",
+            "speaker": "lu_wen",
+            "surface_identity": "lu_wen",
+            "text_context": "吕文令姜行下五层，余押一层并抽问线索",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "吕文令姜行下五层，余押一层并抽问线索",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "吕文令姜行下五层，余押一层并抽问线索"
+      },
+      {
+        "reference": "v04-c0101:p0007",
+        "length": 152,
+        "sha256": "424cc9199df167f75e78cedf84a37f4d9c45e9c55e855d17621b549198b03af8",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0007:u001",
+            "start": 0,
+            "end": 152,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白交代王族受监视、牢中人手紧约及不细鞫原因",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "旁白交代王族受监视、牢中人手紧约及不细鞫原因",
+            "focalizer": "lu_wen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白交代王族受监视、牢中人手紧约及不细鞫原因"
+      },
+      {
+        "reference": "v04-c0101:p0008",
+        "length": 69,
+        "sha256": "33e7bd33bf61ef62f1d60f7dd3098c2e2f758e77bbf44562f769a11ee51c5283",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0008:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "牢六层，下二层可关外景且有被抓墨者，上四层普通",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "牢六层，下二层可关外景且有被抓墨者，上四层普通",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "牢六层，下二层可关外景且有被抓墨者，上四层普通"
+      },
+      {
+        "reference": "v04-c0101:p0009",
+        "length": 69,
+        "sha256": "25ca2c31e32e4d0cf4b2746377f6311d0b311d0d36feab7729d89df3a8c9e9d9",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0009:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮以男子外观真正进入一层一牢房",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮以男子外观真正进入一层一牢房",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮以男子外观真正进入一层一牢房"
+      },
+      {
+        "reference": "v04-c0101:p0010",
+        "length": 62,
+        "sha256": "cb0537dbb8c4a819b036916b4507361b463d21bb3c14d7f916361fa4f1fbe6c4",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0010:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "二人借人群转位，同姜行部众混开",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "二人借人群转位，同姜行部众混开",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二人借人群转位，同姜行部众混开"
+      },
+      {
+        "reference": "v04-c0101:p0011",
+        "length": 60,
+        "sha256": "168c6203e754e113187828f5b898f2696b9537c685d7029927f54aad5983a99e",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0011:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "姜行部众未认出，旁白代述可能原因",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "姜行部众未认出，旁白代述可能原因",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "姜行部众未认出，旁白代述可能原因"
+      },
+      {
+        "reference": "v04-c0101:p0012",
+        "length": 120,
+        "sha256": "fd97d13dad3fa525507e61b5c5a65c020f8ca0e66b00bfbd3873d143207bd6e5",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0012:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮眼神见欣喜，估可逃或至时付善功返回，尚未回归",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮眼神见欣喜，估可逃或至时付善功返回，尚未回归",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0012:u002",
+            "start": 11,
+            "end": 120,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮眼神见欣喜，估可逃或至时付善功返回，尚未回归",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮眼神见欣喜，估可逃或至时付善功返回，尚未回归",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮眼神见欣喜，估可逃或至时付善功返回，尚未回归"
+      },
+      {
+        "reference": "v04-c0101:p0013",
+        "length": 86,
+        "sha256": "ff9f34ea51dee592e7429de7820348c60f5fbb4aded51e1303e482b735949e00",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0013:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "贵族掌权后任务失败是二人此刻判断",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "贵族掌权后任务失败是二人此刻判断",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "贵族掌权后任务失败是二人此刻判断"
+      },
+      {
+        "reference": "v04-c0101:p0014",
+        "length": 52,
+        "sha256": "cd7b01e887ba05ccb8c9e4494faf06d9617cd8a89e4d2879b6ced8ece3db7b64",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0014:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白承接两女对拖延及回归时间差的顾虑",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "旁白承接两女对拖延及回归时间差的顾虑",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白承接两女对拖延及回归时间差的顾虑"
+      },
+      {
+        "reference": "v04-c0101:p0015",
+        "length": 38,
+        "sha256": "074339be6c5c128218acae7d78968257a345defbef4df6a045c669de8404f50c",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0015:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "二人比两界天庭坠落时差，作为不安的参照",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "二人比两界天庭坠落时差，作为不安的参照",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二人比两界天庭坠落时差，作为不安的参照"
+      },
+      {
+        "reference": "v04-c0101:p0016",
+        "length": 41,
+        "sha256": "8773daa16c840e9da908fe38c4c9cd30407f288ac03ae75609fbbbdfa8bc36b8",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0016:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "参照未必准确，仍不愿亲试",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "参照未必准确，仍不愿亲试",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "参照未必准确，仍不愿亲试"
+      },
+      {
+        "reference": "v04-c0101:p0017",
+        "length": 43,
+        "sha256": "10543ee75aaf8202260b09ef5eb38a512333d090e679e4b4efdc2a31a1ca6f3b",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0017:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "v04c099_jiang_and_ruan",
+            "text_context": "江阮共有弥补善功损失的心思",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮共有弥补善功损失的心思",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0017:u002",
+            "start": 13,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮共有弥补善功损失的心思",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "江阮真正入一层牢房",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮共有弥补善功损失的心思",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮共有弥补善功损失的心思"
+      },
+      {
+        "reference": "v04-c0101:p0018",
+        "length": 69,
+        "sha256": "cf12d968495b314622e8afd6d112f1e17633b90f3fd07c189d51705e0c9f99e6",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0018:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "问话狱卒离开，囚徒暗自觊觎",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "问话狱卒离开，囚徒暗自觊觎",
+            "focalizer": "v04c0101_first_floor_inmates",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "问话狱卒离开，囚徒暗自觊觎"
+      },
+      {
+        "reference": "v04-c0101:p0019",
+        "length": 41,
+        "sha256": "d4bf09520a81e630934fdea6a888821a21391a70efc8d4f63d147c9261e11325",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0019:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际挑青石并捏碎，无声示威",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江实际挑青石并捏碎，无声示威",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际挑青石并捏碎，无声示威"
+      },
+      {
+        "reference": "v04-c0101:p0020",
+        "length": 13,
+        "sha256": "f6c2ba6961a6828b3d179c1c4eec8ddea4bceade4e5588feee4552fc56cf6a1b",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0020:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "v04c0101_first_floor_inmates",
+            "surface_identity": "v04c0101_first_floor_inmates",
+            "text_context": "囚徒心中惊于挑石，未公开喊",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "囚徒心中惊于挑石，未公开喊",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "囚徒心中惊于挑石，未公开喊"
+      },
+      {
+        "reference": "v04-c0101:p0021",
+        "length": 7,
+        "sha256": "8ef75ba6f41b20215abcecf9d71e9edd153f7d285937ce01aca42e10b65111fe",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0021:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "v04c0101_first_floor_inmates",
+            "surface_identity": "v04c0101_first_floor_inmates",
+            "text_context": "囚徒又惊石粉，未公开喊",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "囚徒又惊石粉，未公开喊",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "囚徒又惊石粉，未公开喊"
+      },
+      {
+        "reference": "v04-c0101:p0022",
+        "length": 46,
+        "sha256": "2002a16699f98a870f959e761ee939958ebd84863476f56fb7ea92b03aa7f72f",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0022:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "目光退开，旁白判断足震一层牢房",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "目光退开，旁白判断足震一层牢房",
+            "focalizer": "v04c0101_first_floor_inmates",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "目光退开，旁白判断足震一层牢房"
+      },
+      {
+        "reference": "v04-c0101:p0023",
+        "length": 28,
+        "sha256": "6e1cd189dc16066e7ce05832f609facbbfd0a211513a5068197fa302175d6572",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0023:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两女见微光，夜已过",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "两女见微光，夜已过",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两女见微光，夜已过"
+      },
+      {
+        "reference": "v04-c0101:p0024",
+        "length": 17,
+        "sha256": "221bbb23d69dc185ec874efbec1cd9f45e6c38dbbde4d95612c6e7662709ac1a",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0024:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "乔装男子留牢一层",
+            "text_context": "江在心里暗叹已藏一日",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "内心",
+            "embodiment": "入牢先略松气，随后捏石警示，遇陌生犯人提高戒备",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江在心里暗叹已藏一日",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0024:u002",
+            "start": 9,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江在心里暗叹已藏一日",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江在心里暗叹已藏一日",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江在心里暗叹已藏一日"
+      },
+      {
+        "reference": "v04-c0101:p0025",
+        "length": 55,
+        "sha256": "6527c0824fcfcc40ad182c4e5af8aca8b9edaafca7918027af19c2640ee880c9",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0025:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "对面老道当面对求相者实说将逢凶化吉",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "对面老道当面对求相者实说将逢凶化吉",
+            "focalizer": "v04c098_unnamed_jailed_old_daoist",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0025:u002",
+            "start": 22,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c098_unnamed_jailed_old_daoist",
+            "surface_identity": "白须蓝袍、囚中看相的老道",
+            "text_context": "对面老道当面对求相者实说将逢凶化吉",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "对面老道当面对求相者实说将逢凶化吉",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "对面老道当面对求相者实说将逢凶化吉"
+      },
+      {
+        "reference": "v04-c0101:p0026",
+        "length": 79,
+        "sha256": "aa9783fb7a682001248a1c4bad1ddf08a8054bab3c534804ab3275545ba46763",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0026:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "v04c099_jiang_and_ruan",
+            "text_context": "江阮注意白须蓝袍老道，犯人排队",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮注意白须蓝袍老道，犯人排队",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0026:u002",
+            "start": 9,
+            "end": 79,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮注意白须蓝袍老道，犯人排队",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮注意白须蓝袍老道，犯人排队",
+            "focalizer": "v04c098_unnamed_jailed_old_daoist",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮注意白须蓝袍老道，犯人排队"
+      },
+      {
+        "reference": "v04-c0101:p0027",
+        "length": 13,
+        "sha256": "eceec027ca2fe0c4e1929e3bff56dd20cb0c16d595d54316ef4584edbddaaad7",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0027:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "v04c099_jiang_and_ruan",
+            "text_context": "二人惊讶是心内评价",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "二人惊讶是心内评价",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二人惊讶是心内评价"
+      },
+      {
+        "reference": "v04-c0101:p0028",
+        "length": 44,
+        "sha256": "6bb2ec5e2e46aa04a7306aef9f896e425b42338e401bea69e2976f59742def9b",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0028:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老道看相似准，据两女观察",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "老道看相似准，据两女观察",
+            "focalizer": "v04c098_unnamed_jailed_old_daoist",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老道看相似准，据两女观察"
+      },
+      {
+        "reference": "v04-c0101:p0029",
+        "length": 43,
+        "sha256": "da2d6433f08bfe7729bc7e584014fa565ab7a36b5ab321eeeaf0f201e2f47880",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0029:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老道实际停止引人注意并示意散开",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "老道实际停止引人注意并示意散开",
+            "focalizer": "v04c098_unnamed_jailed_old_daoist",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老道实际停止引人注意并示意散开"
+      },
+      {
+        "reference": "v04-c0101:p0030",
+        "length": 48,
+        "sha256": "f73d8018b59d037043965d1228b3f2c795baf1f6f614d045c43f5106085f1896",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0030:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "v04c099_jiang_and_ruan",
+            "text_context": "两女发现田括值守押几人入，老道反应原因不知",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "两女发现田括值守押几人入，老道反应原因不知",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0030:u002",
+            "start": 5,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两女发现田括值守押几人入，老道反应原因不知",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "两女发现田括值守押几人入，老道反应原因不知",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两女发现田括值守押几人入，老道反应原因不知"
+      },
+      {
+        "reference": "v04-c0101:p0031",
+        "length": 67,
+        "sha256": "91a2f829e6cfb1ba70b714f8750262027422001ba000b48175e93610e7d8863a",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0031:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "v04c099_jiang_and_ruan",
+            "text_context": "二人内疑老道为何此时低调",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "二人内疑老道为何此时低调",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0031:u002",
+            "start": 25,
+            "end": 50,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "v04c099_jiang_and_ruan",
+            "text_context": "二人内疑老道为何此时低调",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "二人内疑老道为何此时低调",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0031:u003",
+            "start": 50,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "二人内疑老道为何此时低调",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "二人内疑老道为何此时低调",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二人内疑老道为何此时低调"
+      },
+      {
+        "reference": "v04-c0101:p0032",
+        "length": 21,
+        "sha256": "c0c229306178106effbb86262f078d4a5e902ba4b7bf5f611c75cd1d753c44a1",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0032:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮提高戒备",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江阮提高戒备",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮提高戒备"
+      },
+      {
+        "reference": "v04-c0101:p0033",
+        "length": 41,
+        "sha256": "765d254ee8dc20d710dea32a68a4fd01ceb8e92c01eb507e9a49725418803d3e",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0033:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江感到莫名战栗，源头待辨",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江感到莫名战栗，源头待辨",
+            "focalizer": "v04c0101_red_skinned_prisoner",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江感到莫名战栗，源头待辨"
+      },
+      {
+        "reference": "v04-c0101:p0034",
+        "length": 35,
+        "sha256": "5589efb1af3b2e7a48364a522b7e78a776aa88a0e58e59506cb15f9191926aa3",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0034:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实以动作示意阮敛息，再假作好奇",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江实以动作示意阮敛息，再假作好奇",
+            "focalizer": "v04c0101_red_skinned_prisoner",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实以动作示意阮敛息，再假作好奇"
+      },
+      {
+        "reference": "v04-c0101:p0035",
+        "length": 66,
+        "sha256": "56451e8d92573e01e8f3d05a09c21741e2089b2537dcd7d3a386daa6db14a159",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0035:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "inner_speech",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "乔装男子留牢一层",
+            "text_context": "江判断耳畔微红者非普通外景，未识其是谁",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "内心",
+            "embodiment": "入牢先略松气，随后捏石警示，遇陌生犯人提高戒备",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江判断耳畔微红者非普通外景，未识其是谁",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0035:u002",
+            "start": 20,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江判断耳畔微红者非普通外景，未识其是谁",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "江判断耳畔微红者非普通外景，未识其是谁",
+            "focalizer": "v04c0101_red_skinned_prisoner",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江判断耳畔微红者非普通外景，未识其是谁"
+      },
+      {
+        "reference": "v04-c0101:p0036",
+        "length": 39,
+        "sha256": "e1bec9cb5135f1549f35bcde2d1203b6db9c39ac81ef45ee76ba8710ca78e08b",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0036:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括开二层门，守者实际问人",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "田括开二层门，守者实际问人",
+            "focalizer": "v04c0101_second_floor_guard",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0036:u002",
+            "start": 29,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c0101_second_floor_guard",
+            "surface_identity": "v04c0101_second_floor_guard",
+            "text_context": "田括开二层门，守者实际问人",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "田括开二层门，守者实际问人",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括开二层门，守者实际问人"
+      },
+      {
+        "reference": "v04-c0101:p0037",
+        "length": 17,
+        "sha256": "46ac2b9de202f2ada53016685ed71d6934934c715fc354156aafea30b6609d7a",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0037:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "tian_kuo",
+            "text_context": "田括实答新抓墨者，仍待阮判断",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "田括实答新抓墨者，仍待阮判断",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0037:u002",
+            "start": 9,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括实答新抓墨者，仍待阮判断",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "田括实答新抓墨者，仍待阮判断",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括实答新抓墨者，仍待阮判断"
+      },
+      {
+        "reference": "v04-c0101:p0038",
+        "length": 42,
+        "sha256": "0bb16076ad5dcc9930a738a34ca70fdb4a213fb572cd3d91c0359b80a0f03617",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0038:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白交代暗子戒条、不主动接触墨者",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "旁白交代暗子戒条、不主动接触墨者",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白交代暗子戒条、不主动接触墨者"
+      },
+      {
+        "reference": "v04-c0101:p0039",
+        "length": 22,
+        "sha256": "925384da51e2e6d19d90f8d06d4d0ef169f1184e895417a256c4faa8fcfe1a2f",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0039:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c0101_second_floor_guard",
+            "surface_identity": "v04c0101_second_floor_guard",
+            "text_context": "二层守者实赞",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "二层守者实赞",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0039:u002",
+            "start": 8,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "二层守者实赞",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "二层守者实赞",
+            "focalizer": "v04c0101_second_floor_guard",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二层守者实赞"
+      },
+      {
+        "reference": "v04-c0101:p0040",
+        "length": 25,
+        "sha256": "69507b60fb8a3ff9d76c6538df759afb1c26cdaffd9f85b253e32cece3861106",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0040:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "门响为拟音；江确实传音问阮是否墨者",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "门响为拟音；江确实传音问阮是否墨者",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0040:u002",
+            "start": 2,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "门响为拟音；江确实传音问阮是否墨者",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "门响为拟音；江确实传音问阮是否墨者",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0040:u003",
+            "start": 19,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "乔装男子留牢一层",
+            "text_context": "门响为拟音；江确实传音问阮是否墨者",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "江阮牢内私下问答",
+            "embodiment": "入牢先略松气，随后捏石警示，遇陌生犯人提高戒备",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "门响为拟音；江确实传音问阮是否墨者",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "门响为拟音；江确实传音问阮是否墨者"
+      },
+      {
+        "reference": "v04-c0101:p0041",
+        "length": 39,
+        "sha256": "ec542fab891ba3a58884044e548d84e3089c7fafc57acf2a06a25647980995f0",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0041:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮最熟墨者，摇头，神色凝重",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "阮最熟墨者，摇头，神色凝重",
+            "focalizer": "ruan_yushu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮最熟墨者，摇头，神色凝重"
+      },
+      {
+        "reference": "v04-c0101:p0042",
+        "length": 5,
+        "sha256": "16b3104a369dc6246f28f1bf7d0a52fdbedfd19d0cb5e3625c46f0ec19547276",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0042:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_yushu",
+            "surface_identity": "乔装男子留牢一层",
+            "text_context": "阮答不是，按相邻传音场景低调处理",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "老道看相后停歇，田括押不明犯人",
+            "channel": "江阮牢内私下问答",
+            "embodiment": "摇头辨并非墨者",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "阮答不是，按相邻传音场景低调处理",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮答不是，按相邻传音场景低调处理"
+      },
+      {
+        "reference": "v04-c0101:p0043",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0043:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略号从牢切府",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "省略号从牢切府",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略号从牢切府"
+      },
+      {
+        "reference": "v04-c0101:p0044",
+        "length": 8,
+        "sha256": "a000b753cf176c914816caa3e9e35d95f2f4d28a7b2ee3ec3279a908adddd26e",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0044:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "地点大司空府",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "地点大司空府",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "地点大司空府"
+      },
+      {
+        "reference": "v04-c0101:p0045",
+        "length": 40,
+        "sha256": "96bf789f7747677f947c98b8b4bdc4624c21b155352205b55161982fe87b5ea1",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0045:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊薄实焦躁踱步",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊薄实焦躁踱步",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊薄实焦躁踱步"
+      },
+      {
+        "reference": "v04-c0101:p0046",
+        "length": 46,
+        "sha256": "d7d5166d9a8ba340aba8f5d4fef5865e1ff1cfb330723fc4cfd09620688fa19d",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0046:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "inner_speech",
+            "speaker": "gongyang_bo",
+            "surface_identity": "gongyang_bo",
+            "text_context": "公羊薄内斥苏墨杀七叔，仍是其视点",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "内心",
+            "embodiment": "踱步焦躁，瞬移后未撑一息",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊薄内斥苏墨杀七叔，仍是其视点",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊薄内斥苏墨杀七叔，仍是其视点"
+      },
+      {
+        "reference": "v04-c0101:p0047",
+        "length": 56,
+        "sha256": "3f3d847a6dfc6c5d180faac68700d1bba09d06cd8939cc1914f356f5fc9c9cba",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0047:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白回顾公羊薄年少入洞与优越感",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "旁白回顾公羊薄年少入洞与优越感",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白回顾公羊薄年少入洞与优越感"
+      },
+      {
+        "reference": "v04-c0101:p0048",
+        "length": 56,
+        "sha256": "f0c6a2c0a8564c7508917002ef1804a6969549ce2eb7b2f9fec5211c005b5fef",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0048:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊薄自想若返封地可能同遭，不是已回",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊薄自想若返封地可能同遭，不是已回",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊薄自想若返封地可能同遭，不是已回"
+      },
+      {
+        "reference": "v04-c0101:p0049",
+        "length": 67,
+        "sha256": "62e1d7f93c3df778859690a79edb4860bc91732d1d34a26b21e7a4bc42cd968a",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0049:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "gongyang_bo",
+            "surface_identity": "gongyang_bo",
+            "text_context": "公羊薄内考虑越过师伯向山门请援，出声未明",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "公羊薄愤恨或盘算，未明出声",
+            "embodiment": "踱步焦躁，瞬移后未撑一息",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊薄内考虑越过师伯向山门请援，出声未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0049:u002",
+            "start": 4,
+            "end": 42,
+            "kind": "inner_speech",
+            "speaker": "gongyang_bo",
+            "surface_identity": "gongyang_bo",
+            "text_context": "公羊薄内考虑越过师伯向山门请援，出声未明",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "公羊薄愤恨或盘算，未明出声",
+            "embodiment": "踱步焦躁，瞬移后未撑一息",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊薄内考虑越过师伯向山门请援，出声未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0049:u003",
+            "start": 42,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊薄内考虑越过师伯向山门请援，出声未明",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊薄内考虑越过师伯向山门请援，出声未明",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊薄内考虑越过师伯向山门请援，出声未明"
+      },
+      {
+        "reference": "v04-c0101:p0050",
+        "length": 41,
+        "sha256": "1b32f86b2efb90d96f39594563ff4824d801aaea901ebbb92256cd79356ec632",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0050:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊薄权衡触怒师伯和自己师父实力",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊薄权衡触怒师伯和自己师父实力",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊薄权衡触怒师伯和自己师父实力"
+      },
+      {
+        "reference": "v04-c0101:p0051",
+        "length": 36,
+        "sha256": "a94ace01519e1cc02cbe7ce1ef6160af4f97bea5a8e18b10d224f6ac79942272",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0051:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "gongyang_bo",
+            "surface_identity": "gongyang_bo",
+            "text_context": "其带引号的愤恨出声未明，请援未发出",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "公羊薄愤恨或盘算，未明出声",
+            "embodiment": "踱步焦躁，瞬移后未撑一息",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "其带引号的愤恨出声未明，请援未发出",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0051:u002",
+            "start": 4,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "gongyang_bo",
+            "surface_identity": "gongyang_bo",
+            "text_context": "其带引号的愤恨出声未明，请援未发出",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "公羊薄愤恨或盘算，未明出声",
+            "embodiment": "踱步焦躁，瞬移后未撑一息",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "其带引号的愤恨出声未明，请援未发出",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0051:u003",
+            "start": 7,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "gongyang_bo",
+            "surface_identity": "gongyang_bo",
+            "text_context": "其带引号的愤恨出声未明，请援未发出",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "公羊薄愤恨或盘算，未明出声",
+            "embodiment": "踱步焦躁，瞬移后未撑一息",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "其带引号的愤恨出声未明，请援未发出",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0051:u004",
+            "start": 19,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "其带引号的愤恨出声未明，请援未发出",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "其带引号的愤恨出声未明，请援未发出",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "其带引号的愤恨出声未明，请援未发出"
+      },
+      {
+        "reference": "v04-c0101:p0052",
+        "length": 92,
+        "sha256": "673955b7d80652c5907b86917101e9f39c82808541cb09a9148f9e35926e9ed0",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0052:u001",
+            "start": 0,
+            "end": 92,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "父亲加强府邸防备并限儿外出是实有",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "父亲加强府邸防备并限儿外出是实有",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "父亲加强府邸防备并限儿外出是实有"
+      },
+      {
+        "reference": "v04-c0101:p0053",
+        "length": 29,
+        "sha256": "d6f1669ef6f5186381584fe797fcf268a441e6c56a9b28659c5edb9d8041063e",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0053:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "一只鸟落窗沿，公羊薄未在意，底本一直照录",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "一只鸟落窗沿，公羊薄未在意，底本一直照录",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "一只鸟落窗沿，公羊薄未在意，底本一直照录"
+      },
+      {
+        "reference": "v04-c0101:p0054",
+        "length": 27,
+        "sha256": "341681ca141deeb78ff0e2e31c6667fa1a7ec4e78cf96b2054b2666f62786e59",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0054:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "轻钟使薄眩晕，未同上章已毁落魂钟",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "轻钟使薄眩晕，未同上章已毁落魂钟",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "轻钟使薄眩晕，未同上章已毁落魂钟"
+      },
+      {
+        "reference": "v04-c0101:p0055",
+        "length": 45,
+        "sha256": "99c67de00911d39a58cb95c11bf8d11013d755037817a7684b5f6024662b57ab",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0055:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "薄有金光护识，原文仅似有低阶防护秘宝",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "薄有金光护识，原文仅似有低阶防护秘宝",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "薄有金光护识，原文仅似有低阶防护秘宝"
+      },
+      {
+        "reference": "v04-c0101:p0056",
+        "length": 47,
+        "sha256": "0f8240de29b06d3c4fcf726c7e2d7082b6ae767694bb62b13d5d3f283d7472da",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0056:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "所见暗钟浮鸟前，上书两个字",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "所见暗钟浮鸟前，上书两个字",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "所见暗钟浮鸟前，上书两个字"
+      },
+      {
+        "reference": "v04-c0101:p0057",
+        "length": 5,
+        "sha256": "cd0a564fd4ea2fb2a6ff718827eb9e61fc7bee834cd2e304e9005e724fece5b0",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0057:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "迷神为钟上铭文，非发声",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "画面所见铭文或血书",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "迷神为钟上铭文，非发声",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "迷神为钟上铭文，非发声"
+      },
+      {
+        "reference": "v04-c0101:p0058",
+        "length": 29,
+        "sha256": "1532aec0e7655b12a71bdeea3e59ebe09eb55e8b70723ca2e823d87f8d90b506",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0058:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟恢复原形挥刀",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "孟恢复原形挥刀",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟恢复原形挥刀"
+      },
+      {
+        "reference": "v04-c0101:p0059",
+        "length": 25,
+        "sha256": "8ca11cb54b3e80023baabd86078a0b83770146147a2af082974eab0e6ad20338",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0059:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "刀光实落眩晕公羊薄",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "刀光实落眩晕公羊薄",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "刀光实落眩晕公羊薄"
+      },
+      {
+        "reference": "v04-c0101:p0060",
+        "length": 24,
+        "sha256": "4629f46ce47bc271393d4f651f2b39998b5bc156eaf6bd0642cead6cccc6c48e",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0060:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金光罩破，啪为声响",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "金光罩破，啪为声响",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0060:u002",
+            "start": 2,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金光罩破，啪为声响",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "金光罩破，啪为声响",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金光罩破，啪为声响"
+      },
+      {
+        "reference": "v04-c0101:p0061",
+        "length": 47,
+        "sha256": "6d5c1c0d1705ed7f7400c9fc51f7137318db66bfdd744ed00ae0029c26f42c5e",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0061:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊薄借挪移实闪两丈",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊薄借挪移实闪两丈",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊薄借挪移实闪两丈"
+      },
+      {
+        "reference": "v04-c0101:p0062",
+        "length": 15,
+        "sha256": "e01b89e5e987e2a94883e38c97bda7d9fcf506023135280bf39c6140ff234301",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0062:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "gongyang_bo",
+            "surface_identity": "gongyang_bo",
+            "text_context": "薄内估再撑一息会有援，尚未到",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "公羊薄疑虑及屋内遭袭",
+            "channel": "内心",
+            "embodiment": "踱步焦躁，瞬移后未撑一息",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "薄内估再撑一息会有援，尚未到",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "薄内估再撑一息会有援，尚未到"
+      },
+      {
+        "reference": "v04-c0101:p0063",
+        "length": 50,
+        "sha256": "8792d0d6793246d1365fe7adf9c274bb3eef6146c7f9e0c36927c65c4694523c",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0063:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实长二臂，拳出时有各色光",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "孟实长二臂，拳出时有各色光",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实长二臂，拳出时有各色光"
+      },
+      {
+        "reference": "v04-c0101:p0064",
+        "length": 2,
+        "sha256": "26ab1c7f5c130e9a56b539801143a677369063cabe0af928e6e7299fb1b70caf",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0064:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "啪是交击拟音",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "啪是交击拟音",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "啪是交击拟音"
+      },
+      {
+        "reference": "v04-c0101:p0065",
+        "length": 42,
+        "sha256": "922cb0c7359e3052159a6562990064a5f66c19d1c40fadefbf711980480cd7dc",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0065:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "拳实中公羊薄额头",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "拳实中公羊薄额头",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "拳实中公羊薄额头"
+      },
+      {
+        "reference": "v04-c0101:p0066",
+        "length": 31,
+        "sha256": "9565c0053f191b5da8f027acb8d5b2e02605c00a772d4d302c58836b33ab6f12",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0066:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "gongyang_bo",
+            "surface_identity": "gongyang_bo",
+            "text_context": "薄临死内叹未撑一息",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "内心",
+            "embodiment": "踱步焦躁，瞬移后未撑一息",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "薄临死内叹未撑一息",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0066:u002",
+            "start": 11,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "薄临死内叹未撑一息",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "薄临死内叹未撑一息",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "薄临死内叹未撑一息"
+      },
+      {
+        "reference": "v04-c0101:p0067",
+        "length": 41,
+        "sha256": "ec881b681cb5ca13a132fb97b290cff73c43bc877b63341165e7a60e5f27ae67",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0067:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟刺燃其尸以灭拳痕，并实际血书",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "孟刺燃其尸以灭拳痕，并实际血书",
+            "focalizer": "gongyang_bo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟刺燃其尸以灭拳痕，并实际血书"
+      },
+      {
+        "reference": "v04-c0101:p0068",
+        "length": 45,
+        "sha256": "68b0db0e0626f0f7035d47385e63099532fa193ed704612e252e2444667543be",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0068:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟收芥子环，化飞鸟随众散开，未远遁",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "孟收芥子环，化飞鸟随众散开，未远遁",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟收芥子环，化飞鸟随众散开，未远遁"
+      },
+      {
+        "reference": "v04-c0101:p0069",
+        "length": 40,
+        "sha256": "57adb8e905db480970eb4fc003eaaf9c3b9f43995bf32a9ecb2aa9a26c9902ed",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0069:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "一息后公羊增与几道气息确至",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "一息后公羊增与几道气息确至",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "一息后公羊增与几道气息确至"
+      },
+      {
+        "reference": "v04-c0101:p0070",
+        "length": 33,
+        "sha256": "a401aadc0acadcd549dbbd344295daf762c3e39f39ce30671acd4dd38bf62818",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0070:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增望见尸体与血字",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增望见尸体与血字",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增望见尸体与血字"
+      },
+      {
+        "reference": "v04-c0101:p0071",
+        "length": 6,
+        "sha256": "78269b907cc29b2853653be6b20567069c0bea748070e4ab94981c10e1e5b688",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0071:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "诛不义为尸旁血字，非人声",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "画面所见铭文或血书",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "诛不义为尸旁血字，非人声",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "诛不义为尸旁血字，非人声"
+      },
+      {
+        "reference": "v04-c0101:p0072",
+        "length": 30,
+        "sha256": "78555c4d67d59c9266c0e3c311ee450437ee1b5be28bfb9c98e6b42832cc7d9a",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0072:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "gongyang_zeng",
+            "surface_identity": "实公羊增见子尸后被图所困",
+            "text_context": "公羊增读字心中复念，气急欲倒",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "内心",
+            "embodiment": "悲恸后仍指挥，独自抱尸出房",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增读字心中复念，气急欲倒",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0072:u002",
+            "start": 5,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增读字心中复念，气急欲倒",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增读字心中复念，气急欲倒",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增读字心中复念，气急欲倒"
+      },
+      {
+        "reference": "v04-c0101:p0073",
+        "length": 23,
+        "sha256": "988f209cfd34e9b94c5eb6a4a57d2e85bd7c853a468cbe2edfc85c0d6b28acc8",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0073:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "gongyang_zeng",
+            "surface_identity": "实公羊增见子尸后被图所困",
+            "text_context": "公羊增内唤薄儿，长啸后才有明引对白",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "内心",
+            "embodiment": "悲恸后仍指挥，独自抱尸出房",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增内唤薄儿，长啸后才有明引对白",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0073:u002",
+            "start": 6,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增内唤薄儿，长啸后才有明引对白",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增内唤薄儿，长啸后才有明引对白",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增内唤薄儿，长啸后才有明引对白"
+      },
+      {
+        "reference": "v04-c0101:p0074",
+        "length": 5,
+        "sha256": "9f99e24ef1cd1b869d0359df9352845e8220ebc36ce73cab3f7f730a2d58feab",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0074:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "gongyang_zeng",
+            "surface_identity": "实公羊增见子尸后被图所困",
+            "text_context": "公羊增实喊苏墨",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "实际言语",
+            "embodiment": "悲恸后仍指挥，独自抱尸出房",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增实喊苏墨",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增实喊苏墨"
+      },
+      {
+        "reference": "v04-c0101:p0075",
+        "length": 11,
+        "sha256": "3850af7acec10129ce08d2d4516dbc979671474dc7ae3c97f77a4924a7076f86",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0075:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "gongyang_zeng",
+            "surface_identity": "实公羊增见子尸后被图所困",
+            "text_context": "公羊增实言要杀苏墨",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "实际言语",
+            "embodiment": "悲恸后仍指挥，独自抱尸出房",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增实言要杀苏墨",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增实言要杀苏墨"
+      },
+      {
+        "reference": "v04-c0101:p0076",
+        "length": 36,
+        "sha256": "10b040e86156013ca898f7abfb0416a104c621843eea775e4f335d38e272e2aa",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0076:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "众强者寻找无果",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "众强者寻找无果",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "众强者寻找无果"
+      },
+      {
+        "reference": "v04-c0101:p0077",
+        "length": 77,
+        "sha256": "44cb386757feb48e44b30422a5751ad1cca84c8a9242df0ccbf1a21c25391046",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0077:u001",
+            "start": 0,
+            "end": 77,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增吩咐请洞中宗师，旁叙而非逐字",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增吩咐请洞中宗师，旁叙而非逐字",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增吩咐请洞中宗师，旁叙而非逐字"
+      },
+      {
+        "reference": "v04-c0101:p0078",
+        "length": 17,
+        "sha256": "3a817a2d76554a510e3e903e7dd80f8e446950a77905fe5ca9b78f63b1e7d4d1",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0078:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增强忍悲痛继续发令",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "薄死而增率人查找",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增强忍悲痛继续发令",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增强忍悲痛继续发令"
+      },
+      {
+        "reference": "v04-c0101:p0079",
+        "length": 30,
+        "sha256": "0e4892bb148eb4a984a600c907867051a508c03ec7c0fed40ad439cf44f23395",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0079:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "众人散去只余公羊增",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "众人散去只余公羊增",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "众人散去只余公羊增"
+      },
+      {
+        "reference": "v04-c0101:p0080",
+        "length": 19,
+        "sha256": "9579d44f3df105f007a3aee5ff6f75a8d1fefe15fbb3ba953266fd55509c0bfd",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0080:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增飞入抱尸老泪",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增飞入抱尸老泪",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增飞入抱尸老泪"
+      },
+      {
+        "reference": "v04-c0101:p0081",
+        "length": 16,
+        "sha256": "5fa2756cd1400303bc79ed4c70fcc939ebfcfc51eb6b408b6cd85ce18f1996b8",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0081:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "gongyang_zeng",
+            "surface_identity": "实公羊增见子尸后被图所困",
+            "text_context": "公羊增对儿尸实立报仇意",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "实际言语",
+            "embodiment": "悲恸后仍指挥，独自抱尸出房",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增对儿尸实立报仇意",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增对儿尸实立报仇意"
+      },
+      {
+        "reference": "v04-c0101:p0082",
+        "length": 28,
+        "sha256": "d3cdde7094fd93c0918ee6145df81041c1b46a2fd0a839df4de7a22452eee172",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0082:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增离房遇昏暗混沌",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增离房遇昏暗混沌",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增离房遇昏暗混沌"
+      },
+      {
+        "reference": "v04-c0101:p0083",
+        "length": 24,
+        "sha256": "7f2cf77f2803478e7131f00275db3bd4e918614861e909dbce9441041113702f",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0083:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "gongyang_zeng",
+            "surface_identity": "实公羊增见子尸后被图所困",
+            "text_context": "公羊增内惊欲遁，已晚",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "内心",
+            "embodiment": "悲恸后仍指挥，独自抱尸出房",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增内惊欲遁，已晚",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0101:p0083:u002",
+            "start": 3,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增内惊欲遁，已晚",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "公羊增内惊欲遁，已晚",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增内惊欲遁，已晚"
+      },
+      {
+        "reference": "v04-c0101:p0084",
+        "length": 55,
+        "sha256": "7f2b61c419575231d2cc9bd98db4768efc830c5025077d5628d24b2fa9ddb87e",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0084:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟从惊鸟复人提水墨卷，房院晃后复原",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "孟从惊鸟复人提水墨卷，房院晃后复原",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟从惊鸟复人提水墨卷，房院晃后复原"
+      },
+      {
+        "reference": "v04-c0101:p0085",
+        "length": 9,
+        "sha256": "f20c5cc09fa7004b2899f91f554eda8963162d15cf728c516bdd9a461abc0fec",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0085:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白揭秘宝山河社稷图，为先前所得仿品",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "旁白揭秘宝山河社稷图，为先前所得仿品",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白揭秘宝山河社稷图，为先前所得仿品"
+      },
+      {
+        "reference": "v04-c0101:p0086",
+        "length": 50,
+        "sha256": "a71a6cd608faace6c1497feccb3d1bb2988a062c2ed2cc4cadf8a687b55dee6b",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0086:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "补公羊薄入房已在图，孟尚未发动，在图内交手",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "补公羊薄入房已在图，孟尚未发动，在图内交手",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "补公羊薄入房已在图，孟尚未发动，在图内交手"
+      },
+      {
+        "reference": "v04-c0101:p0087",
+        "length": 53,
+        "sha256": "093779beca934fec5741352404dd73a09b86b5fb5f52b4b58e5597f7ca8f4cce",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0087:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟杀薄后未离远，留下图再困公羊增；公羊增的后续情形待后文",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "孟杀薄后未离远，留下图再困公羊增；公羊增的后续情形待后文",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟杀薄后未离远，留下图再困公羊增；公羊增的后续情形待后文"
+      },
+      {
+        "reference": "v04-c0101:p0088",
+        "length": 24,
+        "sha256": "7cce2c883dd56bbbc8a534369940a0b8dbf264e2c39f9cd0fd7a15f6c3126d64",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0088:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "若不落网会放其走是反事实方案",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "若不落网会放其走是反事实方案",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "若不落网会放其走是反事实方案"
+      },
+      {
+        "reference": "v04-c0101:p0089",
+        "length": 54,
+        "sha256": "8b298916a7dd134e82b117adf4d0abc020b4163221042f8b7232c10e1e510dab",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0089:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟化为公羊增似往牢，旁人不问",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "孟化为公羊增似往牢，旁人不问",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟化为公羊增似往牢，旁人不问"
+      },
+      {
+        "reference": "v04-c0101:p0090",
+        "length": 17,
+        "sha256": "0baed0c65bfcff4fd00611747003619a15a4f1a5b5ca296c170d550a225ffcb5",
+        "units": [
+          {
+            "unit_id": "v04-c0101:p0090:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟出府便下落没入人群，未写入牢",
+            "world_context": "第四卷封神：上营一层牢房见老道、公羊府图中行动",
+            "stage_context": "图中伏笔揭明，孟化增出府入人群",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "牢中人谁属墨家以阮的否认为当前证据。老道此章实和犯人说话，身份仍未明。迷神钟与已毁落魂钟分开。公羊薄死亡、公羊增落入画卷已落定。孟化增只似往大牢，实于出府后入人群。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "微红犯人未实名；老道为何收敛未解释。江阮对任务失败、时间差、补善功只是目前所想，没有支付善功或回归。",
+            "knowledge_boundary": "孟出府便下落没入人群，未写入牢",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟出府便下落没入人群，未写入牢"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0101",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S13",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 17,
+        "label": "扮作姜行同伙，江阮进入牢房一层",
+        "direction": "用将佐呈手令、吕文验查交代分层。姜行与其余被押者的去向分开。江阮低头敛息，刚入牢就借人群与真同伙拉开。任务失败、时间差和补善功的想法按两女心中当时的判断来演。 证据 v04-c0101:p0001–p0017。"
+      },
+      {
+        "paragraph_start": 18,
+        "paragraph_end": 42,
+        "label": "江捏石，老道看相，田括押不明犯人",
+        "direction": "先以目光逼问、石粉落手和目光退开表现牢内地位。天光转一日过，切对面老道给犯人说相。老道在田括出现前停歇，江的警觉落到耳畔微红一人。田括答守者和江阮的私下问答形成信息差，停在阮否认。 证据 v04-c0101:p0018–p0042。"
+      },
+      {
+        "paragraph_start": 44,
+        "paragraph_end": 62,
+        "label": "公羊薄焦躁，窗边飞鸟与钟",
+        "direction": "外有花鸟，屋内公羊薄徘徊，越过师门请援的盘算尚在心中。鸟落窗沿时轻，钟响后进公羊薄眩晕视点，让钟铭从模糊中出现。变回孟后才挥刀，公羊薄挪移并心想援兵还有一息。 证据 v04-c0101:p0044–p0062。"
+      },
+      {
+        "paragraph_start": 63,
+        "paragraph_end": 78,
+        "label": "公羊薄身死，公羊增率人赶到",
+        "direction": "以薄没能撑足的一息对照随后到场。确认身死、芥子环被收，血书第一次留待公羊增亲眼看。给父亲一瞬几乎不支，随后长啸、发誓、强自发令。其他人查无痕，仍循命分散。 证据 v04-c0101:p0063–p0078。"
+      },
+      {
+        "paragraph_start": 79,
+        "paragraph_end": 90,
+        "label": "父抱尸独留，画卷收困，孟化形出府",
+        "direction": "留公羊增独处才给抱尸誓语，出房时光线陡变。水墨卷提起后再补公羊薄早入图、孟当初未发动。真公羊增已经落网，最后观众看到的是孟化成他的样子飞离府邸；结尾落人群。 证据 v04-c0101:p0079–p0090。"
+      }
+    ],
+    "knowledge_rule": "牢层、安置与两女眼下对任务的判断分开。田括称新抓的是墨者，阮明确否认，微红犯人未实名。钟铭与尸旁血字只作视觉；用的迷神钟与先前毁掉的落魂钟分开。公羊薄已死，公羊增被图收困；章尾孟呈公羊增外观，飞向大牢方向后转入人群，未实到牢。"
+  }
 }

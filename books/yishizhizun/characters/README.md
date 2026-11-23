@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [江阮入牢一层，老道看相突然收声](early-v04-First-floor-prison-and-the-quiet-daoist.md) | 第四卷第101章历史归属回补 |
+| [公羊薄在画卷内遇袭身死](early-v04-Gongyang-Bo-dies-inside-the-replica-scroll.md) | 第四卷第101章历史归属回补 |
+| [公羊增抱尸后被图所困，孟以其形出府](early-v04-Gongyang-Zeng-captured-and-Meng-leaves-in-his-form.md) | 第四卷第101章历史归属回补 |
 | [丰城孝服申讨，公羊登被杀，士卒未被株连](early-v04-Fengcheng-mourning-band-and-Gongyang-Deng.md) | 第四卷第100章历史归属回补 |
 | [枣红脸金光洞宗师名赤霞，为公羊薄师伯](early-v04-Palace-archer-named-as-Chixia.md) | 第四卷第100章历史归属回补 |
 | [上营城门打开，孟换黑袍走向城门](early-v04-Shangying-gates-reopen-and-Meng-approaches.md) | 第四卷第100章历史归属回补 |
