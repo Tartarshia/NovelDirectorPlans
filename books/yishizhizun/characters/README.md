@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [曹和参加夜讲并发现周辛也在](early-v04-Cao-He-hears-Mohist-lectures-and-meets-Zhou-Xin.md) | 第四卷第88章历史归属回补 |
+| [孟奇解释非攻并提出一统设想](early-v04-Meng-defends-non-aggression-and-proposes-unification.md) | 第四卷第88章历史归属回补 |
+| [姬武命逐客，令暗中求小乾洞](early-v04-Ji-Wu-orders-departure-and-contacts-Xiaoqian-Cave.md) | 第四卷第88章历史归属回补 |
 | [赵柏追来请孟试说墨学](early-v04-Zhao-Bai-invites-the-team-to-his-hall.md) | 第四卷第87章历史归属回补 |
 | [白松和王起先说亲身悲苦](early-v04-Bai-Song-and-Wang-Qi-speak-of-loss.md) | 第四卷第87章历史归属回补 |
 | [墨家理念引共鸣，多数请求追随](early-v04-Mohist-discussion-and-the-hall-asks-to-follow.md) | 第四卷第87章历史归属回补 |
