@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [兰柯开向茂陵，孟支付言无我报酬](early-v04-Lanke-exit-to-Maoling-and-auction-settlement.md) | 第四卷第83章历史归属回补 |
+| [迈八九第一难，孟奇实入第三重天](early-v04-Meng-third-exterior-heaven-and-Primordial-form.md) | 第四卷第83章历史归属回补 |
+| [斗姆约七日后正式聚会](early-v04-Doumu-invites-Meng-before-the-bone-is-opened.md) | 第四卷第83章历史归属回补 |
 | [季飞鸿、奉典先后竞第二粒](early-v04-Ji-Feihong-and-Fengdian-bidding.md) | 第四卷第82章历史归属回补 |
 | [九指买家以东海异珠等取寿丹](early-v04-Nine-fingered-buyer-trades-East-Sea-pearl.md) | 第四卷第82章历史归属回补 |
 | [阮三追询买主，奉典追踪孟失败](early-v04-Fengdian-loses-trail-and-Meng-returns-to-Lanke.md) | 第四卷第82章历史归属回补 |
