@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [公羊薄回报洞中改口，原因仍不明](early-v04-Gongyang-Bo-returns-with-Jinguang-cave-decision.md) | 第四卷第96章历史归属回补 |
+| [公羊增想保新政而换主导者](early-v04-Gongyang-Zeng-aims-to-retain-the-reforms.md) | 第四卷第96章历史归属回补 |
+| [田括手势示警，五人三路遁去](early-v04-Tian-Kuo-signals-danger-and-three-lights-flee.md) | 第四卷第96章历史归属回补 |
 | [田广行刺失败，田横杀子后被罢官](early-v04-Tian-Guang-dies-and-Tian-Heng-loses-office.md) | 第四卷第95章历史归属回补 |
 | [楚国客商见商路变化，老者借院迎客](early-v04-Shangying-caravan-and-private-lodging.md) | 第四卷第95章历史归属回补 |
 | [五人获功德道德之气，公羊增问洞中进展](early-v04-Merit-appears-and-Gongyang-awaits-a-decision.md) | 第四卷第95章历史归属回补 |
