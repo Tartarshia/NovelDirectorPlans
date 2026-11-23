@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟收玉虚腰牌，二人触感九碑](early-v04-Yuxu-badge-recovered-and-nine-steles-felt.md) | 第四卷第76章历史归属回补 |
+| [大青根畏惧玉柱，声称识其气息](early-v04-Daqinggen-fears-the-central-pillar.md) | 第四卷第76章历史归属回补 |
+| [灵宝接手药精，孟兑剑冠扇](early-v04-Lingbao-takes-Daqinggen-and-Meng-redeems-three-items.md) | 第四卷第76章历史归属回补 |
 | [孟中断任务求助，灵宝带他强入](early-v04-Meng-aborts-mission-and-Lingbao-forces-entry.md) | 第四卷第75章历史归属回补 |
 | [药精领路，孟开金门并见规定碑](early-v04-Kunlun-gold-gates-and-world-rule-steles.md) | 第四卷第75章历史归属回补 |
 | [末碑空白处留玉虚门下杨戬落款](early-v04-Yang-Jian-signature-on-the-final-stele.md) | 第四卷第75章历史归属回补 |
