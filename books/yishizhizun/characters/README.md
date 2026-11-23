@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [仿山河图拘八人，出图后迷神钟响一次](early-v04-Replica-scroll-captures-eight-and-bell-is-rung.md) | 第四卷第90章历史归属回补 |
+| [阮举塔护众，江破阵提走褐袍](early-v04-Ruan-pagoda-and-Jiang-takes-the-captive.md) | 第四卷第90章历史归属回补 |
+| [心印所得画面里，小狐狸到妖皇殿](early-v04-Little-fox-seen-in-demon-hall-memory.md) | 第四卷第90章历史归属回补 |
 | [逐客令落到赵府，留者不必同行](early-v04-Bole-expulsion-and-Mohist-membership-terms.md) | 第四卷第89章历史归属回补 |
 | [墨书暗传，三位外景随五人离博乐](early-v04-Mohist-manual-shared-and-eight-leave-Bole.md) | 第四卷第89章历史归属回补 |
 | [褐袍与赤袍两人异术追上，画卷代天地](early-v04-Far-sight-and-hearing-track-the-Mohists.md) | 第四卷第89章历史归属回补 |
