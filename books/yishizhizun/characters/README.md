@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇与王思远阵内短斗](early-v04-Meng-and-Wang-exchange-blows-by-the-chessboard.md) | 第四卷第78章历史归属回补 |
+| [王问空闻宙光碎片，孟问素女仙界](early-v04-Wang-and-Meng-exchange-two-questions.md) | 第四卷第78章历史归属回补 |
+| [小孩递匿名信，称王思远进少林石门](early-v04-Anonymous-letter-names-the-Shaolin-stone-gate.md) | 第四卷第78章历史归属回补 |
 | [元央与翁灵玉广陵相见](early-v04-Yuan-Yang-and-Weng-Lingyu-reunite-in-Guangling.md) | 第四卷第77章历史归属回补 |
 | [孟匿名说鱼海，众人初疑后认](early-v04-Qing-robed-storyteller-and-Fish-Sea-retelling.md) | 第四卷第77章历史归属回补 |
 | [王思远隔绝外界与孟私谈](early-v04-Wang-Siyuan-private-chess-courtyard.md) | 第四卷第77章历史归属回补 |
