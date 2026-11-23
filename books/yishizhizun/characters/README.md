@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟选血肉有灵并完成玉简参悟](early-v04-Meng-selects-flesh-spirit-from-the-jade-slip.md) | 第四卷第70章历史归属回补 |
+| [五侨州形势与护送第三位钦差](early-v04-Fifth-expatriate-provinces-and-third-envoy-mission.md) | 第四卷第70章历史归属回补 |
+| [十一滴夔牛血升刀，五色羽升袍](early-v04-Heavens-Wound-and-Qingyuan-robe-equipment-upgrades.md) | 第四卷第70章历史归属回补 |
 | [新鱼海搜宝与瞿九娘相遇](early-v04-New-Fish-Sea-salvage-and-Qu-Jiuniang.md) | 第四卷第69章历史归属回补 |
 | [云鹤按约分物后回万象门](early-v04-Yunhe-divides-salvage-and-returns.md) | 第四卷第69章历史归属回补 |
 | [灵宝说少林原拟答谢及八九首式](early-v04-Lingbao-recounts-Shaolin-offer-and-Bajiu-technique.md) | 第四卷第69章历史归属回补 |
