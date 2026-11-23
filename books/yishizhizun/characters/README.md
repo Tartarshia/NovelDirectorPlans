@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [两名拦路者落败，树干状物与赤球水遁](early-v04-Two-objects-escape-after-the-sea-fight.md) | 第四卷第72章历史归属回补 |
+| [魂灯熄灭，密室改为拖延](early-v04-Soul-lamps-go-out-and-the-group-stalls.md) | 第四卷第72章历史归属回补 |
+| [方不同奉旨交权，张玉泉怀疑过度配合](early-v04-Fang-Butong-welcomes-Zhang-at-Xinhai.md) | 第四卷第72章历史归属回补 |
 | [孟以元始天尊面具降临皇宫法坛](early-v04-Yuanshi-arrival-at-the-imperial-altar.md) | 第四卷第71章历史归属回补 |
 | [密室听闻仙人护送，拟比照前两次](early-v04-Candlelit-conspirators-plan-Xianjianchou-interception.md) | 第四卷第71章历史归属回补 |
 | [张玉泉遇阴风与白衣剑舟](early-v04-Zhang-Yuquan-first-voyage-and-white-robed-swordsman.md) | 第四卷第71章历史归属回补 |
