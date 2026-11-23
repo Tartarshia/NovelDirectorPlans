@@ -61,7 +61,2415 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0249"
+  "reading_batch": "batch-0249",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0081",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0081.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0081:p0001",
+        "length": 95,
+        "sha256": "fced5eb85541f921fbbfa5914752e0a7ee05b5a311243d0f3e39d6bbed2c36d7",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0001:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑袍者实以可多竞价和强抢为由激言无我",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "黑袍者实以可多竞价和强抢为由激言无我",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0001:u002",
+            "start": 31,
+            "end": 67,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "黑袍者实以可多竞价和强抢为由激言无我",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "实际言语",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "黑袍者实以可多竞价和强抢为由激言无我",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0001:u003",
+            "start": 67,
+            "end": 95,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "黑袍者实以可多竞价和强抢为由激言无我",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "实际言语",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "黑袍者实以可多竞价和强抢为由激言无我",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑袍者实以可多竞价和强抢为由激言无我"
+      },
+      {
+        "reference": "v04-c0081:p0002",
+        "length": 45,
+        "sha256": "9296290f53dd6fc633a709f13814ca0d6b378176ef29df9a8e3d5c011241636c",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0002:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "特意加重三处语气，所引只复指上段",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "特意加重三处语气，所引只复指上段",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "特意加重三处语气，所引只复指上段"
+      },
+      {
+        "reference": "v04-c0081:p0003",
+        "length": 69,
+        "sha256": "2a9f7a80c99354bb6dc0fc24becbfe89ab3a80eb62b7dfeeb94c2a466b9508fa",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0003:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言无我实据地榜、黑榜及战力驳并放行",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "言无我实据地榜、黑榜及战力驳并放行",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0003:u002",
+            "start": 8,
+            "end": 69,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wuwo",
+            "surface_identity": "yan_wuwo",
+            "text_context": "言无我实据地榜、黑榜及战力驳并放行",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "实际言语",
+            "embodiment": "骄傲强势语气放行，私传",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "言无我实据地榜、黑榜及战力驳并放行",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言无我实据地榜、黑榜及战力驳并放行"
+      },
+      {
+        "reference": "v04-c0081:p0004",
+        "length": 60,
+        "sha256": "b2ca69185ffe464eedff84bb1e351103de0494bc96a1cd49f6baca6be53613d9",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0004:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑榜限百名排除法身，旁白解释",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "黑榜限百名排除法身，旁白解释",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑榜限百名排除法身，旁白解释"
+      },
+      {
+        "reference": "v04-c0081:p0005",
+        "length": 31,
+        "sha256": "731038ea2278437f42305245959b2408c24207761bc49832430141cdee7a64e5",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0005:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言非黑榜，只因阵营不定门内非邪聚",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "言非黑榜，只因阵营不定门内非邪聚",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言非黑榜，只因阵营不定门内非邪聚"
+      },
+      {
+        "reference": "v04-c0081:p0006",
+        "length": 87,
+        "sha256": "c2ea847fb3f5933b6220cc23e6c14bdbdfd11042505161b57ed17a82f5c14b46",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0006:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "黑袍轻嘿一声，实落船头见隔窥灰袍面具；底本得授",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "实际言语",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "黑袍轻嘿一声，实落船头见隔窥灰袍面具；底本得授",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0006:u002",
+            "start": 4,
+            "end": 87,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑袍轻嘿一声，实落船头见隔窥灰袍面具；底本得授",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "黑袍轻嘿一声，实落船头见隔窥灰袍面具；底本得授",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑袍轻嘿一声，实落船头见隔窥灰袍面具；底本得授"
+      },
+      {
+        "reference": "v04-c0081:p0007",
+        "length": 53,
+        "sha256": "9eb4a6d15236de8f0d2e7ac6152c6b9c2c3760826a1e67db27d6e2c3b6cb52ac",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0007:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑袍怕遭正道围攻，内赞遮身份准备",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "黑袍怕遭正道围攻，内赞遮身份准备",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑袍怕遭正道围攻，内赞遮身份准备"
+      },
+      {
+        "reference": "v04-c0081:p0008",
+        "length": 47,
+        "sha256": "56edbfd87b0015474bb4daad2b8bc669ff1b5c51a9d22b1a2b5c510461f54b16",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0008:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言嘴唇动，以细声传孟耳",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "言嘴唇动，以细声传孟耳",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言嘴唇动，以细声传孟耳"
+      },
+      {
+        "reference": "v04-c0081:p0009",
+        "length": 32,
+        "sha256": "5ed18658dd07f3dd366f6ea7ea8b71a150414348ad415e0b938fac7726059fc4",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0009:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wuwo",
+            "surface_identity": "yan_wuwo",
+            "text_context": "言传识黑袍为罗教奉典，按孟不阻原则放入",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "言无我细声私传",
+            "embodiment": "骄傲强势语气放行，私传",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "言传识黑袍为罗教奉典，按孟不阻原则放入",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言传识黑袍为罗教奉典，按孟不阻原则放入"
+      },
+      {
+        "reference": "v04-c0081:p0010",
+        "length": 66,
+        "sha256": "e55e20915e25bda187fc343ec82be2b9afdd582a89b349d3bcbf32a742da1acd",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0010:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟认出十二神使之首、226岁、地榜26黑榜5",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟认出十二神使之首、226岁、地榜26黑榜5",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟认出十二神使之首、226岁、地榜26黑榜5"
+      },
+      {
+        "reference": "v04-c0081:p0011",
+        "length": 62,
+        "sha256": "490e3f8a9f46450a2517965ddf389a724fe4aaa9385b1cf87770449f8e88f8fd",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0011:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟回应不必阻，估奉典求寿将不惜代价，媒介未复标",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "孟答言无我，媒介未复标",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟回应不必阻，估奉典求寿将不惜代价，媒介未复标",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0011:u002",
+            "start": 43,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟回应不必阻，估奉典求寿将不惜代价，媒介未复标",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟回应不必阻，估奉典求寿将不惜代价，媒介未复标",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟回应不必阻，估奉典求寿将不惜代价，媒介未复标"
+      },
+      {
+        "reference": "v04-c0081:p0012",
+        "length": 9,
+        "sha256": "66637a763b357a123296a622997acef586c76409c4299ed3c459d5454c630b36",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0012:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟心将其当可抬价之人",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "言无我允奉典进舱并传身份",
+            "channel": "内心",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟心将其当可抬价之人",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心将其当可抬价之人"
+      },
+      {
+        "reference": "v04-c0081:p0013",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0013:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0081:p0014",
+        "length": 59,
+        "sha256": "aa481988b642187ffd1027eff540491cd9df5adffdfcc75a705f032fd2bdeea4",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0014:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典下舱，感觉许多强者但不知特征",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典下舱，感觉许多强者但不知特征",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典下舱，感觉许多强者但不知特征"
+      },
+      {
+        "reference": "v04-c0081:p0015",
+        "length": 56,
+        "sha256": "20ccd057dbd99d18e5aedf193e5df922ef8c41c2936618e6fe65a72c143ffdac",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0015:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "奉典先环视并感叹，道声未加引号",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "奉典环顾感叹，底本无引号",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典先环视并感叹，道声未加引号",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0015:u002",
+            "start": 10,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典先环视并感叹，道声未加引号",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典先环视并感叹，道声未加引号",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典先环视并感叹，道声未加引号"
+      },
+      {
+        "reference": "v04-c0081:p0016",
+        "length": 73,
+        "sha256": "edeb83b83391d3a7703ddf10ef9b125045c10bbac7a2eda85376e6ef9bdfb13b",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0016:u001",
+            "start": 0,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典估众联手能抢，但交换希望在就不愿招惹言",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典估众联手能抢，但交换希望在就不愿招惹言",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典估众联手能抢，但交换希望在就不愿招惹言"
+      },
+      {
+        "reference": "v04-c0081:p0017",
+        "length": 36,
+        "sha256": "3fa70429fb032b4c2428885f5959780adecb619d52e99df21c776a5cb1488cb3",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0017:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典推卖主或可请天榜，未确认在场",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典推卖主或可请天榜，未确认在场",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典推卖主或可请天榜，未确认在场"
+      },
+      {
+        "reference": "v04-c0081:p0018",
+        "length": 18,
+        "sha256": "583f315ee143866df5358103e1807fa3b42b49f57076dc01deab47c3d5435066",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0018:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "奉典内决定观察",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "内心",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典内决定观察",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典内决定观察"
+      },
+      {
+        "reference": "v04-c0081:p0019",
+        "length": 78,
+        "sha256": "5399941dc2792d287f214a5ee80f7031871a3c5513621239e3898638f7879306",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0019:u001",
+            "start": 0,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "诸强者气息使舱内昏暗下压，末日为比喻",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "诸强者气息使舱内昏暗下压，末日为比喻",
+            "focalizer": "v04c081_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "诸强者气息使舱内昏暗下压，末日为比喻"
+      },
+      {
+        "reference": "v04-c0081:p0020",
+        "length": 28,
+        "sha256": "226786edadfd4272ada318e9b37f077cda7903fa157a4bcad81dbcdb559b5441",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0020:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首次明张家老祖实名张端，稳心等开拍",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "首次明张家老祖实名张端，稳心等开拍",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首次明张家老祖实名张端，稳心等开拍"
+      },
+      {
+        "reference": "v04-c0081:p0021",
+        "length": 40,
+        "sha256": "49d487c7c3cea12bbd0787d41cae4113f0598ee51fbc79d326ef4dca72e24158",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0021:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张见高手多，陷阱虑少而期待增",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张见高手多，陷阱虑少而期待增",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张见高手多，陷阱虑少而期待增"
+      },
+      {
+        "reference": "v04-c0081:p0022",
+        "length": 65,
+        "sha256": "d7a82f925ef90bb29c0ba9c38a539e928c4e8ef37b6790ba82a5dddcf6500c6c",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0022:u001",
+            "start": 0,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "底舱大门实关，言在半高台",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "底舱大门实关，言在半高台",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "底舱大门实关，言在半高台"
+      },
+      {
+        "reference": "v04-c0081:p0023",
+        "length": 64,
+        "sha256": "c97853055f60516d810ee2d2f713c98d69eadae06e89bf925ae6414d57c0c7c6",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0023:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "船阵不能实拦强者，闭门只添心理压力",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "船阵不能实拦强者，闭门只添心理压力",
+            "focalizer": "v04c081_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "船阵不能实拦强者，闭门只添心理压力"
+      },
+      {
+        "reference": "v04-c0081:p0024",
+        "length": 41,
+        "sha256": "d422b631482902debd8fa4522b69ad7ef244be773158e64e61e30a190c1721ed",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0024:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟戴灰袍木面由里密门实出",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟戴灰袍木面由里密门实出",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟戴灰袍木面由里密门实出"
+      },
+      {
+        "reference": "v04-c0081:p0025",
+        "length": 3,
+        "sha256": "156457bc54ba27ebeaab1aba3aaf9a68ceea61cd9f05dfb3deffdb2be3ad073e",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0025:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "v04c081_auction_guests",
+            "surface_identity": "v04c081_auction_guests",
+            "text_context": "强者集体心念来了",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "强者集体心念来了",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "强者集体心念来了"
+      },
+      {
+        "reference": "v04-c0081:p0026",
+        "length": 17,
+        "sha256": "9abb899e179af0f3bb436f7c06cfea8ed3404635ef144fa3a03bf8caed62ccc0",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0026:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙明本句几乎人人心内，未有外喊",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "叙明本句几乎人人心内，未有外喊",
+            "focalizer": "v04c081_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙明本句几乎人人心内，未有外喊"
+      },
+      {
+        "reference": "v04-c0081:p0027",
+        "length": 24,
+        "sha256": "dd589013c3a1d8005f9fbc16a765e10441db89e8bd9599a8ebeadcfec6c9ba53",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0027:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "众方定睛等主持",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "众方定睛等主持",
+            "focalizer": "v04c081_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "众方定睛等主持"
+      },
+      {
+        "reference": "v04-c0081:p0028",
+        "length": 58,
+        "sha256": "167ede1a8073d5050c54bd7849ad30c57155627578d71155feee283ec062e828",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0028:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟知张端是特邀，意外阮三爷来",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟知张端是特邀，意外阮三爷来",
+            "focalizer": "ruan_chengde",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟知张端是特邀，意外阮三爷来"
+      },
+      {
+        "reference": "v04-c0081:p0029",
+        "length": 59,
+        "sha256": "0ed2b194630a6779b1d750b5f700878f94da0d8c8f0543d8fbff02b53c7e9c0a",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0029:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首次明阮三爷阮承德，康复状态在孟所见与所知",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "首次明阮三爷阮承德，康复状态在孟所见与所知",
+            "focalizer": "ruan_chengde",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首次明阮三爷阮承德，康复状态在孟所见与所知"
+      },
+      {
+        "reference": "v04-c0081:p0030",
+        "length": 87,
+        "sha256": "d76db60247c1b07a51069bfa0c03bd4977436e5e87fe66963c48eecc676f8045",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0030:u001",
+            "start": 0,
+            "end": 87,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮承德是老爷子兄长子，旧传走火入魔",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "阮承德是老爷子兄长子，旧传走火入魔",
+            "focalizer": "ruan_chengde",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮承德是老爷子兄长子，旧传走火入魔"
+      },
+      {
+        "reference": "v04-c0081:p0031",
+        "length": 47,
+        "sha256": "c1a574871d81166feec8d497c3b337a732e2f8e9d17f2a429702ff287d7f24ec",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0031:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟替阮家喜而实改口音",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "内心",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟替阮家喜而实改口音",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0031:u002",
+            "start": 16,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟替阮家喜而实改口音",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "灰衣掩面者入场，孟认张阮",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟替阮家喜而实改口音",
+            "focalizer": "ruan_chengde",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟替阮家喜而实改口音"
+      },
+      {
+        "reference": "v04-c0081:p0032",
+        "length": 13,
+        "sha256": "c67c74fa36f322dbefdcc81d54994850644dfc9d33283f4d6bce618b2699cf7b",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0032:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "匿名主人出言寒暄",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "匿名主人出言寒暄",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "匿名主人出言寒暄"
+      },
+      {
+        "reference": "v04-c0081:p0033",
+        "length": 79,
+        "sha256": "d809a859e85a86ed87a6a2ac5d8030d57e4dc2143a339d48a47c1f0bf5a3d807",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0033:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实称东极六十年、生生三十限木行、子午十年等",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实称东极六十年、生生三十限木行、子午十年等",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0033:u002",
+            "start": 13,
+            "end": 38,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟实称东极六十年、生生三十限木行、子午十年等",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实称东极六十年、生生三十限木行、子午十年等",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0033:u003",
+            "start": 38,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟实称东极六十年、生生三十限木行、子午十年等",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实称东极六十年、生生三十限木行、子午十年等",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0033:u004",
+            "start": 63,
+            "end": 79,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟实称东极六十年、生生三十限木行、子午十年等",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实称东极六十年、生生三十限木行、子午十年等",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实称东极六十年、生生三十限木行、子午十年等"
+      },
+      {
+        "reference": "v04-c0081:p0034",
+        "length": 123,
+        "sha256": "1fd81f49b2cdd57cdd3e6c3c07858a8e3fc40cedb8ca7a8c25cbaff94d85b747",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0034:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "张端私疑先详介不同常规",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "内心",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端私疑先详介不同常规",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0034:u002",
+            "start": 12,
+            "end": 123,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端私疑先详介不同常规",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端私疑先详介不同常规",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端私疑先详介不同常规"
+      },
+      {
+        "reference": "v04-c0081:p0035",
+        "length": 44,
+        "sha256": "11841171b2c6dfbd6946648baa4095e66076991ca9789a051c9e60dcdd6121bf",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0035:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "诸强者得悉优劣后才考虑",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "诸强者得悉优劣后才考虑",
+            "focalizer": "v04c081_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "诸强者得悉优劣后才考虑"
+      },
+      {
+        "reference": "v04-c0081:p0036",
+        "length": 16,
+        "sha256": "c4583f7422cc6b7ea7984369dc1a82db1c2cb33dbdc52ff71a8847e655498ef2",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0036:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟打破沉思将开拍",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟打破沉思将开拍",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟打破沉思将开拍"
+      },
+      {
+        "reference": "v04-c0081:p0037",
+        "length": 24,
+        "sha256": "e8289d7cb151ecd02de969c274b92834fc4f42a26b77afd5aedbc7cd978bd7a5",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0037:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟实际宣布先拍两粒东极丹",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实际宣布先拍两粒东极丹",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际宣布先拍两粒东极丹"
+      },
+      {
+        "reference": "v04-c0081:p0038",
+        "length": 38,
+        "sha256": "f9b76a82343314106fe5edc1af4e84d51e8a286b338d146c5d373e3163d08fad",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0038:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "张端心惊竟然最好的先拍",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "内心",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端心惊竟然最好的先拍",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0038:u002",
+            "start": 6,
+            "end": 20,
+            "kind": "inner_speech",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "张端心惊竟然最好的先拍",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "内心",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端心惊竟然最好的先拍",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0038:u003",
+            "start": 20,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端心惊竟然最好的先拍",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端心惊竟然最好的先拍",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端心惊竟然最好的先拍"
+      },
+      {
+        "reference": "v04-c0081:p0039",
+        "length": 16,
+        "sha256": "c194562134a04de3d9111ae0623136d4d7c093425b4c7f1e8f7b6cdfb2bbe189",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0039:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "张端内心觉得违反通常次序",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "内心",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端内心觉得违反通常次序",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端内心觉得违反通常次序"
+      },
+      {
+        "reference": "v04-c0081:p0040",
+        "length": 25,
+        "sha256": "e34852c462e3b07042e7625a8c8b0164a72f481adf3a59faa522210e2925ddeb",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0040:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "别的强者亦惊",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "别的强者亦惊",
+            "focalizer": "v04c081_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "别的强者亦惊"
+      },
+      {
+        "reference": "v04-c0081:p0041",
+        "length": 65,
+        "sha256": "8eae8e9831cf7845d609e479fc7aae9de90d94e667a22be2a00ca8c7955997aa",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0041:u001",
+            "start": 0,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际经济动机：东极丹收益全归己，其余是云鹤",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实际经济动机：东极丹收益全归己，其余是云鹤",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际经济动机：东极丹收益全归己，其余是云鹤"
+      },
+      {
+        "reference": "v04-c0081:p0042",
+        "length": 33,
+        "sha256": "9d659fd1d3d002edae4c4728e687694fe322c00dc53a3e0d0b9d7b53e2e4fd1c",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0042:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "优先保住竞拍者财物给首场为孟安排",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "优先保住竞拍者财物给首场为孟安排",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "优先保住竞拍者财物给首场为孟安排"
+      },
+      {
+        "reference": "v04-c0081:p0043",
+        "length": 43,
+        "sha256": "ae5e8d23c2f48a84b862e16a0ebf4982cc9a8baeaab7a98c0523fe89c14c96c0",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0043:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟知其他失传药可让人真出价",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟知其他失传药可让人真出价",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟知其他失传药可让人真出价"
+      },
+      {
+        "reference": "v04-c0081:p0044",
+        "length": 73,
+        "sha256": "225561cf2ef4de1c295f27d7719d5be4b67e6ff9aef78006996de8ad9bf0d961",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0044:u001",
+            "start": 0,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "以其余药拉住强者暂不翻脸，是孟算计",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "以其余药拉住强者暂不翻脸，是孟算计",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "以其余药拉住强者暂不翻脸，是孟算计"
+      },
+      {
+        "reference": "v04-c0081:p0045",
+        "length": 24,
+        "sha256": "e8289d7cb151ecd02de969c274b92834fc4f42a26b77afd5aedbc7cd978bd7a5",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0045:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟实重复开拍项",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实重复开拍项",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实重复开拍项"
+      },
+      {
+        "reference": "v04-c0081:p0046",
+        "length": 38,
+        "sha256": "39530d851f3eaa2e75ead92dbbd0be1f7a8484abe601e8954b7c45edda577c5e",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0046:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "现场屏息",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "现场屏息",
+            "focalizer": "v04c081_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "现场屏息"
+      },
+      {
+        "reference": "v04-c0081:p0047",
+        "length": 45,
+        "sha256": "aff0a1aa79a04b4eccedf75c477c8b24a46cc68f42959a142ffda917a95140f6",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0047:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端已耗大半身家备稀材",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端已耗大半身家备稀材",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端已耗大半身家备稀材"
+      },
+      {
+        "reference": "v04-c0081:p0048",
+        "length": 19,
+        "sha256": "5efd7baf7d7dcb47e05f84129b8fdbe4a8f1f256ad3604b0760f23a6d51f30e8",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0048:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "张端默祈祖师，非说给其他人",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "张端默祈",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端默祈祖师，非说给其他人",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0048:u002",
+            "start": 8,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端默祈祖师，非说给其他人",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "先介绍全单再开两粒",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端默祈祖师，非说给其他人",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端默祈祖师，非说给其他人"
+      },
+      {
+        "reference": "v04-c0081:p0049",
+        "length": 62,
+        "sha256": "6fcd2bd5a8648a026767f6502309d51c49e24ce6e652e91ec5e7aab6c2e43a4d",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0049:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟实规定首粒限十五任选十二再价高，底本排卖",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实规定首粒限十五任选十二再价高，底本排卖",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0049:u002",
+            "start": 32,
+            "end": 54,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟实规定首粒限十五任选十二再价高，底本排卖",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实规定首粒限十五任选十二再价高，底本排卖",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0049:u003",
+            "start": 54,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实规定首粒限十五任选十二再价高，底本排卖",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实规定首粒限十五任选十二再价高，底本排卖",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实规定首粒限十五任选十二再价高，底本排卖"
+      },
+      {
+        "reference": "v04-c0081:p0050",
+        "length": 44,
+        "sha256": "2c1be94a6610389e18bae86ba5f8dbcbc63c5e1ba6199417faacc7ef31a785a9",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0050:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端见自己材料恰合",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端见自己材料恰合",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端见自己材料恰合"
+      },
+      {
+        "reference": "v04-c0081:p0051",
+        "length": 42,
+        "sha256": "3b47b96398b7205261cb7c9843feef74bbe232acdffaa27ade665c4afec07ccc",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0051:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端实先报十三件",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端实先报十三件",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0051:u002",
+            "start": 24,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "张端实先报十三件",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "实际言语",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端实先报十三件",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0051:u003",
+            "start": 32,
+            "end": 42,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "张端实先报十三件",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "实际言语",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端实先报十三件",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端实先报十三件"
+      },
+      {
+        "reference": "v04-c0081:p0052",
+        "length": 16,
+        "sha256": "8baadeafd6f5e5b2a8da7653a7f2264379b0c2bef3a14279fd136cd6e5d607ab",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0052:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端还留替换加价材料",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端还留替换加价材料",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端还留替换加价材料"
+      },
+      {
+        "reference": "v04-c0081:p0053",
+        "length": 22,
+        "sha256": "255f7bafc96969dbcaff4d68b80892d5ef713ba91c1a340e104ab5320295fa98",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0053:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "无人加价，只有呼吸声",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "无人加价，只有呼吸声",
+            "focalizer": "v04c081_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "无人加价，只有呼吸声"
+      },
+      {
+        "reference": "v04-c0081:p0054",
+        "length": 17,
+        "sha256": "38af753a362c0d9ad605948d41b735f876c3e375238228f1e9694087ea91de60",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0054:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "张端心惊无人竟加价",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "内心",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端心惊无人竟加价",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0054:u002",
+            "start": 5,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端心惊无人竟加价",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端心惊无人竟加价",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端心惊无人竟加价"
+      },
+      {
+        "reference": "v04-c0081:p0055",
+        "length": 30,
+        "sha256": "09be9dfa89eb4862f39272436c3f740348f7f024b61132504e8cac49e7f2a06d",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0055:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟实际判张得第一粒",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实际判张得第一粒",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0055:u002",
+            "start": 21,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际判张得第一粒",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实际判张得第一粒",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际判张得第一粒"
+      },
+      {
+        "reference": "v04-c0081:p0056",
+        "length": 58,
+        "sha256": "1b88f14eb97a4d767c5ff7efb55df136ed13b296bc7484815af01af89d4b6eaa",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0056:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端实付十三件接一粒青丹",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端实付十三件接一粒青丹",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端实付十三件接一粒青丹"
+      },
+      {
+        "reference": "v04-c0081:p0057",
+        "length": 32,
+        "sha256": "7872ba45079a52573ec641567b38731bc608e6ff6db5d53923eb85d587290d32",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0057:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典实际问张竟真齐",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典实际问张竟真齐",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0057:u002",
+            "start": 22,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "奉典实际问张竟真齐",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "实际言语",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典实际问张竟真齐",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典实际问张竟真齐"
+      },
+      {
+        "reference": "v04-c0081:p0058",
+        "length": 32,
+        "sha256": "2e415f3b3b5dcfd051211e0fd3d16c46353d7a6aca8fed05f789d9d9ca6b7f61",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0058:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "奉典据罕品难齐往定向准备想",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "内心",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典据罕品难齐往定向准备想",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典据罕品难齐往定向准备想"
+      },
+      {
+        "reference": "v04-c0081:p0059",
+        "length": 10,
+        "sha256": "9f0b232a4642e7a1be6d2e4c8f588e830dd7beb7136fcc1fb12aa7cd04f8ffb4",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0059:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "像作弊的判断来自现场视角，未有旁白定性",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "内心",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "像作弊的判断来自现场视角，未有旁白定性",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "像作弊的判断来自现场视角，未有旁白定性"
+      },
+      {
+        "reference": "v04-c0081:p0060",
+        "length": 40,
+        "sha256": "09024554b5411ff9c6cd95ab719321eee8b6a915f7247b5e9ce521a408dc60ef",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0060:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端听其疑问悟其他请帖恐不同",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端听其疑问悟其他请帖恐不同",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端听其疑问悟其他请帖恐不同"
+      },
+      {
+        "reference": "v04-c0081:p0061",
+        "length": 53,
+        "sha256": "4cfe0b783eafffcff558aa3d2c84b2838d7a8a743998807bdaa5ef51d0565f00",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0061:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端实际揭面，鉴定后吞丹，认为会折点效",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张端实际揭面，鉴定后吞丹，认为会折点效",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端实际揭面，鉴定后吞丹，认为会折点效"
+      },
+      {
+        "reference": "v04-c0081:p0062",
+        "length": 17,
+        "sha256": "4c227b9e5a3b2074b9140db94b0f69d8919c1ae58846cb39d12457f1a4559f0c",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0062:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "临场吞服以断外人抢念，是张的动机",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "内心",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "临场吞服以断外人抢念，是张的动机",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "临场吞服以断外人抢念，是张的动机"
+      },
+      {
+        "reference": "v04-c0081:p0063",
+        "length": 59,
+        "sha256": "e9f4dccd2495690b820662d6f2f9e47cf9e6be31b98943cff723f1eec87b0667",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0063:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "inner_speech",
+            "speaker": "zhang_duan",
+            "surface_identity": "张家老祖本章实名张端，得首粒后摘面具",
+            "text_context": "张想宣扬寿延可小姚家争端，非已证结果",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "内心",
+            "embodiment": "由期待、目瞪到果断吞丹",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "张想宣扬寿延可小姚家争端，非已证结果",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张想宣扬寿延可小姚家争端，非已证结果"
+      },
+      {
+        "reference": "v04-c0081:p0064",
+        "length": 24,
+        "sha256": "069cc336ae505c0628eb5bbfe56689d0cbb1ef3fb480aee0524abf71c69b569b",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0064:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_guest_recognizing_zhang",
+            "surface_identity": "v04c081_guest_recognizing_zhang",
+            "text_context": "无名者低声认是张家老鬼",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "无名者低声认是张家老鬼",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0064:u002",
+            "start": 9,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "无名者低声认是张家老鬼",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第一粒张端得并实吞",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "无名者低声认是张家老鬼",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "无名者低声认是张家老鬼"
+      },
+      {
+        "reference": "v04-c0081:p0065",
+        "length": 16,
+        "sha256": "bd88080702b097b6ef1ab543fb9c8bae2856d6c62214c86c6015a93e6b271474",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0065:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实取第二粒",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实取第二粒",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实取第二粒"
+      },
+      {
+        "reference": "v04-c0081:p0066",
+        "length": 12,
+        "sha256": "91f398183531a67dde1d4122c6cef78c83b1b71e60452a32f857a10efaf6407f",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0066:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "实际孟奇，灰袍木面改口音，外界未实名",
+            "text_context": "孟实宣布第二粒价高得",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "平稳控制节奏，不露喜色",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "孟实宣布第二粒价高得",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实宣布第二粒价高得"
+      },
+      {
+        "reference": "v04-c0081:p0067",
+        "length": 7,
+        "sha256": "c036c8dcf922e9c21cc4e4d5c37f4337b78129a7046eee4af44d7f0f31c09a6f",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0067:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第二粒无额外条件",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "第二粒无额外条件",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第二粒无额外条件"
+      },
+      {
+        "reference": "v04-c0081:p0068",
+        "length": 35,
+        "sha256": "902a469ca8d42959b8973055a927a5bab81de385c2a443b7749478c9ee1c3cfe",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0068:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典实喊十四稀材加上品承影剑",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典实喊十四稀材加上品承影剑",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0068:u002",
+            "start": 8,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "奉典实喊十四稀材加上品承影剑",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "实际言语",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典实喊十四稀材加上品承影剑",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0068:u003",
+            "start": 15,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "上一章黑袍，言无我私认奉典神使",
+            "text_context": "奉典实喊十四稀材加上品承影剑",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "实际言语",
+            "embodiment": "由挑衅入场转阴沉质疑",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "奉典实喊十四稀材加上品承影剑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典实喊十四稀材加上品承影剑"
+      },
+      {
+        "reference": "v04-c0081:p0069",
+        "length": 35,
+        "sha256": "08458c726ddbbcbdf6509a0eed274aa3ae1821a4e2903165beaf51fe28c2aad7",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0069:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "无名沉哑嗓实际报十五材料加极品落月棍",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "无名沉哑嗓实际报十五材料加极品落月棍",
+            "focalizer": "v04c081_husky_second_bidder",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0081:p0069:u002",
+            "start": 12,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_husky_second_bidder",
+            "surface_identity": "沉哑竞拍者，未实名",
+            "text_context": "无名沉哑嗓实际报十五材料加极品落月棍",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "无名沉哑嗓实际报十五材料加极品落月棍",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "无名沉哑嗓实际报十五材料加极品落月棍"
+      },
+      {
+        "reference": "v04-c0081:p0070",
+        "length": 5,
+        "sha256": "adc22b66b564039514501d2473b863dcf08cd27819e0dcc7c7ceca03ed809bc2",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0070:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "v04c081_auction_guests",
+            "surface_identity": "v04c081_auction_guests",
+            "text_context": "听者因极品宝兵内惊",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "听者因极品宝兵内惊",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "听者因极品宝兵内惊"
+      },
+      {
+        "reference": "v04-c0081:p0071",
+        "length": 16,
+        "sha256": "56df5db0c00f934a24065293c4c08bdf70d3e24ccd1d1f51c46d517aacc79422",
+        "units": [
+          {
+            "unit_id": "v04-c0081:p0071:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮承德与其余人看嗓音者，第二粒未成交",
+            "world_context": "第四卷：望潮石匿名寿丹拍卖，首粒定向成交，第二粒竞价",
+            "stage_context": "第二粒竞价未决",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "张端已实付十三材、得丹验后吞。第二粒自由竞价尚无结果；寿效预期未验证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "张端看出请帖量身定制，奉典只见异常齐材。孟的意图与其余宾客能识的公开流程分别处理。",
+            "knowledge_boundary": "阮承德与其余人看嗓音者，第二粒未成交",
+            "focalizer": "ruan_chengde",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮承德与其余人看嗓音者，第二粒未成交"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0081",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S11",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 12,
+        "label": "言无我放行，私传奉典身份",
+        "direction": "先听黑袍客加重三处激词，言无我强势回压后放行。用灰袍木面道具表现隐名用途。注意只有孟听到言的细声识别；孟回话从愣转稳，心里的评价不出声。 证据 v04-c0081:p0001–p0012。"
+      },
+      {
+        "paragraph_start": 14,
+        "paragraph_end": 31,
+        "label": "底舱压抑，到场者无言相探",
+        "direction": "把奉典环顾和强者气息放在低照度，关门有压迫感，防护强弱由旁白交代。灰袍主持从密门上台，旁观者只生同一心念。由孟视角知张是特邀、阮承德康复而来令人意外。 证据 v04-c0081:p0014–p0031。"
+      },
+      {
+        "paragraph_start": 32,
+        "paragraph_end": 48,
+        "label": "改口音介绍全单，最好的先拍",
+        "direction": "先礼后逐项讲延寿及局限，让张端的经验对比落到内心。第一次说先拍两粒保留惊讶停顿，孟的收益盘算用私人视角。重复宣布后才给听者屏息和张摸戒默祈。 证据 v04-c0081:p0032–p0048。"
+      },
+      {
+        "paragraph_start": 49,
+        "paragraph_end": 64,
+        "label": "第一粒成交，张端揭面当场吞丹",
+        "direction": "明说十五取十二，张报十三并留余地。静得只有呼吸，再落成交。奉典的质疑使张悟请帖不同。现场表现先接、鉴定、揭面和吞丹，低声认张出现在吞后，延寿与息争留作预期。 证据 v04-c0081:p0049–p0064。"
+      },
+      {
+        "paragraph_start": 65,
+        "paragraph_end": 71,
+        "label": "第二粒归价高，报出极品宝兵",
+        "direction": "孟出第二粒且取消材料限制，奉典报十四材与承影剑。沉哑声接十五材及落月棍，切阮承德转看，收于尚无成交。 证据 v04-c0081:p0065–p0071。"
+      }
+    ],
+    "knowledge_rule": "场外私传和匿名公开主持分开。张端与阮承德本章实名。望潮石首拍的向导材料是张家此前收帖结果，奉典只觉可疑。第二粒无额外条件。"
+  }
 }

@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [言无我私认黑袍客为奉典神使](early-v04-Fengdian-admitted-and-named-in-private.md) | 第四卷第81章历史归属回补 |
+| [张端以十三材换首粒并验后服用](early-v04-Zhang-Duan-wins-and-takes-the-first-Dongji-pill.md) | 第四卷第81章历史归属回补 |
+| [第二粒公开出价，沉哑客报落月棍](early-v04-Second-Dongji-pill-bids-and-Luoyue-staff.md) | 第四卷第81章历史归属回补 |
 | [张家老祖突破未遂，决意依请柬筹料](early-v04-Zhang-ancestor-lifespan-and-auction-invitation.md) | 第四卷第80章历史归属回补 |
 | [阮老爷子安排三郎代往寿丹拍卖](early-v04-Ruan-grandfather-sends-third-son-to-auction.md) | 第四卷第80章历史归属回补 |
 | [望潮石寿丹竞价，飞天夜叉受托看船](early-v04-Wangchao-auction-and-Yan-Wuwo-guarding-boat.md) | 第四卷第80章历史归属回补 |
