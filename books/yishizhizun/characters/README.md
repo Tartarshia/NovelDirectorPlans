@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [韩广、太离重伤脱阵](early-v04-Han-Guang-and-Tai-Li-escape-the-sword-array.md) | 第四卷第65章历史归属回补 |
+| [白虎舍掌，夔牛硬受剑雷遁](early-v04-White-Tiger-loses-a-paw-and-Kuiniu-escapes.md) | 第四卷第65章历史归属回补 |
+| [赵谦发愿，鱼海闻声，菩提飞远](early-v04-Zhao-Qian-vow-heard-at-Fish-Sea-and-Bodhi-flies.md) | 第四卷第65章历史归属回补 |
 | [何七和守静分别阻夔牛与白虎](early-v04-He-Qi-and-Shoujing-break-the-demon-pincer.md) | 第四卷第64章历史归属回补 |
 | [渡世法王点怪，雪山白发男子改攻](early-v04-Dushi-Fawang-and-the-Bodhi-contest.md) | 第四卷第64章历史归属回补 |
 | [韩广由真空闻脱困推断援军将至](early-v04-Han-Guang-plans-retreat-inside-the-sword-array.md) | 第四卷第64章历史归属回补 |
