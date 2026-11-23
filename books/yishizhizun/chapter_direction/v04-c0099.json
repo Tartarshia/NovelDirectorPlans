@@ -61,7 +61,2775 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0267"
+  "reading_batch": "batch-0267",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0099",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0099.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0099:p0001",
+        "length": 60,
+        "sha256": "0220c9d5a7f2b007ea23bea59ab415809fc65a2e63f40d9b12e1a279bd5b3e9f",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0001:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括转述老道说被排斥隔绝密事，自己暗查才发现",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括转述老道说被排斥隔绝密事，自己暗查才发现",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0001:u002",
+            "start": 36,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括转述老道说被排斥隔绝密事，自己暗查才发现",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括转述老道说被排斥隔绝密事，自己暗查才发现",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括转述老道说被排斥隔绝密事，自己暗查才发现"
+      },
+      {
+        "reference": "v04-c0099:p0002",
+        "length": 69,
+        "sha256": "712d230da0860ee1ab0a54956f379a09084865372b8ecd84b633f09c02cd7e93",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0002:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵疑有巧合，受追不赴牢，只问还有什么话",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵疑有巧合，受追不赴牢，只问还有什么话",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0002:u002",
+            "start": 48,
+            "end": 69,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵疑有巧合，受追不赴牢，只问还有什么话",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "实际言语",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵疑有巧合，受追不赴牢，只问还有什么话",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵疑有巧合，受追不赴牢，只问还有什么话"
+      },
+      {
+        "reference": "v04-c0099:p0003",
+        "length": 31,
+        "sha256": "1e7eb6b9301d008628910ee82a403a06a1098cdf1903ed9764f877bfb71677cc",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0003:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵推卦准之人只言片语也有意思",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵推卦准之人只言片语也有意思",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵推卦准之人只言片语也有意思"
+      },
+      {
+        "reference": "v04-c0099:p0004",
+        "length": 46,
+        "sha256": "9a404c20ec619188a50e31cb517902c2a3abe8439a5be4105f18580438526fad",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0004:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括实转述老道常垂泪悲无道，老道无现场对白",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括实转述老道常垂泪悲无道，老道无现场对白",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0004:u002",
+            "start": 12,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括实转述老道常垂泪悲无道，老道无现场对白",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括实转述老道常垂泪悲无道，老道无现场对白",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括实转述老道常垂泪悲无道，老道无现场对白"
+      },
+      {
+        "reference": "v04-c0099:p0005",
+        "length": 17,
+        "sha256": "b0e51f9696bbbc30fe83bd4a6364cafd487404e5c885188547b6182fb8596de3",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0005:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵实反问有法有术无有道",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "实际言语",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵实反问有法有术无有道",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0005:u002",
+            "start": 10,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵实反问有法有术无有道",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵实反问有法有术无有道",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵实反问有法有术无有道"
+      },
+      {
+        "reference": "v04-c0099:p0006",
+        "length": 66,
+        "sha256": "062697371edc509424fee2b180a4ae3d78b82706ed38d0ec80e3adafdd2423c7",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0006:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括亲口以兼爱与仁慈解释，属他的理解",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括亲口以兼爱与仁慈解释，属他的理解",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0006:u002",
+            "start": 6,
+            "end": 66,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括亲口以兼爱与仁慈解释，属他的理解",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括亲口以兼爱与仁慈解释，属他的理解",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括亲口以兼爱与仁慈解释，属他的理解"
+      },
+      {
+        "reference": "v04-c0099:p0007",
+        "length": 73,
+        "sha256": "2764b83b36bf527f1669ad00e2314544103557b2375dccdfc2808ff68cad4453",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0007:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵内不认同掺兼爱，将无道理解为少求大道",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "内心",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵内不认同掺兼爱，将无道理解为少求大道",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0007:u002",
+            "start": 13,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵内不认同掺兼爱，将无道理解为少求大道",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵内不认同掺兼爱，将无道理解为少求大道",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵内不认同掺兼爱，将无道理解为少求大道"
+      },
+      {
+        "reference": "v04-c0099:p0008",
+        "length": 78,
+        "sha256": "79c6a0e5db6d2711ddd94e21064d7117eae604ecbb4df38321774742237d1d74",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0008:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "inner_speech",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵内联想陈墨吴法与中古诸子争鸣，所想仍未发生",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "内心",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵内联想陈墨吴法与中古诸子争鸣，所想仍未发生",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0008:u002",
+            "start": 53,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵内联想陈墨吴法与中古诸子争鸣，所想仍未发生",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵内联想陈墨吴法与中古诸子争鸣，所想仍未发生",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵内联想陈墨吴法与中古诸子争鸣，所想仍未发生"
+      },
+      {
+        "reference": "v04-c0099:p0009",
+        "length": 51,
+        "sha256": "b78e7bc803fd1662ce7b2412c3eac2c7304639d03b194a181b21f8891fb230cf",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0009:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵转话求田括照顾未明数目的入狱墨者",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵转话求田括照顾未明数目的入狱墨者",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0009:u002",
+            "start": 24,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵转话求田括照顾未明数目的入狱墨者",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "实际言语",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵转话求田括照顾未明数目的入狱墨者",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵转话求田括照顾未明数目的入狱墨者"
+      },
+      {
+        "reference": "v04-c0099:p0010",
+        "length": 28,
+        "sha256": "67d4c77cb5496f0bfe3a3bac3c5403ae44eb597a8a269e76a263474ff0f04c45",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0010:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵私估日后仍可能有牵扯",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "内心",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵私估日后仍可能有牵扯",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵私估日后仍可能有牵扯"
+      },
+      {
+        "reference": "v04-c0099:p0011",
+        "length": 20,
+        "sha256": "2c6ba8570227f1df41732b1f75670da48a823430844477aecdff5e6b14afe3a1",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0011:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括肃然实际承诺尽心",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括肃然实际承诺尽心",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0011:u002",
+            "start": 13,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括肃然实际承诺尽心",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "赵恒与田括各议老道说法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括肃然实际承诺尽心",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括肃然实际承诺尽心"
+      },
+      {
+        "reference": "v04-c0099:p0012",
+        "length": 69,
+        "sha256": "9a144dc9d1fa3c9a8e4709f4ffd1dfd15ad817c85c16f3c7dd22aaab6ba3e4f5",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0012:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵实际以田广之死问为何仍推墨家；前文实为田横杀之",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵实际以田广之死问为何仍推墨家；前文实为田横杀之",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0012:u002",
+            "start": 26,
+            "end": 69,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵实际以田广之死问为何仍推墨家；前文实为田横杀之",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵实际以田广之死问为何仍推墨家；前文实为田横杀之",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵实际以田广之死问为何仍推墨家；前文实为田横杀之"
+      },
+      {
+        "reference": "v04-c0099:p0013",
+        "length": 158,
+        "sha256": "9f9c5f8eaf7570cd2b87cfa8bf615c0618997a20aee8f036c05e1fe217083d6c",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0013:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括叹息并以苏先生所教说明须就事论事",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括叹息并以苏先生所教说明须就事论事",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0013:u002",
+            "start": 11,
+            "end": 158,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括叹息并以苏先生所教说明须就事论事",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括叹息并以苏先生所教说明须就事论事",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括叹息并以苏先生所教说明须就事论事"
+      },
+      {
+        "reference": "v04-c0099:p0014",
+        "length": 34,
+        "sha256": "d4631d678ae1e4153f19c6cf8f73c809daaaf35dd7d80c249c27eb650299a938",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0014:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括说兼爱非攻是否对与兄长死因是两回事",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括说兼爱非攻是否对与兄长死因是两回事",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括说兼爱非攻是否对与兄长死因是两回事"
+      },
+      {
+        "reference": "v04-c0099:p0015",
+        "length": 49,
+        "sha256": "db4ff9e49ddca7e793595f897ddee8fc22aeed8159c9d52005ff94cdd9843340",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0015:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括明确兄长先动手，以假设类比表达不迁怒",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括明确兄长先动手，以假设类比表达不迁怒",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括明确兄长先动手，以假设类比表达不迁怒"
+      },
+      {
+        "reference": "v04-c0099:p0016",
+        "length": 31,
+        "sha256": "5a0aa4c2025eba79078919a9d260d83bb3ed37c72a865bc9c1ac08f148be3666",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0016:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵实为田括能分辨而动容",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵实为田括能分辨而动容",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0016:u002",
+            "start": 18,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵实为田括能分辨而动容",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵实为田括能分辨而动容",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵实为田括能分辨而动容"
+      },
+      {
+        "reference": "v04-c0099:p0017",
+        "length": 8,
+        "sha256": "65a3fc73be4edfea2e95435bb457d1ba3450fbbae55bc3de5683588b106b8b5c",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0017:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙者说田括小赵不少，未给实岁",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "叙者说田括小赵不少，未给实岁",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙者说田括小赵不少，未给实岁"
+      },
+      {
+        "reference": "v04-c0099:p0018",
+        "length": 82,
+        "sha256": "98cf5d6f92d5ad08a3910a9c1d8095739268de6eb33a5a9bdac5566c4f977b39",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0018:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括笑称形成了初步三观，词归苏先生教",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括笑称形成了初步三观，词归苏先生教",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0018:u002",
+            "start": 13,
+            "end": 82,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括笑称形成了初步三观，词归苏先生教",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括笑称形成了初步三观，词归苏先生教",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括笑称形成了初步三观，词归苏先生教"
+      },
+      {
+        "reference": "v04-c0099:p0019",
+        "length": 13,
+        "sha256": "7da23a3c4c877a7c033d05d439791bfd52b6fcc4119b207c10941840b0cf9c49",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0019:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括说时神情隐恍惚",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括说时神情隐恍惚",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括说时神情隐恍惚"
+      },
+      {
+        "reference": "v04-c0099:p0020",
+        "length": 136,
+        "sha256": "0daa80ccabe64e8b5a5df578edef5afe09db55e289604e41a0f67954853f4863",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0020:u001",
+            "start": 0,
+            "end": 136,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括亲述任阳城宰曾见凌辱民众及闻小国亡，听讲后有解释",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括亲述任阳城宰曾见凌辱民众及闻小国亡，听讲后有解释",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括亲述任阳城宰曾见凌辱民众及闻小国亡，听讲后有解释"
+      },
+      {
+        "reference": "v04-c0099:p0021",
+        "length": 63,
+        "sha256": "cb39bbaf66e473a77cc95d17f2dd22f3508f8afe4d2706a11055352a2f322166",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0021:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括以所学解释贵庶与大势，自述而非旁叙定论",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括以所学解释贵庶与大势，自述而非旁叙定论",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0021:u002",
+            "start": 29,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括以所学解释贵庶与大势，自述而非旁叙定论",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括以所学解释贵庶与大势，自述而非旁叙定论",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括以所学解释贵庶与大势，自述而非旁叙定论"
+      },
+      {
+        "reference": "v04-c0099:p0022",
+        "length": 88,
+        "sha256": "579978f46e21eecbe14ba942d7cd5f66f6343beae79b9a051b3c82eb9aa7c2eb",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0022:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括渐兴奋，崇敬和预言苏墨获尊称尚属愿景",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括渐兴奋，崇敬和预言苏墨获尊称尚属愿景",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0022:u002",
+            "start": 14,
+            "end": 88,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括渐兴奋，崇敬和预言苏墨获尊称尚属愿景",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括渐兴奋，崇敬和预言苏墨获尊称尚属愿景",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括渐兴奋，崇敬和预言苏墨获尊称尚属愿景"
+      },
+      {
+        "reference": "v04-c0099:p0023",
+        "length": 35,
+        "sha256": "65d1d5d00b3b8528bd149d1de3d701c9fc9c48869a929cb5b5e970e43cad60ba",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0023:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括实问三观",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括实问三观",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0023:u002",
+            "start": 21,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括实问三观",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括实问三观",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括实问三观"
+      },
+      {
+        "reference": "v04-c0099:p0024",
+        "length": 24,
+        "sha256": "2edacafa23ad22a54e0ceef173b7784b7c0d2736f0cef8df1823fc3a0e987f89",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0024:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括看出赵脸色有些阴郁，原因未说",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括看出赵脸色有些阴郁，原因未说",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括看出赵脸色有些阴郁，原因未说"
+      },
+      {
+        "reference": "v04-c0099:p0025",
+        "length": 45,
+        "sha256": "c7afd21ce30b66ce2947cb9170b8f6f2eaa5e7b6f372c3e81d07ac09f4d9c6ab",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0025:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵实际用三种观点作解释",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵实际用三种观点作解释",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0025:u002",
+            "start": 5,
+            "end": 45,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵实际用三种观点作解释",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵实际用三种观点作解释",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵实际用三种观点作解释"
+      },
+      {
+        "reference": "v04-c0099:p0026",
+        "length": 88,
+        "sha256": "a57e5d7e0905e45c56d7576ede6762ba097575c522a7ccde699b4f9f49a6ccba",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0026:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括从感慨回到当前，拟稍后转赵至已搜之处",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括从感慨回到当前，拟稍后转赵至已搜之处",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0026:u002",
+            "start": 7,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田括从感慨回到当前，拟稍后转赵至已搜之处",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括从感慨回到当前，拟稍后转赵至已搜之处",
+            "focalizer": "tian_kuo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0026:u003",
+            "start": 31,
+            "end": 88,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_kuo",
+            "surface_identity": "任小司寇的田括，旧任阳城宰",
+            "text_context": "田括从感慨回到当前，拟稍后转赵至已搜之处",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "叹兄长后转恍惚及兴奋，最后正色",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "田括从感慨回到当前，拟稍后转赵至已搜之处",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田括从感慨回到当前，拟稍后转赵至已搜之处"
+      },
+      {
+        "reference": "v04-c0099:p0027",
+        "length": 11,
+        "sha256": "f397e4705db1c43a31fb496f956c661a5dd9032fe66365f3ea5ab3b6852f89c4",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0027:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵口头应好，未写已转移",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "实际言语",
+            "embodiment": "从联想争鸣转回囚中墨者",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵口头应好，未写已转移",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0027:u002",
+            "start": 4,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵口头应好，未写已转移",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "田括解释所学，再议转藏处",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "赵口头应好，未写已转移",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵口头应好，未写已转移"
+      },
+      {
+        "reference": "v04-c0099:p0028",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0028:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原省略号切到市场区",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "原省略号切到市场区",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原省略号切到市场区"
+      },
+      {
+        "reference": "v04-c0099:p0029",
+        "length": 18,
+        "sha256": "a020402f370960556ae84cf9b16021106286dfc52421924651e66f0f7f0a4cb6",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0029:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "市场区街巷繁复",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "市场区街巷繁复",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "市场区街巷繁复"
+      },
+      {
+        "reference": "v04-c0099:p0030",
+        "length": 27,
+        "sha256": "3e5b739bdd6d87e3405c6c2347023adbbebe30f50b59b9f4620346dfc04ad4db",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0030:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮实藏一名墨者宅，留在原地待信",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江阮实藏一名墨者宅，留在原地待信",
+            "focalizer": "v04c099_market_mohist_elder",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮实藏一名墨者宅，留在原地待信"
+      },
+      {
+        "reference": "v04-c0099:p0031",
+        "length": 124,
+        "sha256": "78f864a5464b37d45159da70053f8a35f32018fc31b19fc8b45a45c527f43028",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0031:u001",
+            "start": 0,
+            "end": 124,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "新入墨的白发老者为孟阮保举，几乎无其他墨者的横向关系",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "新入墨的白发老者为孟阮保举，几乎无其他墨者的横向关系",
+            "focalizer": "v04c099_market_mohist_elder",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "新入墨的白发老者为孟阮保举，几乎无其他墨者的横向关系"
+      },
+      {
+        "reference": "v04-c0099:p0032",
+        "length": 78,
+        "sha256": "0db24452e29d856652fe2762b272c00b81b73fefdb4f333c1ca3b53304bf2657",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0032:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者实报搜查并主动提出地窖藏人，尚未用",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "老者实报搜查并主动提出地窖藏人，尚未用",
+            "focalizer": "v04c099_market_mohist_elder",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0032:u002",
+            "start": 38,
+            "end": 78,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c099_market_mohist_elder",
+            "surface_identity": "市场区入墨不久的未名白发老者",
+            "text_context": "老者实报搜查并主动提出地窖藏人，尚未用",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "老者实报搜查并主动提出地窖藏人，尚未用",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者实报搜查并主动提出地窖藏人，尚未用"
+      },
+      {
+        "reference": "v04-c0099:p0033",
+        "length": 40,
+        "sha256": "d36ce13a04e0c8d25841936e1d112db75cea2d0bae537baac5d5a7cb5ad74b8b",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0033:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白写老者朴素报恩",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "旁白写老者朴素报恩",
+            "focalizer": "v04c099_market_mohist_elder",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白写老者朴素报恩"
+      },
+      {
+        "reference": "v04-c0099:p0034",
+        "length": 64,
+        "sha256": "70b3a18a876b57b6fcf98574b787be895e1c1212da54e07d13b573314232f7e6",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0034:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "jiang_zhiwei",
+            "text_context": "江先安抚老者，待出门后向阮警示持久搜查可能暴露",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "安抚墨者后主动谋自保",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江先安抚老者，待出门后向阮警示持久搜查可能暴露",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0034:u002",
+            "start": 12,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江先安抚老者，待出门后向阮警示持久搜查可能暴露",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江先安抚老者，待出门后向阮警示持久搜查可能暴露",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0034:u003",
+            "start": 38,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "jiang_zhiwei",
+            "text_context": "江先安抚老者，待出门后向阮警示持久搜查可能暴露",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "安抚墨者后主动谋自保",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江先安抚老者，待出门后向阮警示持久搜查可能暴露",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江先安抚老者，待出门后向阮警示持久搜查可能暴露"
+      },
+      {
+        "reference": "v04-c0099:p0035",
+        "length": 47,
+        "sha256": "959d8cc98b2ebc22a4e388b52bf9a88e11260ede45c292e343cccf79ccf45315",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0035:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_yushu",
+            "surface_identity": "ruan_yushu",
+            "text_context": "阮说还有两日能强行回归，搜完全城需更久",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "抱琴时冷静，乔装后实际受捕",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "阮说还有两日能强行回归，搜完全城需更久",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0035:u002",
+            "start": 14,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮说还有两日能强行回归，搜完全城需更久",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "阮说还有两日能强行回归，搜完全城需更久",
+            "focalizer": "ruan_yushu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0035:u003",
+            "start": 22,
+            "end": 47,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_yushu",
+            "surface_identity": "ruan_yushu",
+            "text_context": "阮说还有两日能强行回归，搜完全城需更久",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "抱琴时冷静，乔装后实际受捕",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "阮说还有两日能强行回归，搜完全城需更久",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮说还有两日能强行回归，搜完全城需更久"
+      },
+      {
+        "reference": "v04-c0099:p0036",
+        "length": 86,
+        "sha256": "2355c2e2466b11c7115213b759ddf89da659b7a687b846ce0d99d2a74713222f",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0036:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江估按现路线最快明后日，并认为市场易起冲突",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江估按现路线最快明后日，并认为市场易起冲突",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0036:u002",
+            "start": 7,
+            "end": 86,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "jiang_zhiwei",
+            "text_context": "江估按现路线最快明后日，并认为市场易起冲突",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "安抚墨者后主动谋自保",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江估按现路线最快明后日，并认为市场易起冲突",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江估按现路线最快明后日，并认为市场易起冲突"
+      },
+      {
+        "reference": "v04-c0099:p0037",
+        "length": 44,
+        "sha256": "85ba73bf887166cc5ad61558948dac723885852c0edd76493e7307282e8d5141",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0037:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白补市场鱼龙混杂，作为选藏处理由",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "旁白补市场鱼龙混杂，作为选藏处理由",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白补市场鱼龙混杂，作为选藏处理由"
+      },
+      {
+        "reference": "v04-c0099:p0038",
+        "length": 48,
+        "sha256": "71a9260b2c848c54bde364ccb42a79641050128dcc4d20fc42b4a1a314b6faaf",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0038:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "jiang_zhiwei",
+            "text_context": "江明确不愿坐等并牵累老者",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "安抚墨者后主动谋自保",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江明确不愿坐等并牵累老者",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0038:u002",
+            "start": 6,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江明确不愿坐等并牵累老者",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江明确不愿坐等并牵累老者",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0038:u003",
+            "start": 14,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "jiang_zhiwei",
+            "text_context": "江明确不愿坐等并牵累老者",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "安抚墨者后主动谋自保",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江明确不愿坐等并牵累老者",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江明确不愿坐等并牵累老者"
+      },
+      {
+        "reference": "v04-c0099:p0039",
+        "length": 70,
+        "sha256": "fdc424a87478b0e8a07fa6761e6b863fab650bfec9374a3bf49c9e5584ec9025",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0039:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白解释江素来要主动求稳",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "旁白解释江素来要主动求稳",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白解释江素来要主动求稳"
+      },
+      {
+        "reference": "v04-c0099:p0040",
+        "length": 51,
+        "sha256": "ac963ff2c590c3036ca8403d4d622ea990d0922c6bc575d9e82b13b370151094",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0040:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮抱琴提慢转去已搜街道，未行动",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "阮抱琴提慢转去已搜街道，未行动",
+            "focalizer": "ruan_yushu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0040:u002",
+            "start": 13,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_yushu",
+            "surface_identity": "ruan_yushu",
+            "text_context": "阮抱琴提慢转去已搜街道，未行动",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "抱琴时冷静，乔装后实际受捕",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "阮抱琴提慢转去已搜街道，未行动",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮抱琴提慢转去已搜街道，未行动"
+      },
+      {
+        "reference": "v04-c0099:p0041",
+        "length": 34,
+        "sha256": "2cf7cb79186668fddb82f16b6cfa87c025f44d9ce93e9482975eefc8645c350b",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0041:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "jiang_zhiwei",
+            "text_context": "江实际指出半空外景可能觉察",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "实际言语",
+            "embodiment": "安抚墨者后主动谋自保",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江实际指出半空外景可能觉察",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0041:u002",
+            "start": 26,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际指出半空外景可能觉察",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江实际指出半空外景可能觉察",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际指出半空外景可能觉察"
+      },
+      {
+        "reference": "v04-c0099:p0042",
+        "length": 16,
+        "sha256": "271f8c846c1fe86f7dab631af02f19ddb97cd29e9aa91335e10ee00fbaf420f2",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0042:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江未将希望寄在孟等身上",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江未将希望寄在孟等身上",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江未将希望寄在孟等身上"
+      },
+      {
+        "reference": "v04-c0099:p0043",
+        "length": 25,
+        "sha256": "f53316947332c9d954ac2cbeef5ab0d05ccd757c7263f0666fee2f95d8c29086",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0043:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "二人不断提办法又否定",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "江阮待消息并衡量回归",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "二人不断提办法又否定",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二人不断提办法又否定"
+      },
+      {
+        "reference": "v04-c0099:p0044",
+        "length": 20,
+        "sha256": "43e31120fe2dc290d478ff7bbd386ab97745170f4b617a09e2548e49a68ef544",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0044:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "远处闻喧闹，未知起因",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "远处闻喧闹，未知起因",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "远处闻喧闹，未知起因"
+      },
+      {
+        "reference": "v04-c0099:p0045",
+        "length": 48,
+        "sha256": "83dbacf513f015d556a8ca8e5ef3b2637102d764216f8f7b798a328a82cd5851",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0045:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者实际回报大盗被逼出、兵阵围捕，外景似帮忙",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "老者实际回报大盗被逼出、兵阵围捕，外景似帮忙",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者实际回报大盗被逼出、兵阵围捕，外景似帮忙"
+      },
+      {
+        "reference": "v04-c0099:p0046",
+        "length": 15,
+        "sha256": "306a565da433c50b6b67d0623136b1e130880458e342413eb4c5d7dbcb708786",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0046:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "江芷微与阮玉书，乔装寻消息的普通男子",
+            "text_context": "江阮传音之一，原文未点具体发言者",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "江芷微阮玉书互相传音，逐句归人未明",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江阮传音之一，原文未点具体发言者",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮传音之一，原文未点具体发言者"
+      },
+      {
+        "reference": "v04-c0099:p0047",
+        "length": 19,
+        "sha256": "04de8ad941634edbb8e2b450e315a0930df60b03482124c217f9e8651b55d20d",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0047:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "江芷微与阮玉书，乔装寻消息的普通男子",
+            "text_context": "江阮传音之二，具体发言人不定",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "江芷微阮玉书互相传音，逐句归人未明",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江阮传音之二，具体发言人不定",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮传音之二，具体发言人不定"
+      },
+      {
+        "reference": "v04-c0099:p0048",
+        "length": 30,
+        "sha256": "be55c4cb7f1d273d76b9595fbd04ce0e91659045169d82f3b4a86d418534103e",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0048:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "江芷微与阮玉书，乔装寻消息的普通男子",
+            "text_context": "江阮传音之三，暂估无额外审问人手",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "江芷微阮玉书互相传音，逐句归人未明",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江阮传音之三，暂估无额外审问人手",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮传音之三，暂估无额外审问人手"
+      },
+      {
+        "reference": "v04-c0099:p0049",
+        "length": 44,
+        "sha256": "9848599f8e96cf3dcc51cf101857480faab83df9b7b2e164d217efb67436abe0",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0049:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白明三句为二人传音，二人同时想到办法",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "旁白明三句为二人传音，二人同时想到办法",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白明三句为二人传音，二人同时想到办法"
+      },
+      {
+        "reference": "v04-c0099:p0050",
+        "length": 56,
+        "sha256": "e51855b3958ac57c976157ce3e0c863c5e50da9ffbcd2cf110838a989315ba03",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0050:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "一刻钟后实乔装普通男子并靠近搜寻区",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "一刻钟后实乔装普通男子并靠近搜寻区",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "一刻钟后实乔装普通男子并靠近搜寻区"
+      },
+      {
+        "reference": "v04-c0099:p0051",
+        "length": 20,
+        "sha256": "c3cda5c6ee0cdc6045c0305d092f7ef31b128b0ef4733649cc32915d7e3b2892",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0051:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙者写城阵抑制外溢、风险的判断",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "叙者写城阵抑制外溢、风险的判断",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙者写城阵抑制外溢、风险的判断"
+      },
+      {
+        "reference": "v04-c0099:p0052",
+        "length": 64,
+        "sha256": "121f96cac763d4c6b845db52a17b89385e6cd69e4ba30689a32fad87bb55bd11",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0052:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "见零散被捕不动，仍等待足够混乱",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "见零散被捕不动，仍等待足够混乱",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "见零散被捕不动，仍等待足够混乱"
+      },
+      {
+        "reference": "v04-c0099:p0053",
+        "length": 33,
+        "sha256": "989c8381574650e736d3a7f3dff01259d9c150fab57939e129d48165d6a32207",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0053:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "午后搜客栈时小楼实坍",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "午后搜客栈时小楼实坍",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "午后搜客栈时小楼实坍"
+      },
+      {
+        "reference": "v04-c0099:p0054",
+        "length": 12,
+        "sha256": "aa5b0ab2d05a907d237cbaaf5d324f5f22dd83c65fe51b74b0f9c2b23ebc9bdc",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0054:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白说有心虚者主动出击，非人物喊话",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "旁白说有心虚者主动出击，非人物喊话",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白说有心虚者主动出击，非人物喊话"
+      },
+      {
+        "reference": "v04-c0099:p0055",
+        "length": 37,
+        "sha256": "ef118e3613fd9246357a0625b296fbb20b72ae809cd158417894751ab73b0ee9",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0055:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "将佐展开阵图，士卒摆阵守边",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "将佐展开阵图，士卒摆阵守边",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "将佐展开阵图，士卒摆阵守边"
+      },
+      {
+        "reference": "v04-c0099:p0056",
+        "length": 34,
+        "sha256": "ea727a670651538208c2bbcb491422a37fe7d5a79cd630495ff7cc45714c8e25",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0056:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "城阵压外溢，军阵以浪困为首者",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "城阵压外溢，军阵以浪困为首者",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "城阵压外溢，军阵以浪困为首者"
+      },
+      {
+        "reference": "v04-c0099:p0057",
+        "length": 51,
+        "sha256": "bdfde742124f4b774b1461c26dcf99aa17d5d7b764ca80ab6db54dda01b9790f",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0057:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c099_unnamed_bystander",
+            "surface_identity": "v04c099_unnamed_bystander",
+            "text_context": "不具名在场者认出姜行，随后叙者补江湖背景",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "不具名在场者认出姜行，随后叙者补江湖背景",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0057:u002",
+            "start": 13,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "不具名在场者认出姜行，随后叙者补江湖背景",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "不具名在场者认出姜行，随后叙者补江湖背景",
+            "focalizer": "jiang_xing",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "不具名在场者认出姜行，随后叙者补江湖背景"
+      },
+      {
+        "reference": "v04-c0099:p0058",
+        "length": 31,
+        "sha256": "81f41a5819b458197770024d4b52703017c3f6d579b3610c1a6f4fe2c9bea69a",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0058:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "姜行手下散开试逃",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "姜行手下散开试逃",
+            "focalizer": "jiang_xing",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "姜行手下散开试逃"
+      },
+      {
+        "reference": "v04-c0099:p0059",
+        "length": 23,
+        "sha256": "4005bfc6e8d64752591cf86859ca58fd4c16ddf17e72fcf3c2b48dfbd5fd7d85",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0059:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "兵卒成队实际拦截",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "兵卒成队实际拦截",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "兵卒成队实际拦截"
+      },
+      {
+        "reference": "v04-c0099:p0060",
+        "length": 49,
+        "sha256": "1d47cf3c83121751adb9b2b57627c4e7e6e6d23b297e1da0746cdfa63a48adb8",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0060:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "外景专注阻人穿去已搜区",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "外景专注阻人穿去已搜区",
+            "focalizer": "v04c099_market_exterior_officer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "外景专注阻人穿去已搜区"
+      },
+      {
+        "reference": "v04-c0099:p0061",
+        "length": 45,
+        "sha256": "aa712ee8d2623aaac6888fc6074941225a0c59980aa928b5b51822fc65843906",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0061:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮实假扮盗匪同伴出手，被看作小卒",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江阮实假扮盗匪同伴出手，被看作小卒",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮实假扮盗匪同伴出手，被看作小卒"
+      },
+      {
+        "reference": "v04-c0099:p0062",
+        "length": 27,
+        "sha256": "3961210e125f6bf8494a1f1b2884a985e3fcb035765d85f0bfac1d0eeb3ffbfc",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0062:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "刻意压在六七窍，二人被锁双手，未降境界",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "刻意压在六七窍，二人被锁双手，未降境界",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "刻意压在六七窍，二人被锁双手，未降境界"
+      },
+      {
+        "reference": "v04-c0099:p0063",
+        "length": 14,
+        "sha256": "3c392380ec45bf4a3bcd23ae0685b540de1e1b21eff67f5e9fab0991a0c84c99",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0063:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "半空外景命随后押人，话在下段",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "半空外景命随后押人，话在下段",
+            "focalizer": "v04c099_market_exterior_officer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "半空外景命随后押人，话在下段"
+      },
+      {
+        "reference": "v04-c0099:p0064",
+        "length": 15,
+        "sha256": "1b8fbeef88f0e258352c9e2c42ab157badbf56e0c939b6b1c66f92e6d03e4065",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0064:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c099_market_exterior_officer",
+            "surface_identity": "v04c099_market_exterior_officer",
+            "text_context": "外景者实际下令送牢待审",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "外景者实际下令送牢待审",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "外景者实际下令送牢待审"
+      },
+      {
+        "reference": "v04-c0099:p0065",
+        "length": 40,
+        "sha256": "afdc4bce85782774f65b44bcc5d9f2445b0b06281190ff24e704b3e6182099fe",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0065:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江阮以踉跄掩喜，反问作二人心声",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江阮以踉跄掩喜，反问作二人心声",
+            "focalizer": "v04c099_jiang_and_ruan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0065:u002",
+            "start": 22,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "江芷微与阮玉书，乔装寻消息的普通男子",
+            "text_context": "江阮以踉跄掩喜，反问作二人心声",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "江阮共有盘算，未标谁单独想到",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江阮以踉跄掩喜，反问作二人心声",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0099:p0065:u003",
+            "start": 32,
+            "end": 40,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "江芷微与阮玉书，乔装寻消息的普通男子",
+            "text_context": "江阮以踉跄掩喜，反问作二人心声",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "江阮共有盘算，未标谁单独想到",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "江阮以踉跄掩喜，反问作二人心声",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江阮以踉跄掩喜，反问作二人心声"
+      },
+      {
+        "reference": "v04-c0099:p0066",
+        "length": 12,
+        "sha256": "f5ddf6cc885727fbd5e2cc6a075b1fada2774325dde84eca1d4616abeb6ee58f",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0066:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "江芷微与阮玉书，乔装寻消息的普通男子",
+            "text_context": "二人计划用低微小卒身份入牢",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "江阮共有盘算，未标谁单独想到",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "二人计划用低微小卒身份入牢",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二人计划用低微小卒身份入牢"
+      },
+      {
+        "reference": "v04-c0099:p0067",
+        "length": 48,
+        "sha256": "fdb25bae40d25fd0ea62b28af5f4426688853f00ac397dcf788afcd20ebcc8fd",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0067:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "inner_speech",
+            "speaker": "v04c099_jiang_and_ruan",
+            "surface_identity": "江芷微与阮玉书，乔装寻消息的普通男子",
+            "text_context": "二人预计羁押看守有别，想等回归或协助，尚无牢中结果",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "市场有混乱，江阮易装受捕",
+            "channel": "江阮共有盘算，未标谁单独想到",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "二人预计羁押看守有别，想等回归或协助，尚无牢中结果",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二人预计羁押看守有别，想等回归或协助，尚无牢中结果"
+      },
+      {
+        "reference": "v04-c0099:p0068",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0068:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原省略号转孟一路",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "原省略号转孟一路",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原省略号转孟一路"
+      },
+      {
+        "reference": "v04-c0099:p0069",
+        "length": 34,
+        "sha256": "8f07f1321745e597a34ab30fd0b10b7544de1024724ecb5de5f99ef075e8f873",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0069:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际变鱼在城下暗流等待城阵机会",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "孟实际变鱼在城下暗流等待城阵机会",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际变鱼在城下暗流等待城阵机会"
+      },
+      {
+        "reference": "v04-c0099:p0070",
+        "length": 45,
+        "sha256": "7c7034f32ad00b53d49159d12ac64dc847ab86593d920d06c73a77355149a738",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0070:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟信任江阮可应付，计划城外有动静可解搜",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "孟信任江阮可应付，计划城外有动静可解搜",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟信任江阮可应付，计划城外有动静可解搜"
+      },
+      {
+        "reference": "v04-c0099:p0071",
+        "length": 66,
+        "sha256": "0e91e88b7c204e8b4f31ebd9d8400e565362a548dff13696f551ca997841ea08",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0071:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "夜间外景归，有持令牌穿阵，也有需内部开阵，金光洞宗师属后",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "夜间外景归，有持令牌穿阵，也有需内部开阵，金光洞宗师属后",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "夜间外景归，有持令牌穿阵，也有需内部开阵，金光洞宗师属后"
+      },
+      {
+        "reference": "v04-c0099:p0072",
+        "length": 26,
+        "sha256": "edf8696d12c77adf6af7aafbd1dae3841bba4917d99aee6bec29c6584b2b0472",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0072:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白明宗师未持令牌",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "旁白明宗师未持令牌",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白明宗师未持令牌"
+      },
+      {
+        "reference": "v04-c0099:p0073",
+        "length": 52,
+        "sha256": "0650af9eaa608995e85e136f45aab12a1820e318a65cb64ae6fb341e798a2210",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0073:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟在令牌引动阵法时跟另一条鱼后过界",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "孟在令牌引动阵法时跟另一条鱼后过界",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟在令牌引动阵法时跟另一条鱼后过界"
+      },
+      {
+        "reference": "v04-c0099:p0074",
+        "length": 26,
+        "sha256": "081152fd3b88411350a3bd5583b910483b7cd7baab60df9b9f65c15b20a41b26",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0074:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟确已通过光层，无异常",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "孟确已通过光层，无异常",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟确已通过光层，无异常"
+      },
+      {
+        "reference": "v04-c0099:p0075",
+        "length": 25,
+        "sha256": "8be3a8f4853cc93387feab84d3e8167e02479a159f2e4604930499bdbe4d53bc",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0075:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟沿地下水往外，变地鼠上行",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "孟沿地下水往外，变地鼠上行",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟沿地下水往外，变地鼠上行"
+      },
+      {
+        "reference": "v04-c0099:p0076",
+        "length": 46,
+        "sha256": "68efbc300d5650d206a71c135a7fc10ed4303c0e4172d53a5570e3c2de37a0d7",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0076:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "出地后变人回看上营，仿佛看到枣红脸宗师，非面对面",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "出地后变人回看上营，仿佛看到枣红脸宗师，非面对面",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "出地后变人回看上营，仿佛看到枣红脸宗师，非面对面"
+      },
+      {
+        "reference": "v04-c0099:p0077",
+        "length": 13,
+        "sha256": "1582ecaf979b3774e0588e6e8b0d076d280e6e734b9fa2f497aa01b2e3784d19",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0077:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟深呼吸后持刀实往前",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "孟深呼吸后持刀实往前",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟深呼吸后持刀实往前"
+      },
+      {
+        "reference": "v04-c0099:p0078",
+        "length": 10,
+        "sha256": "ed1d3e19e0f7bdc56ad4456b0408160cddbfa38547d94f256f163e86ee2c4f3c",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0078:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "先以鱼、后以地鼠通过地下，城外恢复人形",
+            "text_context": "孟内下决心动手，本章未实施",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "内心",
+            "embodiment": "平和等阵开，出城后持刀决然",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "孟内下决心动手，本章未实施",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内下决心动手，本章未实施"
+      },
+      {
+        "reference": "v04-c0099:p0079",
+        "length": 9,
+        "sha256": "f6fd5b2a6f44a9458dd755d5f481cc2be2d774363ec85c199c12d91204ba5001",
+        "units": [
+          {
+            "unit_id": "v04-c0099:p0079:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "先以鱼、后以地鼠通过地下，城外恢复人形",
+            "text_context": "孟内明确念头指公羊家封地，章末尚在迈步",
+            "world_context": "第四卷封神：田府话老道、市场区江阮主动被捕、孟奇出城",
+            "stage_context": "孟于地下过阵，城外想到公羊封地",
+            "channel": "内心",
+            "embodiment": "平和等阵开，出城后持刀决然",
+            "vow_friendship_and_loot_boundary": "老道语意经田括转述，赵与田括的解释都保留为人物所思。江阮实被捕，押送已下令，尚无入牢细节。孟实出城，去公羊封地是内心决定。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "市场白发老者无姓名，与上营先前借院老人关系未定。受捕时六七窍是主动压制。枣红脸只见于孟回望时的想象性描摹。",
+            "knowledge_boundary": "孟内明确念头指公羊家封地，章末尚在迈步",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内明确念头指公羊家封地，章末尚在迈步"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0099",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S13",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 11,
+        "label": "借田括转述听见老道的话",
+        "direction": "续接田府谈话。田括先补老道如何说自己被排斥，再转述其垂泪之言。田括诚恳地往兼爱解释，赵的异议与诸子争鸣的热心留在心里，随后他把话题实转入狱中墨者。 证据 v04-c0099:p0001–p0011。"
+      },
+      {
+        "paragraph_start": 12,
+        "paragraph_end": 27,
+        "label": "田括说兄长与墨家，转议下一处藏身",
+        "direction": "让赵斟酌后才问。田括叹息、分辨是非，再由任阳城宰的回忆谈到渐起的激动。赵面色转阴片刻，笑答三观。以田括恢复正色和之后要转藏的打算结束，仍留在其房。 证据 v04-c0099:p0012–p0027。"
+      },
+      {
+        "paragraph_start": 29,
+        "paragraph_end": 43,
+        "label": "市场区民宅，老者愿以地窖相护",
+        "direction": "市场密巷带到新入墨的白发老人。地窖是他的报恩提议；等他重新出门再让江细谈搜捕，阮抱琴算回归两日。江反对坐等或牵累主人，阮问慢转，江指出悬空的人会发现，两人一时无定计。 证据 v04-c0099:p0029–p0043。"
+      },
+      {
+        "paragraph_start": 44,
+        "paragraph_end": 67,
+        "label": "市场骚乱中江阮乔装，主动成为被捕者",
+        "direction": "先听闹，再由老者报告。江阮的三句传音不分配到单独一人，通过对视落同时想到。午后楼塌、姜行被认出及众人溃逃依次进场。江阮乔为男子后主动现身，锁手时压下愉悦，外景落令待审。 证据 v04-c0099:p0044–p0067。"
+      },
+      {
+        "paragraph_start": 69,
+        "paragraph_end": 79,
+        "label": "以鱼过阵，孟奇出城才定下去向",
+        "direction": "转地下暗流，由鱼视线等到夜归的人触动阵法。孟实际穿过光层，随后从水路变地鼠上行，恢复人形后遥望上营。遥望只见其所感，最后的决意贴孟心里，画面落在提刀迈步。 证据 v04-c0099:p0069–p0079。"
+      }
+    ],
+    "knowledge_rule": "老道在此通过田括转述，词序按对白与章名各自保留。赵恒对田广之死的说法留在人物视点，实际死因承接第95章。江阮的三段传音不可确分发言者；押送下令已发生，入牢与救助尚无结果。孟奇出城已发生，公羊封地的行动只到内心决定。"
+  }
 }

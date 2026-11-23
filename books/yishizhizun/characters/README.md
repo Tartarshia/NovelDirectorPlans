@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [田括解释为何不因兄死弃墨，赵恒答三观](early-v04-Tian-Kuo-explains-his-commitment-to-Mohism.md) | 第四卷第99章历史归属回补 |
+| [江阮以小卒身份受捕，外景下令送牢](early-v04-Jiang-and-Ruan-allow-their-arrest.md) | 第四卷第99章历史归属回补 |
+| [孟从暗流过阵，城外定公羊封地之意](early-v04-Meng-passes-the-Shangying-barrier.md) | 第四卷第99章历史归属回补 |
 | [严宽自报姓名，有职司的隐秘墨者](early-v04-Yan-Kuan-named-as-a-secret-Mohist.md) | 第四卷第98章历史归属回补 |
 | [严宅经过一轮搜查，孟拟把追索引到城外](early-v04-Yan-house-searched-and-Meng-plans-to-leave.md) | 第四卷第98章历史归属回补 |
 | [田括说得狱中老道士提醒而查到阴谋](early-v04-Tian-Kuo-learned-from-an-unnamed-jailed-daoist.md) | 第四卷第98章历史归属回补 |
