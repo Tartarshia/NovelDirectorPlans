@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇以小成阴阳变反转血日](early-v04-Yin-Yang-Reversal-against-Chen-Wendeng.md) | 第四卷第74章历史归属回补 |
+| [方不同体内之物自称昆仑灵药](early-v04-Kunlun-medicine-spirit-speaks-through-Fang.md) | 第四卷第74章历史归属回补 |
+| [封印位置问得，孟奇决定另请灵宝](early-v04-Sealed-site-claims-and-Meng-plans-to-bring-Lingbao.md) | 第四卷第74章历史归属回补 |
 | [张玉泉打定主意邀方，方带陈文登来](early-v04-Zhang-Yuquan-invites-Fang-and-Chen.md) | 第四卷第73章历史归属回补 |
 | [孟奇封住方不同，方口称昆仑之灵](early-v04-Meng-restrains-Fang-and-hears-Kunlun-claim.md) | 第四卷第73章历史归属回补 |
 | [陈文登显血日，张玉泉识出大日神巫](early-v04-Chen-Wendeng-blood-sun-and-sun-shaman.md) | 第四卷第73章历史归属回补 |
