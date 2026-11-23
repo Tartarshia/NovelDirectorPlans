@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [丰城孝服申讨，公羊登被杀，士卒未被株连](early-v04-Fengcheng-mourning-band-and-Gongyang-Deng.md) | 第四卷第100章历史归属回补 |
+| [枣红脸金光洞宗师名赤霞，为公羊薄师伯](early-v04-Palace-archer-named-as-Chixia.md) | 第四卷第100章历史归属回补 |
+| [上营城门打开，孟换黑袍走向城门](early-v04-Shangying-gates-reopen-and-Meng-approaches.md) | 第四卷第100章历史归属回补 |
 | [田括解释为何不因兄死弃墨，赵恒答三观](early-v04-Tian-Kuo-explains-his-commitment-to-Mohism.md) | 第四卷第99章历史归属回补 |
 | [江阮以小卒身份受捕，外景下令送牢](early-v04-Jiang-and-Ruan-allow-their-arrest.md) | 第四卷第99章历史归属回补 |
 | [孟从暗流过阵，城外定公羊封地之意](early-v04-Meng-passes-the-Shangying-barrier.md) | 第四卷第99章历史归属回补 |
