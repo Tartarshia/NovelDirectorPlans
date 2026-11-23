@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [何七和守静分别阻夔牛与白虎](early-v04-He-Qi-and-Shoujing-break-the-demon-pincer.md) | 第四卷第64章历史归属回补 |
+| [渡世法王点怪，雪山白发男子改攻](early-v04-Dushi-Fawang-and-the-Bodhi-contest.md) | 第四卷第64章历史归属回补 |
+| [韩广由真空闻脱困推断援军将至](early-v04-Han-Guang-plans-retreat-inside-the-sword-array.md) | 第四卷第64章历史归属回补 |
 | [空闻、陆大与孟在峰顶感霸王余息](early-v04-overlord-trace-at-the-fragment-summit.md) | 第四卷第63章历史归属回补 |
 | [总纲现为枯荣菩提，诸法身争取](early-v04-Fish-Sea-Pipal-tree-emerges.md) | 第四卷第63章历史归属回补 |
 | [韩广显帝相，冲和一人立诛仙剑阵](early-v04-Han-Guang-revealed-and-Chonghe-sword-formation.md) | 第四卷第63章历史归属回补 |
