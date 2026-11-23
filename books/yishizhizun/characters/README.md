@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [新鱼海搜宝与瞿九娘相遇](early-v04-New-Fish-Sea-salvage-and-Qu-Jiuniang.md) | 第四卷第69章历史归属回补 |
+| [云鹤按约分物后回万象门](early-v04-Yunhe-divides-salvage-and-returns.md) | 第四卷第69章历史归属回补 |
+| [灵宝说少林原拟答谢及八九首式](early-v04-Lingbao-recounts-Shaolin-offer-and-Bajiu-technique.md) | 第四卷第69章历史归属回补 |
 | [月摩尼光王菩萨给再次得见兰柯寺的方法](early-v04-Yuemoni-Bodhisattva-names-the-way-to-Lanke.md) | 第四卷第68章历史归属回补 |
 | [孟得唯我独尊皮毛，真慧感悟过深睡去](early-v04-Bodhi-insight-Meng-traces-Zhen-Hui-sleeps.md) | 第四卷第68章历史归属回补 |
 | [孟为玄悲请入塔，飞离后返鱼海](early-v04-Meng-asks-reward-for-Xuanbei-and-dives-at-Fish-Sea.md) | 第四卷第68章历史归属回补 |
