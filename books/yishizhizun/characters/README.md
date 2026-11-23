@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阳城宰田括投苏，田横两次说任他去](early-v04-Tian-Kuo-goes-to-Su-Mo.md) | 第四卷第94章历史归属回补 |
+| [陈宫议落实，暂以王丹封地为重点](early-v04-Implementation-debate-and-Wang-Dan-lands.md) | 第四卷第94章历史归属回补 |
+| [简礼朝会宣授职，孟奇认出上大夫田广](early-v04-Court-announces-Situ-posts-and-Meng-notices-Tian-Guang.md) | 第四卷第94章历史归属回补 |
 | [强本、非攻、交相利三策](early-v04-Chen-court-three-policies-and-market-taxes.md) | 第四卷第93章历史归属回补 |
 | [陈王亲扶请任大司徒，孟拱手应下](early-v04-Chen-king-offers-Meng-the-grand-situ-post.md) | 第四卷第93章历史归属回补 |
 | [田广忧变革失封地，借苏墨之言明志](early-v04-Tian-Guang-reacts-to-the-reform.md) | 第四卷第93章历史归属回补 |
