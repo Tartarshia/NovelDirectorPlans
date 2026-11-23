@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [黄泉手骨两笔付费后实解封](early-v04-Huangquan-bone-two-payments-and-unsealed-properties.md) | 第四卷第84章历史归属回补 |
+| [曹献之摘清源面具，与孟正式相会](early-v04-Cao-Xianzhi-unveils-the-Qingyuan-title.md) | 第四卷第84章历史归属回补 |
+| [五人现轮回广场，任务抽得墨家](early-v04-Fengshen-task-and-the-Mohist-draw.md) | 第四卷第84章历史归属回补 |
 | [兰柯开向茂陵，孟支付言无我报酬](early-v04-Lanke-exit-to-Maoling-and-auction-settlement.md) | 第四卷第83章历史归属回补 |
 | [迈八九第一难，孟奇实入第三重天](early-v04-Meng-third-exterior-heaven-and-Primordial-form.md) | 第四卷第83章历史归属回补 |
 | [斗姆约七日后正式聚会](early-v04-Doumu-invites-Meng-before-the-bone-is-opened.md) | 第四卷第83章历史归属回补 |

@@ -61,7 +61,2848 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0252"
+  "reading_batch": "batch-0252",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0084",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0084.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0084:p0001",
+        "length": 58,
+        "sha256": "eaee27b8fba0991da2d0274dc4c622fccd65635509535faca96d4c31641e69e0",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0001:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道鉴定神兵级黄泉手骨，失原力价值未明",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道鉴定神兵级黄泉手骨，失原力价值未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道鉴定神兵级黄泉手骨，失原力价值未明"
+      },
+      {
+        "reference": "v04-c0084:p0002",
+        "length": 19,
+        "sha256": "4c47ef4c29c078b71ced705f950bdda9387d9215446e9296c169c10bed5e3ab9",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0002:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道报解因价8000",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道报解因价8000",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道报解因价8000"
+      },
+      {
+        "reference": "v04-c0084:p0003",
+        "length": 52,
+        "sha256": "393d15f6fd8bcc1430b8f099a115f4f74ec055dd48d64139ad6527a8563fa930",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0003:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟心骂六道此前缩回，实付8000",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟心骂六道此前缩回，实付8000",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0003:u002",
+            "start": 35,
+            "end": 40,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟心骂六道此前缩回，实付8000",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟心骂六道此前缩回，实付8000",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0003:u003",
+            "start": 40,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟心骂六道此前缩回，实付8000",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟心骂六道此前缩回，实付8000",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心骂六道此前缩回，实付8000"
+      },
+      {
+        "reference": "v04-c0084:p0004",
+        "length": 43,
+        "sha256": "a4b9552ceb8fac9c5efbbd778f79ffb4cc80e0ea779817d41187b0713dccb606",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0004:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "余额实降12700，六道语入脑",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "余额实降12700，六道语入脑",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "余额实降12700，六道语入脑"
+      },
+      {
+        "reference": "v04-c0084:p0005",
+        "length": 68,
+        "sha256": "554bfd7020053572dcef69618acb8d22bc7acf924e556e10ad8d1b381d1cd0b7",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0005:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道说黄泉因寿限分出一缕元神轮回",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道说黄泉因寿限分出一缕元神轮回",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道说黄泉因寿限分出一缕元神轮回"
+      },
+      {
+        "reference": "v04-c0084:p0006",
+        "length": 31,
+        "sha256": "45f4ebb5eb09d602b0885934eb89f858baa829d5453166b723131d55969336ef",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0006:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟心惊黄泉轮回",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟心惊黄泉轮回",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0006:u002",
+            "start": 8,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟心惊黄泉轮回",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟心惊黄泉轮回",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心惊黄泉轮回"
+      },
+      {
+        "reference": "v04-c0084:p0007",
+        "length": 27,
+        "sha256": "d809d21d1f8a85004798d952ae8347892e8ab8a3767f1ffb635f472c79deacd5",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0007:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "六道声音宏大平直继续",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道声音宏大平直继续",
+            "focalizer": "six_paths_reincarnation_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道声音宏大平直继续"
+      },
+      {
+        "reference": "v04-c0084:p0008",
+        "length": 109,
+        "sha256": "23b2a1d30a2197676b0f2a52c2baca65cf10cd29734e5fd419a83d5048ece329",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0008:u001",
+            "start": 0,
+            "end": 109,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道说旧神体藏封处，手骨为仅黄泉能唤封印",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道说旧神体藏封处，手骨为仅黄泉能唤封印",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道说旧神体藏封处，手骨为仅黄泉能唤封印"
+      },
+      {
+        "reference": "v04-c0084:p0009",
+        "length": 32,
+        "sha256": "1e549a399a51074ebe991669219a2249e89558710f6efbaccfd35642a9946817",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0009:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "唤醒后可一定驾驭其余神体",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "唤醒后可一定驾驭其余神体",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "唤醒后可一定驾驭其余神体"
+      },
+      {
+        "reference": "v04-c0084:p0010",
+        "length": 52,
+        "sha256": "96c7ca6d486ceac8f494dc08abd35d6f1d284acad243b5236c7dd5388c6968f1",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0010:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道说转世未归，神躯已被别人所得",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道说转世未归，神躯已被别人所得",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道说转世未归，神躯已被别人所得"
+      },
+      {
+        "reference": "v04-c0084:p0011",
+        "length": 48,
+        "sha256": "7a7b68ad320f3c8834f2ae47ea23093b30210c4c12e0fff39894c73dd6a324d0",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0011:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道报封印极薄，再付2000可解",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道报封印极薄，再付2000可解",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道报封印极薄，再付2000可解"
+      },
+      {
+        "reference": "v04-c0084:p0012",
+        "length": 62,
+        "sha256": "fa2382b0de500ae9c58c8e840f68023bd96801542d3d472ba42448e99b645ae1",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0012:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟据六道整理舍体而未归，感不安",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟据六道整理舍体而未归，感不安",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟据六道整理舍体而未归，感不安"
+      },
+      {
+        "reference": "v04-c0084:p0013",
+        "length": 8,
+        "sha256": "118d3d50d18b17d180110b45376a1932315df2688b48b3e5592b9335eb1e79df",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0013:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟内问黄泉下落",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟内问黄泉下落",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内问黄泉下落"
+      },
+      {
+        "reference": "v04-c0084:p0014",
+        "length": 11,
+        "sha256": "6fb11ff770d0ed7f02a94bfa13655aec5e0f024d89a59b0f80f6ce447c49449b",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0014:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟内问轮回能否成功",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟内问轮回能否成功",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内问轮回能否成功"
+      },
+      {
+        "reference": "v04-c0084:p0015",
+        "length": 19,
+        "sha256": "dfde2467ee021a68b1397c76f4d76411db693e86294d49367da95711dafef0be",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0015:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟想起霸王绝刀",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟想起霸王绝刀",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟想起霸王绝刀"
+      },
+      {
+        "reference": "v04-c0084:p0016",
+        "length": 38,
+        "sha256": "1bd633674660aecf02529d02a27798ca7d32d4456555e48c46ed3c14a522668b",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0016:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "霸王依旧事所述得雷神身和雷池炼刀",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "霸王依旧事所述得雷神身和雷池炼刀",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "霸王依旧事所述得雷神身和雷池炼刀"
+      },
+      {
+        "reference": "v04-c0084:p0017",
+        "length": 27,
+        "sha256": "b404b7abc7fcba0692a9fbdfb6de60b13f09763721454f9ed4fcbd700d6d33ab",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0017:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟觉二事有相似",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟觉二事有相似",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟觉二事有相似"
+      },
+      {
+        "reference": "v04-c0084:p0018",
+        "length": 32,
+        "sha256": "540d7ddf556f448bbb2ef81c3b97322e01f2fe3b3fa446271955904e6933c67f",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0018:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟私猜雷神是否刻意留备",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟私猜雷神是否刻意留备",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私猜雷神是否刻意留备"
+      },
+      {
+        "reference": "v04-c0084:p0019",
+        "length": 17,
+        "sha256": "fcd3653344886d7b7484173a071a7632fbaa328f70ae5a43b2132490db45d438",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0019:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟内问霸王或他人为雷神转世",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟内问霸王或他人为雷神转世",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内问霸王或他人为雷神转世"
+      },
+      {
+        "reference": "v04-c0084:p0020",
+        "length": 71,
+        "sha256": "215b80a97e6dadb319a47716a4435736e38b1c6ad698ce84ae26d24e5f77d9b1",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0020:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟估霸王可能，未有流传支持",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟估霸王可能，未有流传支持",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟估霸王可能，未有流传支持"
+      },
+      {
+        "reference": "v04-c0084:p0021",
+        "length": 50,
+        "sha256": "75a0450d1207ff4fb9b59e845e9b24dbe0552f3c519f2daed67e290644b1c7ba",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0021:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟暂以二者为传说，私问转世不一定更强",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟暂以二者为传说，私问转世不一定更强",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟暂以二者为传说，私问转世不一定更强"
+      },
+      {
+        "reference": "v04-c0084:p0022",
+        "length": 41,
+        "sha256": "98178e396c1dad5d705cc6a526b4030a6c49f0b34275d659bacec59025920312",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0022:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟自腕雷承另有缘由是疑",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟自腕雷承另有缘由是疑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟自腕雷承另有缘由是疑"
+      },
+      {
+        "reference": "v04-c0084:p0023",
+        "length": 31,
+        "sha256": "9eaaa160a8106bb65b3850c448e94c7cb000c277d7f790bd4698a14c87953b60",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0023:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟平复后实际选择解封",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "原鉴定及付费解缘",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟平复后实际选择解封",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟平复后实际选择解封"
+      },
+      {
+        "reference": "v04-c0084:p0024",
+        "length": 70,
+        "sha256": "17d3350265d93f3caf3e9969aee4cf5981180b8ff16ce7b39e0458326d47ee71",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0024:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实付2000，手骨放黑白光而范围受六道限制",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "实付2000，手骨放黑白光而范围受六道限制",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实付2000，手骨放黑白光而范围受六道限制"
+      },
+      {
+        "reference": "v04-c0084:p0025",
+        "length": 94,
+        "sha256": "ab8e21b161158add015705208a63b12dbdf42d0225a2864ac4539fc13115f114",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0025:u001",
+            "start": 0,
+            "end": 94,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "气息引心见血黄河、感生机与记忆消失，非客观河或实伤",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "气息引心见血黄河、感生机与记忆消失，非客观河或实伤",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "气息引心见血黄河、感生机与记忆消失，非客观河或实伤"
+      },
+      {
+        "reference": "v04-c0084:p0026",
+        "length": 53,
+        "sha256": "e85b36ce166ed4a172cdba32b263acb159506d4bf1c031f6e9e8553dde4285ac",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0026:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟摇头脱感，手骨外观仍常而感觉变强",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟摇头脱感，手骨外观仍常而感觉变强",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟摇头脱感，手骨外观仍常而感觉变强"
+      },
+      {
+        "reference": "v04-c0084:p0027",
+        "length": 71,
+        "sha256": "c66e71899e44c93ab5387cc6cdddd9231f889d8a622e29521742e73f39f044a2",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0027:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "新鉴定已解封，不受黄泉强控，可对转世感应",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "新鉴定已解封，不受黄泉强控，可对转世感应",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "新鉴定已解封，不受黄泉强控，可对转世感应"
+      },
+      {
+        "reference": "v04-c0084:p0028",
+        "length": 40,
+        "sha256": "a4e2018e22fa772bf6df0030fc09b4ac653c252d13635e93a022b7e966e23a9d",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0028:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "鉴定列对神体和鬼魂影响、可作神兵材料",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "鉴定列对神体和鬼魂影响、可作神兵材料",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鉴定列对神体和鬼魂影响、可作神兵材料"
+      },
+      {
+        "reference": "v04-c0084:p0029",
+        "length": 145,
+        "sha256": "866b6ddee2bc52dd68bcb6bb3fcc4be30e7c091ddc719b90be68fcdda366ae55",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0029:u001",
+            "start": 0,
+            "end": 145,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "鉴定列对敌阈值、频率耗损及估21000换18000，孟未试用",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "六道在鉴定中传声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "鉴定列对敌阈值、频率耗损及估21000换18000，孟未试用",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "鉴定列对敌阈值、频率耗损及估21000换18000，孟未试用"
+      },
+      {
+        "reference": "v04-c0084:p0030",
+        "length": 130,
+        "sha256": "c053feec7d2793bc8fa1f861c04b7c680b125e47645e8c65e95f54edb51dd186",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0030:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟私估应炼成神兵并计划留手骨珠，未定哪种",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "孟的盘算，未明出声",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟私估应炼成神兵并计划留手骨珠，未定哪种",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0030:u002",
+            "start": 6,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟私估应炼成神兵并计划留手骨珠，未定哪种",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "孟的盘算，未明出声",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟私估应炼成神兵并计划留手骨珠，未定哪种",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0030:u003",
+            "start": 32,
+            "end": 130,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟私估应炼成神兵并计划留手骨珠，未定哪种",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟私估应炼成神兵并计划留手骨珠，未定哪种",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私估应炼成神兵并计划留手骨珠，未定哪种"
+      },
+      {
+        "reference": "v04-c0084:p0031",
+        "length": 34,
+        "sha256": "317870ee93175c8e52c4af5ef2156b6bce3f7e65af79d9c740500be7a0de6432",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0031:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟决定封神后再看图，出声未标",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "孟的盘算，未明出声",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟决定封神后再看图，出声未标",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0031:u002",
+            "start": 26,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟决定封神后再看图，出声未标",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟决定封神后再看图，出声未标",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟决定封神后再看图，出声未标"
+      },
+      {
+        "reference": "v04-c0084:p0032",
+        "length": 28,
+        "sha256": "e35de1cd97b28b1cbb393fdf5a34b5c6b3bd688d0bf2342e6f51b195841430c2",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0032:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "暂不知炼制代价",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "解封新鉴定及打算",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "暂不知炼制代价",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "暂不知炼制代价"
+      },
+      {
+        "reference": "v04-c0084:p0033",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0033:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0084:p0034",
+        "length": 39,
+        "sha256": "5ba1f27a5995f369f27158fbf93e6bb258b803b283f7301f894d56ef55691ac5",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0034:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "七日后孟玄袍元始面具实赴正式聚会",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "七日后孟玄袍元始面具实赴正式聚会",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "七日后孟玄袍元始面具实赴正式聚会"
+      },
+      {
+        "reference": "v04-c0084:p0035",
+        "length": 32,
+        "sha256": "8e9dd272f575638c575735ad72c7470d13bd77a9513183b3ec8ba8fd7b29416b",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0035:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "聚会为联络感情",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "聚会为联络感情",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "聚会为联络感情"
+      },
+      {
+        "reference": "v04-c0084:p0036",
+        "length": 91,
+        "sha256": "7fe132ced2e15b9d2fa50c8b3774ebae3f30a1164141cec2ce6c8743e769c39b",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0036:u001",
+            "start": 0,
+            "end": 91,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿九娘以碧霞称号候孟；旧店难开，新身份未定",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿九娘以碧霞称号候孟；旧店难开，新身份未定",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿九娘以碧霞称号候孟；旧店难开，新身份未定"
+      },
+      {
+        "reference": "v04-c0084:p0037",
+        "length": 42,
+        "sha256": "42f67cb657392443dff20b87d1de830c65a14775de5389fed39de46edd30bf56",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0037:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "碧霞元君瞿九娘",
+            "text_context": "瞿实幽语羡坊间交易",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "幽怨、低声求买卖，再转落寞",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实幽语羡坊间交易",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0037:u002",
+            "start": 18,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿实幽语羡坊间交易",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实幽语羡坊间交易",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿实幽语羡坊间交易"
+      },
+      {
+        "reference": "v04-c0084:p0038",
+        "length": 51,
+        "sha256": "d11646b099b7966988f81d65d3224d710b5b22bf0cfde1248da050b11f939c58",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0038:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟心庆幸言没漏寿丹拍卖",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟心庆幸言没漏寿丹拍卖",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0038:u002",
+            "start": 21,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟心庆幸言没漏寿丹拍卖",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟心庆幸言没漏寿丹拍卖",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心庆幸言没漏寿丹拍卖"
+      },
+      {
+        "reference": "v04-c0084:p0039",
+        "length": 31,
+        "sha256": "4e3e668c1395668ea9c1882561a82a60b678e80b93f96450fafea52cb929c5d1",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0039:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实以掮客低调作答",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实以掮客低调作答",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0039:u002",
+            "start": 14,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟实以掮客低调作答",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实以掮客低调作答",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实以掮客低调作答"
+      },
+      {
+        "reference": "v04-c0084:p0040",
+        "length": 51,
+        "sha256": "0b6b128f8e0f95a85984e338a9db94994da10d6f9a0fb18aab58213515c1e317",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0040:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "碧霞元君瞿九娘",
+            "text_context": "瞿实传灵宝令去静室并引路",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "幽怨、低声求买卖，再转落寞",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实传灵宝令去静室并引路",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0040:u002",
+            "start": 29,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿实传灵宝令去静室并引路",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实传灵宝令去静室并引路",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿实传灵宝令去静室并引路"
+      },
+      {
+        "reference": "v04-c0084:p0041",
+        "length": 31,
+        "sha256": "d72ee7c1d6e6c38707ce797fe198babab4117683df651c78e46018435def7cdb",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0041:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "单称天尊多指灵宝",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "单称天尊多指灵宝",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "单称天尊多指灵宝"
+      },
+      {
+        "reference": "v04-c0084:p0042",
+        "length": 54,
+        "sha256": "90a1d11b1e8c9d476ce179bed32d49a5fa402f21ab1146d14247742b3e853754",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0042:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿实际低声问买卖并自荐情报",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实际低声问买卖并自荐情报",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0042:u002",
+            "start": 20,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "碧霞元君瞿九娘",
+            "text_context": "瞿实际低声问买卖并自荐情报",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "幽怨、低声求买卖，再转落寞",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实际低声问买卖并自荐情报",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0042:u003",
+            "start": 32,
+            "end": 54,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "碧霞元君瞿九娘",
+            "text_context": "瞿实际低声问买卖并自荐情报",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "幽怨、低声求买卖，再转落寞",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实际低声问买卖并自荐情报",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿实际低声问买卖并自荐情报"
+      },
+      {
+        "reference": "v04-c0084:p0043",
+        "length": 25,
+        "sha256": "c77b70b79fc2ca30161f830a8fcff40b75fc3e0e4ba1419de81a66f2a46a6992",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0043:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟干笑实说暂无",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟干笑实说暂无",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0043:u002",
+            "start": 7,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟干笑实说暂无",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟干笑实说暂无",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟干笑实说暂无"
+      },
+      {
+        "reference": "v04-c0084:p0044",
+        "length": 43,
+        "sha256": "e43a5d822e3dcf5b3924976e23fec2a612317ef5c5238b9f6c867073e8a96763",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0044:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "碧霞元君瞿九娘",
+            "text_context": "瞿实低声骂，没意识也在说自己",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "幽怨、低声求买卖，再转落寞",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实低声骂，没意识也在说自己",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0044:u002",
+            "start": 11,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿实低声骂，没意识也在说自己",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实低声骂，没意识也在说自己",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿实低声骂，没意识也在说自己"
+      },
+      {
+        "reference": "v04-c0084:p0045",
+        "length": 66,
+        "sha256": "cd6f87fb74d107f89cc12725cef4f598955f66c7b261024526bdc30fde4dd293",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0045:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实见池侧清源装束面具",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实见池侧清源装束面具",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实见池侧清源装束面具"
+      },
+      {
+        "reference": "v04-c0084:p0046",
+        "length": 29,
+        "sha256": "bc0451df5c3d8e66f9a581e2688923c4ab82cdadcd4bb7acdfec09a38795f82a",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0046:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "清源默观青莲，所思未知",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "清源默观青莲，所思未知",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "清源默观青莲，所思未知"
+      },
+      {
+        "reference": "v04-c0084:p0047",
+        "length": 68,
+        "sha256": "9653b2c66486e75fdd7e9fc144573c511286857d0896a01f618b80cfd6c9b616",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0047:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿秘密传音第三死亡任务、亡两同伴含碧霄、宗师可期",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿秘密传音第三死亡任务、亡两同伴含碧霄、宗师可期",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0047:u002",
+            "start": 9,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "碧霞元君瞿九娘",
+            "text_context": "瞿秘密传音第三死亡任务、亡两同伴含碧霄、宗师可期",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "瞿九娘秘密传音",
+            "embodiment": "幽怨、低声求买卖，再转落寞",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿秘密传音第三死亡任务、亡两同伴含碧霄、宗师可期",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿秘密传音第三死亡任务、亡两同伴含碧霄、宗师可期"
+      },
+      {
+        "reference": "v04-c0084:p0048",
+        "length": 37,
+        "sha256": "3b3149cade966bba4279c58ccb864b1d9a1cd641614097dcf890b6d882553a20",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0048:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟心了然后与清源对视",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟心了然后与清源对视",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0048:u002",
+            "start": 6,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟心了然后与清源对视",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟心了然后与清源对视",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心了然后与清源对视"
+      },
+      {
+        "reference": "v04-c0084:p0049",
+        "length": 41,
+        "sha256": "e9f0c82a6cf410744fdd28c253b17eb8258212a9de50587832a8f90089c2c429",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0049:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "cao_xianzhi",
+            "surface_identity": "清源妙道真君面具，第51段摘面称曹献之",
+            "text_context": "清源实苦笑今方正式相见",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "池边出神，苦笑摘面，语句平稳渐伤",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "清源实苦笑今方正式相见",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0049:u002",
+            "start": 31,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "清源实苦笑今方正式相见",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "清源实苦笑今方正式相见",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "清源实苦笑今方正式相见"
+      },
+      {
+        "reference": "v04-c0084:p0050",
+        "length": 13,
+        "sha256": "73f32b6a5dcdc1a8be80b32ca845c841834bcc351ce3cfe85d90d64c6eafdc98",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0050:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实拱答某也是",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实拱答某也是",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0050:u002",
+            "start": 7,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟实拱答某也是",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实拱答某也是",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实拱答某也是"
+      },
+      {
+        "reference": "v04-c0084:p0051",
+        "length": 34,
+        "sha256": "0accbaec65aa3e7ba5122050bf7cd41317abffa218aa17586ee4c9a15229d7d9",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0051:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "清源实摘面具并自报名曹献之",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "清源实摘面具并自报名曹献之",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0051:u002",
+            "start": 26,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "cao_xianzhi",
+            "surface_identity": "清源妙道真君面具，第51段摘面称曹献之",
+            "text_context": "清源实摘面具并自报名曹献之",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "池边出神，苦笑摘面，语句平稳渐伤",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "清源实摘面具并自报名曹献之",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "清源实摘面具并自报名曹献之"
+      },
+      {
+        "reference": "v04-c0084:p0052",
+        "length": 97,
+        "sha256": "03084fe5c2fb43d196f0c544e0564a1d2a9cafee52debe9a08afc59ab8891f08",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0052:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟想起旁系出身、人榜前三与曹娥相较",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟想起旁系出身、人榜前三与曹娥相较",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0052:u002",
+            "start": 4,
+            "end": 97,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟想起旁系出身、人榜前三与曹娥相较",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟想起旁系出身、人榜前三与曹娥相较",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟想起旁系出身、人榜前三与曹娥相较"
+      },
+      {
+        "reference": "v04-c0084:p0053",
+        "length": 70,
+        "sha256": "06afad28971907e14ae42c3c341cb3277b88e621e22b516a2bbd2992baf95028",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0053:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "关于十一年跨首天梯为旧闻，孟推系八九资源",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "关于十一年跨首天梯为旧闻，孟推系八九资源",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "关于十一年跨首天梯为旧闻，孟推系八九资源"
+      },
+      {
+        "reference": "v04-c0084:p0054",
+        "length": 23,
+        "sha256": "e320a3a1c22375e4d726024b5611c0aae05d617420ded300f03ab1a7123e714e",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0054:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟实礼貌回苏孟",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实礼貌回苏孟",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0054:u002",
+            "start": 5,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实礼貌回苏孟",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实礼貌回苏孟",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实礼貌回苏孟"
+      },
+      {
+        "reference": "v04-c0084:p0055",
+        "length": 46,
+        "sha256": "d06b57da1ed14bc8126fd8e8ad1f544b69c6a67148594e5fb42e887c46b66c49",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0055:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "曹确认斗姆三重所述属实，话人比人无妒",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "曹确认斗姆三重所述属实，话人比人无妒",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0055:u002",
+            "start": 5,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "cao_xianzhi",
+            "surface_identity": "清源妙道真君面具，第51段摘面称曹献之",
+            "text_context": "曹确认斗姆三重所述属实，话人比人无妒",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "池边出神，苦笑摘面，语句平稳渐伤",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "曹确认斗姆三重所述属实，话人比人无妒",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "曹确认斗姆三重所述属实，话人比人无妒"
+      },
+      {
+        "reference": "v04-c0084:p0056",
+        "length": 42,
+        "sha256": "df98065c5ab8d4492d09c04c8ec6b14f70c782a8eed8a13f6909734f2b936ff7",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0056:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙明曹态平，非真嫉",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "叙明曹态平，非真嫉",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙明曹态平，非真嫉"
+      },
+      {
+        "reference": "v04-c0084:p0057",
+        "length": 35,
+        "sha256": "8608b2bbad33070e46296af666732e61e440b91eca51c2645acbfb41c86002f8",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0057:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟实谦说机缘",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "实际言语",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实谦说机缘",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0057:u002",
+            "start": 11,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实谦说机缘",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "见瞿及清源实名",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实谦说机缘",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实谦说机缘"
+      },
+      {
+        "reference": "v04-c0084:p0058",
+        "length": 32,
+        "sha256": "d636eb7aeda4307aee519d4097f48fb1916d506a44eeb553c0005e971a23b00d",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0058:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "曹回头看厅内诸面具",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "曹回头看厅内诸面具",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "曹回头看厅内诸面具"
+      },
+      {
+        "reference": "v04-c0084:p0059",
+        "length": 36,
+        "sha256": "5a4439f58002aa0c8de5ad02548a5268928dc416bdbfd71fbc8c724f572c0933",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0059:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟见太乙、南华等熟悉称号",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟见太乙、南华等熟悉称号",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟见太乙、南华等熟悉称号"
+      },
+      {
+        "reference": "v04-c0084:p0060",
+        "length": 40,
+        "sha256": "e815fc0809556b833475406f27183a971f64a55c336565ee95086f22bd161d37",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0060:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "曹实感叹聚会成员变多次",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "曹实感叹聚会成员变多次",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0060:u002",
+            "start": 15,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "cao_xianzhi",
+            "surface_identity": "清源妙道真君面具，第51段摘面称曹献之",
+            "text_context": "曹实感叹聚会成员变多次",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "实际言语",
+            "embodiment": "池边出神，苦笑摘面，语句平稳渐伤",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "曹实感叹聚会成员变多次",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "曹实感叹聚会成员变多次"
+      },
+      {
+        "reference": "v04-c0084:p0061",
+        "length": 24,
+        "sha256": "b7941e84f74069ef6f3fec7aaca6d8172bf312351c8b91dacd880c95ca0cee66",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0061:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙评轮回成败沧桑",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "叙评轮回成败沧桑",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙评轮回成败沧桑"
+      },
+      {
+        "reference": "v04-c0084:p0062",
+        "length": 80,
+        "sha256": "2c826f97b118661a7e6dc4a28579bf5a6f65cb34ae1de80122b10a78afa76705",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0062:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "曹实说只敢重视原小队，恐后遇者身亡",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "曹实说只敢重视原小队，恐后遇者身亡",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0062:u002",
+            "start": 14,
+            "end": 80,
+            "kind": "spoken_dialogue",
+            "speaker": "cao_xianzhi",
+            "surface_identity": "清源妙道真君面具，第51段摘面称曹献之",
+            "text_context": "曹实说只敢重视原小队，恐后遇者身亡",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "实际言语",
+            "embodiment": "池边出神，苦笑摘面，语句平稳渐伤",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "曹实说只敢重视原小队，恐后遇者身亡",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "曹实说只敢重视原小队，恐后遇者身亡"
+      },
+      {
+        "reference": "v04-c0084:p0063",
+        "length": 24,
+        "sha256": "09c39287091b0a030c64673a15a72f36ec25c2a7c83c48f4b5cf7b84f0f01216",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0063:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "cao_xianzhi",
+            "surface_identity": "清源妙道真君面具，第51段摘面称曹献之",
+            "text_context": "曹实说最初旧队已凋亡殆尽",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "实际言语",
+            "embodiment": "池边出神，苦笑摘面，语句平稳渐伤",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "曹实说最初旧队已凋亡殆尽",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "曹实说最初旧队已凋亡殆尽"
+      },
+      {
+        "reference": "v04-c0084:p0064",
+        "length": 41,
+        "sha256": "1dc96d77c6a20704dd93b6455dd1d05715d125ad562fe9ab731b9af459fe738a",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0064:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "似提点亦自伤，死亡任务触悲属推想",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "似提点亦自伤，死亡任务触悲属推想",
+            "focalizer": "cao_xianzhi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "似提点亦自伤，死亡任务触悲属推想"
+      },
+      {
+        "reference": "v04-c0084:p0065",
+        "length": 23,
+        "sha256": "f10dd3f99a942a55b903d53810050513a6ddebc2601dfbf3451fada1b812c0d0",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0065:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟想到张远山符真真",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟想到张远山符真真",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟想到张远山符真真"
+      },
+      {
+        "reference": "v04-c0084:p0066",
+        "length": 20,
+        "sha256": "0e48a26e219cc357b28a1027281ae8c4a90ac207b270f549aaae929548087604",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0066:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "瞿催走并有感，无逐句到下段",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿催走并有感，无逐句到下段",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿催走并有感，无逐句到下段"
+      },
+      {
+        "reference": "v04-c0084:p0067",
+        "length": 72,
+        "sha256": "68c65f04e949700286f951727c259022f0d70a37196d339f8f962edc1ab7125d",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0067:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "spoken_dialogue",
+            "speaker": "qu_jiuniang",
+            "surface_identity": "碧霞元君瞿九娘",
+            "text_context": "瞿实指三旧伴谢酒鬼纯阳子任平生抱朴子薛锐云中子，余只三",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "实际言语",
+            "embodiment": "幽怨、低声求买卖，再转落寞",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "瞿实指三旧伴谢酒鬼纯阳子任平生抱朴子薛锐云中子，余只三",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "瞿实指三旧伴谢酒鬼纯阳子任平生抱朴子薛锐云中子，余只三"
+      },
+      {
+        "reference": "v04-c0084:p0068",
+        "length": 35,
+        "sha256": "36e132f15e8e2188a7043085b4d212ab02c1f37619438f7b1958a4294e48c8de",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0068:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟未答，坐静室等灵宝",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟未答，坐静室等灵宝",
+            "focalizer": "qu_jiuniang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟未答，坐静室等灵宝"
+      },
+      {
+        "reference": "v04-c0084:p0069",
+        "length": 22,
+        "sha256": "ab2ec5c15585feb817dedc5fa382825322691a09d1d3832ec27a68e72dffb0fd",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0069:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "灵宝天尊，领入大殿",
+            "text_context": "灵宝实入说走",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "灵宝实入说走",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0069:u002",
+            "start": 5,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灵宝实入说走",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "灵宝实入说走",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灵宝实入说走"
+      },
+      {
+        "reference": "v04-c0084:p0070",
+        "length": 23,
+        "sha256": "acfe0394d43a75e2cb940829ec14ed09b5a69c901247390f32ce2908631fe4c9",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0070:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟随去聚会殿",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟随去聚会殿",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟随去聚会殿"
+      },
+      {
+        "reference": "v04-c0084:p0071",
+        "length": 49,
+        "sha256": "db47dc279fa15f1fe7064b26f26e867a657b1b2bffb113e52ed42848a5a1ba2f",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0071:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "灵宝天尊，领入大殿",
+            "text_context": "灵宝实报27、折2、缺3、到22",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "灵宝实报27、折2、缺3、到22",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0084:p0071:u002",
+            "start": 36,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灵宝实报27、折2、缺3、到22",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "灵宝实报27、折2、缺3、到22",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灵宝实报27、折2、缺3、到22"
+      },
+      {
+        "reference": "v04-c0084:p0072",
+        "length": 45,
+        "sha256": "fb158f0a299675508521495154da6de61a07e47fda7ace36be28003156b19edb",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0072:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "殿内众人见灵宝前元始后",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "殿内众人见灵宝前元始后",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "殿内众人见灵宝前元始后"
+      },
+      {
+        "reference": "v04-c0084:p0073",
+        "length": 16,
+        "sha256": "fa231f86b21a4718876e17ac7a8c5ec874d48b514b4b4b2a389155af96f5074f",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0073:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "众起未形容具体感受",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "正式聚会及诀别感慨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "众起未形容具体感受",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "众起未形容具体感受"
+      },
+      {
+        "reference": "v04-c0084:p0074",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0074:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0084:p0075",
+        "length": 39,
+        "sha256": "dd5be9d4eb10fb639763a270b2e86bcb1d921940873305e75e8a42153b6b775e",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0075:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "二月初春孟实练第七种变化，转入轮回广场",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "二月初春孟实练第七种变化，转入轮回广场",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二月初春孟实练第七种变化，转入轮回广场"
+      },
+      {
+        "reference": "v04-c0084:p0076",
+        "length": 8,
+        "sha256": "d967d26c634cc890ca646f9ec9321242519bd03eeee299dc21283eae5d26af66",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0076:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "元始称号，摘面者回以苏孟",
+            "text_context": "孟内感封神开始",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "内心",
+            "embodiment": "付费后摇头脱河感，后肃慎拱礼",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟内感封神开始",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内感封神开始"
+      },
+      {
+        "reference": "v04-c0084:p0077",
+        "length": 28,
+        "sha256": "661b4348816202efd012e5074c71e88594d72fe22e497e3332727198e21ac8b7",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0077:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实见江齐阮赵同时出现，共五位",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "孟实见江齐阮赵同时出现，共五位",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实见江齐阮赵同时出现，共五位"
+      },
+      {
+        "reference": "v04-c0084:p0078",
+        "length": 25,
+        "sha256": "aa66b1c8270a44395e549af29175fe7792fd426b5f84124b1c0f1dfb0b97817d",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0078:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "六道声在耳畔",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道声在耳畔",
+            "focalizer": "six_paths_reincarnation_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道声在耳畔"
+      },
+      {
+        "reference": "v04-c0084:p0079",
+        "length": 20,
+        "sha256": "4adb99f611faeac5952aa74b9ad8ed1a1b9d057aa7f2bbd53f0b82eb2791699b",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0079:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道原报剩余三人及不用分割，与眼前五位并存，不解释",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "轮回广场六道耳畔播报",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道原报剩余三人及不用分割，与眼前五位并存，不解释",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道原报剩余三人及不用分割，与眼前五位并存，不解释"
+      },
+      {
+        "reference": "v04-c0084:p0080",
+        "length": 40,
+        "sha256": "fbd2a47c162db8d0987cc8eafdf392a5b25944877b289fd5283aa90adf4a8e39",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0080:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道报封神后五百年背景",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "轮回广场六道耳畔播报",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道报封神后五百年背景",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道报封神后五百年背景"
+      },
+      {
+        "reference": "v04-c0084:p0081",
+        "length": 78,
+        "sha256": "dfb46656d3af696c817599644e795721b490a1a8b410a717a04ec15cc562a603",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0081:u001",
+            "start": 0,
+            "end": 78,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道公布抽选传道任务及2500奖或付2500离",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "轮回广场六道耳畔播报",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道公布抽选传道任务及2500奖或付2500离",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道公布抽选传道任务及2500奖或付2500离"
+      },
+      {
+        "reference": "v04-c0084:p0082",
+        "length": 32,
+        "sha256": "a6592737b05e2c08a178a8af387b439bc021390136e6e4995647c86e1e3006ea",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0082:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道报三月限制，底本不再没有间隔原样",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "轮回广场六道耳畔播报",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道报三月限制，底本不再没有间隔原样",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道报三月限制，底本不再没有间隔原样"
+      },
+      {
+        "reference": "v04-c0084:p0083",
+        "length": 19,
+        "sha256": "da142ca681dc842c76fe795e00e272e3d8ed3e61925940438b6e2425fd68010e",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0083:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_reincarnation_master",
+            "surface_identity": "six_paths_reincarnation_master",
+            "text_context": "六道要求抽选，三声后直接指定",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "轮回广场六道耳畔播报",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "六道要求抽选，三声后直接指定",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道要求抽选，三声后直接指定"
+      },
+      {
+        "reference": "v04-c0084:p0084",
+        "length": 30,
+        "sha256": "83f45923fc90bcde7024cd881873e93cf8301a5e17fd7229a33c8c4abb13ff4d",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0084:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "五人对视，孟踏前实际抽选",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "五人对视，孟踏前实际抽选",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "五人对视，孟踏前实际抽选"
+      },
+      {
+        "reference": "v04-c0084:p0085",
+        "length": 24,
+        "sha256": "d7c1c9731ba89f9841021771e76cd82d77faa3a8a587a05dafb61fead308963f",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0085:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "半空文字闪后凝两字",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "半空文字闪后凝两字",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "半空文字闪后凝两字"
+      },
+      {
+        "reference": "v04-c0084:p0086",
+        "length": 5,
+        "sha256": "b20758b2e9dfd6b20bfa89380e59a0b13cb12d121b9318e91766d92816c42791",
+        "units": [
+          {
+            "unit_id": "v04-c0084:p0086:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "墨家是抽出的屏显字，非谁喊出",
+            "world_context": "第四卷：解黄泉骨、仙迹公开小聚、轮回广场抽墨家",
+            "stage_context": "封神任务和抽墨家",
+            "channel": "半空抽选结果文字，未明朗读",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "两笔实扣共10000，预计余额10700；章内手骨未用于实战。已赴正式聚会；封神仅抽定墨家，未传道。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道的黄泉来历属鉴定讲述，霸王雷神联系仅孟猜。第79段三人与第77段五位同在，按两段保留。",
+            "knowledge_boundary": "墨家是抽出的屏显字，非谁喊出",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "墨家是抽出的屏显字，非谁喊出"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0084",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S12/S13",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 23,
+        "label": "花八千知手骨来历",
+        "direction": "从六道熟悉平声开始，首笔扣到12700。以孟内心突然变重承接黄泉分元神转世说，变形前的手骨保持普通。霸王雷池仅为孟拿来类比，不提前确认推理。 证据 v04-c0084:p0001–p0023。"
+      },
+      {
+        "paragraph_start": 24,
+        "paragraph_end": 32,
+        "label": "再花两千实际解封",
+        "direction": "先给黑白交替的光与受限范围，再转孟心中血黄河及模糊生机记忆的感受。孟摇头脱离，方听新鉴定与限制。最后筹炼制留到封神后，本章未用手骨迎敌。 证据 v04-c0084:p0024–p0032。"
+      },
+      {
+        "paragraph_start": 34,
+        "paragraph_end": 57,
+        "label": "正式聚会前见曹献之",
+        "direction": "瞿九娘幽怨求买卖和孟客气敷衍给轻拍。池边见清源静看莲，瞿私传伤亡。待清源苦笑说正式见面，摘面与实名同时呈现；两人互礼，曹的比较并无嫉意。 证据 v04-c0084:p0034–p0057。"
+      },
+      {
+        "paragraph_start": 58,
+        "paragraph_end": 73,
+        "label": "成员谈损失，灵宝引孟入殿",
+        "direction": "曹望厅说人变多次，再谈不敢重视新同伴、旧友已尽。瞿的三人称号给清楚停顿。孟静室等候后随灵宝入殿，二十七、折二、缺三、到二十二由灵宝边走说。 证据 v04-c0084:p0058–p0073。"
+      },
+      {
+        "paragraph_start": 75,
+        "paragraph_end": 86,
+        "label": "封神轮回聚齐，光字落墨家",
+        "direction": "初春练第七变后突然转轮回广场，现场实际看见孟江齐阮赵五人。六道耳畔播报按原文留三人与回归句，奖或离皆2500。对视踏前后由闪烁停止成墨家两字，不给人声喊出结果。 证据 v04-c0084:p0075–p0086。"
+      }
+    ],
+    "knowledge_rule": "黄泉轮回来历由六道提供，孟对霸王雷神只猜。血黄河仅内感。任务播报三人与场景五位并存，回归句双否定照录；抽得墨家是半空文字。"
+  }
 }
