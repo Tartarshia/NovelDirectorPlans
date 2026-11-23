@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [五名小队同伴首次在现实聚齐](early-v04-Guangling-team-meets-and-watches-ranked-duel.md) | 第四卷第79章历史归属回补 |
+| [改容白衣公子在舱内指点五人](early-v04-Meng-visits-the-team-as-the-white-robed-senior.md) | 第四卷第79章历史归属回补 |
+| [翁演雁回祝融，孟衍四招并留茶谱](early-v04-Weng-shows-one-strike-and-Meng-derives-four.md) | 第四卷第79章历史归属回补 |
 | [孟奇与王思远阵内短斗](early-v04-Meng-and-Wang-exchange-blows-by-the-chessboard.md) | 第四卷第78章历史归属回补 |
 | [王问空闻宙光碎片，孟问素女仙界](early-v04-Wang-and-Meng-exchange-two-questions.md) | 第四卷第78章历史归属回补 |
 | [小孩递匿名信，称王思远进少林石门](early-v04-Anonymous-letter-names-the-Shaolin-stone-gate.md) | 第四卷第78章历史归属回补 |
