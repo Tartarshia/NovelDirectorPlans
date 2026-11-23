@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [封神前五人各自境界，阮纠正三伯传闻](early-v04-Fengshen-team-readiness-and-Ruan-family-correction.md) | 第四卷第85章历史归属回补 |
+| [保留退路后，五人共兑四秘宝](early-v04-Five-keep-exit-funds-and-exchange-four-replicas.md) | 第四卷第85章历史归属回补 |
+| [以兼爱等理念入局，五人转场](early-v04-Mohist-mission-preparation-and-quiet-transition.md) | 第四卷第85章历史归属回补 |
 | [黄泉手骨两笔付费后实解封](early-v04-Huangquan-bone-two-payments-and-unsealed-properties.md) | 第四卷第84章历史归属回补 |
 | [曹献之摘清源面具，与孟正式相会](early-v04-Cao-Xianzhi-unveils-the-Qingyuan-title.md) | 第四卷第84章历史归属回补 |
 | [五人现轮回广场，任务抽得墨家](early-v04-Fengshen-task-and-the-Mohist-draw.md) | 第四卷第84章历史归属回补 |
