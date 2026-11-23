@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [田简奉命探讲学，闻兼爱而怒、听非命又喜](early-v04-Tian-Jian-sent-to-the-bamboo-lecture.md) | 第四卷第92章历史归属回补 |
+| [田横守周礼，田括挨打后以尚贤抗辩](early-v04-Tian-Heng-and-Tian-Kuo-debate-merit.md) | 第四卷第92章历史归属回补 |
+| [陈王先召竹林五人，自称陈国安乐](early-v04-Chen-king-summons-the-bamboo-teachers.md) | 第四卷第92章历史归属回补 |
 | [两客入殿，守殿一脉迁址](early-v04-Demon-hall-opens-for-two-and-watchers-move.md) | 第四卷第91章历史归属回补 |
 | [玉虚余孽只是一句漏入耳的片语](early-v04-Yuxu-fragment-heard-by-the-red-robed-disciple.md) | 第四卷第91章历史归属回补 |
 | [白松指出唐楚之间的附属小国](early-v04-Bai-Song-proposes-the-small-states.md) | 第四卷第91章历史归属回补 |
