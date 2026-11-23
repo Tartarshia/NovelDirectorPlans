@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [赵柏追来请孟试说墨学](early-v04-Zhao-Bai-invites-the-team-to-his-hall.md) | 第四卷第87章历史归属回补 |
+| [白松和王起先说亲身悲苦](early-v04-Bai-Song-and-Wang-Qi-speak-of-loss.md) | 第四卷第87章历史归属回补 |
+| [墨家理念引共鸣，多数请求追随](early-v04-Mohist-discussion-and-the-hall-asks-to-follow.md) | 第四卷第87章历史归属回补 |
 | [五人落博乐城，调整传道次序](early-v04-Team-arrives-in-Bole-and-adapts-Mohist-teaching.md) | 第四卷第86章历史归属回补 |
 | [宗师博乐君姬武亲迎五人](early-v04-Bole-Lord-Ji-Wu-welcomes-five-guests.md) | 第四卷第86章历史归属回补 |
 | [节葬触怒姬武，五人辞去](early-v04-Ji-Wu-rejects-frugal-funerals-and-guests-leave.md) | 第四卷第86章历史归属回补 |
