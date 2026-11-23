@@ -61,7 +61,3187 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0238"
+  "reading_batch": "batch-0238",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0068",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0068.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0068:p0001",
+        "length": 67,
+        "sha256": "08c1657ba087e7c6d8eb252178646219ff0585cde9af6c9e5b00913044099203",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0001:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "青山古刹同瀚海绿洲相接，为显现之景",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "青山古刹同瀚海绿洲相接，为显现之景",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "青山古刹同瀚海绿洲相接，为显现之景"
+      },
+      {
+        "reference": "v04-c0068:p0002",
+        "length": 27,
+        "sha256": "2b93ec70b8863ead0d82ad69000b4ab19344524a6ba4dbebd25a54a7de80abb8",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0002:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "寺内慈声实际准许苏小施主参悟",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "寺内慈声实际准许苏小施主参悟",
+            "focalizer": "v04c067_lanke_bodhisattva_unseen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0002:u002",
+            "start": 13,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c067_lanke_bodhisattva_unseen",
+            "surface_identity": "前章未实名的寺内菩萨，本章自报名号",
+            "text_context": "寺内慈声实际准许苏小施主参悟",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "寺内月摩尼光王菩萨慈声",
+            "embodiment": "平和超然、慈声无波澜",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "寺内慈声实际准许苏小施主参悟",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "寺内慈声实际准许苏小施主参悟"
+      },
+      {
+        "reference": "v04-c0068:p0003",
+        "length": 41,
+        "sha256": "8c62a217f14db69d8a9b000cf20edb7ae403916506594f47413a71bcd522a4a4",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0003:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实问日后如何再寻寺",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实问日后如何再寻寺",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0003:u002",
+            "start": 15,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实问日后如何再寻寺",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "实际言语",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实问日后如何再寻寺",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实问日后如何再寻寺"
+      },
+      {
+        "reference": "v04-c0068:p0004",
+        "length": 18,
+        "sha256": "52e13667904143719b1dd390b89166fc5f858da80f240dbf0422ad2fd1048d32",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0004:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟不愿次次经少林水月庵，是内心",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟不愿次次经少林水月庵，是内心",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟不愿次次经少林水月庵，是内心"
+      },
+      {
+        "reference": "v04-c0068:p0005",
+        "length": 69,
+        "sha256": "e64c9fc48e6429c6f26a3d034ca25e9cf4f823aa4deb802c61f50c85151d4735",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0005:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "菩萨实际自报名号，界内诚心默诵三遍得见寺，诸施主同",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "菩萨实际自报名号，界内诚心默诵三遍得见寺，诸施主同",
+            "focalizer": "v04c067_lanke_bodhisattva_unseen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0005:u002",
+            "start": 15,
+            "end": 69,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c067_lanke_bodhisattva_unseen",
+            "surface_identity": "前章未实名的寺内菩萨，本章自报名号",
+            "text_context": "菩萨实际自报名号，界内诚心默诵三遍得见寺，诸施主同",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "寺内月摩尼光王菩萨慈声",
+            "embodiment": "平和超然、慈声无波澜",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "菩萨实际自报名号，界内诚心默诵三遍得见寺，诸施主同",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "菩萨实际自报名号，界内诚心默诵三遍得见寺，诸施主同"
+      },
+      {
+        "reference": "v04-c0068:p0006",
+        "length": 49,
+        "sha256": "1f1b3088bd2273105e70e15d9b948163c6535dced8ab732acd113b2d0811c383",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0006:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟以前未识其号，近千年证果为猜",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟以前未识其号，近千年证果为猜",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0006:u002",
+            "start": 10,
+            "end": 30,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟以前未识其号，近千年证果为猜",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟以前未识其号，近千年证果为猜",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0006:u003",
+            "start": 30,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟以前未识其号，近千年证果为猜",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟以前未识其号，近千年证果为猜",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟以前未识其号，近千年证果为猜"
+      },
+      {
+        "reference": "v04-c0068:p0007",
+        "length": 15,
+        "sha256": "4772235f6ebd2579525c5367d53155eb23ecd49474cb1df26fda7ba9044a224c",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0007:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内心意识到能借此躲入寺",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟内心意识到能借此躲入寺",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内心意识到能借此躲入寺"
+      },
+      {
+        "reference": "v04-c0068:p0008",
+        "length": 72,
+        "sha256": "0c5c1965594801c90db64f60271a5487b125f11682b88c2e685d1e677fb0d151",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0008:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟把召见设想成方便之门",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟把召见设想成方便之门",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟把召见设想成方便之门"
+      },
+      {
+        "reference": "v04-c0068:p0009",
+        "length": 41,
+        "sha256": "75459bda87cb5d9457c2c8bdc56af5285ee77a9f39193571a6011c5065658917",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0009:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟自限激战未必能诚心默诵，设想用于被追",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟自限激战未必能诚心默诵，设想用于被追",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟自限激战未必能诚心默诵，设想用于被追"
+      },
+      {
+        "reference": "v04-c0068:p0010",
+        "length": 25,
+        "sha256": "229cbaca932e7097c241e9b40d579085e222003a3cf0a3b0ae91d078ab47c756",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0010:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "保命咒是孟对用途的比喻，未实试",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "保命咒是孟对用途的比喻，未实试",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "保命咒是孟对用途的比喻，未实试"
+      },
+      {
+        "reference": "v04-c0068:p0011",
+        "length": 17,
+        "sha256": "44a9a2ba6908064420dc5b721c6974b46fe8b8192016de9405b8bcd3b263cd40",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0011:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟评估限于本方世界",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟评估限于本方世界",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟评估限于本方世界"
+      },
+      {
+        "reference": "v04-c0068:p0012",
+        "length": 20,
+        "sha256": "6395b017aadbad24a61a9e8968fc5c80407935b3745740f01f0a3c1590bc99fc",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0012:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟惊喜，有新增办法",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟惊喜，有新增办法",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟惊喜，有新增办法"
+      },
+      {
+        "reference": "v04-c0068:p0013",
+        "length": 52,
+        "sha256": "ae6688f32cef09de44148d3734008e67af31065043ddfccd3ab5ac159c8a64dc",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0013:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟回想抢树后即时用符的反事实",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟回想抢树后即时用符的反事实",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟回想抢树后即时用符的反事实"
+      },
+      {
+        "reference": "v04-c0068:p0014",
+        "length": 139,
+        "sha256": "19552ee9cec8a19cd488c7e0bb0aa2b86929b7eb4d9de8039503d3653eeee5d0",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0014:u001",
+            "start": 0,
+            "end": 139,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟当时怕赵谦与神话瓜葛泄符并受蹲守，无实证",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟当时怕赵谦与神话瓜葛泄符并受蹲守，无实证",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟当时怕赵谦与神话瓜葛泄符并受蹲守，无实证"
+      },
+      {
+        "reference": "v04-c0068:p0015",
+        "length": 75,
+        "sha256": "b3ed9745b30056e30f2ccb0862498e52d70ae65436d9256e4bf824f458bf5465",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0015:u001",
+            "start": 0,
+            "end": 75,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "菩萨应缘或误导逃路是两猜，未判断",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "菩萨应缘或误导逃路是两猜，未判断",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "菩萨应缘或误导逃路是两猜，未判断"
+      },
+      {
+        "reference": "v04-c0068:p0016",
+        "length": 48,
+        "sha256": "a101d19e278087e793dc3213a289b3b06dc52908c1d408391dcbc769983848f5",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0016:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "直接传承机会放弃，能常参悟或保命是孟的权衡",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "名号与再入寺的条件",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "直接传承机会放弃，能常参悟或保命是孟的权衡",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "直接传承机会放弃，能常参悟或保命是孟的权衡"
+      },
+      {
+        "reference": "v04-c0068:p0017",
+        "length": 66,
+        "sha256": "269b1da43889bdb6802b2e2e465bf65f640cc31e3f35735ecf6904124f762643",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0017:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟盘腿实激发菩提，未深勾",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟盘腿实激发菩提，未深勾",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟盘腿实激发菩提，未深勾"
+      },
+      {
+        "reference": "v04-c0068:p0018",
+        "length": 63,
+        "sha256": "921f09b29c975fae66de146feb53fd9ad4bbc2780abd57b44d20c02367ab3661",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0018:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实际采用感悟；听十年佛经是假想",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "实际采用感悟；听十年佛经是假想",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际采用感悟；听十年佛经是假想"
+      },
+      {
+        "reference": "v04-c0068:p0019",
+        "length": 53,
+        "sha256": "54d7a3ec4c925ad8a021653ba174265afd26ab119eb613247e16721565d4b99f",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0019:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "菩提轻摇，青枯两侧意态有异",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "菩提轻摇，青枯两侧意态有异",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "菩提轻摇，青枯两侧意态有异"
+      },
+      {
+        "reference": "v04-c0068:p0020",
+        "length": 35,
+        "sha256": "c1dff361e708166fbcbd5a411ac1465bc0651cd1d706e1785d0fbd3a6173bb6a",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0020:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟体验先为树下僧后成听讲者，为感悟所见",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟体验先为树下僧后成听讲者，为感悟所见",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟体验先为树下僧后成听讲者，为感悟所见"
+      },
+      {
+        "reference": "v04-c0068:p0021",
+        "length": 58,
+        "sha256": "8e06de1e79bb8cc5e421dc7941385a99e1ca38601ec7b904d2281e7944abaa19",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0021:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "树下僧现多形，皆在感悟境",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "树下僧现多形，皆在感悟境",
+            "focalizer": "v04c068_tree_monk_in_bodhi_vision",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "树下僧现多形，皆在感悟境"
+      },
+      {
+        "reference": "v04-c0068:p0022",
+        "length": 27,
+        "sha256": "97d3cf65b3b765ce54056fe415e2e98fec53050deefadb80b3777ab4b63fd340",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0022:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c068_tree_monk_in_bodhi_vision",
+            "surface_identity": "菩提感悟中的树下僧相",
+            "text_context": "树下僧所说经句，由孟独听其境",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "孟感悟中的树下僧说法",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "树下僧所说经句，由孟独听其境",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0022:u002",
+            "start": 3,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c068_tree_monk_in_bodhi_vision",
+            "surface_identity": "菩提感悟中的树下僧相",
+            "text_context": "树下僧所说经句，由孟独听其境",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "孟感悟中的树下僧说法",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "树下僧所说经句，由孟独听其境",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0022:u003",
+            "start": 14,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c068_tree_monk_in_bodhi_vision",
+            "surface_identity": "菩提感悟中的树下僧相",
+            "text_context": "树下僧所说经句，由孟独听其境",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "孟感悟中的树下僧说法",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "树下僧所说经句，由孟独听其境",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "树下僧所说经句，由孟独听其境"
+      },
+      {
+        "reference": "v04-c0068:p0023",
+        "length": 22,
+        "sha256": "38b158e2b576706b6a9fabbfd15cd2949ce74e03a23e3e8ddb575697bbfd8ae1",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0023:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "听感恢弘而声量不大",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "听感恢弘而声量不大",
+            "focalizer": "v04c068_tree_monk_in_bodhi_vision",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "听感恢弘而声量不大"
+      },
+      {
+        "reference": "v04-c0068:p0024",
+        "length": 55,
+        "sha256": "b1c2632bcfb39be420f12901a8d0d222ba37edc11cf37f581d6ef12de8e07dc1",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0024:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟似懂非懂并见花泉莲，属感悟境",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟似懂非懂并见花泉莲，属感悟境",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟似懂非懂并见花泉莲，属感悟境"
+      },
+      {
+        "reference": "v04-c0068:p0025",
+        "length": 42,
+        "sha256": "89aa5222671cfecd9468867be008333165ae85248b41280a942badd4b08d2c90",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0025:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阿弥陀等佛相为感悟光景",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "阿弥陀等佛相为感悟光景",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阿弥陀等佛相为感悟光景"
+      },
+      {
+        "reference": "v04-c0068:p0026",
+        "length": 23,
+        "sha256": "71de3d98ed43cf9a7dce271c192dff643a315fd6387ed59beaa10d19e0419dda",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0026:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "弥勒观音等相低语",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "弥勒观音等相低语",
+            "focalizer": "v04c068_vision_bodhisattvas",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "弥勒观音等相低语"
+      },
+      {
+        "reference": "v04-c0068:p0027",
+        "length": 7,
+        "sha256": "846f22ab1512f3bdba5527693e3927f1714f243336d1459e81b169c45f619982",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0027:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c068_vision_bodhisattvas",
+            "surface_identity": "菩提感悟中的弥勒观音等相",
+            "text_context": "感悟境诸菩萨合声，未分别拆角",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "孟感悟中诸菩萨合声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "感悟境诸菩萨合声，未分别拆角",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "感悟境诸菩萨合声，未分别拆角"
+      },
+      {
+        "reference": "v04-c0068:p0028",
+        "length": 60,
+        "sha256": "76c1eb0e2e456ba42db22039aed33044ad147c3c6485c2e88ac9ce4af08812d0",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0028:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "树周光明、苦海、脑后光皆内景",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "树周光明、苦海、脑后光皆内景",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "树周光明、苦海、脑后光皆内景"
+      },
+      {
+        "reference": "v04-c0068:p0029",
+        "length": 43,
+        "sha256": "a1724b071e314f9167390e5a5c541768a558223dd90a44e4adc4f6196b2b0228",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0029:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "僧演经而花成字，内景",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "僧演经而花成字，内景",
+            "focalizer": "v04c068_tree_monk_in_bodhi_vision",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "僧演经而花成字，内景"
+      },
+      {
+        "reference": "v04-c0068:p0030",
+        "length": 26,
+        "sha256": "88642f2e6cafd82f9f80f93640dab8911fa05619883547e50393146b28bdc63b",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0030:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "字出入孟身，仍感悟之境",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "字出入孟身，仍感悟之境",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "字出入孟身，仍感悟之境"
+      },
+      {
+        "reference": "v04-c0068:p0031",
+        "length": 59,
+        "sha256": "490ef0b1ee8f75bd4d87eeb2d9093a88418577764779e0a29ed819923169bdfc",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0031:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "另一尊金佛在孟脑海现",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "另一尊金佛在孟脑海现",
+            "focalizer": "v04c068_golden_buddha_in_meng_mind",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "另一尊金佛在孟脑海现"
+      },
+      {
+        "reference": "v04-c0068:p0032",
+        "length": 14,
+        "sha256": "26502a184196b47789f449a5a3b3c2d202fde05a07dd037fd87e576bb392346f",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0032:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c068_golden_buddha_in_meng_mind",
+            "surface_identity": "佛祖说法氛围中由孟脑内浮现的金佛",
+            "text_context": "脑内金佛所言，我字标有内层引号",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "孟脑内另现的金佛声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "脑内金佛所言，我字标有内层引号",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "脑内金佛所言，我字标有内层引号"
+      },
+      {
+        "reference": "v04-c0068:p0033",
+        "length": 33,
+        "sha256": "2df60ee73ba0ed92c1feb09044f1320229d95709ccb8a56a31898c16df521cea",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0033:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "树下僧站起周行七步，亦指天触地",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "树下僧站起周行七步，亦指天触地",
+            "focalizer": "v04c068_tree_monk_in_bodhi_vision",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "树下僧站起周行七步，亦指天触地"
+      },
+      {
+        "reference": "v04-c0068:p0034",
+        "length": 12,
+        "sha256": "ee52e5ee2c19f83dfb352b6cf3175d6b90e51eab8b4896fa760cdfac5544fc14",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0034:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c068_tree_monk_in_bodhi_vision",
+            "surface_identity": "菩提感悟中的树下僧相",
+            "text_context": "树下僧所言与脑内金佛呼应",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "孟感悟中的树下僧说法",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "树下僧所言与脑内金佛呼应",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "树下僧所言与脑内金佛呼应"
+      },
+      {
+        "reference": "v04-c0068:p0035",
+        "length": 87,
+        "sha256": "d3b38948f7415181e55dea7117f01753dd22046a1c960182009b7984b7016d9c",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0035:u001",
+            "start": 0,
+            "end": 87,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟难看尽诸印，最后仍指天触地",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟难看尽诸印，最后仍指天触地",
+            "focalizer": "v04c068_golden_buddha_in_meng_mind",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟难看尽诸印，最后仍指天触地"
+      },
+      {
+        "reference": "v04-c0068:p0036",
+        "length": 62,
+        "sha256": "5bd9225488e4dde25d156f96384c49bab1e6befd53e43f8cd13a78be9e96ddf4",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0036:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟元神痛中断，诸相退，只见实树",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟元神痛中断，诸相退，只见实树",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟元神痛中断，诸相退，只见实树"
+      },
+      {
+        "reference": "v04-c0068:p0037",
+        "length": 42,
+        "sha256": "4974ff5d5eff4b388f88f94ccf2a1adf0b7eeb477b914620ea75a07ca842eee8",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0037:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟只略得唯我独尊皮毛",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟只略得唯我独尊皮毛",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0037:u002",
+            "start": 32,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟只略得唯我独尊皮毛",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟只略得唯我独尊皮毛",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟只略得唯我独尊皮毛"
+      },
+      {
+        "reference": "v04-c0068:p0038",
+        "length": 37,
+        "sha256": "b863a8887b1cd857a39b04722f6f63bbb3e1a2cd79fcbe65400eddc361d1bce9",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0038:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟比较江芷微此前仅得剑出无我皮毛",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟比较江芷微此前仅得剑出无我皮毛",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟比较江芷微此前仅得剑出无我皮毛"
+      },
+      {
+        "reference": "v04-c0068:p0039",
+        "length": 58,
+        "sha256": "335992c148ece1d04b037f86483c0fe831f2856879479815bc98aafb43563e67",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0039:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟估模拟需一年半载，揉太阳穴发现众人盯视",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟估模拟需一年半载，揉太阳穴发现众人盯视",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0039:u002",
+            "start": 14,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟估模拟需一年半载，揉太阳穴发现众人盯视",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟估模拟需一年半载，揉太阳穴发现众人盯视",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟估模拟需一年半载，揉太阳穴发现众人盯视"
+      },
+      {
+        "reference": "v04-c0068:p0040",
+        "length": 19,
+        "sha256": "83ede51de7f96390957875dfd1e18cecdf8b6c950a83b6c08b513b80c2500fc2",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0040:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟明确传音问真慧",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "孟传音真慧",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟明确传音问真慧",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0040:u002",
+            "start": 10,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟明确传音问真慧",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟明确传音问真慧",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟明确传音问真慧"
+      },
+      {
+        "reference": "v04-c0068:p0041",
+        "length": 16,
+        "sha256": "21404890337e1e9dd5947a550a437effe5e56a46cf7cea545012b93399e44048",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0041:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内心担心被旁听，仍避免公开",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟内心担心被旁听，仍避免公开",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内心担心被旁听，仍避免公开"
+      },
+      {
+        "reference": "v04-c0068:p0042",
+        "length": 18,
+        "sha256": "5fa2a52690e27620fc2e9ad422b2b6c58ac3fba0090dc4c5e039aec631d73b49",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0042:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧摇头并回问，未明示其发声媒介",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧摇头并回问，未明示其发声媒介",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0042:u002",
+            "start": 10,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "zhen_hui",
+            "text_context": "真慧摇头并回问，未明示其发声媒介",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "接续私询，发声媒介未复标",
+            "embodiment": "如常直答，后盘坐含笑睡去",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧摇头并回问，未明示其发声媒介",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧摇头并回问，未明示其发声媒介"
+      },
+      {
+        "reference": "v04-c0068:p0043",
+        "length": 17,
+        "sha256": "5d4d4bb8eea0f97582d2eab9a6af31fc608418e070f9f3b60078dfbeb206e7a1",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0043:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟追问旁人注视缘故，本段未复标传音",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "接续私询，发声媒介未复标",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟追问旁人注视缘故，本段未复标传音",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0043:u002",
+            "start": 11,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟追问旁人注视缘故，本段未复标传音",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟追问旁人注视缘故，本段未复标传音",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟追问旁人注视缘故，本段未复标传音"
+      },
+      {
+        "reference": "v04-c0068:p0044",
+        "length": 27,
+        "sha256": "b8cf171a14d2cef80e4d06b87638cf81e11c52986f0acb250ab8634e608e6a4c",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0044:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧按他所见直答，本句未复标媒介",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧按他所见直答，本句未复标媒介",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0044:u002",
+            "start": 7,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "zhen_hui",
+            "text_context": "真慧按他所见直答，本句未复标媒介",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "接续私询，发声媒介未复标",
+            "embodiment": "如常直答，后盘坐含笑睡去",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧按他所见直答，本句未复标媒介",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧按他所见直答，本句未复标媒介"
+      },
+      {
+        "reference": "v04-c0068:p0045",
+        "length": 19,
+        "sha256": "35014a8b74d71e694dd261b6f801f3087996f170f10cc23835d94e6a403d1141",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0045:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟自觉与师弟沟通费力",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟自觉与师弟沟通费力",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0045:u002",
+            "start": 2,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟自觉与师弟沟通费力",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "孟初悟、入境与退出",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟自觉与师弟沟通费力",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟自觉与师弟沟通费力"
+      },
+      {
+        "reference": "v04-c0068:p0046",
+        "length": 32,
+        "sha256": "e9afe9c5ec3020a7fa8a73d72fbf3c24279b18a3772bab569c0adab0626cd3c5",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0046:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "月摩尼光王菩萨实问排次序",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "月摩尼光王菩萨实问排次序",
+            "focalizer": "v04c067_lanke_bodhisattva_unseen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0046:u002",
+            "start": 19,
+            "end": 32,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c067_lanke_bodhisattva_unseen",
+            "surface_identity": "前章未实名的寺内菩萨，本章自报名号",
+            "text_context": "月摩尼光王菩萨实问排次序",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "寺内月摩尼光王菩萨慈声",
+            "embodiment": "平和超然、慈声无波澜",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "月摩尼光王菩萨实问排次序",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "月摩尼光王菩萨实问排次序"
+      },
+      {
+        "reference": "v04-c0068:p0047",
+        "length": 28,
+        "sha256": "994b5335345e48fbe6ed3587424c0a753d20d2ed8ee3c300a2b6c6b7b52ffccf",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0047:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "冲和实笑说获同意而先行",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "冲和实笑说获同意而先行",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0047:u002",
+            "start": 12,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "lingbao_tianzun",
+            "surface_identity": "lingbao_tianzun",
+            "text_context": "冲和实笑说获同意而先行",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "实际言语",
+            "embodiment": "白发和缓，先参半盏茶再私传说明",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "冲和实笑说获同意而先行",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "冲和实笑说获同意而先行"
+      },
+      {
+        "reference": "v04-c0068:p0048",
+        "length": 36,
+        "sha256": "0d8b97b40bda4a5e3fb143a479d55db0624a50dce119bb6a2bf1b7614e67de54",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0048:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟初误作仅序齿，后有修正",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟初误作仅序齿，后有修正",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0048:u002",
+            "start": 27,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟初误作仅序齿，后有修正",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟初误作仅序齿，后有修正",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟初误作仅序齿，后有修正"
+      },
+      {
+        "reference": "v04-c0068:p0049",
+        "length": 25,
+        "sha256": "f0228cb54c8f649e0d2262bb9e321d30a5d400d88e99d72106d079f694b85b3a",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0049:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "冲和飞入盘坐激树；底本称枯荣菩萨，保留异写，指参悟同一物",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "冲和飞入盘坐激树；底本称枯荣菩萨，保留异写，指参悟同一物",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "冲和飞入盘坐激树；底本称枯荣菩萨，保留异写，指参悟同一物"
+      },
+      {
+        "reference": "v04-c0068:p0050",
+        "length": 41,
+        "sha256": "ed1311c1db1f5a3508dd6cbb10ea70c54bacc61cf89cd1d7114335fe95d5aedd",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0050:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "冲和坐半盏茶；所悟未揭",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "冲和坐半盏茶；所悟未揭",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "冲和坐半盏茶；所悟未揭"
+      },
+      {
+        "reference": "v04-c0068:p0051",
+        "length": 77,
+        "sha256": "4342ddaeca0ee4254669de184c3438aea44cbf3ced672c4a1b83450d64860667",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0051:u001",
+            "start": 0,
+            "end": 77,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "冲和传音解释孟为何到陆处，旁白转述无逐字对白",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "冲和传音解释孟为何到陆处，旁白转述无逐字对白",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "冲和传音解释孟为何到陆处，旁白转述无逐字对白"
+      },
+      {
+        "reference": "v04-c0068:p0052",
+        "length": 26,
+        "sha256": "3ea0ba4f8b6af87f7e7f6f2f89047a78bbf88ff0ec73ee3cf4fa34ed98312b3a",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0052:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "这段说辞让地点转移有了说法",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "这段说辞让地点转移有了说法",
+            "focalizer": "lingbao_tianzun",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "这段说辞让地点转移有了说法"
+      },
+      {
+        "reference": "v04-c0068:p0053",
+        "length": 39,
+        "sha256": "23c81d78e5599b97294934bdbe4116d4f82b0fadcf1f77ce8e2b6ad7b8e91221",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0053:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陆因交情信而不问，实际点头",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "陆因交情信而不问，实际点头",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陆因交情信而不问，实际点头"
+      },
+      {
+        "reference": "v04-c0068:p0054",
+        "length": 22,
+        "sha256": "168b2a6df6e7d32972b7e06bca4f26e4c2530a91285ff319b5ffd052fffcfae4",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0054:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "空闻坐足一刻钟",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻坐足一刻钟",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "空闻坐足一刻钟"
+      },
+      {
+        "reference": "v04-c0068:p0055",
+        "length": 31,
+        "sha256": "70f6bf8f73049b128b9b679a2f2939387b504e6fc121e929348ee94bd6bb2027",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0055:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "zhen_hui",
+            "text_context": "真慧实说方丈比孟多坐会儿",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "实际言语",
+            "embodiment": "如常直答，后盘坐含笑睡去",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧实说方丈比孟多坐会儿",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0055:u002",
+            "start": 14,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧实说方丈比孟多坐会儿",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧实说方丈比孟多坐会儿",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧实说方丈比孟多坐会儿"
+      },
+      {
+        "reference": "v04-c0068:p0056",
+        "length": 15,
+        "sha256": "3753f4ca5aa3274d8f065b6c03f9b310498f493356bfc5f55606e98548ac3b31",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0056:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实问自己时长",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实问自己时长",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0056:u002",
+            "start": 7,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实问自己时长",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "实际言语",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实问自己时长",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实问自己时长"
+      },
+      {
+        "reference": "v04-c0068:p0057",
+        "length": 20,
+        "sha256": "8861ca3325b5eb2ab2928951210c2fcac96b66543430d5108d52a572ed8b27b8",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0057:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "zhen_hui",
+            "surface_identity": "zhen_hui",
+            "text_context": "真慧实答比冲和久不少",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "实际言语",
+            "embodiment": "如常直答，后盘坐含笑睡去",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧实答比冲和久不少",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0057:u002",
+            "start": 11,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧实答比冲和久不少",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧实答比冲和久不少",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧实答比冲和久不少"
+      },
+      {
+        "reference": "v04-c0068:p0058",
+        "length": 13,
+        "sha256": "7108461f3241e7cb8c8ddc15ac7ad8d60e2532fe97938d08ddd1c95fc11323b8",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0058:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实问有无异象",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "实际言语",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实问有无异象",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0058:u002",
+            "start": 7,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实问有无异象",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实问有无异象",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实问有无异象"
+      },
+      {
+        "reference": "v04-c0068:p0059",
+        "length": 16,
+        "sha256": "cefe6987f370aaa2cd5a878c894b608dc6fcb5f8862a71b5bf01920dc6009526",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0059:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧摇头，无口答",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧摇头，无口答",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧摇头，无口答"
+      },
+      {
+        "reference": "v04-c0068:p0060",
+        "length": 47,
+        "sha256": "9a70f52f99103c8dc67c74f248161ea9ab47adb93dc396c15dd37b0a6254e9b7",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0060:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟释然，猜既学招式与时间相关",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟释然，猜既学招式与时间相关",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0060:u002",
+            "start": 16,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟释然，猜既学招式与时间相关",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟释然，猜既学招式与时间相关",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0060:u003",
+            "start": 23,
+            "end": 47,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟释然，猜既学招式与时间相关",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟释然，猜既学招式与时间相关",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟释然，猜既学招式与时间相关"
+      },
+      {
+        "reference": "v04-c0068:p0061",
+        "length": 17,
+        "sha256": "03aea6d30717262c5deab3a8e4f6bdefe55ea3080787e6db02157fd10e206f54",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0061:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "若如是，空闻因祸得福为内想",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "若如是，空闻因祸得福为内想",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "若如是，空闻因祸得福为内想"
+      },
+      {
+        "reference": "v04-c0068:p0062",
+        "length": 73,
+        "sha256": "8d4d8388ad6699cfe900a656c52ab6886434405cd7cda6a1fdb178d88f0ddb3b",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0062:u001",
+            "start": 0,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实际法身先、其他后；佛门久，金刚寺仅次空闻",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "实际法身先、其他后；佛门久，金刚寺仅次空闻",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际法身先、其他后；佛门久，金刚寺仅次空闻"
+      },
+      {
+        "reference": "v04-c0068:p0063",
+        "length": 67,
+        "sha256": "99c62907e0387695bf2b823daaf4edef8847a1ce98ad2932945833fdb16aadfc",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0063:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陆大清澈无贪，只微笑摇头，明确未参悟",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "诸方参悟次序与时长",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "陆大清澈无贪，只微笑摇头，明确未参悟",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陆大清澈无贪，只微笑摇头，明确未参悟"
+      },
+      {
+        "reference": "v04-c0068:p0064",
+        "length": 66,
+        "sha256": "5a6d75933dc22885413b054b400f15f8d75d2671d9640b2b3c9e20899dbf3830",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0064:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实邀弘能、真慧参悟，记弘能救命之恩",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "实际言语",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实邀弘能、真慧参悟，记弘能救命之恩",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0064:u002",
+            "start": 26,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实邀弘能、真慧参悟，记弘能救命之恩",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实邀弘能、真慧参悟，记弘能救命之恩",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实邀弘能、真慧参悟，记弘能救命之恩"
+      },
+      {
+        "reference": "v04-c0068:p0065",
+        "length": 74,
+        "sha256": "f5e5e5f677db254b62f9262a54b359c6aab1be726f676432f2c034688f149f1e",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0065:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "众人不计较，菩萨未发言是默许，真慧实入前静参",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "众人不计较，菩萨未发言是默许，真慧实入前静参",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "众人不计较，菩萨未发言是默许，真慧实入前静参"
+      },
+      {
+        "reference": "v04-c0068:p0066",
+        "length": 63,
+        "sha256": "2b14a4dac79d15052bd5abfc1edc696d1d2b94b43276c4e1dc482b408c4d7747",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0066:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟由默许推未来可带人，尚未验证",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟由默许推未来可带人，尚未验证",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟由默许推未来可带人，尚未验证"
+      },
+      {
+        "reference": "v04-c0068:p0067",
+        "length": 38,
+        "sha256": "c72ddd0b810d45e706c2f3430ccec997daac8b2cea686c83a41955c7e25920a4",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0067:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真慧近一刻钟，稍短于空闻",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "真慧近一刻钟，稍短于空闻",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真慧近一刻钟，稍短于空闻"
+      },
+      {
+        "reference": "v04-c0068:p0068",
+        "length": 59,
+        "sha256": "095b0f68cdb1637a3e743bf5511992c0155c609f499678c6b4d696a34a6200ec",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0068:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "已准真慧感第三式的既往背景，此次时长超预期",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "已准真慧感第三式的既往背景，此次时长超预期",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "已准真慧感第三式的既往背景，此次时长超预期"
+      },
+      {
+        "reference": "v04-c0068:p0069",
+        "length": 30,
+        "sha256": "73b5e4aa573698ab907b0b3afffe6f7e653ed5a144b62f17715efcb49623820e",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0069:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟内省非佛门禅修且赤子心不及师弟",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟内省非佛门禅修且赤子心不及师弟",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内省非佛门禅修且赤子心不及师弟"
+      },
+      {
+        "reference": "v04-c0068:p0070",
+        "length": 26,
+        "sha256": "15d8de6faf5103debfef57eedb32cc2c8daac44b1ec262040ef4e1a1ab6e505b",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0070:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "树停摇而真慧仍跌坐微笑",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "树停摇而真慧仍跌坐微笑",
+            "focalizer": "zhen_hui",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "树停摇而真慧仍跌坐微笑"
+      },
+      {
+        "reference": "v04-c0068:p0071",
+        "length": 24,
+        "sha256": "b775179ebd0795a579606e59ea0fa667f77e9aca2c00fd3f63cb194485549a8e",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0071:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实问真慧怎么了",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "实际言语",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实问真慧怎么了",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0071:u002",
+            "start": 9,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实问真慧怎么了",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实问真慧怎么了",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实问真慧怎么了"
+      },
+      {
+        "reference": "v04-c0068:p0072",
+        "length": 14,
+        "sha256": "f70c820c44786403aeab6bce9f8ca597cf61f2375b1fdc96b5d217170154f2ac",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0072:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "空闻实说真慧睡了",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻实说真慧睡了",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0072:u002",
+            "start": 7,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "真空闻，第三式既往得主",
+            "text_context": "空闻实说真慧睡了",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "实际言语",
+            "embodiment": "久悟后虚托真慧，慈声问酬",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻实说真慧睡了",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "空闻实说真慧睡了"
+      },
+      {
+        "reference": "v04-c0068:p0073",
+        "length": 17,
+        "sha256": "d2f14b34e14412abcc01887ba8500668f8308da8e4231aad107b463c83303508",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0073:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟心讶重复，嘴角抽",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟心讶重复，嘴角抽",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0073:u002",
+            "start": 7,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟心讶重复，嘴角抽",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟心讶重复，嘴角抽",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心讶重复，嘴角抽"
+      },
+      {
+        "reference": "v04-c0068:p0074",
+        "length": 50,
+        "sha256": "02ba05d4287a1ac084fcb9a96bb912b2281115fcf01af699289f144f7e461b7c",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0074:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "空闻提真慧，实估睡一年半载，属感悟过深冲击",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻提真慧，实估睡一年半载，属感悟过深冲击",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0074:u002",
+            "start": 13,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "真空闻，第三式既往得主",
+            "text_context": "空闻提真慧，实估睡一年半载，属感悟过深冲击",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "实际言语",
+            "embodiment": "久悟后虚托真慧，慈声问酬",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻提真慧，实估睡一年半载，属感悟过深冲击",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "空闻提真慧，实估睡一年半载，属感悟过深冲击"
+      },
+      {
+        "reference": "v04-c0068:p0075",
+        "length": 46,
+        "sha256": "1378b7db20d911d82fe6d32e6ce32650ea5ad359fe1fc543f05ca825c1a6255b",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0075:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟心问为何不会自停，继而安心",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟心问为何不会自停，继而安心",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0075:u002",
+            "start": 9,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟心问为何不会自停，继而安心",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟心问为何不会自停，继而安心",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心问为何不会自停，继而安心"
+      },
+      {
+        "reference": "v04-c0068:p0076",
+        "length": 63,
+        "sha256": "d9bc786d1af5ab7a635af4513406fd84eed640a0bce94e078130f0e7147e8ea6",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0076:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "弘能已参完；菩萨实言宏愿不证佛陀不见如来，宣布树放寺门前",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "弘能已参完；菩萨实言宏愿不证佛陀不见如来，宣布树放寺门前",
+            "focalizer": "v04c067_lanke_bodhisattva_unseen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0076:u002",
+            "start": 23,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c067_lanke_bodhisattva_unseen",
+            "surface_identity": "前章未实名的寺内菩萨，本章自报名号",
+            "text_context": "弘能已参完；菩萨实言宏愿不证佛陀不见如来，宣布树放寺门前",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "真慧弘能参悟、寺前安放约定",
+            "channel": "寺内月摩尼光王菩萨慈声",
+            "embodiment": "平和超然、慈声无波澜",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "弘能已参完；菩萨实言宏愿不证佛陀不见如来，宣布树放寺门前",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "弘能已参完；菩萨实言宏愿不证佛陀不见如来，宣布树放寺门前"
+      },
+      {
+        "reference": "v04-c0068:p0077",
+        "length": 20,
+        "sha256": "8bfb00c01ea880f1d816cd17d052d6fdcbe308bcae6f0af7a88ffc6bde931ce9",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0077:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "诸人告别，空闻与云鹤留下",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "诸人告别，空闻与云鹤留下",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "诸人告别，空闻与云鹤留下"
+      },
+      {
+        "reference": "v04-c0068:p0078",
+        "length": 35,
+        "sha256": "ddf7c3aab17de06bfea274c08fa6739644010d9b8cf5d41076078d21823903aa",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0078:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "真空闻，第三式既往得主",
+            "text_context": "空闻托真慧，实欲履约答谢",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "实际言语",
+            "embodiment": "久悟后虚托真慧，慈声问酬",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻托真慧，实欲履约答谢",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0078:u002",
+            "start": 12,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "空闻托真慧，实欲履约答谢",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻托真慧，实欲履约答谢",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "空闻托真慧，实欲履约答谢"
+      },
+      {
+        "reference": "v04-c0068:p0079",
+        "length": 50,
+        "sha256": "5c2ce04b57badebf0c64c6b147a68bb4b7cd1b0b88234f23062fc8853f9c0039",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0079:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实请玄悲入舍利塔上层补自身",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实请玄悲入舍利塔上层补自身",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0079:u002",
+            "start": 7,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实请玄悲入舍利塔上层补自身",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "实际言语",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实请玄悲入舍利塔上层补自身",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实请玄悲入舍利塔上层补自身"
+      },
+      {
+        "reference": "v04-c0068:p0080",
+        "length": 33,
+        "sha256": "7ebff4cd3c326e60ddbd1864d4b608d8ba1bf0eb57eda645ef3070a12e729c0c",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0080:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "空闻实问是否想听更贵重报答",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻实问是否想听更贵重报答",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0080:u002",
+            "start": 7,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "真空闻，第三式既往得主",
+            "text_context": "空闻实问是否想听更贵重报答",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "实际言语",
+            "embodiment": "久悟后虚托真慧，慈声问酬",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻实问是否想听更贵重报答",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0080:u003",
+            "start": 20,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "真空闻，第三式既往得主",
+            "text_context": "空闻实问是否想听更贵重报答",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "实际言语",
+            "embodiment": "久悟后虚托真慧，慈声问酬",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻实问是否想听更贵重报答",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "空闻实问是否想听更贵重报答"
+      },
+      {
+        "reference": "v04-c0068:p0081",
+        "length": 21,
+        "sha256": "c604f9dcb08c2450551b2c7d037b27015643eead593bb80285134c29552c4db1",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0081:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实拒听，转身前称怕心痛",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实拒听，转身前称怕心痛",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0081:u002",
+            "start": 7,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实拒听，转身前称怕心痛",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "实际言语",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实拒听，转身前称怕心痛",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实拒听，转身前称怕心痛"
+      },
+      {
+        "reference": "v04-c0068:p0082",
+        "length": 42,
+        "sha256": "ae80e6e252eff7aa17834a35de10776e77f7b04ee04feeb7883023f43afd858f",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0082:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟念师恩可回报，身心舒畅",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟念师恩可回报，身心舒畅",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟念师恩可回报，身心舒畅"
+      },
+      {
+        "reference": "v04-c0068:p0083",
+        "length": 19,
+        "sha256": "ce69dc4204e32586259dbd23bf2f877079d312ca418fee520c8f78380bb9ddba",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0083:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟非逐词大笑而飞离",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟非逐词大笑而飞离",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0083:u002",
+            "start": 3,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟非逐词大笑而飞离",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟非逐词大笑而飞离",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟非逐词大笑而飞离"
+      },
+      {
+        "reference": "v04-c0068:p0084",
+        "length": 18,
+        "sha256": "6264870694885e0394226013a70c513e144fbdb3cf8b67b99db967c899d58c8a",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0084:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟有恩报恩的心意，无对外台词",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟有恩报恩的心意，无对外台词",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟有恩报恩的心意，无对外台词"
+      },
+      {
+        "reference": "v04-c0068:p0085",
+        "length": 40,
+        "sha256": "a2c6e23f58532fabc0e5b505dd63114aef81dce1a27f1f5270ffaf2a1a285fa5",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0085:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "空闻明确暗想孟不贪，并未说出",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻明确暗想孟不贪，并未说出",
+            "focalizer": "v04c055_captive_claiming_kongwen",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0085:u002",
+            "start": 22,
+            "end": 40,
+            "kind": "inner_speech",
+            "speaker": "v04c055_captive_claiming_kongwen",
+            "surface_identity": "真空闻，第三式既往得主",
+            "text_context": "空闻明确暗想孟不贪，并未说出",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "内心",
+            "embodiment": "久悟后虚托真慧，慈声问酬",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "空闻明确暗想孟不贪，并未说出",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "空闻明确暗想孟不贪，并未说出"
+      },
+      {
+        "reference": "v04-c0068:p0086",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0086:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0068:p0087",
+        "length": 64,
+        "sha256": "83b808249a6a1c8c2f7559a49521fb3536b79c39e5196175917343ccef8edaca",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0087:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "寺消失前暴雨使鱼海贪汗转巨湖绿洲",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "寺消失前暴雨使鱼海贪汗转巨湖绿洲",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "寺消失前暴雨使鱼海贪汗转巨湖绿洲"
+      },
+      {
+        "reference": "v04-c0068:p0088",
+        "length": 46,
+        "sha256": "cd3200fb41d38c3e78f21922fa10d7255199215d7ae77a8296a15a87241152cd",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0088:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际潜水催云鹤施法，未见已捞得",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实际潜水催云鹤施法，未见已捞得",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0068:p0088:u002",
+            "start": 24,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟实际潜水催云鹤施法，未见已捞得",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "实际言语",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟实际潜水催云鹤施法，未见已捞得",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际潜水催云鹤施法，未见已捞得"
+      },
+      {
+        "reference": "v04-c0068:p0089",
+        "length": 63,
+        "sha256": "2743699a097591d82b9483f80dacdec8769507cbec810b49f08f3b13c843261b",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0089:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "途中折返鱼海，想找战斗遗材",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "途中折返鱼海，想找战斗遗材",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "途中折返鱼海，想找战斗遗材"
+      },
+      {
+        "reference": "v04-c0068:p0090",
+        "length": 51,
+        "sha256": "8ed90826bd15507e3599f6f26d0bdd3009be1b9aaf12d95284f636e951611ec6",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0090:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟自忖可能被高人晚辈先捡",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟自忖可能被高人晚辈先捡",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟自忖可能被高人晚辈先捡"
+      },
+      {
+        "reference": "v04-c0068:p0091",
+        "length": 10,
+        "sha256": "d54edf9104d1a0c3213a4e878da29825d2f8cc9360cb99c66b10a596239cde97",
+        "units": [
+          {
+            "unit_id": "v04-c0068:p0091:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "meng_qi",
+            "text_context": "孟心以贪财自嘲，与空闻评语切换呼应",
+            "world_context": "第四卷：兰柯约期、菩提参悟、孟求报师恩，折返复生鱼海",
+            "stage_context": "玄悲补益请求、鱼海寻遗材",
+            "channel": "内心",
+            "embodiment": "半阖眼激树，元神痛而退，许回报玄悲再转俏皮",
+            "vow_friendship_and_loot_boundary": "只得唯我独尊皮毛，未能模拟。名号是召见之法，保命为孟推论。请求玄悲上塔已经说出，履行尚未出现。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "感悟内景和现场分离；脑内金佛与树下僧不是同一录音位。冲和以序齿先行只解释自己的先后，实际总体法身先。",
+            "knowledge_boundary": "孟心以贪财自嘲，与空闻评语切换呼应",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心以贪财自嘲，与空闻评语切换呼应"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0068",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S09",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 16,
+        "label": "菩萨自报名号，孟奇推想避险方式",
+        "direction": "以净土和沙海相接起场。孟主动问日后如何寻寺，由寺中慈声说清此界、诚心默诵、三遍三项。孟的喜意来自把寻寺理解成避险可能，并留激战时无法诚心持诵的顾虑。 证据 v04-c0068:p0001–p0016。"
+      },
+      {
+        "paragraph_start": 17,
+        "paragraph_end": 45,
+        "label": "孟奇首参菩提，元神痛退",
+        "direction": "半阖眼坐定，浅激树而入境。先分树下僧与众菩萨，再从脑中金佛的指天触地切回树下僧与之呼应。以元神痛断景回现场，只得一式皮毛。孟传音问真慧，真慧照字面回答。 证据 v04-c0068:p0017–p0045。"
+      },
+      {
+        "paragraph_start": 46,
+        "paragraph_end": 63,
+        "label": "冲和先行，其余法身依序参悟",
+        "direction": "月摩尼问顺序，冲和笑答，先坐约半盏茶，所悟留白。冲和对陆大解释孟如何到画眉山庄的传音由旁白转述。真慧据实比较时长，随后揭整体法身先、余人后；陆大只摇头旁观。 证据 v04-c0068:p0046–p0063。"
+      },
+      {
+        "paragraph_start": 64,
+        "paragraph_end": 76,
+        "label": "真慧、弘能获准参悟，寺门前留菩提",
+        "direction": "孟记弘能救命之恩，邀二人。真慧坐近一刻钟，树已停而人仍笑坐，到空闻提起才明白已经睡了。睡期用空闻估语。弘能参毕后，由菩萨宣布菩提留寺门前供参。 证据 v04-c0068:p0064–p0076。"
+      },
+      {
+        "paragraph_start": 77,
+        "paragraph_end": 91,
+        "label": "孟奇求酬师父，转身折返鱼海",
+        "direction": "空闻虚托真慧询问报答，孟先说玄悲上塔的心愿，再带一点怕心痛的坦率。孟大笑飞去，空闻赞许放在心里。分隔后用暴雨复湖转入孟下水催云鹤寻遗材，以自嘲收尾，未得物。 证据 v04-c0068:p0077–p0091。"
+      }
+    ],
+    "knowledge_rule": "保命用途是孟的推想，现场尚未试用。感悟境、脑内金佛和现场分开。真慧睡期属空闻估计，玄悲上塔只及提出请求，鱼海尚未见所得。"
+  }
 }

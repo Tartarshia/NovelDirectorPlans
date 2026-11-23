@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [月摩尼光王菩萨给再次得见兰柯寺的方法](early-v04-Yuemoni-Bodhisattva-names-the-way-to-Lanke.md) | 第四卷第68章历史归属回补 |
+| [孟得唯我独尊皮毛，真慧感悟过深睡去](early-v04-Bodhi-insight-Meng-traces-Zhen-Hui-sleeps.md) | 第四卷第68章历史归属回补 |
+| [孟为玄悲请入塔，飞离后返鱼海](early-v04-Meng-asks-reward-for-Xuanbei-and-dives-at-Fish-Sea.md) | 第四卷第68章历史归属回补 |
 | [孟奇催符，六道临时停用](early-v04-Reincarnation-talisman-suspended-at-Lanke.md) | 第四卷第67章历史归属回补 |
 | [琉璃界显兰柯寺，古刹传菩萨声音](early-v04-Lanke-manifests-and-Bodhisattva-speaks.md) | 第四卷第67章历史归属回补 |
 | [寺议保管总纲，孟获优先感悟](early-v04-Lanke-offers-custody-and-shared-insight.md) | 第四卷第67章历史归属回补 |
