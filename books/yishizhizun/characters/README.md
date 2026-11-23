@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [张玉泉打定主意邀方，方带陈文登来](early-v04-Zhang-Yuquan-invites-Fang-and-Chen.md) | 第四卷第73章历史归属回补 |
+| [孟奇封住方不同，方口称昆仑之灵](early-v04-Meng-restrains-Fang-and-hears-Kunlun-claim.md) | 第四卷第73章历史归属回补 |
+| [陈文登显血日，张玉泉识出大日神巫](early-v04-Chen-Wendeng-blood-sun-and-sun-shaman.md) | 第四卷第73章历史归属回补 |
 | [两名拦路者落败，树干状物与赤球水遁](early-v04-Two-objects-escape-after-the-sea-fight.md) | 第四卷第72章历史归属回补 |
 | [魂灯熄灭，密室改为拖延](early-v04-Soul-lamps-go-out-and-the-group-stalls.md) | 第四卷第72章历史归属回补 |
 | [方不同奉旨交权，张玉泉怀疑过度配合](early-v04-Fang-Butong-welcomes-Zhang-at-Xinhai.md) | 第四卷第72章历史归属回补 |

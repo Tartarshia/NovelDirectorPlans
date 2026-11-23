@@ -61,7 +61,2308 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0243"
+  "reading_batch": "batch-0243",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0073",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0073.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0073:p0001",
+        "length": 16,
+        "sha256": "52bd5cdf263432662a05c80a803b73b25eba6edcdbf2654704985be93b0ef3e1",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0001:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实惊问孟的提议",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实惊问孟的提议",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0001:u002",
+            "start": 8,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张实惊问孟的提议",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实惊问孟的提议",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实惊问孟的提议"
+      },
+      {
+        "reference": "v04-c0073:p0002",
+        "length": 25,
+        "sha256": "aafd54e3097fa0d8f7b13e153424885a9cc276ada3419c9e2ca06707a093a6b5",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0002:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张激风雷隔绝窥听",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张激风雷隔绝窥听",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张激风雷隔绝窥听"
+      },
+      {
+        "reference": "v04-c0073:p0003",
+        "length": 86,
+        "sha256": "a83bee454d81439c83d2282f3f9ce49aba866f96362af1ee1b12840e9aa71374",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0003:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以元始面具，出手时两丈法体",
+            "text_context": "面具孟实提直取一巡抚追问",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "坐定舒缓，末四字炸响，拳势转抓封体",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "面具孟实提直取一巡抚追问",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0003:u002",
+            "start": 55,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "面具孟实提直取一巡抚追问",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "面具孟实提直取一巡抚追问",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "面具孟实提直取一巡抚追问"
+      },
+      {
+        "reference": "v04-c0073:p0004",
+        "length": 55,
+        "sha256": "8e49ca7ad30bccf8aaa597a47a039186114967f38f66f1bd3015dfd402423f7a",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0004:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实忧激起他人联手",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实忧激起他人联手",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0004:u002",
+            "start": 8,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张实忧激起他人联手",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实忧激起他人联手",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实忧激起他人联手"
+      },
+      {
+        "reference": "v04-c0073:p0005",
+        "length": 11,
+        "sha256": "5c3f62637384d36c924485577a4d8b1f90736dc479e7fb6c1addeafe88c741b3",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0005:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张心说担不起责任",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "内心",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张心说担不起责任",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张心说担不起责任"
+      },
+      {
+        "reference": "v04-c0073:p0006",
+        "length": 146,
+        "sha256": "88beb01b0564e4ab3c3cacefc23cec98a4575757e20ad6b7ed20a4035bb22b7c",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0006:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以元始面具，出手时两丈法体",
+            "text_context": "孟实陈五方既同谋，并问愿在断航前或后",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "坐定舒缓，末四字炸响，拳势转抓封体",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实陈五方既同谋，并问愿在断航前或后",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0006:u002",
+            "start": 37,
+            "end": 92,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以元始面具，出手时两丈法体",
+            "text_context": "孟实陈五方既同谋，并问愿在断航前或后",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "坐定舒缓，末四字炸响，拳势转抓封体",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实陈五方既同谋，并问愿在断航前或后",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0006:u003",
+            "start": 92,
+            "end": 111,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实陈五方既同谋，并问愿在断航前或后",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实陈五方既同谋，并问愿在断航前或后",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0006:u004",
+            "start": 111,
+            "end": 146,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以元始面具，出手时两丈法体",
+            "text_context": "孟实陈五方既同谋，并问愿在断航前或后",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "坐定舒缓，末四字炸响，拳势转抓封体",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实陈五方既同谋，并问愿在断航前或后",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实陈五方既同谋，并问愿在断航前或后"
+      },
+      {
+        "reference": "v04-c0073:p0007",
+        "length": 21,
+        "sha256": "9a76e7cd3edf66e82a753018cf50cc15fba563fbd2c727f9990a28c84fdd3a82",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0007:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张不犹豫实选断航前",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张不犹豫实选断航前",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0007:u002",
+            "start": 12,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张不犹豫实选断航前",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张不犹豫实选断航前",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张不犹豫实选断航前"
+      },
+      {
+        "reference": "v04-c0073:p0008",
+        "length": 42,
+        "sha256": "d492dba4a6a3c768d7b6577be2e01aa0615cea25e134998d47255bd8ca2eddae",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0008:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张心想断航后困守九月",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "内心",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张心想断航后困守九月",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张心想断航后困守九月"
+      },
+      {
+        "reference": "v04-c0073:p0009",
+        "length": 51,
+        "sha256": "fa243518869bb4d2930d69aaa05622ed650384686c9d64b94786f88a8d842bad",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0009:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张心忧孟押巡抚返后只留自身及另二人",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "内心",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张心忧孟押巡抚返后只留自身及另二人",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张心忧孟押巡抚返后只留自身及另二人"
+      },
+      {
+        "reference": "v04-c0073:p0010",
+        "length": 36,
+        "sha256": "cd02d31a0ce7dfdbe0efe87fa84f78dd6f949ae9a8f20eaea5ddd820ef0048da",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0010:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张心计航程容两拨援军",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "内心",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张心计航程容两拨援军",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张心计航程容两拨援军"
+      },
+      {
+        "reference": "v04-c0073:p0011",
+        "length": 52,
+        "sha256": "e50d5fe5b7bf9fe1704c4c0e1a9c87d91fca763586f36a001dbbaa3361df08d4",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0011:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实问方身边强者及把握",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实问方身边强者及把握",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0011:u002",
+            "start": 20,
+            "end": 52,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张实问方身边强者及把握",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实问方身边强者及把握",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实问方身边强者及把握"
+      },
+      {
+        "reference": "v04-c0073:p0012",
+        "length": 123,
+        "sha256": "1808399036fc4419ae5e46f86639622c7cad7d348d866ebc65ecd5fe27cb484f",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0012:u001",
+            "start": 0,
+            "end": 109,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以元始面具，出手时两丈法体",
+            "text_context": "孟实判前两拦船手近其最强",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "坐定舒缓，末四字炸响，拳势转抓封体",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实判前两拦船手近其最强",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0012:u002",
+            "start": 109,
+            "end": 123,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实判前两拦船手近其最强",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实判前两拦船手近其最强",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实判前两拦船手近其最强"
+      },
+      {
+        "reference": "v04-c0073:p0013",
+        "length": 38,
+        "sha256": "5efa7a6a320d6b91bb5e4bb1e7cfd0bf51c93328b958f7ca28ed1b6a7bebd309",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0013:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟明确内评张犹豫无断",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟明确内评张犹豫无断",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0013:u002",
+            "start": 11,
+            "end": 38,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以元始面具，出手时两丈法体",
+            "text_context": "孟明确内评张犹豫无断",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "内心",
+            "embodiment": "坐定舒缓，末四字炸响，拳势转抓封体",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟明确内评张犹豫无断",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟明确内评张犹豫无断"
+      },
+      {
+        "reference": "v04-c0073:p0014",
+        "length": 72,
+        "sha256": "a9b6218db31f46d713c45ffcaa6abef3f29f696b86ea3f145076c6ee8b6b99ff",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0014:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张正常晋外景；元气丰致易进阶只是解释",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张正常晋外景；元气丰致易进阶只是解释",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张正常晋外景；元气丰致易进阶只是解释"
+      },
+      {
+        "reference": "v04-c0073:p0015",
+        "length": 26,
+        "sha256": "9c0c78d7da0cfc8426f5e6451447004547b6f5e2b7b762bd44c29190ad630b24",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0015:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张实点头，但保留方或无罪的疑问",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实点头，但保留方或无罪的疑问",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0015:u002",
+            "start": 5,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实点头，但保留方或无罪的疑问",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实点头，但保留方或无罪的疑问",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0015:u003",
+            "start": 12,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张实点头，但保留方或无罪的疑问",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实点头，但保留方或无罪的疑问",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实点头，但保留方或无罪的疑问"
+      },
+      {
+        "reference": "v04-c0073:p0016",
+        "length": 19,
+        "sha256": "2c15b89125a6855f316f7efea515a84134ea0c77dfab18f0b25a4a4b1e906b47",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0016:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张忽略孟对皇上称呼",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张忽略孟对皇上称呼",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张忽略孟对皇上称呼"
+      },
+      {
+        "reference": "v04-c0073:p0017",
+        "length": 55,
+        "sha256": "5558fb9c1209050e7e741069c709cdde0498b7a18797308dcb82d8a5fa2e5827",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0017:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以元始面具，出手时两丈法体",
+            "text_context": "孟实答若无问题当道歉",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "坐定舒缓，末四字炸响，拳势转抓封体",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实答若无问题当道歉",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0017:u002",
+            "start": 34,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实答若无问题当道歉",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实答若无问题当道歉",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实答若无问题当道歉"
+      },
+      {
+        "reference": "v04-c0073:p0018",
+        "length": 63,
+        "sha256": "ce64172b6cb1e5f50668a83b6dd657b34ba010269e4ad10f8265bc856bd4b674",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0018:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实际请小厮邀方，以请教民生为名",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实际请小厮邀方，以请教民生为名",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0018:u002",
+            "start": 43,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张实际请小厮邀方，以请教民生为名",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "私议主动，敲定邀问",
+            "channel": "实际言语",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实际请小厮邀方，以请教民生为名",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实际请小厮邀方，以请教民生为名"
+      },
+      {
+        "reference": "v04-c0073:p0019",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0019:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "分隔",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0073:p0020",
+        "length": 42,
+        "sha256": "fad69d4ac218c5b4308d286ca60a783cee89a577c764f0419aea9f90cf96bbbc",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0020:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "夜月海静，方到来",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "夜月海静，方到来",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "夜月海静，方到来"
+      },
+      {
+        "reference": "v04-c0073:p0021",
+        "length": 74,
+        "sha256": "6f4a4cfa0c10c27000779a93831394a01ff5b16975cd33afe51fa6352332d690",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0021:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "方实带秃顶稀发目灼的老者着护卫打扮",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方实带秃顶稀发目灼的老者着护卫打扮",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方实带秃顶稀发目灼的老者着护卫打扮"
+      },
+      {
+        "reference": "v04-c0073:p0022",
+        "length": 19,
+        "sha256": "8de2e49de1d59ed07f7856725909d883baaebbcedd0493b41b0745cf18553027",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0022:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张实离主位问带来者",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "实际言语",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实离主位问带来者",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0022:u002",
+            "start": 6,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张实离主位问带来者",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张实离主位问带来者",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张实离主位问带来者"
+      },
+      {
+        "reference": "v04-c0073:p0023",
+        "length": 28,
+        "sha256": "0adc421a0776430fe824c5d2d35ea76d947447938bc9024ecef23bf771a09934",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0023:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "放茶划主客以作私人请教",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "放茶划主客以作私人请教",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "放茶划主客以作私人请教"
+      },
+      {
+        "reference": "v04-c0073:p0024",
+        "length": 127,
+        "sha256": "182541d21746a1d369f108a41b9d4a7d0edcaae0faa2582450f955a6ecba1936",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0024:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "方口述安东圣坛被毁与早年援助；底本财狼",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方口述安东圣坛被毁与早年援助；底本财狼",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0024:u002",
+            "start": 34,
+            "end": 127,
+            "kind": "spoken_dialogue",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方口述安东圣坛被毁与早年援助；底本财狼",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "实际言语",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方口述安东圣坛被毁与早年援助；底本财狼",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方口述安东圣坛被毁与早年援助；底本财狼"
+      },
+      {
+        "reference": "v04-c0073:p0025",
+        "length": 95,
+        "sha256": "6ead70aef16b9236296330debb0d489ac805e905834344af1a06363c3b8b3149",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0025:u001",
+            "start": 0,
+            "end": 95,
+            "kind": "spoken_dialogue",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方实介绍陈文登办护卫、收买交易平刺杀",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "实际言语",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方实介绍陈文登办护卫、收买交易平刺杀",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方实介绍陈文登办护卫、收买交易平刺杀"
+      },
+      {
+        "reference": "v04-c0073:p0026",
+        "length": 33,
+        "sha256": "8f1715a25591e6e5a91e3dd5144c9d00043102e00fa686d66bd4b5b4de5943f7",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0026:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方实举荐希望留新海的陈",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "实际言语",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方实举荐希望留新海的陈",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方实举荐希望留新海的陈"
+      },
+      {
+        "reference": "v04-c0073:p0027",
+        "length": 49,
+        "sha256": "77e78b6d06fc73ed383366df36f87c5a6d2a0c44c693f1116e559b23c0eb2c6c",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0027:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张观内敛而心知陈为外景，具体境界未定",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "内心",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张观内敛而心知陈为外景，具体境界未定",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0027:u002",
+            "start": 6,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张观内敛而心知陈为外景，具体境界未定",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张观内敛而心知陈为外景，具体境界未定",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张观内敛而心知陈为外景，具体境界未定"
+      },
+      {
+        "reference": "v04-c0073:p0028",
+        "length": 60,
+        "sha256": "46e4b9fd246a1689b1f92fe5c033f5a7b1fe955a8e6dc98d4c2a47ad566c2d50",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0028:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张内问仍否动手，见孟呼吸情绪无波",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "内心",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张内问仍否动手，见孟呼吸情绪无波",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0028:u002",
+            "start": 6,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张内问仍否动手，见孟呼吸情绪无波",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张内问仍否动手，见孟呼吸情绪无波",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张内问仍否动手，见孟呼吸情绪无波"
+      },
+      {
+        "reference": "v04-c0073:p0029",
+        "length": 53,
+        "sha256": "97b94758d4131392a0c1a8381da51104cac8c6d58c741d9eaf2d0ddc02541eaa",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0029:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张心想到此前孟解决两人，实应允入坐",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "内心",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张心想到此前孟解决两人，实应允入坐",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0029:u002",
+            "start": 28,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张心想到此前孟解决两人，实应允入坐",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张心想到此前孟解决两人，实应允入坐",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张心想到此前孟解决两人，实应允入坐"
+      },
+      {
+        "reference": "v04-c0073:p0030",
+        "length": 67,
+        "sha256": "5a545a2f6375b0d259333810eb257773d6bc5d8e746cd01089a5696f84d4eb4c",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0030:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张谈侨州民生安东等，借此降戒心，无逐句",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张谈侨州民生安东等，借此降戒心，无逐句",
+            "focalizer": "zhang_yuquan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张谈侨州民生安东等，借此降戒心，无逐句"
+      },
+      {
+        "reference": "v04-c0073:p0031",
+        "length": 14,
+        "sha256": "3edc01a51ea2fcddfd28de4df1ce64d59770bc96faa383230cb99c4992fba718",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0031:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "方实答一番，无逐字",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "月下方带陈到，互试态度",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方实答一番，无逐字",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方实答一番，无逐字"
+      },
+      {
+        "reference": "v04-c0073:p0032",
+        "length": 29,
+        "sha256": "dcedfd3f204b788b22374eea85f6a7dc1757bdd0426fad65ae6fb98170fca6f4",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0032:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实开口请教",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实开口请教",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0032:u002",
+            "start": 16,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以元始面具，出手时两丈法体",
+            "text_context": "孟实开口请教",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "实际言语",
+            "embodiment": "坐定舒缓，末四字炸响，拳势转抓封体",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实开口请教",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实开口请教"
+      },
+      {
+        "reference": "v04-c0073:p0033",
+        "length": 26,
+        "sha256": "9145781cedffae7677f93844f5c553756456464300ca483cc375af1bf3e461ff",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0033:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "方内心一凛，实拱手回应",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方内心一凛，实拱手回应",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0033:u002",
+            "start": 17,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方内心一凛，实拱手回应",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "实际言语",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方内心一凛，实拱手回应",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方内心一凛，实拱手回应"
+      },
+      {
+        "reference": "v04-c0073:p0034",
+        "length": 43,
+        "sha256": "051dc0a516c571f7a02c0b2102861df5a057649e25d7cd88313142edb2a87a52",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0034:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "方看见面具联想三清像",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方看见面具联想三清像",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方看见面具联想三清像"
+      },
+      {
+        "reference": "v04-c0073:p0035",
+        "length": 26,
+        "sha256": "852f5a68163f18ec7527bad98d97bab0ff89163bb63d9d7d6e61262d3920077b",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0035:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实突问你们吃了什么",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实突问你们吃了什么",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0035:u002",
+            "start": 11,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以元始面具，出手时两丈法体",
+            "text_context": "孟实突问你们吃了什么",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "实际言语",
+            "embodiment": "坐定舒缓，末四字炸响，拳势转抓封体",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟实突问你们吃了什么",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实突问你们吃了什么"
+      },
+      {
+        "reference": "v04-c0073:p0036",
+        "length": 7,
+        "sha256": "1b2d65db349d7058bc399e31d28160db0e879d333dd21812d307e9da81d3bc61",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0036:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "重复末四字扩写声音效果，无独立第二问确证",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "上句末四字被突出，未另记一次问话",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "重复末四字扩写声音效果，无独立第二问确证",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "重复末四字扩写声音效果，无独立第二问确证"
+      },
+      {
+        "reference": "v04-c0073:p0037",
+        "length": 50,
+        "sha256": "d64180ee9f1d66021dca9df230bbc16b0624bbfd3658b885c3fadb2eb5aee532",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0037:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "四字由舒缓突变惊雷，震住二人",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "四字由舒缓突变惊雷，震住二人",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "四字由舒缓突变惊雷，震住二人"
+      },
+      {
+        "reference": "v04-c0073:p0038",
+        "length": 5,
+        "sha256": "ecccf47c81e4c38e10e8f994f63df2fb2442e9439e9c775dbe6d1aa0abc52d1c",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0038:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方内回荡所问",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "内心",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方内回荡所问",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方内回荡所问"
+      },
+      {
+        "reference": "v04-c0073:p0039",
+        "length": 5,
+        "sha256": "a3a962fca931916db95ac9ee2904d194edad9fe1d08cb3741089c32d3d84385d",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0039:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方内惊以为孟已知道",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "内心",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方内惊以为孟已知道",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方内惊以为孟已知道"
+      },
+      {
+        "reference": "v04-c0073:p0040",
+        "length": 105,
+        "sha256": "a2751495d78d4d7287ade637dbee7dbd2395fe3e129f4e887d8b4504d414634c",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0040:u001",
+            "start": 0,
+            "end": 105,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "方见孟起成两丈，占满视野",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方见孟起成两丈，占满视野",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方见孟起成两丈，占满视野"
+      },
+      {
+        "reference": "v04-c0073:p0041",
+        "length": 52,
+        "sha256": "2c97dcc7e17b0be850a8a01d9d2e1d9188268fb13ddddac3318c73ca2f4b5c10",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0041:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟法体纹理显，右拳砸下",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟法体纹理显，右拳砸下",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟法体纹理显，右拳砸下"
+      },
+      {
+        "reference": "v04-c0073:p0042",
+        "length": 57,
+        "sha256": "9a09b8fbf697c94f31141b360b93b1f1b3046ff9b81a29f0dd3fd89ffca7296f",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0042:u001",
+            "start": 0,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "方回神见拳若如意、空间旋收难逃",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方回神见拳若如意、空间旋收难逃",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方回神见拳若如意、空间旋收难逃"
+      },
+      {
+        "reference": "v04-c0073:p0043",
+        "length": 69,
+        "sha256": "5db77fa3220f54fd01397617fcc38ab7a7debdd73ddf6bd080fe98dcd7120c1c",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0043:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方明确心骂，略虚古树法相将近首天梯",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "内心",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方明确心骂，略虚古树法相将近首天梯",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0043:u002",
+            "start": 3,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "方明确心骂，略虚古树法相将近首天梯",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方明确心骂，略虚古树法相将近首天梯",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方明确心骂，略虚古树法相将近首天梯"
+      },
+      {
+        "reference": "v04-c0073:p0044",
+        "length": 61,
+        "sha256": "9039b2f9dd47771276efe89f0b9e4d5cb642d9e349476cec9055f30f591a13b0",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0044:u001",
+            "start": 0,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "方推双手，法相似见可怕事物而回体",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方推双手，法相似见可怕事物而回体",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方推双手，法相似见可怕事物而回体"
+      },
+      {
+        "reference": "v04-c0073:p0045",
+        "length": 5,
+        "sha256": "95494e3d60a052ba69f565f64dee989006ac47278204619273f8c6f04d5bc61c",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0045:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方心惊法相何故退",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "内心",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方心惊法相何故退",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方心惊法相何故退"
+      },
+      {
+        "reference": "v04-c0073:p0046",
+        "length": 63,
+        "sha256": "85f98494c8d5d042d4d6fb641e3171e9b3fed3fa6d729188a91ca7d8c9094714",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0046:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "无法相后方仅以木气招式防，想消弭拳",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "无法相后方仅以木气招式防，想消弭拳",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "无法相后方仅以木气招式防，想消弭拳"
+      },
+      {
+        "reference": "v04-c0073:p0047",
+        "length": 2,
+        "sha256": "c5dfb4d68c1cbb42bc6ed6b0b47ea533df63f4bf75067403594a233b13cc1c34",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0047:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "拟声，非逐词言语",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "拟声，非逐词言语",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "拟声，非逐词言语"
+      },
+      {
+        "reference": "v04-c0073:p0048",
+        "length": 46,
+        "sha256": "4382f5bf33841b740659b347b35d0c5f905ac1c0cd2b326be4a9af56bed1a551",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0048:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "拳势穿青木抵额，下一段交代临中变招",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "拳势穿青木抵额，下一段交代临中变招",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "拳势穿青木抵额，下一段交代临中变招"
+      },
+      {
+        "reference": "v04-c0073:p0049",
+        "length": 40,
+        "sha256": "8b396ad9bd297bf8fc94d855985335a3eaf0e1ab5cbd10f9aa29c1f2a5412811",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0049:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟临中变拳爪，吐劲封全身",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "孟临中变拳爪，吐劲封全身",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟临中变拳爪，吐劲封全身"
+      },
+      {
+        "reference": "v04-c0073:p0050",
+        "length": 6,
+        "sha256": "6b8c7bbebd13876d8784a2c8dba024b8f7046c70b757929c59f320920a97714c",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0050:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "困神锁体手是技名识别，未喝出",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "孟突问并制方",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "困神锁体手是技名识别，未喝出",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "困神锁体手是技名识别，未喝出"
+      },
+      {
+        "reference": "v04-c0073:p0051",
+        "length": 2,
+        "sha256": "f20bb67b0ed524103cea170f1554099e3d318a79e60fc55e09d14fa398c361c3",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0051:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "撞击拟声",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "撞击拟声",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "撞击拟声"
+      },
+      {
+        "reference": "v04-c0073:p0052",
+        "length": 73,
+        "sha256": "27794843bb4f91836581eb52a82f250c8d0fb50589d3382d7b9499615739367d",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0052:u001",
+            "start": 0,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张拦陈而被打飞破墙，伤和火均已发生，另招后果未然",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张拦陈而被打飞破墙，伤和火均已发生，另招后果未然",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张拦陈而被打飞破墙，伤和火均已发生，另招后果未然"
+      },
+      {
+        "reference": "v04-c0073:p0053",
+        "length": 74,
+        "sha256": "d55179724e87733056c8a358f846e1a2f5c49ef141d28825a5ff2d29f155d01c",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0053:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈形貌与血色大日法相并显",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "陈形貌与血色大日法相并显",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈形貌与血色大日法相并显"
+      },
+      {
+        "reference": "v04-c0073:p0054",
+        "length": 45,
+        "sha256": "42fd84b1b7584389351f7c9c6e46aeeab0fa849e2d6904af2cdf1955561da9da",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0054:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "茶具桌椅实际自燃，地软似融",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "茶具桌椅实际自燃，地软似融",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "茶具桌椅实际自燃，地软似融"
+      },
+      {
+        "reference": "v04-c0073:p0055",
+        "length": 51,
+        "sha256": "bb99735b5753e25bb16880fde2567a342df4958e709b06590204553976b5fdc1",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0055:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "祈祷膜拜未给词或身份，血祭气息汇日",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "祈祷膜拜未给词或身份，血祭气息汇日",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "祈祷膜拜未给词或身份，血祭气息汇日"
+      },
+      {
+        "reference": "v04-c0073:p0056",
+        "length": 9,
+        "sha256": "e31fe45be894b93a6a84bf2e6a7fc16dcd0b58c57f61e9da0d6da67c796d3bda",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0056:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张心冒出大日神巫的名号",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "张玉泉心内连续识别",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张心冒出大日神巫的名号",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张心冒出大日神巫的名号"
+      },
+      {
+        "reference": "v04-c0073:p0057",
+        "length": 19,
+        "sha256": "4c6728ac6712e4f9cb3def237d958a8febbab11bd029ff3f788526b3fd1cea84",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0057:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张心辨陈是祭日神巫首",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "张玉泉心内连续识别",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张心辨陈是祭日神巫首",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张心辨陈是祭日神巫首"
+      },
+      {
+        "reference": "v04-c0073:p0058",
+        "length": 16,
+        "sha256": "63f5122974576b4a3076da09bd43c9ebed41cf360014bdd7672295c3c134ddcf",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0058:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "zhang_yuquan",
+            "surface_identity": "zhang_yuquan",
+            "text_context": "张心判断方与安东勾结",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "张玉泉心内连续识别",
+            "embodiment": "慎重犹豫到主动邀方，后被震飞",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "张心判断方与安东勾结",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张心判断方与安东勾结"
+      },
+      {
+        "reference": "v04-c0073:p0059",
+        "length": 31,
+        "sha256": "36bf475981622887f3a55231bc90e621ae92990dac94c52208d878f77b890257",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0059:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "以上三句明确在张心内，孟实挡在身前",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "以上三句明确在张心内，孟实挡在身前",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "以上三句明确在张心内，孟实挡在身前"
+      },
+      {
+        "reference": "v04-c0073:p0060",
+        "length": 94,
+        "sha256": "fb75058f5ee5098b386a91fcd456eb1b5467fb6b1e0b7ff2be319ebbe25ec4d6",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0060:u001",
+            "start": 0,
+            "end": 94,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈私估孟未过首天梯，准备好便可能胜，非经过试胜",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "陈私估孟未过首天梯，准备好便可能胜，非经过试胜",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈私估孟未过首天梯，准备好便可能胜，非经过试胜"
+      },
+      {
+        "reference": "v04-c0073:p0061",
+        "length": 106,
+        "sha256": "ce7476eb587e302b0a86b1fb67ee2714df236480e106a3f5ed916aa83d6f8544",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0061:u001",
+            "start": 0,
+            "end": 106,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "血日绕孟、烧顶，室内地化黏液，明示控火范围",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "血日绕孟、烧顶，室内地化黏液，明示控火范围",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "血日绕孟、烧顶，室内地化黏液，明示控火范围"
+      },
+      {
+        "reference": "v04-c0073:p0062",
+        "length": 37,
+        "sha256": "834d9cc25aa1419a8a05f5a44ac6d51be91b36927cf2534d9ff636b4fde27f2d",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0062:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈见玄袍未燃，孟仍立",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "陈见玄袍未燃，孟仍立",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈见玄袍未燃，孟仍立"
+      },
+      {
+        "reference": "v04-c0073:p0063",
+        "length": 85,
+        "sha256": "6fc4afd3acc06f89587873ab779a34e95a76338935081ce4d1f25b416c16d80a",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0063:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "chen_wendeng",
+            "surface_identity": "随方来、扮护卫，张认作安东祭日神巫首",
+            "text_context": "陈实赞好袍并打众小日拳印",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "实际言语",
+            "embodiment": "秃顶目灼，后展血色大日并连拳",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "陈实赞好袍并打众小日拳印",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0063:u002",
+            "start": 6,
+            "end": 85,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈实赞好袍并打众小日拳印",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "陈实赞好袍并打众小日拳印",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈实赞好袍并打众小日拳印"
+      },
+      {
+        "reference": "v04-c0073:p0064",
+        "length": 6,
+        "sha256": "0f7ddb10d1587e12011438b3f8fe2f5ecb547c67df9e5b818409b44d508cb1dd",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0064:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百阳融金拳是技名，未入台词",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "百阳融金拳是技名，未入台词",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百阳融金拳是技名，未入台词"
+      },
+      {
+        "reference": "v04-c0073:p0065",
+        "length": 11,
+        "sha256": "440f37a115306dbabb5136d626b3cb19418b21768dca75350553816be04c971f",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0065:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "大地实际融开裂，未判拳斗胜负",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "张被击、陈显大日、孟拦挡",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "大地实际融开裂，未判拳斗胜负",
+            "focalizer": "chen_wendeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "大地实际融开裂，未判拳斗胜负"
+      },
+      {
+        "reference": "v04-c0073:p0066",
+        "length": 23,
+        "sha256": "2e3079925b5322731b42c7e5f88f36b501fc5ac55c78399216c93259b748e1d7",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0066:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "另一侧被制的方不同肉身喃喃，语源待辨",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "方口自称昆仑之灵",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "另一侧被制的方不同肉身喃喃，语源待辨",
+            "focalizer": "fang_butong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "另一侧被制的方不同肉身喃喃，语源待辨"
+      },
+      {
+        "reference": "v04-c0073:p0067",
+        "length": 14,
+        "sha256": "441075761a5dcdedffbb20e56e6f244b00efd7c6f4dc9bded4377b7c8b10ba7e",
+        "units": [
+          {
+            "unit_id": "v04-c0073:p0067:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方不同口实自称昆仑之灵且求饶，未认证本体",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "方口自称昆仑之灵",
+            "channel": "方不同口中实喃喃，内在来源未核实",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方不同口实自称昆仑之灵且求饶，未认证本体",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0073:p0067:u002",
+            "start": 6,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "fang_butong",
+            "surface_identity": "侨夏州旧巡抚方不同，第67段口中自称昆仑之灵尚未验",
+            "text_context": "方不同口实自称昆仑之灵且求饶，未认证本体",
+            "world_context": "第四卷：新海城钦差设请、方不同封禁、陈文登血日显现",
+            "stage_context": "方口自称昆仑之灵",
+            "channel": "方不同口中实喃喃，内在来源未核实",
+            "embodiment": "恭顺拱手转惊惧，法相回身后被制",
+            "vow_friendship_and_loot_boundary": "方不同实际遭封，张玉泉实受伤。陈文登未见胜败。方口自报昆仑之灵只是自称；孟问吃何物未给答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "方的安东旧事由他口述；陈的大日巫首身份与勾结判断先由张内心见法相识别，没有对外喊出。",
+            "knowledge_boundary": "方不同口实自称昆仑之灵且求饶，未认证本体",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "方不同口实自称昆仑之灵且求饶，未认证本体"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0073",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S10",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 18,
+        "label": "张玉泉权衡航道时限后邀人",
+        "direction": "张起风雷隔听，先问是否会促成联合，再算断航九个月的孤立风险。孟平淡指出拖下去更不利，直到答清若方无辜如何收场，张才走动、开门、命小厮相请。 证据 v04-c0073:p0001–p0018。"
+      },
+      {
+        "paragraph_start": 20,
+        "paragraph_end": 31,
+        "label": "夜访带来陈文登",
+        "direction": "冷月下见方不同带护卫装束的老人。主客和茶水做出私谈，方自然回顾安东旧事、荐陈留任；张看出陈非凡，先望孟求取态度，见他仍稳后继续谈民生。 证据 v04-c0073:p0020–p0031。"
+      },
+      {
+        "paragraph_start": 32,
+        "paragraph_end": 50,
+        "label": "突问之后，孟奇封住方不同",
+        "direction": "孟先舒缓请教，问句末四字骤响，复写作回荡，方内惊而非承认。由他视角见两丈身和如意拳逼近，树法相先退，青木再被穿。在击中的临界点切成拳转爪、劲入封体。 证据 v04-c0073:p0032–p0050。"
+      },
+      {
+        "paragraph_start": 51,
+        "paragraph_end": 65,
+        "label": "张玉泉受创，陈文登显血色大日",
+        "direction": "先听破墙、见张被击飞，随即见血色日相、器具自燃和远近未辨的祈祷。大日神巫与勾结连用张的内心反应。孟先挡住他，再让玄袍在焰中未燃，陈赞道袍后连拳。 证据 v04-c0073:p0051–p0065。"
+      },
+      {
+        "paragraph_start": 66,
+        "paragraph_end": 67,
+        "label": "方不同口中求饶",
+        "direction": "转回被封住的方不同，只从他口中听到求饶与昆仑之灵的自称，留身份悬念。 证据 v04-c0073:p0066–p0067。"
+      }
+    ],
+    "knowledge_rule": "张对巫首和勾结的识别是内心，技名不喊出。方被制后所言有明确出声处，内在身份仅自称。"
+  }
 }
