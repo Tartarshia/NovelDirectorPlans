@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟奇催符，六道临时停用](early-v04-Reincarnation-talisman-suspended-at-Lanke.md) | 第四卷第67章历史归属回补 |
+| [琉璃界显兰柯寺，古刹传菩萨声音](early-v04-Lanke-manifests-and-Bodhisattva-speaks.md) | 第四卷第67章历史归属回补 |
+| [寺议保管总纲，孟获优先感悟](early-v04-Lanke-offers-custody-and-shared-insight.md) | 第四卷第67章历史归属回补 |
 | [赵谦维持阵心，孟奇感到异来力量](early-v04-Zhao-Qian-ritual-and-descending-force.md) | 第四卷第66章历史归属回补 |
 | [孟奇化鹰叼菩提，云鹤接应飞离](early-v04-Meng-intercepts-Bodhi-and-Yunhe-covers-the-flight.md) | 第四卷第66章历史归属回补 |
 | [净土止虚渡，孟奇持树落到真慧眼前](early-v04-Buddhaland-blocks-flight-Meng-lands-before-Zhen-Hui.md) | 第四卷第66章历史归属回补 |
