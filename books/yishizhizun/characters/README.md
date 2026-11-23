@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟以元始天尊面具降临皇宫法坛](early-v04-Yuanshi-arrival-at-the-imperial-altar.md) | 第四卷第71章历史归属回补 |
+| [密室听闻仙人护送，拟比照前两次](early-v04-Candlelit-conspirators-plan-Xianjianchou-interception.md) | 第四卷第71章历史归属回补 |
+| [张玉泉遇阴风与白衣剑舟](early-v04-Zhang-Yuquan-first-voyage-and-white-robed-swordsman.md) | 第四卷第71章历史归属回补 |
 | [孟选血肉有灵并完成玉简参悟](early-v04-Meng-selects-flesh-spirit-from-the-jade-slip.md) | 第四卷第70章历史归属回补 |
 | [五侨州形势与护送第三位钦差](early-v04-Fifth-expatriate-provinces-and-third-envoy-mission.md) | 第四卷第70章历史归属回补 |
 | [十一滴夔牛血升刀，五色羽升袍](early-v04-Heavens-Wound-and-Qingyuan-robe-equipment-upgrades.md) | 第四卷第70章历史归属回补 |
