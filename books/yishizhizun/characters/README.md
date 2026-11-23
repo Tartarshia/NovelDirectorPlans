@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [玉虚腰牌为信，孟亲自答应](early-v04-Yuxu-token-and-Mengs-own-assent.md) | 第四卷第103章历史归属回补 |
+| [江阮辨救墨者，老道以袖携出](early-v04-Jiang-and-Ruan-free-Mohists-and-sleeve-carries-them.md) | 第四卷第103章历史归属回补 |
+| [老道自报吕小白，孟想到齐桓公](early-v04-Jailed-daoist-names-himself-Lu-Xiaobai.md) | 第四卷第103章历史归属回补 |
 | [西山抖图后公羊增被锁，孟杀之并遥祭](early-v04-Gongyang-Zeng-dies-at-West-Hill.md) | 第四卷第102章历史归属回补 |
 | [魂灯熄消息令赤霞变更封城安排](early-v04-Chixia-revises-orders-after-soul-lamp-report.md) | 第四卷第102章历史归属回补 |
 | [对面狱中老道愿帮救人但需苏施主允诺](early-v04-Jailed-daoist-offers-help-with-a-condition.md) | 第四卷第102章历史归属回补 |
