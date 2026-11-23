@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [元央与翁灵玉广陵相见](early-v04-Yuan-Yang-and-Weng-Lingyu-reunite-in-Guangling.md) | 第四卷第77章历史归属回补 |
+| [孟匿名说鱼海，众人初疑后认](early-v04-Qing-robed-storyteller-and-Fish-Sea-retelling.md) | 第四卷第77章历史归属回补 |
+| [王思远隔绝外界与孟私谈](early-v04-Wang-Siyuan-private-chess-courtyard.md) | 第四卷第77章历史归属回补 |
 | [孟收玉虚腰牌，二人触感九碑](early-v04-Yuxu-badge-recovered-and-nine-steles-felt.md) | 第四卷第76章历史归属回补 |
 | [大青根畏惧玉柱，声称识其气息](early-v04-Daqinggen-fears-the-central-pillar.md) | 第四卷第76章历史归属回补 |
 | [灵宝接手药精，孟兑剑冠扇](early-v04-Lingbao-takes-Daqinggen-and-Meng-redeems-three-items.md) | 第四卷第76章历史归属回补 |

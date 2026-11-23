@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第四卷归属回补：第77章](books/yishizhizun/reviews/review-backfill-v04-0077.md)：新全文复读97段145单元；归属已1367章、待43，可用复读回执待0。
 - [第四卷归属回补：第76章](books/yishizhizun/reviews/review-backfill-v04-0076.md)：新全文复读66段114单元；归属已1366章、待44，可用复读回执待0。
 - [第四卷归属回补：第75章](books/yishizhizun/reviews/review-backfill-v04-0075.md)：新全文复读77段115单元；归属已1365章、待45，可用复读回执待0。
 - [第四卷归属回补：第74章](books/yishizhizun/reviews/review-backfill-v04-0074.md)：新全文复读71段93单元；归属已1364章、待46，可用复读回执待0。
