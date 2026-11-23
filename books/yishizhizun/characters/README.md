@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [强本、非攻、交相利三策](early-v04-Chen-court-three-policies-and-market-taxes.md) | 第四卷第93章历史归属回补 |
+| [陈王亲扶请任大司徒，孟拱手应下](early-v04-Chen-king-offers-Meng-the-grand-situ-post.md) | 第四卷第93章历史归属回补 |
+| [田广忧变革失封地，借苏墨之言明志](early-v04-Tian-Guang-reacts-to-the-reform.md) | 第四卷第93章历史归属回补 |
 | [田简奉命探讲学，闻兼爱而怒、听非命又喜](early-v04-Tian-Jian-sent-to-the-bamboo-lecture.md) | 第四卷第92章历史归属回补 |
 | [田横守周礼，田括挨打后以尚贤抗辩](early-v04-Tian-Heng-and-Tian-Kuo-debate-merit.md) | 第四卷第92章历史归属回补 |
 | [陈王先召竹林五人，自称陈国安乐](early-v04-Chen-king-summons-the-bamboo-teachers.md) | 第四卷第92章历史归属回补 |
