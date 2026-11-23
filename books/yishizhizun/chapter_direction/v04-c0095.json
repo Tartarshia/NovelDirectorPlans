@@ -61,7 +61,3691 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0263"
+  "reading_batch": "batch-0263",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0095",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0095.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0095:p0001",
+        "length": 101,
+        "sha256": "5e6e88470d078459f2bb6f1f2d0232dde3d275c153436c450dc0fba99af3215c",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0001:u001",
+            "start": 0,
+            "end": 101,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "贵族明示反对任命，陈王坚持通过，反对无逐字",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "贵族明示反对任命，陈王坚持通过，反对无逐字",
+            "focalizer": "chen_king",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "贵族明示反对任命，陈王坚持通过，反对无逐字"
+      },
+      {
+        "reference": "v04-c0095:p0002",
+        "length": 25,
+        "sha256": "f7157ed6343687f4923e25272684f1dfb71ba4e5d0c7b4531d28c58993d53251",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0002:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "王令孟出列宣新策",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "王令孟出列宣新策",
+            "focalizer": "chen_king",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "王令孟出列宣新策"
+      },
+      {
+        "reference": "v04-c0095:p0003",
+        "length": 43,
+        "sha256": "13495830ff20f7d190822e45c3ffcd5160c97ec02448583228cded0fee76d218",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0003:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟出列站阶下",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟出列站阶下",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟出列站阶下"
+      },
+      {
+        "reference": "v04-c0095:p0004",
+        "length": 23,
+        "sha256": "1b042f8f6262913c01c37029ccca3794c29a9b6456b454563f3c5d037906a65a",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0004:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广赶在孟开口前出列",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广赶在孟开口前出列",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广赶在孟开口前出列"
+      },
+      {
+        "reference": "v04-c0095:p0005",
+        "length": 29,
+        "sha256": "dd0afbd568aaacacb51c5d0728676a3fd716b725c2d1f9b4f6a495bc80ea2f61",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0005:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广先礼陈王再向孟开口",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广先礼陈王再向孟开口",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0005:u002",
+            "start": 17,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_guang",
+            "surface_identity": "田横长子、上大夫、朝堂动手",
+            "text_context": "田广先礼陈王再向孟开口",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "实际言语",
+            "embodiment": "先淡然再急切，失手后重伤，父杀而亡",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广先礼陈王再向孟开口",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广先礼陈王再向孟开口"
+      },
+      {
+        "reference": "v04-c0095:p0006",
+        "length": 19,
+        "sha256": "336b528f6bf44d1ad7b35c7aaf5e091628a509292b1e8f1906f88c2152a3df88",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0006:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白说话不恭敬",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "旁白说话不恭敬",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白说话不恭敬"
+      },
+      {
+        "reference": "v04-c0095:p0007",
+        "length": 69,
+        "sha256": "d1e337287d46c88f9b62c666c3b25ec59bbd65f80ba2a3a53257d2373a115273",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0007:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈王颔首示意孟应对，孟实际准其问",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "陈王颔首示意孟应对，孟实际准其问",
+            "focalizer": "chen_king",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0007:u002",
+            "start": 60,
+            "end": 69,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "陈王颔首示意孟应对，孟实际准其问",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "实际言语",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "陈王颔首示意孟应对，孟实际准其问",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈王颔首示意孟应对，孟实际准其问"
+      },
+      {
+        "reference": "v04-c0095:p0008",
+        "length": 22,
+        "sha256": "b23ac220630cd72a93e9305fb03072a75ed36fbfb822f283a5fb0da848f9c69d",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0008:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两人相距不足五步、气机纠缠",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "两人相距不足五步、气机纠缠",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两人相距不足五步、气机纠缠"
+      },
+      {
+        "reference": "v04-c0095:p0009",
+        "length": 29,
+        "sha256": "5eeea8fcda257ac7282811a9f197e2ec1b6f07f511c9d0e1fc885f3932208ba3",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0009:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广问是否听闻吴国消息",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广问是否听闻吴国消息",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0009:u002",
+            "start": 12,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_guang",
+            "surface_identity": "田横长子、上大夫、朝堂动手",
+            "text_context": "田广问是否听闻吴国消息",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "实际言语",
+            "embodiment": "先淡然再急切，失手后重伤，父杀而亡",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广问是否听闻吴国消息",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广问是否听闻吴国消息"
+      },
+      {
+        "reference": "v04-c0095:p0010",
+        "length": 13,
+        "sha256": "e3def354679b49678548350813100ab297fdb9b51e21630c371d512adbd9f874",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0010:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟说愿闻其详",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟说愿闻其详",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0010:u002",
+            "start": 6,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟说愿闻其详",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "实际言语",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟说愿闻其详",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟说愿闻其详"
+      },
+      {
+        "reference": "v04-c0095:p0011",
+        "length": 37,
+        "sha256": "1114cbe2bebec7ff9d0be9a2253b2c7c03207a5a420f78003e5782bfff21176b",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0011:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟感王也疑惑，推想是田家独家情报",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟感王也疑惑，推想是田家独家情报",
+            "focalizer": "chen_king",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟感王也疑惑，推想是田家独家情报"
+      },
+      {
+        "reference": "v04-c0095:p0012",
+        "length": 98,
+        "sha256": "483d7f8fb899a357719eefdf42e8b3a48df7e3bcad636352f272d79a5176ab79",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0012:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广称吴变法遭内战外侵，并预告十来日后广传",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广称吴变法遭内战外侵，并预告十来日后广传",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0012:u002",
+            "start": 7,
+            "end": 98,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_guang",
+            "surface_identity": "田横长子、上大夫、朝堂动手",
+            "text_context": "田广称吴变法遭内战外侵，并预告十来日后广传",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "实际言语",
+            "embodiment": "先淡然再急切，失手后重伤，父杀而亡",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广称吴变法遭内战外侵，并预告十来日后广传",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广称吴变法遭内战外侵，并预告十来日后广传"
+      },
+      {
+        "reference": "v04-c0095:p0013",
+        "length": 56,
+        "sha256": "adf55b126012beb84d6de66140040153efb7ae9fe0df10431657f936ae5ae38c",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0013:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟惊讶，法家圣人或轮回队都是猜测",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "内心",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟惊讶，法家圣人或轮回队都是猜测",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0013:u002",
+            "start": 7,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟惊讶，法家圣人或轮回队都是猜测",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟惊讶，法家圣人或轮回队都是猜测",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0013:u003",
+            "start": 36,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟惊讶，法家圣人或轮回队都是猜测",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟惊讶，法家圣人或轮回队都是猜测",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟惊讶，法家圣人或轮回队都是猜测"
+      },
+      {
+        "reference": "v04-c0095:p0014",
+        "length": 30,
+        "sha256": "95e631e98c9d9383b662081a68b5912a0cc3037ba30a380af89381ae3e8a9f99",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0014:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟判断骤改易反扑",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟判断骤改易反扑",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟判断骤改易反扑"
+      },
+      {
+        "reference": "v04-c0095:p0015",
+        "length": 41,
+        "sha256": "8a91773e5f42ce8b7ba3510b83621c718d668493056d586e48a539cb98331f2d",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0015:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "五人以眼神沟通，猜伍浩有轮回小队",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "五人以眼神沟通，猜伍浩有轮回小队",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "五人以眼神沟通，猜伍浩有轮回小队"
+      },
+      {
+        "reference": "v04-c0095:p0016",
+        "length": 69,
+        "sha256": "6d1a429faf62a1f622b2bcc5a379a1deeb8df06ac2f72838ec02915459c17639",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0016:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟忆六道此前说能在非阵营任务遇到别队",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟忆六道此前说能在非阵营任务遇到别队",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟忆六道此前说能在非阵营任务遇到别队"
+      },
+      {
+        "reference": "v04-c0095:p0017",
+        "length": 45,
+        "sha256": "641f10ec8a58061b33872c4a5289ec02b92bb84b3beb57ab29acccdf0c62e5ce",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0017:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟不拟招惹中间隔数国的伍浩，也推其无意惹己",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟不拟招惹中间隔数国的伍浩，也推其无意惹己",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟不拟招惹中间隔数国的伍浩，也推其无意惹己"
+      },
+      {
+        "reference": "v04-c0095:p0018",
+        "length": 110,
+        "sha256": "7a7d14ce0e0c99669ac4648c17965b8511c05d894b990c1da7a9b85ff70db223",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0018:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟内评其变法，吴王实力与神兵解释为何能撑属当前分析",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "内心",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟内评其变法，吴王实力与神兵解释为何能撑属当前分析",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0018:u002",
+            "start": 26,
+            "end": 110,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内评其变法，吴王实力与神兵解释为何能撑属当前分析",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟内评其变法，吴王实力与神兵解释为何能撑属当前分析",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内评其变法，吴王实力与神兵解释为何能撑属当前分析"
+      },
+      {
+        "reference": "v04-c0095:p0019",
+        "length": 19,
+        "sha256": "81a3243ce8346ec6fff9d51d95954f333fac3b082da3efe7e62ecd31bfb79e0f",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0019:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟猜对方择吴王为后盾",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "内心",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟猜对方择吴王为后盾",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟猜对方择吴王为后盾"
+      },
+      {
+        "reference": "v04-c0095:p0020",
+        "length": 25,
+        "sha256": "988f668d6bbadb54246dc087ed9e0276ae255774297159fe79d9bcd634349a5f",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0020:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟猜吴王寻法身之路，尚无当事人证言",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "内心",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟猜吴王寻法身之路，尚无当事人证言",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟猜吴王寻法身之路，尚无当事人证言"
+      },
+      {
+        "reference": "v04-c0095:p0021",
+        "length": 34,
+        "sha256": "04c9955f78afdf20e7b07151664d6b0a1f6d7b950d8157d36c607fbbab2e36e4",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0021:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈王微变色，疑田广借吴国来警告",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "陈王微变色，疑田广借吴国来警告",
+            "focalizer": "chen_king",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0021:u002",
+            "start": 18,
+            "end": 34,
+            "kind": "inner_speech",
+            "speaker": "chen_king",
+            "surface_identity": "chen_king",
+            "text_context": "陈王微变色，疑田广借吴国来警告",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "陈王微变色，疑田广借吴国来警告",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈王微变色，疑田广借吴国来警告"
+      },
+      {
+        "reference": "v04-c0095:p0022",
+        "length": 26,
+        "sha256": "f4df99e36d13be584ca4a0d0422d2c859e37f70dfea93d6a8dc9e8d36533f82b",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0022:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广向前一步，沉声开口",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广向前一步，沉声开口",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广向前一步，沉声开口"
+      },
+      {
+        "reference": "v04-c0095:p0023",
+        "length": 12,
+        "sha256": "bcbb04cf50bc15cb8ff452142b34152999c7d098bcc80f5cabba2118d226a888",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0023:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_guang",
+            "surface_identity": "田横长子、上大夫、朝堂动手",
+            "text_context": "田广重新追问",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "实际言语",
+            "embodiment": "先淡然再急切，失手后重伤，父杀而亡",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广重新追问",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广重新追问"
+      },
+      {
+        "reference": "v04-c0095:p0024",
+        "length": 20,
+        "sha256": "5c616501a7d08281fd659022a25a3c41866c3d4624cd1bd3982030d1d34f7564",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0024:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "姿态由淡然变咄咄逼人",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "田广出列借吴国诘问",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "姿态由淡然变咄咄逼人",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "姿态由淡然变咄咄逼人"
+      },
+      {
+        "reference": "v04-c0095:p0025",
+        "length": 41,
+        "sha256": "353a361b86099a34700d02fd19f85508df12f8c6ad61e6723e32a9c1f533038e",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0025:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟刚拟答，看见田广血光而警觉",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟刚拟答，看见田广血光而警觉",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟刚拟答，看见田广血光而警觉"
+      },
+      {
+        "reference": "v04-c0095:p0026",
+        "length": 22,
+        "sha256": "a37c0146b4919d3c0654d1f2ccc58579771618a8f57d05d7a6d6d74588ec69e0",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0026:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广实出血光掌刀攻孟",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广实出血光掌刀攻孟",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广实出血光掌刀攻孟"
+      },
+      {
+        "reference": "v04-c0095:p0027",
+        "length": 51,
+        "sha256": "5c1225d576328d29c470ed8d45e5eccac275948c0dee300793fcba8bc188b8b9",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0027:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "变化骤起，陈王在内皆未及应对",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "变化骤起，陈王在内皆未及应对",
+            "focalizer": "v04c095_court_officials",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "变化骤起，陈王在内皆未及应对"
+      },
+      {
+        "reference": "v04-c0095:p0028",
+        "length": 12,
+        "sha256": "99b08bfd43dd20108d22f07a87efb1c60ebe0e49bf7a36ab22a8e9ef17bd53ef",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0028:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "v04c095_court_officials",
+            "surface_identity": "v04c095_court_officials",
+            "text_context": "朝臣侧骤惊，具体内心者未单列",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "朝臣侧骤惊，具体内心者未单列",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朝臣侧骤惊，具体内心者未单列"
+      },
+      {
+        "reference": "v04-c0095:p0029",
+        "length": 20,
+        "sha256": "68075f1d3002d2da78d03a5de583eee7ceb3043b2e6728ecb59496f881ced4a3",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0029:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "inner_speech",
+            "speaker": "v04c095_court_officials",
+            "surface_identity": "v04c095_court_officials",
+            "text_context": "旁观所见指田广即便成功亦难逃，尚不过判断",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "旁观所见指田广即便成功亦难逃，尚不过判断",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁观所见指田广即便成功亦难逃，尚不过判断"
+      },
+      {
+        "reference": "v04-c0095:p0030",
+        "length": 22,
+        "sha256": "76ea19d45f6fcfd17aa79bb86cac4b5533dd70e9dfcb56f678f022e364232c16",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0030:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "inner_speech",
+            "speaker": "v04c095_court_officials",
+            "surface_identity": "v04c095_court_officials",
+            "text_context": "惊于田广不计性命的决绝",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "惊于田广不计性命的决绝",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "惊于田广不计性命的决绝"
+      },
+      {
+        "reference": "v04-c0095:p0031",
+        "length": 47,
+        "sha256": "8d421513a516737b7faf0f6bda735d7ccfcadbef1c145a2af501dc0c03775bd9",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0031:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "掌刀实际斩中孟奇左胸，田广身似萎缩",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "掌刀实际斩中孟奇左胸，田广身似萎缩",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "掌刀实际斩中孟奇左胸，田广身似萎缩"
+      },
+      {
+        "reference": "v04-c0095:p0032",
+        "length": 2,
+        "sha256": "89cda4baec273fb34f5d00e383556a84b1f88d596f59c6b84b100f8a9346381e",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0032:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "单字拟音为撞击结果，不作人声",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "单字拟音为撞击结果，不作人声",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "单字拟音为撞击结果，不作人声"
+      },
+      {
+        "reference": "v04-c0095:p0033",
+        "length": 42,
+        "sha256": "cb3f2f31384453a5967c489dfe6df4f6c5527b9f4c818dd30602d469b45635b7",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0033:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "中处淡金，孟实无伤",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "中处淡金，孟实无伤",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "中处淡金，孟实无伤"
+      },
+      {
+        "reference": "v04-c0095:p0034",
+        "length": 17,
+        "sha256": "357cc59eaf92c1490846faa2a3ae219c36343dc7d2ef356cda3a790cbb396576",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0034:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "tian_guang",
+            "surface_identity": "田横长子、上大夫、朝堂动手",
+            "text_context": "田广震骇孟无损",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "内心",
+            "embodiment": "先淡然再急切，失手后重伤，父杀而亡",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广震骇孟无损",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0034:u002",
+            "start": 5,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广震骇孟无损",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广震骇孟无损",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广震骇孟无损"
+      },
+      {
+        "reference": "v04-c0095:p0035",
+        "length": 24,
+        "sha256": "f20225538df295646015f11ef47458bd4a416d621bffd7d4a1c33f432781beb6",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0035:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "tian_guang",
+            "surface_identity": "田横长子、上大夫、朝堂动手",
+            "text_context": "田广内认异人所授秘传化血神刀无效，异人未名",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "内心",
+            "embodiment": "先淡然再急切，失手后重伤，父杀而亡",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广内认异人所授秘传化血神刀无效，异人未名",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广内认异人所授秘传化血神刀无效，异人未名"
+      },
+      {
+        "reference": "v04-c0095:p0036",
+        "length": 23,
+        "sha256": "df1ab26778a2a2c7c1674b08ad7fe666705ee2fb9c09dde1bccd0524ccfc72ae",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0036:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "tian_guang",
+            "surface_identity": "田横长子、上大夫、朝堂动手",
+            "text_context": "所谓中刀必化血是田广记忆的说法",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "内心",
+            "embodiment": "先淡然再急切，失手后重伤，父杀而亡",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "所谓中刀必化血是田广记忆的说法",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "所谓中刀必化血是田广记忆的说法"
+      },
+      {
+        "reference": "v04-c0095:p0037",
+        "length": 32,
+        "sha256": "2b95106e34a8469017b5164a360ca4e483d0d05c3b6c1f1640a422b148161b6d",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0037:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "tian_guang",
+            "surface_identity": "田横长子、上大夫、朝堂动手",
+            "text_context": "田广以彼此实力估算，未判出护身法",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "内心",
+            "embodiment": "先淡然再急切，失手后重伤，父杀而亡",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广以彼此实力估算，未判出护身法",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广以彼此实力估算，未判出护身法"
+      },
+      {
+        "reference": "v04-c0095:p0038",
+        "length": 47,
+        "sha256": "49b59c6abfa2bf22af5e162ee544107e54234a568a5c99381d4866d7a58ec6eb",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0038:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广拟自爆同归，尚未爆发",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广拟自爆同归，尚未爆发",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广拟自爆同归，尚未爆发"
+      },
+      {
+        "reference": "v04-c0095:p0039",
+        "length": 26,
+        "sha256": "68052fd4e86736b042bfbc87ea280e73ee44369109c21dd9979e9e900e063453",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0039:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟以身体反震使攻击打断",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟以身体反震使攻击打断",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟以身体反震使攻击打断"
+      },
+      {
+        "reference": "v04-c0095:p0040",
+        "length": 2,
+        "sha256": "f20bb67b0ed524103cea170f1554099e3d318a79e60fc55e09d14fa398c361c3",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0040:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "单字拟音非人声",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "单字拟音非人声",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "单字拟音非人声"
+      },
+      {
+        "reference": "v04-c0095:p0041",
+        "length": 69,
+        "sha256": "65fe397e0c9811b69b78c0be3c377d70e91d316abc08babe44bffc8010ebe5a8",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0041:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广飞撞断柱，实重伤",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广飞撞断柱，实重伤",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广飞撞断柱，实重伤"
+      },
+      {
+        "reference": "v04-c0095:p0042",
+        "length": 14,
+        "sha256": "835b12169a84e868504f69de85753ca092f198675434e5936b3e334bedd94855",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0042:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白点护身来自八九玄功",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "旁白点护身来自八九玄功",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白点护身来自八九玄功"
+      },
+      {
+        "reference": "v04-c0095:p0043",
+        "length": 71,
+        "sha256": "1f93a23551601651568a3cdf420882d8a177e85c18f5923a1f6b70d768d8f0d5",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0043:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白补此时三重天防护及剩余弱点",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "旁白补此时三重天防护及剩余弱点",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白补此时三重天防护及剩余弱点"
+      },
+      {
+        "reference": "v04-c0095:p0044",
+        "length": 29,
+        "sha256": "f8ffbc7468af16fd755f8323acca7433271051eb97bd98326c1d39f7c241b2ea",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0044:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未来证不灭元始法身是旁白展望，未证",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "未来证不灭元始法身是旁白展望，未证",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未来证不灭元始法身是旁白展望，未证"
+      },
+      {
+        "reference": "v04-c0095:p0045",
+        "length": 28,
+        "sha256": "cf2b68509fbee96965b9cad700155c152386062a8fe2e496411a26098e481477",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0045:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_heng",
+            "surface_identity": "田广之父，随后被罢大司寇",
+            "text_context": "田横惊愕斥子并先拍田广",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "实际言语",
+            "embodiment": "惊愕斥子后自请罪",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田横惊愕斥子并先拍田广",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0045:u002",
+            "start": 5,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田横惊愕斥子并先拍田广",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田横惊愕斥子并先拍田广",
+            "focalizer": "tian_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田横惊愕斥子并先拍田广"
+      },
+      {
+        "reference": "v04-c0095:p0046",
+        "length": 16,
+        "sha256": "7f99482809feed9b3e7525955e0c6436c245e6a592d15b05cc43cd9b67aef08e",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0046:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田广坦受、瞪孟",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广坦受、瞪孟",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广坦受、瞪孟"
+      },
+      {
+        "reference": "v04-c0095:p0047",
+        "length": 22,
+        "sha256": "5067efe20ec2b0308788f338994a68686b3b63a5546fee43fbb25b2ee5f3f83d",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0047:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "tian_guang",
+            "surface_identity": "田横长子、上大夫、朝堂动手",
+            "text_context": "田广临死实际发诅言，苗裔之称是他的立场",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "田广临终喊声",
+            "embodiment": "先淡然再急切，失手后重伤，父杀而亡",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田广临死实际发诅言，苗裔之称是他的立场",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田广临死实际发诅言，苗裔之称是他的立场"
+      },
+      {
+        "reference": "v04-c0095:p0048",
+        "length": 71,
+        "sha256": "7d611470e5bcd970cd6c4919976ae8b80893e90a3eb117b3758acedf4c5b6844",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0048:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "重复文字为死后余声回荡，田横已杀田广；孟不以其为正义",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "重复文字为死后余声回荡，田横已杀田广；孟不以其为正义",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0048:u002",
+            "start": 22,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "重复文字为死后余声回荡，田横已杀田广；孟不以其为正义",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "重复文字为死后余声回荡，田横已杀田广；孟不以其为正义",
+            "focalizer": "tian_guang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "重复文字为死后余声回荡，田横已杀田广；孟不以其为正义"
+      },
+      {
+        "reference": "v04-c0095:p0049",
+        "length": 26,
+        "sha256": "78de410f8601af564487495293ee127749fea274e39c0430fba615fdd01da13d",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0049:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟暗自斥守旧",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "内心",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟暗自斥守旧",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0049:u002",
+            "start": 19,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟暗自斥守旧",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "朝堂袭击失败，田横杀子",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟暗自斥守旧",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟暗自斥守旧"
+      },
+      {
+        "reference": "v04-c0095:p0050",
+        "length": 39,
+        "sha256": "33ceaa384cdd334e295658bd0a6e59ce485c88845bb7e16342599386329cf5f2",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0050:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "殿中静，众尚未理清",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "殿中静，众尚未理清",
+            "focalizer": "v04c095_court_officials",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "殿中静，众尚未理清"
+      },
+      {
+        "reference": "v04-c0095:p0051",
+        "length": 35,
+        "sha256": "b39195c0765d82c5305892febd8ff3a7983c5bea23bdc116422bf97d4d2572b2",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0051:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "贵族因临终喊声起同类自伤",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "贵族因临终喊声起同类自伤",
+            "focalizer": "v04c095_court_officials",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "贵族因临终喊声起同类自伤"
+      },
+      {
+        "reference": "v04-c0095:p0052",
+        "length": 20,
+        "sha256": "54e5e66d40899e7a2f42755bfe9b0ae7b52989fe6c06809aa4cd17406a32e69c",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0052:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "田横实上前告罪，旁叙无逐字",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "田横实上前告罪，旁叙无逐字",
+            "focalizer": "tian_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "田横实上前告罪，旁叙无逐字"
+      },
+      {
+        "reference": "v04-c0095:p0053",
+        "length": 35,
+        "sha256": "71de3c529db1d53e5cc8610f0b95484545e04a074927a2fe5a2d0500a5e33ea6",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0053:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "陈王罢田横大司寇并言彻查，未连坐田家",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "陈王罢田横大司寇并言彻查，未连坐田家",
+            "focalizer": "chen_king",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "陈王罢田横大司寇并言彻查，未连坐田家"
+      },
+      {
+        "reference": "v04-c0095:p0054",
+        "length": 26,
+        "sha256": "ee9d23a7ffda4380b03b2bb5ee00ef195c732db7c0ccedfa10034c412cd445f9",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0054:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "尸体留下，令孟讲下去",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "尸体留下，令孟讲下去",
+            "focalizer": "chen_king",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "尸体留下，令孟讲下去"
+      },
+      {
+        "reference": "v04-c0095:p0055",
+        "length": 50,
+        "sha256": "22144fb1890883bb1430ed850d830a59772263a44764d71e480a093b7239ce96",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0055:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "贵族被尸身与怒火压住，初怔听",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "贵族被尸身与怒火压住，初怔听",
+            "focalizer": "v04c095_court_officials",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "贵族被尸身与怒火压住，初怔听"
+      },
+      {
+        "reference": "v04-c0095:p0056",
+        "length": 15,
+        "sha256": "283afc357d47b1c2e179170ebcb903b708686f7a5880f490830bde6a1f050454",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0056:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "v04c095_court_officials",
+            "surface_identity": "v04c095_court_officials",
+            "text_context": "朝臣惊孟用身体反打",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "朝臣惊孟用身体反打",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朝臣惊孟用身体反打"
+      },
+      {
+        "reference": "v04-c0095:p0057",
+        "length": 14,
+        "sha256": "f31c021b5bd617dcda0bd7481edfee123a3efa9f0c3ff73b5e83ac7c101a608b",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0057:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "v04c095_court_officials",
+            "surface_identity": "v04c095_court_officials",
+            "text_context": "朝臣以宝兵重击比拟伤势",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "朝臣以宝兵重击比拟伤势",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朝臣以宝兵重击比拟伤势"
+      },
+      {
+        "reference": "v04-c0095:p0058",
+        "length": 9,
+        "sha256": "bab27648cb7e781c17fd43c374a2fe58cee9b442ee9663ffa5e78aab38b34d28",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0058:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "v04c095_court_officials",
+            "surface_identity": "v04c095_court_officials",
+            "text_context": "人形荒兽为朝臣看法，非身份",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "人形荒兽为朝臣看法，非身份",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "人形荒兽为朝臣看法，非身份"
+      },
+      {
+        "reference": "v04-c0095:p0059",
+        "length": 55,
+        "sha256": "01d10c248463e19761187a58497d8c7645e538daf5f2e226be16408ab579be31",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0059:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟顺此震慑为新政争取时间",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟顺此震慑为新政争取时间",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟顺此震慑为新政争取时间"
+      },
+      {
+        "reference": "v04-c0095:p0060",
+        "length": 33,
+        "sha256": "76dbe1589b84e79bc6679e349f719e863aaf18717fbcca77ee8c7fad2c50b97b",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0060:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟逐条道出新策，到末条提高重音",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟逐条道出新策，到末条提高重音",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟逐条道出新策，到末条提高重音"
+      },
+      {
+        "reference": "v04-c0095:p0061",
+        "length": 20,
+        "sha256": "352b3a84c3afe4e43e6c0701561012eedf0585743de821b08913a91784cd1e4e",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0061:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟公开宣大王关于关津税的命令，区别于上章私议",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "实际言语",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟公开宣大王关于关津税的命令，区别于上章私议",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟公开宣大王关于关津税的命令，区别于上章私议"
+      },
+      {
+        "reference": "v04-c0095:p0062",
+        "length": 17,
+        "sha256": "0c8fea74999eb22d27ee551ffca6b2eb9c467dbe1a55f9ce2b7ca146d128e097",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0062:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_court_officials",
+            "surface_identity": "v04c095_court_officials",
+            "text_context": "朝臣贵族惊问，非独一说话者",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "陈朝贵族群体，未点名具体发声人",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "朝臣贵族惊问，非独一说话者",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0062:u002",
+            "start": 7,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "朝臣贵族惊问，非独一说话者",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "朝臣贵族惊问，非独一说话者",
+            "focalizer": "v04c095_court_officials",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "朝臣贵族惊问，非独一说话者"
+      },
+      {
+        "reference": "v04-c0095:p0063",
+        "length": 8,
+        "sha256": "674b1205c26ba5b0efcedcf28ba836d7cf31942200f9bf03c69b0146ab921e10",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0063:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "v04c095_court_officials",
+            "surface_identity": "v04c095_court_officials",
+            "text_context": "惊异此令是朝臣眼下心态",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "惊异此令是朝臣眼下心态",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "惊异此令是朝臣眼下心态"
+      },
+      {
+        "reference": "v04-c0095:p0064",
+        "length": 84,
+        "sha256": "b61e2234ad62791e5d664438c0074a6c29943def75bdbcc0530dfa97e56f6232",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0064:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "有臣实出列质疑可能借口诬杀塞卫，未明是谁",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "有臣实出列质疑可能借口诬杀塞卫，未明是谁",
+            "focalizer": "v04c095_court_officials",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0064:u002",
+            "start": 39,
+            "end": 84,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_court_officials",
+            "surface_identity": "v04c095_court_officials",
+            "text_context": "有臣实出列质疑可能借口诬杀塞卫，未明是谁",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "陈朝贵族群体，未点名具体发声人",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "有臣实出列质疑可能借口诬杀塞卫，未明是谁",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "有臣实出列质疑可能借口诬杀塞卫，未明是谁"
+      },
+      {
+        "reference": "v04-c0095:p0065",
+        "length": 73,
+        "sha256": "12e4052ebee80f0c579b1497b303e3c44792a8cbb66004bb34a1dda436e26977",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0065:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟公开说明关卡去留和旁证",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟公开说明关卡去留和旁证",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0065:u002",
+            "start": 11,
+            "end": 73,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟公开说明关卡去留和旁证",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "实际言语",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟公开说明关卡去留和旁证",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟公开说明关卡去留和旁证"
+      },
+      {
+        "reference": "v04-c0095:p0066",
+        "length": 44,
+        "sha256": "fc40e74bfab76cabddf0dc9a7c5093d4ffa6bf622a293fd6fcc64273e0206238",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0066:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟公开援引过往处置盗匪之法，嵌引由孟说",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟公开援引过往处置盗匪之法，嵌引由孟说",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0066:u002",
+            "start": 6,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟公开援引过往处置盗匪之法，嵌引由孟说",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "实际言语",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟公开援引过往处置盗匪之法，嵌引由孟说",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟公开援引过往处置盗匪之法，嵌引由孟说"
+      },
+      {
+        "reference": "v04-c0095:p0067",
+        "length": 36,
+        "sha256": "479600815e92c8c41c5ae594319e71f2103840c15ca017d868d5ceec1dcc91f5",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0067:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白交代以旧例辨类似案件的逻辑",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "旁白交代以旧例辨类似案件的逻辑",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白交代以旧例辨类似案件的逻辑"
+      },
+      {
+        "reference": "v04-c0095:p0068",
+        "length": 88,
+        "sha256": "8245db547a3c1fd05a45f0b2abec71043a6eea01ee32367bcdb03865a5d66c4e",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0068:u001",
+            "start": 0,
+            "end": 88,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "新政实际推行；绝大多数贵族拟先撤后伺机破坏",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "罢官、续议与新令公告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "新政实际推行；绝大多数贵族拟先撤后伺机破坏",
+            "focalizer": "v04c095_court_officials",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "新政实际推行；绝大多数贵族拟先撤后伺机破坏"
+      },
+      {
+        "reference": "v04-c0095:p0069",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0069:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原省略号单作转场",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "原省略号单作转场",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原省略号单作转场"
+      },
+      {
+        "reference": "v04-c0095:p0070",
+        "length": 5,
+        "sha256": "83321c3a39f8e3ae2897956697d88c8cbb7bf75178578f6f5472f2424011bd72",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0070:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "明示一个月后",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "明示一个月后",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "明示一个月后"
+      },
+      {
+        "reference": "v04-c0095:p0071",
+        "length": 46,
+        "sha256": "c8e200a2d32bb34a00ab160bc5f82702c87c176e70eae3c39fdba5ecbd922a51",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0071:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "楚商队实际入上营，货物颇重",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "楚商队实际入上营，货物颇重",
+            "focalizer": "v04c095_chu_caravan_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "楚商队实际入上营，货物颇重"
+      },
+      {
+        "reference": "v04-c0095:p0072",
+        "length": 112,
+        "sha256": "dcad4e93a366fc443550fd0a28e1f349ed42b84173f0020fc4c080bb75debc1c",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0072:u001",
+            "start": 0,
+            "end": 112,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首领芥子环装贵货，外景也愿入城交易，仍可能暗交易避市税",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领芥子环装贵货，外景也愿入城交易，仍可能暗交易避市税",
+            "focalizer": "v04c095_chu_caravan_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首领芥子环装贵货，外景也愿入城交易，仍可能暗交易避市税"
+      },
+      {
+        "reference": "v04-c0095:p0073",
+        "length": 54,
+        "sha256": "8fc009be11ee72ac40c3a4b0d3354df035429015d23f6ecfa91c622763b8590a",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0073:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "未名楚商领队看见街道热闹，拿安江比",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "未名楚商领队看见街道热闹，拿安江比",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0073:u002",
+            "start": 17,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未名楚商领队看见街道热闹，拿安江比",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "未名楚商领队看见街道热闹，拿安江比",
+            "focalizer": "v04c095_chu_caravan_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未名楚商领队看见街道热闹，拿安江比"
+      },
+      {
+        "reference": "v04-c0095:p0074",
+        "length": 68,
+        "sha256": "cd87ea72d6b9c799e9d6ebeffd2ef856f95cea3db9ad11fd733e4eb9a8d73f00",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0074:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "商队首领的儿子猜多为免税并预估自家省一半以上",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "商队首领的儿子猜多为免税并预估自家省一半以上",
+            "focalizer": "v04c095_chu_caravan_leaders_son",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0074:u002",
+            "start": 6,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leaders_son",
+            "surface_identity": "商队首领之子",
+            "text_context": "商队首领的儿子猜多为免税并预估自家省一半以上",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "商队首领的儿子猜多为免税并预估自家省一半以上",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "商队首领的儿子猜多为免税并预估自家省一半以上"
+      },
+      {
+        "reference": "v04-c0095:p0075",
+        "length": 36,
+        "sha256": "0063c9eed78f725c22c2119ef88c0b2db46b2c61404179feb93513eefaf49102",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0075:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首领出声复举王令并猜另有深意",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领出声复举王令并猜另有深意",
+            "focalizer": "v04c095_chu_caravan_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0075:u002",
+            "start": 11,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "首领出声复举王令并猜另有深意",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领出声复举王令并猜另有深意",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0075:u003",
+            "start": 25,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "首领出声复举王令并猜另有深意",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领出声复举王令并猜另有深意",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首领出声复举王令并猜另有深意"
+      },
+      {
+        "reference": "v04-c0095:p0076",
+        "length": 44,
+        "sha256": "cea8ab86c9296b4b6905516f1d3e54dcdd4823e76d54d662997b7a4d7b73f3e4",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0076:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首领观察货物多过往一倍有余",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领观察货物多过往一倍有余",
+            "focalizer": "v04c095_chu_caravan_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首领观察货物多过往一倍有余"
+      },
+      {
+        "reference": "v04-c0095:p0077",
+        "length": 32,
+        "sha256": "0e5b2c3d2748a7417f797bc3b087f906e844afd20eba78b8163225638bf2ced0",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0077:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "首领内联薄利多销，认为王得利可能更多",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "内心",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领内联薄利多销，认为王得利可能更多",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首领内联薄利多销，认为王得利可能更多"
+      },
+      {
+        "reference": "v04-c0095:p0078",
+        "length": 9,
+        "sha256": "d1abb9becddb0e5277a04560df7b466012ce3533b55ce88fb24de7456797c0a0",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0078:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "首领内赞苏墨",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "内心",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领内赞苏墨",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首领内赞苏墨"
+      },
+      {
+        "reference": "v04-c0095:p0079",
+        "length": 23,
+        "sha256": "e9186767a773f6b7c5c8d26788ffb52d2d3c7e0231412ff0bd003ec2531d620e",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0079:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leaders_son",
+            "surface_identity": "商队首领之子",
+            "text_context": "首领儿子回报客栈住满",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领儿子回报客栈住满",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0079:u002",
+            "start": 14,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首领儿子回报客栈住满",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领儿子回报客栈住满",
+            "focalizer": "v04c095_chu_caravan_leaders_son",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首领儿子回报客栈住满"
+      },
+      {
+        "reference": "v04-c0095:p0080",
+        "length": 14,
+        "sha256": "9fd664bad8c6d84347efea6e809b0b50160252b73018f1d8bdd59dea46e36795",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0080:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "首领实出声反问",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领实出声反问",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0080:u002",
+            "start": 6,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首领实出声反问",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领实出声反问",
+            "focalizer": "v04c095_chu_caravan_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首领实出声反问"
+      },
+      {
+        "reference": "v04-c0095:p0081",
+        "length": 43,
+        "sha256": "3b4ee4ea5087794952124bf7b2ffab336bb0c60a8fcdc8aa2ea2b819ef6a2e23",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0081:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "儿子报走陈国线的行商增好几倍，此为转述",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "儿子报走陈国线的行商增好几倍，此为转述",
+            "focalizer": "v04c095_chu_caravan_leaders_son",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0081:u002",
+            "start": 13,
+            "end": 43,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leaders_son",
+            "surface_identity": "商队首领之子",
+            "text_context": "儿子报走陈国线的行商增好几倍，此为转述",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "儿子报走陈国线的行商增好几倍，此为转述",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "儿子报走陈国线的行商增好几倍，此为转述"
+      },
+      {
+        "reference": "v04-c0095:p0082",
+        "length": 24,
+        "sha256": "7b061c4f8b9492bd5e24d783199d3ab35f5efd8e2b30d007fd4d90244312f227",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0082:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "首领内重估废税作用",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "内心",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领内重估废税作用",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0082:u002",
+            "start": 5,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "首领内重估废税作用",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领内重估废税作用",
+            "focalizer": "v04c095_chu_caravan_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首领内重估废税作用"
+      },
+      {
+        "reference": "v04-c0095:p0083",
+        "length": 46,
+        "sha256": "e234f00a28d99a3dc1f27f3a8a4927433747b41c6539545e886c0f7383992672",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0083:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未名老者主动向客商实提借住",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "未名老者主动向客商实提借住",
+            "focalizer": "v04c095_shangying_host",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0083:u002",
+            "start": 21,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_shangying_host",
+            "surface_identity": "上营临时出租庭院的老者",
+            "text_context": "未名老者主动向客商实提借住",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "未名老者主动向客商实提借住",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未名老者主动向客商实提借住"
+      },
+      {
+        "reference": "v04-c0095:p0084",
+        "length": 25,
+        "sha256": "46e80a5ec370ca17cce4f2b69a0059548ed92f74df68573e679ee8d561283f82",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0084:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "v04c095_chu_caravan_merchants",
+            "surface_identity": "v04c095_chu_caravan_merchants",
+            "text_context": "商人群体惊诧百姓开临时客舍",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "商人群体惊诧百姓开临时客舍",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0084:u002",
+            "start": 4,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "商人群体惊诧百姓开临时客舍",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "商人群体惊诧百姓开临时客舍",
+            "focalizer": "v04c095_chu_caravan_merchants",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0084:u003",
+            "start": 12,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "v04c095_chu_caravan_merchants",
+            "surface_identity": "v04c095_chu_caravan_merchants",
+            "text_context": "商人群体惊诧百姓开临时客舍",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "商人群体惊诧百姓开临时客舍",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "商人群体惊诧百姓开临时客舍"
+      },
+      {
+        "reference": "v04-c0095:p0085",
+        "length": 38,
+        "sha256": "303b3c6d2ad66630e4d6e89b0d84a8e6a0c4392a64f968a70fa54d8c6bc88280",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0085:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "商队首领答先看干净与否再议价",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "商队首领答先看干净与否再议价",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0085:u002",
+            "start": 31,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "商队首领答先看干净与否再议价",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "商队首领答先看干净与否再议价",
+            "focalizer": "v04c095_chu_caravan_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "商队首领答先看干净与否再议价"
+      },
+      {
+        "reference": "v04-c0095:p0086",
+        "length": 63,
+        "sha256": "9f1401470111e9520ad5ce467c4e96974eeffcfad0099987be6433822e638224",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0086:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_shangying_host",
+            "surface_identity": "上营临时出租庭院的老者",
+            "text_context": "老者实际答应引至干净小宅",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者实际答应引至干净小宅",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0086:u002",
+            "start": 5,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者实际答应引至干净小宅",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者实际答应引至干净小宅",
+            "focalizer": "v04c095_shangying_host",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者实际答应引至干净小宅"
+      },
+      {
+        "reference": "v04-c0095:p0087",
+        "length": 30,
+        "sha256": "b92bf4adeb7619cb5671e1f893eed3d17e3f117650cd54015122908364572495",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0087:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leaders_son",
+            "surface_identity": "商队首领之子",
+            "text_context": "领队之子低语说护卫宿院则房舍够",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "领队之子低语说护卫宿院则房舍够",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0087:u002",
+            "start": 18,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "领队之子低语说护卫宿院则房舍够",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "领队之子低语说护卫宿院则房舍够",
+            "focalizer": "v04c095_chu_caravan_leaders_son",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "领队之子低语说护卫宿院则房舍够"
+      },
+      {
+        "reference": "v04-c0095:p0088",
+        "length": 58,
+        "sha256": "de8d2ef58ca30d80dcac838a4025745815f5932c9921771d7c62ebf08b42c6b4",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0088:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "领队实交一小锭金作质押，离去时再结算",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "领队实交一小锭金作质押，离去时再结算",
+            "focalizer": "v04c095_chu_caravan_leader",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0088:u002",
+            "start": 21,
+            "end": 58,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "领队实交一小锭金作质押，离去时再结算",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "领队实交一小锭金作质押，离去时再结算",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "领队实交一小锭金作质押，离去时再结算"
+      },
+      {
+        "reference": "v04-c0095:p0089",
+        "length": 23,
+        "sha256": "3aed3301da9c9bfa2705c147affa399abf9dd9c1f48a19303591098944b4ef06",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0089:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者明说请人验",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者明说请人验",
+            "focalizer": "v04c095_shangying_host",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0089:u002",
+            "start": 12,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_shangying_host",
+            "surface_identity": "上营临时出租庭院的老者",
+            "text_context": "老者明说请人验",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者明说请人验",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者明说请人验"
+      },
+      {
+        "reference": "v04-c0095:p0090",
+        "length": 56,
+        "sha256": "4ffb5c3639f995bdaabbf6f6627641158a481d7f0c3998278d65ae7c824e5b1c",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0090:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "v04c095_chu_caravan_merchants",
+            "surface_identity": "v04c095_chu_caravan_merchants",
+            "text_context": "老者请巡逻开窍者验金，后者客气照做",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者请巡逻开窍者验金，后者客气照做",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0090:u002",
+            "start": 3,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者请巡逻开窍者验金，后者客气照做",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者请巡逻开窍者验金，后者客气照做",
+            "focalizer": "v04c095_shangying_host",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者请巡逻开窍者验金，后者客气照做"
+      },
+      {
+        "reference": "v04-c0095:p0091",
+        "length": 88,
+        "sha256": "900d7fcae177a26d87260615ee92afd579654a18cb1865fa579beac201baed89",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0091:u001",
+            "start": 0,
+            "end": 88,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "为首商人以官吏出身论对比今昔所见",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "为首商人以官吏出身论对比今昔所见",
+            "focalizer": "v04c095_chu_caravan_merchants",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "为首商人以官吏出身论对比今昔所见"
+      },
+      {
+        "reference": "v04-c0095:p0092",
+        "length": 8,
+        "sha256": "76ca0915e03a7b6d21c551b0468afbb192c507f799b0807f368b969b3d3d5b94",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0092:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "v04c095_chu_caravan_leader",
+            "surface_identity": "未名楚国商队首领",
+            "text_context": "首领内问是否尚贤选能的成效",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "内心",
+            "embodiment": "循货、住店、验金逐步改观",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "首领内问是否尚贤选能的成效",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "首领内问是否尚贤选能的成效"
+      },
+      {
+        "reference": "v04-c0095:p0093",
+        "length": 27,
+        "sha256": "861432d418afe6b9ae434479ad7b8b441876fbe5945231e92cb63a2773b5c725",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0093:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者让出宅舍后，一家暂住柴房",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者让出宅舍后，一家暂住柴房",
+            "focalizer": "v04c095_shangying_host",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者让出宅舍后，一家暂住柴房"
+      },
+      {
+        "reference": "v04-c0095:p0094",
+        "length": 30,
+        "sha256": "9c1ec7ef85bb78a4112e504fbd9a4273d83b4ce40b85b937d2bc4185f8d78625",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0094:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者之子在柴房实际惊叹可行",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者之子在柴房实际惊叹可行",
+            "focalizer": "v04c095_shangying_hosts_son",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0094:u002",
+            "start": 20,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_shangying_hosts_son",
+            "surface_identity": "该老者之子",
+            "text_context": "老者之子在柴房实际惊叹可行",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者之子在柴房实际惊叹可行",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者之子在柴房实际惊叹可行"
+      },
+      {
+        "reference": "v04-c0095:p0095",
+        "length": 17,
+        "sha256": "4998cbc5c0d779e6cde865ddf7eee705887b3dd53b18b8c072d6c8e6d8c509e3",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0095:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白补他曾反对改家作临时住宿",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "旁白补他曾反对改家作临时住宿",
+            "focalizer": "v04c095_shangying_hosts_son",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白补他曾反对改家作临时住宿"
+      },
+      {
+        "reference": "v04-c0095:p0096",
+        "length": 22,
+        "sha256": "78369f8f804021bebe9e688a6968f61cbc69cd9992c67714571d894f6ed412fd",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0096:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者实说大司徒指点",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者实说大司徒指点",
+            "focalizer": "v04c095_shangying_host",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0096:u002",
+            "start": 7,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_shangying_host",
+            "surface_identity": "上营临时出租庭院的老者",
+            "text_context": "老者实说大司徒指点",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者实说大司徒指点",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者实说大司徒指点"
+      },
+      {
+        "reference": "v04-c0095:p0097",
+        "length": 41,
+        "sha256": "c0673430e2d907121e0711b6564bf57db5254e38ef0d33b5f0ff8bfdd5719960",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0097:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白交代孟积福德而巡察指点百姓",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "旁白交代孟积福德而巡察指点百姓",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白交代孟积福德而巡察指点百姓"
+      },
+      {
+        "reference": "v04-c0095:p0098",
+        "length": 76,
+        "sha256": "02e9b86955da59c7ba00965554f10271d53a79d0b3debf3dee906b7eef038e0a",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0098:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者声述日子变好，举高氏兄弟靠采马草改善生活",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者声述日子变好，举高氏兄弟靠采马草改善生活",
+            "focalizer": "v04c095_shangying_host",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0098:u002",
+            "start": 10,
+            "end": 76,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_shangying_host",
+            "surface_identity": "上营临时出租庭院的老者",
+            "text_context": "老者声述日子变好，举高氏兄弟靠采马草改善生活",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者声述日子变好，举高氏兄弟靠采马草改善生活",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者声述日子变好，举高氏兄弟靠采马草改善生活"
+      },
+      {
+        "reference": "v04-c0095:p0099",
+        "length": 36,
+        "sha256": "2e38e7f02f002ba80273a6cf494d801436fd51c65fc68fbf2a40dbeccc33ddc7",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0099:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c095_shangying_hosts_daughter_in_law",
+            "surface_identity": "该老者之儿媳",
+            "text_context": "老者儿媳实插话转述街上称墨子苏子",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者儿媳实插话转述街上称墨子苏子",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0099:u002",
+            "start": 28,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "老者儿媳实插话转述街上称墨子苏子",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "一月后从楚商与上营百姓见变化",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "老者儿媳实插话转述街上称墨子苏子",
+            "focalizer": "v04c095_shangying_hosts_daughter_in_law",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "老者儿媳实插话转述街上称墨子苏子"
+      },
+      {
+        "reference": "v04-c0095:p0100",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0100:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原省略号不作对白",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "原省略号不作对白",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原省略号不作对白"
+      },
+      {
+        "reference": "v04-c0095:p0101",
+        "length": 25,
+        "sha256": "edf286d1e8d22356eeb82a7791879ca115eb90fd03d8084283213c0fbacca540",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0101:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "五人身周出现黑白和金黄光点",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "五人身周出现黑白和金黄光点",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "五人身周出现黑白和金黄光点"
+      },
+      {
+        "reference": "v04-c0095:p0102",
+        "length": 31,
+        "sha256": "f7a8775da017034070dd82e0ce7460989e505fb845d77dfdcc98edcaefdae460",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0102:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "新政推行后功德与道德之气确实开始加身",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "新政推行后功德与道德之气确实开始加身",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "新政推行后功德与道德之气确实开始加身"
+      },
+      {
+        "reference": "v04-c0095:p0103",
+        "length": 20,
+        "sha256": "5d47f151ec8989e6e7f29beccc6dbb4ed2bf6db1ed09f1d00be5ac4e8d7c561f",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0103:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵恒说剩数日回归",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "赵恒说剩数日回归",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0103:u002",
+            "start": 12,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵恒说剩数日回归",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "赵恒说剩数日回归",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵恒说剩数日回归"
+      },
+      {
+        "reference": "v04-c0095:p0104",
+        "length": 40,
+        "sha256": "d4191d44fce6103b1b44942ca52a02e35460e5f4b5dddc70cada8bb782e88ca1",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0104:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "大司徒苏墨，民间转称墨子、苏子",
+            "text_context": "孟估贵族暗里串联，末段只有风险判断",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "实际言语",
+            "embodiment": "朝堂遇袭不伤，续宣新策；巡察指点百姓",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟估贵族暗里串联，末段只有风险判断",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0104:u002",
+            "start": 31,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟估贵族暗里串联，末段只有风险判断",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟估贵族暗里串联，末段只有风险判断",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟估贵族暗里串联，末段只有风险判断"
+      },
+      {
+        "reference": "v04-c0095:p0105",
+        "length": 66,
+        "sha256": "d6276cb1d76a4c093f41ada7a6a934f12ec219f06d0ce21e2971d3a6b73abae3",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0105:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟等欲稳住根基，假托重伤及留白松接任都是打算",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "孟等欲稳住根基，假托重伤及留白松接任都是打算",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟等欲稳住根基，假托重伤及留白松接任都是打算"
+      },
+      {
+        "reference": "v04-c0095:p0106",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0106:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原省略号从五人转公羊府",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "原省略号从五人转公羊府",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原省略号从五人转公羊府"
+      },
+      {
+        "reference": "v04-c0095:p0107",
+        "length": 46,
+        "sha256": "ba78cffad385280088d7e8a29b42866bfcc48ae28df664e3e792accc97d64c79",
+        "units": [
+          {
+            "unit_id": "v04-c0095:p0107:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "gongyang_zeng",
+            "surface_identity": "大司空公羊增",
+            "text_context": "公羊增向归家的儿子问金光洞是否已有决断，未闻回复",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "公羊增向归家的儿子问金光洞是否已有决断，未闻回复",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0107:u002",
+            "start": 9,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增向归家的儿子问金光洞是否已有决断，未闻回复",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "公羊增向归家的儿子问金光洞是否已有决断，未闻回复",
+            "focalizer": "gongyang_zeng",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0095:p0107:u003",
+            "start": 31,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "gongyang_zeng",
+            "surface_identity": "大司空公羊增",
+            "text_context": "公羊增向归家的儿子问金光洞是否已有决断，未闻回复",
+            "world_context": "第四卷封神：陈廷遇刺、新令公布、上营一月后",
+            "stage_context": "队伍获功德与道德之气，公羊父子悬念",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "田广中止于自爆前，田横实杀田广。陈王罢田横及彻查，未累及整个田家。朝会新政实际推行，一个月后有市集、民家和气运所见。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "伍浩是轮回者及吴王欲证法身均属推测。回归还有几日，白松接任未发生，公羊增询洞中态度而未获答。",
+            "knowledge_boundary": "公羊增向归家的儿子问金光洞是否已有决断，未闻回复",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增向归家的儿子问金光洞是否已有决断，未闻回复"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0095",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S13",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 24,
+        "label": "任命遭反对，田广借吴国发问",
+        "direction": "朝堂以贵族反对、陈王坚持起势。田广行礼后才转身问孟，初冷淡，后踏前逼问。田广的吴国消息留在朝堂陈述，切孟及队友短暂眼神与孟的猜测，不把伍浩猜测拍成事实。 证据 v04-c0095:p0001–p0024。"
+      },
+      {
+        "paragraph_start": 25,
+        "paragraph_end": 49,
+        "label": "突袭无伤，田广重伤后死于田横之手",
+        "direction": "让众人先来不及作反应，再用撞击响与金光落孟不伤。田广的惊骇及自爆打算停在他的视点，孟反击结果由折柱和倒地交代。田横在王出手前抢入，田广喊一遍，下一段留声回荡，再落孟眼皮微跳和内心反斥。 证据 v04-c0095:p0025–p0049。"
+      },
+      {
+        "paragraph_start": 50,
+        "paragraph_end": 68,
+        "label": "罢田横、保留尸身，孟公开宣新令",
+        "direction": "给殿内长静，让尸身、陈王怒色和贵族自伤压住第一轮反对。田横告罪及王罢官先由旁白转述。随后孟公开宣令，以有臣出列诘问和孟有条理回答落地，最后叙新策推行、贵族暂退企图未止。 证据 v04-c0095:p0050–p0068。"
+      },
+      {
+        "paragraph_start": 70,
+        "paragraph_end": 99,
+        "label": "一个月后，从进城楚商看上营",
+        "direction": "以时间牌或旁白交代一月。随商队从街市到客栈全满，再进民户庭院。首领、他的儿子与房主家的两辈各用自己的口吻。验金一幕让巡吏客气照办，才接首领心里想到尚贤。以柴房一家、采马草的传闻和街坊尊称收场。 证据 v04-c0095:p0070–p0099。"
+      },
+      {
+        "paragraph_start": 101,
+        "paragraph_end": 107,
+        "label": "光点加身，临回归仍闻外援悬念",
+        "direction": "先以身周黑白、金黄光点落实功德与道德，赵恒说只剩数日。孟忧暗中串联，以旁白留几种交接设想。再切归家的公羊增之子，止于公羊增问金光洞的决断。 证据 v04-c0095:p0101–p0107。"
+      }
+    ],
+    "knowledge_rule": "田广所述吴情有来源边界。伍浩身份、队伍和吴王证道目的依然是孟的推断。田广末句发声一次，下一段沿声音回荡。罢官与公布新令已经发生，一月后的变化从商贾、民户见闻和叙者落地，行商倍数与节省成本不当作官方统计。白松接任未实行。"
+  }
 }

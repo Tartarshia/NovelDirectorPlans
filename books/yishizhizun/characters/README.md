@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [田广行刺失败，田横杀子后被罢官](early-v04-Tian-Guang-dies-and-Tian-Heng-loses-office.md) | 第四卷第95章历史归属回补 |
+| [楚国客商见商路变化，老者借院迎客](early-v04-Shangying-caravan-and-private-lodging.md) | 第四卷第95章历史归属回补 |
+| [五人获功德道德之气，公羊增问洞中进展](early-v04-Merit-appears-and-Gongyang-awaits-a-decision.md) | 第四卷第95章历史归属回补 |
 | [阳城宰田括投苏，田横两次说任他去](early-v04-Tian-Kuo-goes-to-Su-Mo.md) | 第四卷第94章历史归属回补 |
 | [陈宫议落实，暂以王丹封地为重点](early-v04-Implementation-debate-and-Wang-Dan-lands.md) | 第四卷第94章历史归属回补 |
 | [简礼朝会宣授职，孟奇认出上大夫田广](early-v04-Court-announces-Situ-posts-and-Meng-notices-Tian-Guang.md) | 第四卷第94章历史归属回补 |
