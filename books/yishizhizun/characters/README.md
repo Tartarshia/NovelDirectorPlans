@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [五人落博乐城，调整传道次序](early-v04-Team-arrives-in-Bole-and-adapts-Mohist-teaching.md) | 第四卷第86章历史归属回补 |
+| [宗师博乐君姬武亲迎五人](early-v04-Bole-Lord-Ji-Wu-welcomes-five-guests.md) | 第四卷第86章历史归属回补 |
+| [节葬触怒姬武，五人辞去](early-v04-Ji-Wu-rejects-frugal-funerals-and-guests-leave.md) | 第四卷第86章历史归属回补 |
 | [封神前五人各自境界，阮纠正三伯传闻](early-v04-Fengshen-team-readiness-and-Ruan-family-correction.md) | 第四卷第85章历史归属回补 |
 | [保留退路后，五人共兑四秘宝](early-v04-Five-keep-exit-funds-and-exchange-four-replicas.md) | 第四卷第85章历史归属回补 |
 | [以兼爱等理念入局，五人转场](early-v04-Mohist-mission-preparation-and-quiet-transition.md) | 第四卷第85章历史归属回补 |
