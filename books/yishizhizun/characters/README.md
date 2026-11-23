@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [季飞鸿、奉典先后竞第二粒](early-v04-Ji-Feihong-and-Fengdian-bidding.md) | 第四卷第82章历史归属回补 |
+| [九指买家以东海异珠等取寿丹](early-v04-Nine-fingered-buyer-trades-East-Sea-pearl.md) | 第四卷第82章历史归属回补 |
+| [阮三追询买主，奉典追踪孟失败](early-v04-Fengdian-loses-trail-and-Meng-returns-to-Lanke.md) | 第四卷第82章历史归属回补 |
 | [言无我私认黑袍客为奉典神使](early-v04-Fengdian-admitted-and-named-in-private.md) | 第四卷第81章历史归属回补 |
 | [张端以十三材换首粒并验后服用](early-v04-Zhang-Duan-wins-and-takes-the-first-Dongji-pill.md) | 第四卷第81章历史归属回补 |
 | [第二粒公开出价，沉哑客报落月棍](early-v04-Second-Dongji-pill-bids-and-Luoyue-staff.md) | 第四卷第81章历史归属回补 |

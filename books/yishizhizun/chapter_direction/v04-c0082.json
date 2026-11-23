@@ -61,7 +61,2824 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0250"
+  "reading_batch": "batch-0250",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0082",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0082.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0082:p0001",
+        "length": 103,
+        "sha256": "e584d862f8a89f432f83445457aefba926a602a99793b719b0813305259ad866",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0001:u001",
+            "start": 0,
+            "end": 103,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "角落竞价者为季飞鸿，但只有孟、言知实名，血肉显初衰",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "角落竞价者为季飞鸿，但只有孟、言知实名，血肉显初衰",
+            "focalizer": "ji_feihong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "角落竞价者为季飞鸿，但只有孟、言知实名，血肉显初衰"
+      },
+      {
+        "reference": "v04-c0082:p0002",
+        "length": 90,
+        "sha256": "d03fdc77d5b5ac11b175ec0b88ed397dc4cd7a85ad4b0d6ef83c92aacf661a18",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0002:u001",
+            "start": 0,
+            "end": 90,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "外景一旦实衰便近死为叙述背景",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "外景一旦实衰便近死为叙述背景",
+            "focalizer": "ji_feihong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "外景一旦实衰便近死为叙述背景"
+      },
+      {
+        "reference": "v04-c0082:p0003",
+        "length": 21,
+        "sha256": "2c35e135ac1dd7054106c2bdb94f9950703b531e6c98b45d945de4edb4e2d3a3",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0003:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "yan_wuwo",
+            "surface_identity": "言无我，仙迹号太乙真人",
+            "text_context": "言明确暗叹愿舍极品兵",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "内心",
+            "embodiment": "封神联想先动气息、随后暗助",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言明确暗叹愿舍极品兵",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0003:u002",
+            "start": 12,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言明确暗叹愿舍极品兵",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言明确暗叹愿舍极品兵",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言明确暗叹愿舍极品兵"
+      },
+      {
+        "reference": "v04-c0082:p0004",
+        "length": 104,
+        "sha256": "519dc7d2629eb8d42fa13189cb7738304280704b72e79f5547021fc734c430c7",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0004:u001",
+            "start": 0,
+            "end": 104,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言估落月棍来自奇遇，非确证",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言估落月棍来自奇遇，非确证",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言估落月棍来自奇遇，非确证"
+      },
+      {
+        "reference": "v04-c0082:p0005",
+        "length": 56,
+        "sha256": "170a991ba1008399fcd0ed09528e25a589e342e7c0ad194ade491de5365ba7c2",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0005:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言有六道可换，假设否则也会贪",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言有六道可换，假设否则也会贪",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言有六道可换，假设否则也会贪"
+      },
+      {
+        "reference": "v04-c0082:p0006",
+        "length": 50,
+        "sha256": "d40ed9ac44c762766452a7e482e7f107fcaa19f125b3dbfd5d2cbe4844507563",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0006:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "季报价后镇定，其想法随叙述",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "季报价后镇定，其想法随叙述",
+            "focalizer": "ji_feihong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "季报价后镇定，其想法随叙述"
+      },
+      {
+        "reference": "v04-c0082:p0007",
+        "length": 73,
+        "sha256": "0af58f0b947eb2984a95992ccd8b75b3af057fc3212fdc0581aa1127673d5d50",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0007:u001",
+            "start": 0,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟心动但估还会涨",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟心动但估还会涨",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心动但估还会涨"
+      },
+      {
+        "reference": "v04-c0082:p0008",
+        "length": 64,
+        "sha256": "1264be0fe9107cc845add5a43d3a3e07aef8ecc003d78b162ee04c8ee0dadf73",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0008:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典实保十四材承影剑并加九重天秘宝入微惑心镜",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典实保十四材承影剑并加九重天秘宝入微惑心镜",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0008:u002",
+            "start": 23,
+            "end": 64,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "奉典神使，拍后潜海跟去",
+            "text_context": "奉典实保十四材承影剑并加九重天秘宝入微惑心镜",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "实际言语",
+            "embodiment": "呼吸急并恶视，后冷静与惊诧",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典实保十四材承影剑并加九重天秘宝入微惑心镜",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典实保十四材承影剑并加九重天秘宝入微惑心镜"
+      },
+      {
+        "reference": "v04-c0082:p0009",
+        "length": 23,
+        "sha256": "c015033667fd8eb82d07ffa2fa197e0f64f653a7b2d25cd660c76a91fcbaf3e9",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0009:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟心惊出手丰厚",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "内心",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟心惊出手丰厚",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心惊出手丰厚"
+      },
+      {
+        "reference": "v04-c0082:p0010",
+        "length": 91,
+        "sha256": "130167b6bca77ddf2ab8b235d10ae864f3abbc9151e903eb4e59184bee668825",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0010:u001",
+            "start": 0,
+            "end": 91,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟估奉典报价逾三万善功，非实际到账",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟估奉典报价逾三万善功，非实际到账",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟估奉典报价逾三万善功，非实际到账"
+      },
+      {
+        "reference": "v04-c0082:p0011",
+        "length": 60,
+        "sha256": "875e6ae1f79717c5234fb7aa6044f26b32bf2145c2bd5ac3283e72d6ffd5dc0c",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0011:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟私想修玄水荡魔旗，未修",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟私想修玄水荡魔旗，未修",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0011:u002",
+            "start": 26,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟私想修玄水荡魔旗，未修",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟私想修玄水荡魔旗，未修",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0011:u003",
+            "start": 44,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟私想修玄水荡魔旗，未修",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟私想修玄水荡魔旗，未修",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟私想修玄水荡魔旗，未修"
+      },
+      {
+        "reference": "v04-c0082:p0012",
+        "length": 144,
+        "sha256": "d31132b95f18fd894fb8dfa0dbdb8e00483358370964ca052de2a58d7072b9a5",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0012:u001",
+            "start": 0,
+            "end": 144,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟推想供稀致高价，再售可能跌价",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟推想供稀致高价，再售可能跌价",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟推想供稀致高价，再售可能跌价"
+      },
+      {
+        "reference": "v04-c0082:p0013",
+        "length": 93,
+        "sha256": "50aff4728d91a76302649ade279bd4ad84f2a33967e3271fae25c02d912a141d",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0013:u001",
+            "start": 0,
+            "end": 93,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "药只首次有效，利润与风险为孟权衡",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "药只首次有效，利润与风险为孟权衡",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "药只首次有效，利润与风险为孟权衡"
+      },
+      {
+        "reference": "v04-c0082:p0014",
+        "length": 72,
+        "sha256": "ac561829e5217edf33f9b379d30d72167f78d36c5c90109f5d2e7d2cafe6f54d",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0014:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典报价令舱静，旁人开始犹豫",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典报价令舱静，旁人开始犹豫",
+            "focalizer": "v04c082_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典报价令舱静，旁人开始犹豫"
+      },
+      {
+        "reference": "v04-c0082:p0015",
+        "length": 52,
+        "sha256": "496751b22b24c37c5a6451ef1a56a9c45a36c9d44430ecfdf47891b172c0aa1f",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0015:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "另有寿丹可替，现场权衡",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "另有寿丹可替，现场权衡",
+            "focalizer": "v04c082_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "另有寿丹可替，现场权衡"
+      },
+      {
+        "reference": "v04-c0082:p0016",
+        "length": 33,
+        "sha256": "33f68d47538e27d8edf106bffaff9e6ea9b901162c53d9f1068146c432aed970",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0016:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "有选择故不愿倾囊为叙述",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "有选择故不愿倾囊为叙述",
+            "focalizer": "v04c082_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "有选择故不愿倾囊为叙述"
+      },
+      {
+        "reference": "v04-c0082:p0017",
+        "length": 139,
+        "sha256": "1c38bd730c2b9a3649790e1f09dfe577ccaa9e77d7682a705ac75aa3deb0ffc4",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0017:u001",
+            "start": 0,
+            "end": 139,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟预见只有两粒会有打斗之险",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟预见只有两粒会有打斗之险",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟预见只有两粒会有打斗之险"
+      },
+      {
+        "reference": "v04-c0082:p0018",
+        "length": 49,
+        "sha256": "f7aad3a60772240a02c78ba0ab6cb9884b6dd2ef40470490b194713271addca0",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0018:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "请法身所耗人情也成代价",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "请法身所耗人情也成代价",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "请法身所耗人情也成代价"
+      },
+      {
+        "reference": "v04-c0082:p0019",
+        "length": 16,
+        "sha256": "b3c993794394ce8aee74f998b5112b2cdded403ee14149e789b4004585af58b7",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0019:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "法身欠情难得的叙评",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "法身欠情难得的叙评",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "法身欠情难得的叙评"
+      },
+      {
+        "reference": "v04-c0082:p0020",
+        "length": 141,
+        "sha256": "2fc23a15c74e3fbe117f81d87efb54a6bdbeda9154335548e6c22d1e4ecd56c7",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0020:u001",
+            "start": 0,
+            "end": 93,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内盘人情，实际问是否再加并约三声",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟内盘人情，实际问是否再加并约三声",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0020:u002",
+            "start": 93,
+            "end": 105,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内盘人情，实际问是否再加并约三声",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟内盘人情，实际问是否再加并约三声",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0020:u003",
+            "start": 105,
+            "end": 117,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟内盘人情，实际问是否再加并约三声",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟内盘人情，实际问是否再加并约三声",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0020:u004",
+            "start": 117,
+            "end": 141,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟内盘人情，实际问是否再加并约三声",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "季与奉典加价",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟内盘人情，实际问是否再加并约三声",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内盘人情，实际问是否再加并约三声"
+      },
+      {
+        "reference": "v04-c0082:p0021",
+        "length": 28,
+        "sha256": "8552948b03e32c81d8cb09e8ed3f3d82193ab187b68f8d33edba87cb06c7f006",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0021:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沉默中奉典呼吸粗",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "沉默中奉典呼吸粗",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沉默中奉典呼吸粗"
+      },
+      {
+        "reference": "v04-c0082:p0022",
+        "length": 5,
+        "sha256": "fab2fbad34e5ca3aeb5e5469c8c9f9edef7c22dc5e0c6ec5e6f2e852342daf5c",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0022:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟实报一",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟实报一",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实报一"
+      },
+      {
+        "reference": "v04-c0082:p0023",
+        "length": 8,
+        "sha256": "31b9371fe4e465b8bcb6dec20139044b29352a42c27b6af6f5d9f5668fc4a6c7",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0023:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "静默",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "静默",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "静默"
+      },
+      {
+        "reference": "v04-c0082:p0024",
+        "length": 5,
+        "sha256": "64cbde48401c7c6b57e8125277e14a72581943a07d9e42d6e8c15e911519ef69",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0024:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟实报二",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟实报二",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实报二"
+      },
+      {
+        "reference": "v04-c0082:p0025",
+        "length": 82,
+        "sha256": "0a8fe226cefb242ea43ab2ad6edcc13c29e8ac3e050d746781eb4b23edc8eeb0",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0025:u001",
+            "start": 0,
+            "end": 82,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典只等第三声，打算得后戴面吞，未得",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典只等第三声，打算得后戴面吞，未得",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典只等第三声，打算得后戴面吞，未得"
+      },
+      {
+        "reference": "v04-c0082:p0026",
+        "length": 25,
+        "sha256": "85e6fadc92520d89744b4d22d17e2a1240e764c6e98655715eef1cb36a2e5d56",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0026:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c082_nine_fingered_buyer",
+            "surface_identity": "灰袍木面、本名未知，照出九指及蓝断口",
+            "text_context": "灰袍无名者出声阻止",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "实际言语",
+            "embodiment": "宗师仍被珠压陷、伸手递交后即缩",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "灰袍无名者出声阻止",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0026:u002",
+            "start": 6,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "灰袍无名者出声阻止",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "灰袍无名者出声阻止",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "灰袍无名者出声阻止"
+      },
+      {
+        "reference": "v04-c0082:p0027",
+        "length": 23,
+        "sha256": "da71790798615e492dae910a7788de0bddb649367ce304d34d18603d7b25e0bf",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0027:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典带怒杀意回看",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典带怒杀意回看",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典带怒杀意回看"
+      },
+      {
+        "reference": "v04-c0082:p0028",
+        "length": 73,
+        "sha256": "27a13f1a3ee40b5d154970e8d0e80a423b8a7a0fbcc75ba87597c5a1093cc408",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0028:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沉哑后出者实报十三材及上品万毒催魂针",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "沉哑后出者实报十三材及上品万毒催魂针",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0028:u002",
+            "start": 41,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c082_nine_fingered_buyer",
+            "surface_identity": "灰袍木面、本名未知，照出九指及蓝断口",
+            "text_context": "沉哑后出者实报十三材及上品万毒催魂针",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "实际言语",
+            "embodiment": "宗师仍被珠压陷、伸手递交后即缩",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "沉哑后出者实报十三材及上品万毒催魂针",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0028:u003",
+            "start": 48,
+            "end": 73,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c082_nine_fingered_buyer",
+            "surface_identity": "灰袍木面、本名未知，照出九指及蓝断口",
+            "text_context": "沉哑后出者实报十三材及上品万毒催魂针",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "实际言语",
+            "embodiment": "宗师仍被珠压陷、伸手递交后即缩",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "沉哑后出者实报十三材及上品万毒催魂针",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沉哑后出者实报十三材及上品万毒催魂针"
+      },
+      {
+        "reference": "v04-c0082:p0029",
+        "length": 10,
+        "sha256": "1cc9cf4a63d90bb4b0766d3c5d4b30e5ffcc5ebddc03cfac126da635d84e8367",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0029:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "报价说到此处实顿",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "报价说到此处实顿",
+            "focalizer": "v04c082_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "报价说到此处实顿"
+      },
+      {
+        "reference": "v04-c0082:p0030",
+        "length": 42,
+        "sha256": "c0070d3853fd30a22da7555c673484c685b8e5f52f08e1dcb9219ae239a77478",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0030:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁人预料追加必贵，未听到前不知",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "旁人预料追加必贵，未听到前不知",
+            "focalizer": "v04c082_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁人预料追加必贵，未听到前不知"
+      },
+      {
+        "reference": "v04-c0082:p0031",
+        "length": 39,
+        "sha256": "cb7e0d92f0aa83134aeb078613a217dd94131414fa97e1faf09489916e85f302",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0031:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c082_nine_fingered_buyer",
+            "surface_identity": "灰袍木面、本名未知，照出九指及蓝断口",
+            "text_context": "同出价者实加定海珠，称天然极品秘宝",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "实际言语",
+            "embodiment": "宗师仍被珠压陷、伸手递交后即缩",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "同出价者实加定海珠，称天然极品秘宝",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0031:u002",
+            "start": 17,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "同出价者实加定海珠，称天然极品秘宝",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "同出价者实加定海珠，称天然极品秘宝",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "同出价者实加定海珠，称天然极品秘宝"
+      },
+      {
+        "reference": "v04-c0082:p0032",
+        "length": 39,
+        "sha256": "17bab8e3e1b58b8dc0db08d5bb07fc8a82ca1d3fead448e79fd3d606a3b9bc11",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0032:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟惊而内疑封神赵公明之珠",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "内心",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟惊而内疑封神赵公明之珠",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0032:u002",
+            "start": 7,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟惊而内疑封神赵公明之珠",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟惊而内疑封神赵公明之珠",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0032:u003",
+            "start": 18,
+            "end": 27,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟惊而内疑封神赵公明之珠",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "内心",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟惊而内疑封神赵公明之珠",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0032:u004",
+            "start": 27,
+            "end": 39,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟惊而内疑封神赵公明之珠",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "内心",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟惊而内疑封神赵公明之珠",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟惊而内疑封神赵公明之珠"
+      },
+      {
+        "reference": "v04-c0082:p0033",
+        "length": 9,
+        "sha256": "12896d16adecdc1a72ee5cd349c108f31e2b7d741cc11bc969b66b6ecc489bc3",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0033:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟继续以绝世神兵理解的初疑",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "内心",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟继续以绝世神兵理解的初疑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟继续以绝世神兵理解的初疑"
+      },
+      {
+        "reference": "v04-c0082:p0034",
+        "length": 40,
+        "sha256": "b5869e66fa88c03445121737506086c9531c256e19b6a1d343aa4613c4dfa25a",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0034:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言无我太乙身份只为叙述，他因了解封神而气息波",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言无我太乙身份只为叙述，他因了解封神而气息波",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言无我太乙身份只为叙述，他因了解封神而气息波"
+      },
+      {
+        "reference": "v04-c0082:p0035",
+        "length": 118,
+        "sha256": "a1c38edc87d8fc12a95f0e215ce0e9df31ffff6cf4ca8c65ff5aee1604db3a64",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0035:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "出价者实说这是东海所孕混沌异宝，可作神兵材料或短用秘宝",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "出价者实说这是东海所孕混沌异宝，可作神兵材料或短用秘宝",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0035:u002",
+            "start": 22,
+            "end": 118,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c082_nine_fingered_buyer",
+            "surface_identity": "灰袍木面、本名未知，照出九指及蓝断口",
+            "text_context": "出价者实说这是东海所孕混沌异宝，可作神兵材料或短用秘宝",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "实际言语",
+            "embodiment": "宗师仍被珠压陷、伸手递交后即缩",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "出价者实说这是东海所孕混沌异宝，可作神兵材料或短用秘宝",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "出价者实说这是东海所孕混沌异宝，可作神兵材料或短用秘宝"
+      },
+      {
+        "reference": "v04-c0082:p0036",
+        "length": 25,
+        "sha256": "4f3766be699d856d2f3497ce6b3dee3ebdbcb9f6d78ac42824095f6bf5a7a598",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0036:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c082_nine_fingered_buyer",
+            "surface_identity": "灰袍木面、本名未知，照出九指及蓝断口",
+            "text_context": "承前声说明未完全成形仅能用几次",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "实际言语",
+            "embodiment": "宗师仍被珠压陷、伸手递交后即缩",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "承前声说明未完全成形仅能用几次",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "承前声说明未完全成形仅能用几次"
+      },
+      {
+        "reference": "v04-c0082:p0037",
+        "length": 18,
+        "sha256": "4b137aeadcec00ccd3c1ee71dcc6f591dfa962739bb80dde2697bbb083bbc3d1",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0037:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "出价者未用，具体次数不清",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "出价者未用，具体次数不清",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "出价者未用，具体次数不清"
+      },
+      {
+        "reference": "v04-c0082:p0038",
+        "length": 81,
+        "sha256": "554e21339c8c97baf62baf82fa0ae16697ec65a0fbbc8275dc40c643b7ba1ff6",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0038:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁观者放弃竞价，归公共内心权衡",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "旁观者放弃竞价，归公共内心权衡",
+            "focalizer": "v04c082_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0038:u002",
+            "start": 39,
+            "end": 81,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁观者放弃竞价，归公共内心权衡",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "旁观者放弃竞价，归公共内心权衡",
+            "focalizer": "v04c082_auction_guests",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁观者放弃竞价，归公共内心权衡"
+      },
+      {
+        "reference": "v04-c0082:p0039",
+        "length": 150,
+        "sha256": "0d603e67e556fc313cd73fb8b851276e0e49556136959142d78b17f61325bb29",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0039:u001",
+            "start": 0,
+            "end": 150,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟满意，拟用于升炼或短作护身，本章未炼未用",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟满意，拟用于升炼或短作护身，本章未炼未用",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟满意，拟用于升炼或短作护身，本章未炼未用"
+      },
+      {
+        "reference": "v04-c0082:p0040",
+        "length": 23,
+        "sha256": "cc1dd37d49bc4424cef87b877030e85780e216c66ed5d92948dea4eb8edb9aea",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0040:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟问再价，克制语气",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟问再价，克制语气",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0040:u002",
+            "start": 13,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟问再价，克制语气",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟问再价，克制语气",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟问再价，克制语气"
+      },
+      {
+        "reference": "v04-c0082:p0041",
+        "length": 5,
+        "sha256": "aad4b3334e39e774d9d059aa26c2eba92a9139041cfd5b3040297f44349e076b",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0041:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟第二轮实倒数三",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟第二轮实倒数三",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟第二轮实倒数三"
+      },
+      {
+        "reference": "v04-c0082:p0042",
+        "length": 24,
+        "sha256": "9c9922b22a88c13d73fef2ab201a732ff1c4fad9f4267ec7330f51fdc42921f0",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0042:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典急吸气恶视",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典急吸气恶视",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典急吸气恶视"
+      },
+      {
+        "reference": "v04-c0082:p0043",
+        "length": 5,
+        "sha256": "64cbde48401c7c6b57e8125277e14a72581943a07d9e42d6e8c15e911519ef69",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0043:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟实倒数二",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟实倒数二",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实倒数二"
+      },
+      {
+        "reference": "v04-c0082:p0044",
+        "length": 18,
+        "sha256": "3565bdc626e761c7f8565b92916d7e0c092ace53ff05ef664684e351692fec90",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0044:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典复平，不再加",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "新竞价者亮定海珠规格",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典复平，不再加",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典复平，不再加"
+      },
+      {
+        "reference": "v04-c0082:p0045",
+        "length": 84,
+        "sha256": "f7f9fdfc902c3bf8246b2c37acbb3f2c6641156334e7051daf0646f06eca7f02",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0045:u001",
+            "start": 0,
+            "end": 84,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张端感药力温暖滋润，认为因人情才得",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "张端感药力温暖滋润，认为因人情才得",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张端感药力温暖滋润，认为因人情才得"
+      },
+      {
+        "reference": "v04-c0082:p0046",
+        "length": 11,
+        "sha256": "71703732ae04b00f526d0cebedbf92beea61169074c8c7ebf2f0017c91e52d3a",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0046:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "zhang_duan",
+            "surface_identity": "zhang_duan",
+            "text_context": "人情从何来为张心疑",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "人情从何来为张心疑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "人情从何来为张心疑"
+      },
+      {
+        "reference": "v04-c0082:p0047",
+        "length": 18,
+        "sha256": "f1ceef75228d5779e4b9e7dc88345de08b10b7cb4f75a69a9a04cd900952b71b",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0047:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟实数一并宣布成交",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "灰袍木面主持人改口音",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟实数一并宣布成交",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0047:u002",
+            "start": 7,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实数一并宣布成交",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟实数一并宣布成交",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实数一并宣布成交"
+      },
+      {
+        "reference": "v04-c0082:p0048",
+        "length": 52,
+        "sha256": "d7af804c2e241dba0117af044bf1038f1bd320f520dca2aad6526369c98a3359",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0048:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "胜者实际付十三材和蓝小针",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "胜者实际付十三材和蓝小针",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "胜者实际付十三材和蓝小针"
+      },
+      {
+        "reference": "v04-c0082:p0049",
+        "length": 44,
+        "sha256": "91e30b33931577ee6a648bd1d25d7a81268855344099fbe69541a0a621a0bbca",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0049:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "以黑盒持珠，虚空响缩",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "以黑盒持珠，虚空响缩",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "以黑盒持珠，虚空响缩"
+      },
+      {
+        "reference": "v04-c0082:p0050",
+        "length": 29,
+        "sha256": "996af61076a12b329f76b1486563650735738968f1af8dc81c8426517270febe",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0050:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "宗师双足压入甲板一寸才递到",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "宗师双足压入甲板一寸才递到",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "宗师双足压入甲板一寸才递到"
+      },
+      {
+        "reference": "v04-c0082:p0051",
+        "length": 56,
+        "sha256": "46e1876cc1b53a8da73961dc429c241f9882ab5d9225d122a452b87863840a99",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0051:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟借言暗助接，腕颤几乎落",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟借言暗助接，腕颤几乎落",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟借言暗助接，腕颤几乎落"
+      },
+      {
+        "reference": "v04-c0082:p0052",
+        "length": 47,
+        "sha256": "8fa29a5bd71c14eda6d5b1787b760fffce7576259aaf9a2fc51847ad4c8ce462",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0052:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟内估五六千斤且碍勾天地，自行开盒",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "内心",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟内估五六千斤且碍勾天地，自行开盒",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0052:u002",
+            "start": 32,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内估五六千斤且碍勾天地，自行开盒",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟内估五六千斤且碍勾天地，自行开盒",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内估五六千斤且碍勾天地，自行开盒"
+      },
+      {
+        "reference": "v04-c0082:p0053",
+        "length": 45,
+        "sha256": "fe7e12c9abd259e1ad6585b9f9e29599cd87ff37664ba7377136b722becaf917",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0053:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实见拇指大珠五色、内氤氲似一界",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "实见拇指大珠五色、内氤氲似一界",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实见拇指大珠五色、内氤氲似一界"
+      },
+      {
+        "reference": "v04-c0082:p0054",
+        "length": 62,
+        "sha256": "89efbb85be5afb66e195c61e2a52f7d60b55f6331d3f18fc2cd58614fe062deb",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0054:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "毫光照破双手秘术，见九指、蓝晶断口",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "毫光照破双手秘术，见九指、蓝晶断口",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "毫光照破双手秘术，见九指、蓝晶断口"
+      },
+      {
+        "reference": "v04-c0082:p0055",
+        "length": 39,
+        "sha256": "7133ec76ec6519b3d254845be391a421abb5a4a0f8990a52d2d8e4e03092baba",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0055:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "双手收回，另强者探身但未实名",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "双手收回，另强者探身但未实名",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "双手收回，另强者探身但未实名"
+      },
+      {
+        "reference": "v04-c0082:p0056",
+        "length": 51,
+        "sha256": "43d39530c2d56f4902040af6c3bc6831a27eebbcfd2452cd8ff45987312da411",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0056:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟略鉴为相似未成形宝物，实收珠并把第二粒交人",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "内心",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟略鉴为相似未成形宝物，实收珠并把第二粒交人",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0056:u002",
+            "start": 22,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟略鉴为相似未成形宝物，实收珠并把第二粒交人",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟略鉴为相似未成形宝物，实收珠并把第二粒交人",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟略鉴为相似未成形宝物，实收珠并把第二粒交人"
+      },
+      {
+        "reference": "v04-c0082:p0057",
+        "length": 29,
+        "sha256": "81bdbaad96a8a002b9f6a7e01be68405c4572c44834d6404e8570be2b114f4a2",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0057:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "九指真人不揭面，从口缝吞丹",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "成交验珠，九指一瞬",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "九指真人不揭面，从口缝吞丹",
+            "focalizer": "v04c082_nine_fingered_buyer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "九指真人不揭面，从口缝吞丹"
+      },
+      {
+        "reference": "v04-c0082:p0058",
+        "length": 61,
+        "sha256": "8c70f332d4fee32676b461876be880231b46d8eed9919ead458b1dcd49e54a20",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0058:u001",
+            "start": 0,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "后拍其余寿药，各有收获减少冒险",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "后拍其余寿药，各有收获减少冒险",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "后拍其余寿药，各有收获减少冒险"
+      },
+      {
+        "reference": "v04-c0082:p0059",
+        "length": 40,
+        "sha256": "0e5e2eb2d85d1ec901a424a7cb8884d2fcaeb9a49152abcc1e025414a70c7e48",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0059:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "张等实际相继辞离",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "张等实际相继辞离",
+            "focalizer": "zhang_duan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "张等实际相继辞离"
+      },
+      {
+        "reference": "v04-c0082:p0060",
+        "length": 14,
+        "sha256": "bea184083f33c15249e7906d53786b373c1e064220f50ba9a343bce292d55cea",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0060:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仅孟与言留下",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "仅孟与言留下",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仅孟与言留下"
+      },
+      {
+        "reference": "v04-c0082:p0061",
+        "length": 25,
+        "sha256": "de155450428361a36884bec49273a1990f9a149f6ea0081170f83b413c9096ed",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0061:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wuwo",
+            "surface_identity": "言无我，仙迹号太乙真人",
+            "text_context": "言秘密传音说回去再给报酬，未实支付",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "言无我秘密传音报酬",
+            "embodiment": "封神联想先动气息、随后暗助",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言秘密传音说回去再给报酬，未实支付",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0061:u002",
+            "start": 12,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言秘密传音说回去再给报酬，未实支付",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言秘密传音说回去再给报酬，未实支付",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言秘密传音说回去再给报酬，未实支付"
+      },
+      {
+        "reference": "v04-c0082:p0062",
+        "length": 23,
+        "sha256": "8cb8dd679f56cee832132afcb0a94a6cb511bb2a9de0d28fbd9ceeebf21a4932",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0062:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟立报酬规矩为背景",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟立报酬规矩为背景",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟立报酬规矩为背景"
+      },
+      {
+        "reference": "v04-c0082:p0063",
+        "length": 48,
+        "sha256": "ff21957937cea36f608d0d0c1045431949ff12600c7917b195f178ba511242df",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0063:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言现场告阮三先前私传问买主，不配阮现场话",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言现场告阮三先前私传问买主，不配阮现场话",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0063:u002",
+            "start": 20,
+            "end": 48,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wuwo",
+            "surface_identity": "言无我，仙迹号太乙真人",
+            "text_context": "言现场告阮三先前私传问买主，不配阮现场话",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "实际言语",
+            "embodiment": "封神联想先动气息、随后暗助",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言现场告阮三先前私传问买主，不配阮现场话",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言现场告阮三先前私传问买主，不配阮现场话"
+      },
+      {
+        "reference": "v04-c0082:p0064",
+        "length": 38,
+        "sha256": "8dfeb3d4f854384df6e9aa46959024733c002f5b4d25aa54e047dd4c6207dad6",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0064:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟疑阮家不缺寿丹，前问媒介未明",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "实际言语",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟疑阮家不缺寿丹，前问媒介未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0064:u002",
+            "start": 6,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟疑阮家不缺寿丹，前问媒介未明",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟疑阮家不缺寿丹，前问媒介未明",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0064:u003",
+            "start": 13,
+            "end": 38,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟疑阮家不缺寿丹，前问媒介未明",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "内心",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟疑阮家不缺寿丹，前问媒介未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟疑阮家不缺寿丹，前问媒介未明"
+      },
+      {
+        "reference": "v04-c0082:p0065",
+        "length": 19,
+        "sha256": "d3920ddba60c1301c8b06f3ca31f24a470210808cc19442abe9040f63e34f196",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0065:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wuwo",
+            "surface_identity": "言无我，仙迹号太乙真人",
+            "text_context": "言实际说阮三态度异常",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "实际言语",
+            "embodiment": "封神联想先动气息、随后暗助",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言实际说阮三态度异常",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0065:u002",
+            "start": 14,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言实际说阮三态度异常",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言实际说阮三态度异常",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言实际说阮三态度异常"
+      },
+      {
+        "reference": "v04-c0082:p0066",
+        "length": 27,
+        "sha256": "92722cf9d598fe3e5fbda0089ed0061a8c46af6a52f9bf0d344911bde81d3163",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0066:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实问言认得九指否",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟实问言认得九指否",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0066:u002",
+            "start": 7,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟实问言认得九指否",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "实际言语",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟实问言认得九指否",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实问言认得九指否"
+      },
+      {
+        "reference": "v04-c0082:p0067",
+        "length": 104,
+        "sha256": "c3e3b774ac3aa3ef5d2a256eaa42c8da7e47d7b59e03952cd70f9c953b4621ec",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0067:u001",
+            "start": 0,
+            "end": 104,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "一次性袍面花4000善功拟从万象门利润扣；九指例外",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "一次性袍面花4000善功拟从万象门利润扣；九指例外",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "一次性袍面花4000善功拟从万象门利润扣；九指例外"
+      },
+      {
+        "reference": "v04-c0082:p0068",
+        "length": 53,
+        "sha256": "0c563a92bf073cf9bc1d01d01f710d5c727d46005bc5c87d268bbc8d9e95c9a7",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0068:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "yan_wuwo",
+            "surface_identity": "言无我，仙迹号太乙真人",
+            "text_context": "言实说持东海三仙岛请帖却非岛外景，私下交易是猜",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "实际言语",
+            "embodiment": "封神联想先动气息、随后暗助",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言实说持东海三仙岛请帖却非岛外景，私下交易是猜",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0068:u002",
+            "start": 46,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "言实说持东海三仙岛请帖却非岛外景，私下交易是猜",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "言实说持东海三仙岛请帖却非岛外景，私下交易是猜",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "言实说持东海三仙岛请帖却非岛外景，私下交易是猜"
+      },
+      {
+        "reference": "v04-c0082:p0069",
+        "length": 16,
+        "sha256": "6e4b27c02838319c078e9bd86d0ace7ee7d7d40c694e336c651e997e8a1ae630",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0069:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟推知言也不识九指",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "内心",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟推知言也不识九指",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟推知言也不识九指"
+      },
+      {
+        "reference": "v04-c0082:p0070",
+        "length": 26,
+        "sha256": "0ae1158e3e57905754f578036cf7079aafef356a20d08028dd2ac0a21b0f1a6f",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0070:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟言迅即各走一向",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "余丹结束，阮询买主，孟言分别",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟言迅即各走一向",
+            "focalizer": "yan_wuwo",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟言迅即各走一向"
+      },
+      {
+        "reference": "v04-c0082:p0071",
+        "length": 41,
+        "sha256": "2d49ca884a11c3c101807ec7ba3126478259c4324b4ecee6ac85a13ae5ec3542",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0071:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典实由海面现黑影",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典实由海面现黑影",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典实由海面现黑影"
+      },
+      {
+        "reference": "v04-c0082:p0072",
+        "length": 22,
+        "sha256": "ff0db63d5ecb440906c98926d941e3a1614dd400225c511eeaf62460e241d975",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0072:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典转看孟去处，冷酷内想",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典转看孟去处，冷酷内想",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典转看孟去处，冷酷内想"
+      },
+      {
+        "reference": "v04-c0082:p0073",
+        "length": 25,
+        "sha256": "88d50b77fa6d975332f1dae0823662604a7bfc2fc955df6bbd5949517c981a0b",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0073:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "奉典神使，拍后潜海跟去",
+            "text_context": "奉典明确心图查延寿药来源",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "内心",
+            "embodiment": "呼吸急并恶视，后冷静与惊诧",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典明确心图查延寿药来源",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典明确心图查延寿药来源"
+      },
+      {
+        "reference": "v04-c0082:p0074",
+        "length": 19,
+        "sha256": "79519959a4aedc3cbfd13012890c7a4b1e97112064d3b8436c89fe83e166d090",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0074:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "奉典神使，拍后潜海跟去",
+            "text_context": "暗锁是奉典所声称，仍失目标",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "内心",
+            "embodiment": "呼吸急并恶视，后冷静与惊诧",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "暗锁是奉典所声称，仍失目标",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "暗锁是奉典所声称，仍失目标"
+      },
+      {
+        "reference": "v04-c0082:p0075",
+        "length": 16,
+        "sha256": "d672e9ad94d18561d18495d8bccf80263981d187487057d3a5c00a7ef891d24d",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0075:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "奉典实隐身飞遁跟去",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典实隐身飞遁跟去",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典实隐身飞遁跟去"
+      },
+      {
+        "reference": "v04-c0082:p0076",
+        "length": 19,
+        "sha256": "fc06d8cc6c74b9832c1572161817a8a0903ea7ae4739fdbc0284d4aa9a731944",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0076:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "其他数强者亦想类似，未交手",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "其他数强者亦想类似，未交手",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "其他数强者亦想类似，未交手"
+      },
+      {
+        "reference": "v04-c0082:p0077",
+        "length": 26,
+        "sha256": "afdc8e6300350d885fc766b23120525bae54ffbb0c80ed3611816abee07f167e",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0077:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "飞一段奉典愣，内情惊异",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "飞一段奉典愣，内情惊异",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "飞一段奉典愣，内情惊异"
+      },
+      {
+        "reference": "v04-c0082:p0078",
+        "length": 6,
+        "sha256": "09705b6d693ffb51987c4f5216808f8778ada6fe7bad95bd935a97df38382295",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0078:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "奉典神使，拍后潜海跟去",
+            "text_context": "奉典惊疑消失，是否出声未标",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "奉典惊疑，是否出声未标",
+            "embodiment": "呼吸急并恶视，后冷静与惊诧",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典惊疑消失，是否出声未标",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典惊疑消失，是否出声未标"
+      },
+      {
+        "reference": "v04-c0082:p0079",
+        "length": 9,
+        "sha256": "ba2e01f2a2e4d0dea0d6c66c23a1eb533039f8bee554ed2f53d461fcfbfa00c6",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0079:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "奉典神使，拍后潜海跟去",
+            "text_context": "奉典再惊，是否出声未标",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "奉典惊疑，是否出声未标",
+            "embodiment": "呼吸急并恶视，后冷静与惊诧",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典再惊，是否出声未标",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典再惊，是否出声未标"
+      },
+      {
+        "reference": "v04-c0082:p0080",
+        "length": 22,
+        "sha256": "2b3938d7d45b9c2b527499452c4586b54a1e0421357dfbfa305babb4b01c2467",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0080:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "秘法自觉锁定仍失孟去向",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "秘法自觉锁定仍失孟去向",
+            "focalizer": "v04c081_fengdian_divine_envoy",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "秘法自觉锁定仍失孟去向"
+      },
+      {
+        "reference": "v04-c0082:p0081",
+        "length": 10,
+        "sha256": "a3c991169a3b6b8e69c38151fa93ce24e5f7d2cf77d80a9733a4c6ac4d2d6fbc",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0081:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "v04c081_fengdian_divine_envoy",
+            "surface_identity": "奉典神使，拍后潜海跟去",
+            "text_context": "奉典内感不可信",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "内心",
+            "embodiment": "呼吸急并恶视，后冷静与惊诧",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "奉典内感不可信",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "奉典内感不可信"
+      },
+      {
+        "reference": "v04-c0082:p0082",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0082:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "画面分隔",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "画面分隔",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "画面分隔"
+      },
+      {
+        "reference": "v04-c0082:p0083",
+        "length": 15,
+        "sha256": "6211d0cb7a90070f4704be89b76665b4c2a8c1ff2c0b864aaf61df46f2805da2",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0083:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "切青山小径古刹，去寺途径未演",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "切青山小径古刹，去寺途径未演",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "切青山小径古刹，去寺途径未演"
+      },
+      {
+        "reference": "v04-c0082:p0084",
+        "length": 28,
+        "sha256": "a6b4f2289225f49db08275574aaafb02ac84635743daadeb4abb103af081cdb0",
+        "units": [
+          {
+            "unit_id": "v04-c0082:p0084:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟合十实请再悟，已在兰柯景，未见实际开始参悟",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟合十实请再悟，已在兰柯景，未见实际开始参悟",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0082:p0084:u002",
+            "start": 12,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "灰袍木面主持，后赴兰柯",
+            "text_context": "孟合十实请再悟，已在兰柯景，未见实际开始参悟",
+            "world_context": "第四卷：望潮石第二丹竞成、九指露迹、奉典失踪于追后、兰柯重现",
+            "stage_context": "奉典跟丢与孟在兰柯",
+            "channel": "实际言语",
+            "embodiment": "倒数稳场，借力接珠而手腕颤，后合十",
+            "vow_friendship_and_loot_boundary": "第二丹已成交并吞，十三材、蓝针及珠归孟。无人识买主本名。奉典锁定失效；切兰柯处孟仅请求参悟。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "竞价所称东海珠与赵公明神兵是两层；孟五六千斤只估，未修旗，也未用珠。阮三询问经言转述。",
+            "knowledge_boundary": "孟合十实请再悟，已在兰柯景，未见实际开始参悟",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟合十实请再悟，已在兰柯景，未见实际开始参悟"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0082",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S11",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 20,
+        "label": "季飞鸿的报价与奉典加镜",
+        "direction": "先明确季的身份只由孟和言掌握，身体初衰令他不惜落月棍。奉典加镜后舱内静下来，孟心中估值和人情成本有别于当场主持声。 证据 v04-c0082:p0001–p0020。"
+      },
+      {
+        "paragraph_start": 21,
+        "paragraph_end": 44,
+        "label": "临落槌被打断，另客报定海珠",
+        "direction": "第一轮按一、二留白，奉典正欲等三，灰袍客突然打断。针与材料说完再停，珠名唤起孟和言的封神联想，随后用对方解释落回东海物。第二轮按章内三、二顺序，奉典复归沉默。 证据 v04-c0082:p0021–p0044。"
+      },
+      {
+        "paragraph_start": 45,
+        "paragraph_end": 57,
+        "label": "成交接珠，毫光照出九指",
+        "direction": "穿插张端感药力潺暖，接孟数一宣布成交。珠盒令宗师压陷木板，孟借暗力仍颤腕。开盒时一闪五色，九指和幽蓝断口只给短特写；另一人探身不点名。买家戴面吞丹。 证据 v04-c0082:p0045–p0057。"
+      },
+      {
+        "paragraph_start": 58,
+        "paragraph_end": 70,
+        "label": "散场仅余二人，言告阮三问过",
+        "direction": "交代余丹令诸客不必抢险，快速散尽后转言私传报酬。再由言转述阮承德问话，九指请帖属三仙岛而本人非该岛外景；二人无答案，各散一向。 证据 v04-c0082:p0058–p0070。"
+      },
+      {
+        "paragraph_start": 71,
+        "paragraph_end": 84,
+        "label": "奉典潜追落空，切兰柯寺",
+        "direction": "黑影出水，暗锁的把握只在奉典心里。飞行后由惊疑复念强调他失去目标。分隔径切古刹青山，在孟合十请参悟处收尾，省略走法和真正开始参悟。 证据 v04-c0082:p0071–p0084。"
+      }
+    ],
+    "knowledge_rule": "季飞鸿是上章出落月棍者，与随后九指买家分开。出价物为东海天然异宝；孟先联赵公明后验为类似未成物。到兰柯路径省略。"
+  }
 }
