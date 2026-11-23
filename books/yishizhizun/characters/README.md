@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [两客入殿，守殿一脉迁址](early-v04-Demon-hall-opens-for-two-and-watchers-move.md) | 第四卷第91章历史归属回补 |
+| [玉虚余孽只是一句漏入耳的片语](early-v04-Yuxu-fragment-heard-by-the-red-robed-disciple.md) | 第四卷第91章历史归属回补 |
+| [白松指出唐楚之间的附属小国](early-v04-Bai-Song-proposes-the-small-states.md) | 第四卷第91章历史归属回补 |
 | [仿山河图拘八人，出图后迷神钟响一次](early-v04-Replica-scroll-captures-eight-and-bell-is-rung.md) | 第四卷第90章历史归属回补 |
 | [阮举塔护众，江破阵提走褐袍](early-v04-Ruan-pagoda-and-Jiang-takes-the-captive.md) | 第四卷第90章历史归属回补 |
 | [心印所得画面里，小狐狸到妖皇殿](early-v04-Little-fox-seen-in-demon-hall-memory.md) | 第四卷第90章历史归属回补 |
