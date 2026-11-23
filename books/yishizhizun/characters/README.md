@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐展仿杏黄旗削首箭，江敲落魂钟乱次箭](early-v04-Qi-flag-and-Jiang-bell-against-two-arrows.md) | 第四卷第97章历史归属回补 |
+| [宫中弓手明为金光洞宗师，追令更急](early-v04-Jinguang-cave-master-orders-search.md) | 第四卷第97章历史归属回补 |
+| [孟左臂在厨房再生，墨者掩护孟齐](early-v04-Meng-regrows-arm-and-a-Mohist-shelters-two.md) | 第四卷第97章历史归属回补 |
 | [公羊薄回报洞中改口，原因仍不明](early-v04-Gongyang-Bo-returns-with-Jinguang-cave-decision.md) | 第四卷第96章历史归属回补 |
 | [公羊增想保新政而换主导者](early-v04-Gongyang-Zeng-aims-to-retain-the-reforms.md) | 第四卷第96章历史归属回补 |
 | [田括手势示警，五人三路遁去](early-v04-Tian-Kuo-signals-danger-and-three-lights-flee.md) | 第四卷第96章历史归属回补 |
