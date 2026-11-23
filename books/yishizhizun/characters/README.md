@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [逐客令落到赵府，留者不必同行](early-v04-Bole-expulsion-and-Mohist-membership-terms.md) | 第四卷第89章历史归属回补 |
+| [墨书暗传，三位外景随五人离博乐](early-v04-Mohist-manual-shared-and-eight-leave-Bole.md) | 第四卷第89章历史归属回补 |
+| [褐袍与赤袍两人异术追上，画卷代天地](early-v04-Far-sight-and-hearing-track-the-Mohists.md) | 第四卷第89章历史归属回补 |
 | [曹和参加夜讲并发现周辛也在](early-v04-Cao-He-hears-Mohist-lectures-and-meets-Zhou-Xin.md) | 第四卷第88章历史归属回补 |
 | [孟奇解释非攻并提出一统设想](early-v04-Meng-defends-non-aggression-and-proposes-unification.md) | 第四卷第88章历史归属回补 |
 | [姬武命逐客，令暗中求小乾洞](early-v04-Ji-Wu-orders-departure-and-contacts-Xiaoqian-Cave.md) | 第四卷第88章历史归属回补 |
