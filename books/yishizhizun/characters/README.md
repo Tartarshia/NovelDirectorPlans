@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [赵谦维持阵心，孟奇感到异来力量](early-v04-Zhao-Qian-ritual-and-descending-force.md) | 第四卷第66章历史归属回补 |
+| [孟奇化鹰叼菩提，云鹤接应飞离](early-v04-Meng-intercepts-Bodhi-and-Yunhe-covers-the-flight.md) | 第四卷第66章历史归属回补 |
+| [净土止虚渡，孟奇持树落到真慧眼前](early-v04-Buddhaland-blocks-flight-Meng-lands-before-Zhen-Hui.md) | 第四卷第66章历史归属回补 |
 | [韩广、太离重伤脱阵](early-v04-Han-Guang-and-Tai-Li-escape-the-sword-array.md) | 第四卷第65章历史归属回补 |
 | [白虎舍掌，夔牛硬受剑雷遁](early-v04-White-Tiger-loses-a-paw-and-Kuiniu-escapes.md) | 第四卷第65章历史归属回补 |
 | [赵谦发愿，鱼海闻声，菩提飞远](early-v04-Zhao-Qian-vow-heard-at-Fish-Sea-and-Bodhi-flies.md) | 第四卷第65章历史归属回补 |
