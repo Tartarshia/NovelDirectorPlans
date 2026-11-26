@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [夜入祝家祖宅，百花称由云九安排](early-v04-Zhu-house-refuge-and-the-Yun-succession.md) | 第四卷第113章历史归属回补 |
+| [乌横剑自称，百花婴宁分别转报死因线索](early-v04-Wu-Hengjian-name-and-the-Yun-death-allegation.md) | 第四卷第113章历史归属回补 |
+| [雨中乌横剑看到撑伞青袍人](early-v04-Wu-Hengjian-sees-a-figure-in-the-rain.md) | 第四卷第113章历史归属回补 |
 | [百花与婴宁先相视，后在静室报姓名](early-v04-Ying-Ning-named-and-Baihua-asks-a-favor.md) | 第四卷第112章历史归属回补 |
 | [云老被报寿尽，孟奇记得延寿丹](early-v04-Yun-family-death-report-and-the-longevity-pills.md) | 第四卷第112章历史归属回补 |
 | [百花说追魂请令狐留意携魔功的出逃者](early-v04-Baihua-relates-Mo-Tianges-search-and-Yun-Seventh.md) | 第四卷第112章历史归属回补 |
