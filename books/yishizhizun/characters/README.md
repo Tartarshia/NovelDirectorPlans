@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [潜离岛万手是真使者，孟扮法证大师](early-v04-Wan-Shou-introduces-the-monk-cover-Fazheng.md) | 第四卷第115章历史归属回补 |
+| [沾因果确认云老已死，死因尚未读出](early-v04-Yun-elder-confirmed-dead-by-causal-lines.md) | 第四卷第115章历史归属回补 |
+| [剑庄到灵堂，何九觉熟悉，黄太冲欲暗探](early-v04-He-Jiu-and-Huang-sense-the-funeral-monk.md) | 第四卷第115章历史归属回补 |
 | [乌先历缓慢幻觉，再受第二掌，以魔痕逃生](early-v04-Rain-street-two-palms-and-Wus-dark-mark.md) | 第四卷第114章历史归属回补 |
 | [乌登东海剑庄船，何九问遇袭与三名知情人](early-v04-He-Jiu-questions-Wu-aboard-the-sword-estate-ship.md) | 第四卷第114章历史归属回补 |
 | [岸上孟觉魔痕与魔主相似，来源未定](early-v04-Meng-links-dark-mark-to-the-demon-master.md) | 第四卷第114章历史归属回补 |

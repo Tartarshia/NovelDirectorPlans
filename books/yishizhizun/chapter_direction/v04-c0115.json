@@ -61,7 +61,2663 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0283"
+  "reading_batch": "batch-0283",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0115",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0115.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0115:p0001",
+        "length": 23,
+        "sha256": "e29752f39ef8060fea605f5d936d311e334dcb66377ce8b5cc9cebae0ac8a1a8",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0001:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花携婴宁在祝府后园再见孟",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花携婴宁在祝府后园再见孟",
+            "focalizer": "ying_ning",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花携婴宁在祝府后园再见孟"
+      },
+      {
+        "reference": "v04-c0115:p0002",
+        "length": 46,
+        "sha256": "ef0f5cc85172777a5013e9934c646a829d2a7c43bd66cee3937da1f0be52b9cc",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0002:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花实称乌侥幸得脱，婴宁具钦佩状",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花实称乌侥幸得脱，婴宁具钦佩状",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0002:u002",
+            "start": 22,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花实称乌侥幸得脱，婴宁具钦佩状",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花实称乌侥幸得脱，婴宁具钦佩状",
+            "focalizer": "ying_ning",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花实称乌侥幸得脱，婴宁具钦佩状"
+      },
+      {
+        "reference": "v04-c0115:p0003",
+        "length": 29,
+        "sha256": "55551f40822cd45d422856a7b357a0b255da057460bd24597e31a5fbb63d7a08",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0003:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟表面不在意，口问乌如何传播与去向",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟表面不在意，口问乌如何传播与去向",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0003:u002",
+            "start": 10,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟表面不在意，口问乌如何传播与去向",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟表面不在意，口问乌如何传播与去向",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0003:u003",
+            "start": 20,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟表面不在意，口问乌如何传播与去向",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟表面不在意，口问乌如何传播与去向",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟表面不在意，口问乌如何传播与去向"
+      },
+      {
+        "reference": "v04-c0115:p0004",
+        "length": 22,
+        "sha256": "1a4d5786dc000a44bdb7aa3460112bc15422ba52aced5834ab7dc9a00831efe6",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0004:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟内确实想找乌，缘由是魔痕",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内确实想找乌，缘由是魔痕",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内确实想找乌，缘由是魔痕"
+      },
+      {
+        "reference": "v04-c0115:p0005",
+        "length": 110,
+        "sha256": "b1fd3de90e375a5670a119ba7746578b472a70e58db66afabf9a1d6638703102",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0005:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花称乌传云十三、云七并说去向连二人也不知，非孟亲见",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花称乌传云十三、云七并说去向连二人也不知，非孟亲见",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0005:u002",
+            "start": 45,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花称乌传云十三、云七并说去向连二人也不知，非孟亲见",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花称乌传云十三、云七并说去向连二人也不知，非孟亲见",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0005:u003",
+            "start": 54,
+            "end": 110,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花称乌传云十三、云七并说去向连二人也不知，非孟亲见",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花称乌传云十三、云七并说去向连二人也不知，非孟亲见",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花称乌传云十三、云七并说去向连二人也不知，非孟亲见"
+      },
+      {
+        "reference": "v04-c0115:p0006",
+        "length": 50,
+        "sha256": "32600330bd34803e6cb4edacf914a2186f548796d466bfd93beeb76061f87b4c",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0006:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟不再追问，转问来意",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟不再追问，转问来意",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0006:u002",
+            "start": 22,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟不再追问，转问来意",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟不再追问，转问来意",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟不再追问，转问来意"
+      },
+      {
+        "reference": "v04-c0115:p0007",
+        "length": 99,
+        "sha256": "dce8bf22fdf3a257d5730b629a5c9ead9f7765657acea68e33eb53c834e79753",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0007:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花实际请确认寿终正寝一说",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花实际请确认寿终正寝一说",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0007:u002",
+            "start": 18,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花实际请确认寿终正寝一说",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花实际请确认寿终正寝一说",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0007:u003",
+            "start": 34,
+            "end": 99,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花实际请确认寿终正寝一说",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花实际请确认寿终正寝一说",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花实际请确认寿终正寝一说"
+      },
+      {
+        "reference": "v04-c0115:p0008",
+        "length": 45,
+        "sha256": "3828252817f3b0ac143c8a7e23ab293883861bdcc4b6502ae3e10c08121b23bd",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0008:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述他们担心云老假死清除家族隐患，故须查",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "旁述他们担心云老假死清除家族隐患，故须查",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述他们担心云老假死清除家族隐患，故须查"
+      },
+      {
+        "reference": "v04-c0115:p0009",
+        "length": 69,
+        "sha256": "26601822504839c2002eecb6699982899b93e323b5c9054cb191255e3863b14c",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0009:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟当面反问嫡脉可自查",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟当面反问嫡脉可自查",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0009:u002",
+            "start": 10,
+            "end": 38,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟当面反问嫡脉可自查",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟当面反问嫡脉可自查",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0009:u003",
+            "start": 38,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟当面反问嫡脉可自查",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟当面反问嫡脉可自查",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟当面反问嫡脉可自查"
+      },
+      {
+        "reference": "v04-c0115:p0010",
+        "length": 42,
+        "sha256": "b54dab9a9bcc45c9eaffd179416fc4a5173a4e007e5b08b66305c8dd2b06a8f3",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0010:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁叙尚未下葬，各嫡脉轮守灵堂",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "旁叙尚未下葬，各嫡脉轮守灵堂",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁叙尚未下葬，各嫡脉轮守灵堂"
+      },
+      {
+        "reference": "v04-c0115:p0011",
+        "length": 124,
+        "sha256": "19368d306200c59268305dfbf73d8b0b840cb4ce76d06599b6d3a96bdf05632b",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0011:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花说云九试过未确，点真毒手当年善夺命魔功",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花说云九试过未确，点真毒手当年善夺命魔功",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0011:u002",
+            "start": 62,
+            "end": 100,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花说云九试过未确，点真毒手当年善夺命魔功",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花说云九试过未确，点真毒手当年善夺命魔功",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0011:u003",
+            "start": 100,
+            "end": 109,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花说云九试过未确，点真毒手当年善夺命魔功",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花说云九试过未确，点真毒手当年善夺命魔功",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0011:u004",
+            "start": 109,
+            "end": 124,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花说云九试过未确，点真毒手当年善夺命魔功",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花说云九试过未确，点真毒手当年善夺命魔功",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花说云九试过未确，点真毒手当年善夺命魔功"
+      },
+      {
+        "reference": "v04-c0115:p0012",
+        "length": 72,
+        "sha256": "be71b1da292de76ebc79d319279b6a46d87ab852e43bed89fae9bde12318ce92",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0012:u001",
+            "start": 0,
+            "end": 72,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "成名武功可被人知，但此时是孟假扮",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "成名武功可被人知，但此时是孟假扮",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "成名武功可被人知，但此时是孟假扮"
+      },
+      {
+        "reference": "v04-c0115:p0013",
+        "length": 62,
+        "sha256": "ebf395ac49b29abb11adc49ace22a462de541474961c7a17bff7da4fb5b4085f",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0013:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟当然不会夺命魔功，仍口头应随去看看",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟当然不会夺命魔功，仍口头应随去看看",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0013:u002",
+            "start": 51,
+            "end": 62,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟当然不会夺命魔功，仍口头应随去看看",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟当然不会夺命魔功，仍口头应随去看看",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟当然不会夺命魔功，仍口头应随去看看"
+      },
+      {
+        "reference": "v04-c0115:p0014",
+        "length": 47,
+        "sha256": "083342e745ea38f61b62fc80fa7e61c322837301daac880a318179b063bb7f7a",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0014:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟当场提醒不得借机造成真死",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟当场提醒不得借机造成真死",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0014:u002",
+            "start": 18,
+            "end": 47,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟当场提醒不得借机造成真死",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟当场提醒不得借机造成真死",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟当场提醒不得借机造成真死"
+      },
+      {
+        "reference": "v04-c0115:p0015",
+        "length": 39,
+        "sha256": "5502ed6955a51434f33271772501d82538690a3a27e194d690f9a14770698af3",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0015:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花口问，目闪，婴宁低眼不语",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花口问，目闪，婴宁低眼不语",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0015:u002",
+            "start": 9,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花口问，目闪，婴宁低眼不语",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花口问，目闪，婴宁低眼不语",
+            "focalizer": "ying_ning",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花口问，目闪，婴宁低眼不语"
+      },
+      {
+        "reference": "v04-c0115:p0016",
+        "length": 60,
+        "sha256": "438746d4d42588cf9aa92f7c6152fb1489fd044cb44f75691c9580876a8169e3",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0016:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟指出若真死无益，假死则难对付",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟指出若真死无益，假死则难对付",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0016:u002",
+            "start": 49,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟指出若真死无益，假死则难对付",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟指出若真死无益，假死则难对付",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟指出若真死无益，假死则难对付"
+      },
+      {
+        "reference": "v04-c0115:p0017",
+        "length": 40,
+        "sha256": "0bbf51dd5c6516ca7f288faf965e6ff2a2f2a9e8da8b08da0196da49e5fe30a5",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0017:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花说自家小门小户无神兵和半步法身，系她自述",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花说自家小门小户无神兵和半步法身，系她自述",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0017:u002",
+            "start": 9,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花说自家小门小户无神兵和半步法身，系她自述",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花说自家小门小户无神兵和半步法身，系她自述",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花说自家小门小户无神兵和半步法身，系她自述"
+      },
+      {
+        "reference": "v04-c0115:p0018",
+        "length": 8,
+        "sha256": "fa7963d68aed39d049318582ab98740c1b534c3ae7e91530ebb068406c01c82a",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0018:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "她笑勉强",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "她笑勉强",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "她笑勉强"
+      },
+      {
+        "reference": "v04-c0115:p0019",
+        "length": 48,
+        "sha256": "6a10c993b437c0db9d4bf135de96ef75143ba1ba30dfb7238484f42e72f1eb63",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0019:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟按角色口吻说风险大便抽身",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟按角色口吻说风险大便抽身",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0019:u002",
+            "start": 39,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟按角色口吻说风险大便抽身",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟按角色口吻说风险大便抽身",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟按角色口吻说风险大便抽身"
+      },
+      {
+        "reference": "v04-c0115:p0020",
+        "length": 30,
+        "sha256": "f4e46ec3d1d1d40626b8405edae7c0648f102f39d6ab7701720c3f6737a2a599",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0020:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "ying_ning",
+            "surface_identity": "ying_ning",
+            "text_context": "婴宁实际应前辈放心，显失落",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "婴宁实际应前辈放心，显失落",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0020:u002",
+            "start": 7,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "婴宁实际应前辈放心，显失落",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "祝府受托确认云老生死",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "婴宁实际应前辈放心，显失落",
+            "focalizer": "ying_ning",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "婴宁实际应前辈放心，显失落"
+      },
+      {
+        "reference": "v04-c0115:p0021",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0021:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原省略号换场",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "原省略号换场",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原省略号换场"
+      },
+      {
+        "reference": "v04-c0115:p0022",
+        "length": 3,
+        "sha256": "01cb3b1718d0da77cb0b8457a0422958db79ebca2b716253aff34db0861adaea",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0022:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云家地点",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云家地点",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云家地点"
+      },
+      {
+        "reference": "v04-c0115:p0023",
+        "length": 33,
+        "sha256": "97b43975db199d6ebda34486510d9f1649f33ae36bbc24c513f54ecbe1e2e41f",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0023:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实扮和尚，扯僧袍想旧扮相",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟实扮和尚，扯僧袍想旧扮相",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实扮和尚，扯僧袍想旧扮相"
+      },
+      {
+        "reference": "v04-c0115:p0024",
+        "length": 94,
+        "sha256": "78b51e9af92530eb68071a9ce7ad7ff31611e262e574254ac258f18244860059",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0024:u001",
+            "start": 0,
+            "end": 94,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "三人扮潜离岛来使一行，光明入门，非云九带潜入",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "三人扮潜离岛来使一行，光明入门，非云九带潜入",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "三人扮潜离岛来使一行，光明入门，非云九带潜入"
+      },
+      {
+        "reference": "v04-c0115:p0025",
+        "length": 91,
+        "sha256": "90f21340ced122d6fe8c55c41133a3fd0f22759a1ad6d2d88e830ca32090bd07",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0025:u001",
+            "start": 0,
+            "end": 91,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "管事前的万手实为潜离岛真使者，与千臂同为绝顶护法",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "管事前的万手实为潜离岛真使者，与千臂同为绝顶护法",
+            "focalizer": "wan_shou",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "管事前的万手实为潜离岛真使者，与千臂同为绝顶护法"
+      },
+      {
+        "reference": "v04-c0115:p0026",
+        "length": 38,
+        "sha256": "d91bd8f1b3566abbd9d8883c2543ad516854e55253fc1f65635790f21005ce30",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0026:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "万手及百花婴宁相熟，岛与素女道关联只是孟推",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "万手及百花婴宁相熟，岛与素女道关联只是孟推",
+            "focalizer": "wan_shou",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "万手及百花婴宁相熟，岛与素女道关联只是孟推"
+      },
+      {
+        "reference": "v04-c0115:p0027",
+        "length": 89,
+        "sha256": "091ece9d369c156969bda321e56cf85f678195718032be13c25cf0dbbfdf37c1",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0027:u001",
+            "start": 0,
+            "end": 89,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花婴宁扮随从，孟作挂单擅超度僧人",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花婴宁扮随从，孟作挂单擅超度僧人",
+            "focalizer": "ying_ning",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花婴宁扮随从，孟作挂单擅超度僧人"
+      },
+      {
+        "reference": "v04-c0115:p0028",
+        "length": 33,
+        "sha256": "b31fd93fbb1f919dec3852b905e4083107ac46ac82c17b0d3eaf6eb06929f3ff",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0028:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "这身份可获接近灵堂的机会，今日云九轮守",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "这身份可获接近灵堂的机会，今日云九轮守",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "这身份可获接近灵堂的机会，今日云九轮守"
+      },
+      {
+        "reference": "v04-c0115:p0029",
+        "length": 55,
+        "sha256": "32c7be9daa054ffe8bebc48ea73bffc98debd51f236151ee597664993c67c618",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0029:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "明黄袍红袈裟及隐匿毒手气息",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "明黄袍红袈裟及隐匿毒手气息",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "明黄袍红袈裟及隐匿毒手气息"
+      },
+      {
+        "reference": "v04-c0115:p0030",
+        "length": 53,
+        "sha256": "fa91d3121b1b454ac24f8de1b957770c45de56f2438d2fdcc94bbe054c98d016",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0030:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "本次普通乔装，不用八九变化，防被联想",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "本次普通乔装，不用八九变化，防被联想",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "本次普通乔装，不用八九变化，防被联想"
+      },
+      {
+        "reference": "v04-c0115:p0031",
+        "length": 32,
+        "sha256": "fef2611c6b4b6b384eaa10a0bbef6276482ac800f744dfac877a33faf2fb80d1",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0031:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "事后头发可用血肉有灵长回，尚未还原",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "事后头发可用血肉有灵长回，尚未还原",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "事后头发可用血肉有灵长回，尚未还原"
+      },
+      {
+        "reference": "v04-c0115:p0032",
+        "length": 38,
+        "sha256": "47759bb19048636591d361f3b427fe2968a0e346ebe28aab044d5f728ba05fc6",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0032:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云府处处白孝服，真假悲伤并存",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云府处处白孝服，真假悲伤并存",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云府处处白孝服，真假悲伤并存"
+      },
+      {
+        "reference": "v04-c0115:p0033",
+        "length": 32,
+        "sha256": "831d54f6a307ca2c11349e95f1b082a31f1f6c952a9589fcd1af232a88a60857",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0033:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云飞扬在灵堂边迎客",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云飞扬在灵堂边迎客",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云飞扬在灵堂边迎客"
+      },
+      {
+        "reference": "v04-c0115:p0034",
+        "length": 36,
+        "sha256": "2f6d562cf2d48afa948fcf157980aecfbce3f55f571ca3d496eab6fc9a84636b",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0034:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云九故按礼实问大师是谁",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九故按礼实问大师是谁",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0034:u002",
+            "start": 28,
+            "end": 36,
+            "kind": "spoken_dialogue",
+            "speaker": "yun_feiyang",
+            "surface_identity": "云九爷云飞扬，当日轮守",
+            "text_context": "云九故按礼实问大师是谁",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九故按礼实问大师是谁",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云九故按礼实问大师是谁"
+      },
+      {
+        "reference": "v04-c0115:p0035",
+        "length": 46,
+        "sha256": "95445f93023a6444f06499d671af453bac0d4ca39a741060ba578f53a30678b3",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0035:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "万手实际报其为万年庙挂单法证",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "万手实际报其为万年庙挂单法证",
+            "focalizer": "wan_shou",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0035:u002",
+            "start": 4,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "wan_shou",
+            "surface_identity": "潜离岛真使万手，绝顶护法",
+            "text_context": "万手实际报其为万年庙挂单法证",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "万手实际报其为万年庙挂单法证",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "万手实际报其为万年庙挂单法证"
+      },
+      {
+        "reference": "v04-c0115:p0036",
+        "length": 53,
+        "sha256": "3867fa2440c091b101d108757346e823b1ae57fcab9d82f97702a14ffa66c157",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0036:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述超度在此世界有实义，众答谢",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "旁述超度在此世界有实义，众答谢",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述超度在此世界有实义，众答谢"
+      },
+      {
+        "reference": "v04-c0115:p0037",
+        "length": 55,
+        "sha256": "b376e200cb38e1088c1e9a38299ba0c4502d8620a48d5a6b780745c08e74e7a9",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0037:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "yun_feiyang",
+            "surface_identity": "云九爷云飞扬，当日轮守",
+            "text_context": "云九请只看布置，语气有分寸",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九请只看布置，语气有分寸",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0037:u002",
+            "start": 44,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云九请只看布置，语气有分寸",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九请只看布置，语气有分寸",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云九请只看布置，语气有分寸"
+      },
+      {
+        "reference": "v04-c0115:p0038",
+        "length": 30,
+        "sha256": "1a689c89521710a1ace8a05d183f651e446f42aab54f59480193afdeee0b3f37",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0038:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁人觉得云九只是客礼",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "假法证随真使万手进云府",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "旁人觉得云九只是客礼",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁人觉得云九只是客礼"
+      },
+      {
+        "reference": "v04-c0115:p0039",
+        "length": 86,
+        "sha256": "6069720e22e4e23876257e31a40e6ff20f7c061e0dc7cfc328bf1fdb669846d0",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0039:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟低宣佛号但无逐词，已进堂尚未近棺",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟低宣佛号但无逐词，已进堂尚未近棺",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟低宣佛号但无逐词，已进堂尚未近棺"
+      },
+      {
+        "reference": "v04-c0115:p0040",
+        "length": 63,
+        "sha256": "834f35696fa3523795daa9d1b72b89e0013b5c2dbbea035b536b0bbed575f6a1",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0040:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟眼中现因果线，属自身观法",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟眼中现因果线，属自身观法",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟眼中现因果线，属自身观法"
+      },
+      {
+        "reference": "v04-c0115:p0041",
+        "length": 13,
+        "sha256": "61c15c58f07a7a18cd4859acb185442b556296fd8b991b47e265fdc8b5d0a3bc",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0041:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白明用沾因果心法",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "旁白明用沾因果心法",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白明用沾因果心法"
+      },
+      {
+        "reference": "v04-c0115:p0042",
+        "length": 55,
+        "sha256": "b7c360a16b6e67a8848d2237b25fba6559d5136d7116b0a8a6a0f37ccc470e41",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0042:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "棺中所见余线若干，去向有别",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "棺中所见余线若干，去向有别",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "棺中所见余线若干，去向有别"
+      },
+      {
+        "reference": "v04-c0115:p0043",
+        "length": 50,
+        "sha256": "76310715c5346512d0dfeddf47a72d62bfe3798e5a9075012101ae13c21c66b7",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0043:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟确认棺中为云老且绝大部分因果断",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟确认棺中为云老且绝大部分因果断",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟确认棺中为云老且绝大部分因果断"
+      },
+      {
+        "reference": "v04-c0115:p0044",
+        "length": 14,
+        "sha256": "1f16c208a7395a0774cf574ece6072f73095a3c5482d794ed4b7e92d6180d8b4",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0044:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟内判断云老真死",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内判断云老真死",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内判断云老真死"
+      },
+      {
+        "reference": "v04-c0115:p0045",
+        "length": 12,
+        "sha256": "fd23cdf7fbcf02d8cf626c47ddd9b511910b815bb7e8c657120963d753807db9",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0045:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "结论只证因果层面的死亡，未证寿尽",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "结论只证因果层面的死亡，未证寿尽",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "结论只证因果层面的死亡，未证寿尽"
+      },
+      {
+        "reference": "v04-c0115:p0046",
+        "length": 30,
+        "sha256": "541532412bd3f7f2bd5c48408f7a499cff9c62d4955a6c4c263098f6cc0d6b09",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0046:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟带引号的疑念未明出声，仍在观线",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "孟观因果时的疑念，出声未明",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟带引号的疑念未明出声，仍在观线",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0046:u002",
+            "start": 16,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟带引号的疑念未明出声，仍在观线",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟带引号的疑念未明出声，仍在观线",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟带引号的疑念未明出声，仍在观线"
+      },
+      {
+        "reference": "v04-c0115:p0047",
+        "length": 102,
+        "sha256": "e297c4e0554182c15ea141a7b69000cd4c12c53fe53ab101db33eb43d7e3a84d",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0047:u001",
+            "start": 0,
+            "end": 102,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "不辨细事，尚有死因线及诡异牵连，日后会隐去",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "不辨细事，尚有死因线及诡异牵连，日后会隐去",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "不辨细事，尚有死因线及诡异牵连，日后会隐去"
+      },
+      {
+        "reference": "v04-c0115:p0048",
+        "length": 24,
+        "sha256": "fe72f0fcf982c2b5708c904ff4ad8f0bc083ca2ade4d0cb3dcced264fc0ba0be",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0048:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟铭记死因亡果，准备另琢磨",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟铭记死因亡果，准备另琢磨",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟铭记死因亡果，准备另琢磨"
+      },
+      {
+        "reference": "v04-c0115:p0049",
+        "length": 41,
+        "sha256": "396a907a354b71a6b55d6be24ad271f37af6dd48ba8385a6d19a58ece00e9583",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0049:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟收回眼神，发现众人正看",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟收回眼神，发现众人正看",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟收回眼神，发现众人正看"
+      },
+      {
+        "reference": "v04-c0115:p0050",
+        "length": 37,
+        "sha256": "dde1c2f3961537cb34228424ad2b5e5b58fe20f4fdad2b33f5693499c36b89e1",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0050:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "yun_feiyang",
+            "surface_identity": "云九爷云飞扬，当日轮守",
+            "text_context": "云九实际致谢，改作尊敬",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九实际致谢，改作尊敬",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0050:u002",
+            "start": 19,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云九实际致谢，改作尊敬",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九实际致谢，改作尊敬",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云九实际致谢，改作尊敬"
+      },
+      {
+        "reference": "v04-c0115:p0051",
+        "length": 64,
+        "sha256": "c7550b1bb7f548bf23fdce7297911b980ee5c8e4c8f3323c8d74d155b697d1f3",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0051:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云九感气机高妙，观法证似高僧",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九感气机高妙，观法证似高僧",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云九感气机高妙，观法证似高僧"
+      },
+      {
+        "reference": "v04-c0115:p0052",
+        "length": 36,
+        "sha256": "13855e6360f093c07f8ce1bb1ab8588278b6ec177428ce6278db6487ea44a96d",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0052:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云九据状态信眼前是真僧，不识孟",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九据状态信眼前是真僧，不识孟",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云九据状态信眼前是真僧，不识孟"
+      },
+      {
+        "reference": "v04-c0115:p0053",
+        "length": 15,
+        "sha256": "629e287cd2d9936041046af1c789e959096d491ad0b78a1fb6cfa8a4b707348f",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0053:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "堂内众人回神答谢，旁叙无逐字",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "堂内众人回神答谢，旁叙无逐字",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "堂内众人回神答谢，旁叙无逐字"
+      },
+      {
+        "reference": "v04-c0115:p0054",
+        "length": 49,
+        "sha256": "cfadbe9e45f15be759c791d22a1e72ebe39665478abfdcee1c632e3660f3bb3e",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0054:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花私传音问可知死活",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花私传音问可知死活",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0054:u002",
+            "start": 19,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花私传音问可知死活",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "百花孟奇堂内私下问答",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花私传音问可知死活",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花私传音问可知死活"
+      },
+      {
+        "reference": "v04-c0115:p0055",
+        "length": 21,
+        "sha256": "0851e9df2f82288b11d34a22e376fc346c5fa332d3cbc385e2b00ffb2a27c170",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0055:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟实向百花肯定他已死，未说死因",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "百花孟奇堂内私下问答",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟实向百花肯定他已死，未说死因",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0055:u002",
+            "start": 8,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实向百花肯定他已死，未说死因",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟实向百花肯定他已死，未说死因",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实向百花肯定他已死，未说死因"
+      },
+      {
+        "reference": "v04-c0115:p0056",
+        "length": 41,
+        "sha256": "af58ba85fc6f318b2e6dd89a7dd78902ce198684a2e5911330c4168e2861db47",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0056:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花低语，随着万手吊唁完退出",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "实际言语",
+            "embodiment": "先笑，遇孟提醒略勉强，灵堂后转郑重",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花低语，随着万手吊唁完退出",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0056:u002",
+            "start": 7,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花低语，随着万手吊唁完退出",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "观因果确认死亡但不是死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "百花低语，随着万手吊唁完退出",
+            "focalizer": "wan_shou",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花低语，随着万手吊唁完退出"
+      },
+      {
+        "reference": "v04-c0115:p0057",
+        "length": 11,
+        "sha256": "505a609a19cd731505ba122d640410f9ca7fe2737d71a53bfbe887e1f8d7527c",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0057:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "来宾报名声音出现",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "来宾报名声音出现",
+            "focalizer": "v04c115_funeral_announcer",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "来宾报名声音出现"
+      },
+      {
+        "reference": "v04-c0115:p0058",
+        "length": 33,
+        "sha256": "95b6e67fe029834ec9fe27a7bccb6ae68349659f87b9a5fd6f7b4b0bdd0f7949",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0058:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c115_funeral_announcer",
+            "surface_identity": "v04c115_funeral_announcer",
+            "text_context": "未名报客者实际唱何九、黄太冲、何休来吊唁",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "灵堂外唱名",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "未名报客者实际唱何九、黄太冲、何休来吊唁",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未名报客者实际唱何九、黄太冲、何休来吊唁"
+      },
+      {
+        "reference": "v04-c0115:p0059",
+        "length": 9,
+        "sha256": "8bbe2132c92792f9b9c225897125c3c8acffbbcd64e5ac33a45c98e2b23a884e",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0059:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟内讶何九来早",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内讶何九来早",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0059:u002",
+            "start": 5,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟内讶何九来早",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内讶何九来早",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内讶何九来早"
+      },
+      {
+        "reference": "v04-c0115:p0060",
+        "length": 18,
+        "sha256": "4a20d6379a8ab66fedb834f3e9b3b9837ff03cf924149c317248064c63c1be77",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0060:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟内以为剑庄礼数上应靠后",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内以为剑庄礼数上应靠后",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内以为剑庄礼数上应靠后"
+      },
+      {
+        "reference": "v04-c0115:p0061",
+        "length": 18,
+        "sha256": "4473eab41131946c6b18d71c37e364074f8a5cd7c63d9c1fdf3047ceceb5fafc",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0061:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟内叹同来两宗师阵容",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内叹同来两宗师阵容",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内叹同来两宗师阵容"
+      },
+      {
+        "reference": "v04-c0115:p0062",
+        "length": 9,
+        "sha256": "1d50927771b864a5ad81bdaef5b4ce923de2233e356e543e9d1e24da2e093045",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0062:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "长生仙尊也来是孟心里所认，非对外身份公布",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "长生仙尊也来是孟心里所认，非对外身份公布",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "长生仙尊也来是孟心里所认，非对外身份公布"
+      },
+      {
+        "reference": "v04-c0115:p0063",
+        "length": 31,
+        "sha256": "e042c94e7622c7ecdbc1d265e76bc9e8bdd4248f1ec1a0155d6deca56756cd64",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0063:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云九又惊又疑，去门边迎",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九又惊又疑，去门边迎",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云九又惊又疑，去门边迎"
+      },
+      {
+        "reference": "v04-c0115:p0064",
+        "length": 35,
+        "sha256": "e9fa6f880b594cf316b38a4bdd16a5f9d38d453bdb6608147fa898fd08e05bbe",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0064:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九黄太冲何休真正走来，乌横剑随行",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "何九黄太冲何休真正走来，乌横剑随行",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九黄太冲何休真正走来，乌横剑随行"
+      },
+      {
+        "reference": "v04-c0115:p0065",
+        "length": 15,
+        "sha256": "e593d389e5e6d2359a4b217bc3f26ef656053756e927a9e486298f80eb9c52e9",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0065:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟内惊乌横剑，退一步",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内惊乌横剑，退一步",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0065:u002",
+            "start": 5,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内惊乌横剑，退一步",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内惊乌横剑，退一步",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内惊乌横剑，退一步"
+      },
+      {
+        "reference": "v04-c0115:p0066",
+        "length": 28,
+        "sha256": "c8134f87d43b41fc1a1785fc5c01247f96896765788de4a4d82ee4552851c523",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0066:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟内疑普通改扮是否能瞒过",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内疑普通改扮是否能瞒过",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内疑普通改扮是否能瞒过"
+      },
+      {
+        "reference": "v04-c0115:p0067",
+        "length": 20,
+        "sha256": "a3d633324c9671139f82bfa1595b30306c123f485641447fbbf1f0e1732a95fd",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0067:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌目投棺柩未注意孟",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "乌目投棺柩未注意孟",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌目投棺柩未注意孟"
+      },
+      {
+        "reference": "v04-c0115:p0068",
+        "length": 24,
+        "sha256": "6908cb9f9aed43c896e10ff6e9d344b7bda72062e77f3f131e372487142b40a2",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0068:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "真为孟奇，先用毒手口吻，随潜离岛时普通乔装法证",
+            "text_context": "孟内估乌为求证死因而来",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "内心",
+            "embodiment": "先从容回应百花，入灵堂庄严平静，见乌后退一小步",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内估乌为求证死因而来",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0068:u002",
+            "start": 17,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内估乌为求证死因而来",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "剑庄一行到场，孟见乌横剑",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "孟内估乌为求证死因而来",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内估乌为求证死因而来"
+      },
+      {
+        "reference": "v04-c0115:p0069",
+        "length": 20,
+        "sha256": "24790f8c6d97b57753d18b95c277d4a9fdbe55b43cb624e0875e74cd1cc14ff2",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0069:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九公开问大师是谁",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "何九问法证，黄太冲欲探",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "何九公开问大师是谁",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0069:u002",
+            "start": 12,
+            "end": 20,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "he_jiu",
+            "text_context": "何九公开问大师是谁",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "何九问法证，黄太冲欲探",
+            "channel": "实际言语",
+            "embodiment": "扫视而先公问，再私告熟悉感",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "何九公开问大师是谁",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九公开问大师是谁"
+      },
+      {
+        "reference": "v04-c0115:p0070",
+        "length": 39,
+        "sha256": "2448fc2eb4bbd28703d9b1001f68637b01fdfb997ab4f9b0a525b3923aec4147",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0070:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九私传音三人说感熟悉却未能认，旁叙无逐字",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "何九问法证，黄太冲欲探",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "何九私传音三人说感熟悉却未能认，旁叙无逐字",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九私传音三人说感熟悉却未能认，旁叙无逐字"
+      },
+      {
+        "reference": "v04-c0115:p0071",
+        "length": 24,
+        "sha256": "a89857501a4d778f6260b59b642093b76937205dd5b8692f653f7481030f2872",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0071:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "yun_feiyang",
+            "surface_identity": "云九爷云飞扬，当日轮守",
+            "text_context": "云九公开以法证作介绍",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "何九问法证，黄太冲欲探",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九公开以法证作介绍",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0071:u002",
+            "start": 14,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云九公开以法证作介绍",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "何九问法证，黄太冲欲探",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "云九公开以法证作介绍",
+            "focalizer": "yun_feiyang",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云九公开以法证作介绍"
+      },
+      {
+        "reference": "v04-c0115:p0072",
+        "length": 23,
+        "sha256": "3cad61f8590d86654938f5435780e5adb90e011f44468179b3c2b2e2d88031b5",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0072:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "huang_taichong",
+            "surface_identity": "东海剑庄万剑院宗主、太上长老黄太冲",
+            "text_context": "黄太冲实际传音给何九，称也觉有异",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "何九问法证，黄太冲欲探",
+            "channel": "黄太冲秘密传音何九",
+            "embodiment": "先低调传音，末剑意暗查",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "黄太冲实际传音给何九，称也觉有异",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0115:p0072:u002",
+            "start": 13,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黄太冲实际传音给何九，称也觉有异",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "何九问法证，黄太冲欲探",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "黄太冲实际传音给何九，称也觉有异",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黄太冲实际传音给何九，称也觉有异"
+      },
+      {
+        "reference": "v04-c0115:p0073",
+        "length": 67,
+        "sha256": "29d363d5222b695e89abf57ba181d062d80a1a364aeb1633360aabd7e6ac00d0",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0073:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白交代何家与黄所属万剑院以及地榜",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "何九问法证，黄太冲欲探",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "旁白交代何家与黄所属万剑院以及地榜",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白交代何家与黄所属万剑院以及地榜"
+      },
+      {
+        "reference": "v04-c0115:p0074",
+        "length": 29,
+        "sha256": "cede4f65fb0276e0c5cfc0193996d56751053c5d3a0e3f97c1b154461eeb52ea",
+        "units": [
+          {
+            "unit_id": "v04-c0115:p0074:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黄以目光和剑意着手探，尚未给出结果",
+            "world_context": "第四卷本界临海：云府吊唁、沾因果观棺、何九等到场",
+            "stage_context": "何九问法证，黄太冲欲探",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "云老确已死，但寿尽与否未证；因果记下备考。灵堂正常吊唁。乌未关注孟，何九仅觉熟悉，黄探而未有答案。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "普通乔装的法证是当众身份。潜离岛与素女道关联仍为孟推。何九在段70的传音是间接叙述，不自行补话。",
+            "knowledge_boundary": "黄以目光和剑意着手探，尚未给出结果",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黄以目光和剑意着手探，尚未给出结果"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0115",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S14",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 20,
+        "label": "祝府问乌去向，百花改托确认生死",
+        "direction": "先让孟表面淡漠、实际想追魔痕线索。百花转述乌的消息，再提可能假死。孟听对方误以为自己会夺命魔功，仍应去看，但警告不要借机生事。百花强笑，婴宁低眉应承。 证据 v04-c0115:p0001–p0020。"
+      },
+      {
+        "paragraph_start": 22,
+        "paragraph_end": 38,
+        "label": "云府吊唁，万手介绍法证",
+        "direction": "从缟素、黄袍红袈裟交代身份切换。潜离岛真使者带一行入府，孟判断同来的两人和万手相熟。云九守灵堂，只照礼称请看布置，外人暂以为寻常礼数。 证据 v04-c0115:p0022–p0038。"
+      },
+      {
+        "paragraph_start": 39,
+        "paragraph_end": 56,
+        "label": "灵堂观因果，孟私下给死亡结论",
+        "direction": "给孟低宣佛号与不近棺的外在分寸，再转眼里的星线。几条线的去向由他所见，实际只判断死亡，死因另待思索。众人静视及云九改口后，才听到百花与孟的私下问答。 证据 v04-c0115:p0039–p0056。"
+      },
+      {
+        "paragraph_start": 57,
+        "paragraph_end": 68,
+        "label": "唱客名，剑庄诸人携乌进堂",
+        "direction": "先在堂外唱名，贴孟的惊讶与云九迎客动作。三位剑庄人物入堂后再揭乌随来。让孟短退一步，乌目光只在棺柩。 证据 v04-c0115:p0057–p0068。"
+      },
+      {
+        "paragraph_start": 69,
+        "paragraph_end": 74,
+        "label": "何九公开问法证，黄太冲暗探",
+        "direction": "何九实问身份和私下觉熟悉分别落位。云九公开回答，黄私传音也有异感。最后仅给黄以目试探和剑意暗藏，停在识破与否尚未揭晓。 证据 v04-c0115:p0069–p0074。"
+      }
+    ],
+    "knowledge_rule": "本次法证外观由普通乔装，未重复用八九变化。摆设只是公称任务，孟暗观因果确认死亡，寿尽仍未证。百花和黄太冲各自的传音分开。何九感熟悉却没认出，乌未注意法证，黄探气息到章末尚无结果。"
+  }
 }
