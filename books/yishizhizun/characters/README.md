@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [茂陵掌柜口传，端木北被指有坐地虎的名声](early-v04-Maoling-stationer-briefs-Meng-on-Duanmu.md) | 第四卷第107章历史归属回补 |
+| [郢城楼边无生气，喜鹊触近化灰](early-v04-Jiangdong-tower-and-the-bird-turns-to-ash.md) | 第四卷第107章历史归属回补 |
+| [真毒手已死，孟借其年轻外观首次见端木北](early-v04-Meng-appears-as-Poison-Hand-before-Duanmu.md) | 第四卷第107章历史归属回补 |
 | [孟实换三剑，江升华白虹剑至近上品](early-v04-Three-swords-bought-and-White-Rainbow-refined.md) | 第四卷第106章历史归属回补 |
 | [齐赵补功法，阮选远距琴音技巧](early-v04-Qi-Zhao-and-Ruan-reincarnation-exchanges.md) | 第四卷第106章历史归属回补 |
 | [五指山天庭碎片，六道正式通告](early-v04-Journey-to-the-West-heaven-fragment-notice.md) | 第四卷第106章历史归属回补 |
