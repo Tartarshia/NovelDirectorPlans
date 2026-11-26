@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [端木北已转达，约三日后慈安寺面谈](early-v04-Duanmu-arranges-the-Fire-Burnt-Lake-meeting.md) | 第四卷第110章历史归属回补 |
+| [慈安寺安法即令狐涛，沈岳有意隐去交手](early-v04-Anfa-is-Linghu-Tao-and-Shen-withholds-the-illusion.md) | 第四卷第110章历史归属回补 |
+| [毒手外观与追魂旧敌相见，百花当众发问](early-v04-Poison-Hand-appearance-meets-Mo-Tiange-at-Cian.md) | 第四卷第110章历史归属回补 |
 | [沈岳经历幻真难辨的夕阳交手](early-v04-Shen-Yue-cannot-sort-illusion-from-reality.md) | 第四卷第109章历史归属回补 |
 | [沈岳介绍追魂魔君、令狐与百花夫人](early-v04-Shen-Yue-introduces-Mo-Tiange-and-Madam-Baihua.md) | 第四卷第109章历史归属回补 |
 | [孟用诸法推动不死七幻，事后仍等端木](early-v04-Meng-tests-the-Seven-Illusions-and-waits.md) | 第四卷第109章历史归属回补 |
