@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [孟实换三剑，江升华白虹剑至近上品](early-v04-Three-swords-bought-and-White-Rainbow-refined.md) | 第四卷第106章历史归属回补 |
+| [齐赵补功法，阮选远距琴音技巧](early-v04-Qi-Zhao-and-Ruan-reincarnation-exchanges.md) | 第四卷第106章历史归属回补 |
+| [五指山天庭碎片，六道正式通告](early-v04-Journey-to-the-West-heaven-fragment-notice.md) | 第四卷第106章历史归属回补 |
 | [六道宣布传道失败，三观问题转入同伴闲谈](early-v04-Six-Paths-rules-the-Mohist-mission-failed.md) | 第四卷第105章历史归属回补 |
 | [先按值取所需，余物折善功再结](early-v04-Two-rounds-of-spoils-and-merit-shares.md) | 第四卷第105章历史归属回补 |
 | [三剑三式，江芷微查明价格](early-v04-Meng-selects-the-three-sword-forms-to-consider.md) | 第四卷第105章历史归属回补 |
