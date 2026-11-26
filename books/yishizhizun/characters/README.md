@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [齐桓公述玉虚宫出没、先祖传承与诸仙去向](early-v04-Lu-Xiaobai-relates-the-Yuxu-palace-history.md) | 第四卷第104章历史归属回补 |
+| [墨者去齐与留陈各有主持](early-v04-Mohists-assigned-to-Qi-and-Chen.md) | 第四卷第104章历史归属回补 |
+| [楚庄腰间玉如意，孟辨不出来历，五人回归](early-v04-Chu-Zhuang-jade-ruyi-and-forced-return.md) | 第四卷第104章历史归属回补 |
 | [玉虚腰牌为信，孟亲自答应](early-v04-Yuxu-token-and-Mengs-own-assent.md) | 第四卷第103章历史归属回补 |
 | [江阮辨救墨者，老道以袖携出](early-v04-Jiang-and-Ruan-free-Mohists-and-sleeve-carries-them.md) | 第四卷第103章历史归属回补 |
 | [老道自报吕小白，孟想到齐桓公](early-v04-Jailed-daoist-names-himself-Lu-Xiaobai.md) | 第四卷第103章历史归属回补 |
