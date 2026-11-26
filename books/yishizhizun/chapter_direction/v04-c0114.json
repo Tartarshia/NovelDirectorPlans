@@ -61,7 +61,2450 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0282"
+  "reading_batch": "batch-0282",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0114",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0114.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0114:p0001",
+        "length": 67,
+        "sha256": "93f90398ce6a63923c60ce7c90be04d0542882b56216ac6868fb12e1a1935ad4",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0001:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "男子撑伞雨珠滑落，白鬓先入画",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "男子撑伞雨珠滑落，白鬓先入画",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "男子撑伞雨珠滑落，白鬓先入画"
+      },
+      {
+        "reference": "v04-c0114:p0002",
+        "length": 86,
+        "sha256": "401d6bdd6ccb5c3c2eaeab7669fce0111a73af2b90ed3e628ee60ca31322e11e",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0002:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雨街消失是乌感官所见",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "雨街消失是乌感官所见",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雨街消失是乌感官所见"
+      },
+      {
+        "reference": "v04-c0114:p0003",
+        "length": 39,
+        "sha256": "5afd9633d9cedb4548e7e721ec963f1a60a56ae15ff07f3092c866ac75f13364",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0003:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "拟音为乌心跳加速",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "拟音为乌心跳加速",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "拟音为乌心跳加速"
+      },
+      {
+        "reference": "v04-c0114:p0004",
+        "length": 11,
+        "sha256": "b0f13aa920ef7bfa5bf10341131517a3add2bd87a30478844be8637ae013d1f4",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0004:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌内觉男子可怕",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "内心",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌内觉男子可怕",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌内觉男子可怕"
+      },
+      {
+        "reference": "v04-c0114:p0005",
+        "length": 5,
+        "sha256": "dc2ca917bfd7540e142d5acced6cd151e39844efd0fa5755048adb222b74abe7",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0005:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌内惊惧再加重",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "内心",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌内惊惧再加重",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌内惊惧再加重"
+      },
+      {
+        "reference": "v04-c0114:p0006",
+        "length": 34,
+        "sha256": "b788a7eb02ea1bc9428194c03d571af20987247239ae81158facd3984f28bfbc",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0006:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌所感生平最强敌人，非实测层次",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌所感生平最强敌人，非实测层次",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌所感生平最强敌人，非实测层次"
+      },
+      {
+        "reference": "v04-c0114:p0007",
+        "length": 83,
+        "sha256": "4ff239b95e6d0f64309b80356367195c828ee00a641c86eb1fc3610266c48572",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0007:u001",
+            "start": 0,
+            "end": 83,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌心中比较此前与莫交手的压力",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌心中比较此前与莫交手的压力",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌心中比较此前与莫交手的压力"
+      },
+      {
+        "reference": "v04-c0114:p0008",
+        "length": 48,
+        "sha256": "a8e26a6342882e440a246380a7041af2eda518e979536a8a3c5d4c8ebe87752c",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0008:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌因心压手脚软、战意消退",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌因心压手脚软、战意消退",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌因心压手脚软、战意消退"
+      },
+      {
+        "reference": "v04-c0114:p0009",
+        "length": 47,
+        "sha256": "51e89cd5358b6bb2a2fc0f3379ad457f75d3b153dd0353038877ab395644065b",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0009:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "inner_speech",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌心疑只凭气势即如此，仍自制",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "内心",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌心疑只凭气势即如此，仍自制",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0009:u002",
+            "start": 22,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌心疑只凭气势即如此，仍自制",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌心疑只凭气势即如此，仍自制",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌心疑只凭气势即如此，仍自制"
+      },
+      {
+        "reference": "v04-c0114:p0010",
+        "length": 46,
+        "sha256": "6ead06735bf3fb76fd50f9bb3034851f2a35658f8b67a6a568a50583c246ddf5",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0010:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌所见青袍近身，左手伞右手出",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌所见青袍近身，左手伞右手出",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌所见青袍近身，左手伞右手出"
+      },
+      {
+        "reference": "v04-c0114:p0011",
+        "length": 26,
+        "sha256": "4d260e1aaa519326539cddaa389274051b7040a56435e30dd01d041d3e5be5dc",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0011:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "右掌似刀斜劈，处第一段感官层",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "右掌似刀斜劈，处第一段感官层",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "右掌似刀斜劈，处第一段感官层"
+      },
+      {
+        "reference": "v04-c0114:p0012",
+        "length": 64,
+        "sha256": "8f63d581ca3258621085cb19daf00619b37173a9a3673625a1e5042a278a76f7",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0012:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌恢复雨声与视觉，但速度感改",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌恢复雨声与视觉，但速度感改",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌恢复雨声与视觉，但速度感改"
+      },
+      {
+        "reference": "v04-c0114:p0013",
+        "length": 65,
+        "sha256": "5bf77437c5710bfe791e6d07108a50aa32b9ded7e0c5e93a2f1d074dc5b379a5",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0013:u001",
+            "start": 0,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "看听都慢是乌感官",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "看听都慢是乌感官",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "看听都慢是乌感官"
+      },
+      {
+        "reference": "v04-c0114:p0014",
+        "length": 74,
+        "sha256": "da9924a1519aca068a0d107545375c4de1118f5037a7d8052af41253cecf9181",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0014:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "唯右掌看来速度正常，突显缓慢",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "唯右掌看来速度正常，突显缓慢",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "唯右掌看来速度正常，突显缓慢"
+      },
+      {
+        "reference": "v04-c0114:p0015",
+        "length": 22,
+        "sha256": "1c987d176d0396870c29dc4b49ee060462757e2f2dc86c4797363e3cb72dc14a",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0015:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁叙模拟剑廿三表面行气",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "旁叙模拟剑廿三表面行气",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁叙模拟剑廿三表面行气"
+      },
+      {
+        "reference": "v04-c0114:p0016",
+        "length": 14,
+        "sha256": "befd8c65b82041554b1e8953a9a944fcc7d34e109680ba36b5ccbe35de145dea",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0016:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "所模拟为江改良弱化版",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "所模拟为江改良弱化版",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "所模拟为江改良弱化版"
+      },
+      {
+        "reference": "v04-c0114:p0017",
+        "length": 11,
+        "sha256": "b83f55ec4b5fb72b8c6f613ff4ddda03a351ae4d71ea938e57628651896b7202",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0017:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "只表面相似",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "只表面相似",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "只表面相似"
+      },
+      {
+        "reference": "v04-c0114:p0018",
+        "length": 38,
+        "sha256": "12e11ac6c38a0f28470bbce85735cfdc36d89d4cdb47fbe7fe5d37510957f570",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0018:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "实际是阿难刀核心真意推动不死七幻的衍生掌",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "实际是阿难刀核心真意推动不死七幻的衍生掌",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "实际是阿难刀核心真意推动不死七幻的衍生掌"
+      },
+      {
+        "reference": "v04-c0114:p0019",
+        "length": 76,
+        "sha256": "dbc3940110affa70807285941c24dd65683dcc863e24ac4a712e45ff7e5ac379",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0019:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌内惊，所见掌将在头顶",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "内心",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌内惊，所见掌将在头顶",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0019:u002",
+            "start": 6,
+            "end": 16,
+            "kind": "inner_speech",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌内惊，所见掌将在头顶",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "内心",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌内惊，所见掌将在头顶",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0019:u003",
+            "start": 16,
+            "end": 76,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌内惊，所见掌将在头顶",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌视点雨消与感官迟缓",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌内惊，所见掌将在头顶",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌内惊，所见掌将在头顶"
+      },
+      {
+        "reference": "v04-c0114:p0020",
+        "length": 45,
+        "sha256": "82c29ded39a3aa13a87cf2dd44bec64a7d2b13af3fe3bf21a29d8bc1e239c17d",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0020:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌实际提双手聚幽暗应对",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实际提双手聚幽暗应对",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌实际提双手聚幽暗应对"
+      },
+      {
+        "reference": "v04-c0114:p0021",
+        "length": 10,
+        "sha256": "f1807490229ff3e6cdf8b2cdf4140af51431d55a12f972dc63f5075aabf909a3",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0021:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌动作深吸口气",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌动作深吸口气",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌动作深吸口气"
+      },
+      {
+        "reference": "v04-c0114:p0022",
+        "length": 45,
+        "sha256": "f12dc782780f1b7c2223e3c19aa6e93fef45f26f6670eb20ca9239a6234a46aa",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0022:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "近身元气雨水掌劲聚拢",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "近身元气雨水掌劲聚拢",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "近身元气雨水掌劲聚拢"
+      },
+      {
+        "reference": "v04-c0114:p0023",
+        "length": 46,
+        "sha256": "5afd9a5e98da1b830b2f4faf071d5c295a64da51247aa80c80b5a265a7467186",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0023:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "雨幕被破，范围围绕乌",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "雨幕被破，范围围绕乌",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "雨幕被破，范围围绕乌"
+      },
+      {
+        "reference": "v04-c0114:p0024",
+        "length": 88,
+        "sha256": "344e81c362473142ecd26866494204562cc161171164ae0f8494dde4fe315e16",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0024:u001",
+            "start": 0,
+            "end": 88,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "幻觉褪去，乌见孟仍在巷口",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "幻觉褪去，乌见孟仍在巷口",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "幻觉褪去，乌见孟仍在巷口"
+      },
+      {
+        "reference": "v04-c0114:p0025",
+        "length": 85,
+        "sha256": "93b3c89d11a0861b7c889cf421ef010a341493283125f912b9950b0c2be2e9ca",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0025:u001",
+            "start": 0,
+            "end": 85,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际走近并出第二掌，不惧吸力",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "孟实际走近并出第二掌，不惧吸力",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际走近并出第二掌，不惧吸力"
+      },
+      {
+        "reference": "v04-c0114:p0026",
+        "length": 41,
+        "sha256": "34cf05d4b54a31af7da726702c0337d27d5b321b0e42bdaf90703ad5beeb8827",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0026:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "二掌不带掌风等动静",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "二掌不带掌风等动静",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "二掌不带掌风等动静"
+      },
+      {
+        "reference": "v04-c0114:p0027",
+        "length": 84,
+        "sha256": "d01a3e8f70b4ade99f9aa878aeeae9c9e10d17cb07f340c7d12ee9e29891d291",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0027:u001",
+            "start": 0,
+            "end": 84,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌面对二掌瞳缩，不能把握躲挡",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌面对二掌瞳缩，不能把握躲挡",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌面对二掌瞳缩，不能把握躲挡"
+      },
+      {
+        "reference": "v04-c0114:p0028",
+        "length": 20,
+        "sha256": "73f3bf385fe59900516ccdad46a7e800d76ca50f8e178634eb5ef38ef4cb922b",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0028:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "唯我独尊为掌境旁叙，无人发声",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "唯我独尊为掌境旁叙，无人发声",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "唯我独尊为掌境旁叙，无人发声"
+      },
+      {
+        "reference": "v04-c0114:p0029",
+        "length": 69,
+        "sha256": "3ccd80cc17d877e0b8a5e7fbdf5ceed97768d13d7614074ce8e6ce4128192740",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0029:u001",
+            "start": 0,
+            "end": 69,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌品到禅意与矛盾魔念",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌品到禅意与矛盾魔念",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌品到禅意与矛盾魔念"
+      },
+      {
+        "reference": "v04-c0114:p0030",
+        "length": 6,
+        "sha256": "0ba21dbf5871793dc9a9f79904d2aa71531c59c78fa44e8563ca0c60c5e7f0eb",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0030:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌内想自己与掌不分",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "内心",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌内想自己与掌不分",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌内想自己与掌不分"
+      },
+      {
+        "reference": "v04-c0114:p0031",
+        "length": 53,
+        "sha256": "6a61ee5be9436c2aefbfb83a518a568e0ad29d16697794114dd8f03d7c1fc873",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0031:u001",
+            "start": 0,
+            "end": 53,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌内生绝望，想挡也不可",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌内生绝望，想挡也不可",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌内生绝望，想挡也不可"
+      },
+      {
+        "reference": "v04-c0114:p0032",
+        "length": 7,
+        "sha256": "6830023db01b9010b35d2d0a4cbbbb52373ba714d9a7f4863605609714fbf641",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0032:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌内认无法挡",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "内心",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌内认无法挡",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌内认无法挡"
+      },
+      {
+        "reference": "v04-c0114:p0033",
+        "length": 68,
+        "sha256": "5dd92aecc2b653368c58ae6fbe4f86f36b2979545ab32e4749e1856b4ce7dc22",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0033:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌眉心实际显漆黑魔痕，冲禅聚魔",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌眉心实际显漆黑魔痕，冲禅聚魔",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌眉心实际显漆黑魔痕，冲禅聚魔"
+      },
+      {
+        "reference": "v04-c0114:p0034",
+        "length": 2,
+        "sha256": "26ab1c7f5c130e9a56b539801143a677369063cabe0af928e6e7299fb1b70caf",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0034:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "单字啪为拟音",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "单字啪为拟音",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "单字啪为拟音"
+      },
+      {
+        "reference": "v04-c0114:p0035",
+        "length": 60,
+        "sha256": "811e5da8e2613ecaa081e2017c989cce007842c7ed3a807f8d323ddf0553836e",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0035:u001",
+            "start": 0,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "第二掌实中额头，乌出血眩晕",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "第二掌实中额头，乌出血眩晕",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "第二掌实中额头，乌出血眩晕"
+      },
+      {
+        "reference": "v04-c0114:p0036",
+        "length": 22,
+        "sha256": "bfa7a122e3613ca630aa41bf64ee9e040cd3287967869e1ffb9a27a6596947f6",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0036:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "魔痕助其免于更重伤",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "魔痕助其免于更重伤",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "魔痕助其免于更重伤"
+      },
+      {
+        "reference": "v04-c0114:p0037",
+        "length": 49,
+        "sha256": "e4d33bb8e435f87d60f5d88d1ff12a714f84602df4c48a3a72955fd580c69c58",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0037:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "魔痕散为墨光与魔气合，乌实逃港",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "魔痕散为墨光与魔气合，乌实逃港",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "魔痕散为墨光与魔气合，乌实逃港"
+      },
+      {
+        "reference": "v04-c0114:p0038",
+        "length": 45,
+        "sha256": "a681530c52b9451f7f11d8fbb7dade229265c21350fc741a6808692d19d26c93",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0038:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以毒手外观，持油纸伞",
+            "text_context": "孟意外，仅一声惊叹出处未明，实际迟半拍追",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "孟奇惊叹，旁人是否听见未明",
+            "embodiment": "雨中从容、见魔痕后意外，后立岸自语",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "孟意外，仅一声惊叹出处未明，实际迟半拍追",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0038:u002",
+            "start": 5,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟意外，仅一声惊叹出处未明，实际迟半拍追",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "孟意外，仅一声惊叹出处未明，实际迟半拍追",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟意外，仅一声惊叹出处未明，实际迟半拍追"
+      },
+      {
+        "reference": "v04-c0114:p0039",
+        "length": 59,
+        "sha256": "24adc0e428423ad3b6d1adb5781aea5b7b78913dcccc0752cf7dcc300be9fb89",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0039:u001",
+            "start": 0,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "街恢复，交手未毁外围",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "幻褪后第二掌实中，魔痕护乌逃",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "街恢复，交手未毁外围",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "街恢复，交手未毁外围"
+      },
+      {
+        "reference": "v04-c0114:p0040",
+        "length": 73,
+        "sha256": "8b9513c9e624605759f03e54633fa58a6bf7e1c6fc0794b039f21b2200ba35c3",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0040:u001",
+            "start": 0,
+            "end": 73,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌降海下潜，仍感将被追近",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌降海下潜，仍感将被追近",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌降海下潜，仍感将被追近"
+      },
+      {
+        "reference": "v04-c0114:p0041",
+        "length": 46,
+        "sha256": "7603e517533b3f56ad171d583fad102a034477956fed13865ce13f6d61143f15",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0041:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌感危险忽消，不知缘故",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌感危险忽消，不知缘故",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌感危险忽消，不知缘故"
+      },
+      {
+        "reference": "v04-c0114:p0042",
+        "length": 47,
+        "sha256": "a8fea33eb19c328477d296963a72c3178f0a17d07a8a684429b313fe55abd83c",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0042:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌感应海面七层楼船",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌感应海面七层楼船",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌感应海面七层楼船"
+      },
+      {
+        "reference": "v04-c0114:p0043",
+        "length": 7,
+        "sha256": "7dbf7835a84a098c3ce363aa14c6aca4c24eb461f99e72b854c4e8a76261f155",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0043:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "东海剑庄为旗上文字",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "画面中的旗号",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "东海剑庄为旗上文字",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "东海剑庄为旗上文字"
+      },
+      {
+        "reference": "v04-c0114:p0044",
+        "length": 4,
+        "sha256": "0192d511a342a81a694da1bdcdc671b048c2e59a6053bcba3434446d4a4db195",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0044:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何为另一面旗上文字",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "画面中的旗号",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何为另一面旗上文字",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何为另一面旗上文字"
+      },
+      {
+        "reference": "v04-c0114:p0045",
+        "length": 51,
+        "sha256": "883f150f2d5e6887c32e3ae3e48764955ba0dbf879375ce658ed1534a819e33b",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0045:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌因船而庆幸，追者不敢来是他推断",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "内心",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌因船而庆幸，追者不敢来是他推断",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0045:u002",
+            "start": 19,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌因船而庆幸，追者不敢来是他推断",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌因船而庆幸，追者不敢来是他推断",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌因船而庆幸，追者不敢来是他推断"
+      },
+      {
+        "reference": "v04-c0114:p0046",
+        "length": 70,
+        "sha256": "a214e2d8554eeffb0888647e5b3385042d5133409dae864b606f62f2511be2a8",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0046:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "钓索落眼前，未名黄发钓者现于船沿",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "钓索落眼前，未名黄发钓者现于船沿",
+            "focalizer": "v04c114_unnamed_elder_fisherman",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "钓索落眼前，未名黄发钓者现于船沿"
+      },
+      {
+        "reference": "v04-c0114:p0047",
+        "length": 39,
+        "sha256": "ec6075b72d98a2c964a5e998dc4632c07cbbece10298c889b6a42d1cf604edc9",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0047:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌实上遁至甲板",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实上遁至甲板",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌实上遁至甲板"
+      },
+      {
+        "reference": "v04-c0114:p0048",
+        "length": 33,
+        "sha256": "58423e66d7044610adda71b72e3470b00cc95c039e231acbe1d65b939c0dfa31",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0048:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c114_unnamed_elder_fisherman",
+            "surface_identity": "黄发老钓者，未实名",
+            "text_context": "钓者实际转达少庄主叫入",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "实际言语",
+            "embodiment": "气息内敛，转达后仍钓鱼",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "钓者实际转达少庄主叫入",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0048:u002",
+            "start": 10,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "钓者实际转达少庄主叫入",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "钓者实际转达少庄主叫入",
+            "focalizer": "v04c114_unnamed_elder_fisherman",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "钓者实际转达少庄主叫入"
+      },
+      {
+        "reference": "v04-c0114:p0049",
+        "length": 24,
+        "sha256": "83422ad692bfbe0db8e9f1badbd3a5764b342bd666c36bcd99aac639951ccb80",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0049:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌入舱见有人坐",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌入舱见有人坐",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌入舱见有人坐"
+      },
+      {
+        "reference": "v04-c0114:p0050",
+        "length": 66,
+        "sha256": "15728330c3dc0a74db887ce928550e1bc3959da1e2434961a06f1fde3fe8a0bf",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0050:u001",
+            "start": 0,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌所见何九高大沉稳，气势为观感",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌所见何九高大沉稳，气势为观感",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌所见何九高大沉稳，气势为观感"
+      },
+      {
+        "reference": "v04-c0114:p0051",
+        "length": 27,
+        "sha256": "8d10e9c8046375e6f5fb3ca34dd60edaffc53f1f30f831829a526a0df717605e",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0051:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌实际上前拜何九",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "实际言语",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实际上前拜何九",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0051:u002",
+            "start": 8,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌实际上前拜何九",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实际上前拜何九",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0051:u003",
+            "start": 19,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌实际上前拜何九",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "实际言语",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实际上前拜何九",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0051:u004",
+            "start": 24,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌实际上前拜何九",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌入海登东海楼船",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实际上前拜何九",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌实际上前拜何九"
+      },
+      {
+        "reference": "v04-c0114:p0052",
+        "length": 30,
+        "sha256": "ea83940bf543cde76820b4aaad6e9473163e9cd398bc8939e445d85d1d694a74",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0052:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "东海剑庄少庄主，无形剑何九",
+            "text_context": "何九实问城中何事",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "姿态自信，敲案问情报",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九实问城中何事",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0052:u002",
+            "start": 21,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九实问城中何事",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九实问城中何事",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九实问城中何事"
+      },
+      {
+        "reference": "v04-c0114:p0053",
+        "length": 70,
+        "sha256": "40e6883fb80a71ba0a498f8aca9388bd76a65fe82cf59364f41754ccc866b116",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0053:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌转告死因疑点与遇袭，灭口之意未明说",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌转告死因疑点与遇袭，灭口之意未明说",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌转告死因疑点与遇袭，灭口之意未明说"
+      },
+      {
+        "reference": "v04-c0114:p0054",
+        "length": 70,
+        "sha256": "4fe4473229c22cdb2462ac2cb70b01210747e809f9a80b6a25f4dcf57e876a16",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0054:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九实以第一掌外观联玄天宗，二掌未辨",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九实以第一掌外观联玄天宗，二掌未辨",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0054:u002",
+            "start": 16,
+            "end": 70,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "东海剑庄少庄主，无形剑何九",
+            "text_context": "何九实以第一掌外观联玄天宗，二掌未辨",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "姿态自信，敲案问情报",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九实以第一掌外观联玄天宗，二掌未辨",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九实以第一掌外观联玄天宗，二掌未辨"
+      },
+      {
+        "reference": "v04-c0114:p0055",
+        "length": 21,
+        "sha256": "80061e9bd9e8eb0e6c38769872943e0179c6e95d2b10736995cb1c4d377bc26b",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0055:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌实答不了解类似强者",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实答不了解类似强者",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0055:u002",
+            "start": 8,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌实答不了解类似强者",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实答不了解类似强者",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌实答不了解类似强者"
+      },
+      {
+        "reference": "v04-c0114:p0056",
+        "length": 47,
+        "sha256": "5de9a981c6538886a8ae6d004e9504d3fe09d34407ffecb813dad14564b467f4",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0056:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九取玉简请乌灌所见",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九取玉简请乌灌所见",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九取玉简请乌灌所见"
+      },
+      {
+        "reference": "v04-c0114:p0057",
+        "length": 55,
+        "sha256": "1bc144952da76fdbcd6295e20b40df7bf08da1e5596b4e1c739e3308b265fcc3",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0057:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁叙只靠外貌难直接定人",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "旁叙只靠外貌难直接定人",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁叙只靠外貌难直接定人"
+      },
+      {
+        "reference": "v04-c0114:p0058",
+        "length": 31,
+        "sha256": "fd51a4b0b7ffb2432e66d8aee810a36a92a422dacead9ce9fd114d3c05f6bd71",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0058:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌实把影像送入简",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实把影像送入简",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌实把影像送入简"
+      },
+      {
+        "reference": "v04-c0114:p0059",
+        "length": 26,
+        "sha256": "55336544a45cbf3a6893309159ae8fa44e9464af0fe15a05863516265d1c7a8e",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0059:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九抛简窗外，钓者以线取",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九抛简窗外，钓者以线取",
+            "focalizer": "v04c114_unnamed_elder_fisherman",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九抛简窗外，钓者以线取"
+      },
+      {
+        "reference": "v04-c0114:p0060",
+        "length": 30,
+        "sha256": "a2290a071dfb3d75ff944d6b0da44cf450c5492596197002d6c9fc57fda70597",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0060:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "苍老声音按钓者处理，凭容貌气息称毒手",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "苍老声音按钓者处理，凭容貌气息称毒手",
+            "focalizer": "v04c114_unnamed_elder_fisherman",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0060:u002",
+            "start": 11,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c114_unnamed_elder_fisherman",
+            "surface_identity": "黄发老钓者，未实名",
+            "text_context": "苍老声音按钓者处理，凭容貌气息称毒手",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "窗外苍老声音，由甲板钓者传来",
+            "embodiment": "气息内敛，转达后仍钓鱼",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "苍老声音按钓者处理，凭容貌气息称毒手",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "苍老声音按钓者处理，凭容貌气息称毒手"
+      },
+      {
+        "reference": "v04-c0114:p0061",
+        "length": 45,
+        "sha256": "a11bd40ab60d03beec72f50ad2d103b2b66fbd4b5a510b07949855ac44e56baa",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0061:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "东海剑庄少庄主，无形剑何九",
+            "text_context": "何九实自语实力大增，仍以为真毒手",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "姿态自信，敲案问情报",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九实自语实力大增，仍以为真毒手",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0061:u002",
+            "start": 3,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "东海剑庄少庄主，无形剑何九",
+            "text_context": "何九实自语实力大增，仍以为真毒手",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "姿态自信，敲案问情报",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九实自语实力大增，仍以为真毒手",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0061:u003",
+            "start": 16,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九实自语实力大增，仍以为真毒手",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九实自语实力大增，仍以为真毒手",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九实自语实力大增，仍以为真毒手"
+      },
+      {
+        "reference": "v04-c0114:p0062",
+        "length": 84,
+        "sha256": "3c43ed01b96b2297090d74f9014a2ba436f9f39d4f6d4508d92bd2a4c4456e24",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0062:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "inner_speech",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌心里觉远胜不容小觑，口说应有人泄行踪",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "内心",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌心里觉远胜不容小觑，口说应有人泄行踪",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0062:u002",
+            "start": 15,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌心里觉远胜不容小觑，口说应有人泄行踪",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌心里觉远胜不容小觑，口说应有人泄行踪",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0062:u003",
+            "start": 27,
+            "end": 84,
+            "kind": "spoken_dialogue",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌心里觉远胜不容小觑，口说应有人泄行踪",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌心里觉远胜不容小觑，口说应有人泄行踪",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌心里觉远胜不容小觑，口说应有人泄行踪"
+      },
+      {
+        "reference": "v04-c0114:p0063",
+        "length": 16,
+        "sha256": "1d1fea33c1d9f299bfe556b4630940581f09e2d2724bcde2e032a948defcf691",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0063:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "东海剑庄少庄主，无形剑何九",
+            "text_context": "何九口问所疑",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "姿态自信，敲案问情报",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九口问所疑",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0063:u002",
+            "start": 9,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九口问所疑",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九口问所疑",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九口问所疑"
+      },
+      {
+        "reference": "v04-c0114:p0064",
+        "length": 76,
+        "sha256": "a3d6db00494e339478f0b4ec340471791662f343a0e2306b9462f10fd449e55c",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0064:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌实际列祝铁和云家几位长老",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实际列祝铁和云家几位长老",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0064:u002",
+            "start": 9,
+            "end": 76,
+            "kind": "spoken_dialogue",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌实际列祝铁和云家几位长老",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实际列祝铁和云家几位长老",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌实际列祝铁和云家几位长老"
+      },
+      {
+        "reference": "v04-c0114:p0065",
+        "length": 29,
+        "sha256": "e438c3d504400405e90e25f2a089f31485bd7f294b26d040fe177b3f97b274a1",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0065:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "东海剑庄少庄主，无形剑何九",
+            "text_context": "何九实际问知藏处者",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "姿态自信，敲案问情报",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九实际问知藏处者",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0065:u002",
+            "start": 15,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九实际问知藏处者",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九实际问知藏处者",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九实际问知藏处者"
+      },
+      {
+        "reference": "v04-c0114:p0066",
+        "length": 61,
+        "sha256": "05e42225d75721b424443f3014005bd9f5d0073ae3e08bf0550bda1924416e29",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0066:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "spoken_dialogue",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "自称乌横剑",
+            "text_context": "乌实列云十三、云七与船帮堂主；不证谁泄漏",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "实际言语",
+            "embodiment": "先受心压，后苦撑并受伤，入舱镇定述事",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实列云十三、云七与船帮堂主；不证谁泄漏",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0066:u002",
+            "start": 43,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌实列云十三、云七与船帮堂主；不证谁泄漏",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "乌实列云十三、云七与船帮堂主；不证谁泄漏",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌实列云十三、云七与船帮堂主；不证谁泄漏"
+      },
+      {
+        "reference": "v04-c0114:p0067",
+        "length": 16,
+        "sha256": "96757eb1a101189eb19df608a336f31350fefa1843bde8a8ffb02bfe284f3af1",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0067:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九继续问，旁叙未逐字",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "乌与何九实际交谈、玉简作辨",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "何九继续问，旁叙未逐字",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九继续问，旁叙未逐字"
+      },
+      {
+        "reference": "v04-c0114:p0068",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0068:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原省略号转港岸",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "孟岸上望船，内想魔主",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "原省略号转港岸",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原省略号转港岸"
+      },
+      {
+        "reference": "v04-c0114:p0069",
+        "length": 27,
+        "sha256": "eb2219bd8b702cd481c1af070eb9e811e505c7fa58074a90ee05269bc8956f7a",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0069:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实持伞在岸看楼船",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "孟岸上望船，内想魔主",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "孟实持伞在岸看楼船",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实持伞在岸看楼船"
+      },
+      {
+        "reference": "v04-c0114:p0070",
+        "length": 32,
+        "sha256": "55a58fe6e97a85e69c687f6261b9bf521f08c1ebcb41df9d3a3a07fc2f22ccc3",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0070:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以毒手外观，持油纸伞",
+            "text_context": "孟实际低声自语有趣，随后转身离开",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "孟岸上望船，内想魔主",
+            "channel": "实际言语",
+            "embodiment": "雨中从容、见魔痕后意外，后立岸自语",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "孟实际低声自语有趣，随后转身离开",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0114:p0070:u002",
+            "start": 5,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际低声自语有趣，随后转身离开",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "孟岸上望船，内想魔主",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "孟实际低声自语有趣，随后转身离开",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际低声自语有趣，随后转身离开"
+      },
+      {
+        "reference": "v04-c0114:p0071",
+        "length": 23,
+        "sha256": "941d07e6a92ff5f14f52eb0522ce9487b3ccd2e69fc085287c24b7f067bf29f0",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0071:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以毒手外观，持油纸伞",
+            "text_context": "孟心觉乌魔痕像昔见魔主",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "孟岸上望船，内想魔主",
+            "channel": "内心",
+            "embodiment": "雨中从容、见魔痕后意外，后立岸自语",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "孟心觉乌魔痕像昔见魔主",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心觉乌魔痕像昔见魔主"
+      },
+      {
+        "reference": "v04-c0114:p0072",
+        "length": 17,
+        "sha256": "4da0faf6fd582ec9ef8528390fc9420f4da089f817399db56e6945474b202fe4",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0072:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以毒手外观，持油纸伞",
+            "text_context": "孟判断同路非同物，尚属观察",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "孟岸上望船，内想魔主",
+            "channel": "内心",
+            "embodiment": "雨中从容、见魔痕后意外，后立岸自语",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "孟判断同路非同物，尚属观察",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟判断同路非同物，尚属观察"
+      },
+      {
+        "reference": "v04-c0114:p0073",
+        "length": 24,
+        "sha256": "96ed5eb048d72f335642a5bea5ad54f22f1aaa4ef020aaba3ea660b9e61c54a9",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0073:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟以毒手外观，持油纸伞",
+            "text_context": "魔坟有关两条假设由孟内疑",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "孟岸上望船，内想魔主",
+            "channel": "内心",
+            "embodiment": "雨中从容、见魔痕后意外，后立岸自语",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "魔坟有关两条假设由孟内疑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "魔坟有关两条假设由孟内疑"
+      },
+      {
+        "reference": "v04-c0114:p0074",
+        "length": 54,
+        "sha256": "0baecd1c00c2b9f19d7c84435915ebe9dd59a76b83e77117ea9498a23e90fb96",
+        "units": [
+          {
+            "unit_id": "v04-c0114:p0074:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟原目标是取信与接近素女道，现增魔主线索",
+            "world_context": "第四卷本界临海：雨街交手、东海剑庄楼船、孟察魔痕",
+            "stage_context": "孟岸上望船，内想魔主",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "第一掌属感官迟缓幻象，第二掌实中额头。乌有魔痕辅助而遁，已上何船。孟追止原因与魔痕来由未证。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "何九从转述联玄天宗只是外观判断，钓者认的是毒手伪装。所知藏处诸人的身份不表明确泄漏者。",
+            "knowledge_boundary": "孟原目标是取信与接近素女道，现增魔主线索",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟原目标是取信与接近素女道，现增魔主线索"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0114",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S14",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 19,
+        "label": "雨珠成帘，乌横剑的速度感变慢",
+        "direction": "伞、霜鬓一开始在乌视点，雨街从镜面般消退。先给心跳与压迫，随后雨声恢复却拉长，唯右掌保持常速。以旁白释只是剑廿三表面相似、缓慢是幻觉。 证据 v04-c0114:p0001–p0019。"
+      },
+      {
+        "paragraph_start": 20,
+        "paragraph_end": 39,
+        "label": "从幻觉脱出，第二掌实中，魔痕护乌遁走",
+        "direction": "乌聚吸力后让雨幕恢复，青袍仍在远处。第二掌轻轻近前，难以辨挡。乌额头显出痕时以魔气与真实中掌的出血相接，乌先遁，孟意外迟半拍再追，雨街恢复。 证据 v04-c0114:p0020–p0039。"
+      },
+      {
+        "paragraph_start": 40,
+        "paragraph_end": 51,
+        "label": "海里警觉骤消，乌上东海剑庄船",
+        "direction": "漆黑光沉水，乌仍觉得追者近，直到忽松。旗中文字由图像说明。钓索和船沿老人先出现，才让乌上甲板听传，然后进舱见何九。 证据 v04-c0114:p0040–p0051。"
+      },
+      {
+        "paragraph_start": 52,
+        "paragraph_end": 67,
+        "label": "舱中问答，玉简由钓者辨认",
+        "direction": "何九直问城里情形，乌转述遇袭，没将灭口作为已证。两掌来路仍由何九估。玉简从乌额、何手、窗外钓线转三处，辨毒手的声音来自舱外。最后所知藏处三人只代表可能线索。 证据 v04-c0114:p0052–p0067。"
+      },
+      {
+        "paragraph_start": 69,
+        "paragraph_end": 74,
+        "label": "港岸再见持伞者，孟想魔主旧事",
+        "direction": "切回岸上孟看楼船，给一句有趣的低语。随着他背向雨雾，魔痕似见过魔主和何时传出的疑问留内，不提前揭掉出处。 证据 v04-c0114:p0069–p0074。"
+      }
+    ],
+    "knowledge_rule": "第一掌所致迟缓来自模拟剑廿三表面而以不死七幻为本；第二掌才实中。何九联玄天宗出自转述后的外观判断。船上辨毒手是辨出外观。乌的逃生、知藏处者和谁泄行踪注意区分。魔痕同源只到孟判断。"
+  }
 }

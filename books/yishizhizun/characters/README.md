@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [乌先历缓慢幻觉，再受第二掌，以魔痕逃生](early-v04-Rain-street-two-palms-and-Wus-dark-mark.md) | 第四卷第114章历史归属回补 |
+| [乌登东海剑庄船，何九问遇袭与三名知情人](early-v04-He-Jiu-questions-Wu-aboard-the-sword-estate-ship.md) | 第四卷第114章历史归属回补 |
+| [岸上孟觉魔痕与魔主相似，来源未定](early-v04-Meng-links-dark-mark-to-the-demon-master.md) | 第四卷第114章历史归属回补 |
 | [夜入祝家祖宅，百花称由云九安排](early-v04-Zhu-house-refuge-and-the-Yun-succession.md) | 第四卷第113章历史归属回补 |
 | [乌横剑自称，百花婴宁分别转报死因线索](early-v04-Wu-Hengjian-name-and-the-Yun-death-allegation.md) | 第四卷第113章历史归属回补 |
 | [雨中乌横剑看到撑伞青袍人](early-v04-Wu-Hengjian-sees-a-figure-in-the-rain.md) | 第四卷第113章历史归属回补 |
