@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [阴魂避控，再用蓝血形抵御腐蚀](early-v04-Meng-changes-form-against-blue-blood-control.md) | 第四卷第117章历史归属回补 |
+| [变天击地窥得海沟塔，受阻后只余一石](early-v04-Blue-tower-memory-collapses-leaving-a-stone.md) | 第四卷第117章历史归属回补 |
+| [法证携石返云府，剑庄以石谈蓝血](early-v04-Water-heart-stone-shown-to-the-Sword-Estate.md) | 第四卷第117章历史归属回补 |
 | [沾因果气机慑住黄太冲，未出刀](early-v04-Causal-pressure-ends-Huangs-glance.md) | 第四卷第116章历史归属回补 |
 | [推衍得蓝血，东海剑庄三人同声](early-v04-Blue-blood-and-the-sword-estate-reaction.md) | 第四卷第116章历史归属回补 |
 | [溪边人认出法证是毒手外观，尚无交手](early-v04-Blue-robed-stranger-sees-through-Fazheng.md) | 第四卷第116章历史归属回补 |
