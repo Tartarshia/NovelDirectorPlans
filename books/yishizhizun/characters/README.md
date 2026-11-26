@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [沈岳经历幻真难辨的夕阳交手](early-v04-Shen-Yue-cannot-sort-illusion-from-reality.md) | 第四卷第109章历史归属回补 |
+| [沈岳介绍追魂魔君、令狐与百花夫人](early-v04-Shen-Yue-introduces-Mo-Tiange-and-Madam-Baihua.md) | 第四卷第109章历史归属回补 |
+| [孟用诸法推动不死七幻，事后仍等端木](early-v04-Meng-tests-the-Seven-Illusions-and-waits.md) | 第四卷第109章历史归属回补 |
 | [端木领毒手外观的孟奇进朱紫楼](early-v04-Poison-Hand-disguise-admitted-to-Jiangdong-tower.md) | 第四卷第108章历史归属回补 |
 | [孟借请托寻线索，端木只答转告](early-v04-Duanmu-agrees-only-to-pass-on-the-request.md) | 第四卷第108章历史归属回补 |
 | [沈岳交易后离城，于夕阳下认出毒手外观](early-v04-Shen-Yue-recognizes-Poison-Hand-in-the-sunset.md) | 第四卷第108章历史归属回补 |

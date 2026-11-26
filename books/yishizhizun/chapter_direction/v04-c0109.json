@@ -61,7 +61,2561 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0277"
+  "reading_batch": "batch-0277",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0109",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0109.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0109:p0001",
+        "length": 70,
+        "sha256": "99ae43c6b5bc845311ee896a8cd46b8a1cdfc0fd823781704062c5b51b876a00",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0001:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈听认识之言起戒心，复问是否出声未明",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "沈岳复念，出声未明",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈听认识之言起戒心，复问是否出声未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0001:u002",
+            "start": 7,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈听认识之言起戒心，复问是否出声未明",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈听认识之言起戒心，复问是否出声未明",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈听认识之言起戒心，复问是否出声未明"
+      },
+      {
+        "reference": "v04-c0109:p0002",
+        "length": 61,
+        "sha256": "f49e2c460271e8fefc6cfb6bc331adcbd929f3cc2aa53aafaa1504169e01ae85",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0002:u001",
+            "start": 0,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈按真毒手旧闻估更强，眼前其实孟",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈按真毒手旧闻估更强，眼前其实孟",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈按真毒手旧闻估更强，眼前其实孟"
+      },
+      {
+        "reference": "v04-c0109:p0003",
+        "length": 24,
+        "sha256": "0f0b4219564d34ef81cbb9f50c7ba96a5b60faeb2b143acc004808fb724726f4",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0003:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈心疑半途拦截必另有目的",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈心疑半途拦截必另有目的",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈心疑半途拦截必另有目的"
+      },
+      {
+        "reference": "v04-c0109:p0004",
+        "length": 49,
+        "sha256": "376c92345605b326c673bf60cfded33665e507eeabea82a45acf27d584f574aa",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0004:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈看青袍气势而有山压感",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈看青袍气势而有山压感",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈看青袍气势而有山压感"
+      },
+      {
+        "reference": "v04-c0109:p0005",
+        "length": 51,
+        "sha256": "84f1548434178de76272abc767e88b0df67ad93a50bdfdc3ebbac5bdc90df0ac",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0005:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟以毒手外观实问门派与附近同道",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟以毒手外观实问门派与附近同道",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0005:u002",
+            "start": 22,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "孟以毒手外观实问门派与附近同道",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "实际言语",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟以毒手外观实问门派与附近同道",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0005:u003",
+            "start": 34,
+            "end": 51,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "孟以毒手外观实问门派与附近同道",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "实际言语",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟以毒手外观实问门派与附近同道",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟以毒手外观实问门派与附近同道"
+      },
+      {
+        "reference": "v04-c0109:p0006",
+        "length": 63,
+        "sha256": "414b5867ef4ed4757e1f2bc7a386a2b631406c62932fb0ca762cb37ce1db5180",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0006:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "斜照幽暗皆从沈的感官展开",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "斜照幽暗皆从沈的感官展开",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "斜照幽暗皆从沈的感官展开"
+      },
+      {
+        "reference": "v04-c0109:p0007",
+        "length": 45,
+        "sha256": "9acf2d8851fa27eb7ec55a4178267178b2f595067527fa13bbd13f67842e92c6",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0007:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈觉得若拒就会有异动",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈觉得若拒就会有异动",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈觉得若拒就会有异动"
+      },
+      {
+        "reference": "v04-c0109:p0008",
+        "length": 29,
+        "sha256": "ac4f343c98e6385234e56260b402f5376696fd04e62a9ecaf46ead814a9d2e3a",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0008:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈在心中以境界差不大强行镇定",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈在心中以境界差不大强行镇定",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈在心中以境界差不大强行镇定"
+      },
+      {
+        "reference": "v04-c0109:p0009",
+        "length": 11,
+        "sha256": "bff695f72670386ec56ab15fabe2d745a7f09f4dd6eeb8a8a680f9b40ae368d4",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0009:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内算即使难敌也能逃",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内算即使难敌也能逃",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内算即使难敌也能逃"
+      },
+      {
+        "reference": "v04-c0109:p0010",
+        "length": 38,
+        "sha256": "067fef4d2adc6eada9605705138ef28f2e35e56a32bfae28792418b5683960a4",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0010:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈实际用照影门自报开头，未说完",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈实际用照影门自报开头，未说完",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0010:u002",
+            "start": 17,
+            "end": 38,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈实际用照影门自报开头，未说完",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "实际言语",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈实际用照影门自报开头，未说完",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈实际用照影门自报开头，未说完"
+      },
+      {
+        "reference": "v04-c0109:p0011",
+        "length": 39,
+        "sha256": "925bd33b40cc1ebce84ca8c332bee035836add986458092b8bff1d3555f365d2",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0011:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈所感自己手现黑白短剑，处交手感官段",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈所感自己手现黑白短剑，处交手感官段",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈所感自己手现黑白短剑，处交手感官段"
+      },
+      {
+        "reference": "v04-c0109:p0012",
+        "length": 47,
+        "sha256": "661d21f527e65de50f81d7b0a08291abffd9f5b942a064729b17e283ee196f8d",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0012:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈所见孟脚下影子扑起，是否外在发生保留",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈所见孟脚下影子扑起，是否外在发生保留",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈所见孟脚下影子扑起，是否外在发生保留"
+      },
+      {
+        "reference": "v04-c0109:p0013",
+        "length": 114,
+        "sha256": "5f0cb7d98c13251dd087d5856821e16ddefe90e9bffd686bce7937e8eceb220d",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0013:u001",
+            "start": 0,
+            "end": 114,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述暗影浮动原理和假设功力，不等于这回影子给出实证",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "旁述暗影浮动原理和假设功力，不等于这回影子给出实证",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述暗影浮动原理和假设功力，不等于这回影子给出实证"
+      },
+      {
+        "reference": "v04-c0109:p0014",
+        "length": 41,
+        "sha256": "dbde617a04b377ab372e8d32a517a445a2fa28ac705d6ec6a321fce814e12d0c",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0014:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述沈未跨第一天梯，其影所呈战力",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "旁述沈未跨第一天梯，其影所呈战力",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述沈未跨第一天梯，其影所呈战力"
+      },
+      {
+        "reference": "v04-c0109:p0015",
+        "length": 21,
+        "sha256": "9f439d04c73e5263ba6165b11441d940cb7c744f931efd6eb2618ff2f7017c13",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0015:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈视点评其夹击，未证外在效果",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈视点评其夹击，未证外在效果",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈视点评其夹击，未证外在效果"
+      },
+      {
+        "reference": "v04-c0109:p0016",
+        "length": 35,
+        "sha256": "f467b2d48315ecf6a10eb3df8424915e7172f06027f349d57fd45839926b1bbf",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0016:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述沈素来戒备、惯先出手",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "旁述沈素来戒备、惯先出手",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述沈素来戒备、惯先出手"
+      },
+      {
+        "reference": "v04-c0109:p0017",
+        "length": 24,
+        "sha256": "2338644a944978d0da3124b91e3e8b0be584dabd633313c13d24f721cee6adc0",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0017:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈的影子近身场景，仍在感官段",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "从夕阳试探起到影扑近身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈的影子近身场景，仍在感官段",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈的影子近身场景，仍在感官段"
+      },
+      {
+        "reference": "v04-c0109:p0018",
+        "length": 48,
+        "sha256": "46e89b7485a3fc48a8baa1d2ae574abdd915bb9a7ae0d896b9818f34d89858e3",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0018:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈所见夕阳火云突然不存",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈所见夕阳火云突然不存",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈所见夕阳火云突然不存"
+      },
+      {
+        "reference": "v04-c0109:p0019",
+        "length": 37,
+        "sha256": "d54177b528538437ffe0efe1a7c4922a520ae80d9460d0a0cf173be594440024",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0019:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈所感漆黑切断与影子勾连",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈所感漆黑切断与影子勾连",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈所感漆黑切断与影子勾连"
+      },
+      {
+        "reference": "v04-c0109:p0020",
+        "length": 5,
+        "sha256": "e62d664ebecb5f483b63e70d1c056d1d670086564d7ce5e9e727be9e666ec6f3",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0020:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "以夜代日是沈对此的内认",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "以夜代日是沈对此的内认",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "以夜代日是沈对此的内认"
+      },
+      {
+        "reference": "v04-c0109:p0021",
+        "length": 92,
+        "sha256": "e461af92aea7f539be5cc1151758fc7da5b3c9bb181128e215eea74aeec93806",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0021:u001",
+            "start": 0,
+            "end": 92,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈感青袍万丈并大掌压来",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈感青袍万丈并大掌压来",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈感青袍万丈并大掌压来"
+      },
+      {
+        "reference": "v04-c0109:p0022",
+        "length": 32,
+        "sha256": "5a3379570d7f6ee34716cbb32bcfd7f974fa4dccea510c9ad12f588e54ad6c51",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0022:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈边惊边强压心湖",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈边惊边强压心湖",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0022:u002",
+            "start": 3,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈边惊边强压心湖",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈边惊边强压心湖",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈边惊边强压心湖"
+      },
+      {
+        "reference": "v04-c0109:p0023",
+        "length": 101,
+        "sha256": "1328f360d410a95793975925cc02ca41b7e710bcc137bed4b1075267e79ecc19",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0023:u001",
+            "start": 0,
+            "end": 101,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈回顾幻术类对手难处",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈回顾幻术类对手难处",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈回顾幻术类对手难处"
+      },
+      {
+        "reference": "v04-c0109:p0024",
+        "length": 32,
+        "sha256": "e3fac2464e97a6d900d40333347365a077c9073228ca79c44a6ec55677a8e2cf",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0024:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内判断眼前像幻术仍有杀机",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内判断眼前像幻术仍有杀机",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内判断眼前像幻术仍有杀机"
+      },
+      {
+        "reference": "v04-c0109:p0025",
+        "length": 63,
+        "sha256": "70464e2f5ac425f72a5c1dc2a2ffdb89f6bd0f7615e6d0482be24c10271db806",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0025:u001",
+            "start": 0,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈尝试分辨而无法确定",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈尝试分辨而无法确定",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈尝试分辨而无法确定"
+      },
+      {
+        "reference": "v04-c0109:p0026",
+        "length": 66,
+        "sha256": "ec223cfd933654b943709d2f3a13218380707d9a5090866d87adc2c9687cfd53",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0026:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内想不能坐等，所感剑光围向四周",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内想不能坐等，所感剑光围向四周",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0026:u002",
+            "start": 7,
+            "end": 66,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈内想不能坐等，所感剑光围向四周",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内想不能坐等，所感剑光围向四周",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内想不能坐等，所感剑光围向四周"
+      },
+      {
+        "reference": "v04-c0109:p0027",
+        "length": 37,
+        "sha256": "3ed9609c4beaf36f63ba3bbc82bc87d14f57bcc2643925ac33e09686684f906f",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0027:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈所见巨大青袍被斩现水波",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈所见巨大青袍被斩现水波",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈所见巨大青袍被斩现水波"
+      },
+      {
+        "reference": "v04-c0109:p0028",
+        "length": 13,
+        "sha256": "e700a5aeff0739fe016047e24c54274e62b78bb28eb2f6d72450d92af50de5d8",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0028:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内先以为验证幻觉",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内先以为验证幻觉",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0028:u002",
+            "start": 6,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈内先以为验证幻觉",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内先以为验证幻觉",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内先以为验证幻觉"
+      },
+      {
+        "reference": "v04-c0109:p0029",
+        "length": 71,
+        "sha256": "4772fa214dc8fe64e100390046d78ea3c7f78aca4a356bc4986c9d6e2ae7083d",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0029:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈感碎块各成形，众掌袭来",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈感碎块各成形，众掌袭来",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈感碎块各成形，众掌袭来"
+      },
+      {
+        "reference": "v04-c0109:p0030",
+        "length": 5,
+        "sha256": "e57ba7de52da580a795c820b97079a6a209483fb6558a7ed41ea6689029e3854",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0030:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内惊以幻为实",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内惊以幻为实",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内惊以幻为实"
+      },
+      {
+        "reference": "v04-c0109:p0031",
+        "length": 46,
+        "sha256": "e34cc0ad3499b714304767c44c4a107eebb6f16c7437fb80dcc08e407050a066",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0031:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈觉得身体将被撕扯，非客观伤情记录",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈觉得身体将被撕扯，非客观伤情记录",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈觉得身体将被撕扯，非客观伤情记录"
+      },
+      {
+        "reference": "v04-c0109:p0032",
+        "length": 50,
+        "sha256": "07efe60d3f2de573712418b1a3fb886c5e8f236a1ee4d7456edeafef08025109",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0032:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈所感双剑护身",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈所感双剑护身",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈所感双剑护身"
+      },
+      {
+        "reference": "v04-c0109:p0033",
+        "length": 8,
+        "sha256": "ec0997ba190d109b62ca13aa917e83c70c558a7cfd4fc9a534363e5329ab5613",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0033:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "掌剑拟音，处感官段",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "掌剑拟音，处感官段",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0033:u002",
+            "start": 4,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "掌剑拟音，处感官段",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "掌剑拟音，处感官段",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "掌剑拟音，处感官段"
+      },
+      {
+        "reference": "v04-c0109:p0034",
+        "length": 62,
+        "sha256": "1e1e86345b800a807531731930804157e75631a6047da3e55a88233b441a20fa",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0034:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "气血翻涌、吐血未吐均从沈感到",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "气血翻涌、吐血未吐均从沈感到",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "气血翻涌、吐血未吐均从沈感到"
+      },
+      {
+        "reference": "v04-c0109:p0035",
+        "length": 96,
+        "sha256": "0954a8ece28d04d5d157fa8e2fe921acd69d3b60be53795a883ed2f4e9f231bd",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0035:u001",
+            "start": 0,
+            "end": 96,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈所使惊鸿如蛟，影子配合未见",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈所使惊鸿如蛟，影子配合未见",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈所使惊鸿如蛟，影子配合未见"
+      },
+      {
+        "reference": "v04-c0109:p0036",
+        "length": 43,
+        "sha256": "910f3088303e6edd7a3a864cb0ef659e689e474cbec24b592c0e23103090e5f3",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0036:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈看到青袍和暗处破碎",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈看到青袍和暗处破碎",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈看到青袍和暗处破碎"
+      },
+      {
+        "reference": "v04-c0109:p0037",
+        "length": 70,
+        "sha256": "25c80b617a9d2b578ac80033ed0c6c1441dda125d0fc156dcbe2ed60a0c3d684",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0037:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内喜，随后又见暗与青袍",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内喜，随后又见暗与青袍",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0037:u002",
+            "start": 3,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈内喜，随后又见暗与青袍",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内喜，随后又见暗与青袍",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内喜，随后又见暗与青袍"
+      },
+      {
+        "reference": "v04-c0109:p0038",
+        "length": 78,
+        "sha256": "523a0e6a430493fcafc619d50341847936a304fc6a0dd9d28067b49c1924cff7",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0038:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内疑仍未破，感沉指可怕",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内疑仍未破，感沉指可怕",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0038:u002",
+            "start": 4,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈内疑仍未破，感沉指可怕",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内疑仍未破，感沉指可怕",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内疑仍未破，感沉指可怕"
+      },
+      {
+        "reference": "v04-c0109:p0039",
+        "length": 39,
+        "sha256": "3df5950d48c4ba9fc259f6b828a65145d95a5f86ffabd592f0db0d3b4c2db69c",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0039:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈感将被撕裂，未写实伤",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈感将被撕裂，未写实伤",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈感将被撕裂，未写实伤"
+      },
+      {
+        "reference": "v04-c0109:p0040",
+        "length": 59,
+        "sha256": "24ae69197e1714ec2cb57a1616ae2f49c8372c4cbd8d4a29ff34aa7bba730f09",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0040:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内惊指势，所见交剑爆开",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内惊指势，所见交剑爆开",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0040:u002",
+            "start": 7,
+            "end": 59,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈内惊指势，所见交剑爆开",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内惊指势，所见交剑爆开",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内惊指势，所见交剑爆开"
+      },
+      {
+        "reference": "v04-c0109:p0041",
+        "length": 2,
+        "sha256": "f89d2382521a449f325bb555bd1dea48cc7ee22314598c0c4aa1187cf0260990",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0041:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "单字轰是场内拟音，不是人物台词",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "单字轰是场内拟音，不是人物台词",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "单字轰是场内拟音，不是人物台词"
+      },
+      {
+        "reference": "v04-c0109:p0042",
+        "length": 17,
+        "sha256": "0b8f3b65f5da270ce7e6a4ead728eaac0c62acdd1add5655ff42970bce6448b6",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0042:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈所感两股力量皆消失",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈所感两股力量皆消失",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈所感两股力量皆消失"
+      },
+      {
+        "reference": "v04-c0109:p0043",
+        "length": 39,
+        "sha256": "db60ba7ad010c8149a3f7399f1d12cd0b79e65cf38fded7c774ce2266a63b318",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0043:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈所感被震离，仍见青袍",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈所感黑夜、诸掌与沉指",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈所感被震离，仍见青袍",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈所感被震离，仍见青袍"
+      },
+      {
+        "reference": "v04-c0109:p0044",
+        "length": 15,
+        "sha256": "983495e7120235eec07c7612e03f965c28849978dbe4acfe9df8da90a32ee801",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0044:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟在感官交手里没有续追",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟在感官交手里没有续追",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟在感官交手里没有续追"
+      },
+      {
+        "reference": "v04-c0109:p0045",
+        "length": 16,
+        "sha256": "d6acfbe284da4448d8081b0cb39a2e8911a9a6418ebf1510f9cf425ff2291c6f",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0045:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "孟借毒手外观说心魔之语，仍处真假未明处",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "沈岳所感交手中的孟奇话语",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟借毒手外观说心魔之语，仍处真假未明处",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟借毒手外观说心魔之语，仍处真假未明处"
+      },
+      {
+        "reference": "v04-c0109:p0046",
+        "length": 25,
+        "sha256": "48f2d9781aa808dd6980bec408a230286c7e27da9fd6cf1ed40da7f271c8773e",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0046:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内疑，未抓关键",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内疑，未抓关键",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0046:u002",
+            "start": 3,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈内疑，未抓关键",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内疑，未抓关键",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内疑，未抓关键"
+      },
+      {
+        "reference": "v04-c0109:p0047",
+        "length": 84,
+        "sha256": "402285f6789aa4dc525e27544ae41bec62d9452d2498df663aacac404b150e5e",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0047:u001",
+            "start": 0,
+            "end": 84,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈重新见山阴夕阳与未动的青袍",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈重新见山阴夕阳与未动的青袍",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈重新见山阴夕阳与未动的青袍"
+      },
+      {
+        "reference": "v04-c0109:p0048",
+        "length": 50,
+        "sha256": "732e220e45907c5257d278c8c4abb1e46bed72960b3590f4a3e873b3073814a0",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0048:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "所见与开始似同，沈推刚才可能为幻",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "所见与开始似同，沈推刚才可能为幻",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "所见与开始似同，沈推刚才可能为幻"
+      },
+      {
+        "reference": "v04-c0109:p0049",
+        "length": 41,
+        "sha256": "ae6405896c3e9485b483c41369211aa45c63e6700fd368d4566774a34e1cdba9",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0049:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内盘问两方动作是否皆幻",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内盘问两方动作是否皆幻",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内盘问两方动作是否皆幻"
+      },
+      {
+        "reference": "v04-c0109:p0050",
+        "length": 12,
+        "sha256": "3ca3bf54d5038735d64a846fe8cc04ed76b64a7ceaab0ef840c83ddd168813d5",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0050:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内又怀疑此番何以真实",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内又怀疑此番何以真实",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内又怀疑此番何以真实"
+      },
+      {
+        "reference": "v04-c0109:p0051",
+        "length": 19,
+        "sha256": "c1cbc9ecaf3672de047bd45d935b91cf63020a319c755ca414374f196191dc08",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0051:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈感觉此刻告诉自己那是幻",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈感觉此刻告诉自己那是幻",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈感觉此刻告诉自己那是幻"
+      },
+      {
+        "reference": "v04-c0109:p0052",
+        "length": 9,
+        "sha256": "db1c6a2d1632cd4a44f4ae72d9517a8e85245abd36d4da88af0e9db9c81b4c3a",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0052:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈又疑此刻才是幻",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈又疑此刻才是幻",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈又疑此刻才是幻"
+      },
+      {
+        "reference": "v04-c0109:p0053",
+        "length": 38,
+        "sha256": "606e0b120d746b9e7c95443bdbd7c424ef015982d5ba9425ebf083d82337e5f6",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0053:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈真假难判，未给现实对账",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈真假难判，未给现实对账",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈真假难判，未给现实对账"
+      },
+      {
+        "reference": "v04-c0109:p0054",
+        "length": 45,
+        "sha256": "fc0ab66aae187cd93733811585fe8ef11151f9aaf8e6a19cc45d589dc675f4f4",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0054:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈实际在凉风下打颤出汗",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈实际在凉风下打颤出汗",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈实际在凉风下打颤出汗"
+      },
+      {
+        "reference": "v04-c0109:p0055",
+        "length": 57,
+        "sha256": "64304cffc5035619c2f5013a4d0fd4d6b32ba6c65bf4cc390abc3261db31eb01",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0055:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "返回夕阳问答，孟不转身先问孙长老",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "实际言语",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "返回夕阳问答，孟不转身先问孙长老",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0055:u002",
+            "start": 21,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "返回夕阳问答，孟不转身先问孙长老",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "实际言语",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "返回夕阳问答，孟不转身先问孙长老",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0055:u003",
+            "start": 31,
+            "end": 57,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "返回夕阳问答，孟不转身先问孙长老",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "返回夕阳问答，孟不转身先问孙长老",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "返回夕阳问答，孟不转身先问孙长老"
+      },
+      {
+        "reference": "v04-c0109:p0056",
+        "length": 36,
+        "sha256": "f9dc9dde3d112fc9209c4a32295d00fc3ddee1da07371aba715b0699763be355",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0056:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白交代孟以旧资料选此话头",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "旁白交代孟以旧资料选此话头",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白交代孟以旧资料选此话头"
+      },
+      {
+        "reference": "v04-c0109:p0057",
+        "length": 112,
+        "sha256": "227e37761a6d806d016128b5935e7ad5ae09a45811189a871b013137ed233075",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0057:u001",
+            "start": 0,
+            "end": 112,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈将眼前毒手估近黑榜人物，非实际排位",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈将眼前毒手估近黑榜人物，非实际排位",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈将眼前毒手估近黑榜人物，非实际排位"
+      },
+      {
+        "reference": "v04-c0109:p0058",
+        "length": 18,
+        "sha256": "3d47deb243cf269c53f501ba5a4dca36370676431a80c27551974552e514844c",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0058:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白交代黑榜能入地榜的席位",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "旁白交代黑榜能入地榜的席位",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白交代黑榜能入地榜的席位"
+      },
+      {
+        "reference": "v04-c0109:p0059",
+        "length": 40,
+        "sha256": "52cbbc37528af1191747f49976d118796832b137e98580a3b918f2c57efe65cb",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0059:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈直接答孙长老未跨第一天梯",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "实际言语",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈直接答孙长老未跨第一天梯",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0059:u002",
+            "start": 31,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈直接答孙长老未跨第一天梯",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈直接答孙长老未跨第一天梯",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈直接答孙长老未跨第一天梯"
+      },
+      {
+        "reference": "v04-c0109:p0060",
+        "length": 13,
+        "sha256": "fca469197fe963d97dfd2b2b02818e3a95f0b770de8f750bd30181ea3e1b6cf3",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0060:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白定沈欺软怕硬",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "夕阳复现，真假难辨后问孙长老",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "旁白定沈欺软怕硬",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白定沈欺软怕硬"
+      },
+      {
+        "reference": "v04-c0109:p0061",
+        "length": 25,
+        "sha256": "4750907787d3fe2b05671557e765258f25d67466dcafb4ee76f20ef42e4564df",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0061:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟转回脸",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟转回脸",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟转回脸"
+      },
+      {
+        "reference": "v04-c0109:p0062",
+        "length": 22,
+        "sha256": "e7cd01a333d024573653d2712613d6db419057518302449bfe931082d900af6d",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0062:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "孟实重问附近同道",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "实际言语",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟实重问附近同道",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实重问附近同道"
+      },
+      {
+        "reference": "v04-c0109:p0063",
+        "length": 27,
+        "sha256": "ada3f5b4c5d60c9f1ca9606e6bd07663c64d0aed9a62c141b40a063307d77380",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0063:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈口说附近有前辈熟人",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈口说附近有前辈熟人",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0063:u002",
+            "start": 13,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈口说附近有前辈熟人",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "实际言语",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈口说附近有前辈熟人",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈口说附近有前辈熟人"
+      },
+      {
+        "reference": "v04-c0109:p0064",
+        "length": 13,
+        "sha256": "f09075252245f8f0b246c446d85ef881f6bd865c62d8472d86e7f762e634e4d5",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0064:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "孟实际随口问谁",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "实际言语",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟实际随口问谁",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0064:u002",
+            "start": 4,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际随口问谁",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟实际随口问谁",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际随口问谁"
+      },
+      {
+        "reference": "v04-c0109:p0065",
+        "length": 63,
+        "sha256": "902267124987ed6ed8fdf7e35e1595e4ecf87e3a90735b6c66c79a020f2e7c99",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0065:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈报追魂魔君莫天歌与过天梯，后台只猜",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈报追魂魔君莫天歌与过天梯，后台只猜",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0065:u002",
+            "start": 4,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈报追魂魔君莫天歌与过天梯，后台只猜",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "实际言语",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈报追魂魔君莫天歌与过天梯，后台只猜",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈报追魂魔君莫天歌与过天梯，后台只猜"
+      },
+      {
+        "reference": "v04-c0109:p0066",
+        "length": 24,
+        "sha256": "55fb990ce8ffc98584094eb1ed4857271f99a093d73d831ef8382a5f29e4b1e2",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0066:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈暗察孟情绪，因为真毒手与追魂是旧仇",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈暗察孟情绪，因为真毒手与追魂是旧仇",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈暗察孟情绪，因为真毒手与追魂是旧仇"
+      },
+      {
+        "reference": "v04-c0109:p0067",
+        "length": 23,
+        "sha256": "c51a2634f36f592a7a65d00e42fee2f8650be01a3db8993dd5d9c857a5dee83d",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0067:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "孟实答也算苦尽甘来，未表露敌意",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "实际言语",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟实答也算苦尽甘来，未表露敌意",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0067:u002",
+            "start": 12,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实答也算苦尽甘来，未表露敌意",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟实答也算苦尽甘来，未表露敌意",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实答也算苦尽甘来，未表露敌意"
+      },
+      {
+        "reference": "v04-c0109:p0068",
+        "length": 93,
+        "sha256": "de5d04258903058baef6c24ad7a6bb815e686801231f3a6718f383e485006ee8",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0068:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内惊不恨，口报六极真魔令狐黑榜九十三",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "内心",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内惊不恨，口报六极真魔令狐黑榜九十三",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0068:u002",
+            "start": 29,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈内惊不恨，口报六极真魔令狐黑榜九十三",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内惊不恨，口报六极真魔令狐黑榜九十三",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0068:u003",
+            "start": 51,
+            "end": 93,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈内惊不恨，口报六极真魔令狐黑榜九十三",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "实际言语",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈内惊不恨，口报六极真魔令狐黑榜九十三",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈内惊不恨，口报六极真魔令狐黑榜九十三"
+      },
+      {
+        "reference": "v04-c0109:p0069",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0069:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略号略去其他介绍",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "省略号略去其他介绍",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略号略去其他介绍"
+      },
+      {
+        "reference": "v04-c0109:p0070",
+        "length": 22,
+        "sha256": "0487afde72398fe9772a923f032d625a4bda861b6e918282419a42c948bdbb41",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0070:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈依次介绍，孟静听",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈依次介绍，孟静听",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈依次介绍，孟静听"
+      },
+      {
+        "reference": "v04-c0109:p0071",
+        "length": 44,
+        "sha256": "92e4fc7aaf99559f0211f009adf4167088ad4e02942dbca40e3292cd1432efa4",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0071:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈口报百花夫人是郢城一处青楼的人，实力不详",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "实际言语",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈口报百花夫人是郢城一处青楼的人，实力不详",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈口报百花夫人是郢城一处青楼的人，实力不详"
+      },
+      {
+        "reference": "v04-c0109:p0072",
+        "length": 52,
+        "sha256": "2af206269f40d6f59810edf93147206de2490c7f65650dcbc0795dc87fe6f100",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0072:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实问端木身边之人是否她所送",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟实问端木身边之人是否她所送",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0072:u002",
+            "start": 35,
+            "end": 52,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "孟实问端木身边之人是否她所送",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "实际言语",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟实问端木身边之人是否她所送",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实问端木身边之人是否她所送"
+      },
+      {
+        "reference": "v04-c0109:p0073",
+        "length": 22,
+        "sha256": "93435e635b9fbc8c38e71eb8c35b9cf434a462200f63c804bb7b417221160e66",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0073:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈实答不了解",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈实答不了解",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0073:u002",
+            "start": 7,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "照影门执法长老沈岳",
+            "text_context": "沈实答不了解",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "实际言语",
+            "embodiment": "先戒备、交手中惊疑、重见夕阳汗冷，后低眉答话",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈实答不了解",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈实答不了解"
+      },
+      {
+        "reference": "v04-c0109:p0074",
+        "length": 30,
+        "sha256": "1fc31be7dc4e72e9a71f22044425b65d132eee816e2859cfd1971825e3f3f74b",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0074:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟让继续并最终挥手放沈",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟让继续并最终挥手放沈",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟让继续并最终挥手放沈"
+      },
+      {
+        "reference": "v04-c0109:p0075",
+        "length": 40,
+        "sha256": "40ed0f3bfb1d426149bea01874ae6edfd556571ab6c5373e36b102bce673db20",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0075:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈遁走百里才松气且犹颤",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "沈介绍附近同道，被放离开",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "沈遁走百里才松气且犹颤",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈遁走百里才松气且犹颤"
+      },
+      {
+        "reference": "v04-c0109:p0076",
+        "length": 90,
+        "sha256": "160c12a53fb04e9735f00daa6db18753b20e8ec2715235f2cc0fc3001edebf1a",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0076:u001",
+            "start": 0,
+            "end": 90,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟走后收束透露以诸法推动不死七幻，原来是在试验",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "孟揭试术与等待打算",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟走后收束透露以诸法推动不死七幻，原来是在试验",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟走后收束透露以诸法推动不死七幻，原来是在试验"
+      },
+      {
+        "reference": "v04-c0109:p0077",
+        "length": 23,
+        "sha256": "c7304d100f6567f23b3b4fb57795e2d45e2c31457b952752acb8c3abcb1dbf75",
+        "units": [
+          {
+            "unit_id": "v04-c0109:p0077:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "毒手魔君外观，实际为孟奇",
+            "text_context": "孟内留意百花夫人，实际打算先等端木答复",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "孟揭试术与等待打算",
+            "channel": "内心",
+            "embodiment": "夕阳下不先转身，摘问旧人，最后放沈",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟内留意百花夫人，实际打算先等端木答复",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0109:p0077:u002",
+            "start": 6,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内留意百花夫人，实际打算先等端木答复",
+            "world_context": "第四卷本界：孟以毒手外观见沈岳，试不死七幻，听左道名单",
+            "stage_context": "孟揭试术与等待打算",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟没有追伤或留沈；沈自行离开。结尾说明孟实试术，沈各段感官未逐项判真。端木未回报，百花夫人未接触。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "莫天歌过天梯由沈陈述，后台未知。令狐名次由沈报，沈估毒手近黑榜不是登榜。",
+            "knowledge_boundary": "孟内留意百花夫人，实际打算先等端木答复",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内留意百花夫人，实际打算先等端木答复"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0109",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S14",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 17,
+        "label": "夕阳下问同道，沈戒备而先动",
+        "direction": "孟只问门户和附近同道，沈的猜疑与自我镇定作内心。短剑与脚边暗影从沈的感官开始，保留这一视点直到夕阳复见。 证据 v04-c0109:p0001–p0017。"
+      },
+      {
+        "paragraph_start": 18,
+        "paragraph_end": 43,
+        "label": "夕阳消失，黑夜中试辨真假",
+        "direction": "从光线消失和人影勾连断开，渐推到沈看见青袍万丈。先随他以为斩出水纹便识破，再随他觉诸掌如实。剑光破黑后再次收暗，手指与吸力令他预期落空，始终按他所感推进。 证据 v04-c0109:p0018–p0043。"
+      },
+      {
+        "paragraph_start": 44,
+        "paragraph_end": 60,
+        "label": "心魔一语后回到夕阳，问起孙长老",
+        "direction": "孟的不死之语留在沈所见所闻的交手段。由晚风、未变的火云和青袍侧身复接原构图。沈出汗、打颤，再接孟淡淡问孙长老；沈自己仍分不清。 证据 v04-c0109:p0044–p0060。"
+      },
+      {
+        "paragraph_start": 61,
+        "paragraph_end": 75,
+        "label": "沈说附近左道，回话后获放",
+        "direction": "孟回头才再问。沈对旧仇的暗试留在自己心里，孟的简答维持淡然。让百花夫人在连续名单中被孟单独追问，答曰不知。孟挥手，沈渐遁到百里之外才放松。 证据 v04-c0109:p0061–p0075。"
+      },
+      {
+        "paragraph_start": 76,
+        "paragraph_end": 77,
+        "label": "末尾交代试术，孟决定先等",
+        "direction": "从青袍人负手观沈离去转入孟视点，说明多法结合试不死七幻。给百花夫人一瞬心念，最后仍等端木北回话。 证据 v04-c0109:p0076–p0077。"
+      }
+    ],
+    "knowledge_rule": "争斗视听依沈岳当时所感，不对照逐项判定实体事件或伤情。孟的心魔话语归在沈所感场内，其后夕阳对话按正常当面对话。黑榜之感只是沈估，报出的名次也各有来源。百花夫人仍未接触。"
+  }
 }
