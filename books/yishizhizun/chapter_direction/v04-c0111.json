@@ -61,7 +61,2195 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0279"
+  "reading_batch": "batch-0279",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0111",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0111.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0111:p0001",
+        "length": 135,
+        "sha256": "5aaaf73e8a68e515d44f85ba2d25cd93613f2282b290f69c737348e89e4c706c",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0001:u001",
+            "start": 0,
+            "end": 135,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟知面谈并非私下，事先用话语与姿态遮掩虚实",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟知面谈并非私下，事先用话语与姿态遮掩虚实",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟知面谈并非私下，事先用话语与姿态遮掩虚实"
+      },
+      {
+        "reference": "v04-c0111:p0002",
+        "length": 65,
+        "sha256": "bab36d3051985955b81c74ce7db6a1e81345fc0c0a69b40f8eea52dc80e8ae2a",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0002:u001",
+            "start": 0,
+            "end": 65,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟仍端坐从容，似不把追魂放在心上",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟仍端坐从容，似不把追魂放在心上",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟仍端坐从容，似不把追魂放在心上"
+      },
+      {
+        "reference": "v04-c0111:p0003",
+        "length": 36,
+        "sha256": "d3f5b35403433d9b01ececf9736e518eb76ec5b9218f191c15a8ac522ee96474",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0003:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫闭眼略讶，心问孟的信心",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫闭眼略讶，心问孟的信心",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0003:u002",
+            "start": 19,
+            "end": 36,
+            "kind": "inner_speech",
+            "speaker": "mo_tiange",
+            "surface_identity": "追魂魔君莫天歌，已越第一层天梯",
+            "text_context": "莫闭眼略讶，心问孟的信心",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "内心",
+            "embodiment": "由挑衅到警醒，入诸幻景而招架落空",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫闭眼略讶，心问孟的信心",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫闭眼略讶，心问孟的信心"
+      },
+      {
+        "reference": "v04-c0111:p0004",
+        "length": 62,
+        "sha256": "d717ccf2f6a40768fa25c7b94452bab7ec7a9458cca844f929eb1e10c7f98b53",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0004:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫及令狐端木皆因此高看眼前毒手",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫及令狐端木皆因此高看眼前毒手",
+            "focalizer": "v04c110_cian_temple_attendees",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫及令狐端木皆因此高看眼前毒手"
+      },
+      {
+        "reference": "v04-c0111:p0005",
+        "length": 10,
+        "sha256": "60790410cbd8b3fce9725c694cf0be3b0bcd7d05ac697c88e049693f3c7fd08b",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0005:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "v04c110_cian_temple_attendees",
+            "surface_identity": "v04c110_cian_temple_attendees",
+            "text_context": "在场视点内疑修为",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "在场视点内疑修为",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "在场视点内疑修为"
+      },
+      {
+        "reference": "v04-c0111:p0006",
+        "length": 89,
+        "sha256": "c28d4d7b936614e4cfe8aa4cc9e654f965659c515605954011aeb8d3c9859021",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0006:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫向百花实开口，借此对孟形成竞争",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫向百花实开口，借此对孟形成竞争",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0006:u002",
+            "start": 58,
+            "end": 89,
+            "kind": "spoken_dialogue",
+            "speaker": "mo_tiange",
+            "surface_identity": "追魂魔君莫天歌，已越第一层天梯",
+            "text_context": "莫向百花实开口，借此对孟形成竞争",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "实际言语",
+            "embodiment": "由挑衅到警醒，入诸幻景而招架落空",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫向百花实开口，借此对孟形成竞争",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫向百花实开口，借此对孟形成竞争"
+      },
+      {
+        "reference": "v04-c0111:p0007",
+        "length": 44,
+        "sha256": "75b7c7fd395fc9f65103b4ac64924fde6ac6bec29fe32933cf644f6271b2ff18",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0007:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "inner_speech",
+            "speaker": "mo_tiange",
+            "surface_identity": "追魂魔君莫天歌，已越第一层天梯",
+            "text_context": "莫心中以令狐地界为自己退路",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "内心",
+            "embodiment": "由挑衅到警醒，入诸幻景而招架落空",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫心中以令狐地界为自己退路",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0007:u002",
+            "start": 30,
+            "end": 44,
+            "kind": "inner_speech",
+            "speaker": "mo_tiange",
+            "surface_identity": "追魂魔君莫天歌，已越第一层天梯",
+            "text_context": "莫心中以令狐地界为自己退路",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "内心",
+            "embodiment": "由挑衅到警醒，入诸幻景而招架落空",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫心中以令狐地界为自己退路",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫心中以令狐地界为自己退路"
+      },
+      {
+        "reference": "v04-c0111:p0008",
+        "length": 14,
+        "sha256": "927077ea632da767acae98dd7e76f5d73e025f551b69433729f18d6f64b8ccf4",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0008:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "inner_speech",
+            "speaker": "mo_tiange",
+            "surface_identity": "追魂魔君莫天歌，已越第一层天梯",
+            "text_context": "莫因有退路愿一试，是内心",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "内心",
+            "embodiment": "由挑衅到警醒，入诸幻景而招架落空",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫因有退路愿一试，是内心",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫因有退路愿一试，是内心"
+      },
+      {
+        "reference": "v04-c0111:p0009",
+        "length": 71,
+        "sha256": "774c3262bf766338b63b335cd6f30b6086fa0feddf86b0834b335ba636564d98",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0009:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花真出声调侃莫，又安抚身边女子",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "百花真出声调侃莫，又安抚身边女子",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0009:u002",
+            "start": 17,
+            "end": 71,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "百花夫人，本场以言语应付",
+            "text_context": "百花真出声调侃莫，又安抚身边女子",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "实际言语",
+            "embodiment": "先调笑，后来脸微变强笑",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "百花真出声调侃莫，又安抚身边女子",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花真出声调侃莫，又安抚身边女子"
+      },
+      {
+        "reference": "v04-c0111:p0010",
+        "length": 33,
+        "sha256": "62b77db4e8db49fda8a7fb563c4de91db3af180a3a235551802e40c2d5e93efe",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0010:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白写众失笑稍解压抑",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "旁白写众失笑稍解压抑",
+            "focalizer": "v04c110_cian_temple_attendees",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白写众失笑稍解压抑"
+      },
+      {
+        "reference": "v04-c0111:p0011",
+        "length": 31,
+        "sha256": "fc078f00304f53142797f0caae0bf62e5ccf37b4e33e76d99fb201c3150b674a",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0011:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫实际接话说两者皆想要",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫实际接话说两者皆想要",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0011:u002",
+            "start": 9,
+            "end": 31,
+            "kind": "spoken_dialogue",
+            "speaker": "mo_tiange",
+            "surface_identity": "追魂魔君莫天歌，已越第一层天梯",
+            "text_context": "莫实际接话说两者皆想要",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "实际言语",
+            "embodiment": "由挑衅到警醒，入诸幻景而招架落空",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫实际接话说两者皆想要",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫实际接话说两者皆想要"
+      },
+      {
+        "reference": "v04-c0111:p0012",
+        "length": 39,
+        "sha256": "e94c7794003337a8b0139f54ae9d75821ffee12d71b2ce3b75196cbaf88d4ad2",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0012:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫开眼望孟，以目光挑衅",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫开眼望孟，以目光挑衅",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫开眼望孟，以目光挑衅"
+      },
+      {
+        "reference": "v04-c0111:p0013",
+        "length": 26,
+        "sha256": "cf6b71c9e1ea0af9acb04c4ae31a51abc0217edde17a1eba519a636b5cf2959e",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0013:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际提过两手",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟实际提过两手",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0013:u002",
+            "start": 12,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "外为毒手魔君；心象以金佛出现，后来归青衫",
+            "text_context": "孟实际提过两手",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "实际言语",
+            "embodiment": "端坐从容、主动发掌，停在额前并收掌",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟实际提过两手",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际提过两手"
+      },
+      {
+        "reference": "v04-c0111:p0014",
+        "length": 45,
+        "sha256": "da166905e8be435657acc25da4a925282265251977e1ed363c97d571007b0c85",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0014:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟一句出口立刻双掌起势，未出价",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂挑衅，孟立即应战",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟一句出口立刻双掌起势，未出价",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟一句出口立刻双掌起势，未出价"
+      },
+      {
+        "reference": "v04-c0111:p0015",
+        "length": 99,
+        "sha256": "10623e8563e51ca8a239981ad32347dae3b4c4c494c613683ed4dfc16398c685",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0015:u001",
+            "start": 0,
+            "end": 99,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟自知短时全开才能抗衡绝顶",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟自知短时全开才能抗衡绝顶",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟自知短时全开才能抗衡绝顶"
+      },
+      {
+        "reference": "v04-c0111:p0016",
+        "length": 54,
+        "sha256": "66dd178001146dda8d075b05a7cc69bf79b58fdf61a48b3a6afca2fdc8465483",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0016:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "以毒手外观不能全开，正常打不过已过天梯的莫",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "以毒手外观不能全开，正常打不过已过天梯的莫",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "以毒手外观不能全开，正常打不过已过天梯的莫"
+      },
+      {
+        "reference": "v04-c0111:p0017",
+        "length": 62,
+        "sha256": "14e451116f9f4dc74558999b926b1c2214acb5f7ecf512f8303f898c6628f1a4",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0017:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟希望不露底细以免百花敷衍",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟希望不露底细以免百花敷衍",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟希望不露底细以免百花敷衍"
+      },
+      {
+        "reference": "v04-c0111:p0018",
+        "length": 34,
+        "sha256": "939a03ceb66469aeeab8b47f9d07bc7841c952b5920f513d093904bdd22be66f",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0018:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟因此需借时地",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟因此需借时地",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟因此需借时地"
+      },
+      {
+        "reference": "v04-c0111:p0019",
+        "length": 43,
+        "sha256": "4bee4a8b943d65d4b393cae74c14395bbbbe77010c900c4a45af61cefb8fca7f",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0019:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟预计寺中交手使莫顾忌殿宇",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟预计寺中交手使莫顾忌殿宇",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟预计寺中交手使莫顾忌殿宇"
+      },
+      {
+        "reference": "v04-c0111:p0020",
+        "length": 36,
+        "sha256": "e144c83aa4321b17d93561c33bd07850e8b0ccc868795a6eed65e96cc83d5ce2",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0020:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "借室内限制法相之力的考虑，未约外出",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "借室内限制法相之力的考虑，未约外出",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "借室内限制法相之力的考虑，未约外出"
+      },
+      {
+        "reference": "v04-c0111:p0021",
+        "length": 45,
+        "sha256": "2ed7593e7b9efd62d4fe7439364b25d822f052ded7d429f8c7d5d097fd57fa72",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0021:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述众对直动手微惊",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "旁述众对直动手微惊",
+            "focalizer": "v04c110_cian_temple_attendees",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述众对直动手微惊"
+      },
+      {
+        "reference": "v04-c0111:p0022",
+        "length": 87,
+        "sha256": "aca2ef486001e021608723dc83edf6e6263e95893c109d623d68f68aa9ab11a8",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0022:u001",
+            "start": 0,
+            "end": 87,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟右掌阴波左掌引力，众可见",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟右掌阴波左掌引力，众可见",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟右掌阴波左掌引力，众可见"
+      },
+      {
+        "reference": "v04-c0111:p0023",
+        "length": 13,
+        "sha256": "851150e46f65745ec2898c434e3c24794046ad0e03f01766dff6d6a8908b7f1e",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0023:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述一吸一震相合",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "旁述一吸一震相合",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述一吸一震相合"
+      },
+      {
+        "reference": "v04-c0111:p0024",
+        "length": 29,
+        "sha256": "998d7f968402fad3aef99868bb7e245fb06b6326192d285ceaa5be453e99e542",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0024:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫觉得威力未达天梯，结论属其视点",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫觉得威力未达天梯，结论属其视点",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0024:u002",
+            "start": 9,
+            "end": 29,
+            "kind": "inner_speech",
+            "speaker": "mo_tiange",
+            "surface_identity": "追魂魔君莫天歌，已越第一层天梯",
+            "text_context": "莫觉得威力未达天梯，结论属其视点",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "内心",
+            "embodiment": "由挑衅到警醒，入诸幻景而招架落空",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫觉得威力未达天梯，结论属其视点",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫觉得威力未达天梯，结论属其视点"
+      },
+      {
+        "reference": "v04-c0111:p0025",
+        "length": 100,
+        "sha256": "2c4ab484c9bdb2cd4558b758970bddc5a4fa792632bc3930f53913f7f9d245f1",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0025:u001",
+            "start": 0,
+            "end": 100,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫防示弱，显蓝色独眼魔神法相",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫防示弱，显蓝色独眼魔神法相",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫防示弱，显蓝色独眼魔神法相"
+      },
+      {
+        "reference": "v04-c0111:p0026",
+        "length": 26,
+        "sha256": "a6ca3c3fbdd486e8ce51d658d598712aa69164afd86a9cf68402bf6a91ced29e",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0026:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫与法相同打出一拳",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫与法相同打出一拳",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫与法相同打出一拳"
+      },
+      {
+        "reference": "v04-c0111:p0027",
+        "length": 37,
+        "sha256": "bf09cc1e13f75bc844878ed86b4163ff0f389d57e2524945a8e9c266beef4c3c",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0027:u001",
+            "start": 0,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫拳裂波乱吸力",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫拳裂波乱吸力",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫拳裂波乱吸力"
+      },
+      {
+        "reference": "v04-c0111:p0028",
+        "length": 80,
+        "sha256": "dd1b8487efb4020d64795d1bb12e392ea2cacfb2d436bcb7f80716583ba7e345",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0028:u001",
+            "start": 0,
+            "end": 80,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟错掌以灼热冲击真实挡拳",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟错掌以灼热冲击真实挡拳",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟错掌以灼热冲击真实挡拳"
+      },
+      {
+        "reference": "v04-c0111:p0029",
+        "length": 5,
+        "sha256": "afb8ee67ee1f2c09bba20fdde3f271945b46c705dc09d1d62d3ba2d1d423f104",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0029:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "以阴为阳为变化提示，不作台词",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "以阴为阳为变化提示，不作台词",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "以阴为阳为变化提示，不作台词"
+      },
+      {
+        "reference": "v04-c0111:p0030",
+        "length": 101,
+        "sha256": "75184bafb4dce9b92fef2feac30d40faea91eb1e99bfeb8a5cf2f93d730369f9",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0030:u001",
+            "start": 0,
+            "end": 101,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "虚空半阴半阳如磨盘，制莫拳",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "虚空半阴半阳如磨盘，制莫拳",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "虚空半阴半阳如磨盘，制莫拳"
+      },
+      {
+        "reference": "v04-c0111:p0031",
+        "length": 87,
+        "sha256": "077ddf38cc6a74ec151cc750e6e7900190a67e4716e83d11391f1be5137ce296",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0031:u001",
+            "start": 0,
+            "end": 87,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "令狐以自身见识认为毒手技巧成熟，非真实修为证据",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "令狐以自身见识认为毒手技巧成熟，非真实修为证据",
+            "focalizer": "v04c111_linghu_and_duanmu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "令狐以自身见识认为毒手技巧成熟，非真实修为证据"
+      },
+      {
+        "reference": "v04-c0111:p0032",
+        "length": 52,
+        "sha256": "0ee8d7e8d5ff08e7e00f4c7f8ae35e5c29302f4916a039fbff10881b70cfebdb",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0032:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "令狐推不出全力是顾忌自己",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "殿中阴阳攻防与令狐误判",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "令狐推不出全力是顾忌自己",
+            "focalizer": "v04c111_linghu_and_duanmu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "令狐推不出全力是顾忌自己"
+      },
+      {
+        "reference": "v04-c0111:p0033",
+        "length": 49,
+        "sha256": "73e9d6d2238659f90323e0b59e787854259f9c854fa4be051569676fa9616aa5",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0033:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫略惊但觉此水准合预期",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫略惊但觉此水准合预期",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0033:u002",
+            "start": 31,
+            "end": 49,
+            "kind": "inner_speech",
+            "speaker": "mo_tiange",
+            "surface_identity": "追魂魔君莫天歌，已越第一层天梯",
+            "text_context": "莫略惊但觉此水准合预期",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "内心",
+            "embodiment": "由挑衅到警醒，入诸幻景而招架落空",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫略惊但觉此水准合预期",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫略惊但觉此水准合预期"
+      },
+      {
+        "reference": "v04-c0111:p0034",
+        "length": 33,
+        "sha256": "4a425cefbd450a69d3a1461760827843b05d954a0b9bd7d60bde9406eae5f8b3",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0034:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫变爪发法相来脱磨",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫变爪发法相来脱磨",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫变爪发法相来脱磨"
+      },
+      {
+        "reference": "v04-c0111:p0035",
+        "length": 39,
+        "sha256": "5228ea4bb521a8e17307be8c0044250be6c06c257496950cffcd5d4c0c7df0c1",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0035:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫双手撕开呈磨盘的影响",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫双手撕开呈磨盘的影响",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫双手撕开呈磨盘的影响"
+      },
+      {
+        "reference": "v04-c0111:p0036",
+        "length": 80,
+        "sha256": "7bf803bd1ed1c20cace4340df077a148cb253678a06737d2073ad29e8c6d3acd",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0036:u001",
+            "start": 0,
+            "end": 80,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫睁眼，法相独眼凸起",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫睁眼，法相独眼凸起",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫睁眼，法相独眼凸起"
+      },
+      {
+        "reference": "v04-c0111:p0037",
+        "length": 86,
+        "sha256": "4e91bdcfb8c4426c725c375efa61ff0951fe81a1b5f5d98b6457a9f25ba741d2",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0037:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟感元神遭阴冷和欲望冲击",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟感元神遭阴冷和欲望冲击",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟感元神遭阴冷和欲望冲击"
+      },
+      {
+        "reference": "v04-c0111:p0038",
+        "length": 47,
+        "sha256": "cf82b0a86b1bf3eb40ec2b4550d52fb5a2dc35359d5fe6d501cda72e14222286",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0038:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫选择追魂魔瞳，精神交手由此加深",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫选择追魂魔瞳，精神交手由此加深",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫选择追魂魔瞳，精神交手由此加深"
+      },
+      {
+        "reference": "v04-c0111:p0039",
+        "length": 24,
+        "sha256": "d26d925fbd5e8d8e9a0e5b3d8f97d9d174183d9ed34dbdf72418e2259aef8b82",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0039:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟所感魔神抓摄魂魄",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟所感魔神抓摄魂魄",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟所感魔神抓摄魂魄"
+      },
+      {
+        "reference": "v04-c0111:p0040",
+        "length": 81,
+        "sha256": "2f2dbf1daf38702b5bf0ae29f459de90739df33e260b96378967f398b52a5c7d",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0040:u001",
+            "start": 0,
+            "end": 81,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "精神交手呈巨大金佛，魔神被压",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "精神交手呈巨大金佛，魔神被压",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "精神交手呈巨大金佛，魔神被压"
+      },
+      {
+        "reference": "v04-c0111:p0041",
+        "length": 21,
+        "sha256": "e7ef022fca6865797df44163d8cb4cd45336b068ca6d7a47bba7e10f13cc65c4",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0041:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "其大小比喻是所呈体验",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "其大小比喻是所呈体验",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "其大小比喻是所呈体验"
+      },
+      {
+        "reference": "v04-c0111:p0042",
+        "length": 20,
+        "sha256": "e0574b65925ba04538100f1ecf94a225a9d8a9861c37ea3b3cbc4590fb4ee102",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0042:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述孟此前真计划等待精神交手",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "旁述孟此前真计划等待精神交手",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述孟此前真计划等待精神交手"
+      },
+      {
+        "reference": "v04-c0111:p0043",
+        "length": 137,
+        "sha256": "7e2b7c5d8ef60f170e590f0c0939c37a8d0760a33191db9d8cb07b96056dcd0d",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0043:u001",
+            "start": 0,
+            "end": 137,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "说明孟知莫有追魂魔瞳",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "说明孟知莫有追魂魔瞳",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "说明孟知莫有追魂魔瞳"
+      },
+      {
+        "reference": "v04-c0111:p0044",
+        "length": 48,
+        "sha256": "dc2d13dd170f5ca0f0c2f6c2a0be34287814f34b3b8287628c9859df057e856e",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0044:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟自信心灵修为高、有唯我独尊护元神",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "追魂魔瞳转入精神交手",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟自信心灵修为高、有唯我独尊护元神",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟自信心灵修为高、有唯我独尊护元神"
+      },
+      {
+        "reference": "v04-c0111:p0045",
+        "length": 24,
+        "sha256": "fae31fe9088f969bddb805d621903413c212b6f40fec35346e35be40ea6cb1fe",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0045:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "金佛结印、声如雷音，属内景精神交手",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "金佛结印、声如雷音，属内景精神交手",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "金佛结印、声如雷音，属内景精神交手"
+      },
+      {
+        "reference": "v04-c0111:p0046",
+        "length": 26,
+        "sha256": "44872c9777f05de2626d998f1157fd1198bcd232bbe13256055d0b1f07b408f5",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0046:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "外为毒手魔君；心象以金佛出现，后来归青衫",
+            "text_context": "经句来自孟呈现金佛的对抗层",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "精神交手中莫天歌所闻的孟奇禅音",
+            "embodiment": "端坐从容、主动发掌，停在额前并收掌",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "经句来自孟呈现金佛的对抗层",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "经句来自孟呈现金佛的对抗层"
+      },
+      {
+        "reference": "v04-c0111:p0047",
+        "length": 21,
+        "sha256": "afecf91cf7373fd1edf0829e204a5e289cbcdd1b8795eb728069677f2c7f889f",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0047:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "禅意震元神，莫开始恍惚",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "禅意震元神，莫开始恍惚",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "禅意震元神，莫开始恍惚"
+      },
+      {
+        "reference": "v04-c0111:p0048",
+        "length": 46,
+        "sha256": "42ae0067cc91d3c2b419fee7b459886c20b4e5e8b3849aa84df16dc9ee7f0f2c",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0048:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫体验欢爱转衰败的幻象",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫体验欢爱转衰败的幻象",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫体验欢爱转衰败的幻象"
+      },
+      {
+        "reference": "v04-c0111:p0049",
+        "length": 50,
+        "sha256": "f85190c39d824a3f9575c22e20b296c05f227dd20693141227f03fc322f4171b",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0049:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫体验进食成苦的幻象",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫体验进食成苦的幻象",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫体验进食成苦的幻象"
+      },
+      {
+        "reference": "v04-c0111:p0050",
+        "length": 39,
+        "sha256": "88fadd5e92c7f1ef975c2c058f99769093f854c240fa9b33650efec6669d67c9",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0050:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫体验成黄羊被杀食的幻象",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫体验成黄羊被杀食的幻象",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫体验成黄羊被杀食的幻象"
+      },
+      {
+        "reference": "v04-c0111:p0051",
+        "length": 47,
+        "sha256": "541bb3230134dde347eda1fdf91d273895cf33593a0368a00e7e1574e32ba2e9",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0051:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫体验世事怨恨烧心的幻象",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫体验世事怨恨烧心的幻象",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫体验世事怨恨烧心的幻象"
+      },
+      {
+        "reference": "v04-c0111:p0052",
+        "length": 25,
+        "sha256": "210f7b11153565af8b8a488deaddd7725ca160a693792dfe712d986ba561bd22",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0052:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "轮回与地狱是旁述主题，不是六道播报",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "轮回与地狱是旁述主题，不是六道播报",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "轮回与地狱是旁述主题，不是六道播报"
+      },
+      {
+        "reference": "v04-c0111:p0053",
+        "length": 29,
+        "sha256": "410dc8b9504ba6e6843d8b75a068949ffbc4724fe147d0efa7479c5a158c453b",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0053:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫历经多重幻景，元神愈飘忽",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫历经多重幻景，元神愈飘忽",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫历经多重幻景，元神愈飘忽"
+      },
+      {
+        "reference": "v04-c0111:p0054",
+        "length": 16,
+        "sha256": "f898476b3820baea9c4bdcf9ab98ec7196bf490d10b26f92a0db96b9a7ee3307",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0054:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫耳畔出现另一句震神禅音",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫耳畔出现另一句震神禅音",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫耳畔出现另一句震神禅音"
+      },
+      {
+        "reference": "v04-c0111:p0055",
+        "length": 22,
+        "sha256": "ea530f4ab582bd17e7d8e7cbd0fc6ba26efd788ca156a40249a475f90c8b5a19",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0055:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "外为毒手魔君；心象以金佛出现，后来归青衫",
+            "text_context": "经句仍在莫所感精神交手中",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "精神交手中莫天歌所闻的孟奇禅音",
+            "embodiment": "端坐从容、主动发掌，停在额前并收掌",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "经句仍在莫所感精神交手中",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "经句仍在莫所感精神交手中"
+      },
+      {
+        "reference": "v04-c0111:p0056",
+        "length": 10,
+        "sha256": "7d6b35dd71c18f13b293b52f7a2f91b5d6d4dd16eb888bac957e33fdfee5399a",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0056:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "有佛说法、声如雷音为旁述",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "有佛说法、声如雷音为旁述",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "有佛说法、声如雷音为旁述"
+      },
+      {
+        "reference": "v04-c0111:p0057",
+        "length": 55,
+        "sha256": "ec5ddaa12348666bb19c76e4a58d323b502d4ce4a346256b43966e9391bed178",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0057:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "青衫替金佛，莫所见孟抬掌",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "青衫替金佛，莫所见孟抬掌",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "青衫替金佛，莫所见孟抬掌"
+      },
+      {
+        "reference": "v04-c0111:p0058",
+        "length": 46,
+        "sha256": "245a5461093bf51be8f62b3bafd36287c67bb6944204333877fed97b964ea2de",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0058:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "所呈掌势遍在又似不在",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "所呈掌势遍在又似不在",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "所呈掌势遍在又似不在"
+      },
+      {
+        "reference": "v04-c0111:p0059",
+        "length": 16,
+        "sha256": "eb4d54f98f992392f61d27a36c9bfeea6042158bbe5c0afc24f20de640dac263",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0059:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述掌境，无独立发话",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "旁述掌境，无独立发话",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述掌境，无独立发话"
+      },
+      {
+        "reference": "v04-c0111:p0060",
+        "length": 43,
+        "sha256": "92eb2d23e6f2689797824a424639a3bd606c6d8323af4e181f3d93ea1491d12c",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0060:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "禅意与灭绝沉沦的感受并存",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "禅意与灭绝沉沦的感受并存",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "禅意与灭绝沉沦的感受并存"
+      },
+      {
+        "reference": "v04-c0111:p0061",
+        "length": 44,
+        "sha256": "e5256fec2862b49f745f4469bc8dc57a0e63f192ceedd3861a9ed789bf072241",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0061:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "莫下意识挡空，发现掌已停于额前",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "金佛禅音与幻景，掌止额前",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "莫下意识挡空，发现掌已停于额前",
+            "focalizer": "mo_tiange",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "莫下意识挡空，发现掌已停于额前"
+      },
+      {
+        "reference": "v04-c0111:p0062",
+        "length": 35,
+        "sha256": "e17b029ea1026b8fd5d55ee78ed5920dece9950ad6774d44f7ca0de37630c68d",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0062:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "v04c111_linghu_and_duanmu",
+            "surface_identity": "v04c111_linghu_and_duanmu",
+            "text_context": "令狐端木内惊，设若换己可能挡不住",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "令狐端木内惊，设若换己可能挡不住",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0062:u002",
+            "start": 4,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "令狐端木内惊，设若换己可能挡不住",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "令狐端木内惊，设若换己可能挡不住",
+            "focalizer": "v04c111_linghu_and_duanmu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "令狐端木内惊，设若换己可能挡不住"
+      },
+      {
+        "reference": "v04-c0111:p0063",
+        "length": 9,
+        "sha256": "97c34028c64f948b75793e879394bb119399c3ab1d62b5a74f22087c209b435a",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0063:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "v04c111_linghu_and_duanmu",
+            "surface_identity": "v04c111_linghu_and_duanmu",
+            "text_context": "令狐端木把毒手看作深不可测",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "令狐端木把毒手看作深不可测",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "令狐端木把毒手看作深不可测"
+      },
+      {
+        "reference": "v04-c0111:p0064",
+        "length": 22,
+        "sha256": "32b2bafd994d895761b0b230b1dba5c532b5bd139503d0d1cc4839166bb0524e",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0064:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实收掌坐稳，未击杀",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟实收掌坐稳，未击杀",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实收掌坐稳，未击杀"
+      },
+      {
+        "reference": "v04-c0111:p0065",
+        "length": 26,
+        "sha256": "b8c62757027c955f10168ca4bf21baf475a8c8c30ea1d3a68ff175646c8b4abd",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0065:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "外为毒手魔君；心象以金佛出现，后来归青衫",
+            "text_context": "孟以唯我独尊真意推动不死七幻",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "内心",
+            "embodiment": "端坐从容、主动发掌，停在额前并收掌",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟以唯我独尊真意推动不死七幻",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟以唯我独尊真意推动不死七幻"
+      },
+      {
+        "reference": "v04-c0111:p0066",
+        "length": 55,
+        "sha256": "99479e738cb2f2b346a3f00669509accd0f84e74834104303f03134b8e2c9cfc",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0066:u001",
+            "start": 0,
+            "end": 55,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟只参悟皮毛不能直接用真掌法，莫已心灵失守",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟只参悟皮毛不能直接用真掌法，莫已心灵失守",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟只参悟皮毛不能直接用真掌法，莫已心灵失守"
+      },
+      {
+        "reference": "v04-c0111:p0067",
+        "length": 26,
+        "sha256": "62f263026113827b1c5d87bb808f736423f35dca6abe4acf55e70a36d6668a52",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0067:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花强笑以为毒手入了佛门",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "百花强笑以为毒手入了佛门",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0067:u002",
+            "start": 13,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "百花夫人，本场以言语应付",
+            "text_context": "百花强笑以为毒手入了佛门",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "实际言语",
+            "embodiment": "先调笑，后来脸微变强笑",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "百花强笑以为毒手入了佛门",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花强笑以为毒手入了佛门"
+      },
+      {
+        "reference": "v04-c0111:p0068",
+        "length": 65,
+        "sha256": "1e6e3ac8c2c710a21a6003b386694fb68bb3aa5e2c7acb4e74f08b234a5a440f",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0068:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟以毒手外观实讲奇遇及融合的说辞",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟以毒手外观实讲奇遇及融合的说辞",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0111:p0068:u002",
+            "start": 7,
+            "end": 65,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "外为毒手魔君；心象以金佛出现，后来归青衫",
+            "text_context": "孟以毒手外观实讲奇遇及融合的说辞",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "实际言语",
+            "embodiment": "端坐从容、主动发掌，停在额前并收掌",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟以毒手外观实讲奇遇及融合的说辞",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟以毒手外观实讲奇遇及融合的说辞"
+      },
+      {
+        "reference": "v04-c0111:p0069",
+        "length": 16,
+        "sha256": "9c749de893098ba29baa2e61c38c598ad1f56923bdb393e24deeac351f5d9046",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0069:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实合十作庄严态",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟实合十作庄严态",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实合十作庄严态"
+      },
+      {
+        "reference": "v04-c0111:p0070",
+        "length": 26,
+        "sha256": "a0b7d44e8b3629c3a3596946ce82b3f3ed0d6154eb5049a21d6995286f678b52",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0070:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "外为毒手魔君；心象以金佛出现，后来归青衫",
+            "text_context": "孟口说毁世，佐其魔头外观，不是实际行动",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "实际言语",
+            "embodiment": "端坐从容、主动发掌，停在额前并收掌",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "孟口说毁世，佐其魔头外观，不是实际行动",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟口说毁世，佐其魔头外观，不是实际行动"
+      },
+      {
+        "reference": "v04-c0111:p0071",
+        "length": 38,
+        "sha256": "83103b5c56df95d3d2dec058d6f27bcd80589e862b5a8f8ddfae1c323d15784d",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0071:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "在场众人从荒谬震惊转敬畏",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "在场众人从荒谬震惊转敬畏",
+            "focalizer": "v04c110_cian_temple_attendees",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "在场众人从荒谬震惊转敬畏"
+      },
+      {
+        "reference": "v04-c0111:p0072",
+        "length": 21,
+        "sha256": "af585940947d9e618b019f1f3316d13523aee301d42df94972dea4ae04b674ee",
+        "units": [
+          {
+            "unit_id": "v04-c0111:p0072:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "v04c110_cian_temple_attendees",
+            "surface_identity": "v04c110_cian_temple_attendees",
+            "text_context": "近黑榜只是众人估量，未有榜单评价",
+            "world_context": "第四卷本界：慈安寺，毒手外观的孟与追魂魔君交手",
+            "stage_context": "孟收掌，以角色说辞回应百花",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "追魂失手，孟掌停额前并收回。本章仍没有成交。孟借佛法魔功说辞维护外观；尚不能直接使唯我独尊真掌。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "谁在讲经与谁在看幻景均落精神交手；令狐解释威力、旁观者论黑榜仍属其见。",
+            "knowledge_boundary": "近黑榜只是众人估量，未有榜单评价",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "近黑榜只是众人估量，未有榜单评价"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0111",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S14",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 14,
+        "label": "从百花竞问转向两手较量",
+        "direction": "孟保持毒手外观的淡漠，让莫的心疑先过，再给莫向百花实际发声、百花调侃和群体失笑。目光挑衅一到，孟提过两手便直接起势。 证据 v04-c0111:p0001–p0014。"
+      },
+      {
+        "paragraph_start": 15,
+        "paragraph_end": 32,
+        "label": "慈安寺内交手，阴阳变化留住莫",
+        "direction": "先在孟的判断里交代戴着假身份时的局限。实际波纹引力、法相拳、灼热与磨盘一层层相接。令狐以为对方收着力，这一判断留在他的视点。 证据 v04-c0111:p0015–p0032。"
+      },
+      {
+        "paragraph_start": 33,
+        "paragraph_end": 44,
+        "label": "磨盘被撕开，追魂魔瞳引到精神层",
+        "direction": "以难听撕响和独眼睁开标转折。进入孟所感的暗与抓摄，再发金佛；眼前景象的尺度由精神感受呈现。随后才说明孟原就等对方选魔瞳。 证据 v04-c0111:p0033–p0044。"
+      },
+      {
+        "paragraph_start": 45,
+        "paragraph_end": 61,
+        "label": "金佛禅音与反复幻景，掌止于额前",
+        "direction": "第一段经句如雷入耳，莫的诸次幻景用短促变奏，第二道经句拉回精神层。金佛退回青衫，莫挡空后才见手掌已停在额前，动作收住。 证据 v04-c0111:p0045–p0061。"
+      },
+      {
+        "paragraph_start": 62,
+        "paragraph_end": 72,
+        "label": "众人重新高估毒手，孟继续以佛魔遮掩",
+        "direction": "令狐与端木瞳孔收缩，接孟稳坐收掌。百花以强笑问，孟以合十和庄严姿态回答，末句让观者从荒谬到惧。旁人疑近黑榜只作他们的念头。 证据 v04-c0111:p0062–p0072。"
+      }
+    ],
+    "knowledge_rule": "孟的武学上限依本章自估；令狐涛与端木北只看到交手表象。经句由孟所现的金佛在追魂感官里发出，幻景不作实体经历。孟不能直接使唯我独尊掌，掌止后收回。佛门衣钵是孟的角色说辞，本章未成交。"
+  }
 }
