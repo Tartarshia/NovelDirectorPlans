@@ -61,7 +61,2490 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0276"
+  "reading_batch": "batch-0276",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0108",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0108.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0108:p0001",
+        "length": 21,
+        "sha256": "42a686c60df5e6065af687aa6332bd24985627bf111de9d192bbc9012fed1da0",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0001:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木北先看四周，再向孟传音入内",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木北先看四周，再向孟传音入内",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0001:u002",
+            "start": 14,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木北先看四周，再向孟传音入内",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "端木北向孟奇传音",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木北先看四周，再向孟传音入内",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木北先看四周，再向孟传音入内"
+      },
+      {
+        "reference": "v04-c0108:p0002",
+        "length": 92,
+        "sha256": "b3f0981757bb05826a386ce9cf4f43da5fe8aaae66d20bc5ec7cda356f054a16",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0002:u001",
+            "start": 0,
+            "end": 92,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木北既疑来意又不愿旁人看见；出卖旧毒手只是反事实推演",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木北既疑来意又不愿旁人看见；出卖旧毒手只是反事实推演",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木北既疑来意又不愿旁人看见；出卖旧毒手只是反事实推演"
+      },
+      {
+        "reference": "v04-c0108:p0003",
+        "length": 39,
+        "sha256": "3bbb9e27a4fe2744a034e1484ed6cbd8db7cc376bdd7699b98615b0812bbc0c1",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0003:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟以毒手外观悠然跟入园中",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟以毒手外观悠然跟入园中",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟以毒手外观悠然跟入园中"
+      },
+      {
+        "reference": "v04-c0108:p0004",
+        "length": 103,
+        "sha256": "0ab784983e4d80aa3437a3cd8567dfa00df4e00ea2929f395423d958135afea4",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0004:u001",
+            "start": 0,
+            "end": 103,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟亲历十丈内危险退开又复起，眼睛与湿润感皆是所觉",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟亲历十丈内危险退开又复起，眼睛与湿润感皆是所觉",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟亲历十丈内危险退开又复起，眼睛与湿润感皆是所觉"
+      },
+      {
+        "reference": "v04-c0108:p0005",
+        "length": 86,
+        "sha256": "54b5c147af4e85853d27fddff218594c60e5532b3434b07569f7d4231e649944",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0005:u001",
+            "start": 0,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟一直暗备轮回符却未用；据此次体验判断阵可辨遮掩而未识八九",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟一直暗备轮回符却未用；据此次体验判断阵可辨遮掩而未识八九",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟一直暗备轮回符却未用；据此次体验判断阵可辨遮掩而未识八九"
+      },
+      {
+        "reference": "v04-c0108:p0006",
+        "length": 32,
+        "sha256": "174bb39e1ba87d36b192fbc0c018867d3955e9598ed3435578e6923f9926a2ba",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0006:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实进朱紫楼一层房间",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟实进朱紫楼一层房间",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实进朱紫楼一层房间"
+      },
+      {
+        "reference": "v04-c0108:p0007",
+        "length": 42,
+        "sha256": "2b3dc525885f8d62ae1a6d391049b649d950a38f464d908a6fbf6153d3379599",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0007:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木北关门后实际讥问，法身只是反问",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木北关门后实际讥问，法身只是反问",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0007:u002",
+            "start": 29,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木北关门后实际讥问，法身只是反问",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木北关门后实际讥问，法身只是反问",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木北关门后实际讥问，法身只是反问"
+      },
+      {
+        "reference": "v04-c0108:p0008",
+        "length": 70,
+        "sha256": "efbaca890cd6e8cf9cf87bc1aae0a1c8a8277e317108c8d32fa9816b4ba953df",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0008:u001",
+            "start": 0,
+            "end": 70,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "房间寂静；端木态度较熟稔，似已放下怀疑",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "房间寂静；端木态度较熟稔，似已放下怀疑",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "房间寂静；端木态度较熟稔，似已放下怀疑"
+      },
+      {
+        "reference": "v04-c0108:p0009",
+        "length": 95,
+        "sha256": "5f0236603404db5231249bc02fc58c3961074bc5c0ec7e6d45a1160321718984",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0009:u001",
+            "start": 0,
+            "end": 95,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述昔日毒手辈分相当但名声实力更盛",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁述昔日毒手辈分相当但名声实力更盛",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述昔日毒手辈分相当但名声实力更盛"
+      },
+      {
+        "reference": "v04-c0108:p0010",
+        "length": 79,
+        "sha256": "efdba221e1d390f5316c76d6147681a5522ceb5a1b5f26064754afabb83a1c58",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0010:u001",
+            "start": 0,
+            "end": 79,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "真毒手止于三重天并死在无忧谷，端木对比已五重天",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "真毒手止于三重天并死在无忧谷，端木对比已五重天",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "真毒手止于三重天并死在无忧谷，端木对比已五重天"
+      },
+      {
+        "reference": "v04-c0108:p0011",
+        "length": 174,
+        "sha256": "d2b23c816a7dedb85a27f477e2be9646ed4dd7893b1403e59cfcf824dc226e0b",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0011:u001",
+            "start": 0,
+            "end": 174,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述毒手昔年恶行、与数方结仇、重伤遁播密",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁述毒手昔年恶行、与数方结仇、重伤遁播密",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述毒手昔年恶行、与数方结仇、重伤遁播密"
+      },
+      {
+        "reference": "v04-c0108:p0012",
+        "length": 50,
+        "sha256": "407c68a63a6aceb6d8a44c814bb55cc73fc0de5692f21c1d521c3a203f28b5ff",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0012:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟从六扇门资料备得经历，面对讥讽从容落座",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "应邀入楼，阵法未识孟",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟从六扇门资料备得经历，面对讥讽从容落座",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟从六扇门资料备得经历，面对讥讽从容落座"
+      },
+      {
+        "reference": "v04-c0108:p0013",
+        "length": 110,
+        "sha256": "86ae36640510296f4ff707ccaab12f2c8ac7df745fa0d3b9d49e3b39bb3606c0",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0013:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟借毒手语气解释局势与不用躲藏的理由",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟借毒手语气解释局势与不用躲藏的理由",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0013:u002",
+            "start": 35,
+            "end": 110,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟借毒手语气解释局势与不用躲藏的理由",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟借毒手语气解释局势与不用躲藏的理由",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟借毒手语气解释局势与不用躲藏的理由"
+      },
+      {
+        "reference": "v04-c0108:p0014",
+        "length": 35,
+        "sha256": "57f5935d200e84db2fdbb664e722d25b314fda34f53bebc40b8115fc5c154514",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0014:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述左道一般会隐秘行事",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁述左道一般会隐秘行事",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述左道一般会隐秘行事"
+      },
+      {
+        "reference": "v04-c0108:p0015",
+        "length": 48,
+        "sha256": "df4484b937afe26bc0d0c9ec79db1fa0c0f42cd39b4beba2abd9239fc9c726f9",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0015:u001",
+            "start": 0,
+            "end": 48,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述距事发近二十年，许多新一代当事人已更替",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁述距事发近二十年，许多新一代当事人已更替",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述距事发近二十年，许多新一代当事人已更替"
+      },
+      {
+        "reference": "v04-c0108:p0016",
+        "length": 99,
+        "sha256": "fb4356192f53b5c29d722c8fb17db6e96298be0e367719d34b1ee7ed18bd0d8a",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0016:u001",
+            "start": 0,
+            "end": 99,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木按播密处境推对方应不强，却窥不出深浅",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木按播密处境推对方应不强，却窥不出深浅",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木按播密处境推对方应不强，却窥不出深浅"
+      },
+      {
+        "reference": "v04-c0108:p0017",
+        "length": 77,
+        "sha256": "0e5aef94f17fdcdd9b4f1a8f10c77c78db28f4d65eb915b31fe77670657b2782",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0017:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木实反驳并提罗教散人神使可能混杂",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实反驳并提罗教散人神使可能混杂",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0017:u002",
+            "start": 47,
+            "end": 70,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木实反驳并提罗教散人神使可能混杂",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实反驳并提罗教散人神使可能混杂",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0017:u003",
+            "start": 70,
+            "end": 77,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木实反驳并提罗教散人神使可能混杂",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实反驳并提罗教散人神使可能混杂",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木实反驳并提罗教散人神使可能混杂"
+      },
+      {
+        "reference": "v04-c0108:p0018",
+        "length": 26,
+        "sha256": "f60c168ff3cf8d5e02da1d4f47e9f52892c4d82664a92671727174678601c629",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0018:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述散人与神使多隐去原有身份",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁述散人与神使多隐去原有身份",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述散人与神使多隐去原有身份"
+      },
+      {
+        "reference": "v04-c0108:p0019",
+        "length": 68,
+        "sha256": "59c2dd5b5b79db924b47e0e0b0c5ec5ae046bd7d0f31b38fcfedd87d25492187",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0019:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟用播密有变与要突破的说法解释现身",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟用播密有变与要突破的说法解释现身",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0019:u002",
+            "start": 14,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟用播密有变与要突破的说法解释现身",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟用播密有变与要突破的说法解释现身",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0019:u003",
+            "start": 40,
+            "end": 68,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟用播密有变与要突破的说法解释现身",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟用播密有变与要突破的说法解释现身",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟用播密有变与要突破的说法解释现身"
+      },
+      {
+        "reference": "v04-c0108:p0020",
+        "length": 51,
+        "sha256": "0cba7157dc2477ea2ff4f25201ced72e397aeeb4bbdc52bf7cd320ab338c199a",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0020:u001",
+            "start": 0,
+            "end": 3,
+            "kind": "inner_speech",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木内讶竟能谈讲和，见对方不慌",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "内心",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木内讶竟能谈讲和，见对方不慌",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0020:u002",
+            "start": 3,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木内讶竟能谈讲和，见对方不慌",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木内讶竟能谈讲和，见对方不慌",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木内讶竟能谈讲和，见对方不慌"
+      },
+      {
+        "reference": "v04-c0108:p0021",
+        "length": 13,
+        "sha256": "62f7efc737a9f3a6f4fae0a23fe5c0ad4531c238b372a0093dd85fca2afe5de3",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0021:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木猜其修为",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "内心",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木猜其修为",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木猜其修为"
+      },
+      {
+        "reference": "v04-c0108:p0022",
+        "length": 17,
+        "sha256": "d73512f926536ed39f2358918bd4276582a827dbbc74d8d1b8b066c308088669",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0022:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木惊其对未来讲和如此自信",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "内心",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木惊其对未来讲和如此自信",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木惊其对未来讲和如此自信"
+      },
+      {
+        "reference": "v04-c0108:p0023",
+        "length": 71,
+        "sha256": "868be4004fd0e10134f8319c4b85c201dec1d8c54b65fbdf14eadcaad97dd15d",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0023:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木试套话不果，实问来意",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木试套话不果，实问来意",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0023:u002",
+            "start": 19,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木试套话不果，实问来意",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木试套话不果，实问来意",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0023:u003",
+            "start": 58,
+            "end": 71,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木试套话不果，实问来意",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木试套话不果，实问来意",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木试套话不果，实问来意"
+      },
+      {
+        "reference": "v04-c0108:p0024",
+        "length": 84,
+        "sha256": "3e43f82b822698d17582aa4ca04b3d326cb34e3c6ebf8c5c34b505220075ae16",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0024:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际提出熟悉新人并采购的说法",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟实际提出熟悉新人并采购的说法",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0024:u002",
+            "start": 17,
+            "end": 84,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟实际提出熟悉新人并采购的说法",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟实际提出熟悉新人并采购的说法",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际提出熟悉新人并采购的说法"
+      },
+      {
+        "reference": "v04-c0108:p0025",
+        "length": 35,
+        "sha256": "6aa1db49bfb18d4cc6b58261e5e5445138807eca225298aa0a0d117cd9488ccf",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0025:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述为何称如今弄潮者晚辈",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁述为何称如今弄潮者晚辈",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述为何称如今弄潮者晚辈"
+      },
+      {
+        "reference": "v04-c0108:p0026",
+        "length": 34,
+        "sha256": "7649387591cbd1b85b8341c9777dfc817522624dfdfefe8a8ad14c9b267e0603",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0026:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木对其所认的熟人实问所需",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木对其所认的熟人实问所需",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0026:u002",
+            "start": 7,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木对其所认的熟人实问所需",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木试探境界，问来意",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木对其所认的熟人实问所需",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木对其所认的熟人实问所需"
+      },
+      {
+        "reference": "v04-c0108:p0027",
+        "length": 37,
+        "sha256": "3ec21bea3066d832f8414f600f202141bb7093f4a62ab37f54abdc7f9dc19d7c",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0027:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟以毒手名义提出请托，未成交",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟以毒手名义提出请托，未成交",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0027:u002",
+            "start": 13,
+            "end": 37,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟以毒手名义提出请托，未成交",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟以毒手名义提出请托，未成交",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟以毒手名义提出请托，未成交"
+      },
+      {
+        "reference": "v04-c0108:p0028",
+        "length": 39,
+        "sha256": "e60006ab35119115e2e0052a6aeb7409ec44f443a505c497051237ecb4d6e26f",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0028:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木实失声反问，后句是自己的判断",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实失声反问，后句是自己的判断",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0028:u002",
+            "start": 5,
+            "end": 12,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木实失声反问，后句是自己的判断",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实失声反问，后句是自己的判断",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0028:u003",
+            "start": 12,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木实失声反问，后句是自己的判断",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实失声反问，后句是自己的判断",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0028:u004",
+            "start": 19,
+            "end": 39,
+            "kind": "inner_speech",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木实失声反问，后句是自己的判断",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "内心",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实失声反问，后句是自己的判断",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木实失声反问，后句是自己的判断"
+      },
+      {
+        "reference": "v04-c0108:p0029",
+        "length": 54,
+        "sha256": "e639728b650831695a15cc80d912471464d10e24396f7135ef267cd622a75859",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0029:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "inner_speech",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木内估大势力护外景、寻人后果严重",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "内心",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木内估大势力护外景、寻人后果严重",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木内估大势力护外景、寻人后果严重"
+      },
+      {
+        "reference": "v04-c0108:p0030",
+        "length": 38,
+        "sha256": "b4c8d8688acd6782680ae58bab82c89211326e1f0a22f4b2430d6eeb33b67cd9",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0030:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "inner_speech",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木内估散修亦很难擒，此为风险评估",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "内心",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木内估散修亦很难擒，此为风险评估",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木内估散修亦很难擒，此为风险评估"
+      },
+      {
+        "reference": "v04-c0108:p0031",
+        "length": 56,
+        "sha256": "1d4d2b8539824727f7be30300c9b98d1af2b0cb79114cc925f16682ad02422d5",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0031:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟称借秘法突破并改谈可接受条件",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟称借秘法突破并改谈可接受条件",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0031:u002",
+            "start": 18,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟称借秘法突破并改谈可接受条件",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟称借秘法突破并改谈可接受条件",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0031:u003",
+            "start": 25,
+            "end": 56,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟称借秘法突破并改谈可接受条件",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟称借秘法突破并改谈可接受条件",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟称借秘法突破并改谈可接受条件"
+      },
+      {
+        "reference": "v04-c0108:p0032",
+        "length": 24,
+        "sha256": "82ebdf8a21abeba562226e486fd0bda35768c11757cb9d4ababcf2126dea3b04",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0032:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟内以所提条件引向素女道",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "内心",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟内以所提条件引向素女道",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内以所提条件引向素女道"
+      },
+      {
+        "reference": "v04-c0108:p0033",
+        "length": 30,
+        "sha256": "2423908b652dbd0a03453b8f82bba2591bb88623b9bbd2e84abaa74e8e13640f",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0033:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "inner_speech",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木带引号复念，出声未明",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "端木复念，出声未明",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木带引号复念，出声未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0033:u002",
+            "start": 13,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木带引号复念，出声未明",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木带引号复念，出声未明",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木带引号复念，出声未明"
+      },
+      {
+        "reference": "v04-c0108:p0034",
+        "length": 29,
+        "sha256": "61cd1b7954d0007a08d243984b00ec7105506aab9c119706312f07421f3ed40b",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0034:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木实际问报酬",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实际问报酬",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0034:u002",
+            "start": 10,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木实际问报酬",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实际问报酬",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木实际问报酬"
+      },
+      {
+        "reference": "v04-c0108:p0035",
+        "length": 40,
+        "sha256": "88c9a04cfbcbb99fb9bcc4600cc3c000e8dd0b3400a876702dcc26fe695cdfe8",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0035:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "inner_speech",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木内比较自己所熟情形，觉得要求很高",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "内心",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木内比较自己所熟情形，觉得要求很高",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木内比较自己所熟情形，觉得要求很高"
+      },
+      {
+        "reference": "v04-c0108:p0036",
+        "length": 29,
+        "sha256": "a972c04fe76741ad5e28d1b56fa3e76f9332deceaf974bf6d10cbbd34305a15a",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0036:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟说视对方所需，不先出具体价",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟说视对方所需，不先出具体价",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0036:u002",
+            "start": 17,
+            "end": 29,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟说视对方所需，不先出具体价",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟说视对方所需，不先出具体价",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟说视对方所需，不先出具体价"
+      },
+      {
+        "reference": "v04-c0108:p0037",
+        "length": 38,
+        "sha256": "de426e9565823ee5cdeefc7ecdb5a08e9cec707954d5ea5010fdbef6da627fde",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0037:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟内想直接付款将断后续追索",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "内心",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟内想直接付款将断后续追索",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内想直接付款将断后续追索"
+      },
+      {
+        "reference": "v04-c0108:p0038",
+        "length": 40,
+        "sha256": "5f195685a29a0f0a3be9a22e0d8243873d9e0c49567bf4a99537dd21e972475a",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0038:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "两人目光对视，孟不退",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "两人目光对视，孟不退",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两人目光对视，孟不退"
+      },
+      {
+        "reference": "v04-c0108:p0039",
+        "length": 25,
+        "sha256": "f856978604cc758acec626fbe907e5b1e97a13b19b2d6f7dc12778ffdfeafadb",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0039:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木口问若孟没有所求报酬",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木口问若孟没有所求报酬",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0039:u002",
+            "start": 14,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木口问若孟没有所求报酬",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木口问若孟没有所求报酬",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木口问若孟没有所求报酬"
+      },
+      {
+        "reference": "v04-c0108:p0040",
+        "length": 46,
+        "sha256": "841a9c33040c92e3821a96bbba94f55777d4658d8ef1530af25558dfc034d316",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0040:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟称可另获取或代办，未形成具体协议",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟称可另获取或代办，未形成具体协议",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0040:u002",
+            "start": 10,
+            "end": 46,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟称可另获取或代办，未形成具体协议",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟称可另获取或代办，未形成具体协议",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟称可另获取或代办，未形成具体协议"
+      },
+      {
+        "reference": "v04-c0108:p0041",
+        "length": 26,
+        "sha256": "d7f503c230058913b14e4f4bf164870fcf495e58a22e039d21dacef6a3928cce",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0041:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟起身作告辞之态",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟起身作告辞之态",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟起身作告辞之态"
+      },
+      {
+        "reference": "v04-c0108:p0042",
+        "length": 17,
+        "sha256": "234098d8696a2de9a06b0cf9e91e390381dabf7cd2a2dca6d695e493f2713d7f",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0042:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木只答会转告，未证已去办",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木只答会转告，未证已去办",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0042:u002",
+            "start": 8,
+            "end": 17,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木只答会转告，未证已去办",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木只答会转告，未证已去办",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木只答会转告，未证已去办"
+      },
+      {
+        "reference": "v04-c0108:p0043",
+        "length": 17,
+        "sha256": "06b5d91f49da0ea74b74a98443a66e500a1dc199dbc717ed1bb33d4a78b7cb43",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0043:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "inner_speech",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木内觉毒手颇有宗师气派，不是判定境界",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "孟提出请托，端木只允转告",
+            "channel": "内心",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木内觉毒手颇有宗师气派，不是判定境界",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木内觉毒手颇有宗师气派，不是判定境界"
+      },
+      {
+        "reference": "v04-c0108:p0044",
+        "length": 49,
+        "sha256": "3ac97dc0d3b3dcdb941562dbd2f372742c92b0913048c2615da7603287988e10",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0044:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟走后端木另上楼见黑袍客",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟走后端木另上楼见黑袍客",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟走后端木另上楼见黑袍客"
+      },
+      {
+        "reference": "v04-c0108:p0045",
+        "length": 38,
+        "sha256": "ea97abe0c2c21475ffc55db9059e6190efad10f3303469a9da6930b476750e6a",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0045:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "沈岳，照影门执法长老，外景不到十年",
+            "text_context": "黑袍男子实问刚才的人是谁",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "实际言语",
+            "embodiment": "密室说笑，离城谨慎，在阴影外见人而惊",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "黑袍男子实问刚才的人是谁",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0045:u002",
+            "start": 8,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黑袍男子实问刚才的人是谁",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "黑袍男子实问刚才的人是谁",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黑袍男子实问刚才的人是谁"
+      },
+      {
+        "reference": "v04-c0108:p0046",
+        "length": 35,
+        "sha256": "33ea8040155817dec1d18ac791d924961cbed8595e7d8913ef80488c24db3120",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0046:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白实名黑袍客沈岳，照影门执法长老，外景不到十年",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁白实名黑袍客沈岳，照影门执法长老，外景不到十年",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白实名黑袍客沈岳，照影门执法长老，外景不到十年"
+      },
+      {
+        "reference": "v04-c0108:p0047",
+        "length": 49,
+        "sha256": "38372b6e7e7f2b20185fa6278c57711d9dbbaeeb6c0fe3e0a28a6cfb2d46b15b",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0047:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白写照影门投效不明，端木实答毒手",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁白写照影门投效不明，端木实答毒手",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0047:u002",
+            "start": 42,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "旁白写照影门投效不明，端木实答毒手",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁白写照影门投效不明，端木实答毒手",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白写照影门投效不明，端木实答毒手"
+      },
+      {
+        "reference": "v04-c0108:p0048",
+        "length": 55,
+        "sha256": "eaa9359363a335c6ac1a16b27e655ec5a02cff4b9de0de6e764ac4982b41a240",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0048:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "沈岳，照影门执法长老，外景不到十年",
+            "text_context": "沈岳实际吃惊其从播密出来",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "实际言语",
+            "embodiment": "密室说笑，离城谨慎，在阴影外见人而惊",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳实际吃惊其从播密出来",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0048:u002",
+            "start": 7,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳实际吃惊其从播密出来",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳实际吃惊其从播密出来",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0048:u003",
+            "start": 26,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "沈岳，照影门执法长老，外景不到十年",
+            "text_context": "沈岳实际吃惊其从播密出来",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "实际言语",
+            "embodiment": "密室说笑，离城谨慎，在阴影外见人而惊",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳实际吃惊其从播密出来",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0048:u004",
+            "start": 39,
+            "end": 55,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "沈岳，照影门执法长老，外景不到十年",
+            "text_context": "沈岳实际吃惊其从播密出来",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "实际言语",
+            "embodiment": "密室说笑，离城谨慎，在阴影外见人而惊",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳实际吃惊其从播密出来",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳实际吃惊其从播密出来"
+      },
+      {
+        "reference": "v04-c0108:p0049",
+        "length": 61,
+        "sha256": "e1b2cbe9095a5b48fdc81b50add3c7ec263520ee179631f54ffa82d535467701",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0049:u001",
+            "start": 0,
+            "end": 61,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白交代沈岳了解毒手成名的年代",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁白交代沈岳了解毒手成名的年代",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白交代沈岳了解毒手成名的年代"
+      },
+      {
+        "reference": "v04-c0108:p0050",
+        "length": 20,
+        "sha256": "e59c8c01891835817439083f645ddff757739568b5241540b7d996ff6295f511",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0050:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木略说情况，未透露孟来意",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木略说情况，未透露孟来意",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木略说情况，未透露孟来意"
+      },
+      {
+        "reference": "v04-c0108:p0051",
+        "length": 96,
+        "sha256": "29a18db7ddbe3920e0b426d53195fc29edf8958c9969134c1210f293c2dd756c",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0051:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳估当年毒手有望两榜，如今恐难突破，非实测",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳估当年毒手有望两榜，如今恐难突破，非实测",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0051:u002",
+            "start": 27,
+            "end": 96,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "沈岳，照影门执法长老，外景不到十年",
+            "text_context": "沈岳估当年毒手有望两榜，如今恐难突破，非实测",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "实际言语",
+            "embodiment": "密室说笑，离城谨慎，在阴影外见人而惊",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳估当年毒手有望两榜，如今恐难突破，非实测",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳估当年毒手有望两榜，如今恐难突破，非实测"
+      },
+      {
+        "reference": "v04-c0108:p0052",
+        "length": 49,
+        "sha256": "f236b87065cfd90036d24104d9a2749520e5df40e46e2f0e8f14ecfb73844714",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0052:u001",
+            "start": 0,
+            "end": 49,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述沈岳因两人境况倒转而唏嘘",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "旁述沈岳因两人境况倒转而唏嘘",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述沈岳因两人境况倒转而唏嘘"
+      },
+      {
+        "reference": "v04-c0108:p0053",
+        "length": 26,
+        "sha256": "8735e4a06e39d159e18006f5245aeb50a12c2c9a0f3e387157b5192e4008eb3d",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0053:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木没有说自己觉得毒手难测深浅",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木没有说自己觉得毒手难测深浅",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木没有说自己觉得毒手难测深浅"
+      },
+      {
+        "reference": "v04-c0108:p0054",
+        "length": 41,
+        "sha256": "aa99b3b8fb3230f937671c66ab2f4b74b09a69b198f422c4f7d9adb4efc25af4",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0054:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳口问追魂魔君是否到江东",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳口问追魂魔君是否到江东",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0054:u002",
+            "start": 16,
+            "end": 41,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "沈岳，照影门执法长老，外景不到十年",
+            "text_context": "沈岳口问追魂魔君是否到江东",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "实际言语",
+            "embodiment": "密室说笑，离城谨慎，在阴影外见人而惊",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳口问追魂魔君是否到江东",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳口问追魂魔君是否到江东"
+      },
+      {
+        "reference": "v04-c0108:p0055",
+        "length": 11,
+        "sha256": "2dc00de76f843bfe2e3a6c29bf0941597f54e83bd99f59cc9b4058b24df615cc",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0055:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "spoken_dialogue",
+            "speaker": "duanmu_bei",
+            "surface_identity": "江东楼主端木北，五重天",
+            "text_context": "端木实际答是",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "实际言语",
+            "embodiment": "先讥讽后失声、再眼神试探，最终答会转告",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实际答是",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0055:u002",
+            "start": 4,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木实际答是",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木实际答是",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木实际答是"
+      },
+      {
+        "reference": "v04-c0108:p0056",
+        "length": 108,
+        "sha256": "47d74f29ec1208dddae6096db7d97c4e8dc227b685e6493fe69379ecc4fe16f1",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0056:u001",
+            "start": 0,
+            "end": 89,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "沈岳，照影门执法长老，外景不到十年",
+            "text_context": "沈岳实称两魔君有仇，追魂过天梯、依附势力未明",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "实际言语",
+            "embodiment": "密室说笑，离城谨慎，在阴影外见人而惊",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳实称两魔君有仇，追魂过天梯、依附势力未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0056:u002",
+            "start": 89,
+            "end": 108,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳实称两魔君有仇，追魂过天梯、依附势力未明",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳实称两魔君有仇，追魂过天梯、依附势力未明",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳实称两魔君有仇，追魂过天梯、依附势力未明"
+      },
+      {
+        "reference": "v04-c0108:p0057",
+        "length": 23,
+        "sha256": "45444df6309ba5cf795b0cb3dfa4a1ececb39de724c6d5e6aa891d3e98137361",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0057:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "端木心动但把话转交易",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "端木与沈岳谈旧日魔君及追魂",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "端木心动但把话转交易",
+            "focalizer": "duanmu_bei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "端木心动但把话转交易"
+      },
+      {
+        "reference": "v04-c0108:p0058",
+        "length": 30,
+        "sha256": "c356daf64c67e5b791a728b4cb8b1c3fabc04410874b9c3a69c444b47b64784b",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0058:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳交易后秘密离开，变向遁出郢城",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳交易后秘密离开，变向遁出郢城",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳交易后秘密离开，变向遁出郢城"
+      },
+      {
+        "reference": "v04-c0108:p0059",
+        "length": 26,
+        "sha256": "aa6f3b9dc5c494a2eb186cdef3609a4dbae454e9ce98ab5af06b31c3e2dd94a7",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0059:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳行中觉可能被跟踪",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳行中觉可能被跟踪",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳行中觉可能被跟踪"
+      },
+      {
+        "reference": "v04-c0108:p0060",
+        "length": 26,
+        "sha256": "f31f28bbd0d94e6a9fc9e8cd45c7659c92d9861b1f1a5805fa3d54c481d3bc41",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0060:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳再施照影入幽，行过百余里出影",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳再施照影入幽，行过百余里出影",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳再施照影入幽，行过百余里出影"
+      },
+      {
+        "reference": "v04-c0108:p0061",
+        "length": 64,
+        "sha256": "6e93c7d85b33e4b9ff6f1a569072c8f40b9496d3ef2778a3a81806e941ad89ab",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0061:u001",
+            "start": 0,
+            "end": 64,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳出影便见霜鬓青袍中年仰望夕阳",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳出影便见霜鬓青袍中年仰望夕阳",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳出影便见霜鬓青袍中年仰望夕阳"
+      },
+      {
+        "reference": "v04-c0108:p0062",
+        "length": 9,
+        "sha256": "563ad8eeec3fe81c483f090eb2364816518e60477f9994f965dd3731f24e9062",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0062:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "inner_speech",
+            "speaker": "shen_yue",
+            "surface_identity": "沈岳，照影门执法长老，外景不到十年",
+            "text_context": "沈岳内惊对方能跟上",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "内心",
+            "embodiment": "密室说笑，离城谨慎，在阴影外见人而惊",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳内惊对方能跟上",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳内惊对方能跟上"
+      },
+      {
+        "reference": "v04-c0108:p0063",
+        "length": 34,
+        "sha256": "a9b67d8c2edb8d83446cce7b2e2f951239f6c5ad7438020713370020814e97bb",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0063:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟不回头先出声谈夕阳",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟不回头先出声谈夕阳",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0063:u002",
+            "start": 21,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟不回头先出声谈夕阳",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟不回头先出声谈夕阳",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟不回头先出声谈夕阳"
+      },
+      {
+        "reference": "v04-c0108:p0064",
+        "length": 19,
+        "sha256": "f620475e271e279a378b157dfef49ccf7188e2c064d29bb16b5bd4dc64f80fe0",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0064:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳实际叫毒手魔君，仍是看见的外观",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳实际叫毒手魔君，仍是看见的外观",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0108:p0064:u002",
+            "start": 12,
+            "end": 19,
+            "kind": "spoken_dialogue",
+            "speaker": "shen_yue",
+            "surface_identity": "沈岳，照影门执法长老，外景不到十年",
+            "text_context": "沈岳实际叫毒手魔君，仍是看见的外观",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "实际言语",
+            "embodiment": "密室说笑，离城谨慎，在阴影外见人而惊",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳实际叫毒手魔君，仍是看见的外观",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳实际叫毒手魔君，仍是看见的外观"
+      },
+      {
+        "reference": "v04-c0108:p0065",
+        "length": 27,
+        "sha256": "1314126923fad3e01f1459f8d0dabf25fe2d1f2944cbd3fd186dc71252401300",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0065:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "沈岳感其嗓音魅力，视点属于沈",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "沈岳感其嗓音魅力，视点属于沈",
+            "focalizer": "shen_yue",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "沈岳感其嗓音魅力，视点属于沈"
+      },
+      {
+        "reference": "v04-c0108:p0066",
+        "length": 13,
+        "sha256": "ba918b842baec818d61ffeb44ed542e185a9681feda78f52fe506b51e912f701",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0066:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟转头似笑非笑",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟转头似笑非笑",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟转头似笑非笑"
+      },
+      {
+        "reference": "v04-c0108:p0067",
+        "length": 34,
+        "sha256": "57659ff8287afda257a1123dc7f205b00bc99bdd4548ee7b7de6109774f0c80d",
+        "units": [
+          {
+            "unit_id": "v04-c0108:p0067:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，全章以毒手魔君外观对外，真毒手死于无忧谷",
+            "text_context": "孟以毒手外观真开口相认，目的与结果仍未明",
+            "world_context": "第四卷郢城江东楼：毒手外观过阵见端木北，沈岳转场",
+            "stage_context": "沈离城后遇孟，孟开口相认",
+            "channel": "实际言语",
+            "embodiment": "入楼静捏符而从容，离后于夕阳下不先回身",
+            "vow_friendship_and_loot_boundary": "轮回符未用。端木承诺转告，没有交易成交或人到手。与沈岳章末只开始交谈。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "真毒手旧事来自旁述与六扇门所知；端木认为见到的是毒手且难测深浅。追魂到江东来自端木实际回答，归附方未知。",
+            "knowledge_boundary": "孟以毒手外观真开口相认，目的与结果仍未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟以毒手外观真开口相认，目的与结果仍未明"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0108",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S14",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 12,
+        "label": "端木传音让进楼，门合后试探",
+        "direction": "先让端木扫看四周，传音仅给来者。跨十丈时空间威胁退去又回，孟保持闲步，只在动作中留暗捏符的紧张。进一层后声场变得寂静，端木讥讽；真毒手的履历由旁白交代。 证据 v04-c0108:p0001–p0012。"
+      },
+      {
+        "paragraph_start": 13,
+        "paragraph_end": 26,
+        "label": "以旧事应答，端木问何所求",
+        "direction": "孟以老夫口吻慢说，端木以罗教威胁试探。听到讲和后，端木的呼吸和目光先变，具体修为问题留心中。见孟不接套话，才问请托。 证据 v04-c0108:p0013–p0026。"
+      },
+      {
+        "paragraph_start": 27,
+        "paragraph_end": 43,
+        "label": "请托引出试探，只得转告答复",
+        "direction": "由端木骤惊转沉吟，孟稳住笑和目光，别把开价演成已定交易。孟称可以另行办事，起身将辞；端木只说转告。端木感到像宗师的一句留心里。 证据 v04-c0108:p0027–p0043。"
+      },
+      {
+        "paragraph_start": 44,
+        "paragraph_end": 57,
+        "label": "楼上密室见沈岳，话题转到追魂",
+        "direction": "先让沈岳以黑袍外客发问，再交代照影门身份。端木报毒手名、略释来由，保留私下的不安。沈岳从两人的旧名声扯到追魂魔君，端木点头确认其来江东，然后谈回交易。 证据 v04-c0108:p0044–p0057。"
+      },
+      {
+        "paragraph_start": 58,
+        "paragraph_end": 67,
+        "label": "沈岳遁出郢城，夕阳下再遇孟",
+        "direction": "沈岳先感异，再自阴影里现身，看眼前青袍人背对夕阳。孟不先回头，低声发问，沈岳认毒手外观。等孟转身才给既随意又难测的招呼，停在双方开口。 证据 v04-c0108:p0058–p0067。"
+      }
+    ],
+    "knowledge_rule": "阵能否识别的结论随孟的体验，端木北也只对眼前毒手的气息难测。真毒手死在无忧谷，历史另作旁叙。孟借请托试探素女道，端木只承诺传话，未成交。沈岳并未得知请托内容，章末只开口相识。"
+  }
 }

@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [端木领毒手外观的孟奇进朱紫楼](early-v04-Poison-Hand-disguise-admitted-to-Jiangdong-tower.md) | 第四卷第108章历史归属回补 |
+| [孟借请托寻线索，端木只答转告](early-v04-Duanmu-agrees-only-to-pass-on-the-request.md) | 第四卷第108章历史归属回补 |
+| [沈岳交易后离城，于夕阳下认出毒手外观](early-v04-Shen-Yue-recognizes-Poison-Hand-in-the-sunset.md) | 第四卷第108章历史归属回补 |
 | [茂陵掌柜口传，端木北被指有坐地虎的名声](early-v04-Maoling-stationer-briefs-Meng-on-Duanmu.md) | 第四卷第107章历史归属回补 |
 | [郢城楼边无生气，喜鹊触近化灰](early-v04-Jiangdong-tower-and-the-bird-turns-to-ash.md) | 第四卷第107章历史归属回补 |
 | [真毒手已死，孟借其年轻外观首次见端木北](early-v04-Meng-appears-as-Poison-Hand-before-Duanmu.md) | 第四卷第107章历史归属回补 |
