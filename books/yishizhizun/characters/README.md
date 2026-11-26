@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [六道宣布传道失败，三观问题转入同伴闲谈](early-v04-Six-Paths-rules-the-Mohist-mission-failed.md) | 第四卷第105章历史归属回补 |
+| [先按值取所需，余物折善功再结](early-v04-Two-rounds-of-spoils-and-merit-shares.md) | 第四卷第105章历史归属回补 |
+| [三剑三式，江芷微查明价格](early-v04-Meng-selects-the-three-sword-forms-to-consider.md) | 第四卷第105章历史归属回补 |
 | [齐桓公述玉虚宫出没、先祖传承与诸仙去向](early-v04-Lu-Xiaobai-relates-the-Yuxu-palace-history.md) | 第四卷第104章历史归属回补 |
 | [墨者去齐与留陈各有主持](early-v04-Mohists-assigned-to-Qi-and-Chen.md) | 第四卷第104章历史归属回补 |
 | [楚庄腰间玉如意，孟辨不出来历，五人回归](early-v04-Chu-Zhuang-jade-ruyi-and-forced-return.md) | 第四卷第104章历史归属回补 |

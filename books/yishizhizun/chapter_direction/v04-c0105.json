@@ -61,7 +61,2457 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0273"
+  "reading_batch": "batch-0273",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0105",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0105.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0105:p0001",
+        "length": 43,
+        "sha256": "60f347e174e74680af9c539c1ea6e306b61b1e6359ac7fe96bcb3731f936f555",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0001:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "轮回广场雕像静望",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "轮回广场雕像静望",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "轮回广场雕像静望"
+      },
+      {
+        "reference": "v04-c0105:p0002",
+        "length": 24,
+        "sha256": "6ac5ac87dd69a4704ef128d93d3980d2a30757057d54276d150df0f787705412",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0002:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "五道身影实由光柱出现",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "五道身影实由光柱出现",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "五道身影实由光柱出现"
+      },
+      {
+        "reference": "v04-c0105:p0003",
+        "length": 30,
+        "sha256": "b16573f38d1907e4c262db7087f4b1079a8e91e3a143751f46974047af613d26",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0003:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟恢复眩晕，听六道声音",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟恢复眩晕，听六道声音",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟恢复眩晕，听六道声音"
+      },
+      {
+        "reference": "v04-c0105:p0004",
+        "length": 39,
+        "sha256": "38cf29df7d855ce4f5fbd118f83fb90ababcef6638e69f5e030398f8f02469a9",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0004:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "six_paths_master",
+            "surface_identity": "六道轮回之主，正式宣布失败",
+            "text_context": "六道真实宣布传道失败与各扣两千五百，无评价",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "六道向轮回者宣布任务结算",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "六道真实宣布传道失败与各扣两千五百，无评价",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道真实宣布传道失败与各扣两千五百，无评价"
+      },
+      {
+        "reference": "v04-c0105:p0005",
+        "length": 42,
+        "sha256": "421ba0333940ae7df258a53352200e833100628c4902fa5d21b3470e8d1d77f6",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0005:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟不满在心中，未实做手势",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟不满在心中，未实做手势",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0005:u002",
+            "start": 25,
+            "end": 42,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟不满在心中，未实做手势",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟不满在心中，未实做手势",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟不满在心中，未实做手势"
+      },
+      {
+        "reference": "v04-c0105:p0006",
+        "length": 102,
+        "sha256": "ab7aeb4a4cd09412f33bba0abedf04013628e1e2529a22f1d7c74fab623cd977",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0006:u001",
+            "start": 0,
+            "end": 102,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟按情报与战利品估收益，尚未结账",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟按情报与战利品估收益，尚未结账",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟按情报与战利品估收益，尚未结账"
+      },
+      {
+        "reference": "v04-c0105:p0007",
+        "length": 39,
+        "sha256": "f632acdf0617e899cb02339f8094857603fe1b81e426e653e893a8974d70e956",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0007:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟内总结投入秘宝有回报",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟内总结投入秘宝有回报",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内总结投入秘宝有回报"
+      },
+      {
+        "reference": "v04-c0105:p0008",
+        "length": 44,
+        "sha256": "ea3ea250e66dbbc7ad1c7e2484647b10d8d70302780896186437449d10b5110a",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0008:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵恒以略幽怨声询三观，幽幽不是单独台词",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "赵恒以略幽怨声询三观，幽幽不是单独台词",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0008:u002",
+            "start": 21,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵恒以略幽怨声询三观，幽幽不是单独台词",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "赵恒以略幽怨声询三观，幽幽不是单独台词",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵恒以略幽怨声询三观，幽幽不是单独台词"
+      },
+      {
+        "reference": "v04-c0105:p0009",
+        "length": 29,
+        "sha256": "1d85c5686af8ed8ca0c5e6457446d68737b4e620e1bdada7d662faceb23b1127",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0009:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟惊疑后转头见赵郁闷",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟惊疑后转头见赵郁闷",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0009:u002",
+            "start": 2,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟惊疑后转头见赵郁闷",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟惊疑后转头见赵郁闷",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟惊疑后转头见赵郁闷"
+      },
+      {
+        "reference": "v04-c0105:p0010",
+        "length": 15,
+        "sha256": "5cf8e55eaba198577f52f4152cf052ae75fe361ed942788940205ca7a9f7b579",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0010:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟实际干笑搪塞",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "实际言语",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟实际干笑搪塞",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际干笑搪塞"
+      },
+      {
+        "reference": "v04-c0105:p0011",
+        "length": 103,
+        "sha256": "cc908c77855fa6725e86d814cf1cedb26af84952f513d7fe0ed49933d2bba6b0",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0011:u001",
+            "start": 0,
+            "end": 103,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟用古话解释三观，旁白不复原定义，私下心虚",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟用古话解释三观，旁白不复原定义，私下心虚",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟用古话解释三观，旁白不复原定义，私下心虚"
+      },
+      {
+        "reference": "v04-c0105:p0012",
+        "length": 21,
+        "sha256": "af4fa1f0f446615db880d9c6d45c863756806db4756c72942e3fc17d666cd771",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0012:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白明暂蒙混过去",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "回归判负与三观",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "旁白明暂蒙混过去",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白明暂蒙混过去"
+      },
+      {
+        "reference": "v04-c0105:p0013",
+        "length": 39,
+        "sha256": "0252a5321f9ba6e5d2739c327252d5cb28a64eb646a13ee4cdbc303b9ec47d06",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0013:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐指出全换六道会少得",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "齐指出全换六道会少得",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0013:u002",
+            "start": 14,
+            "end": 39,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "qi_zhengyan",
+            "text_context": "齐指出全换六道会少得",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "实际言语",
+            "embodiment": "话少但主动补账面分配法",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "齐指出全换六道会少得",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐指出全换六道会少得"
+      },
+      {
+        "reference": "v04-c0105:p0014",
+        "length": 40,
+        "sha256": "1eaa9034dbfa1f07d587ca074115f8d3244416cee2cbfd6831a0370b1f42a36f",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0014:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内同意六道低买高卖",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟内同意六道低买高卖",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0014:u002",
+            "start": 19,
+            "end": 40,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟内同意六道低买高卖",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟内同意六道低买高卖",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内同意六道低买高卖"
+      },
+      {
+        "reference": "v04-c0105:p0015",
+        "length": 118,
+        "sha256": "0b0af631e825eb1f341b127c04e2ff0c8e057272e3aacefab8670c7f0fc13728",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0015:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟心算仙迹寄卖慢、余三百及契约保密，未去寄卖",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟心算仙迹寄卖慢、余三百及契约保密，未去寄卖",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0015:u002",
+            "start": 8,
+            "end": 118,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟心算仙迹寄卖慢、余三百及契约保密，未去寄卖",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟心算仙迹寄卖慢、余三百及契约保密，未去寄卖",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟心算仙迹寄卖慢、余三百及契约保密，未去寄卖"
+      },
+      {
+        "reference": "v04-c0105:p0016",
+        "length": 43,
+        "sha256": "b40fae819cd4fda60428bbf46800f1e9154b804903c06dc8c323adcd9460825a",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0016:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_yushu",
+            "surface_identity": "阮玉书，先提按价选、突破仍待",
+            "text_context": "阮实建议先按正常价值挑所需",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "实际言语",
+            "embodiment": "冷声提议，得赞后微低头",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "阮实建议先按正常价值挑所需",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0016:u002",
+            "start": 28,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮实建议先按正常价值挑所需",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "阮实建议先按正常价值挑所需",
+            "focalizer": "ruan_yushu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮实建议先按正常价值挑所需"
+      },
+      {
+        "reference": "v04-c0105:p0017",
+        "length": 23,
+        "sha256": "8428a7dc90e1a145dbe64b2a7726eb0f51166c37442b0700d0d478ddf799aa82",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0017:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟合掌肯定阮建议",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟合掌肯定阮建议",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0017:u002",
+            "start": 17,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟合掌肯定阮建议",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "实际言语",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟合掌肯定阮建议",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟合掌肯定阮建议"
+      },
+      {
+        "reference": "v04-c0105:p0018",
+        "length": 23,
+        "sha256": "3271d9eb3a15243447614d20421efbb8e5095f06f477ffa4dda84d3929ed6ccf",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0018:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟内估剩余兑六道可少吃亏",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟内估剩余兑六道可少吃亏",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内估剩余兑六道可少吃亏"
+      },
+      {
+        "reference": "v04-c0105:p0019",
+        "length": 32,
+        "sha256": "f8b170088ef7bb86c71f2cf71b9fab007947db6b7af12d5f5505929bd6b65c71",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0019:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江赵也出声赞阮，未给逐字",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江赵也出声赞阮，未给逐字",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江赵也出声赞阮，未给逐字"
+      },
+      {
+        "reference": "v04-c0105:p0020",
+        "length": 24,
+        "sha256": "6cc9924b5fc85f85e7c71d8c4d149f53e7768151632caecea854683003931479",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0020:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮表情不变、低头见得意",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "阮表情不变、低头见得意",
+            "focalizer": "ruan_yushu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮表情不变、低头见得意"
+      },
+      {
+        "reference": "v04-c0105:p0021",
+        "length": 19,
+        "sha256": "bd518510e73ae0553de1dad787d66fc02ebd1c4c8f954e79b33845b01c676199",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0021:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "五人实际把战利品置中央",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "五人实际把战利品置中央",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "五人实际把战利品置中央"
+      },
+      {
+        "reference": "v04-c0105:p0022",
+        "length": 46,
+        "sha256": "bd57df79038b20c1d89901de5c763313d40cec3569192a2d58d4c8d3d61e8649",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0022:u001",
+            "start": 0,
+            "end": 46,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "此前所得仿图、桃身、环和三件材料",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "此前所得仿图、桃身、环和三件材料",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "此前所得仿图、桃身、环和三件材料"
+      },
+      {
+        "reference": "v04-c0105:p0023",
+        "length": 54,
+        "sha256": "4fbb585b6907866677cbb6fbe407270b3655f0129f25eb34747c7c21727f9aff",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0023:u001",
+            "start": 0,
+            "end": 54,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "列公羊登与薄两份所得，尚未分",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "列公羊登与薄两份所得，尚未分",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "列公羊登与薄两份所得，尚未分"
+      },
+      {
+        "reference": "v04-c0105:p0024",
+        "length": 30,
+        "sha256": "138f790214ad3870f7737689801ad393159b018c45a6677b9a4045e33fa11dcc",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0024:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "列狱中两外景所得，品阶较低",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "列狱中两外景所得，品阶较低",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "列狱中两外景所得，品阶较低"
+      },
+      {
+        "reference": "v04-c0105:p0025",
+        "length": 76,
+        "sha256": "f36ff157f9881e418aa9d8d93b499aa92ee31f9ee5adb14e5f2e3fe4e734f642",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0025:u001",
+            "start": 0,
+            "end": 76,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "公羊增所得十件材料等、上品枪剑及四秘宝",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "公羊增所得十件材料等、上品枪剑及四秘宝",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "公羊增所得十件材料等、上品枪剑及四秘宝"
+      },
+      {
+        "reference": "v04-c0105:p0026",
+        "length": 39,
+        "sha256": "0e5ee5da230dc33b3d82f7e7185f199259e082c626ce19766f43ff0a178ceafe",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0026:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "spoken_dialogue",
+            "speaker": "zhao_heng",
+            "surface_identity": "zhao_heng",
+            "text_context": "赵估若无公羊增会小亏",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "赵估若无公羊增会小亏",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0026:u002",
+            "start": 25,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵估若无公羊增会小亏",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "赵估若无公羊增会小亏",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵估若无公羊增会小亏"
+      },
+      {
+        "reference": "v04-c0105:p0027",
+        "length": 36,
+        "sha256": "60c687b7ba94061edf2394a95dddbf91bc2f2de115bfe05be9c367e95dab1743",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0027:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白解释小亏按消耗及任务扣除算",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "旁白解释小亏按消耗及任务扣除算",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白解释小亏按消耗及任务扣除算"
+      },
+      {
+        "reference": "v04-c0105:p0028",
+        "length": 30,
+        "sha256": "1f8bb08361e2d6ec60cddda2253acb39354c03123bf8aa08e08fdc6953892614",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0028:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际预估每人至少盈利五千",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟实际预估每人至少盈利五千",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0028:u002",
+            "start": 11,
+            "end": 30,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟实际预估每人至少盈利五千",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "实际言语",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟实际预估每人至少盈利五千",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际预估每人至少盈利五千"
+      },
+      {
+        "reference": "v04-c0105:p0029",
+        "length": 10,
+        "sha256": "80b7a2437a1110e15338b1f79344b65beb848b6baa794da809dcb77e484b31c9",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0029:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟内评公羊增身家肥厚",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟内评公羊增身家肥厚",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内评公羊增身家肥厚"
+      },
+      {
+        "reference": "v04-c0105:p0030",
+        "length": 112,
+        "sha256": "a5e891731e39229be8f91443c75d6676ff5137e0b9923c838b322260bcd4bfb4",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0030:u001",
+            "start": 0,
+            "end": 112,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙者说明祭告后心绪已有调节，不是忘却",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "先选建议和盘点",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "叙者说明祭告后心绪已有调节，不是忘却",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙者说明祭告后心绪已有调节，不是忘却"
+      },
+      {
+        "reference": "v04-c0105:p0031",
+        "length": 45,
+        "sha256": "d23812dc0b3a485214e04f5a840aba74254d852ea88d633c2e25189a43bd2a65",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0031:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮放还余一用仿塔并请孟先选",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "阮放还余一用仿塔并请孟先选",
+            "focalizer": "ruan_yushu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0031:u002",
+            "start": 30,
+            "end": 45,
+            "kind": "spoken_dialogue",
+            "speaker": "ruan_yushu",
+            "surface_identity": "阮玉书，先提按价选、突破仍待",
+            "text_context": "阮放还余一用仿塔并请孟先选",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "实际言语",
+            "embodiment": "冷声提议，得赞后微低头",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "阮放还余一用仿塔并请孟先选",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮放还余一用仿塔并请孟先选"
+      },
+      {
+        "reference": "v04-c0105:p0032",
+        "length": 15,
+        "sha256": "8d4fdc6c2f6eea27ee7e467bedaa60178c4b1c6f8ce7390fe254e5973941a2e9",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0032:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮坦然表达意见",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "阮坦然表达意见",
+            "focalizer": "ruan_yushu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮坦然表达意见"
+      },
+      {
+        "reference": "v04-c0105:p0033",
+        "length": 23,
+        "sha256": "b47322b65161c54cbddefdb74fc3b13bdead544c2c93e0a2b610e4a83ea03260",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0033:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "其余三人颔首同意",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "其余三人颔首同意",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "其余三人颔首同意"
+      },
+      {
+        "reference": "v04-c0105:p0034",
+        "length": 24,
+        "sha256": "ae17339da0c54d3f802563f613f3380136083d7e06afdb0476d07faae07f2343",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0034:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际取一物",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟实际取一物",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际取一物"
+      },
+      {
+        "reference": "v04-c0105:p0035",
+        "length": 9,
+        "sha256": "f20c5cc09fa7004b2899f91f554eda8963162d15cf728c516bdd9a461abc0fec",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0035:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白揭取山河社稷图",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "旁白揭取山河社稷图",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白揭取山河社稷图"
+      },
+      {
+        "reference": "v04-c0105:p0036",
+        "length": 109,
+        "sha256": "233e03d849ae93cf68931568c08c925b8fd841cd05f36f70ae9f516fd776b7cc",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0036:u001",
+            "start": 0,
+            "end": 109,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "仅剩一用；六千是估值",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "仅剩一用；六千是估值",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "仅剩一用；六千是估值"
+      },
+      {
+        "reference": "v04-c0105:p0037",
+        "length": 123,
+        "sha256": "1b142934ce83dd2186863eee9846a9e9f0034c1f83917c8e73b3a3f2323dafbd",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0037:u001",
+            "start": 0,
+            "end": 123,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟权衡效用后实选仿图",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟权衡效用后实选仿图",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟权衡效用后实选仿图"
+      },
+      {
+        "reference": "v04-c0105:p0038",
+        "length": 25,
+        "sha256": "5cc1ebca289f56d077c0b7fb0c2ef48a9dd416d42d8890bf882f272a5be00096",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0038:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白转入最重要缘由",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "旁白转入最重要缘由",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白转入最重要缘由"
+      },
+      {
+        "reference": "v04-c0105:p0039",
+        "length": 6,
+        "sha256": "7f7a6a35e4899ccaa3a48bc5f01dcda0f6b16baff7574d89ea11322e80fded95",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0039:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟内在意最高价",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟内在意最高价",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内在意最高价"
+      },
+      {
+        "reference": "v04-c0105:p0040",
+        "length": 33,
+        "sha256": "e4039587a1c85402a5230e6d98d143312dc61c95f5b73d68d5093e6bff434312",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0040:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟收图，让江按价值挑",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟收图，让江按价值挑",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0040:u002",
+            "start": 19,
+            "end": 33,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟收图，让江按价值挑",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "实际言语",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟收图，让江按价值挑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟收图，让江按价值挑"
+      },
+      {
+        "reference": "v04-c0105:p0041",
+        "length": 50,
+        "sha256": "b823eef4d17ecc4292640ff835d14dc8a5f78f4ad080711030ab4e75c44d968c",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0041:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实取桃身、庚金、剑霞草，估五千五百",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江实取桃身、庚金、剑霞草，估五千五百",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实取桃身、庚金、剑霞草，估五千五百"
+      },
+      {
+        "reference": "v04-c0105:p0042",
+        "length": 31,
+        "sha256": "8c2d087482bde110e714f5221d0bf4c33b1c2d96a735f28ad8f28a99bb39634a",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0042:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "江芷微，白虹剑接近中品",
+            "text_context": "江说想用于升级宝剑，未炼",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江说想用于升级宝剑，未炼",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0042:u002",
+            "start": 18,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江说想用于升级宝剑，未炼",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江说想用于升级宝剑，未炼",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江说想用于升级宝剑，未炼"
+      },
+      {
+        "reference": "v04-c0105:p0043",
+        "length": 18,
+        "sha256": "a98c7df330f4441a61357720d0d31de59ee0472c794fcf7023c334e441a4cc19",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0043:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "三重天江的白虹剑接近中品，未升级",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "三重天江的白虹剑接近中品，未升级",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "三重天江的白虹剑接近中品，未升级"
+      },
+      {
+        "reference": "v04-c0105:p0044",
+        "length": 23,
+        "sha256": "17582cf4981403f985e8a8f9ce02aaa1b974107bc3622c85cf15f6211641bc9c",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0044:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实说自己的流火早是上品",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟实说自己的流火早是上品",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0044:u002",
+            "start": 5,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟实说自己的流火早是上品",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "实际言语",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟实说自己的流火早是上品",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实说自己的流火早是上品"
+      },
+      {
+        "reference": "v04-c0105:p0045",
+        "length": 84,
+        "sha256": "813c5b3132a20a50a0dd4c4716fac4583b742a3e8db72f67328cf5b0965649ca",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0045:u001",
+            "start": 0,
+            "end": 84,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "流火有变化，成长慢的缘由是孟猜",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "流火有变化，成长慢的缘由是孟猜",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "流火有变化，成长慢的缘由是孟猜"
+      },
+      {
+        "reference": "v04-c0105:p0046",
+        "length": 71,
+        "sha256": "ba6901bfde26e280a5b6eca545973631aeed2bc8fa48678c4876e46d722e10bf",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0046:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "阮实选四件材料备突破，尚未证外景",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "阮实选四件材料备突破，尚未证外景",
+            "focalizer": "ruan_yushu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "阮实选四件材料备突破，尚未证外景"
+      },
+      {
+        "reference": "v04-c0105:p0047",
+        "length": 50,
+        "sha256": "925cedcb2827cb8a23be40f9e391ac02856a696e033b09f86f036e49e22092d4",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0047:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐选遁地金光符，鉴值约五千",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "齐选遁地金光符，鉴值约五千",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐选遁地金光符，鉴值约五千"
+      },
+      {
+        "reference": "v04-c0105:p0048",
+        "length": 56,
+        "sha256": "d9850386780477d7879a3a03f55c035db7428b4d002d8c8d8cb7e37ab23d82ed",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0048:u001",
+            "start": 0,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "赵取余一用仿塔及清心丹，合约五千",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第一轮实物归属",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "赵取余一用仿塔及清心丹，合约五千",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "赵取余一用仿塔及清心丹，合约五千"
+      },
+      {
+        "reference": "v04-c0105:p0049",
+        "length": 24,
+        "sha256": "225f7ca6fbf0e23eac79a3faf8074d91a26a4a4374916acb876e035d7da58036",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0049:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江实际请孟第二轮再选",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江实际请孟第二轮再选",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0049:u002",
+            "start": 17,
+            "end": 24,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "江芷微，白虹剑接近中品",
+            "text_context": "江实际请孟第二轮再选",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江实际请孟第二轮再选",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江实际请孟第二轮再选"
+      },
+      {
+        "reference": "v04-c0105:p0050",
+        "length": 87,
+        "sha256": "b46b8ef36741b17d03904a8dbaa2ed1fe8c15f57ce713c2ee0da5661d27618ec",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0050:u001",
+            "start": 0,
+            "end": 87,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟嫌血煞剑不合心性，余物也非急需",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟嫌血煞剑不合心性，余物也非急需",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟嫌血煞剑不合心性，余物也非急需"
+      },
+      {
+        "reference": "v04-c0105:p0051",
+        "length": 40,
+        "sha256": "3446fbf0c5d18264aed047067573f8643047daf26b6a183b7a29f7cc4f0ed909",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0051:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟明言不再挑并要多分善功",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟明言不再挑并要多分善功",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0051:u002",
+            "start": 22,
+            "end": 40,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟明言不再挑并要多分善功",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "实际言语",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟明言不再挑并要多分善功",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟明言不再挑并要多分善功"
+      },
+      {
+        "reference": "v04-c0105:p0052",
+        "length": 8,
+        "sha256": "d2272538f235b9227865196139d9d962abb5c57142870d1f8626b21fbdf7769a",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0052:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟内怕善功不足",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟内怕善功不足",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内怕善功不足"
+      },
+      {
+        "reference": "v04-c0105:p0053",
+        "length": 38,
+        "sha256": "c1acbfbb9f2477e823bff3619b5eb072c11999968296a2deae33f1e94a8cce5d",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0053:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "寄售附属队的环仍在，买方资金仅孟推",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "寄售附属队的环仍在，买方资金仅孟推",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "寄售附属队的环仍在，买方资金仅孟推"
+      },
+      {
+        "reference": "v04-c0105:p0054",
+        "length": 92,
+        "sha256": "077071ed664d4599e23f3ee7c6463aeafbdba293e29b5a863fbeb40e5dc5fc10",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0054:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "齐提全鉴定后用账面善功挑，再结实额",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "齐提全鉴定后用账面善功挑，再结实额",
+            "focalizer": "qi_zhengyan",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0054:u002",
+            "start": 35,
+            "end": 92,
+            "kind": "spoken_dialogue",
+            "speaker": "qi_zhengyan",
+            "surface_identity": "qi_zhengyan",
+            "text_context": "齐提全鉴定后用账面善功挑，再结实额",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "实际言语",
+            "embodiment": "话少但主动补账面分配法",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "齐提全鉴定后用账面善功挑，再结实额",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "齐提全鉴定后用账面善功挑，再结实额"
+      },
+      {
+        "reference": "v04-c0105:p0055",
+        "length": 36,
+        "sha256": "b48dc729b8806632140f43082b0e2cc462ae31981ba5cfc0881217b2aa41f966",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0055:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c105_jiang_and_meng",
+            "surface_identity": "v04c105_jiang_and_meng",
+            "text_context": "江与孟都赞同，不定逐句谁先说",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江与孟都赞同，不定逐句谁先说",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0055:u002",
+            "start": 11,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江与孟都赞同，不定逐句谁先说",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江与孟都赞同，不定逐句谁先说",
+            "focalizer": "v04c105_jiang_and_meng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江与孟都赞同，不定逐句谁先说"
+      },
+      {
+        "reference": "v04-c0105:p0056",
+        "length": 19,
+        "sha256": "8610e9a198d0261090b996af5ec5157b774010e74f73746a2eb0e17ea09d17c7",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0056:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "五人把剩余投入光柱鉴定",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "五人把剩余投入光柱鉴定",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "五人把剩余投入光柱鉴定"
+      },
+      {
+        "reference": "v04-c0105:p0057",
+        "length": 56,
+        "sha256": "b167e84afb8b39f82f1bf80b62b87b26b0c2d697f0e32244d0244d17d841b491",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0057:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "六道鉴定引文，五光石值5100、兑4000，未明是否有声",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "鉴定引文，未明是否发声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "六道鉴定引文，五光石值5100、兑4000，未明是否有声",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0057:u002",
+            "start": 38,
+            "end": 56,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "六道鉴定引文，五光石值5100、兑4000，未明是否有声",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "鉴定引文，未明是否发声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "六道鉴定引文，五光石值5100、兑4000，未明是否有声",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道鉴定引文，五光石值5100、兑4000，未明是否有声"
+      },
+      {
+        "reference": "v04-c0105:p0058",
+        "length": 37,
+        "sha256": "6c0e3d298b3ee56cfa7eb5c00c67f377901115f71d2eec8bad6c7aee0812d9b7",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0058:u001",
+            "start": 0,
+            "end": 17,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "六道鉴定引文，琵琶值4300、兑3200",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "鉴定引文，未明是否发声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "六道鉴定引文，琵琶值4300、兑3200",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0058:u002",
+            "start": 17,
+            "end": 37,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "六道鉴定引文，琵琶值4300、兑3200",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "鉴定引文，未明是否发声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "六道鉴定引文，琵琶值4300、兑3200",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道鉴定引文，琵琶值4300、兑3200"
+      },
+      {
+        "reference": "v04-c0105:p0059",
+        "length": 36,
+        "sha256": "155e6295615c4f77c74ae843283cf3f4d2358f38b400822e493ca3567aa02be4",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0059:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "六道鉴定引文，戳目珠值4200、兑3100",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "鉴定引文，未明是否发声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "六道鉴定引文，戳目珠值4200、兑3100",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0059:u002",
+            "start": 16,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "六道鉴定引文，戳目珠值4200、兑3100",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "鉴定引文，未明是否发声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "六道鉴定引文，戳目珠值4200、兑3100",
+            "focalizer": "six_paths_master",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "六道鉴定引文，戳目珠值4200、兑3100"
+      },
+      {
+        "reference": "v04-c0105:p0060",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0060:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "省略号略去其余鉴定条目",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "省略号略去其余鉴定条目",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "省略号略去其余鉴定条目"
+      },
+      {
+        "reference": "v04-c0105:p0061",
+        "length": 107,
+        "sha256": "d1a1f1ecd8bbdfa67aa61a3e45a3c99bb2d086cfee82df0f31a33884536347ec",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0061:u001",
+            "start": 0,
+            "end": 107,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "剩余折合总计四万九千善功",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "剩余折合总计四万九千善功",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "剩余折合总计四万九千善功"
+      },
+      {
+        "reference": "v04-c0105:p0062",
+        "length": 135,
+        "sha256": "7a134a6c5b3d0a4fc874b1e5d8c1853d6b55195fa0f6aecb6b7a4dfc91e0215f",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0062:u001",
+            "start": 0,
+            "end": 135,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "预留一百配旧三百用查任务，五人分别领取金额",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "第二轮成交与实际余额",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "预留一百配旧三百用查任务，五人分别领取金额",
+            "focalizer": "zhao_heng",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "预留一百配旧三百用查任务，五人分别领取金额"
+      },
+      {
+        "reference": "v04-c0105:p0063",
+        "length": 25,
+        "sha256": "87ea0cd15eef9bfc3a83837e11e146f06166c2ddc9a2a58831c92fe6abc6e5e4",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0063:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "江芷微，白虹剑接近中品",
+            "text_context": "江问孟是否已有兑换打算",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江问孟是否已有兑换打算",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0063:u002",
+            "start": 10,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江问孟是否已有兑换打算",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江问孟是否已有兑换打算",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江问孟是否已有兑换打算"
+      },
+      {
+        "reference": "v04-c0105:p0064",
+        "length": 30,
+        "sha256": "21a3d8f4a7d3f52e27550c64873b02315de47e9577551cd7139c02817dca2571",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0064:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "inner_speech",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "江芷微，白虹剑接近中品",
+            "text_context": "江内推他着急兑换",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江内推他着急兑换",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江内推他着急兑换"
+      },
+      {
+        "reference": "v04-c0105:p0065",
+        "length": 16,
+        "sha256": "607462f6169ee6bbf0f3438d83bffa964bc05aa18d19b0b0df0a4b2cb4481664",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0065:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟说想要一套剑法",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟说想要一套剑法",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0065:u002",
+            "start": 7,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟说想要一套剑法",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "实际言语",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟说想要一套剑法",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟说想要一套剑法"
+      },
+      {
+        "reference": "v04-c0105:p0066",
+        "length": 28,
+        "sha256": "36cacb16f4d0d3f84ce26409b2ce0dc9110fa6818bbfeee48bc7738a1016afe2",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0066:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "spoken_dialogue",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "江芷微，白虹剑接近中品",
+            "text_context": "江出声复问，后半句在她心里",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江出声复问，后半句在她心里",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0066:u002",
+            "start": 7,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江出声复问，后半句在她心里",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江出声复问，后半句在她心里",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0066:u003",
+            "start": 15,
+            "end": 28,
+            "kind": "inner_speech",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "江芷微，白虹剑接近中品",
+            "text_context": "江出声复问，后半句在她心里",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江出声复问，后半句在她心里",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江出声复问，后半句在她心里"
+      },
+      {
+        "reference": "v04-c0105:p0067",
+        "length": 23,
+        "sha256": "ddd96c97a382402b417a1d77125af5f35a39749ae524864e038b8980f190a248",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0067:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "jiang_zhiwei",
+            "surface_identity": "江芷微，白虹剑接近中品",
+            "text_context": "江内想到孟会挑选好功法",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江内想到孟会挑选好功法",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江内想到孟会挑选好功法"
+      },
+      {
+        "reference": "v04-c0105:p0068",
+        "length": 49,
+        "sha256": "d5e7b6ebb4b4096a00fc1fdf8bced72722c30554b91bb3b7ee50853169b6233a",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0068:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟实际说三式及名",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "实际言语",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟实际说三式及名",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0068:u002",
+            "start": 18,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际说三式及名",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟实际说三式及名",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0105:p0068:u003",
+            "start": 32,
+            "end": 49,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟实际说三式及名",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "实际言语",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟实际说三式及名",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际说三式及名"
+      },
+      {
+        "reference": "v04-c0105:p0069",
+        "length": 26,
+        "sha256": "e706077045a0e8db2dda44544a2a9ffdcc8dc7512ff2d58667df0788751c243c",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0069:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "孟奇，赵恒叫小孟",
+            "text_context": "孟内认期待已久的三剑",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "内心",
+            "embodiment": "干笑搪塞、合掌认可、述剑时憧憬",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "孟内认期待已久的三剑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内认期待已久的三剑"
+      },
+      {
+        "reference": "v04-c0105:p0070",
+        "length": 68,
+        "sha256": "3da5d223e7e3fedbd1a3d98a4e44c916ffb7db0c1fc1fe0dfca5de85410f2e8e",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0070:u001",
+            "start": 0,
+            "end": 68,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "叙者归于刀剑合击循序线，眼下尚无成交",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "叙者归于刀剑合击循序线，眼下尚无成交",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "叙者归于刀剑合击循序线，眼下尚无成交"
+      },
+      {
+        "reference": "v04-c0105:p0071",
+        "length": 52,
+        "sha256": "e1d548291d21a7544985186003aa2a912aa6484176cffb0c8d9f14e3983682db",
+        "units": [
+          {
+            "unit_id": "v04-c0105:p0071:u001",
+            "start": 0,
+            "end": 52,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "江查到三剑共价八千八百，未在本章兑换",
+            "world_context": "第四卷轮回广场：传道判负、按价值分战利品、孟看三剑",
+            "stage_context": "孟说兑换意向",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "五人第二轮善功按原文各额；保留一百配旧三百用于下次情报。本章只查到三剑标价，尚未购买。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "六道有实际播报，鉴定是带引号的内容但未明声源。流火成长慢的原因是孟猜。战利品直接分与鉴定后再挑为两个时点。",
+            "knowledge_boundary": "江查到三剑共价八千八百，未在本章兑换",
+            "focalizer": "jiang_zhiwei",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "江查到三剑共价八千八百，未在本章兑换"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0105",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S14",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 12,
+        "label": "失败定音，赵恒追问三观",
+        "direction": "五道身影一现即落六道淡漠宣告。孟的不服停在心里。赵恒一句低幽发问切回同伴闲谈；孟先干笑，见众好奇才用他们能懂的词复述，定义不增写。 证据 v04-c0105:p0001–p0012。"
+      },
+      {
+        "paragraph_start": 13,
+        "paragraph_end": 30,
+        "label": "阮提先挑，众同意盘点",
+        "direction": "齐平声说全换会亏，孟顾及仙迹契约、同行突破与善功紧缺。阮只给一句明白办法，受众赞后低头微得意。轮到具体物品以各家来源成组呈现。 证据 v04-c0105:p0013–p0030。"
+      },
+      {
+        "paragraph_start": 31,
+        "paragraph_end": 48,
+        "label": "第一轮按价挑选",
+        "direction": "阮先放余一用的塔，再请孟先挑。孟取尚一用的仿图，重视实用与价值。随后顺着江的炼器材料、阮的修炼材料、齐的金光符、赵的塔与丹，交代选择和目的。 证据 v04-c0105:p0031–p0048。"
+      },
+      {
+        "paragraph_start": 49,
+        "paragraph_end": 62,
+        "label": "账面分配先行，再结真正余额",
+        "direction": "江邀孟再选，孟看血煞剑后收手。齐给账面折算办法，光柱鉴定引文不预设声音。依次落齐的石、阮的琵琶、赵的珠，孟与江各拿九千七百八十，另预留查任务的合计四百。 证据 v04-c0105:p0049–p0062。"
+      },
+      {
+        "paragraph_start": 63,
+        "paragraph_end": 71,
+        "label": "孟奇说出三式，江芷微查到价格",
+        "direction": "江含笑追问，听到是剑法才眼亮。孟望光柱，依次念一剑藏空、百剑无终、万剑归元。江查价与孟的期待形成收束，画面停在查到售价。 证据 v04-c0105:p0063–p0071。"
+      }
+    ],
+    "knowledge_rule": "失败判定是六道播报，三观解释只有旁白转述。第一轮按价值挑物，第二轮按实可兑善功扣款。区分鉴定估值和六道实际收价。孟奇留善功，只说欲换三剑，本章尚未兑换。"
+  }
 }
