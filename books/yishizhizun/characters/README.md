@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [百花与婴宁先相视，后在静室报姓名](early-v04-Ying-Ning-named-and-Baihua-asks-a-favor.md) | 第四卷第112章历史归属回补 |
+| [云老被报寿尽，孟奇记得延寿丹](early-v04-Yun-family-death-report-and-the-longevity-pills.md) | 第四卷第112章历史归属回补 |
+| [百花说追魂请令狐留意携魔功的出逃者](early-v04-Baihua-relates-Mo-Tianges-search-and-Yun-Seventh.md) | 第四卷第112章历史归属回补 |
 | [追魂起挑衅，孟在殿中直接交手](early-v04-Mo-Tiange-accepts-the-Cian-temple-clash.md) | 第四卷第111章历史归属回补 |
 | [金佛禅音属于精神交锋，孟收掌止于额前](early-v04-Seven-Illusions-with-Buddhist-intent-stop-before-impact.md) | 第四卷第111章历史归属回补 |
 | [百花疑投佛门，孟以角色说辞应对](early-v04-Poison-Hand-explains-Buddhist-and-demonic-practice.md) | 第四卷第111章历史归属回补 |
