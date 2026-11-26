@@ -8,6 +8,7 @@
 
 ## 阅读入口
 
+- [第四卷归属回补：第118章](books/yishizhizun/reviews/review-backfill-v04-0118.md)：新全文复读57段109单元；归属已1408章、待2，可用复读回执待0。
 - [第四卷归属回补：第117章](books/yishizhizun/reviews/review-backfill-v04-0117.md)：新全文复读70段88单元；归属已1407章、待3，可用复读回执待0。
 - [第四卷归属回补：第116章](books/yishizhizun/reviews/review-backfill-v04-0116.md)：新全文复读86段128单元；归属已1406章、待4，可用复读回执待0。
 - [第四卷归属回补：第115章](books/yishizhizun/reviews/review-backfill-v04-0115.md)：新全文复读74段108单元；归属已1405章、待5，可用复读回执待0。

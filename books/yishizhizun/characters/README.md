@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [何九述七支与被逐的无相剑蛊一脉](early-v04-He-Jiu-relates-seven-sword-estate-branches.md) | 第四卷第118章历史归属回补 |
+| [原有水蓝石收回，祝园塘中又得一枚](early-v04-Second-water-blue-stone-taken-at-Zhu-pond.md) | 第四卷第118章历史归属回补 |
+| [百花邀入门，孟疑素女道但仍待确认](early-v04-Baihua-invites-Poison-Hand-without-naming-the-school.md) | 第四卷第118章历史归属回补 |
 | [阴魂避控，再用蓝血形抵御腐蚀](early-v04-Meng-changes-form-against-blue-blood-control.md) | 第四卷第117章历史归属回补 |
 | [变天击地窥得海沟塔，受阻后只余一石](early-v04-Blue-tower-memory-collapses-leaving-a-stone.md) | 第四卷第117章历史归属回补 |
 | [法证携石返云府，剑庄以石谈蓝血](early-v04-Water-heart-stone-shown-to-the-Sword-Estate.md) | 第四卷第117章历史归属回补 |
