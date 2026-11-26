@@ -61,7 +61,3128 @@
       ]
     }
   ],
-  "line_level_attribution": "not_done",
+  "line_level_attribution": "reviewed_with_open_questions",
   "full_book_review": "pending",
-  "reading_batch": "batch-0284"
+  "reading_batch": "batch-0284",
+  "semantic_review": {
+    "status": "reviewed_current_read_boundary",
+    "review_id": "review-backfill-v04-0116",
+    "full_book_consistency": "pending",
+    "supplemental_reread_record": "reviews/reread-v04-0116.json"
+  },
+  "attribution": {
+    "schema_version": 1,
+    "offset_convention": "zero_based_unicode_codepoints_half_open_per_paragraph",
+    "text_included": false,
+    "reviewer": "current_codex",
+    "method": "manual_speaker_and_thought_assignment_with_mechanical_span_segmentation",
+    "scope": "source_span_attribution_not_audio_ready",
+    "paragraphs": [
+      {
+        "reference": "v04-c0116:p0001",
+        "length": 38,
+        "sha256": "12809be1d51bbf6a0dc6366ef4ae0c0745055dc5026090238cadad83e2ce8b08",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0001:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内疑何九察觉自己",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内疑何九察觉自己",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0001:u002",
+            "start": 30,
+            "end": 38,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内疑何九察觉自己",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内疑何九察觉自己",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内疑何九察觉自己"
+      },
+      {
+        "reference": "v04-c0116:p0002",
+        "length": 71,
+        "sha256": "f191705299178059f01c5267f9ab14f9b4cc8e653279e752078f2aada0fb51c1",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0002:u001",
+            "start": 0,
+            "end": 71,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟用剑修直觉解释顾虑，底本影响照录",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟用剑修直觉解释顾虑，底本影响照录",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟用剑修直觉解释顾虑，底本影响照录"
+      },
+      {
+        "reference": "v04-c0116:p0003",
+        "length": 21,
+        "sha256": "8188f48a74f95d0216883b68d48059298b201e9ec798d1f56bedbebb8f6857fd",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0003:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟在心中急问怎么办",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟在心中急问怎么办",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0003:u002",
+            "start": 5,
+            "end": 21,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟在心中急问怎么办",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟在心中急问怎么办",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟在心中急问怎么办"
+      },
+      {
+        "reference": "v04-c0116:p0004",
+        "length": 98,
+        "sha256": "0a81f14d6ca3e66d79926892defb86f2788cd1c1ac34c199c8611b2ecf3d91c4",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0004:u001",
+            "start": 0,
+            "end": 98,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟回顾误判剑庄会公开检验",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟回顾误判剑庄会公开检验",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟回顾误判剑庄会公开检验"
+      },
+      {
+        "reference": "v04-c0116:p0005",
+        "length": 22,
+        "sha256": "9aa6048a7da7f69055ec438d25435cf3fd44da393cbcf1dd24b619a2759678d5",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0005:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "他因这点原判断才应百花",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "他因这点原判断才应百花",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "他因这点原判断才应百花"
+      },
+      {
+        "reference": "v04-c0116:p0006",
+        "length": 41,
+        "sha256": "d7a6a465da7275a096ebb239b59ac948554aa0e0d7b6af9a882b71795942e98b",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0006:u001",
+            "start": 0,
+            "end": 41,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟猜何九或顾云家或避惊，更无定解",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟猜何九或顾云家或避惊，更无定解",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟猜何九或顾云家或避惊，更无定解"
+      },
+      {
+        "reference": "v04-c0116:p0007",
+        "length": 33,
+        "sha256": "12c0c3f78d5c36cb6a7279123f1397fb39012737fe4834d28bef1a3a340f2816",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0007:u001",
+            "start": 0,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟考虑自救",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟考虑自救",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟考虑自救"
+      },
+      {
+        "reference": "v04-c0116:p0008",
+        "length": 23,
+        "sha256": "6bbd9dc1e98dbef452031c5b0926caffcedb29570260ef40e361c1d8cffeda7a",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0008:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内判断当场再变形已迟",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内判断当场再变形已迟",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内判断当场再变形已迟"
+      },
+      {
+        "reference": "v04-c0116:p0009",
+        "length": 65,
+        "sha256": "37b81fc40db22b31f8aa2268293a50b6d9f4c1f3d03378152f71808b24cd7942",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0009:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟只考虑轮回符或何休暗号，均未用",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟只考虑轮回符或何休暗号，均未用",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0009:u002",
+            "start": 39,
+            "end": 65,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟只考虑轮回符或何休暗号，均未用",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟只考虑轮回符或何休暗号，均未用",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟只考虑轮回符或何休暗号，均未用"
+      },
+      {
+        "reference": "v04-c0116:p0010",
+        "length": 42,
+        "sha256": "6e7bf663a2d11f2e73ed15987ac7fa1093851a8018942503471afebe7782aa95",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0010:u001",
+            "start": 0,
+            "end": 42,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟权衡两种备选无把握",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟权衡两种备选无把握",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟权衡两种备选无把握"
+      },
+      {
+        "reference": "v04-c0116:p0011",
+        "length": 43,
+        "sha256": "69378e6d4bcd0786a56fcfea3b57708afd2627a020320367ead94550ddda6eae",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0011:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实垂目暗现因果星线",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实垂目暗现因果星线",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实垂目暗现因果星线"
+      },
+      {
+        "reference": "v04-c0116:p0012",
+        "length": 58,
+        "sha256": "346b2ce7b6d7a6865e7eb83553bc0fcfb8e6c0ea88e0f8e88a96db40ad289c0f",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0012:u001",
+            "start": 0,
+            "end": 58,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟收敛气息，灵觉只余相关四人",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟收敛气息，灵觉只余相关四人",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟收敛气息，灵觉只余相关四人"
+      },
+      {
+        "reference": "v04-c0116:p0013",
+        "length": 34,
+        "sha256": "a2503e41e86ce95107d5cfa6c8edd21b047d89c0da719cf9cf54f6594980d744",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0013:u001",
+            "start": 0,
+            "end": 34,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黄以剑意探，孟反铺灵觉",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "黄以剑意探，孟反铺灵觉",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黄以剑意探，孟反铺灵觉"
+      },
+      {
+        "reference": "v04-c0116:p0014",
+        "length": 2,
+        "sha256": "f89d2382521a449f325bb555bd1dea48cc7ee22314598c0c4aa1187cf0260990",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0014:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "单字轰为虚响段，非对白",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "单字轰为虚响段，非对白",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "单字轰为虚响段，非对白"
+      },
+      {
+        "reference": "v04-c0116:p0015",
+        "length": 78,
+        "sha256": "69b51c185d21a47ead9283c2d307dec56572542c1ffa6893382c0d649c1b21b0",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0015:u001",
+            "start": 0,
+            "end": 78,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟在内感只见黄及因果线",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟在内感只见黄及因果线",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟在内感只见黄及因果线"
+      },
+      {
+        "reference": "v04-c0116:p0016",
+        "length": 25,
+        "sha256": "3ada12eb2d2d541915e9a2ac0108fdc145c4f68d4ea7d8aca40dd354f2d59abe",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0016:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "心刀可挥是似然，实未出刀",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "心刀可挥是似然，实未出刀",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "心刀可挥是似然，实未出刀"
+      },
+      {
+        "reference": "v04-c0116:p0017",
+        "length": 2,
+        "sha256": "f89d2382521a449f325bb555bd1dea48cc7ee22314598c0c4aa1187cf0260990",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0017:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "单字轰为心象拟音",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "单字轰为心象拟音",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "单字轰为心象拟音"
+      },
+      {
+        "reference": "v04-c0116:p0018",
+        "length": 74,
+        "sha256": "3e17d298bc497403e22856221ebff5311cc0cee7f0efd213b82d12e882f6de2e",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0018:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黄升起危险预感，不知何故",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "黄升起危险预感，不知何故",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黄升起危险预感，不知何故"
+      },
+      {
+        "reference": "v04-c0116:p0019",
+        "length": 60,
+        "sha256": "8869afec92fbdec6ad9abaaccc2b7f5d5721290c740879fb5bd99676081dc938",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0019:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "huang_taichong",
+            "surface_identity": "万剑院黄太冲，八重天",
+            "text_context": "黄内觉不容小觑，实际收回目光",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "内心",
+            "embodiment": "收目观鼻，危险感抑制查探",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "黄内觉不容小觑，实际收回目光",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0019:u002",
+            "start": 21,
+            "end": 60,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黄内觉不容小觑，实际收回目光",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "黄内觉不容小觑，实际收回目光",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黄内觉不容小觑，实际收回目光"
+      },
+      {
+        "reference": "v04-c0116:p0020",
+        "length": 29,
+        "sha256": "c28a1ad343bc8d5017e87958a1ba163488101776c8d6b55906eeb7603771e47e",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0020:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟用沾因果气机慑止黄，未实际斩线",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟用沾因果气机慑止黄，未实际斩线",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟用沾因果气机慑止黄，未实际斩线"
+      },
+      {
+        "reference": "v04-c0116:p0021",
+        "length": 51,
+        "sha256": "c7ba143dc9c6656bf7857b8e7c4b0753119e0e5a2321b3c483ff9bdaf71257d9",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0021:u001",
+            "start": 0,
+            "end": 51,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟按黄的线估能抗但必感险",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟按黄的线估能抗但必感险",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟按黄的线估能抗但必感险"
+      },
+      {
+        "reference": "v04-c0116:p0022",
+        "length": 62,
+        "sha256": "3a8eccb9e612ff0fe9cd1e69f6de2f59ca6e9bef2c0d2c33cd7eca084709f634",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0022:u001",
+            "start": 0,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟预计顾灵堂礼数也会抑住试探",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟预计顾灵堂礼数也会抑住试探",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟预计顾灵堂礼数也会抑住试探"
+      },
+      {
+        "reference": "v04-c0116:p0023",
+        "length": 28,
+        "sha256": "f7b9d22919d453b6aa956c6bf57dc7666767d3658f60d961569799637ae5794f",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0023:u001",
+            "start": 0,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述此身份涉险过关",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "孟暗运沾因果，黄撤目",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "旁述此身份涉险过关",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述此身份涉险过关"
+      },
+      {
+        "reference": "v04-c0116:p0024",
+        "length": 25,
+        "sha256": "0cf6a72c245adf7752e9b2ca7cdf65a1096d6841d299079639f3fe83ace38132",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0024:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九传音问黄",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "东海剑庄成员暗中问答",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九传音问黄",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0024:u002",
+            "start": 18,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九传音问黄",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九传音问黄",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九传音问黄"
+      },
+      {
+        "reference": "v04-c0116:p0025",
+        "length": 23,
+        "sha256": "97a739abd5c0d11099910cf9160300373afd39941ca2ba6948b930ca7ef80e39",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0025:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黄答深不可测，未查实来历",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "黄答深不可测，未查实来历",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0025:u002",
+            "start": 9,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "huang_taichong",
+            "surface_identity": "万剑院黄太冲，八重天",
+            "text_context": "黄答深不可测，未查实来历",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "东海剑庄成员暗中问答",
+            "embodiment": "收目观鼻，危险感抑制查探",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "黄答深不可测，未查实来历",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黄答深不可测，未查实来历"
+      },
+      {
+        "reference": "v04-c0116:p0026",
+        "length": 38,
+        "sha256": "9022215cb6a27156499bb6ad9a49901f95c6dc80d2eb4e1ce5630d96e1e3c4a8",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0026:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "inner_speech",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九对自己低语，出声程度未明",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "何九低语，听者未明",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九对自己低语，出声程度未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0026:u002",
+            "start": 8,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九对自己低语，出声程度未明",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九对自己低语，出声程度未明",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九对自己低语，出声程度未明"
+      },
+      {
+        "reference": "v04-c0116:p0027",
+        "length": 47,
+        "sha256": "b11a7aa72c156fa2fb13bb26cafabc8a9d0b0ada86776e8c5676d2891e1ea40f",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0027:u001",
+            "start": 0,
+            "end": 47,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九估能令八重天黄却步或具地榜实力",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九估能令八重天黄却步或具地榜实力",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九估能令八重天黄却步或具地榜实力"
+      },
+      {
+        "reference": "v04-c0116:p0028",
+        "length": 39,
+        "sha256": "1cdb2d64fbba3daaa0551635e6bd2a8c3b9325ad9346774b8fb986abd8aaab96",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0028:u001",
+            "start": 0,
+            "end": 39,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述海外隐士也可能有宗师之能",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "旁述海外隐士也可能有宗师之能",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述海外隐士也可能有宗师之能"
+      },
+      {
+        "reference": "v04-c0116:p0029",
+        "length": 27,
+        "sha256": "af35fab746e7e3e1711e1b2900c1ead2a2ddc52a8e42b06be5cb6885a9af4af3",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0029:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "乌实际说没有熟悉之感",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "乌实际说没有熟悉之感",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0029:u002",
+            "start": 18,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "wu_heng_jian",
+            "surface_identity": "wu_heng_jian",
+            "text_context": "乌实际说没有熟悉之感",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "乌实际说没有熟悉之感",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "乌实际说没有熟悉之感"
+      },
+      {
+        "reference": "v04-c0116:p0030",
+        "length": 27,
+        "sha256": "81fd931fc12e3bacf5d97d31755e01ca1a1503fdd3472b98e0c1fb06aa926cf8",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0030:u001",
+            "start": 0,
+            "end": 27,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白解释乌见气息微变的孟",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "旁白解释乌见气息微变的孟",
+            "focalizer": "wu_heng_jian",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白解释乌见气息微变的孟"
+      },
+      {
+        "reference": "v04-c0116:p0031",
+        "length": 39,
+        "sha256": "8a2ac97e7755e6b4aa68b0daf344dcbad5dd4e3ec76bf3f04cdd3e092fcca241",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0031:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九内猜东海曾见或功法熟",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九内猜东海曾见或功法熟",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0031:u002",
+            "start": 10,
+            "end": 23,
+            "kind": "inner_speech",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九内猜东海曾见或功法熟",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "内心",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九内猜东海曾见或功法熟",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0031:u003",
+            "start": 23,
+            "end": 39,
+            "kind": "inner_speech",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九内猜东海曾见或功法熟",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "内心",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九内猜东海曾见或功法熟",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九内猜东海曾见或功法熟"
+      },
+      {
+        "reference": "v04-c0116:p0032",
+        "length": 28,
+        "sha256": "b6ea6f5d9adcea02041a6bf4a145690c85d1f04c87336b0b708a88027c9c5e87",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0032:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九实际暗里问两位长者",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "东海剑庄成员暗中问答",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际暗里问两位长者",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0032:u002",
+            "start": 22,
+            "end": 28,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九实际暗里问两位长者",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际暗里问两位长者",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九实际暗里问两位长者"
+      },
+      {
+        "reference": "v04-c0116:p0033",
+        "length": 47,
+        "sha256": "8b151be403b017cf077eb92a4ced0de88486ad0539cf5a5b467c2261ec34314a",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0033:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何休黄均摇头，答未曾并猜隐脉；各句谁开口未明",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何休黄均摇头，答未曾并猜隐脉；各句谁开口未明",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0033:u002",
+            "start": 19,
+            "end": 47,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c116_he_xiu_and_huang",
+            "surface_identity": "v04c116_he_xiu_and_huang",
+            "text_context": "何休黄均摇头，答未曾并猜隐脉；各句谁开口未明",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "东海剑庄成员暗中问答",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何休黄均摇头，答未曾并猜隐脉；各句谁开口未明",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何休黄均摇头，答未曾并猜隐脉；各句谁开口未明"
+      },
+      {
+        "reference": "v04-c0116:p0034",
+        "length": 31,
+        "sha256": "9dfe239b37b2df03cd400fd7a6147c278a5160fb8f0e1547add54542456da5a6",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0034:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九暂止并上前吊唁",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九暂止并上前吊唁",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九暂止并上前吊唁"
+      },
+      {
+        "reference": "v04-c0116:p0035",
+        "length": 19,
+        "sha256": "729ad8f9fd8f3bcda6936c7e932dcd7a55676a686fb5db47efe80f9443440b8d",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0035:u001",
+            "start": 0,
+            "end": 19,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟等已经退出灵堂",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟等已经退出灵堂",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟等已经退出灵堂"
+      },
+      {
+        "reference": "v04-c0116:p0036",
+        "length": 40,
+        "sha256": "b663c52a655e794e20470e8d43baecd51df9930e1caf1a3bd7de017e862d8779",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0036:u001",
+            "start": 0,
+            "end": 40,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实停沾因果，感酥软头晕",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实停沾因果，感酥软头晕",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实停沾因果，感酥软头晕"
+      },
+      {
+        "reference": "v04-c0116:p0037",
+        "length": 30,
+        "sha256": "95a2dbb69d692760f06abd40a8c5618006e2c7e584eb46348a6dfc39e2f714b7",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0037:u001",
+            "start": 0,
+            "end": 30,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁述暗行心法已难久持",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "剑庄数人私议后孟停心法",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "旁述暗行心法已难久持",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁述暗行心法已难久持"
+      },
+      {
+        "reference": "v04-c0116:p0038",
+        "length": 23,
+        "sha256": "71e281343343a53ce0df81c572dfd97f0652111736920b69bd1f3a4af8d44c68",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0038:u001",
+            "start": 0,
+            "end": 9,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九从背后公开叫法证留步",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "实际言语",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九从背后公开叫法证留步",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0038:u002",
+            "start": 9,
+            "end": 23,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九从背后公开叫法证留步",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九从背后公开叫法证留步",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九从背后公开叫法证留步"
+      },
+      {
+        "reference": "v04-c0116:p0039",
+        "length": 31,
+        "sha256": "b0f41ffd41ba2dd51a8bc6d5a1096702d948f4b12a1f1d3bafc56fc6ee2ef0dc",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0039:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟惊疑是否破绽被看出",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟惊疑是否破绽被看出",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0039:u002",
+            "start": 22,
+            "end": 31,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟惊疑是否破绽被看出",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟惊疑是否破绽被看出",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟惊疑是否破绽被看出"
+      },
+      {
+        "reference": "v04-c0116:p0040",
+        "length": 44,
+        "sha256": "4c71e9e86bae55f9443dcb1699c21e2d37934fa88be8911b09a3214cec3c0607",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0040:u001",
+            "start": 0,
+            "end": 29,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟转身合十，实宣阿弥陀佛并问事",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟转身合十，实宣阿弥陀佛并问事",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0040:u002",
+            "start": 29,
+            "end": 44,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟转身合十，实宣阿弥陀佛并问事",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "实际言语",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟转身合十，实宣阿弥陀佛并问事",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟转身合十，实宣阿弥陀佛并问事"
+      },
+      {
+        "reference": "v04-c0116:p0041",
+        "length": 77,
+        "sha256": "807c803322d2154b637fc21c1f2094afc4932fb901572e0df2c7c227fe53af73",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0041:u001",
+            "start": 0,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九实际问事或所见",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "实际言语",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际问事或所见",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0041:u002",
+            "start": 50,
+            "end": 77,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九实际问事或所见",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际问事或所见",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九实际问事或所见"
+      },
+      {
+        "reference": "v04-c0116:p0042",
+        "length": 43,
+        "sha256": "98a929ba4f0375132e467ef579690dc115facc7714e87a2ab11dcfe15da2f647",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0042:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "云家众人在心里疑何九要借僧寻遗命",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "云家众人在心里疑何九要借僧寻遗命",
+            "focalizer": "v04c116_yun_family_members",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0042:u002",
+            "start": 10,
+            "end": 43,
+            "kind": "inner_speech",
+            "speaker": "v04c116_yun_family_members",
+            "surface_identity": "v04c116_yun_family_members",
+            "text_context": "云家众人在心里疑何九要借僧寻遗命",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "云家众人在心里疑何九要借僧寻遗命",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "云家众人在心里疑何九要借僧寻遗命"
+      },
+      {
+        "reference": "v04-c0116:p0043",
+        "length": 67,
+        "sha256": "1f257b84a71b8afaae5f7c6d60fb4e2e260c67d8107feb506168b16113757794",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0043:u001",
+            "start": 0,
+            "end": 67,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "旁白说明剑庄干预云家会有反弹",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "旁白说明剑庄干预云家会有反弹",
+            "focalizer": "v04c116_yun_family_members",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "旁白说明剑庄干预云家会有反弹"
+      },
+      {
+        "reference": "v04-c0116:p0044",
+        "length": 50,
+        "sha256": "5ed787bc9aab2e0b10dccbec779c4b017e31697e805701f5f5172dad007da0d9",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0044:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟不知道真实目的，实际反问具体",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟不知道真实目的，实际反问具体",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0044:u002",
+            "start": 38,
+            "end": 50,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟不知道真实目的，实际反问具体",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "实际言语",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟不知道真实目的，实际反问具体",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟不知道真实目的，实际反问具体"
+      },
+      {
+        "reference": "v04-c0116:p0045",
+        "length": 86,
+        "sha256": "2a32c1818871fb03d9f84d6b170d006c8d06f764964dd46c1cf093bff508af28",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0045:u001",
+            "start": 0,
+            "end": 45,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九实际请推衍坐化，问法保留多种可能",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "实际言语",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际请推衍坐化，问法保留多种可能",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0045:u002",
+            "start": 45,
+            "end": 81,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九实际请推衍坐化，问法保留多种可能",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际请推衍坐化，问法保留多种可能",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0045:u003",
+            "start": 81,
+            "end": 85,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九实际请推衍坐化，问法保留多种可能",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "实际言语",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际请推衍坐化，问法保留多种可能",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0045:u004",
+            "start": 85,
+            "end": 86,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九实际请推衍坐化，问法保留多种可能",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际请推衍坐化，问法保留多种可能",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九实际请推衍坐化，问法保留多种可能"
+      },
+      {
+        "reference": "v04-c0116:p0046",
+        "length": 22,
+        "sha256": "13bb1c68d5e23d39b6218e5d6dc4cc760b272c8a42011d38c9301097bd40b292",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0046:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "huang_taichong",
+            "surface_identity": "万剑院黄太冲，八重天",
+            "text_context": "黄疑而实传音",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "东海剑庄成员暗中问答",
+            "embodiment": "收目观鼻，危险感抑制查探",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "黄疑而实传音",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0046:u002",
+            "start": 6,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黄疑而实传音",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "黄疑而实传音",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黄疑而实传音"
+      },
+      {
+        "reference": "v04-c0116:p0047",
+        "length": 63,
+        "sha256": "1f28567a819e6414f8c9a42ab7240457324b5dc8be12f30d06c0f864e85e6328",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0047:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九实际用擅长推算解释请托",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际用擅长推算解释请托",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0047:u002",
+            "start": 7,
+            "end": 63,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九实际用擅长推算解释请托",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "实际言语",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九实际用擅长推算解释请托",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九实际用擅长推算解释请托"
+      },
+      {
+        "reference": "v04-c0116:p0048",
+        "length": 25,
+        "sha256": "1e6f07be71362bd373be1a5f7b5a4782a311b157c3f98f6af8f1a8cab3b4daae",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0048:u001",
+            "start": 0,
+            "end": 25,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "黄仍无法判断何九用意",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "黄仍无法判断何九用意",
+            "focalizer": "huang_taichong",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "黄仍无法判断何九用意"
+      },
+      {
+        "reference": "v04-c0116:p0049",
+        "length": 49,
+        "sha256": "35d2138771c6398bd58fc3eb093dd79406081d60b66269a8bd7906d6f0ef6971",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0049:u001",
+            "start": 0,
+            "end": 36,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花内觉旧毒手不擅推天机，心中有疑",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "百花内觉旧毒手不擅推天机，心中有疑",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0049:u002",
+            "start": 36,
+            "end": 49,
+            "kind": "inner_speech",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花内觉旧毒手不擅推天机，心中有疑",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "百花内觉旧毒手不擅推天机，心中有疑",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花内觉旧毒手不擅推天机，心中有疑"
+      },
+      {
+        "reference": "v04-c0116:p0050",
+        "length": 32,
+        "sha256": "9d3b119dbf4c453d465a575d44377bea7a4f661d06e754b7f81f5f57edbe95d8",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0050:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟疑被试，平和实结印",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟疑被试，平和实结印",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟疑被试，平和实结印"
+      },
+      {
+        "reference": "v04-c0116:p0051",
+        "length": 74,
+        "sha256": "da372a1d200a921821a9e7b6e0ee8e5915d102bd65313ee9a30591f25a00e9b3",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0051:u001",
+            "start": 0,
+            "end": 74,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟模拟唯我独尊佛陀相，维持庄严外相",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟模拟唯我独尊佛陀相，维持庄严外相",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟模拟唯我独尊佛陀相，维持庄严外相"
+      },
+      {
+        "reference": "v04-c0116:p0052",
+        "length": 33,
+        "sha256": "068ad7905d2e22b10d3c6a4a8c2da30a0d5b23c7b415bb6924747db16b35147b",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0052:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花婴宁惊疑毒手有这佛相",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "百花婴宁惊疑毒手有这佛相",
+            "focalizer": "v04c116_baihua_and_yingning",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0052:u002",
+            "start": 20,
+            "end": 33,
+            "kind": "inner_speech",
+            "speaker": "v04c116_baihua_and_yingning",
+            "surface_identity": "v04c116_baihua_and_yingning",
+            "text_context": "百花婴宁惊疑毒手有这佛相",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "百花婴宁惊疑毒手有这佛相",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花婴宁惊疑毒手有这佛相"
+      },
+      {
+        "reference": "v04-c0116:p0053",
+        "length": 29,
+        "sha256": "b4a8015fa3eebe7aa4644f49ed117cab97d9fa6dd8a1ffdee15dc8e2334b9590",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0053:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "v04c116_baihua_and_yingning",
+            "surface_identity": "v04c116_baihua_and_yingning",
+            "text_context": "两人再疑佛魔与新路",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "两人再疑佛魔与新路",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0053:u002",
+            "start": 11,
+            "end": 29,
+            "kind": "inner_speech",
+            "speaker": "v04c116_baihua_and_yingning",
+            "surface_identity": "v04c116_baihua_and_yingning",
+            "text_context": "两人再疑佛魔与新路",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "内心",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "两人再疑佛魔与新路",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "两人再疑佛魔与新路"
+      },
+      {
+        "reference": "v04-c0116:p0054",
+        "length": 26,
+        "sha256": "d8f7cbd8fd538c7caab6f72cccd7528f0f22b115da61092631f76e579812b39d",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0054:u001",
+            "start": 0,
+            "end": 26,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九点头，是否尽去疑心未知",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九点头，是否尽去疑心未知",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九点头，是否尽去疑心未知"
+      },
+      {
+        "reference": "v04-c0116:p0055",
+        "length": 35,
+        "sha256": "e446cc8e1b9cf01ce4af5960efed1bb79918f938592c62629dcda84571a55b44",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0055:u001",
+            "start": 0,
+            "end": 35,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟结合此前所见死因线实用玉虚神算",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟结合此前所见死因线实用玉虚神算",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟结合此前所见死因线实用玉虚神算"
+      },
+      {
+        "reference": "v04-c0116:p0056",
+        "length": 31,
+        "sha256": "5eed0e30e9ab6e5c59505a636e294bc57c081c6b36d6e751f5e6913b5e3b54e4",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0056:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟投入推演",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "何九挽留推衍云老死因",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟投入推演",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟投入推演"
+      },
+      {
+        "reference": "v04-c0116:p0057",
+        "length": 38,
+        "sha256": "55792f82720a209a81db2d0881f7d6a0b2930747224af3b9daa6be457e472a54",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0057:u001",
+            "start": 0,
+            "end": 38,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "模糊结果现，孟微惊",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "模糊结果现，孟微惊",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "模糊结果现，孟微惊"
+      },
+      {
+        "reference": "v04-c0116:p0058",
+        "length": 5,
+        "sha256": "70a8addcaa60cb03185e4182977c0cd4f6c0fb1199ecfa4ae87d3f6a3e386c86",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0058:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟实际脱口蓝血",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "实际言语",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实际脱口蓝血",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际脱口蓝血"
+      },
+      {
+        "reference": "v04-c0116:p0059",
+        "length": 44,
+        "sha256": "9bb14d9622471d4db86668a2299db1d808bf877a9cbcbcd8b8346edd2ef65f42",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0059:u001",
+            "start": 0,
+            "end": 44,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟由蓝血联想到以未成形定海珠购丹的九指人",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟由蓝血联想到以未成形定海珠购丹的九指人",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟由蓝血联想到以未成形定海珠购丹的九指人"
+      },
+      {
+        "reference": "v04-c0116:p0060",
+        "length": 20,
+        "sha256": "f8503ac5112597fe88c1dc838483f75269372b6d3af4b9728a4f14748bd7b52b",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0060:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内疑此人与云老发生何事",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内疑此人与云老发生何事",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内疑此人与云老发生何事"
+      },
+      {
+        "reference": "v04-c0116:p0061",
+        "length": 22,
+        "sha256": "42cb1b61c19f81a961b72971ca115851a76ebe7f21f1631a391d3b77bad214ee",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0061:u001",
+            "start": 0,
+            "end": 6,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c116_sword_estate_trio",
+            "surface_identity": "v04c116_sword_estate_trio",
+            "text_context": "何九何休黄太冲同声复念蓝血",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "何九何休黄太冲异口同声",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九何休黄太冲同声复念蓝血",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0061:u002",
+            "start": 6,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九何休黄太冲同声复念蓝血",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九何休黄太冲同声复念蓝血",
+            "focalizer": "v04c116_sword_estate_trio",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九何休黄太冲同声复念蓝血"
+      },
+      {
+        "reference": "v04-c0116:p0062",
+        "length": 95,
+        "sha256": "d47507785887e764af9789347c5927d8d289c6f8b75ada8d499b8420d537afbd",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0062:u001",
+            "start": 0,
+            "end": 95,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟看何九反应异常，仍不知秘密",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟看何九反应异常，仍不知秘密",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟看何九反应异常，仍不知秘密"
+      },
+      {
+        "reference": "v04-c0116:p0063",
+        "length": 63,
+        "sha256": "ef455dc3fdfda0bb694eb4d80bc55de36a1e2bdd98b3a412cdbca26170a60ad7",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0063:u001",
+            "start": 0,
+            "end": 21,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内惊只三人反应而旁人大多茫然",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内惊只三人反应而旁人大多茫然",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0063:u002",
+            "start": 21,
+            "end": 63,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内惊只三人反应而旁人大多茫然",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内惊只三人反应而旁人大多茫然",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内惊只三人反应而旁人大多茫然"
+      },
+      {
+        "reference": "v04-c0116:p0064",
+        "length": 58,
+        "sha256": "b60d7a8436d2a0aff34501b8b6e79b4e18ff2f2b9c321c3e11b8615df3fe4822",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0064:u001",
+            "start": 0,
+            "end": 32,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟疑秘密是否仅剑庄高层所知，又想阮三爷也在意",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟疑秘密是否仅剑庄高层所知，又想阮三爷也在意",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0064:u002",
+            "start": 32,
+            "end": 41,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟疑秘密是否仅剑庄高层所知，又想阮三爷也在意",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟疑秘密是否仅剑庄高层所知，又想阮三爷也在意",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0064:u003",
+            "start": 41,
+            "end": 58,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟疑秘密是否仅剑庄高层所知，又想阮三爷也在意",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟疑秘密是否仅剑庄高层所知，又想阮三爷也在意",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟疑秘密是否仅剑庄高层所知，又想阮三爷也在意"
+      },
+      {
+        "reference": "v04-c0116:p0065",
+        "length": 34,
+        "sha256": "ce999de197c807a45522ea5e869397e8cf0b98461518987a381116fa8f4048d8",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0065:u001",
+            "start": 0,
+            "end": 15,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九收神实际问别的收获",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九收神实际问别的收获",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0065:u002",
+            "start": 15,
+            "end": 34,
+            "kind": "spoken_dialogue",
+            "speaker": "he_jiu",
+            "surface_identity": "少庄主何九",
+            "text_context": "何九收神实际问别的收获",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "实际言语",
+            "embodiment": "由豪迈转震惊思索，随即收起",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九收神实际问别的收获",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九收神实际问别的收获"
+      },
+      {
+        "reference": "v04-c0116:p0066",
+        "length": 12,
+        "sha256": "1e365fcf7e2db280b8af0713833d05cafe1db2a7fe7732d7b89b45dc1fe94975",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0066:u001",
+            "start": 0,
+            "end": 12,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九没有继续谈蓝血",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九没有继续谈蓝血",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九没有继续谈蓝血"
+      },
+      {
+        "reference": "v04-c0116:p0067",
+        "length": 11,
+        "sha256": "a94eced5f07f843573ed0c419a77584252e57ccae9d6f0718194a6b5d6ba431b",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0067:u001",
+            "start": 0,
+            "end": 5,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟实际答没有",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "实际言语",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实际答没有",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0067:u002",
+            "start": 5,
+            "end": 11,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际答没有",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实际答没有",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际答没有"
+      },
+      {
+        "reference": "v04-c0116:p0068",
+        "length": 43,
+        "sha256": "427f9f565f55566a0a2176a4bc974e18b0cb6a5a38c2c5c39cba6963d315ceb6",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0068:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "何九吊唁后实际入住云府，原因未明",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "蓝血使剑庄三人异样",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "何九吊唁后实际入住云府，原因未明",
+            "focalizer": "he_jiu",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "何九吊唁后实际入住云府，原因未明"
+      },
+      {
+        "reference": "v04-c0116:p0069",
+        "length": 2,
+        "sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0069:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "原省略号，换客栈院",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "原省略号，换客栈院",
+            "focalizer": "external_or_narrator",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "原省略号，换客栈院"
+      },
+      {
+        "reference": "v04-c0116:p0070",
+        "length": 61,
+        "sha256": "f2fa23a96237d9ef7a2f33fa2a7db53dc645dbb9b346c9e92fc0873f88f581a7",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0070:u001",
+            "start": 0,
+            "end": 24,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "百花开口以佛魔相比，底本潜力岛照录",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "百花开口以佛魔相比，底本潜力岛照录",
+            "focalizer": "madam_baihua",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0070:u002",
+            "start": 24,
+            "end": 61,
+            "kind": "spoken_dialogue",
+            "speaker": "madam_baihua",
+            "surface_identity": "madam_baihua",
+            "text_context": "百花开口以佛魔相比，底本潜力岛照录",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "百花开口以佛魔相比，底本潜力岛照录",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "百花开口以佛魔相比，底本潜力岛照录"
+      },
+      {
+        "reference": "v04-c0116:p0071",
+        "length": 66,
+        "sha256": "74eb61aad72cbee76320ecedbf7f01eb5e204d571a296c8b224f45aefc753650",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0071:u001",
+            "start": 0,
+            "end": 20,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际告诉万手婴宁先出城弃法证外观，再拟回祝府",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实际告诉万手婴宁先出城弃法证外观，再拟回祝府",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0071:u002",
+            "start": 20,
+            "end": 66,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟实际告诉万手婴宁先出城弃法证外观，再拟回祝府",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "实际言语",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实际告诉万手婴宁先出城弃法证外观，再拟回祝府",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际告诉万手婴宁先出城弃法证外观，再拟回祝府"
+      },
+      {
+        "reference": "v04-c0116:p0072",
+        "length": 18,
+        "sha256": "ac1bc7a44ee00d3038c89733d259f64a2cd5dd9bbf5567d7a047f7968df93af5",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0072:u001",
+            "start": 0,
+            "end": 13,
+            "kind": "spoken_dialogue",
+            "speaker": "ying_ning",
+            "surface_identity": "ying_ning",
+            "text_context": "婴宁实际称赞谨慎",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "实际言语",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "婴宁实际称赞谨慎",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0072:u002",
+            "start": 13,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "婴宁实际称赞谨慎",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "婴宁实际称赞谨慎",
+            "focalizer": "ying_ning",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "婴宁实际称赞谨慎"
+      },
+      {
+        "reference": "v04-c0116:p0073",
+        "length": 43,
+        "sha256": "6fa6d90078e15d3180cdc7a5bc42a4c0d7cdbf6a7a7236b2c70912b80dd97b20",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0073:u001",
+            "start": 0,
+            "end": 43,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实到山溪去乔装、换回青衫，尚未长发",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实到山溪去乔装、换回青衫，尚未长发",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实到山溪去乔装、换回青衫，尚未长发"
+      },
+      {
+        "reference": "v04-c0116:p0074",
+        "length": 31,
+        "sha256": "8e6d64af96514d247e69365773871be436639211206c9e956e2251a05470f9e8",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0074:u001",
+            "start": 0,
+            "end": 31,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "自觉四周无人跟踪，未说明实无人",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "自觉四周无人跟踪，未说明实无人",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "自觉四周无人跟踪，未说明实无人"
+      },
+      {
+        "reference": "v04-c0116:p0075",
+        "length": 22,
+        "sha256": "d5646e442a6d6393a7f8f07ac272673df4a827f6a1222dd4a40e51b661634f99",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0075:u001",
+            "start": 0,
+            "end": 22,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "未长头发时听见嗤笑",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "未长头发时听见嗤笑",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "未长头发时听见嗤笑"
+      },
+      {
+        "reference": "v04-c0116:p0076",
+        "length": 16,
+        "sha256": "0e0f61619715fe85210d0bc168007bb7dcdb7335e93fdb30409cbf29111c6a5b",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0076:u001",
+            "start": 0,
+            "end": 16,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c116_unnamed_blue_robed_man",
+            "surface_identity": "溪水凝出的未名蓝袍人，仅识毒手外观",
+            "text_context": "来人实际辨法证是毒手所扮，未辨更深身份",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "实际言语",
+            "embodiment": "现身讥讽，未交手",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "来人实际辨法证是毒手所扮，未辨更深身份",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "来人实际辨法证是毒手所扮，未辨更深身份"
+      },
+      {
+        "reference": "v04-c0116:p0077",
+        "length": 62,
+        "sha256": "c3f92d32180f3c57a8a0fe9594cfe176ac4cdb3f150847736dccec9273374026",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0077:u001",
+            "start": 0,
+            "end": 2,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内惊，实见溪水凝成未名蓝袍男子",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内惊，实见溪水凝成未名蓝袍男子",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0077:u002",
+            "start": 2,
+            "end": 62,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内惊，实见溪水凝成未名蓝袍男子",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内惊，实见溪水凝成未名蓝袍男子",
+            "focalizer": "v04c116_unnamed_blue_robed_man",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内惊，实见溪水凝成未名蓝袍男子"
+      },
+      {
+        "reference": "v04-c0116:p0078",
+        "length": 4,
+        "sha256": "1c266d2cefec2cab1d6c9e32a91ce2226235c02754443690a122979999937dc4",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0078:u001",
+            "start": 0,
+            "end": 4,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内猜蓝血人",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内猜蓝血人",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内猜蓝血人"
+      },
+      {
+        "reference": "v04-c0116:p0079",
+        "length": 11,
+        "sha256": "818a3ac2b9f47c587c3e92beda3f7aa8356ad7dd66e92c93ca4f5bdee05e484d",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0079:u001",
+            "start": 0,
+            "end": 11,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内疑原先为何察不出异",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内疑原先为何察不出异",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内疑原先为何察不出异"
+      },
+      {
+        "reference": "v04-c0116:p0080",
+        "length": 10,
+        "sha256": "7a8e2e99b69bdbeaf6eea53f66f0c57f8f79ebdacb57fceed80698d893f7533c",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0080:u001",
+            "start": 0,
+            "end": 10,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内猜可化普通水，未全证",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内猜可化普通水，未全证",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内猜可化普通水，未全证"
+      },
+      {
+        "reference": "v04-c0116:p0081",
+        "length": 33,
+        "sha256": "f159fdf84b229f6ff2df3513f78d9e7ff253e66388357a0774fb852ede1d8440",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0081:u001",
+            "start": 0,
+            "end": 23,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c116_unnamed_blue_robed_man",
+            "surface_identity": "溪水凝出的未名蓝袍人，仅识毒手外观",
+            "text_context": "男子实际讥问，周围水流泛起",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "实际言语",
+            "embodiment": "现身讥讽，未交手",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "男子实际讥问，周围水流泛起",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0081:u002",
+            "start": 23,
+            "end": 33,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "男子实际讥问，周围水流泛起",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "男子实际讥问，周围水流泛起",
+            "focalizer": "v04c116_unnamed_blue_robed_man",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "男子实际讥问，周围水流泛起"
+      },
+      {
+        "reference": "v04-c0116:p0082",
+        "length": 68,
+        "sha256": "ce757ed8a05a6f7050ddf52439a539d92e37d467ddad52423539efeab7ecc8bb",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0082:u001",
+            "start": 0,
+            "end": 7,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟内列自己的真实身份层级，对方仅识毒手",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内列自己的真实身份层级，对方仅识毒手",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0082:u002",
+            "start": 7,
+            "end": 12,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内列自己的真实身份层级，对方仅识毒手",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内列自己的真实身份层级，对方仅识毒手",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0082:u003",
+            "start": 12,
+            "end": 68,
+            "kind": "inner_speech",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟内列自己的真实身份层级，对方仅识毒手",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "内心",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟内列自己的真实身份层级，对方仅识毒手",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟内列自己的真实身份层级，对方仅识毒手"
+      },
+      {
+        "reference": "v04-c0116:p0083",
+        "length": 35,
+        "sha256": "2231cc5a096b66ab62523125144b1208ec6140ec636df6d9dd980baeb12328bf",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0083:u001",
+            "start": 0,
+            "end": 18,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "孟实际反问为何不先偷袭",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实际反问为何不先偷袭",
+            "focalizer": "meng_qi",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0083:u002",
+            "start": 18,
+            "end": 27,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟实际反问为何不先偷袭",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "实际言语",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实际反问为何不先偷袭",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0083:u003",
+            "start": 27,
+            "end": 35,
+            "kind": "spoken_dialogue",
+            "speaker": "meng_qi",
+            "surface_identity": "堂内法证外观，溪边去伪装回毒手外观",
+            "text_context": "孟实际反问为何不先偷袭",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "实际言语",
+            "embodiment": "紧张而冷静，以因果气机慑人；推衍后略失声",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "孟实际反问为何不先偷袭",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "孟实际反问为何不先偷袭"
+      },
+      {
+        "reference": "v04-c0116:p0084",
+        "length": 84,
+        "sha256": "d45b686d692f944dc68216672bbec0c6b8f839b6f6b5ebb3bd9d376daa76eefe",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0084:u001",
+            "start": 0,
+            "end": 8,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "蓝袍人称一直跟着孟并估不过天梯，自言无需援手",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "蓝袍人称一直跟着孟并估不过天梯，自言无需援手",
+            "focalizer": "v04c116_unnamed_blue_robed_man",
+            "certainty": "editorial_choice_pending_recording_review"
+          },
+          {
+            "unit_id": "v04-c0116:p0084:u002",
+            "start": 8,
+            "end": 84,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c116_unnamed_blue_robed_man",
+            "surface_identity": "溪水凝出的未名蓝袍人，仅识毒手外观",
+            "text_context": "蓝袍人称一直跟着孟并估不过天梯，自言无需援手",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "实际言语",
+            "embodiment": "现身讥讽，未交手",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "蓝袍人称一直跟着孟并估不过天梯，自言无需援手",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "蓝袍人称一直跟着孟并估不过天梯，自言无需援手"
+      },
+      {
+        "reference": "v04-c0116:p0085",
+        "length": 14,
+        "sha256": "72ffa577360ecec6fe3ade818888e98339d732ee32349cbf06af1bc41b3fa0ae",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0085:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "narration",
+            "speaker": "narrator",
+            "surface_identity": "narrator",
+            "text_context": "男子神态变为讥讽",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "旁白",
+            "embodiment": "",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "男子神态变为讥讽",
+            "focalizer": "v04c116_unnamed_blue_robed_man",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "男子神态变为讥讽"
+      },
+      {
+        "reference": "v04-c0116:p0086",
+        "length": 14,
+        "sha256": "eb369f42facb9a5e36f73594f74248212943d9b52af3cfabd54359ac4909df8d",
+        "units": [
+          {
+            "unit_id": "v04-c0116:p0086:u001",
+            "start": 0,
+            "end": 14,
+            "kind": "spoken_dialogue",
+            "speaker": "v04c116_unnamed_blue_robed_man",
+            "surface_identity": "溪水凝出的未名蓝袍人，仅识毒手外观",
+            "text_context": "男子实际反问何须偷袭，尚未交手",
+            "world_context": "第四卷本界：灵堂截探、玉虚神算出蓝血、溪边见蓝袍人",
+            "stage_context": "山溪去僧相，蓝袍人现身",
+            "channel": "实际言语",
+            "embodiment": "现身讥讽，未交手",
+            "vow_friendship_and_loot_boundary": "孟未用轮回符或仙迹暗号，沾因果未出刀。蓝血是推衍所得线索，未证死因。溪边蓝袍人未辨孟真实身份。",
+            "fact_status": "按逐段事实注",
+            "information_and_time_boundary": "三名剑庄人物因蓝血露异色，意义仍未说。蓝袍人判断毒手修为低、先前仅靠线索，这都是他的判断。",
+            "knowledge_boundary": "男子实际反问何须偷袭，尚未交手",
+            "certainty": "editorial_choice_pending_recording_review"
+          }
+        ],
+        "open_question": "男子实际反问何须偷袭，尚未交手"
+      }
+    ]
+  },
+  "supplemental_director_guidance": {
+    "review_id": "review-backfill-v04-0116",
+    "method": "new_full_reread_manual_attribution_backfill",
+    "original_stage_id": "V04-S14",
+    "original_scenes_preserved": true,
+    "scenes": [
+      {
+        "paragraph_start": 1,
+        "paragraph_end": 23,
+        "label": "黄以目探，孟暗运沾因果慑止",
+        "direction": "将设想中的轮回符、暗号仅作短暂心念。垂帘后缩去灵堂余物，星线交映给孟所见，虚响作为心象。黄的危险预感逐步上升，实际收目，未发生实际刀击。 证据 v04-c0116:p0001–p0023。"
+      },
+      {
+        "paragraph_start": 24,
+        "paragraph_end": 37,
+        "label": "东海剑庄暗问，退堂后孟停心法",
+        "direction": "让何九、黄太冲及合声回答产生偏私的听感；乌只说没有熟悉之感。何九拾回镇定去吊唁，孟等继续退，停心法后才给酥软头晕。 证据 v04-c0116:p0024–p0037。"
+      },
+      {
+        "paragraph_start": 38,
+        "paragraph_end": 56,
+        "label": "何九唤法证回身，实请推衍",
+        "direction": "从背后唤留步，孟瞳缩后稳住佛号和表情。云家众人私猜寻遗命；黄的私问与何九公开答话分开。孟手印与拟佛像过后，才暗用玉虚神算。 证据 v04-c0116:p0038–p0056。"
+      },
+      {
+        "paragraph_start": 57,
+        "paragraph_end": 68,
+        "label": "孟脱口蓝血，剑庄三人一同复念",
+        "direction": "孟微惊先说蓝血，三位剑庄人物齐声，其他人仍不懂。何九眉皱多表情，再迅速收神问还有什么。孟答没有。何九改去云府留驻，动机不先揭。 证据 v04-c0116:p0057–p0068。"
+      },
+      {
+        "paragraph_start": 70,
+        "paragraph_end": 86,
+        "label": "山溪洗去法证相，蓝袍人出现",
+        "direction": "百花赞叹后让孟明确将换回外观。溪边先给青衫，头发还未长出便听嗤笑；溪水转蓝凝成人形。孟的多重身份仅在自己心里闪过，二人话到无需偷袭时停。 证据 v04-c0116:p0070–p0086。"
+      }
+    ],
+    "knowledge_rule": "沾因果只用心法、气机，未出刀；轮回符与暗号未动。何九挽留和剑庄三人对蓝血的反应各有时点，真实用意和蓝血含义仍未解释。蓝袍者只辨法证为毒手，对天梯的说法属他自己的估计。"
+  }
 }

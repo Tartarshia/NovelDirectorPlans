@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [沾因果气机慑住黄太冲，未出刀](early-v04-Causal-pressure-ends-Huangs-glance.md) | 第四卷第116章历史归属回补 |
+| [推衍得蓝血，东海剑庄三人同声](early-v04-Blue-blood-and-the-sword-estate-reaction.md) | 第四卷第116章历史归属回补 |
+| [溪边人认出法证是毒手外观，尚无交手](early-v04-Blue-robed-stranger-sees-through-Fazheng.md) | 第四卷第116章历史归属回补 |
 | [潜离岛万手是真使者，孟扮法证大师](early-v04-Wan-Shou-introduces-the-monk-cover-Fazheng.md) | 第四卷第115章历史归属回补 |
 | [沾因果确认云老已死，死因尚未读出](early-v04-Yun-elder-confirmed-dead-by-causal-lines.md) | 第四卷第115章历史归属回补 |
 | [剑庄到灵堂，何九觉熟悉，黄太冲欲暗探](early-v04-He-Jiu-and-Huang-sense-the-funeral-monk.md) | 第四卷第115章历史归属回补 |
