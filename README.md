@@ -2,11 +2,17 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**当前为进行中草案：顺序精读至番外第12篇，1410 / 1410 个目录条目，约442.6万字；20条原缺回执已有新复读材料补足，原缺名单保留。正文八卷和番外均已形成分卷导演草案，逐段归属回补与全书连续性终审仍待完成。** 最新状态以 [progress.json](books/yishizhizun/progress.json) 为准。文档包含已读范围剧透；历史记录不代表最终事实。
+**顺序精读、逐章分场和归属回补已覆盖全部 1,410 条。** 正文 1,397 章、番外 12 篇、作者感言 1 条。20 条历史原回执缺失已由新复读回执补足。全书终审进行中，状态见 [progress.json](books/yishizhizun/progress.json)。文档含全书剧透。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 
-## 阅读入口
+## 导演入口
+
+- [全书导演总纲](books/yishizhizun/reviews/full-book-director-guide.md)连接正文八卷、十二篇番外和逐章分场。
+- [主要角色连续性索引](books/yishizhizun/characters/full-book-continuity.md)连接全书人物变化和分卷角色阶段。
+- [角色阶段卡目录](books/yishizhizun/characters/README.md)查各人物证据、当场身份、身体和认知。
+
+## 逐章阅读记录
 
 - [第四卷归属回补：第120章](books/yishizhizun/reviews/review-backfill-v04-0120.md)：新全文复读71段116单元；归属已1410章、待0，可用复读回执待0。
 - [第四卷归属回补：第119章](books/yishizhizun/reviews/review-backfill-v04-0119.md)：新全文复读100段128单元；归属已1409章、待1，可用复读回执待0。
