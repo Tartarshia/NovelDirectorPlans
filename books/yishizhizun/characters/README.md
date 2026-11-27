@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [何休认元始暗记并回信](early-v04-He-Xiu-answers-the-Yuxu-marked-letter.md) | 第四卷第119章历史归属回补 |
+| [陈祥泄密被杀，莫闻声即遁](early-v04-Chen-Xiang-betrays-Wu-and-Mo-flees-at-a-sound.md) | 第四卷第119章历史归属回补 |
+| [阮承德灵堂奏琴，深蓝涌动](early-v04-Ruan-Chengdes-qin-brings-blue-water-to-the-surface.md) | 第四卷第119章历史归属回补 |
 | [何九述七支与被逐的无相剑蛊一脉](early-v04-He-Jiu-relates-seven-sword-estate-branches.md) | 第四卷第118章历史归属回补 |
 | [原有水蓝石收回，祝园塘中又得一枚](early-v04-Second-water-blue-stone-taken-at-Zhu-pond.md) | 第四卷第118章历史归属回补 |
 | [百花邀入门，孟疑素女道但仍待确认](early-v04-Baihua-invites-Poison-Hand-without-naming-the-school.md) | 第四卷第118章历史归属回补 |
