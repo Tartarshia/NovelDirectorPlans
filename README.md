@@ -1,6 +1,6 @@
 # 小说导演规划包
 
-独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
+独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。
 
 **顺序精读、逐章分场和归属回补已覆盖全部 1,410 条。** 正文 1,397 章、番外 12 篇、作者感言 1 条。20 条历史原回执缺失已由新复读回执补足。已完成[全书终审](books/yishizhizun/reviews/full-book-final-review.md)，状态见 [progress.json](books/yishizhizun/progress.json)。文档含全书剧透。
 
@@ -11,6 +11,16 @@
 - [全书导演总纲](books/yishizhizun/reviews/full-book-director-guide.md)连接正文八卷、十二篇番外和逐章分场。
 - [主要角色连续性索引](books/yishizhizun/characters/full-book-continuity.md)连接全书人物变化和分卷角色阶段。
 - [角色阶段卡目录](books/yishizhizun/characters/README.md)查各人物证据、当场身份、身体和认知。
+
+## Codex 的工作历程
+
+从仓库首个项目快照到全书终审，Git 记录横跨 **77 天**。2026 年 9 月 10 日的首个提交已经覆盖到第三卷第 265 章。2026 年 11 月 27 日的终审提交完成时，主分支累计 **1,553 次提交**。这些是仓库的记录跨度和提交数，首个提交之前已有阅读和编写工作。
+
+- **顺序精读。** 从第三卷中途的早期快照到番外第 12 篇，按批保存阅读回执、原文证据定位、角色判断和分场草案。[首个快照](https://github.com/Tartarshia/NovelDirectorPlans/releases/tag/draft-v03-c0265) · [读完全书时的草案](https://github.com/Tartarshia/NovelDirectorPlans/releases/tag/draft-v09-c0012)
+- **复读与回补。** 早期章节补齐说话人、内心、旁白和可疑归属。20 条早期历史回执缺失用新复读回执补足，原缺失照实记录。可对照[第二卷回补快照](https://github.com/Tartarshia/NovelDirectorPlans/releases/tag/draft-attribution-v02-c0065)与[逐章回补记录](books/yishizhizun/reviews/full-book-review-backlog.json)。
+- **全书终审。** 把跨卷人物状态、公开身份、知情边界和番外时点串起来。最终覆盖 **1,410 个条目、7,608 个分场**。[终审记录](books/yishizhizun/reviews/full-book-final-review.md) · [终审提交](https://github.com/Tartarshia/NovelDirectorPlans/commit/3d7b5d6f45ef089106fb10a4b671d85d86f235e5)
+
+[浏览全部提交](https://github.com/Tartarshia/NovelDirectorPlans/commits/main/) · [下载各阶段快照](https://github.com/Tartarshia/NovelDirectorPlans/releases)
 
 ## 逐章阅读记录
 
@@ -1423,7 +1433,7 @@
 - [第130–132章复核](books/yishizhizun/reviews/review-v04-0130-0132.md)：本轮新增256段、299个句内单元，观刀解债及出岛收束。
 - [第127–129章复核](books/yishizhizun/reviews/review-v04-0127-0129.md)：本轮按用户要求止于129章，新增203段、280个句内单元，1处传音歧义。
 - [最近六章补充复核](books/yishizhizun/reviews/review-v04-0121-0126.md)：435段、663个句内单元的归属，保留七处疑问；早期620条目的逐句归属仍待补。
-- [角色 wiki](books/yishizhizun/wiki.md)：人物、关系、身份揭示、阶段变化及原文证据。当前仍含连续增补记录，后续全书汇总会进一步整理。
+- [角色 wiki](books/yishizhizun/wiki.md)：人物、关系、身份揭示、阶段变化及原文证据。正文保留逐次增补的历史记录，跨卷概览可从主要角色连续性索引进入。
 - [分卷指导](books/yishizhizun/volumes)：卷内成长阶段、情绪与表演走向。
 - [章节导演草案](books/yishizhizun/chapter_direction)：视角、场景范围、节奏与归属提醒。
 - [身份事件](books/yishizhizun/identity-events.json) / [原文疑点](books/yishizhizun/source-issues.json)。
@@ -1433,6 +1443,8 @@
 这里只做导演规划，未生成音频，也不是已审核的逐句 TTS 输入。原书及相关权利归原权利人；本包不包含 EPUB、全书正文、音频、模型、密钥、个人路径或旧临时备份。文档可能有为分析保留的简短引文。
 
 ## 校验与下载
+
+[下载正式版 ZIP](https://github.com/Tartarshia/NovelDirectorPlans/releases/latest)。阅读导演稿可直接使用本仓库或下载包。
 
 需要 Python 3.10 或更高版本，无第三方依赖。
 
