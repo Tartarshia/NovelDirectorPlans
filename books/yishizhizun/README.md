@@ -16,11 +16,11 @@
 
 从仓库首个项目快照到全书终审，Git 记录横跨 **77 天**。2026 年 9 月 10 日的首个提交已经覆盖到第三卷第 265 章。2026 年 11 月 27 日的终审提交完成时，主分支累计 **1,553 次提交**。这些是仓库的记录跨度和提交数，首个提交之前已有阅读和编写工作。
 
-- **顺序精读。** 从第三卷中途的早期快照到番外第 12 篇，按批保存阅读回执、原文证据定位、角色判断和分场草案。[首个快照](https://github.com/Tartarshia/NovelDirectorPlans/releases/tag/draft-v03-c0265) · [读完全书时的草案](https://github.com/Tartarshia/NovelDirectorPlans/releases/tag/draft-v09-c0012)
-- **复读与回补。** 早期章节补齐说话人、内心、旁白和可疑归属。20 条早期历史回执缺失用新复读回执补足，原缺失照实记录。可对照[第二卷回补快照](https://github.com/Tartarshia/NovelDirectorPlans/releases/tag/draft-attribution-v02-c0065)与[逐章回补记录](reviews/full-book-review-backlog.json)。
+- **顺序精读。** 从第三卷中途的早期快照到番外第 12 篇，按批保存阅读回执、原文证据定位、角色判断和分场草案。[首个快照](https://github.com/Tartarshia/NovelDirectorPlans/tree/draft-v03-c0265) · [读完全书时的草案](https://github.com/Tartarshia/NovelDirectorPlans/tree/draft-v09-c0012)
+- **复读与回补。** 早期章节补齐说话人、内心、旁白和可疑归属。20 条早期历史回执缺失用新复读回执补足，原缺失照实记录。可对照[第二卷回补快照](https://github.com/Tartarshia/NovelDirectorPlans/tree/draft-attribution-v02-c0065)与[逐章回补记录](reviews/full-book-review-backlog.json)。
 - **全书终审。** 把跨卷人物状态、公开身份、知情边界和番外时点串起来。最终覆盖 **1,410 个条目、7,608 个分场**。[终审记录](reviews/full-book-final-review.md) · [终审提交](https://github.com/Tartarshia/NovelDirectorPlans/commit/3d7b5d6f45ef089106fb10a4b671d85d86f235e5)
 
-[浏览全部提交](https://github.com/Tartarshia/NovelDirectorPlans/commits/main/) · [下载各阶段快照](https://github.com/Tartarshia/NovelDirectorPlans/releases)
+[浏览全部提交](https://github.com/Tartarshia/NovelDirectorPlans/commits/main/) · [查看各阶段 Git 标签](https://github.com/Tartarshia/NovelDirectorPlans/tags)
 
 ## 阅读与复核记录
 
