@@ -6,6 +6,9 @@
 
 | 入口 | 重点 |
 | --- | --- |
+| [颜伯供述后，九指蓝血者灭口](early-v04-Yan-Bo-confesses-and-nine-fingered-blue-blood-silences-him.md) | 第四卷第120章历史归属回补 |
+| [乌横剑自报罗教叛门及圣女传法](early-v04-Wu-names-Luo-and-the-Saintesss-transmission.md) | 第四卷第120章历史归属回补 |
+| [乌横剑念词，魔痕脱落](early-v04-Wu-invokes-the-saint-and-the-mark-detaches.md) | 第四卷第120章历史归属回补 |
 | [何休认元始暗记并回信](early-v04-He-Xiu-answers-the-Yuxu-marked-letter.md) | 第四卷第119章历史归属回补 |
 | [陈祥泄密被杀，莫闻声即遁](early-v04-Chen-Xiang-betrays-Wu-and-Mo-flees-at-a-sound.md) | 第四卷第119章历史归属回补 |
 | [阮承德灵堂奏琴，深蓝涌动](early-v04-Ruan-Chengdes-qin-brings-blue-water-to-the-surface.md) | 第四卷第119章历史归属回补 |
