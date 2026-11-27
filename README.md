@@ -8,4 +8,8 @@
 | --- | --- | --- |
 | 《一世之尊》 | 爱潜水的乌贼 | [进入本书目录](books/yishizhizun/README.md) |
 
-[项目维护](WORKFLOW.md) · [版本发布](https://github.com/Tartarshia/NovelDirectorPlans/releases)
+[版本发布](https://github.com/Tartarshia/NovelDirectorPlans/releases)
+
+## 项目维护
+
+每本书在 [books/](books/) 下使用独立目录，维护说明从书籍首页进入。新增作品时，在上方书库加入入口。底本正文、音频和本地工作材料保存在工作目录。
