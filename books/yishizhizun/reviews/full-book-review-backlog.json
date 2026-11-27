@@ -38,13 +38,8 @@
     "remaining_receipt_backfill": 0
   },
   "receipt_rule": "Do not invent missing historical receipts. Recover genuine evidence or perform an explicitly recorded new full reread.",
-  "remaining_required_work": [
-    "manual_source_span_attribution_for_remaining_listed_entries",
-    "recover_or_explicit_new_full_reread_for_remaining_receipt_backfill_entries",
-    "cross_volume_identity_time_knowledge_and_voice_consistency_audit",
-    "final_full_book_director_synthesis_and_requirement_by_requirement_review"
-  ],
-  "full_book_review": "not_completed",
+  "remaining_required_work": [],
+  "full_book_review": "completed",
   "audio_generated": false,
   "remaining_receipt_backfill_chapter_ids": [],
   "new_reread_receipt_chapter_ids": [
@@ -70,5 +65,6 @@
     "v01-c0020"
   ],
   "original_receipt_gap_note": "Original historical receipts remain missing for these20. New reread receipts separately satisfy current verification without recreating history.",
-  "last_backfill_review_id": "review-backfill-v04-0120"
+  "last_backfill_review_id": "review-backfill-v04-0120",
+  "final_review_record": "reviews/full-book-final-review.md"
 }

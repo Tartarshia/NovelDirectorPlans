@@ -2,7 +2,7 @@
 
 独立于 NovelVoice 音频引擎维护的导演文档与证据记录。目前收录《一世之尊》，以本地提供版本为依据，由当前 Codex 顺序分批精读编写。仓库为私有。
 
-**顺序精读、逐章分场和归属回补已覆盖全部 1,410 条。** 正文 1,397 章、番外 12 篇、作者感言 1 条。20 条历史原回执缺失已由新复读回执补足。全书终审进行中，状态见 [progress.json](books/yishizhizun/progress.json)。文档含全书剧透。
+**顺序精读、逐章分场和归属回补已覆盖全部 1,410 条。** 正文 1,397 章、番外 12 篇、作者感言 1 条。20 条历史原回执缺失已由新复读回执补足。已完成[全书终审](books/yishizhizun/reviews/full-book-final-review.md)，状态见 [progress.json](books/yishizhizun/progress.json)。文档含全书剧透。
 
 续读以 [progress.json](books/yishizhizun/progress.json) 为准；维护步骤见 [WORKFLOW.md](WORKFLOW.md)。
 

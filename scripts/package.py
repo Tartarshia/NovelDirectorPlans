@@ -50,7 +50,7 @@ def export(source):
     files = sorted(p for p in DATA.rglob('*') if p.is_file())
     progress = json.loads((DATA/'progress.json').read_text(encoding='utf-8'))
     dump(ROOT/'manifest.json', {'schema_version':1,'package':'novel-director-plans',
-        'status':'in_progress','source_included':False,'through_chapter':progress['close_read_chapter_ids'][-1],
+        'status':progress['overall_status'],'source_included':False,'through_chapter':progress['close_read_chapter_ids'][-1],
         'read_entries':progress['close_read_count'],'source_sha256':book['source_sha256'],
         'files':{p.relative_to(ROOT).as_posix():digest(p) for p in files}})
     validate()
@@ -65,6 +65,7 @@ def validate():
     chapters={c['id']:c for c in index['chapters']}
     progress=json.loads((DATA/'progress.json').read_text(encoding='utf-8'))
     read=progress['close_read_chapter_ids']
+    assert manifest['status']==progress['overall_status']
     assert read==list(chapters)[:len(read)]
     assert len(read)==progress['close_read_count']==manifest['read_entries']
     assert progress['next_chapter_id']==list(chapters)[len(read)] if len(read)<len(chapters) else True

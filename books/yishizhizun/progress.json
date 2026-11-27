@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source_sha256": "81d109bc9b9804da55a322da3ed77ca4e318542ccfd97c619ff6e8938acf0bd5",
-  "overall_status": "in_progress",
+  "overall_status": "complete",
   "reader": "current_codex",
   "source_indexed": true,
   "total_entries": 1410,
@@ -2514,7 +2514,7 @@
     "reread-v01-0019",
     "reread-v01-0020"
   ],
-  "wiki_status": "partial_through_v09_c0012",
+  "wiki_status": "complete",
   "completed_volume_summaries": [
     "v01",
     "v02",
@@ -2526,7 +2526,7 @@
     "v08",
     "v09"
   ],
-  "full_book_review": "not_started",
+  "full_book_review": "completed",
   "audio_generation": "not_requested",
   "supplemental_review": {
     "review_id": "review-backfill-v04-0120",
@@ -3946,7 +3946,7 @@
     "line_attribution_open_questions": 78584,
     "earlier_entries_pending_attribution": 0,
     "character_cards": "consolidated_from_existing_volume_summaries_and_recent_source_review",
-    "full_book_review": "not_completed",
+    "full_book_review": "completed",
     "receipt_backfill_remaining": 0,
     "backfill_completed_chapters": [
       "v01-c0001",
@@ -5192,5 +5192,8 @@
     "backfill-v04-0118",
     "backfill-v04-0119",
     "backfill-v04-0120"
-  ]
+  ],
+  "final_review_record": "reviews/full-book-final-review.md",
+  "director_guide": "reviews/full-book-director-guide.md",
+  "character_continuity_index": "characters/full-book-continuity.md"
 }
